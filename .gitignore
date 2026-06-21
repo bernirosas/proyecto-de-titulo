@@ -9,3 +9,4 @@ vectors.zip/__pycache__/
 vectors.zip/__pycache__/*
 vectors.zip/__pycache__/
 .env
+.DS_Store
