@@ -287,17 +287,33 @@ def write_comparativo(ws, techs: list[str]) -> None:
             hibrido_p = f'=VLOOKUP("{hk}", Resumen!$A:$L, {col_p[k]}, FALSE)'
             del mg_col_letter, p_col_letter  # only for clarity
 
-            ws.cell(row=row, column=col, value=sparse_mg); col += 1
-            ws.cell(row=row, column=col, value=hibrido_mg); col += 1
-            ws.cell(row=row, column=col, value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}"); col += 1
-            ws.cell(row=row, column=col, value=sparse_p); col += 1
-            ws.cell(row=row, column=col, value=hibrido_p); col += 1
-            ws.cell(row=row, column=col, value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}"); col += 1
+            ws.cell(row=row, column=col, value=sparse_mg)
+            col += 1
+            ws.cell(row=row, column=col, value=hibrido_mg)
+            col += 1
+            ws.cell(
+                row=row,
+                column=col,
+                value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}",
+            )
+            col += 1
+            ws.cell(row=row, column=col, value=sparse_p)
+            col += 1
+            ws.cell(row=row, column=col, value=hibrido_p)
+            col += 1
+            ws.cell(
+                row=row,
+                column=col,
+                value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}",
+            )
+            col += 1
 
         sparse_lat = f'=VLOOKUP("{sk}", Resumen!$A:$L, {col_lat_p50}, FALSE)'
         hibrido_lat = f'=VLOOKUP("{hk}", Resumen!$A:$L, {col_lat_p50}, FALSE)'
-        ws.cell(row=row, column=col, value=sparse_lat); col += 1
-        ws.cell(row=row, column=col, value=hibrido_lat); col += 1
+        ws.cell(row=row, column=col, value=sparse_lat)
+        col += 1
+        ws.cell(row=row, column=col, value=hibrido_lat)
+        col += 1
         ws.cell(row=row, column=col, value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}")
 
         for c in range(1, len(headers) + 1):
