@@ -1,0 +1,8 @@
+# Dependencias específicas del pipeline de benchmarking (LLM-as-a-judge).
+# No forman parte de la imagen del backend ni del entorno de tests.
+# Instalar localmente solo cuando se vaya a correr la evaluación.
+
+google-generativeai>=0.8
+
+# Opcional: solo si se quiere incluir el baseline denso de Qdrant en el pool.
+# openai>=1.40

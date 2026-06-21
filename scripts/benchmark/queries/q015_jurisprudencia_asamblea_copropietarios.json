@@ -1,0 +1,5 @@
+{
+  "query_id": "q015",
+  "query_text": "Asamblea de copropietarios y reglamento de copropiedad en la jurisprudencia",
+  "notas": "Cubre Copropiedad / propiedad horizontal (ángulo civil/jurisprudencial: asamblea de copropietarios y reglamento de copropiedad). Candidata para mostrar discriminación entre técnicas (criterio 4 del README). Discrimina fuerte y confirma señal: las técnicas léxicas ganan (p1_bm25 1.90) y p1_splade es la peor (0.80) — el match léxico supera a la expansión semántica en jurisprudencia; el baseline_qdrant_bm25 no trae hits útiles en el top-10. Ganadora top-10 mean_grade: p1_bm25 (1.90). Distribución con muchos irrelevantes (4/9/8/13 en grados 3/2/1/0 sobre 34 chunks), sin parse errors (-1) ni correcciones manuales."
+}

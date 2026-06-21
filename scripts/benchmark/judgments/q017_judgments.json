@@ -1,0 +1,263 @@
+{
+  "query_id": "q017",
+  "query_text": "¿Cómo opera el crédito especial de IVA que tienen las empresas constructoras en la venta de viviendas habitacionales?",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:18Z",
+  "judgments": [
+    {
+      "chunk_uuid": "7ec90fb4-616e-5adf-b05c-92eb8e92b194",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica la modificación y limitación del crédito especial para empresas constructoras."
+    },
+    {
+      "chunk_uuid": "47e6ba01-2901-516f-8a76-fb75300f8375",
+      "relevance_grade": 2,
+      "justification": "Aborda la procedencia del crédito especial para empresas constructoras en la venta de inmuebles habitacionales con piscinas."
+    },
+    {
+      "chunk_uuid": "39b8ffae-1eed-5357-91fd-9d414a4d16a6",
+      "relevance_grade": 2,
+      "justification": "Detalla la aplicación del crédito especial para empresas constructoras en contratos de construcción de viviendas exentas de IVA."
+    },
+    {
+      "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+      "relevance_grade": 2,
+      "justification": "Consulta sobre la aplicación del crédito especial para empresas constructoras en la venta de viviendas a beneficiarios de subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "a3a807ec-ef93-5f1d-b6ec-1e53d5eacd2c",
+      "relevance_grade": 2,
+      "justification": "Explica la compatibilidad del crédito especial con el régimen de cambio de sujeto del IVA."
+    },
+    {
+      "chunk_uuid": "3c01d5cf-9b4d-5cec-8f79-a5a6f93f71c7",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica el derecho de las empresas constructoras a deducir un porcentaje del débito del IVA en la venta de viviendas."
+    },
+    {
+      "chunk_uuid": "a69ddf7f-2735-5cd6-be4e-a63bfe557d36",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación con IVA de servicios relacionados con proyectos habitacionales, no el crédito especial."
+    },
+    {
+      "chunk_uuid": "7e3d951c-006c-5ce5-aae8-ec343dd28d5f",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla el crédito especial para constructoras en ventas exentas de IVA por subsidios habitacionales."
+    },
+    {
+      "chunk_uuid": "f06fb844-2c8c-5cea-bc21-06c19c31254f",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda el crédito especial para constructoras en viviendas industrializadas financiadas con subsidio, detallando porcentajes y requisitos."
+    },
+    {
+      "chunk_uuid": "0f71d1a0-27d2-55a7-bc59-c04d47a0346f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la exención de IVA para ventas y contratos financiados con subsidios, no en el crédito especial de constructoras."
+    },
+    {
+      "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+      "relevance_grade": 3,
+      "justification": "Explica el crédito especial para empresas constructoras, su aplicación en ventas gravadas y exentas, y los requisitos de construcción."
+    },
+    {
+      "chunk_uuid": "8ffa16d3-9bf1-53ab-a18f-a011f63c9487",
+      "relevance_grade": 2,
+      "justification": "Aclara requisitos del crédito especial, como la construcción por la propia empresa, y discute la aplicabilidad a contratos parciales."
+    },
+    {
+      "chunk_uuid": "fbb4f865-e9c9-5a42-8440-1c21f721f9d7",
+      "relevance_grade": 2,
+      "justification": "Aborda la procedencia del crédito especial en casos de término de giro y define qué se considera venta para efectos del crédito."
+    },
+    {
+      "chunk_uuid": "07437535-a678-54f4-87db-8bab7fcc4c46",
+      "relevance_grade": 1,
+      "justification": "Discute la exención de IVA en ventas con subsidio habitacional y la aplicación de resoluciones especiales para crédito fiscal."
+    },
+    {
+      "chunk_uuid": "13831c2b-1e24-55f9-b5bf-ae4d08e373fe",
+      "relevance_grade": 2,
+      "justification": "Describe la modificación legal que establece el crédito especial para empresas constructoras y su imputación."
+    },
+    {
+      "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica la procedencia y aplicación del crédito especial para empresas constructoras en la venta de viviendas con subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "4c038c27-a205-5f78-b2e0-68280f0f3722",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la afectación con IVA de membresías de plataformas digitales, no sobre el crédito especial de IVA para constructoras."
+    },
+    {
+      "chunk_uuid": "1b5afbac-2029-5f88-bea4-87d926f8dc56",
+      "relevance_grade": 2,
+      "justification": "Esta circular detalla el manejo del crédito especial de IVA para constructoras en proyectos habitacionales y sus ajustes."
+    },
+    {
+      "chunk_uuid": "4dbd16b6-e1e7-5680-85fa-99fea8a1c2cb",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza la improcedencia del crédito especial para empresas inmobiliarias y su cesión a constructoras."
+    },
+    {
+      "chunk_uuid": "226c8489-9b6a-53fd-a650-e7126fc83d50",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la procedencia del crédito especial para empresas constructoras respecto a contribuyentes acogidos a un régimen específico de la LIR."
+    },
+    {
+      "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+      "relevance_grade": 3,
+      "justification": "Explica cómo opera el crédito especial de IVA para empresas constructoras en la venta de viviendas, incluyendo un ejemplo detallado."
+    },
+    {
+      "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+      "relevance_grade": 2,
+      "justification": "Aborda la consulta sobre la recuperación del IVA crédito fiscal soportado en la construcción de viviendas financiadas con subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+      "relevance_grade": 2,
+      "justification": "Analiza el crédito especial de empresa constructora en ventas exentas de IVA por subsidios habitacionales y su afectación."
+    },
+    {
+      "chunk_uuid": "37dec5c6-b502-5bec-8401-18ddff01ce88",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la habitualidad en la venta de bienes y la tributación de plataformas digitales, no sobre el crédito especial de IVA."
+    },
+    {
+      "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+      "relevance_grade": 2,
+      "justification": "Explica la exención de IVA en ventas con subsidio y la imposibilidad de usar el crédito especial de constructora en esos casos."
+    },
+    {
+      "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica la exención de IVA en la venta de viviendas y el crédito especial para constructoras."
+    },
+    {
+      "chunk_uuid": "f41b90cb-8233-569b-bc84-7c686d19daab",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere a un crédito tributario para empresas constructoras por instalación de sistemas solares térmicos, no al crédito especial de IVA."
+    },
+    {
+      "chunk_uuid": "ad349929-ff9a-5496-ac1e-596f7c650ddd",
+      "relevance_grade": 2,
+      "justification": "Este oficio explica la exención de IVA en contratos de construcción para beneficiarios de subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "2232db93-2db6-5f40-b87b-902d318002b9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la exención de IVA en ventas y contratos de construcción para beneficiarios de subsidios habitacionales."
+    },
+    {
+      "chunk_uuid": "1a08d008-1825-5596-9d96-611baf433e59",
+      "relevance_grade": 3,
+      "justification": "Este oficio menciona el crédito especial para constructoras en operaciones exentas de IVA y subsidios habitacionales."
+    },
+    {
+      "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+      "relevance_grade": 3,
+      "justification": "Explica detalladamente cómo opera el crédito especial para empresas constructoras en ventas exentas de IVA a beneficiarios de subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "22773303-7e16-5648-9f7e-95f71c4ad439",
+      "relevance_grade": 2,
+      "justification": "Menciona el crédito especial de las empresas constructoras y su limitación, además de otras medidas que disminuyen la carga del IVA."
+    },
+    {
+      "chunk_uuid": "d975e1a1-5e41-5f5c-9fc7-eaa71d57bd38",
+      "relevance_grade": 3,
+      "justification": "Detalla la aplicación del crédito especial para empresas constructoras en contratos de construcción exentos de IVA y su declaración."
+    },
+    {
+      "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+      "relevance_grade": 3,
+      "justification": "Explica el crédito especial para empresas constructoras en ventas exentas de IVA a beneficiarios de subsidio habitacional y su aplicación."
+    },
+    {
+      "chunk_uuid": "f22c5516-9549-5eea-87c7-852a3f3952d9",
+      "relevance_grade": 2,
+      "justification": "Presenta un cuadro resumen de situaciones para empresas constructoras, incluyendo el crédito especial del D.L. 910 para viviendas."
+    },
+    {
+      "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica el crédito especial de IVA para empresas constructoras y su relación con subsidios habitacionales."
+    },
+    {
+      "chunk_uuid": "93138308-a21b-5f1b-80b8-5a024e93188e",
+      "relevance_grade": 3,
+      "justification": "Detalla la aplicación gradual del crédito especial de IVA y su monto, incluyendo viviendas con subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "360456e5-3b6b-50e2-bb6c-1fc8210d3ce0",
+      "relevance_grade": 2,
+      "justification": "Aclara la exigencia de que las viviendas sean 'por ellas construidas' para acceder al beneficio del crédito especial de IVA."
+    },
+    {
+      "chunk_uuid": "72e5dcc4-ce8c-59fb-b4be-1c2e3cc0631a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre un crédito tributario diferente, relacionado con la instalación de sistemas solares térmicos."
+    },
+    {
+      "chunk_uuid": "252fead0-dde5-50df-8a60-d406c4cee920",
+      "relevance_grade": 2,
+      "justification": "Analiza la procedencia del crédito especial de IVA en contratos que finalizan construcciones iniciadas por terceros."
+    },
+    {
+      "chunk_uuid": "40520d21-47ca-5664-a047-e7d863525cf5",
+      "relevance_grade": 3,
+      "justification": "El fragmento define el crédito especial del artículo 21° del D.L. N° 910 y su aplicación en la venta de inmuebles habitacionales."
+    },
+    {
+      "chunk_uuid": "8763d0c1-ad19-5e27-950e-5aeaf93eed44",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre modelos de negocio de intercambio y no aborda el crédito especial de IVA para constructoras."
+    },
+    {
+      "chunk_uuid": "a4537a7f-ade1-5db3-8594-82f527aaaa6d",
+      "relevance_grade": 3,
+      "justification": "El fragmento explica el crédito especial de IVA para empresas constructoras, detallando sus topes y condiciones para viviendas y dependencias."
+    },
+    {
+      "chunk_uuid": "7159efc9-c072-55d2-9a8c-317b1498acfe",
+      "relevance_grade": 2,
+      "justification": "Explica cómo las empresas constructoras pueden calcular el crédito fiscal del IVA de forma proporcional y cuándo se pueden recuperar créditos fiscales."
+    },
+    {
+      "chunk_uuid": "cf789f78-b312-5a41-92ee-396937ad271f",
+      "relevance_grade": 3,
+      "justification": "Detalla cómo facturar y declarar el crédito especial de IVA, incluyendo su aplicación en el formulario 29 y la imputación de remanentes."
+    },
+    {
+      "chunk_uuid": "5cd6238f-2640-5326-9de3-4a24712c19ce",
+      "relevance_grade": 2,
+      "justification": "Aborda la procedencia y mantenimiento del crédito especial de empresas constructoras (CEEC) tras modificaciones legales."
+    },
+    {
+      "chunk_uuid": "a946cf5e-f9bd-521b-a701-86c7ec83c64a",
+      "relevance_grade": 2,
+      "justification": "Explica la aplicación del crédito especial de empresas constructoras a obras de urbanización y las condiciones para su procedencia."
+    },
+    {
+      "chunk_uuid": "02c35160-fa3e-5457-afa8-ed1999911139",
+      "relevance_grade": 2,
+      "justification": "Detalla las condiciones y ajustes para el crédito especial de empresas constructoras en contratos de construcción de viviendas."
+    },
+    {
+      "chunk_uuid": "ab58189f-6111-5183-95e2-53232a4f70a9",
+      "relevance_grade": 2,
+      "justification": "Explica cómo se declara y utiliza el remanente del crédito especial para empresas constructoras."
+    },
+    {
+      "chunk_uuid": "395a03dc-b647-5e6e-bfc7-3f3630414da9",
+      "relevance_grade": 3,
+      "justification": "Detalla la aplicación del crédito especial en ventas exentas de IVA y su expresión en facturas."
+    },
+    {
+      "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+      "relevance_grade": 3,
+      "justification": "Describe el crédito especial para empresas constructoras en ventas exentas y su tope."
+    }
+  ]
+}

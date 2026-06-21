@@ -1,0 +1,213 @@
+{
+  "query_id": "q015",
+  "query_text": "Asamblea de copropietarios y reglamento de copropiedad en la jurisprudencia",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:16Z",
+  "judgments": [
+    {
+      "chunk_uuid": "491d9f3b-014a-52c9-bb62-b5e35cf16337",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la copropiedad en el contexto de la certificación de dividendos, no directamente la asamblea o reglamento."
+    },
+    {
+      "chunk_uuid": "00c68eca-19c1-5f0c-b0d7-c17746122e69",
+      "relevance_grade": 1,
+      "justification": "Menciona 'asamblea de aportantes' y 'reglamento interno' en un contexto financiero, no de copropiedad inmobiliaria."
+    },
+    {
+      "chunk_uuid": "e733cfc5-ad20-591b-8e5c-f2199cb1bc50",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es una sentencia tributaria que no menciona asambleas ni reglamentos de copropiedad."
+    },
+    {
+      "chunk_uuid": "f25f4cc3-ef8f-529f-bfd7-8c9c4c634886",
+      "relevance_grade": 1,
+      "justification": "Trata sobre adjudicaciones y copropiedad, pero no sobre asambleas ni reglamentos de copropiedad."
+    },
+    {
+      "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+      "relevance_grade": 2,
+      "justification": "Explica la naturaleza jurídica de la copropiedad inmobiliaria y su tratamiento tributario, pero no aborda asambleas ni reglamentos."
+    },
+    {
+      "chunk_uuid": "c9c68bb5-4edb-5c76-abe0-f87510924db5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla la formación y funcionamiento de asambleas en cooperativas de vivienda, tangencialmente relacionado con el concepto de asamblea."
+    },
+    {
+      "chunk_uuid": "74fcf25d-8d58-5cbe-a6ad-ffb0daf285da",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la modificación de formularios tributarios y no aborda la consulta sobre asambleas de copropietarios."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la modificación de formularios tributarios y no aborda la consulta sobre asambleas de copropietarios."
+    },
+    {
+      "chunk_uuid": "ae148832-c118-52ba-a01a-322eca7ef715",
+      "relevance_grade": 3,
+      "justification": "Este fragmento de jurisprudencia menciona explícitamente la 'Asamblea de copropietarios' en el contexto de permisos de obra y normativas urbanísticas."
+    },
+    {
+      "chunk_uuid": "766edb1e-3268-58b1-9ad6-7ce266a9c023",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la determinación del capital propio de sociedades y no aborda la consulta sobre asambleas de copropietarios."
+    },
+    {
+      "chunk_uuid": "3dd58a4c-696c-5c76-92b8-fa6c1147cda9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la representación del Servicio en asambleas de copropietarios, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la modificación de formularios tributarios y no aborda la consulta sobre asambleas ni reglamentos de copropiedad."
+    },
+    {
+      "chunk_uuid": "ed4c5e9d-a990-587a-8ea9-fd0fbdc0d42e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en tributación de arriendos y elusión fiscal, sin relación directa con asambleas o reglamentos de copropiedad."
+    },
+    {
+      "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica el fondo de reserva y menciona la asamblea de copropietarios y el reglamento interno, siendo altamente relevante."
+    },
+    {
+      "chunk_uuid": "a6a2b5f5-2d21-544d-bc9b-58b889a66953",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre franquicias tributarias para comunidades de copropietarios, sin abordar la consulta sobre asambleas o reglamentos."
+    },
+    {
+      "chunk_uuid": "75046dba-5730-55e6-9cee-4106c8bed583",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre citaciones a asambleas de aportantes, no directamente sobre asambleas de copropietarios o reglamentos."
+    },
+    {
+      "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+      "relevance_grade": 2,
+      "justification": "Este oficio menciona el reglamento de copropiedad en relación con multas y fondos de reserva, pero no aborda las asambleas."
+    },
+    {
+      "chunk_uuid": "23b7145b-cce2-54e9-b5b6-b2cca7992aa9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la carga de la prueba y la malicia en materia tributaria, sin relación con asambleas o reglamentos."
+    },
+    {
+      "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+      "relevance_grade": 3,
+      "justification": "Este oficio menciona la citación y coordinación de asambleas de copropietarios y el reglamento de copropiedad en el contexto de administración de edificios."
+    },
+    {
+      "chunk_uuid": "2ed0a414-625f-5380-909a-d184a673b201",
+      "relevance_grade": 2,
+      "justification": "Esta resolución instruye sobre la remisión de reglamentos de copropiedad, abordando un aspecto del reglamento pero no las asambleas."
+    },
+    {
+      "chunk_uuid": "aac9f238-640d-52db-bc5e-c8661802ff4f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre beneficios tributarios y la transformación de sociedades, no sobre asambleas de copropietarios ni reglamentos."
+    },
+    {
+      "chunk_uuid": "a14d4e57-c6a7-5049-a459-8672f59d48d4",
+      "relevance_grade": 0,
+      "justification": "El texto se enfoca en la tributación de enajenación de acciones y el concepto de habitualidad, sin relación con la consulta."
+    },
+    {
+      "chunk_uuid": "64ee0920-0809-5a0b-b06e-30499733893b",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda la inscripción de reglamentos de copropiedad y su relación con el pago de impuestos, siendo altamente relevante."
+    },
+    {
+      "chunk_uuid": "50c741e7-1e0c-59c9-b47f-7e9fa4094ae2",
+      "relevance_grade": 0,
+      "justification": "Este artículo de ley se refiere a asambleas extraordinarias de aportantes de fondos de inversión, no de copropiedad inmobiliaria."
+    },
+    {
+      "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+      "relevance_grade": 2,
+      "justification": "Esta circular detalla modificaciones a la Ley de Copropiedad Inmobiliaria y su impacto en el avalúo fiscal, siendo muy relevante."
+    },
+    {
+      "chunk_uuid": "9ada3975-8bc1-5111-b205-94293150ff50",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a actas y asambleas generales, pero en el contexto del Código de Comercio, no de copropiedad."
+    },
+    {
+      "chunk_uuid": "6a19e616-9675-577d-ae19-17e4660e4d0a",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la Ley N° 19.537 sobre copropiedad inmobiliaria y su relación con la LGUC, pero no aborda las asambleas ni reglamentos."
+    },
+    {
+      "chunk_uuid": "595c9074-3c7f-5cd2-8896-adca60314e75",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la remisión de reglamentos de copropiedad a este Servicio, pero se enfoca en el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "0f6ba08f-906c-5e6b-8f57-7b91fd2f288b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el arrendamiento de bienes comunes y la necesidad de acuerdo de asamblea de copropietarios según la Ley N° 21.442."
+    },
+    {
+      "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el reglamento de copropiedad en el contexto de la Ley N° 19.537 y el cálculo del avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "41c1a14c-e00e-558c-b45e-9e030e5737b6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a asambleas de aportantes y comités de vigilancia, no a asambleas de copropietarios."
+    },
+    {
+      "chunk_uuid": "6c5c4074-d87a-5658-b4b4-12fd5674c2e5",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre tributación de seguros y no menciona asambleas de copropietarios ni reglamentos."
+    },
+    {
+      "chunk_uuid": "4db03411-6821-5e39-8e73-f1b818a8dcdf",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el reglamento de copropiedad y las asambleas de copropietarios en relación con el uso y goce exclusivo de bienes comunes."
+    },
+    {
+      "chunk_uuid": "96548f6e-4bd1-5c2f-94e2-aa33ff8563d1",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la copropiedad en el contexto de acciones de sociedades anónimas, no en propiedad horizontal."
+    },
+    {
+      "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la ley de copropiedad y cómo el reglamento determina los derechos sobre bienes comunes."
+    },
+    {
+      "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+      "relevance_grade": 2,
+      "justification": "Define la ley de copropiedad y menciona que el reglamento de copropiedad es dictado por el propietario inicial."
+    },
+    {
+      "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+      "relevance_grade": 2,
+      "justification": "Explica la ley de copropiedad y la función del reglamento en la determinación de derechos sobre bienes comunes."
+    },
+    {
+      "chunk_uuid": "1df5e95d-899a-51af-bfd5-d602e3f99e71",
+      "relevance_grade": 2,
+      "justification": "Menciona que los reglamentos de copropiedad no pueden contradecir la ley y cómo se distribuyen los derechos."
+    },
+    {
+      "chunk_uuid": "b68dd558-9297-5148-9b72-b3906453fc4f",
+      "relevance_grade": 1,
+      "justification": "Aborda la copropiedad inmobiliaria y la comunidad forzada sobre bienes comunes, pero no directamente el reglamento."
+    },
+    {
+      "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación del IVA en bienes comunes de copropiedad, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla procedimientos del SII para el cálculo de avalúos fiscales en condominios, relacionado con la copropiedad."
+    }
+  ]
+}

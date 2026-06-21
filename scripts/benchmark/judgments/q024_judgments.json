@@ -1,0 +1,258 @@
+{
+  "query_id": "q024",
+  "query_text": "Reclamación judicial del monto de indemnización en expropiación de bien raíz",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:55:09Z",
+  "judgments": [
+    {
+      "chunk_uuid": "63aba770-a781-5128-bef3-e1c2ec0e3d0d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la indemnización por expropiación, incluyendo la posibilidad de transacción y el cálculo del valor."
+    },
+    {
+      "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+      "relevance_grade": 3,
+      "justification": "Este fragmento trata sobre la tributación de indemnizaciones por expropiación, discutiendo si constituyen renta o no renta."
+    },
+    {
+      "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de la cesión de usufructo y enajenación de bienes raíces, no directamente indemnización por expropiación."
+    },
+    {
+      "chunk_uuid": "36955501-3850-509d-9d21-660316f9bf01",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la tributación de la enajenación de bienes raíces construidos, no en indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre indemnizaciones laborales y su tributación, no sobre expropiación de bienes raíces."
+    },
+    {
+      "chunk_uuid": "9eadf1fa-698b-5d47-9b1d-a83711325562",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la renuncia a indemnizaciones en caso de expropiación, lo cual es tangencial al monto de indemnización."
+    },
+    {
+      "chunk_uuid": "5927adaa-8bd4-53fa-97e4-475665c6721a",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la tributación de enajenación de bienes raíces y la habitualidad, no sobre indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la tributación de aportes y retiros de inmuebles y la habitualidad, no en indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda directamente el tratamiento tributario de la indemnización recibida tras una expropiación, respondiendo la consulta."
+    },
+    {
+      "chunk_uuid": "6c418c29-68d8-5996-8894-5915d31ce249",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la tributación de aportes de bienes raíces y la habitualidad, no sobre indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "ca1a434e-c62a-5b81-a5ee-150b4cf30e31",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre un reclamo tributario de avalúo de bienes raíces, no sobre indemnización en expropiación."
+    },
+    {
+      "chunk_uuid": "d7e8b302-5249-55ea-abb3-8bde338164e0",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define el derecho a propiedad y menciona la expropiación, incluyendo el derecho a reclamar y a indemnización."
+    },
+    {
+      "chunk_uuid": "901e90d6-1a79-5879-8d82-0a4f24c257ed",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la deducción de valor en la indemnización por expropiaciones parciales, directamente relacionado con el monto."
+    },
+    {
+      "chunk_uuid": "7c3bc011-719a-51a1-9685-7b4b78e0300c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre indemnizaciones por infracciones a la ley del consumidor, no sobre expropiación de bienes raíces."
+    },
+    {
+      "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la presunción de habitualidad en la enajenación de bienes raíces, no a expropiaciones."
+    },
+    {
+      "chunk_uuid": "a5267be7-91e7-524b-adfe-8c72384a0f0e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la enajenación de bienes raíces, no sobre indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "26467ad0-4e36-54a3-8014-9f83fbfeae04",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de la enajenación de bienes raíces, no en indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la impugnación del avalúo de un bien raíz, lo cual es tangencial a la indemnización por expropiación."
+    },
+    {
+      "chunk_uuid": "ae5e8e4b-007e-5dd6-9522-568e4e0d8610",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la renta presunta de bienes raíces agrícolas, no sobre indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "714f4dc5-dbb5-502f-af88-ab896a55aa92",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda un reclamo contra el SII por origen de fondos para adquirir un bien raíz, no indemnización por expropiación."
+    },
+    {
+      "chunk_uuid": "3a4fa552-2bab-53ca-91c3-cb8e2e00c302",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre gastos rechazados y créditos de impuestos, no sobre indemnizaciones en expropiaciones."
+    },
+    {
+      "chunk_uuid": "dfb060b4-9c25-5e3d-b544-b3f21c9f9cbd",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de la enajenación de bienes raíces como parte del activo de empresas."
+    },
+    {
+      "chunk_uuid": "ec899199-aca2-535c-8056-78aac709e591",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de la enajenación de bienes raíces, no las indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "f450d433-5964-5833-af7c-c13a4c624c07",
+      "relevance_grade": 3,
+      "justification": "Este fragmento describe el avalúo de bienes en expropiación y los daños, excluyendo el mayor valor por la obra."
+    },
+    {
+      "chunk_uuid": "2e13d6ee-e1b3-5dbe-bde3-b7b359c0c791",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la habitualidad y el IVA en la enajenación de inmuebles, no en expropiaciones."
+    },
+    {
+      "chunk_uuid": "261bdf87-0b0b-54ed-8160-058351398600",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla información requerida por el SII para procesos expropiatorios, incluyendo la determinación del monto provisional de indemnización."
+    },
+    {
+      "chunk_uuid": "c6e718d1-08c3-5755-ac37-87aac5ef125e",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la tributación de enajenaciones de bienes raíces, incluyendo la habitualidad y el mayor valor obtenido, pero no aborda directamente la reclamación judicial de indemnizaciones."
+    },
+    {
+      "chunk_uuid": "2a3199a9-b6c7-50e5-9e07-5ad892d45cfc",
+      "relevance_grade": 0,
+      "justification": "Este fragmento del Código Orgánico de Tribunales se refiere a las funciones del fiscal judicial y no tiene relación con expropiaciones o indemnizaciones."
+    },
+    {
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la interpretación de 'adquisición' y 'enajenación' en compraventas y expropiaciones, y si la indemnización por expropiación constituye renta."
+    },
+    {
+      "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica que la indemnización por expropiación destinada a resarcir el daño patrimonial no está afecta a impuestos de Renta, abordando el concepto de daño emergente."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de los impuestos territoriales en contratos de arrendamiento, no sobre indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "6dcb4884-2c6e-5e65-ae2b-8aef5f08d748",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente la discusión sobre el tratamiento tributario de la indemnización por expropiación de un inmueble."
+    },
+    {
+      "chunk_uuid": "9c272e30-0aa3-588e-8db8-e867a482745f",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la información sobre tasaciones y montos provisionales de indemnización en procesos de expropiación."
+    },
+    {
+      "chunk_uuid": "ab4c2aa8-f0b3-5191-be8c-47e84d24726e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la información de expropiaciones y antecedentes de tasaciones para la determinación del monto de indemnización."
+    },
+    {
+      "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+      "relevance_grade": 3,
+      "justification": "Este fragmento discute el tratamiento tributario de indemnizaciones por expropiación, considerándolas ingreso no constitutivo de renta."
+    },
+    {
+      "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la depreciación de bienes raíces en comunidad y no aborda la indemnización por expropiación."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este documento se refiere a la modificación de un formulario tributario y no tiene relación con la consulta."
+    },
+    {
+      "chunk_uuid": "3c61d0bb-d970-5988-a7ca-ee6bb364e03a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute gastos deducibles y prescripción tributaria, sin abordar indemnizaciones por expropiación."
+    },
+    {
+      "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+      "relevance_grade": 3,
+      "justification": "Este oficio define la indemnización por expropiación como daño emergente y aborda la aplicación del artículo 18 de la Ley de la Renta."
+    },
+    {
+      "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que la indemnización por expropiación no es renta y se considera ingreso no constitutivo de renta."
+    },
+    {
+      "chunk_uuid": "357e375a-7b12-5c38-9e9f-f297df6f15d5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la fundamentación de actos administrativos del SII sobre avalúos de bienes raíces, tangencialmente relacionado con el valor de los inmuebles."
+    },
+    {
+      "chunk_uuid": "22e8a6b1-f66a-5721-93ba-5a74809e1fc9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla cómo determinar el valor de adquisición de bienes raíces para efectos tributarios en enajenaciones, relevante para la valoración."
+    },
+    {
+      "chunk_uuid": "14d8b9e5-68fb-5318-a53a-5b4307257a2d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la aplicación de impuestos a diversas convenciones sobre bienes raíces, incluyendo enajenaciones, lo cual es relevante para la valoración."
+    },
+    {
+      "chunk_uuid": "1203e0d3-a976-509d-b3c0-4a095291da20",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute la exención de impuestos territoriales y la aplicabilidad del artículo 99 de la Ley General de Urbanismo y Construcción en un caso de expropiación."
+    },
+    {
+      "chunk_uuid": "f3cb3c51-fd37-55a1-96b1-2282c0232a44",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla el procedimiento de reclamo de avalúos fiscales y la suspensión de plazos, mencionando la afectación a utilidad pública."
+    },
+    {
+      "chunk_uuid": "44e9967c-b7ab-5ad2-9d1c-7ff6e4e7f2e5",
+      "relevance_grade": 3,
+      "justification": "El fragmento aborda la naturaleza de la indemnización por expropiación y su tratamiento como renta, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "7a3b2ac5-3f34-50c9-8b7c-ceeacfcd5216",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica el plazo y las causales para reclamar avalúos fiscales, mencionando la presentación de reclamos y expedientes."
+    },
+    {
+      "chunk_uuid": "f9a65467-7c03-5298-bbba-39a9930b9ca8",
+      "relevance_grade": 2,
+      "justification": "El fragmento detalla un reclamo contra el giro de impuesto territorial y la solicitud de exención, mencionando el procedimiento aplicable."
+    },
+    {
+      "chunk_uuid": "d139741b-52ee-5e8b-a203-87bc20b388c2",
+      "relevance_grade": 1,
+      "justification": "El fragmento discute la exención de impuesto territorial para un predio afecto a expropiación, pero no aborda la reclamación judicial del monto de indemnización."
+    },
+    {
+      "chunk_uuid": "575d37a2-0022-55d0-acde-fdb550bf518c",
+      "relevance_grade": 1,
+      "justification": "El fragmento menciona la afectación a expropiación y la suspensión del pago de contribuciones, pero no se enfoca en la reclamación judicial del monto de indemnización."
+    }
+  ]
+}

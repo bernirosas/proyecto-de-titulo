@@ -1,0 +1,303 @@
+{
+  "query_id": "q026",
+  "query_text": "Acción reivindicatoria sobre inmueble: legitimación activa y prueba del dominio",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:56:07Z",
+  "judgments": [
+    {
+      "chunk_uuid": "7c9f0057-e765-55a3-b433-ffd1472cb977",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la acción reivindicatoria en el contexto de la venta de un bien depositado por herederos."
+    },
+    {
+      "chunk_uuid": "e59facef-c07c-5cad-80b7-388864fa633d",
+      "relevance_grade": 1,
+      "justification": "Este oficio se refiere a la inscripción del título de dominio y la determinación del contribuyente, tangencialmente relacionado con la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "367b4942-8bbd-561b-a51c-9765ff37c965",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre reorganizaciones empresariales y aportes de activos, no abordando directamente la acción reivindicatoria o la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+      "relevance_grade": 3,
+      "justification": "Este artículo define la acción reivindicatoria y su extensión a lo adeudado como precio o permuta por el poseedor que enajenó la cosa."
+    },
+    {
+      "chunk_uuid": "1fd7ae5c-5570-5593-9180-54519413aa5f",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la tributación de la enajenación de inmuebles, sin relación con la acción reivindicatoria o la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "06acf4aa-2e40-532e-9c8e-003b279330a7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre reestructuraciones societarias y aportes de bienes, no sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de la enajenación de inmuebles, no en la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "31090eed-313b-58fa-96f2-69ea040d4542",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define la prohibición de edificar como una limitación al dominio, tangencialmente relacionado con la propiedad."
+    },
+    {
+      "chunk_uuid": "92649d1b-e158-50b6-92ee-d7a0b1875823",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda impuestos sobre bienes raíces y adjudicaciones, no la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "a6d1c80e-31b7-562d-8a2e-e623df3dc925",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe el recurso de resguardo, incluyendo legitimación activa y medios de prueba, relevante para la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "dc15a26b-4622-50a4-abb6-8ca73adb92ea",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de la enajenación de inmuebles, pero no la acción reivindicatoria ni la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "66f9ea7d-1cc1-5c5b-8d38-582f538fae03",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre impuestos relacionados con la transferencia de dominio de bienes raíces, pero no sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "57740769-2ee8-5c3b-9837-af74b547c615",
+      "relevance_grade": 3,
+      "justification": "Este artículo se refiere directamente a juicios reivindicatorios y la prevalencia de títulos de dominio en conflictos de tierras."
+    },
+    {
+      "chunk_uuid": "f9c64761-ab03-587f-996f-930189dc1148",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute beneficios tributarios en la adquisición y enajenación de inmuebles, sin abordar la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica la aplicación del IVA en la enajenación de inmuebles, no la acción reivindicatoria ni la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "0a58a148-889a-5903-92db-abb8f6da63ed",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la legitimación activa en un contexto tributario, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "f69c955a-e042-5dfc-8a57-67ab54d02795",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la necesidad de acreditar el dominio vigente de un inmueble, lo cual es pertinente a la consulta."
+    },
+    {
+      "chunk_uuid": "d0268d76-ecdd-52d4-b58f-30736bea47d7",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el concepto de 'venta' y 'vendedor' en materia tributaria, tangencialmente relacionado con la propiedad."
+    },
+    {
+      "chunk_uuid": "c135c756-cb59-52ee-9e62-11a5c15a7ef4",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la legitimación activa y el interés actual comprometido de un contribuyente para reclamar, relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "af74ef9f-2414-5989-9a3b-5c237887f1d7",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la acción solidaria contra inmuebles hipotecados, no directamente sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "f0dca2d2-f476-5f6a-b5ef-dfff993dc1ae",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre reclamos ante el Consejo por falta de información pública, no sobre acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "af67b610-6599-59d5-9244-ff83c21350c7",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación en compraventa de inmuebles, pero no aborda la acción reivindicatoria ni la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "17373162-6dac-57c5-a514-5180eaf77fdd",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la tributación del IVA y la definición de venta, sin relación con la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "08928b27-7acd-5092-8182-ac8bbc74e6cc",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda una disputa tributaria sobre la venta de inmuebles y justificación de inversiones, tangencialmente relacionado con bienes raíces."
+    },
+    {
+      "chunk_uuid": "3398b2fc-42be-5e27-a5b0-fad30f792449",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre contratos de asociación y la definición de comerciante, sin relación con la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la legitimación procesal activa en un contexto tributario, no en una acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la regularización de títulos de dominio y asignación de roles, no en la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "319aad84-63c0-53b2-b28f-d2a6eb2b3837",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre estatutos de sociedades anónimas y acciones, sin relación con la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "44ecf5b8-5074-5198-96c3-88ec8877f1ba",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la prueba testimonial y documental en un proceso tributario, no en la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "3667ed56-9c85-5f66-af25-24c841fbdf10",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la disolución de sociedades anónimas y la adquisición de activos, no la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "26fdf971-d42d-53f8-be79-643e9fe5c4fb",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el impuesto a la herencia y la conversión de empresas, no sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "0a7a9ace-b177-54e9-b298-c3d62f157ddb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la construcción en suelo ajeno y la acreditación de dominio, tangencialmente relacionado con la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de IVA en la transferencia de inmuebles, no en la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+      "relevance_grade": 3,
+      "justification": "Este fragmento cita el artículo 1689 del Código Civil, que menciona la acción reivindicatoria contra terceros poseedores."
+    },
+    {
+      "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la tributación de concesiones mineras y la definición de venta, sin abordar la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "85321ee9-d1d4-5e23-91fb-a769a9771d40",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la titularidad y el dominio de inmuebles en el contexto de exenciones tributarias, tangencialmente relacionado con la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+      "relevance_grade": 2,
+      "justification": "Aborda la inscripción del dominio y la habitualidad en ventas de inmuebles, tocando la prueba del dominio en transacciones."
+    },
+    {
+      "chunk_uuid": "f8992d6a-ef7e-522a-87cd-4d20e89b537c",
+      "relevance_grade": 0,
+      "justification": "Se centra en la tasación de inmuebles y razones de negocio, sin abordar directamente la acción reivindicatoria o prueba del dominio."
+    },
+    {
+      "chunk_uuid": "0c425a48-5154-587b-bc52-ad41da533e14",
+      "relevance_grade": 1,
+      "justification": "Trata sobre el aporte de bienes raíces y su valor tributario, mencionando la propiedad y el estado de los inmuebles."
+    },
+    {
+      "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+      "relevance_grade": 3,
+      "justification": "Define directamente la acción reivindicatoria y quién tiene la legitimación activa para ejercerla, respondiendo a la consulta."
+    },
+    {
+      "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en la adjudicación de inmuebles, no sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la legitimación activa en un recurso de protección y la prueba del dominio, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "9879c904-fe67-5b83-a4a7-b3a8663fa760",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la legitimación activa en un recurso de protección, pero no se enfoca en la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "5a9c0353-1434-5e75-8979-f25305213205",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre tributación de acciones y fusiones, irrelevante para la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "a6c1c50a-1cc3-5fe7-a192-fd638dd2e5b5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la división de sociedades y su tratamiento tributario, sin relación con la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "7e2b2fe0-2385-502d-98f1-3b7515280562",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la legitimación activa en un recurso de inaplicabilidad, pero no sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "b76a937b-c89c-53a7-aa8e-ca6307fbc7c1",
+      "relevance_grade": 2,
+      "justification": "Aborda la legitimación activa y la prueba del dominio en un contexto tributario, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+      "relevance_grade": 1,
+      "justification": "Este oficio trata sobre la tributación de la enajenación de un bien raíz y la adquisición del dominio, pero no sobre la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "ed6918ba-8b42-50af-867b-311bbd443a8f",
+      "relevance_grade": 2,
+      "justification": "Define qué se considera bien mueble o inmueble para efectos de derechos y acciones, relevante para la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "66a71ba2-8d6d-51d7-9045-8f66a8f249b0",
+      "relevance_grade": 2,
+      "justification": "Explica la naturaleza del usufructo como derecho real inmueble y su tributación, relacionado con la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "0d83abc7-ddde-51d6-a3b4-e587cb257e07",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define la competencia territorial para acciones que involucran bienes inmuebles, tangencialmente relacionado con la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la legitimación activa en un contexto tributario, mencionando la calidad de arrendatario, pero no aborda la acción reivindicatoria directamente."
+    },
+    {
+      "chunk_uuid": "8ed703ca-8303-59e7-8f67-f44f8b174018",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la legitimación activa y el interés actual en un reclamo tributario, pero no se relaciona con la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "1beb80e6-379f-583c-adc2-af60445cc17a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la acción reivindicatoria en relación con la petición de herencia, pero no aborda la legitimación activa ni la prueba del dominio."
+    },
+    {
+      "chunk_uuid": "36d9d3d4-9764-5170-a0bc-61ddb16f549d",
+      "relevance_grade": 1,
+      "justification": "Define 'venta' en el contexto tributario, lo cual es tangencial a la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "9d88e20a-1742-5357-afa2-8784fa83360e",
+      "relevance_grade": 1,
+      "justification": "Define 'venta' y 'vendedor' para efectos tributarios, sin abordar la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+      "relevance_grade": 2,
+      "justification": "Explica la tradición y el cómputo de plazos para la adquisición de dominio de inmuebles."
+    },
+    {
+      "chunk_uuid": "0860404f-3bc2-57bd-be13-1a31873138af",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute la carga de la prueba en materia tributaria, lo cual es relevante para la acción reivindicatoria."
+    },
+    {
+      "chunk_uuid": "4b368588-1b02-5ce6-a44a-5c0dfa8e33f1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la carga de la prueba en materia tributaria, aplicable a la acción reivindicatoria."
+    }
+  ]
+}

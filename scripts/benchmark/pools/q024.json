@@ -1,0 +1,1203 @@
+{
+  "query_id": "q024",
+  "query_text": "Reclamación judicial del monto de indemnización en expropiación de bien raíz",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 30.492504,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 30.26577,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 27.283875,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 26.944626,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 25.887465,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9c272e30-0aa3-588e-8db8-e867a482745f",
+        "score": 22.419304,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ab4c2aa8-f0b3-5191-be8c-47e84d24726e",
+        "score": 22.117601,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 22.079386,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 21.041481,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "63aba770-a781-5128-bef3-e1c2ec0e3d0d",
+        "score": 20.789602,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 1.9124146,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 1.7247925,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+        "score": 1.6838379,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 1.6662598,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+        "score": 1.5950317,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 1.5898438,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+        "score": 1.5546875,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ae5e8e4b-007e-5dd6-9522-568e4e0d8610",
+        "score": 1.536377,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+        "score": 1.5263672,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+        "score": 1.5236816,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "261bdf87-0b0b-54ed-8160-058351398600",
+        "score": 21.578682,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "9c272e30-0aa3-588e-8db8-e867a482745f",
+        "score": 21.235254,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3c61d0bb-d970-5988-a7ca-ee6bb364e03a",
+        "score": 20.767624,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7c3bc011-719a-51a1-9685-7b4b78e0300c",
+        "score": 19.978146,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2e13d6ee-e1b3-5dbe-bde3-b7b359c0c791",
+        "score": 19.74259,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3a4fa552-2bab-53ca-91c3-cb8e2e00c302",
+        "score": 19.531473,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 19.488525,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 19.132513,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ca1a434e-c62a-5b81-a5ee-150b4cf30e31",
+        "score": 19.103746,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "714f4dc5-dbb5-502f-af88-ab896a55aa92",
+        "score": 18.324072,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 25.569794,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 25.560616,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 23.485626,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 23.345482,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 21.782307,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "901e90d6-1a79-5879-8d82-0a4f24c257ed",
+        "score": 20.419476,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9c272e30-0aa3-588e-8db8-e867a482745f",
+        "score": 20.299301,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ab4c2aa8-f0b3-5191-be8c-47e84d24726e",
+        "score": 20.198051,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9eadf1fa-698b-5d47-9b1d-a83711325562",
+        "score": 19.745504,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "63aba770-a781-5128-bef3-e1c2ec0e3d0d",
+        "score": 19.470646,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 1.1271362,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 1.0689087,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 0.9946289,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 0.92529297,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.90631104,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "901e90d6-1a79-5879-8d82-0a4f24c257ed",
+        "score": 0.8679199,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+        "score": 0.80493164,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+        "score": 0.7910156,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 0.76953125,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.7626953,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 28.77129,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 28.688929,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 28.662914,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 25.059095,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 24.518764,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 23.962564,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 23.443401,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "6dcb4884-2c6e-5e65-ae2b-8aef5f08d748",
+        "score": 22.520607,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d7e8b302-5249-55ea-abb3-8bde338164e0",
+        "score": 22.19017,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ab4c2aa8-f0b3-5191-be8c-47e84d24726e",
+        "score": 21.277954,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 1.4103394,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 1.3478394,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 1.2487793,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 1.2351074,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 1.2003174,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 1.1919556,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+        "score": 1.0283203,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 1.0256348,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "901e90d6-1a79-5879-8d82-0a4f24c257ed",
+        "score": 0.9765625,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f450d433-5964-5833-af7c-c13a4c624c07",
+        "score": 0.8859863,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 13.283203,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 12.970703,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 12.441406,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 12.246094,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 11.8671875,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ab4c2aa8-f0b3-5191-be8c-47e84d24726e",
+        "score": 11.419922,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "63aba770-a781-5128-bef3-e1c2ec0e3d0d",
+        "score": 10.8671875,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "22e8a6b1-f66a-5721-93ba-5a74809e1fc9",
+        "score": 10.78125,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "357e375a-7b12-5c38-9e9f-f297df6f15d5",
+        "score": 10.7421875,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "14d8b9e5-68fb-5318-a53a-5b4307257a2d",
+        "score": 10.671875,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.031754032258064516,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.031099324975891997,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 0.028594771241830064,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+        "score": 0.027629397679130595,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d139741b-52ee-5e8b-a203-87bc20b388c2",
+        "score": 0.026992753623188405,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f3cb3c51-fd37-55a1-96b1-2282c0232a44",
+        "score": 0.026279628993473032,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.02625745950554135,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "44e9967c-b7ab-5ad2-9d1c-7ff6e4e7f2e5",
+        "score": 0.025989268947015427,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1203e0d3-a976-509d-b3c0-4a095291da20",
+        "score": 0.024706420619185605,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.030834914611005692,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.025388291517323774,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 0.015625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+        "score": 0.015384615384615385,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 0.015151515151515152,
+        "rank": 7
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.030834914611005692,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.03055037313432836,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ca1a434e-c62a-5b81-a5ee-150b4cf30e31",
+        "score": 0.025987006496751626,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.023965141612200435,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "7a3b2ac5-3f34-50c9-8b7c-ceeacfcd5216",
+        "score": 0.02378987898789879,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "261bdf87-0b0b-54ed-8160-058351398600",
+        "score": 0.01639344262295082,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9c272e30-0aa3-588e-8db8-e867a482745f",
+        "score": 0.016129032258064516,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3c61d0bb-d970-5988-a7ca-ee6bb364e03a",
+        "score": 0.015873015873015872,
+        "rank": 8
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.031754032258064516,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.031099324975891997,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 0.027777777777777776,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.025849212924606464,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "44e9967c-b7ab-5ad2-9d1c-7ff6e4e7f2e5",
+        "score": 0.024891774891774892,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "1203e0d3-a976-509d-b3c0-4a095291da20",
+        "score": 0.023952954675846242,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "575d37a2-0022-55d0-acde-fdb550bf518c",
+        "score": 0.01852010631912887,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 0.015873015873015872,
+        "rank": 9
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.031754032258064516,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.0315136476426799,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+        "score": 0.031099324975891997,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.031099324975891997,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 0.028381642512077296,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.026050420168067225,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 0.015873015873015872,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 0.015625,
+        "rank": 8
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.030834914611005692,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 0.02904040404040404,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "d139741b-52ee-5e8b-a203-87bc20b388c2",
+        "score": 0.02715098147128967,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.027149321266968326,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "44e9967c-b7ab-5ad2-9d1c-7ff6e4e7f2e5",
+        "score": 0.02506265664160401,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1203e0d3-a976-509d-b3c0-4a095291da20",
+        "score": 0.02381289865343728,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "f3cb3c51-fd37-55a1-96b1-2282c0232a44",
+        "score": 0.023608316566063048,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "575d37a2-0022-55d0-acde-fdb550bf518c",
+        "score": 0.021691473404869044,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+        "score": 0.03131881575727918,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.03128054740957967,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.030834914611005692,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+        "score": 0.029273504273504274,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.027637721755368813,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "44e9967c-b7ab-5ad2-9d1c-7ff6e4e7f2e5",
+        "score": 0.02541827541827542,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "d139741b-52ee-5e8b-a203-87bc20b388c2",
+        "score": 0.02392671588733935,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 0.015625,
+        "rank": 9
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+        "score": 0.0315136476426799,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+        "score": 0.030834914611005692,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f3cb3c51-fd37-55a1-96b1-2282c0232a44",
+        "score": 0.027783137179239824,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "f9a65467-7c03-5298-bbba-39a9930b9ca8",
+        "score": 0.024350649350649352,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+        "score": 0.023392612859097127,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+        "score": 0.015873015873015872,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 0.015625,
+        "rank": 8
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 15.2,
+    "p1_tfidf": 21.0,
+    "p1_splade": 163.2,
+    "p2_bm25": 15.9,
+    "p2_tfidf": 11.0,
+    "p3_bm25": 11.3,
+    "p3_tfidf": 7.6,
+    "baseline_qdrant_bm25": 14.5,
+    "rrf_p1_bm25": 60.6,
+    "rrf_p1_tfidf": 53.3,
+    "rrf_p1_splade": 166.2,
+    "rrf_p2_bm25": 177.8,
+    "rrf_p2_tfidf": 141.9,
+    "rrf_p3_bm25": 64.8,
+    "rrf_p3_tfidf": 57.6,
+    "rrf_baseline_qdrant_bm25": 49.3
+  },
+  "pool": [
+    {
+      "name": "Circular N°67 (20/05/1976)",
+      "source_type": "circular",
+      "source": "Circular N°67 (20/05/1976)",
+      "document_id": "14eb66fb-e6a7-5028-bd89-fd93346f5bfb",
+      "chunk_uuid": "63aba770-a781-5128-bef3-e1c2ec0e3d0d",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/documentos/circulares/1976/circu67a.htm",
+      "content": " a seguir\npara efectuar el cobro de las cuotas a que se refiere el inciso fi\nnal del art. BO se estudiará en conjunto con la Confederación Wa\ncional de Municipalidades (COLAM ).\n41\n\"\n41\n17\n14\nΠ\n11\n-\nArtículo 360º.- En las expropiaciones que se efectúen con\ncl fin de realizar el Plan Regulador, el precio que ae\nfije administrativamente al terreno o inqueble no podrá\nBer superior a la tasación que practique el Servicio de\nImpuestos Internos.\"\na\nEntregados al uso público los terrenos afectos\nexpropiación, la Municipalidad, con el fin de precaver\nun litigio eventuel, podrá llegar a une transacción con\nel propieterio sobre el monto de la indemnización por la\nexpropiación, y proceder derechamente a su pago.\nPARATO 2º.- De la Expropiación Parcial.\n\"Artículo 87°,- Para la fijación del valor de un terreno\n\" expropiado parcialmente, que mantenga su frente, se con-\nsiderará que el monto de la parte expropiada corresponde\nal avaldo Jel fondo de la propiedad.\"\n\"\n\"\nArtículo 880.- Siempre que una propiedad adquiera mayor\n\" valor a consecuencia de una expropiación parcial de ella,\nse deducirá del monto de la indemnización el mayor valor\nque adquiera la parte no exproploda, con motivo del des-\ntino que se dé a la parte expropiada.\nサ\n14\n14\n4\nיו\nSi este mayor valor fuera superior al monto que se\nfije para la expropiación, se considerará, en este cant,\ncompensado totalmente el precio de la expropiación con -\nel roferido mayor valor.\"\nLa Ordenanza determinará las normas para caleular\n\" los mayores valores y deducciones a que se refiere el in\nciso primero.\"\n\"\n\"Artfoulo 89.- 3i al hacerse una expropiación, queduren\nterrenos cobrantes, que por su dimensión o configuración\nno pudieren ser aprovechados para una edificación inde\npendiente, el propietario podrá exigir que le sea expro-\nplada la totalidad del inmueble.\"\n19\n-\nComentario.- La tasación aludida en el\nart. 86, corresponde a le tasación comercial que frecuentemente de\nbe practicar el Servicio para determinadas finalidades y no merece\nobservaciones especiales, por traterse de materis ya conocida y de\nordinaria ocurrencia,\nEn cuanto a la disposición del art. 87\n+\nse otorgará el certificado de avalúo proporcional que proceda a pe\ntición de la respectiva dunicipalidad.\n11\n\" Artículo 990.- Mientras una Municipalidad no haga efecti-\nva a expropiación de los terrenos declarados de utilidad\npública o no edifluables, de acuerdo a lo prescrito en\nLos artículos 59° y 605 de esta Ley, wo suspenderá a su\nrespecto el pago de las contribuciones de bienes rafoes\nsiempre que dickou terrenos no generen renta alguna.\n14\nΠ\nH\nH\nعد\n-\nUsta suspensión de para deburn solicitarse a la üfi\ncina de lupuestos Internos respective, wajuntando certifi\ncano de la Dirección de Ouro Municipales que acredite que\n[1], [2], [3], [4], [5]\n\nHome > Circulares 1976\n[1], [2], [3], [4], [5]\n\nM\n.\nlos terrenos, conforme al Plan Regulador Comunal, than 1\ndo declarados de utilidad pública o no edificables.\"\nComentario. Los artículos 59° y 60° a que\n-\nse refiere la disposición anterior dicen relación con la declara\nción de utilidad publica de los terrenos consultados en el Plan Re\ngulador Comunal; a la prohibición de aumentar el volumen de las\nconstrucciones existentes en ellos, edificarlos o subdividirlos,\netc.\n:\n:\n-\n-\nLa suspensión del pago de las contribucio\nnes de bienes rafces que afecten a estos terrenos debe ser solici-\nt"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-GR-10-00015-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-10-00015-2018",
+      "document_id": "a37898b5-0dd0-5699-a5ea-9ff05ac7216b",
+      "chunk_uuid": "a57779ae-9c75-583e-93a5-3dfe1a837ea3",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/15018",
+      "content": "El Tribunal Tributario y Aduanero de la Región del Biobío acogió el reclamo interpuesto por la contribuyente en contra de la Liquidación que determinó diferencias de Impuestos de Primera Categoría por concepto de ingreso no renta, asociada a la indemnización pagada en la expropiación de un bien raíz. La contribuyente señaló que era una empresa que tributaba bajo el sistema de renta efectiva y contabilidad completa, siendo su giro o actividad la compra, venta y explotación de bienes raíces. \n\nEn ese contexto, mediante Decreto el Ministerio de Obras Públicas se expropió una porción de su terreno, que formaba parte de un inmueble de mayor extensión, recibiendo por dicho concepto una indemnización la cual no fue incluida en su declaración por constituir un ingreso no renta. Continúo indicando que en su declaración de Impuesto a la Renta del año tributario 2013, registró un resultado negativo y una devolución de Impuesto. A raíz de lo anterior, se generó un proceso de fiscalización, en primer lugar, con una notificación de Carta Aviso, y posteriormente con la notificación de la Citación, la que concluyó con la notificación de la Liquidación reclamada.\n\nAgregó que mediante el acto antes señalado, se determinaron diferencias que incidieron en su declaración de renta anual del año tributario 2016, las cuales tenían como fundamento la deducción que efectuó de la base imponible, por concepto de \"efecto neto por expropiación\", ello en base a los antecedentes de que la operación correspondía a una expropiación, por lo que se dedujo de la cantidad recibida como indemnización el valor tributario del terreno. Por último, la reclamante señaló que el remanente que aun persistía por concepto de indemnización provisional conforme al Decreto Ley 2.186 en relación al artículo 17 N° 29 de Ley sobre Impuesto a la Renta, correspondía a un ingreso no renta de acuerdo a lo señalado en el N° 1 del artículo 17 del mismo cuerpo normativo, ya que cumplía con los requisitos ahí establecidos.\n\nEl Servicio de Impuestos Internos expresó que el monto de la indemnización correspondía a un ingreso afecto y no a un ingreso no renta, ya que el bien pertenecía al giro de la contribuyente, y sus rentas efectivas tributaban en primera categoría.\n\nAgregó que la indemnización obtenida por la contribuyente tenía el carácter de daño emergente y, por lo tanto, para determinar su tratamiento tributario, se recurrió al N° 1 del artículo 17 de la Ley sobre Impuesto a la Renta. Así, a pesar que de el inciso primero de la norma se podía interpretar que el ingreso de la contribuyente constituiría un ingreso no renta, la norma continúa con un inciso segundo que era plenamente aplicable a la actual situación, ya que la norma exigía que se tratase de bienes incorporados al giro de un negocio y que se refiera a rentas que debían tributar con el Impuesto de Primera Categoría, ambos requisitos que se cumplieron en la especie.\n\nPor último, señaló que de haberse seguido el razonamiento esgrimido por la reclamante, significaría que el inciso segundo del N° 1 del artículo 17 de la Ley sobre Impuesto a la Renta sería letra muerta e inaplicable en la práctica. Así, se hizo necesario dejar establecido que esta norma obedecía a una lógica que no se podía soslayar por sus implicancias prácticas: esto era que la circunstancia por la que se impedía reconocer como ingreso no renta a una indemnización que cumplía con los requisitos que la norma establecía, tenía como fundamento el que después la pérdida generada por esta expropiación sería rebajada y reconocida como tal.\n\nEl Tribunal Tributario y Aduanero concluyó que la normativa legal aplicable a los hechos era el Decreto Ley N° 2.186 de 1978, específicamente sus artículos 20 incisos 5° y 38; los cuales establecían que la indemnización subrogara al bien expropiado para todos"
+    },
+    {
+      "name": "Oficio N°12 (05/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°12 (05/01/2017)",
+      "document_id": "345c07bc-3429-5360-8575-5e7bee101938",
+      "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/renta/ja012.htm",
+      "content": "ajenación de bien raíz.\n  2. La tributación del mayor valor obtenido por su cliente en la cesión del derecho real de usufructo\nconstituido sobre un bien raíz, por el plazo de 13 años, atendido el criterio aludido en el N° 1 precedente, ha\nde regirse por lo dispuesto en la señalada letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, vigente\nhasta el 31 de diciembre de 2016.\nDe este modo, en la medida que el bien raíz no forme parte del activo de una empresa que declare cualquier\nclase de rentas efectivas de la primera categoría sobre la base de un balance general según contabilidad\ncompleta, la enajenación no se efectúe a relacionado y no exista habitualidad en ésta, el mayor valor\nobtenido por su cliente constituye un INR sin límite de monto. Lo anterior, conforme a lo dispuesto en el N° 8,\ndel artículo 17 y en artículo 18, ambos de la LIR.\nA este respecto se hace presente, que la instancia fiscalizadora respectiva podrá verificar la concurrencia de\nlos señalados requisitos encontrándose vigentes los plazos de prescripción del artículo 200 del Código\nTributario. Asimismo, cabe señalar, que de acuerdo a lo preceptuado en el inciso 5°, del N° 8, del artículo 17\nde la LIR, vigente hasta el 31 de diciembre de 2016, este Servicio puede aplicar la facultad de tasar\ndispuesta en el artículo 64 del Código Tributario, cuando el valor de enajenación de un bien raíz, que se\ntransfiera a un contribuyente obligado a llevar contabilidad completa, sea notoriamente superior al valor\ncomercial de los inmuebles de características y ubicación similares en la localidad respectiva, o de los\ncorrientes en plaza considerando las circunstancias en que se realiza la operación, y que conforme a lo\ndispuesto en el artículo 63 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones –norma de\ncontrol de carácter general–, este Servicio también puede investigar si las obligaciones impuestas a las\npartes por cualquier contrato son efectivas, si realmente dichas obligaciones se han cumplido o si lo que una\nparte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del\ncontrato, de lo que recibe en cambio, con el objeto de liquidar y girar el impuesto que corresponda en caso\nde determinar que dichos actos y circunstancias están destinadas a encubrir una donación o un anticipo a\ncuenta de herencia.\n3. Por otra parte, atendido que la cesión del derecho real de usufructo constituido sobre el bien raíz en\ncuestión incluyó una serie de construcciones, mejoras y bienes existentes en aquel, lo que en conjunto\npermite el funcionamiento de una estación de servicio para abastecer combustible, aquella operación se\nencuentra gravada con IVA de acuerdo a lo dispuesto en la letra g), del artículo 8°, de la Ley sobre Impuesto\na las Ventas y Servicios.\n4. Por último, dado que ni el inciso 1°, del artículo 17 de dicho cuerpo legal, ni ninguna otra norma, autorizan\ndeducción alguna a la base imponible tratándose de la cesión del derecho real de usufructo constituido sobre\nbien raíz, aquella estará conformada por el monto de cada cuota mensual, debiendo recargarse sobre dicha\nsuma el porcentaje correspondiente por concepto de IVA.\n   \nFERNANDO BARRAZA LUENGO\nDIRECTOR\n \n   Oficio N° 012, de 05.01.2017\nSubdirección Normativa\nDpto. de Impuestos Directos\n \n \n \n \n\n\n[1] En los términos del  inciso 4°, del N° 8, del artículo 17 de la LIR, vigente hasta el 31 de diciembre de 2016.\n[2] En los términos del artículo 18 de la LIR vigente hasta el 31 de diciembre de 2016.\n"
+    },
+    {
+      "name": "Cuarto Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-GR-18-00613-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-18-00613-2013",
+      "document_id": "7f63d6f8-fbca-51fa-aa6e-48ec3872152b",
+      "chunk_uuid": "1203e0d3-a976-509d-b3c0-4a095291da20",
+      "chunk_id": 5,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1112",
+      "content": " los inmuebles de la Universidad; como segundo fundamento, que al ser el inmueble objeto de litis de propiedad de la XXXX, corporación de educación superior sin fines de lucro, se configura uno de los supuestos que establece la Ley N°17.235, Cuadro Anexo, letra B, N°2 para que el inmueble esté totalmente exento del pago de contribuciones, cumpliendo todas las características, condiciones y requisitos establecidos en dicha norma legal; como tercer fundamento, que el inmueble objeto de reclamo se encuentra afecto a expropiación, por lo que resulta aplicable el artículo 99 de La Ley General de Urbanismo y Construcción.\n\nPor su parte, la reclamada ha desestimado los argumentos de la reclamante, incoando como primer fundamento, que el acto administrativo objeto de reclamo lo constituye el Giro y no la Resolución en virtud de la cual se resolvió la solicitud de actualización catastral presentada por el contribuyente en relación con el bien raíz materia de autos, modificando a partir del 01.01.2013 el giro del Impuesto Territorial del predio, actuaciones que no adolecen de vicio alguno; como segundo fundamento, indica que la pretensión del actor dice relación con una declaración de certeza acerca de la procedencia de la exención de impuesto territorial, materia que escapa del ámbito del Procedimiento General de Reclamación establecido en el artículo 123 y siguientes del Código Tributario, siendo el acto recurrido el que determina la jurisdicción del Tribunal Tributario y Aduanero, en este caso, el Giro que se funda en la Resolución Ex. SII N°A15/2013.00023617 de fecha 29 de octubre de 2013, dictada en razón de la solicitud de modificación catastral y la verificación efectuada en terreno con fecha 26/08/2013; como tercer fundamento, expone que no resulta aplicable la exención real total invocada, citando para ello el N°2) de la Letra B) del Cuadro Anexo de la ley 17.235; como cuarto fundamento, indica que no se encuentra debatido que el inmueble tenga la condición de sitio eriazo y que el propósito futuro de hacer uso de éste para satisfacer necesidades de extensión, educación y cultura, no puede ser fundamento para la aplicación de la exención, en razón del principio de legalidad al que debe sujetarse el ejercicio de la potestad tributaria; como quinto fundamento, en relación a la vigencia de la exención de impuestos sobre los bienes de propiedad de Universidades particulares establecida en el artículo 67 del DFL N°280 de 1931, el Cuadro Anexo que aparece en el texto legal derogó las normas legales que hayan establecido exenciones al impuesto territorial conforme el artículo 2°, de la Ley N°20.033 (publicada en el Diario Oficial el 01/07/2005); como sexto fundamento, que la condición alegada por la reclamante de predio afecto a expropiación, que conllevaría la exención del Impuesto Territorial de acuerdo a los artículos 59 y 60 de la ley General de Urbanismo y Construcciones, no fue sostenida en documentación alguna aportada por el contribuyente.\n\n3°) Que son hechos de la causa no controvertidos, respecto a los cuales las partes se encuentran contestes en su ocurrencia, los siguientes:\n\n- Que mediante Resolución Ex. S.I.I. N°A15.2013.00023617, de 29 de octubre de 2013, dictada por el Jefe de Departamento de Avaluaciones de la XV Dirección Regional Santiago Oriente, se modificó el avalúo del inmueble Rol XXXX-95, ubicado en XXXX, comuna de Las Condes, de $0.- a $11.655.893.- semestrales a contar del 1er semestre del año 2013.\n\n- Que a consecuencia de lo anterior, en el mes de noviembre de 2013, la reclamada emitió el cobro suplementario de contribuciones, correspondiente al 1er y 2do semestre del año 2013, por un monto total de $23.311.786.-\n\n4°) Que de acuerdo a lo establecido en"
+    },
+    {
+      "name": "Oficio N°9 (05/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°9 (05/01/2017)",
+      "document_id": "2bc3e6ca-dab6-594f-852d-792c97b218fc",
+      "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/renta/ja009.htm",
+      "content": "ítulo III, punto 3.2)\nque las indemnizaciones pagadas bajo esta modalidad no constituyen renta para los efectos tributarios,\ncualquiera sea su monto.\nPrecisado lo anterior, procede expresar, respecto del límite de las noventa Unidades de Fomento, que\nestablece el inciso final del artículo 172 del Código del Trabajo, sólo encuentra aplicación respecto de las\nindemnizaciones legales por años de servicio, tal como lo explicitó este Servicio por medio de la Circular\nN°10 de 1999, vale decir únicamente respecto de aquellas previstas en el inciso segundo del artículo 163 del\nCódigo del Trabajo y de la indemnización sustitutiva del aviso previo contenida en el inciso segundo del\nartículo 161 y en el inciso cuarto del artículo 162 de dicho texto, esto último de acuerdo a dictamen de la\nDirección del Trabajo sobre los pagos que involucra el concepto indemnización legal.[1]\nEn consecuencia, y basado en lo dispuesto en las normas mencionadas, si una empresa paga una\nindemnización pactada en un contrato colectivo considerando una remuneración mensual superior a 90\nUnidades de Fomento, dicha indemnización asumirá el carácter de no renta en su totalidad, cualquiera sea\nsu monto.\nNo ocurre lo mismo con la indemnización legal que considere una remuneración mensual superior a 90\nUnidades de Fomento, ya que el exceso por sobre dicha suma asumirá el carácter de una indemnización\nvoluntaria, la cual se regirá en su tributación por lo dispuesto en el N° 13 del artículo 17 de la ley sobre\nImpuesto a la Renta, de acuerdo a las instrucciones establecidas en la Circular Nº 10, de 1999, de este\nServicio.\nLa misma tributación será aplicable si la empresa paga una indemnización voluntaria o pactada en un\ncontrato individual, según dispone  el punto 4 de la letra B.- del Capítulo III de la Circular 29 de 1991, que\nestablece para los fines de precisar qué parte de las indemnizaciones pactadas en contratos individuales y/o\npagadas voluntariamente no constituyen renta para efectos tributarios, que a dichas indemnizaciones\ndeberán adicionárseles aquellas legales y/o contractuales establecidas en contratos o convenios colectivos\nque el trabajador con motivo del término del contrato de trabajo tenga derecho a percibir, conforme a las\nnormas de la Ley Nº 19.010[2], o a las estipulaciones de los respectivos contratos o convenios colectivos.\nDe acuerdo con lo expresado, si se pagare conjuntamente una indemnización pactada en un contrato\ncolectivo y una indemnización voluntaria, la operatoria práctica a seguir a partir del promedio actualizado de\nlas últimas 24 remuneraciones, es multiplicar dicho promedio por el número de años de servicio del\ntrabajador, y a continuación restar de dicho monto la indemnización establecida en el convenio colectivo.\nEl monto positivo que resulte de la operación anterior, constituirá el monto máximo por concepto de la\nindemnización voluntaria que no constituye renta en virtud del artículo 17 Nº 13, de la Ley sobre Impuesto a\n\n\nla Renta.\nFinalmente, procede expresar que una vez determinada la parte de las indemnizaciones voluntarias que\nquedan afectas al Impuesto Único de Segunda Categoría, conforme a lo dispuesto por el artículo 46 de la\nLey sobre Impuesto a la Renta, dichas indemnizaciones asumen el carácter de una renta accesoria o\ncomplementaria a los sueldos, y en virtud de lo establecido en el inciso final de la norma legal antes\nmencionada, en su calidad de voluntarias, se entienden devengadas uniformemente en los últimos doce\nmeses, y el Impuesto Único de Segunda Categoría que las afecta deberá calcularse de acuerdo a la\nmodalidad contenida en el inciso segundo y tercero del citado artículo, cuyas instrucciones para su cálculo\neste Servicio las impartió mediante las Circulares Nºs. 37, de 1990 y 29, de 199"
+    },
+    {
+      "name": "Artículo 121",
+      "source_type": "ley",
+      "source": "APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES",
+      "document_id": "a91a7fd0-632f-596a-8a03-d0ad17c89656",
+      "chunk_uuid": "9eadf1fa-698b-5d47-9b1d-a83711325562",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=13560&idParte=8632230",
+      "content": "Decreto 458 APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES,TITULO III De la construcción,PARRAFO 2º.- De las autorizaciones especiales para edificación,Artículo 121|- La Dirección de Obras Municipales podrá, previa autorización del municipio, permitir nuevas construcciones u otras alteraciones en las construcciones existentes en los terrenos a que se refiere el artículo 59, distintas de las que admite el artículo 59 bis, siempre que el propietario del inmueble renuncie por escritura pública a toda indemnización o pago por dichas mejoras u obras, cuando posteriormente se lleve a cabo la expropiación. En dicha escritura se fijará el valor de expropiación y el plazo dentro del cual deberá adoptarse la línea oficial, siendo de su cargo la demolición. La escritura será inscrita en el Registro de Gravámenes del Conservador de Bienes Raíces y la renuncia afectará a todos los sucesores del renunciante, a cualquier título, en el dominio del inmueble. En caso de incumplimiento del interesado, la Municipalidad podrá desalojar el edificio con el auxilio de la fuerza pública y demolerlo en la parte que corresponda por cuenta del propietario, sin perjuicio de las acciones legales que correspondan, hasta el reintegro total de los costos del desalojo y la demolición. Los gastos de la demolición y desalojo podrán imputarse al valor de la expropiación."
+    },
+    {
+      "name": "Circular N°70 (31/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°70 (31/12/2014)",
+      "document_id": "78803365-9044-5e66-a1cb-dde73ee4f443",
+      "chunk_uuid": "22e8a6b1-f66a-5721-93ba-5a74809e1fc9",
+      "chunk_id": 65,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu70.pdf",
+      "content": "  \n \n\n\n47 \n \nLas mejoras debieron implicar la realización de desembolsos o inversiones efectivas, ya sea que \naquellas hayan sido efectuadas por el enajenante o por un tercero.  \n \n(2.3) \nLas mejoras deben haber sido declaradas en la oportunidad que corresponda ante este \nServicio, en la forma que establezca mediante resolución, para ser incorporadas en la \ndeterminación del avalúo fiscal del respectivo bien raíz para los fines del impuesto \nterritorial, con anterioridad a la enajenación. \n \nPara estos efectos, una mejora puede ser declarada, siempre que cumpla los requisitos referidos \nprecedentemente. \n \nSin perjuicio de la oportunidad que establezca la resolución respectiva de este Servicio, cabe hacer \npresente que la declaración debe realizarse, en todo caso, antes de la enajenación del bien raíz, o de \nlos derechos o cuotas respecto del tal bien poseído en comunidad. \n \nii) \nAvalúo fiscal del bien raíz respectivo al 1° de enero de 2017. \n \nLos contribuyentes referidos podrán considerar como valor de adquisición del bien raíz respectivo, su \navalúo fiscal vigente al 1° de enero de 2017, debidamente reajustado. \n \nTratándose de la enajenación de derechos o cuotas respecto de tales bienes raíces situados en Chile \nposeídos en comunidad, deberá considerarse como valor de adquisición de tales derechos o cuotas, \nel avalúo fiscal señalado, considerando el porcentaje que corresponda según los derechos o cuotas \nque se enajenen. Para estos efectos, se deberá calcular el porcentaje que representan los derechos o \ncuotas que se enajenan sobre los derechos o cuotas que posee el enajenante. El monto del avalúo \nfiscal señalado que se considerará como valor de adquisición de los derechos o cuotas que se \nenajenan será el que resulte de multiplicar el porcentaje así determinado por el valor total de dicho \navalúo fiscal. \n \niii) \nValor de mercado del respectivo bien raíz, determinado al 29 de septiembre de 2014, \nacreditado fehacientemente por el contribuyente. \n \n \nLos contribuyentes referidos podrán considerar como valor de adquisición del respectivo bien raíz, el \nvalor de mercado del mismo determinado al 29 de septiembre de 2014, debidamente reajustado. \n \nTratándose de la enajenación de derechos o cuotas respecto de tales bienes raíces situados en Chile \nposeídos en comunidad, deberá considerarse como valor de adquisición de dichos derechos o cuotas \nel valor de mercado señalado en el porcentaje que corresponda. Para estos efectos, se deberá \ncalcular el porcentaje que representan los derechos o cuotas que se enajenan sobre los derechos o \ncuotas que posee el enajenante. El monto del valor de mercado señalado que se considerará como \nvalor de adquisición de los derechos o cuotas que se enajenan será el que resulte de multiplicar el \nporcentaje así determinado por el monto total de dicho valor de mercado. \n \nEl señalado valor de mercado deberá comunicarse a este Servicio hasta el 31 de diciembre de 2015, \nen la forma establecida en la Resolución Exenta N° 127 de 2014.  \n \nc) \nBienes raíces o derechos o cuotas respecto de tales bienes raíces poseídas en \ncomunidad, adquiridas a partir del 29 de septiembre de 2014 en adelante, que se \nenajenan a partir del 1° de enero de 2017. \n \nEn tal caso, rige lo señalado en el numeral i), de la letra b) precedente, esto es, los contribuyentes \nreferidos sólo podrán considerar como valor de adquisición del respectivo bien raíz o de los derechos \no cuotas respecto de tales bienes raíces poseídos en comunidad, su valor inicial de adquisición, más \nlos desembolsos incurridos en las mejoras allí indicadas. Todas estas cantidades deben considerarse \ndebidamente reajustadas. \n \nd) \nReajuste de las cantidades que forman parte del costo tributario."
+    },
+    {
+      "name": "Oficio N°3492 (30/08/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°3492 (30/08/2000)",
+      "document_id": "e659761f-1ff9-5f02-8bbf-913cfbff8bd1",
+      "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/octubre01.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2000\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, LETRA b),ART. 18.\nAporte y posterior retiro de inmueble a empresa individual – Fecha de adquisición de bien raíz que se debe\nconsiderar para aplicar normas de habitualidad – Normativa aplicable – La operación en análisis sólo tiene\nefecto tributario respecto del valor en que se aportó y retiró el bien raíz.\n1.- Por Ordinario indicado en el antecedente, y con el objeto de finiquitar una situación pendiente relacionada con\nuna citación notificada a un contribuyente persona natural, formula las siguientes consultas:\na) Un contribuyente persona individual que gira en el rubro de agricultura y librería, tributando por ésta última\nactividad en Primera Categoría con renta efectiva determinada a base de contabilidad completa, aporta a su\nactividad un bien raíz, adquirido según escritura pública con fecha 31 de mayo de 1988, efectuando el registro\ncontable respectivo;\nb) En el mes de Febrero de 1996, efectúa el retiro del bien raíz desde su actividad comercial individual de acuerdo a\nsu valor de libro, tributando por dicho retiro con el impuesto Global Complementario, conforme a lo dispuesto en el\nartículo 14 de la Ley de la Renta;\nc) Posteriormente, con fecha 4 de octubre de 1996, vende el bien raíz obteniendo un significativo mayor valor, por\ncuyo monto no tributa, amparándose en que dicho bien a la fecha de la enajenación no formaba parte del activo de\nla empresa, aplicando lo dispuesto en el artículo 17 N° 8 letra b) de la Ley de la Renta.\nEn relación con lo anterior, solicita una interpretación acerca de la fecha que se debe considerar para aplicar las\nnormas de habitualidad que contempla el inciso tercero del artículo 18 de la Ley de la Renta, es decir, si para\ncomputar el plazo de un año debe considerarse la fecha de adquisición del bien raíz según escritura pública o la\nfecha del retiro desde la actividad que declara la renta efectiva en Primera Categoría.\n2.- Sobre el particular, cabe señalar en primer término, que la letra b) del N° 8 del artículo 17° de la Ley de la Renta,\nen concordancia con lo establecido en el inciso primero del artículo 18° de la misma ley, dispone que no constituye\nrenta el mayor valor obtenido en la enajenación no habitual de bienes raíces, excepto respecto de aquellos que\nformen parte del activo de empresas que declaren su renta efectiva en la Primera Categoría.\nPor su parte, el artículo 18° de la citada ley, en su inciso tercero, presume de derecho que existe habitualidad en los\ncasos de subdivisión de terrenos urbanos y en la venta de edificios por piso o departamentos, siempre que la\nenajenación se produzca dentro de los cuatro años siguientes a la adquisición o construcción, en su caso. Agrega la\nreferida norma, que en todos los demás casos, se presumirá la habitualidad cuando entre la adquisición o\nconstrucción del bien raíz y su enajenación transcurra un plazo inferior a un año.\n3.- Ahora bien, respecto del término \"adquisición\" que utiliza la norma legal antes mencionada, cabe señalar, que de\nconformidad a las normas contenidas en el Código Civil, específicamente en su artículo 686, la adquisición de un\nbien raíz se produce cuando el título de transferencia de dominio del inmueble respectivo se encuentre\ndebidamente inscrito a nombre del nuevo adquirente en el Registro del Conservador de Bienes Raíces.\n4.- Aclarado lo anterior, en el caso en consulta, debe entenderse que el bien raíz fue adquirido legalmente en la\nfecha que indica la escritura pública respectiva, esto es, el 31.05.88 e inscrita en el Conservador de Bienes Raíces\ncorrespondiente por su propietario, el"
+    },
+    {
+      "name": "Oficio N°1149 (30/03/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°1149 (30/03/2022)",
+      "document_id": "5d85dc36-87de-5338-91ef-d12e8ff7f2a8",
+      "chunk_uuid": "a5f6b25c-a1b1-514f-b601-27dbe85e22f2",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1149-30%2F03%2F2022.pdf&extension=pdf&acc=download&id=cb762938-7f8f-4d97-a3c6-eaa2f21572d8&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 1 \n(ORD. N° 1149 DE 30.03.2022). \n \nTratamiento tributario de la indemnización recibida tras una expropiación.  \nDe acuerdo con su presentación, un contribuyente de primera categoría con contabilidad completa tiene \nentre sus activos un bien sujeto a expropiación por el Estado, cuya indemnización será mayor al valor \nregistrado en los libros contables, consultando si este monto es considerado como ingreso no renta para \nefectos tributarios.  \nAl respecto, y conforme al N° 1 del artículo 17 de la Ley sobre Impuesto a la Renta (LIR), no constituye \nrenta la indemnización de cualquier daño emergente y, cuando se trate de bienes susceptibles de \ndepreciación, la indemnización percibida hasta concurrencia del valor inicial del bien reajustado de \nacuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor entre el \núltimo día del mes que antecede al de la adquisición del bien y el último día del mes anterior a aquél en \nque haya ocurrido el siniestro que da origen a la indemnización.  \nDe acuerdo con el párrafo segundo de esta misma disposición, lo anterior no rige respecto de la \nindemnización del daño emergente en el caso de bienes incorporados al giro de un negocio, empresa o \nactividad, cuyas rentas efectivas deban tributar con el impuesto de la primera categoría, sin perjuicio de la \ndeducción como gasto de dicho daño emergente.  \nConforme la ley y la jurisprudencia de este Servicio sobre el citado párrafo segundo1, tratándose del pago \nde una indemnización por la expropiación de un bien incorporado al giro del negocio, empresa o actividad \ndel contribuyente expropiado, cuyas rentas efectivas tributan con el impuesto de la primera categoría, el \nmonto de la indemnización en cuestión no califica como ingreso no renta, sin perjuicio que dicho \ncontribuyente, asumiendo las características que a su respecto indica en su presentación, pueda deducir \ncomo gasto tributario el daño emergente producido por la expropiación.  \nAhora bien, se entiende por daño emergente aquel que ocasiona una pérdida, detrimento o disminución \nefectiva en el patrimonio del que lo sufre, en este caso, el costo tributario del inmueble afectado por la \nexpropiación.  \nDe lo dicho se sigue que el monto total de la indemnización constituye ingreso bruto del contribuyente, \nsin perjuicio que, conforme a lo dispuesto en el párrafo segundo del N° 1 del artículo 17 de la LIR pueda \nrebajar como gasto tributario el costo tributario del bien expropiado, vale decir, finalmente tributará con \nlos impuestos generales de la LIR solo la diferencia entre ambas cantidades.  \nSaluda a usted,  \n          \n \n \n \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR \n \n \nOficio N° 1149 del 30-03-2022 \nSubdirección Normativa \nDepto. de Impuestos Directos \n \n \n \n \n1 Oficios N° 2571 de 2000 y N° 3228 de 2007.   \n"
+    },
+    {
+      "name": "Circular N°92 (20/09/1974)",
+      "source_type": "circular",
+      "source": "Circular N°92 (20/09/1974)",
+      "document_id": "90c61295-3520-5db6-8f19-32baf71fa522",
+      "chunk_uuid": "14d8b9e5-68fb-5318-a53a-5b4307257a2d",
+      "chunk_id": 18,
+      "url": "https://www.sii.cl/documentos/circulares/1974/circu92.pdf",
+      "content": "amos el caso de un comunero cuyos derechos en la comunidad ascienden a la suma de F 2.500.000.-, que se adjudi-ca un bien raíz en F 4.000.000.-, quedando alcanzado en contra en la suma de F 1.500.000.- Dicha adjudicación tributará como sigue: mayor cuota en el bien raíz común ascendente a F 1.500.000.-, afec-ta a la tasa de 8%; cuota que correspondía en dicho bien raíz, -F 2.500.000.-, afecta a la tasa de adjudicación (1%). Como puede -apreciarse, del monto de la adjudicación (F 4.000.000.-) se ha re-bajado el valor de la mayor cuota en el bien raíz (F1.500.000.-) para los efectos de aplicar el impuesto de adjudicación.\nJ.1.2 Asociación o cuentas en participación (artículo 11º, Nº 2º).\nEl tributo de 1% se aplica sobre el valor total de -los bienes que se entregan o prometen entregar al gestor o adminis-trador. Si se entregaren bienes raíces en dominio, respecto de -ellos se pagará sólo la tasa de 8%.\nJ.1.3 Cauciones o garantias (articulo 11, N° 3)\nPara aplicar el impuesto de 1%, es menester distinguir las siguientes situaciones:\na) Si la caución o garantía tiene límite, la tasa se aplica so-bre el monto de la misma;\nb) Si la caución no tiene límite, hay que subdistinguir entre -dos alternativas:\n- La obligación principal tiene un monto determinado en dinero: sobre este se aplica el tributo;\n- La obligación principal no tiene un monto determinado en di-nero: es necesario distinguir nuevamente entre dos hipótesis:\n- La caución o garantía es real: la tasa de 1% se aplica sobre el 40% del valor de los bienes dados en garantía;\n- La caución es personal: se aplica la tasa fija básica (F 1.500.-)\nEl impuesto se aplica, en todo caso, por una sola -vez, no importa cuántas garantías (en número y clase) se otorguen respecto de la obligación principal, ni si ellas se constituyen -por medio de uno o más actos (artículo 11º, Nº 3, inciso final), -siempre que no se aumente el límite de la caución o el monto de la obligación principal.\nSi se aumentare el límite de la caución o el monto -de la obligación principal, se debe pagar el impuesto que corres-ponda en cuanto la base imponible exceda de aquella que sirvió pa-ra la determinación primitiva del tributo (artículo 11º, Nº 3, in-ciso final).\nEsta norma es concordante con la del artículo 14º, -inciso 2º, que establece que \"la modificación, rectificación o -complementación de un acto o contrato que haya pagado los impues-\n23\ntos establecidos en este Decreto Ley, no estará afecta a impuesto alguno, a menos que se aumente la base imponible que haya servido para el cálculo del tributo, caso en el cual se pagará sólo la di-ferencia que resulte\".\nJ.1.4 Cesión de derechos personales y reales exceptuando el dominio. (Articulo 11, N° 4).\nEl impuesto de 1% se aplica sobre el monto del con-trato, o en su defecto, sobre el valor de los bienes objeto del de-recho que se cede.\nJ.1.5 Enajenación, permuta, dación en pago o cualquier otra convención traslaticia del dominio de bienes raíces. (artículo 11, N° 5).\nEl tributo de 8% se aplica sobre el valor del contra-to, con mínimo del avalúo vigente y sin perjuicio de la facultad -de tasar el inmueble o la cuota respectiva, que tiene el Servicio en conformidad a las normas del Código Tributario.\nJ.1.6 Constitución del derecho real de usufructo (artícu-lo 11, N"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Los Lagos: Sentencia RIT-AB-12-00045-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-AB-12-00045-2013",
+      "document_id": "b119d7f7-c1fc-5ce9-addc-6348a868b8ee",
+      "chunk_uuid": "ca1a434e-c62a-5b81-a5ee-150b4cf30e31",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/589",
+      "content": "El Tribunal Tributario y Aduanero de Puerto Montt, dio lugar en parte al reclamo tributario de avalúo de bienes raíces interpuesto en contra del Servicio de Impuestos Internos, por el cual se solicitó que se deje sin efecto la tasación y, que se ordene efectuar una nueva tasación. Finalmente, impetra la restitución de las sumas pagadas en exceso por su parte a título de impuestos territorial.\n\nLa reclamante explicó que existió un error en la aplicación de las tablas, por una incorrecta clasificación del inmueble, asignándosele un código de Área Homogénea que no corresponde. Sostuvo que el verdadero y real avalúo fiscal del inmueble alcanzaría el 0,85% del avalúo determinado por el Servicio de Impuestos Internos.\n\nEl reclamo se fundamentó en el artículo 149 N°2 del Código Tributario, por cuanto el Rol de Avalúo del inmueble respectivo, no se encontraría en el Área Homogénea, sino que en otro perímetro del área, lo que determina un avalúo de $50.545.755, y no de $5.981.180.010.\n\nEl Servicio de Impuestos Internos señaló que fijó el valor de los nuevos avalúos fiscales de los bienes raíces no agrícolas no habitacionales, realizando un trabajo técnico de tasación previo a su determinación, además de apegarse en todo el proceso a las normas legales y administrativas que lo regulan. Agregó que existiendo una norma legal que faculta al contribuyente a interponer reclamo judicial en contra de la tasación efectuada, es obligación de éste acreditar sus dichos en la etapa judicial correspondiente. La reclamada señaló en cuanto a la petición del actor referida a la restitución por parte del Servicio de Impuestos Internos de las sumas pagadas en exceso por concepto de impuesto territorial, que el procedimiento de reclamo no es la vía idónea para solicitarlo.\n\nEl Tribunal estimó que, tomando en consideración la conclusión a la que arriba la Copia Plano de precios de terrenos, acompañada al reclamo, que el mencionado reclamo debía ser acogido en parte, por cuanto dicho documento señala que “el predio fue incluido en un área que no corresponde, esta fuera del polígono definido por el mismo Servicio de Impuestos Internos”. Señaló que en el proceso de revalúo efectivamente el Servicio de Impuestos Internos incurrió en un error al aplicar las tablas de clasificación del área homogénea.\n\nFinalmente, el Tribunal agregó que la petición del contribuyente relativo a ordenar la restitución de sumas pagadas en exceso por su parte, a título de impuesto territorial, excede los fines del actual procedimiento."
+    },
+    {
+      "name": "Artículo 19",
+      "source_type": "ley",
+      "source": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE",
+      "document_id": "314b1558-8c3f-5451-b5cd-7fdf3444a6f4",
+      "chunk_uuid": "d7e8b302-5249-55ea-abb3-8bde338164e0",
+      "chunk_id": 7,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=242302&idParte=8563487",
+      "content": " organismos en materia económica. D.O. 24.10.1980 Sólo en virtud de una ley, y siempre que no signifique tal discriminación, se podrán autorizar determinados beneficios directos o indirectos en favor de algún sector, actividad o zona geográfica, o establecer gravámenes especiales que afecten a uno u otras. En el caso de las franquicias o beneficios indirectos, la estimación del costo de éstos deberá incluirse anualmente en la Ley de Presupuestos; 23º.- La libertad para adquirir el d ominio de toda CPR Art. 19° N° 23 clase de bienes, excepto aquellos que la naturaleza ha hecho D.O. 24.10.1980 comunes a todos los hombres o que deban pertenecer a la Nación toda y la ley lo declare así. Lo anterior es sin perjuicio de lo prescrito en otros preceptos de esta Constitución. Una ley de quórum calificado y cuando así lo exija el interés nacional puede establecer limitaciones o requisitos para la adquisición del dominio de algunos bienes; 24º.- El derecho de propied ad en sus diversas especies CPR Art. 19° N° 24 sobre toda clase de bienes corporales o incorporales. D.O. 24.10.1980 Sólo la ley puede establecer el modo de adquirir la propiedad, de usar, gozar y disponer de ella y las limitaciones y obligaciones que deriven de su función social. Esta comprende cuanto exijan los intereses generales de la Nación, la seguridad nacional, la utilidad y la salubridad públicas y la conservación del patrimonio ambiental. Nadie puede, en caso alguno, ser privado de su propiedad, del bien sobre que recae o de alguno de los atributos o facultades esenciales del dominio, sino en virtud de ley general o especial que autorice la expropiación por causa de utilidad pública o de interés nacional, calificada por el legislador. El expropiado podrá reclamar de la legalidad del acto expropiatorio ante los tribunales ordinarios y tendrá siempre derecho a indemnización por el daño patrimonial efectivamente causado, la que se fijará de común acuerdo o en sentencia dictada conforme a derecho por dichos tribunales. A falta de acuerdo, la indemnización deberá ser pagada en dinero efectivo al contado. La toma de posesión material del bien expropiado tendrá lugar previo pago del total de la indemnización, la que, a falta de acuerdo, será determinada provisionalmente por peritos en la forma que señale la ley. En caso de reclamo acerca de la procedencia de la expropiación, el juez podrá, con el mérito de los antecedentes que se invoquen, decretar la suspensión de la toma de posesión. El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas. Corresponde a la ley determinar qué sustancias de aquellas a que se refiere el inciso precedente, exceptuados los hidrocarburos líquidos o gaseosos, pueden ser objeto de concesiones de exploración o de explotación. Dichas concesiones se constituirán siempre por resolución judicial y tendrán la duración, conferirán los derechos e impondrán las obligaciones que la ley exprese, la que tendrá el carácter de orgánica constitucional. La concesión minera obliga al dueño a desarrollar la actividad necesaria para satisfacer el interés público que justifica su otorgamiento. Su régimen de amparo será establecido por dicha ley, tenderá directa o indirectamente a obtener el cumplimiento de esa obligación y contemplará causales de caducidad para el caso de incumplimiento o de simple ext"
+    },
+    {
+      "name": "Artículo 84",
+      "source_type": "ley",
+      "source": "APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES",
+      "document_id": "719d8e4f-c1dc-5011-8d0c-0048dde6ae1d",
+      "chunk_uuid": "901e90d6-1a79-5879-8d82-0a4f24c257ed",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=13560&idParte=10337364",
+      "content": "Decreto 458 APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES,TITULO II De la Planificación Urbana,CAPITULO VII De las expropiaciones,Artículo 84|- Tratándose de expropiaciones parciales se deducirá o imputará del monto de la indemnización el cambio de valor que adquiera la parte no expropiada como consecuencia de las inversiones que realice el Estado vinculadas con dicha expropiación, o del plan o instrumento de planificación que declaró la utilidad pública."
+    },
+    {
+      "name": "Circular N°21 (24/03/2015)",
+      "source_type": "circular",
+      "source": "Circular N°21 (24/03/2015)",
+      "document_id": "de35eeb1-db21-5ea9-aee2-ca5002146fc2",
+      "chunk_uuid": "7c3bc011-719a-51a1-9685-7b4b78e0300c",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/documentos/circulares/2015/circu21.pdf",
+      "content": "utilización u ocultamiento de la copia \ncedible de la factura, así como la no entrega del recibo señalado en la letra c) del artículo \n5°. En caso de infracción, el juzgado de policía local correspondiente al domicilio del \ninfractor aplicará una indemnización en favor del requirente, por el monto equivalente a dos \ny hasta cinco veces el valor de la o las facturas objeto de la infracción. El propio afectado, \ncualquier interesado, y las asociaciones gremiales u otras que representen a empresarios \nde cualquier tipo, siempre que gocen de personalidad jurídica, podrán incoar la acción \njudicial tendiente a la aplicación de esta sanción, la que será conocida por el tribunal \nconforme a las disposiciones de la ley Nº 18.287. Para efectos de la percepción de la \nindemnización, el afectado requirente preferirá a cualquier interesado y éste, si tuviera \ninterés económico comprometido previo al reclamo, a las referidas asociaciones.” \n \n \nSaluda a Ud., \n \n \n \n \n \n \n \n \nMICHEL JORRATT DE LUIS \nDIRECTOR (T Y P) \n \nIDRM/RPA/CPG/rgv \nDistribución: \n- Internet \n- Boletín SII \n- Diario Oficial en Extracto \n"
+    },
+    {
+      "name": "Oficio N°1269 (11/06/2013)",
+      "source_type": "oficio",
+      "source": "Oficio N°1269 (11/06/2013)",
+      "document_id": "00e2dce5-00f9-5471-be22-679c3aeb2152",
+      "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2013/renta/ja1269.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2013\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 18°, N°3 y OFICIOS N° 2398, DE 2011 Y N°\n209, DE 2012. (ORD. N° 1269, DE 11.06.2013)\nPRESUNCIÓN DE HABITUALIDAD EN LA ENAJENACIÓN DE UN BIEN RAÍZ, CONFORME A LO\nDISPUESTO EN EL INCISO 3°, DEL ARTÍCULO 18 DE LA LEY SOBRE IMPUESTO A LA RENTA.\nSe ha solicitado un pronunciamiento sobre la aplicación de la presunción de habitualidad en la enajenación\nde bien raíz.\nI.- ANTECEDENTES.\nSeñala que durante el año 2010, participó en una subasta pública en procedimiento de remate de un bien\nraíz, suscribiendo el acta correspondiente, habiendo consignado a orden del mismo Tribunal el saldo de\nprecio dentro del plazo establecido.\nAgrega que en relación a esta materia se ha interpuesto un incidente de nulidad por falta de emplazamiento,\ny posteriormente, se han presentado recursos de apelación, de queja, un recurso de inaplicabilidad por\ninconstitucionalidad y de casación en la forma y fondo, por lo que la propiedad no ha podido ser inscrita a su\nnombre en el Conservador de Bienes Raíces, por razones ajenas a su voluntad.\nIndica que una vez resueltos estos recursos e inscrita la propiedad a su nombre, planea vender el bien raíz,\npor lo que solicita se confirme que desde la fecha del remate de la propiedad y su venta habrá transcurrido\nmás de un año, para los efectos de lo previsto en el artículo 17 N° 8 y 18 de la LIR, aún cuando no haya sido\ninscrito en el Conservador de Bienes Raíces.\nII.- ANÁLISIS.\nEste Servicio a través de varios pronunciamientos emitidos con anterioridad , ha señalado la oportunidad en\nque se entiende adquirido el dominio para los efectos del cómputo de la presunción de habitualidad\nestablecida en la última parte del inciso 3°, del artículo 18° de la LIR, precisando que al no existir en el\nordenamiento jurídico un concepto específico para efectos tributarios, dicha expresión debe entenderse en el\nsentido que le confiere el derecho común.\nPor tanto, para efectos de establecer si entre las fechas de adquisición y enajenación del bien raíz ha\ntranscurrido un plazo inferior a un año, debe considerarse las fechas de inscripciones de los títulos en el\nRegistro de Propiedad del Conservador de Bienes Raíces de que se trate.\nEsta regla también es aplicable al caso en consulta, en que el título de la adquisición del bien raíz, conforme\nse desprende del artículo 497 del Código de Procedimiento Civil, es la escritura definitiva de compraventa,\nsuscrita por el rematante y por el juez como representante legal del vendedor, título que se debe inscribir en\nel respectivo Registro del Conservador de Bienes Raíces.\nIII.- CONCLUSIÓN.\nPara los efectos del cómputo del plazo de un año establecido en el inciso 3°, del artículo 18 de la LIR, se\ndebe considerar la fecha de la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces,\ndel título que da cuenta de la adquisición y posterior enajenación del bien raíz.\nPor consiguiente, en el caso que se analiza, el inicio del cómputo del plazo para la aplicación de la\npresunción legal de habitualidad que establece dicha norma, se cuenta desde la fecha de la referida\ninscripción.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 1269, de 11.06.2013\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Coquimbo: Sentencia RIT-AB-06-00032-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-AB-06-00032-2018",
+      "document_id": "2cb81172-2ab6-57ff-b358-958a4c40f163",
+      "chunk_uuid": "f3cb3c51-fd37-55a1-96b1-2282c0232a44",
+      "chunk_id": 6,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14591",
+      "content": " inmueble, equivalea determinar la base del impuesto. El avalúo de una propiedad para estos efectos, es elvalor monetario determinado por el Servicio de Impuestos Internos al bien raíz, mediante la tasación fiscal de los bienes raíces. Periódicamente el Servicio determina labase de aplicación del tributo en los procesos de reavalúo (art.3) actualizando losavalúos fiscales de los bienes raíces.El Servicio debe impartir las instrucciones técnicas y administrativasnecesarias para efectuar la tasación, ajustándose a las normas del artículo 4.Básicamente, el valor de la tasación o avalúo está dado por la suma del avalúo delsuelo (depende del sector de ubicación del mismo, las obras de urbanización yequipamiento de que dispone) y del avalúo de la construcción (considera su materialestructural, calidad, especificaciones técnicas, costo de edificación, antigüedad, destinoe importancia de la comuna y de la ubicación del sector comercial). 4°.- Que, a objeto de ir despejando el asunto central de esta causade algunas cuestiones planteadas tangencialmente, debe tenerse en consideración que,conforme el artículo 149 del Código Tributario, “Dentro de los ciento ochenta díassiguientes a la fecha de término de exhibición de los roles de avalúo los contribuyentesy las Municipalidades respectivas podrán reclamar del avalúo que se haya asignado aun bien raíz en la tasación general. De esta reclamación conocerá el Tribunal Tributarioy Aduanero. Respecto del avalúo asignado a un bien raíz en la tasación general, seráprocedente el recurso de reposición administrativa en conformidad a las normas delCapítulo IV de la ley Nº 19.880 y con las mismas modificaciones establecidas en elartículo 123 bis, salvo la de su letra b), en que el plazo para que se entienda rechazadala reposición será de noventa días”. El artículo 123 bis del mismo Código, a su turno dispone, en lopertinente, que: “Respecto de los actos a que se refiere el artículo 124, será procedenteel recurso de reposición administrativa, en conformidad a las normas del Capítulo IV dela ley Nº 19.880, con las siguientes modificaciones:a) El plazo para presentar la reposición será de treinta días.b) La reposición se entenderá rechazada en caso de no encontrarse notificada laresolución que se pronuncia sobre ella dentro del plazo de noventa días contado desdesu presentación.c) La presentación de la reposición suspenderá el plazo para la interposición de lareclamación judicial contemplada en el artículo siguiente.” 5°.- Que, conforme las normas recién copiadas, parece claro que elcontribuyente puede, antes de reclamar el reavalúo ante el Tribunal Tributario en conformidad al artículo 149 del Código de la especialidad, intentar una soluciónadministrativa ante el propio Servicio generador del acto reclamable, según se regula enel artículo 123 bis. La interposición de dicha reposición administrativa suspende el plazopara reclamar ante el Tribunal.Según estas normas, resuelta la reposición administrativa, elcontribuyente puede conformarse con lo resuelto o, en caso de mantenerse supretensión en todo o en parte, continuar con la vía judicial, cuyo plazo se ha reanudadoal resolver administrativamente el Sr. Director Regional. 6°.- Que, atendido el tenor claro de las normas anteriores, en laespecie se ha reclamado el reavalúo de la propiedad, en los términos y dentro de losplazos que señalan las normas antes referidas, entendiéndose excluida aquella parteque el Servicio administrativamente concedió, por lo que la aplicación de coeficientescorrectores que atienden a la afectación a utilidad pública de una superficie de 3.480metros cuadrados, se mantendrá inalterado. 7°.- Que, por su parte, en lo que se refiere a las normas queconstituyen el marco por el que se debe regir el procedimiento llevado adelante por elServicio y la impugnación de la reclamante"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-31.423-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-31.423-2018",
+      "document_id": "f91f5dc3-9b0b-5729-bbc1-0720a72109ad",
+      "chunk_uuid": "44e9967c-b7ab-5ad2-9d1c-7ff6e4e7f2e5",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/21248",
+      "content": " citado inciso 1° del artículo N°17 hacía una referencia genérica a la indemnización de cualquier daño emergente, sin haber incorporado mención alguna en relación al resarcimiento generado a propósito de una expropiación por causa de utilidad pública. Señalaron que lo anterior se confirmó por el Decreto Ley N°2186, que dispuso en el artículo 20 inciso 5° que la indemnización subrogaría al bien expropiado para todos los efectos legales.\nEn relación a lo anterior, la Corte estableció que, de acuerdo con la reglamentación contenida en el Decreto Ley N°2186, aparecía de manifiesto que la suma indemnizatoria recibida por concepto de expropiación por causa de utilidad pública solo vino a reemplazar el valor del bien despojado, por lo que la suma de dinero recibida por la contribuyente expropiada no calificaría jurídicamente como renta en los términos previstos en el artículo 2° de la Ley sobre Impuesto a la Renta.\nFinalmente, el Máximo Tribunal concluyó que, en virtud del artículo 17 N°29 de la Ley sobre Impuesto a la Renta, el uso de la expresión “para todos los efectos legales” denotaba la idea de incorporar y hacer oponible la consecuencia jurídica que la norma describe, a todo el espectro normativo interno, incluyendo por cierto el ámbito tributario y, específicamente, a la citada Ley, desestimando de esta forma, las otras 2 denuncias de infracción."
+    },
+    {
+      "name": "Corte de Apelaciones de Concepción: Sentencia ROL-05-2013",
+      "source_type": "jurisprudencia",
+      "source": "ROL-05-2013",
+      "document_id": "71d6bef3-ec6a-5b67-be95-15f8809f3b99",
+      "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/4244",
+      "content": "Impugnación del avalúo de un bien raíz utilizando el procedimiento general de reclamación"
+    },
+    {
+      "name": "Oficio N°3447 (06/12/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3447 (06/12/2021)",
+      "document_id": "a9acedd9-c001-5f2f-a728-14cdaad8a618",
+      "chunk_uuid": "ae5e8e4b-007e-5dd6-9522-568e4e0d8610",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3447-06%2F12%2F2021.pdf&extension=pdf&acc=download&id=1a6597bc-679a-4b8a-8530-80c7caf86825&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20 Nº 1, LETRA B) Y ART. 34  \n \n(ORD. N° 3447 DE 06.12.2021). \n \n \nAvalúo fiscal de bien raíz agrícola a considerar para determinar renta presunta en caso que \nindica.  \nSe ha solicitado a este Servicio un pronunciamiento sobre la forma de determinar la renta presunta en el \ncaso que un bien raíz agrícola se explote solo en una parte de un ejercicio comercial.  \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, un pequeño agricultor que explotaba un bien raíz con animales en \nengorda, los cuales terminó de vender en su totalidad en mayo 2021, decidió dar en arriendo el bien raíz \nagrícola a un tercero, a contar de julio, decidiendo tributar según contrato conforme al artículo 14, letra \nB), de la Ley sobre Impuesto a la Renta (LIR).  \nLuego, consulta si se puede tributar proporcional por los meses efectivos de explotación agrícola, es \ndecir considerar en este caso 5/12 del avalúo fiscal, o deberá hacer término de giro y a la vez inicio de \nactividades para la actividad de arrendamiento.  \nII  \nANÁLISIS  \nEn respuesta a sus anteriores consultas sobre la materia1, este Servicio resolvió que, en virtud del \nsistema de “presunción” de renta, la propia ley presume de derecho que la renta proveniente de un bien \nraíz agrícola equivale al 10% de su avalúo fiscal, entendiendo al bien raíz como un todo. Vale decir, \nconsiderando el avalúo fiscal total del rol del bien raíz, sin la posibilidad de proporcionalizarlo cuando \nsólo una parte del bien raíz agrícola fuere explotado y la otra fuere entregada en arriendo.  \nLuego, y de acuerdo con dicha jurisprudencia, para determinar la renta presunta de la actividad agrícola \nse debe considerar el total del avalúo fiscal establecido en el rol del bien raíz agrícola que se encuentre \nen explotación, ya sea que dicha explotación corresponda al total o solo a una parte del bien raíz.  \nDistinta es la situación cuando la explotación de un bien raíz agrícola se efectúa solo en un periodo \ndentro de un mismo ejercicio comercial, como informa en su nueva consulta. En tal situación, si bien la \nrenta presunta se determina aplicando el 10% de presunción sobre el total del rol de avalúo del bien raíz, \ndicho resultado debe proporcionalizarce en relación con el tiempo en que el bien raíz, total o \nparcialmente, estuvo efectivamente en explotación.  \nLuego, si el bien raíz agrícola – según describe en su presentación – fue explotado, total o parcialmente, \nsolo entre enero y mayo del 2021, circunstancia que debe ser formalmente acreditada, la renta presunta a \ndeclarar por la explotación del bien raíz agrícola corresponderá a 5/12 de la renta presunta determinada \ndel 10% sobre el total del rol de avalúo del bien raíz. Lo anterior, por cuanto conforme a lo dispuesto en \nel inciso primero del artículo 34 de la LIR, vigente a partir del 1° de enero de 2016, la presunción de \nrenta en el caso de la actividad agrícola aplica respecto de la explotación de dichos bienes raíces.  \nConforme lo anterior, no será necesario hacer término de giro e inicio de actividades para la actividad de \narrendamiento, sin perjuicio de la obligación de dar aviso al Servicio en el formulario 3239, sobre \n“modificación y actualización de la información”, y, en el año tributario 2022, declarar como \ncontribuyente del impuesto de primera categoría la renta presunta que le corresponda por la explotación \ndel bien raíz, conforme al artículo 34 de la LIR y en la proporción ya analizada."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de la Araucanía: Sentencia RIT-GR-08-00041-2012",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-08-00041-2012",
+      "document_id": "48389dab-14f1-584f-89d5-594641e3b543",
+      "chunk_uuid": "714f4dc5-dbb5-502f-af88-ab896a55aa92",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/2609",
+      "content": "- El Tribunal Tributario y Aduanero de Temuco acogió un reclamo deducido por un contribuyente en contra de una liquidación emitida por el Servicio de Impuestos Internos, mediante la cual éste determinó diferencias de impuesto debido a que no se justificó el origen de los fondos con los cuales adquirió una propiedad e invirtió en fondos mutuos.\n\n- Sobre el particular, el órgano jurisdiccional manifestó que el ente fiscalizador debía acreditar la existencia de una de las tres inversiones en fondos mutuos que cuestionaba. Ello, por cuanto el reclamante señaló que la suma indicada estaba erróneamente determinada, ya que tal cantidad correspondía al monto de los rescates del año respectivo corregido por IPC y no a una inversión efectiva. Al respecto, el sentenciador expresó que frente a tal discrepancia el Servicio no acompañó prueba que permitiera afirmar la existencia de un fondo mutuo de tales características, pues debía verificar la información proporcionada por terceros, constatando asimismo que la supuesta inversión efectuada correspondía presumiblemente a rescates efectuados por el actor corregidos conforme al IPC, razón por la cual dejó sin efecto el acto administrativo en este punto.\n\n- Luego, respecto de las restantes inversiones –adquisición de un bien raíz y dos inversiones en fondos mutuos– señaló que a pesar de que el contribuyente no dio respuesta a la citación, en sede judicial podía acreditar el origen de los fondos con los cuales financió éstas y que sobre él pesaba la carga de la prueba. Así, el actor demostró que las inversiones en fondos mutuos fueron financiadas con rentas exentas provenientes del extranjero, donde residió hasta el año 2005; finalmente, acreditó que el bien raíz fue adquirido con dineros provenientes de fondos mutuos."
+    },
+    {
+      "name": "Circular N°77 (23/12/1997)",
+      "source_type": "circular",
+      "source": "Circular N°77 (23/12/1997)",
+      "document_id": "85a2b0e8-eabf-5a67-a187-1315bb32e89a",
+      "chunk_uuid": "3a4fa552-2bab-53ca-91c3-cb8e2e00c302",
+      "chunk_id": 53,
+      "url": "https://www.sii.cl/documentos/circulares/1997/circu77.pdf",
+      "content": ": Anotar el monto de las \ncontribuciones de Bienes Raíces que la sociedad o comunidad respectiva determinó como un \ngasto rechazado, conforme a las normas del Artículo 21 de la Ley de la Renta, debidamente \nreajustadas al término del Ejercicio, por los factores de actualización publicados por el SII. \n\n\nPor tratarse esta partida de un gasto común, ella debe informarse de acuerdo a la participación \nque le corresponda al respectivo socio o comunero en las utilidades de la empresa.\nColumna Otros Gastos Rechazados Actualizados: Se debe registrar el monto de los demás \ngastos rechazados que la sociedad o comunidad respectiva incurrió durante el Ejercicio \nComercial correspondiente, determinados éstos conforme a las normas del Artículo 21 de la \nLey de la Renta, debidamente reajustados al término del Ejercicio por los factores de \nactualización publicados por el SII, y afectos a los impuestos Global Complementario o \nAdicional o al Impuesto Unico de 35% del inciso 3 del Artículo 21 de la Ley de la Renta, \ncuando el socio o comunero sea una SA, SCPA o un contribuyente del Artículo 58, No. 1 de \nla Ley del ramo. Dichos gastos deben informarse en la proporción que corresponda a cada \nsocio o comunero, de acuerdo al porcentaje de participación en las utilidades de la empresa, \nsegún el respectivo contrato social, cuando se traten de cantidades que no tengan un \nbeneficiario en particular. En caso contrario, los referidos gastos deben informarse en su \ntotalidad al socio o comunero beneficiario.\nPor otra parte, sólo deben informarse aquellos gastos rechazados que están afectos a los \nimpuestos antes indicados, excluyéndose, por lo tanto, toda cantidad que no obstante reunir \nlos requisitos que exige el inciso primero del Artículo 21 de la Ley de la Renta, por \ndisposición expresa de dicho precepto legal u otra norma de otros textos legales, se \nencuentran liberados de la aplicación de los mencionados impuestos. (Circs. SII, Nos. 45, de \n1984; 56, de 1986; 13, de 1989; 42, de 1990; 17, de 1993 y 37, de 1995).\nColumna Crédito por Impuesto de Primera Categoría: En esta columna se debe registrar el \nmonto del crédito por impuesto de Primera Categoría a que dan derecho los gastos \nrechazados, conforme a las normas de los Artículos 56, No. 3 y 63 de la Ley de la Renta, \nregistrándolo en forma separada de acuerdo a si dicho crédito da derecho o no a devolución \na la persona obligada a declarar los gastos rechazados.\nEl citado crédito se determina aplicando los factores que correspondan sobre los gastos \nrechazados que dan derecho a dicha rebaja, según sea la tasa del Impuesto de Primera \nCategoría con que se afectaron las referidas cantidades o las utilidades a las cuales se \nimputaron. Si las citadas partidas dan derecho al crédito con tasa 10% ó 15%, los factores a \nutilizar corresponden a 0,11111 ó 0,17647, respectivamente.\nLas empresas acogidas al régimen de tributación del Artículo 14 bis de la Ley de la Renta, \ncuando informen a sus socios o comuneros los gastos rechazados a que se refiere el Artículo \n21 de la Ley, no deben utilizar esta columna, ya que las referidas partidas no dan derecho al \ncrédito por Impuesto de Primera Categoría por no afectarse con dicho tributo a nivel de las \ncitadas empresas, a menos que se trate de gastos rechazados provenientes de otras sociedades \nen las cuales hayan sido gravados con el mencionado tributo de categoría. (Circ. SII, No. 59, \nde 1991).\nSe hace presente que respecto de la cantidad anotada en la columna \"Impuesto de Primera \nCategoría\" no se tiene derecho al crédito por concepto del citado tributo, conforme a las \ninstrucciones impartidas por la"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-10-00116-2014",
+      "source_type": "jurisprudencia",
+      "source": "RIT-10-00116-2014",
+      "document_id": "9a3dc3eb-49a2-5419-b815-3c0caa23838e",
+      "chunk_uuid": "357e375a-7b12-5c38-9e9f-f297df6f15d5",
+      "chunk_id": 4,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1009",
+      "content": "uciones modificatorias individuales de avalúos n° A08.2014.00012937 y A08.2014.00012938 de fecha 8 de julio de 2014 por parte del Servicio de Impuestos Internos. Antecedentes, hechos o circunstancias que la reclamada habría omitido al dictar los actos administrativos impugnados.\n\n- Efectividad que concurren los presupuestos que permitirían dejar sin efecto las resoluciones reclamadas. Antecedentes, hechos o circunstancias que lo acreditan.\n\nSÉPTIMO: Que, según se aprecia del examen de los actos administrativos impugnados, del escrito de reclamación y de la contestación del Servicio de Impuestos Internos, la controversia jurídica se centra, primeramente, en determinar la existencia o no de una falta de fundamentación en la dictación de los actos administrativos reclamados.\n\nOCTAVO: Que, bajo este tenor, se observa que con fecha 8 de julio de 2014 el Servicio reclamado procede a dictar las resoluciones modificatorias individuales de avalúos n° A08.2014.00012937 y A08.2014.00012938, señalando, respecto de la primera resolución, en su considerando el n° 2 que “por aplicación del plan de fiscalización de los bienes raíces, se ha analizado su situación tributaria, en cuanto al impuesto territorial, del bien raíz rol N° XXXXX, ubicado en XXXX, de la comuna de Concepción, resolviéndose modificar a partir del 01.01.2013, el giro del impuesto territorial de dicho bien raíz de $ 0 a $ 10.195.272 por semestre, montos en moneda del segundo semestre de 2014”; y respecto de la segunda resolución, en su considerando el n° 2 que “por aplicación del plan de fiscalización de los bienes raíces, se ha analizado su situación tributaria, en cuanto al impuesto territorial, del bien raíz rol n° 1230-40, ubicado en XXXXXXX, de la comuna de Concepción, resolviéndose modificar a partir del 01.07.2011 y hasta el 31.12.2012, el giro del impuesto territorial de dicho bien raíz de $ 0 a $ 11.531.901 por semestre, montos en moneda del segundo semestre de 2014”.\n\nNOVENO: Que, como punto de partida para el análisis propuesto en el motivo anterior, es necesario recordar que ni la Ley de Impuesto Territorial, ni el Código Tributario, entregan un concepto de lo que ha de entenderse por resolución.\n\nFrente a esta indefinición legal, debe recurrirse a las normas contenidas en la Ley N° 19.880 de 2003, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.\n\nEn este contexto, no debe olvidarse que el artículo 1° de ese texto normativo, consagra el carácter supletorio de sus disposiciones en caso que la ley establezca procedimientos administrativos especiales. Sobre el particular, la Contraloría General de la República ha señalado que la supletoriedad aludida, “significa que su uso procede en la medida en que la materia en la cual incide la norma de este cuerpo legal que pretende aplicarse, no haya sido prevista en el respectivo ordenamiento administrativo especial y, en tanto sea conciliable con la naturaleza del respectivo procedimiento específico, sin que pueda afectar o entorpecer el normal desarrollo de las etapas y mecanismos que dicho procedimiento contempla para el cumplimiento de la finalidad particular que la ley le asigna” (Dictamen N° 27.163 de 2009, citado por XXXXXXXXX, Repertorio. Ley de Procedimiento Administrativo. Jurisprudencia, Comentarios, Concordancias e Historia de la Ley, Edit. AbeledoPerrot, Santiago, 2011, pp. 2-3).\n\nDe esta manera, no cabe duda alguna que frente al denunciado silencio normativo de la Ley de Impuestos Territorial y del Código Tributario en cuanto a la definición del concepto resolución, resultan plenamente aplicables las normas"
+    },
+    {
+      "name": "Circular N°30 (18/07/1995)",
+      "source_type": "circular",
+      "source": "Circular N°30 (18/07/1995)",
+      "document_id": "264c00f2-dabb-5794-95b8-2c9d6847d3c2",
+      "chunk_uuid": "7a3b2ac5-3f34-50c9-8b7c-ceeacfcd5216",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/circulares/1995/30.htm",
+      "content": " ubicado el bien raíz, a excepción de la Regional Metropolitana Santiago\nCentro que recibirá los formularios No. 2.830 de cualquier punto del país, excluyendo los\nque son de la jurisdicción de alguna otra Regional del Area Metropolitana.\nPor excepción, el último día del plazo, una vez cerrada la Oficina, el reclamo se puede\npresentar, hasta las 24 horas, en el domicilio de un funcionario previamente designado\npara desempeñar esta labor, el cual debe dejar constancia con su firma, de la fecha y\nhora de presentación, tanto en el original como en las copias del reclamo. Para estos\nefectos, es necesario que en un lugar destacado de la sede de la Dirección Regional y\nde las Unidades se exhiba un letrero con el nombre y domicilio del funcionario\nencargado.\nDebe hacerse presente que la presentación del reclamo y demás escritos debe\nefectuarse entregándolos en las oficinas que se han señalado y que no procede que se\nenvíen por Correo.\n2.- PLAZO DE PRESENTACION DEL RECLAMO\nDel avalúo asignado en una tasación general, se podrá reclamar dentro del mes\ncalendario siguiente al de la fecha de término de la exhibición de los roles de avalúo.\n(Art. 149 del Código Tributario).\nEste plazo es fatal y comprende aún los días feriados y corre hasta las 24 horas del\núltimo día del mes calendario. Por ser legal, este plazo es improrrogable.\n3.- CAUSALES DE RECLAMOS DE AVALUOS\nDe lo expuesto en el Artículo 149 del Código Tributario, se desprende que el reclamo\ncontra el avalúo asignado a un predio no agrícola en una tasación general, sólo podrá\nfundarse en las causales indicadas en el Artículo 149. La reclamación que se funde en\nun motivo diferente será desechada de plano.\nLas causales en que pueden fundarse estos reclamos son:\n- Determinación errónea de la superficie de los terrenos o construcciones;\n- Aplicación errónea de las tablas de clasificación respecto del bien gravado, o de una\nparte del mismo;\n- Errores de transcripción, de copia o de cálculo.\n4.- TRAMITACION DEL RECLAMO\nAntes de dar curso al reclamo, el Departamento Regional de Avaluaciones examinará si\ncumple con los requisitos de haber sido interpuesto dentro del plazo legal, y de fundarse\nen alguna de las causales enumeradas en el punto anterior.\nSi no cumpliere con estos requisitos, el Departamento Regional de Avaluaciones\ninformará al Tribunal Tributario para que emita un fallo no ha lugar por extemporáneo en\nel primer caso, y por improcedente en el segundo.\n5.- EXPEDIENTE DE RECLAMO\nEl expediente de reclamo se formará, entre otros, con los siguientes elementos:\na) La carátula del expediente;\nb) El Formulario No. 2.830 con todos los documentos acompañados por el contribuyente\nen tal ocasión;\nc) La resolución y registro de tasación que dan origen al reclamo;\nd) El Informe Técnico emitido por Avaluaciones;\ne) Los documentos que el tasador informante aporta al proceso (registro de tasación\n\n\npropuesto, planos, croquis, etc.).\n6.- INFORME TECNICO\nEl Departamento Regional de Avaluaciones emitirá un Informe Técnico con una\nproposición de fallo cada vez que un Formulario No. 2.830 no se acoja o se acoja en\nparte por la vía administrativa, situación en la que se remitirá una copia de éste al\ncontribuyente.\nEl funcionario informante evacuará su informe y en él dejará constancia circunstanciada\nde todos los antecedentes que puedan conducir a la fundamentación de la sentencia, y\nacompañará todos los antecedentes que hayan servido para su elaboración, tales como\nregistro de tasación, planos, croquis, etc.\nEl Departamento Regional de Avaluaciones enviará una copia de este informe al\nreclamante, por carta certificada.\nJAVIER ETCHEBERRY CELHAY\n"
+    },
+    {
+      "name": "Artículo 917",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "41870b6a-58f7-5484-bc61-db07ab4a4cd0",
+      "chunk_uuid": "f450d433-5964-5833-af7c-c13a4c624c07",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767428",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título XV DE LA EXPROPIACION POR CAUSA DE UTILIDAD PUBLICA,Artículo 917|Art. 917. (1094). Reunidos los peritos y el tercero en el día y hora que designe el tribunal, bajo una multa de un sueldo vital en caso de inasistencia, harán un avalúo circunstanciado de los bienes que se trata de expropiar y de los daños y perjuicios que con la expropiación se causen al propietario. No se tomará en cuenta para este avalúo el mayor valor que puedan obtener los bienes expropiados a consecuencia de las obras a que esté destinada la expropiación."
+    },
+    {
+      "name": "Oficio N°3419 (29/12/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°3419 (29/12/2016)",
+      "document_id": "0752635f-1c3f-5e0f-ac4b-d0bc5bf37257",
+      "chunk_uuid": "2e13d6ee-e1b3-5dbe-bde3-b7b359c0c791",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja3419.htm",
+      "content": " del bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo no se\nconsiderará habitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de\ngarantías hipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de\ndeudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo\ndeterminado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución judicial.\nLa transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser\nconsiderada habitual”.\n Agrega que le corresponde al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad.\nPara estos efectos, el artículo 4° del D.S. N° 55, de 1977, establece cómo se determina la habitualidad en el\ncaso de los bienes corporales muebles, lo que se hace extensiva a los bienes corporales inmuebles,\nconforme lo instruido por la Circular N° 42, de 2015.\n Finalmente, esa Dirección Regional señala que según lo expuesto por el consultante, durante este año 2016\nse ejercerá por parte de YYYY la opción de compra de los inmuebles tomados en leasing, se adquirirá su\ndominio y se enajenarán dentro del mismo año; lo que deriva en la presunción de habitualidad consagrada en\nel N° 3 del artículo 2° del D.L. 825, y que para fines de la determinación de la base imponible, habrá que\najustarse a lo dispuesto en el inciso segundo del artículo 17° del mismo decreto ley.\n  II.-  ANÁLISIS Y CONCLUSIÓN\nPara fines del análisis de la consulta realizada, se dan por reproducidos los N° 1 y 3 del artículo 2° del\nDecreto Ley N° 825, de 1974, que fueron transcritos precedentemente, luego de las modificaciones\n\n\nincorporadas por las leyes N° 20.780 y N° 20.899; asimismo, lo señalado por esa Dirección Regional en\nrelación al artículo 4° del Reglamento del D.S. N° 55, de 1977, sobre la forma en que el Servicio califica la\nhabitualidad.\nPor su parte, el artículo Séptimo Transitorio de la Ley N° 20.780, modificado por la Ley N° 20.899 establece\n“Estarán exentas del impuesto al valor agregado las ventas de bienes corporales inmuebles que se graven\ncomo consecuencia de la modificación que se introduce en el artículo 2° del decreto ley N° 825, de 1974, a\ntravés de la letra a) del numeral 1 del artículo 2° de la presente ley, siempre que dichos bienes cuenten, al 1\nde enero de 2016, con el permiso de edificación a que se refiere la Ley General de Urbanismo y\nConstrucciones, y las ventas respectivas se efectúen dentro del plazo de un año contado desde la fecha a\nque se refiere el numeral 1 del artículo quinto transitorio. Estarán también exentas del impuesto al valor\nagregado, en el caso de bienes corporales inmuebles nuevos que cuenten con el permiso de construcción a\nla fecha señalada, la venta u otras transferencias de dominio, incluido el contrato de arriendo con opción de\ncompra, que se graven como consecuencia de estas modificaciones siempre que respecto de tales bienes se\nhaya ingresado, al 1 de abril de 2017  , la solicitud de recepción definitiva de la obra ante la Dirección de\nObras Municipales correspondiente conforme lo establece el artículo 144 de la ley General de Urbanismo y\nConstrucciones”.\nAhora bien, como lo ha señalado este Servicio[1], con las modificaciones que la Ley N° 20.780 hace a los N°\n1 y 3 del artículo 2° del Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, las ventas\ngravadas de inmuebles, que estaban restringidas exclusivamente a las transferencias de inmue"
+    },
+    {
+      "name": "Resolución N°110 (25/11/2022)",
+      "source_type": "resolucion",
+      "source": "Resolución N°110 (25/11/2022)",
+      "document_id": "1108a16d-9a89-5dd6-b42e-ac697e5f6435",
+      "chunk_uuid": "261bdf87-0b0b-54ed-8160-058351398600",
+      "chunk_id": 6,
+      "url": "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso110.pdf",
+      "content": " \ndeterminación del monto provisional de la indemnización correspondiente a la expropiación de los \nterrenos. \nd) Otros antecedentes que la DIRECCIÓN recopile a lo largo de los procesos expropiatorios y que \npuedan tener importancia para el SERVICIO, especialmente, en lo que dice relación con la \nsituación de la propiedad raíz después de verificados los procesos en cuestión. \nEn el caso de las expropiaciones, se utilizará la aplicación disponible en el sitio web del SERVICIO, para cada \npredio expropiado, deberá adjuntarse como mínimo esta información: \nCAMPOS \nDESCRIPCIÓN \nNúmero de decreto \nN° decreto emitido por el MOP \nFecha de Decreto \nFecha de emisión del decreto \nConsignación de los fondos en la cuenta del tribunal \nFecha de la consignación \nInscripción de dominio a favor del fisco (*) \nIndicación de fojas, número y fecha de inscripción \nCopia de Inscripción de dominio \nCopia digital de la inscripción de dominio \nSuperficie \nSuperficie predial expropiada \nComuna \nComuna predial \nRol de avalúo \nRol del predio expropiado \nA nombre de \nNombre propietario expropiado \nRut \nRut propietario (s) expropiado (s) \nCartografía digital \nIncorporar cartografía digital asociada \n(*) En caso de haberse efectuado la inscripción \n \n\n\n \n10 \n \nANEXO N°3 \n1. Protocolo técnico de intercambio de información. \n \nAmbas instituciones deberán elaborar, de manera conjunta y consensuada, un documento \ncomplementario a este Convenio, que contendrá la fecha de inicio del intercambio de información y las \nespecificaciones técnicas del proceso de intercambio de  información tales como: medios de envío, \ntipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones \nde entrada y salida de la información, naturaleza de la información (estructurada o no estructurada), \nperiodicidad, entre otros aspectos técnicos a considerar en el intercambio de la información. Este \nDocumento técnico, podrá ser revisado y actualizado, a petición de alguna de las Instituciones \nfirmantes y en coordinación con la otra Institución, conforme a las necesidades de nueva información \na intercambiar producto de una actualización o modificación al Convenio, cambios tecnológicos que \nafecten la naturaleza informática del intercambio o cualquier situación técnica del intercambio que \namerite actualizar este Documento. \n \n2. Protocolos de coordinación y colaboración. \n \na) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos \ninformados, el encargado del Convenio deberá comunicarse con su contraparte, con el fin de agendar \nlas reuniones que sean necesarias o cualquiera otra instancia que estimen los coordinadores. \n \nb) Las Instituciones, a petición de algunas de éstas, brindarán apoyo técnico al organismo que lo solicite \na través de capacitación, conocimiento y experiencia de tal forma de contribuir en las funciones de \ncada uno de los organismos. \n \nc) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboración mutua en \nprocesos o acciones de fiscalización que se determinen y acuerden entre ambos organismos, en \nrelación con intercambios de información que apoyen estos procedimientos.” \n \n \nANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.          \n \n \n \n \n \nDIRECTOR \n \n \nAMF \nDistribución \n- \nInternet \nANDRE \nMAGNERE \nKNOCKAERT\nou=SUBDIRECTOR, o=Servicio \nde Impuestos Internos, c=CL, \nst=SUBDIRECCION DE \nGESTION ESTRATEGICA Y \nESTUDIOS TRIBUTARIOS, \nl=Santiago de Chile, \nemail=andre.magnere@sii.cl, \ncn=ANDRE MAGNERE \nKNOCKAERT \n2022.11.25 09:00:40 -03'00'\nHERNAN \nANDRES \nFRIGOLETT \nCORDOVA\nFirmado digitalmente por HERNAN \nANDRES FRIGOLETT CORDOVA \nNombre de reconocimiento (DN):"
+    },
+    {
+      "name": "Cuarto Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-GR-18-00613-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-18-00613-2013",
+      "document_id": "7f63d6f8-fbca-51fa-aa6e-48ec3872152b",
+      "chunk_uuid": "f9a65467-7c03-5298-bbba-39a9930b9ca8",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1112",
+      "content": " una Universidad Privada existente al 31 de mayo del año 1931 y por cumplir íntegramente todos los requisitos establecidos en la letra B, número 2, del cuadro anexo de la ley N° 17.235, todo con vigencia retroactiva al primer semestre de 2010.\n\nEn subsidio de lo principal, solicita en el primer otrosí del reclamo de fojas 1 que se rectifique el avalúo fiscal del terreno por las consideraciones que someramente expone, petición que ya fue resuelta a fojas 8, rechazándose de plano por no corresponder a aquellas materias reclamables de acuerdo al procedimiento de aplicación general del artículo 123 y siguientes del Código Tributario.\n\nA fojas 10, comparece doña Zoila Orellana González, Directora (S) de la XV Dirección Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, asumiendo la representación de la reclamada y confiriendo patrocinio y poder al abogado don Pablo Pérez Zegers, y poder a los abogados doña Aída Gana Galarce y doña Liliana Flores González.\n\nA fojas 13, comparece don Pablo Pérez Zegers, en representación de la reclamada, quien evacuando el traslado conferido, solicita que se rechace íntegramente el reclamo presentado, se confirme el Giro del Impuesto Territorial correspondiente al bien raíz Rol XXXX-95, de la Comuna de Las Condes, condenándose en costas a la reclamante, en consideración a los antecedentes de hecho y de derecho que indica.\n\nEn el primer capítulo de su libelo, indica que la pretensión del reclamante consiste en que se elimine por improcedente el Giro del Impuesto Territorial por un monto total de $23.311.786.-, respecto del inmueble de propiedad de la actora ubicado en XXXX, correspondiente al sitio eriazo Rol N°XXXX-95 de la comuna de Las Condes, en adelante indistintamente \"el bien raíz, el predio o el inmueble\" y determine que éste quede totalmente liberado del pago del Impuesto Territorial, estableciéndole un avalúo exento equivalente al avalúo fiscal del mismo, con vigencia retroactiva al primer semestre de 2010.\n\nSeñala que el antecedente inmediato del Giro impugnado corresponde a la Resolución Ex. SII N°A15/2013.00023617 de fecha 29 de octubre de 2013, mediante la cual se resolvió modificar a partir del 01/01/2013 el giro del Impuesto Territorial. La modificación efectuada originó el cobro suplementario de contribuciones correspondientes al primer y segundo semestre del año 2013 por un monto total de $23.311.786.-\n\nEn el segundo capítulo de su libelo, expone resumidamente los fundamentos del reclamante.\n\nEn el tercer capítulo de su traslado, indica que el reclamo debe ser rechazado en todas sus partes, incoando como primer fundamento, que el acto administrativo objeto de reclamo lo constituye el Giro y no la Resolución en virtud de la cual se resolvió la solicitud de actualización catastral presentada por el contribuyente en relación con el bien raíz Rol N°XXXX-95, ubicado en XXXX, comuna de Las Condes, modificando a partir del 01.01.2013 el giro del Impuesto Territorial del predio.\n\nPrecisa que las actuaciones antes referidas no adolecen de vicio alguno, no obstante se hará cargo de las alegaciones del reclamante, de la forma que a continuación indica.\n\nComo segundo fundamento, señala en relación a la Exención del Impuesto Territorial, que la pretensión del actor dice relación con una declaración de certeza acerca de la procedencia de la referida materia que escapa del ámbito del Procedimiento General de Reclamación establecido en el artículo 123 y siguientes del Código Tributario, encontrándose determinado el ámbito en que debe ejercerse la Jurisdicción del Tribunal Tributario y Aduanero por el acto recurrido, en este caso, el Giro que se funda en la Resolución Ex. S"
+    },
+    {
+      "name": "Cuarto Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-GR-18-00613-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-18-00613-2013",
+      "document_id": "7f63d6f8-fbca-51fa-aa6e-48ec3872152b",
+      "chunk_uuid": "d139741b-52ee-5e8b-a203-87bc20b388c2",
+      "chunk_id": 4,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1112",
+      "content": " Ley N°20.033 (publicada en el Diario Oficial el 01/07/2005).\n\nComo sexto fundamento, indica que la condición alegada por la reclamante del predio afecto a expropiación, que conllevaría la exención del Impuesto Territorial de acuerdo a los artículos 59 y 60 de la ley General de Urbanismo y Construcciones, no fue sostenida en documentación alguna aportada por el contribuyente, limitándose éste a señalar que los antecedentes que acreditan tal condición se acompañarán en la etapa procesal respectiva.\n\nFinalmente, indica que la determinación del avalúo fiscal del terreno rol XXXX-95 de la comuna de Las Condes, ascendente a $1.903.003.065.-, se efectuó recientemente en base a las consideraciones que detalla y explica.\n\nEn conclusión, solicita se rechace íntegramente el reclamo en contra del Giro que contiene el cobro suplementario de contribuciones respecto del bien raíz Rol XXXX-95, de la comuna de Las Condes, por haber sido dicho acto administrativo dictado conforme a derecho, no concurrir a su respecto ningún vicio que afecte su legalidad y eficacia, de conformidad con los antecedentes de hecho y de derecho expuestos; se confirme el Giro del Impuesto Territorial del bien raíz Rol XXXX-95 de la comuna de Las Condes vigente a partir del 01/01/2013 y con ello el cobro suplementario de contribuciones respecto del mismo, correspondiente al primer y segundo semestre de 2013; y se condene en costas al reclamante .\n\nA fojas 22, el Tribunal establece que no se desprende de los escritos de discusión, ni de los antecedentes aportados en autos, que existan hechos sustanciales, pertinentes y controvertidos, que requieran ser acreditados conforme a lo dispuesto en el artículo 132, inciso 2° del Código Tributario, pudiendo sentenciarse el presente reclamo con los antecedentes que ya obran en autos, resolviendo que pasen estos para fallo.\n\nCONSIDERANDO:\n\n1°) Que, conforme al mérito de la inobjetada instrumental acompañada en el segundo otrosí de fojas 1, agregada a fojas 4, consistente en Mandato Judicial de fecha 28 de mayo de 2013, se deberá tener por reconocida y por establecida la facultad de doña XXXX, para representar a la reclamante, de conformidad con lo dispuesto por el artículo 129 del Código Tributario.\n\nAsimismo, conforme al mérito de la inobjetada instrumental acompañada en el primer otrosí de fojas 10, agregada a fojas 11 y 11 vta., consistente en copia de Resolución SIIPERS N°12056, de 28 de agosto de 2013, se deberá tener por reconocida y por establecida la facultad de doña Zoila Orellana González, en su calidad de Director Regional(S) de la XV Dirección Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, para representar a la reclamada, de conformidad con lo dispuesto por el artículo 117 del Código Tributario.\n\n2°) Que la reclamante ha incoado su reclamo invocando, como primer fundamento de su libelo, que el giro reclamado es erróneo, debido a la tasación y sobretodo a la destinación del bien raíz efectuada por el SII, ya que si bien en el hecho el predio es un sitio eriazo, en derecho no es su destino natural de acuerdo a su uso exclusivo y fundamentalmente, para los fines en que se va a destinar a futuro, debiendo necesariamente estimarse que forma parte integrante de todos los inmuebles de la Universidad; como segundo fundamento, que al ser el inmueble objeto de litis de propiedad de la XXXX, corporación de educación superior sin fines de lucro, se configura uno de los supuestos que establece la Ley N°17.235, Cuadro Anexo, letra B, N°2 para que el inmueble esté totalmente exento del pago de contribuciones, cumpliendo todas las características, condiciones y requisitos establecidos en dicha norma legal; como tercer fundamento, que el inmueble objeto de reclamo se encuentra afecto"
+    },
+    {
+      "name": "Oficio N°4176 (17/11/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°4176 (17/11/1999)",
+      "document_id": "c99f770b-1912-5cf3-91f9-29ddaa070bc3",
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta -1999\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ARTICULO 17º, Nº 8, ARTICULO 18º,\nINCISO 1º.\n_____________________________________________________________________________\nInterpretación del Servicio de las expresiones \"adquisición\" y \"enajenación\" en\ncompraventa de bienes raíces - Tratamiento en caso de enajenaciones de bienes raíces\npor expropiación - se entienden adquiridos o enajenados los bienes raíces cuando son\ninscritos en el Conservador de Bienes Raíces - Indemnización destinada a resarcir el\nvalor del bien expropiado, sin acrecentarlo constituiría la indemnización de un daño\nemergente - Susceptible de calificarse en el Art. 17º, Nº 1 como ingreso no constitutivo de\nrenta - Enajenación por expropiación no es aplicable Presunción de Habitualidad - No\nconcurre el acto voluntario de enajenar el bien.\n1.- Por intermedio del Ordinario indicado en el antecedente se ha remitido la presentación de un\ncontribuyente, quien expresa que de acuerdo a lo establecido en el artículo 18, inciso primero,\nde la Ley de la Renta, en los casos indicados en las letras a), b), c), d), i) y j) del número 8º del\nartículo 17 de esta misma ley, si tales operaciones representan el resultado de negociaciones o\nactividades realizadas habitualmente por el contribuyente, el mayor valor que se obtenga estará\nafecto a los impuestos de Primera Categoría y Global Complementario o Adicional, según\ncorresponda.\nIndica a continuación, que el inciso tercero de este artículo 18, presume de derecho que existe\nhabitualidad en determinados casos que señala y que en todos los demás casos se presumirá\nhabitualidad \"cuando entre la adquisición o construcción del bien raíz y su enajenación\ntranscurra un plazo inferior a un año\".\nPor lo anterior consulta, cual es la interpretación que da el Servicio a las expresiones\n\"adquisición\" y \"enajenación\" en el caso de compraventa de bienes raíces, y más\nespecíficamente si por \"adquisición\" se entiende que dicho hecho tiene lugar en la fecha del\ncontrato o en la fecha en que se practica la inscripción del dominio a favor del comprador en el\nRegistro de Propiedad del Conservador de Bienes Raíces. Asimismo, si por \"enajenación\" se\nentiende que dicho hecho tiene lugar en la fecha del contrato de venta o en la fecha en que se\npractica la inscripción en el Conservador de Bienes Raíces a nombre del comprador, haciendo\npresente al respecto, que el contrato de compra es un título que habilita para adquirir el dominio,\npero el comprador no lo adquiere por la celebración del contrato sino que por la tradición que se\npractica mediante la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces.\nEn relación con la misma materia, consulta además cual es el tratamiento que da este Servicio\nen el caso de enajenaciones de bienes raíces por efecto de una expropiación, cuando entre la\nfecha de adquisición del bien raíz y la fecha de enajenación por expropiación ha transcurrido\nmenos de un año.\nAl respecto, y no siendo la expropiación una enajenación voluntaria consulta, si se produce de\ntodas maneras el hecho gravado en el caso en que la indemnización por la expropiación sea\nmayor que el precio de la compraventa y por lo tanto si se devenga el impuesto a la renta.\n2.- Sobre el particular, y en relación a la primera consulta formulada en cuanto a la oportunidad\nen que debe entenderse verificada la adquisición y enajenación de un bien raíz, esta\ncircunstancia se da cuando el inmueble respectivo se encuentra inscrito en el Registro de\nPropiedad del Conservador de Bienes Raíces.\n3.- En cuanto a precisar si el pago de una indemnización en el caso de la expro"
+    },
+    {
+      "name": "Oficio N°2571 (29/06/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°2571 (29/06/2000)",
+      "document_id": "fa78b5e0-b4b2-5d7b-a9de-ddaeaed4a3da",
+      "chunk_uuid": "d2729eba-7bf8-5f2c-adaa-f3e3277619df",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/julio02.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2000 \nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA - ART. 17° N° 1, INCISO 2° - ART.\n19° N° 24, INCISO 3° CONSTITUCION POLITICA DEL ESTADO – ART. 38° LEY\nORGANICA DE PROCEDIMIENTO DE EXPROPIACIONES APROBADA POR D.L. N°\n2.186, DE 1978.\nIndemnización otorgada por el Estado por expropiación de bien raíz – Expropiado\ntendrá siempre derecho a indemnización – Concepto de indemnización –\nIndemnización destinada a resarcir el valor del bien expropiado – Constituiría una\nindemnización de un daño emergente – No está afecto con ningún impuesto de la\nLey de la Renta – Eventual indemnización por lucro cesante – Estaría afecta a la\ntributación general que establece la Ley de la Renta – Tratamiento tributario\nanterior es sin perjuicio de lo establecido en inciso 2° del N° 1 del artículo 17° - En\nconsulta planteada no son aplicables las instrucciones de las Circulares N° 19, de\n1991, y 5, de 1996.\n1.- Por Ordinarios indicados en el antecedente se ha remitido la presentación de un\ncotribuyente, quién consulta sobre la tributación que afectaría a la indemnización\nrecibida por la expropiación de una superficie de terreno adquirida para la construcción\ndel By Pass de Temuco y que para efectos del pago de la expropiación, una comisión de\nperitos tasadores designados por el Estado de Chile fijó el valor comercial de la\nexpropiación.\nEl recurrente consulta, si en virtud de lo anterior, y en relación a lo instruído en\nCirculares N° 19, de 1991 y N° 5, de 1996, si el monto a percibir es un ingreso no\nconstitutivo de renta por ser fijado por una comisión oficial ajena al contribuyente y si es\nnecesario que dicho valor sea ratificado por el Servicio.\nFinalmente expresa, si el criterio anterior es válido para la enajenación de un bien raíz\nagrícola bajo las mismas circunstancias, efectuada por una sociedad agrícola que tributa\nbajo renta presunta y que voluntariamente se acogió a tributar a base de renta efectiva.\n2.- Sobre el particular, cabe señalar en primer lugar, que el inciso tercero del N° 24 del\nartículo 19 de la Constitución Política del Estado, señala que el expropiado tendrá\nsiempre derecho a indemnización por el daño patrimonial efectivamente causado.\nAsimismo, la Ley Orgánica de Procedimiento de Expropiaciones aprobada por el D.L. Nº\n2.186, de 1978, define en su artículo 38º el concepto de \"indemnización\" como la\nreparación del daño patrimonial efectivamente causado con la expropiación y que sea\nuna consecuencia directa e inmediata de la misma.\n3.- Ahora bien, atendido la finalidad que tienen las indemnizaciones otorgadas por el\nEstado con motivo de la expropiación de una bien raíz, conforme a las normas legales\nantes mencionadas, siendo ésta reparar el daño patrimonial efectivamente causado en\nvirtud de la expropiación realizada, desde el punto de vista de la Ley de la Renta, es\naplicable en la especie lo dispuesto por el artículo 17 N° 1 de dicha ley, que dispone que\nno constituyen renta la indemnización de cualquier daño emergente, entendido éste\ncomo aquel que ocasiona una pérdida, detrimento o disminución efectiva en el\npatrimonio del que lo sufre o en los bienes que conforman dicho patrimonio y que la\nindemnización destinada a reparar el mencionado daño tiene por objeto restablecer el\npatrimonio dañado en el valor perdido sin acrecentarlo. Por consiguiente, dicha\nindemnización no debe implic"
+    },
+    {
+      "name": "Cuarto Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-GR-18-00613-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-18-00613-2013",
+      "document_id": "7f63d6f8-fbca-51fa-aa6e-48ec3872152b",
+      "chunk_uuid": "575d37a2-0022-55d0-acde-fdb550bf518c",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1112",
+      "content": " eleva de $0.- a $11.655.893.- por semestre, además, se procede a un cobro retroactivo por la suma de $ 23.311.786.-\n\nAgrega que lo anterior se debe a que el SII decretó, que el predio en referencia, debe estar afecto a contribuciones levantando así la exención total de la cual gozaba hasta la fecha.\n\nComo primer fundamento de su libelo, indica que el giro de impuestos que se reclama, es erróneo, debido a la tasación y, sobretodo, a la destinación efectuada por el SII, ya que si bien en el hecho el predio es un sitio eriazo, en derecho no es su destino natural, ya que de acuerdo a su uso exclusivo y fundamentalmente para los fines en que se va a destinar a futuro, debe necesariamente estimarse que forma parte integrante de todos los inmuebles de la universidad, cuyo propósito fundamental es satisfacer las necesidades de extensión, educación, cultura y demás fines pertinentes propios de la XXXX, por lo que el Servicio debió haber concedido al predio un avalúo exento igual al avalúo total del mismo y en consecuencia no haber efectuado el giro de contribuciones que por este acto se reclama.\n\nComo segundo fundamento, explica que al ser el inmueble objeto de litis de propiedad de la XXXX, corporación de educación superior sin fines de lucro, se configura uno de los supuestos que establece la Ley N°17.235, Cuadro Anexo, letra B, N°2 para que el inmueble esté totalmente exento del pago de contribuciones, cumpliendo todas las características, condiciones y requisitos establecidos en dicha norma legal, esto es: 1. El propietario es una Universidad, la XXXX; 2. Esta institución se encuentra reconocida por el Ministerio de Educación; 3. Este bien raíz se encuentra destinado única y exclusivamente a cumplir funciones de educación, investigación y extensión y, 4. El predio no produce renta alguna.\n\nIndica que debe considerarse adicionalmente lo prescrito en el artículo 67 inciso 1° del DFL N°280 de 1931, el que cita y reproduce, destacando que las universidades particulares existentes gozan de personalidad jurídica, administran libremente sus bienes y éstos no están sujetos a impuestos.\n\nComo tercer fundamento de su reclamo, manifiesta que el inmueble objeto de reclamo se encuentra afecto a expropiación, por lo que resulta aplicable el artículo 99 de La Ley General de Urbanismo y Construcción, disposición que señala que “Mientras una Municipalidad no haga efectiva la expropiación de los terrenos declarados de utilidad pública o no edificables, de acuerdo a lo prescrito en los artículos 59° y 60° de esta ley, se suspenderá a su respecto el pago de las contribuciones de bienes raíces, siempre que dichos terrenos no generen renta alguna” y, en la especie, el inmueble de propiedad de su representada se encuentra afecto a expropiación por aplicación tanto de las causales como de los requisitos que mencionan los artículos 59 y 60 de la Ley General de Urbanismo y Construcción, por lo que de acuerdo a lo norma legal citada precedentemente el predio de autos está exento del pago de contribuciones.\n\nEn su conclusión y previa citas legales, solicita que se elimine por improcedente el giro de contribuciones que se reclama; se determine que el predio reclamado quede totalmente exento de pago de impuesto territorial, estableciéndose un avalúo exento equivalente al avalúo fiscal del mismo; se otorgue el Código Interno de Exención N°126, por tratarse de un inmueble de propiedad de una Universidad Privada existente al 31 de mayo del año 1931 y por cumplir íntegramente todos los requisitos establecidos en la letra B, número 2, del cuadro anexo de la ley N° 17.235, todo con vigencia retroactiva al primer semestre de 2010.\n\nEn subsidio de lo principal, solicita en el primer otrosí del reclamo de fojas 1 que se rectifique el avalúo fiscal del terreno por las consideraciones que someramente expone, petición que ya fue resuelta a fojas"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-31.423-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-31.423-2018",
+      "document_id": "f91f5dc3-9b0b-5729-bbc1-0720a72109ad",
+      "chunk_uuid": "6dcb4884-2c6e-5e65-ae2b-8aef5f08d748",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/21248",
+      "content": "La Corte Suprema rechazó el recurso de casación en el fondo interpuesto por el Servicio de Impuestos Internos respecto de la sentencia dictada por la Corte de Apelaciones de Concepción que confirmó el fallo de primera instancia pronunciado por el Tribunal Tributario y Aduanero de la Región del Biobío, el cual hizo lugar al reclamo deducido en contra de unas Liquidaciones que determinaron diferencias de Impuesto de Primera Categoría.\nEl Ente Fiscal denunció infringidos los artículos 17 N°1 inciso 2° en relación con el artículo 2 N°1, ambos de la Ley sobre Impuesto a la Renta, en conexión con las reglas de interpretación establecidas en los artículos 19 a 24 del Código Civil.\nLo anterior, señaló el Órgano Fiscalizador, en atención a que, si bien la indemnización de cualquier daño emergente era un ingreso no renta, la sentencia recurrida pasó por alto la directriz prevista en el inciso segundo del artículo 17 N°1. Este inciso segundo consignaba que no regiría dicha indemnización en el caso de bienes incorporados al giro de un negocio, empresa o actividad cuyas rentas efectivas debían tributar con el impuesto de primera categoría, sin perjuicio de la deducción como gasto de dicho daño emergente, situación que se dio en la especie.\n\nEl Servicio arguyó que haber situado a la contribuyente en la variable reglada en el artículo 17 N°1 inciso 1° de la Ley sobre Impuesto a la Renta, implicó una transgresión al concepto mismo de renta estampado en el artículo 2 N°1 del citado texto legal. Lo anterior, en atención a que el fallo impugnado dejó sin efecto los actos reclamados que se fundaron precisamente en el artículo 17 N°1 inciso 2°, toda vez que debió agregarse a la base imponible el monto que correspondía al incremento de patrimonio sujeto a tributación.\n\nAdemás, el recurrente, denunció infringidos los artículos 17 N°29 de la Ley sobre Impuesto a la Renta en relación con los artículos 20 inciso 5° y 38, ambos del Decreto Ley N°2186. Para estos efectos, se sostuvo que el Decreto Ley citado en parte alguna aludió a un caso constitutivo de ingreso no renta. Por tal razón, esgrimió el Servicio, el error de derecho se manifestó en que, valiéndose de una peculiar interpretación jurídica de las normas consagradas en el Decreto Ley sobre Procedimiento de Expropiaciones, se lesionó el principio de legalidad tributaria.\nFinalmente, el Servicio acusó vulnerados los artículos 20 N°5 y 97 inciso 6°, ambos de la Ley sobre Impuesto a la Renta. Este reclamo se justificó en haberse dejado sin efecto Actos Administrativos válidamente emitidos por la vía de dejar sin efecto el artículo 17 N°1 inciso 2° del citado cuerpo normativo. Esto, en atención a que el monto discutido tenía categoría de ingreso afecto al impuesto a la renta, por cuanto no existía norma que lo calificara como ingreso no renta.\nLa Corte Suprema manifestó que era preciso señalar que la discusión jurídica de la causa se circunscribió a determinar el tratamiento tributario que correspondía asignar a la indemnización recibida por la contribuyente a título de expropiación de un inmueble por causa de utilidad pública.\nEn lo que respecta a la primera denuncia de infracción, los Sentenciadores manifestaron que tal interpretación debía ser desestimada, por cuanto el ya citado inciso 1° del artículo N°17 hacía una referencia genérica a la indemnización de cualquier daño emergente, sin haber incorporado mención alguna en relación al resarcimiento generado a propósito de una expropiación por causa de utilidad pública. Señalaron que lo anterior se confirmó por el Decreto Ley N°2186, que dispuso en el artículo 20 inciso 5° que la indemnización subrogaría al bien expropiado para todos los efectos legales.\nEn relación a lo anterior, la Corte estableció que, de acuerdo"
+    },
+    {
+      "name": "Resolución N°65 (18/07/2017)",
+      "source_type": "resolucion",
+      "source": "Resolución N°65 (18/07/2017)",
+      "document_id": "2712ae52-a888-5629-a58f-f04b2e1b00af",
+      "chunk_uuid": "9c272e30-0aa3-588e-8db8-e867a482745f",
+      "chunk_id": 45,
+      "url": "http://www.sii.cl/normativa_legislacion/resoluciones/2017/reso65.pdf",
+      "content": "o o subdivisión, permitiendo incluso la obtención de \ncopias simples de los mismos. \ne) Acceso a los registros individuales de los roles de avalúo, pudiendo consultarse en ellas los \nantecedentes relativos a la inscripción de dominio del bien raíz si existieran. \nEl presente convenio no requerirá de procesos informáticos para la entrega de la información antes \nseñalada. \nTERCERO: Por su parte “la Coordinación”, a través de su unidad Ejecutiva de Expropiaciones, \nproporcionará “al Servicio”, como contraprestación la siguiente información y/o antecedentes: \na) La información de los predios que están actualmente en proceso de expropiación. Ello \npermitirá a “el Servicio” adoptar los cursos de acción que estime conducentes. \nb) Copia de los planos de expropiación definitivos, con sus respectivos cuadros de expropiación \ny deslindes. \nc) Los antecedentes relativos a las tasaciones realizadas por los peritos tasadores, en su labor \nde determinación del monto provisional de la indemnización correspondiente a la \nexpropiación de los terrenos. \nd) Otros antecedentes que “la Coordinación” recopile a lo largo de los procesos expropiatorios \ny que puedan tener importancia para “el Servicio”, especialmente, en lo que dice relación \ncon la situación de la propiedad raíz después de verificados los procesos en cuestión. \nCUARTO: Las partes acuerdan además, que la información que “el Servicio” se compromete a \nproporcionar a “la Coordinación” en virtud de este convenio, podrá ser recabada directamente por \nésta a través de su Unidad Ejecutiva de Expropiaciones, como asimismo, por las Concesionarias \nque se hayan adjudicado las diversas obras concesionadas, y/o por las consultoras contratadas por \nunos u otros. \nQUINTO: Las personas que en virtud de la cláusula anterior soliciten información “al Servicio” en \nrepresentación de las entidades que allí se indican, deberán actuar debidamente acreditados, para \nlo cual, bastará con la exhibición de certificado extendido por la Unidad Ejecutiva de Expropiaciones, \nlos cuales únicamente acreditarán su condición de tal. \nSEXTO: La entrega de la información que ambas partes se comprometen a proporcionarse por este \nconvenio, se verificará a contar de los eventos que se indican: \n1. “La Coordinación” podrá solicitar los antecedentes establecidos en la cláusula Segunda, ante \nlos departamentos regionales o unidades de Avaluaciones de “el Servicio” desde la fecha de \n\n\nsuscripción del presente convenio en horarios a convenir directamente con los \ndepartamentos regionales de Avaluaciones o unidades de Avaluaciones según corresponda. \n2. Por su parte “el Servicio” recibirá la información una vez terminado cada uno de los procesos \nexpropiatorios, esto es, cuando la propiedad quede definitivamente inscrita a nombre del \nfisco. \nSÉPTIMO: Para asegurar el cabal cumplimiento de este convenio, cada una de las partes designará \na un profesional en un plazo máximo de 15 días a la firma del presente convenio, para que en \nconjunto, desempeñen las labores de coordinación de las actividades a que éste diera lugar. \nOCTAVO: El presente Convenio tendrá una vigencia anual a contar de la fecha de su suscripción, \nrenovándose automáticamente por períodos iguales y sucesivos, en similares condiciones, si \nninguna de las partes manifiesta su intención de no renovarlo, dando aviso por escrito a la otra, con \na lo menos sesenta días de anticipación al término del período que estuviese en vigencia. \nNOVENO: “El Servicio” y “la coordinación” adoptarán las medidas e impartirán las instrucciones que \nfueren necesarias para que el presente convenio tenga aplicación y validez en todas y cada una de \nlas Unidades regionales de “el Servicio” del país. \nDÉCIMO: La representación con que actúa el Director del Servicio de Impuestos Internos consta en \nel Decre"
+    },
+    {
+      "name": "Resolución N°110 (25/11/2022)",
+      "source_type": "resolucion",
+      "source": "Resolución N°110 (25/11/2022)",
+      "document_id": "1108a16d-9a89-5dd6-b42e-ac697e5f6435",
+      "chunk_uuid": "ab4c2aa8-f0b3-5191-be8c-47e84d24726e",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso110.pdf",
+      "content": "ucción, operación, construcción y operación \n \n \n2) Fiscalización a concesiones \n \nCAMPO \nDESCRIPCIÓN \nRUT \nRut concesionario. \nDV \nDV concesionario \nNOMBRE \nNombre o identificador de la obra concesionada \nFECHA DE LA MULTA \nFecha de la multa \nMULTA \nMonto de la multa  \nESTADO DE LA MULTA \nSuspendida, anulada, reembolsada, pagada u otro a especificar \n\n\n \n8 \n \n3) Cambio de accionista*: Se desea conocer si hubo cambio de concesionario, total o \nparcialmente, y cuál es el concesionario actual. \n \nCAMPO \nDESCRIPCIÓN \nRUT_O \nRut concesionario original \nDV_O \nDV concesionario original \nNOMBRE ORIGINAL \nNombre o identificador de la obra concesionada \nRUT_N \nRut concesionario actual \nDV_N \nDV concesionario actual \nFECHA_CAMBIO \nFecha de venta o cambio de concesionario \nNOMBRE NUEVO \nCONCESIONARIO \nNombre o identificador de la obra concesionada \nRAZÓN \nRazón del cambio (reorganización, quiebra, etc.) \n* Algunos campos pueden no tener cambios, sólo en caso de que ocurran serán informados \n4) Ingresos totales (datos presupuestados) \n \nCAMPO \nDESCRIPCIÓN \nNOMBRE \nNombre o identificador de la obra concesionada \nTIPO PRESUPUESTO INGRESO \nTipología del Ingreso a pagar de la SC al MOP \nMONTO PRESUPUESTO \nMonto del Ingreso a pagar de la SC al MOP \n \n \n5) Costos totales (datos presupuestados) \n \nCAMPO \nDESCRIPCIÓN \nNOMBRE \nNombre o identificador de la obra concesionada \nTIPO PRESUPUESTO EGRESO \nTipología del Egreso a pagar del MOP a SC \nMONTO PRESUPUESTO \nMonto del Egreso a pagar del MOP a SC \n \n6) Ingresos totales (agregado solo de datos reales) \n \nCAMPO \nDESCRIPCIÓN \nNOMBRE \nNombre o identificador de la obra concesionada \nTIPO INGRESO \nTipología del Ingreso pagado de la SC al MOP \nMONTO INGRESO \nMonto del Ingreso pagado de la SC al MOP \n \n7) Costos totales (agregado solo de datos reales) \n \nCAMPO \nDESCRIPCIÓN \nNOMBRE \nNombre o identificador de la obra concesionada \nTIPO EGRESO \nTipología del Egreso a pagar del MOP a SC \nMONTO EGRESO \nMonto del Egreso a pagar del MOP a SC \n\n\n \n9 \n \n8) Información de expropiaciones \n \nLa DIRECCIÓN enviará al SERVICIO la siguiente información. \n \nPara el SERVICIO resulta de utilidad contar con la información que se genera durante los procesos \nexpropiatorios respecto de los bienes, especialmente para la individualización correcta de los predios, la cual, \na su vez, es uno de los antecedentes fundamentales para la determinación del Impuesto Territorial. El \nSERVICIO recibirá vía aplicación de Internet la información una vez terminado cada uno de los procesos \nexpropiatorios, esto es, cuando se consigna el monto de la expropiación en la cuenta bancaria del Tribunal. \n \na) Información de los predios que están actualmente en proceso de expropiación. Ello permitirá al \nSERVICIO adoptar los cursos de acción que estime conducentes. \nb) Copia digital de los planos georreferenciados de expropiación definitivos, con sus respectivos \ncuadros de expropiación y deslindes. \nc) Los antecedentes relativos a las tasaciones realizadas por los peritos tasadores, en su labor de \ndeterminación del monto provisional de la indemnización correspondiente a la expropiación de los \nterrenos. \nd) Otros antecedentes que la DIRECCIÓN recopile a lo largo de los procesos expropiatorios y que \npuedan tener importancia para el SERVICIO, especialmente, en lo que dice relación con la \nsituación de la propiedad raíz después de verificados los procesos en cuestión. \nEn el caso de las expropiaciones, se utilizará la aplicación disponible en el sitio web del SERVICIO,"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-GR-10-00095-2020",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-10-00095-2020",
+      "document_id": "3c7caa7d-3088-580d-87e7-24f11022ddeb",
+      "chunk_uuid": "ae0a379d-ab10-5a7e-b77a-8cfff3338be4",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17648",
+      "content": "El Tribunal Tributario de la Región de Ñuble y Bío Bío acogió el reclamo interpuesto en contra de unas Liquidaciones emitidas por la VIII Dirección Regional de Concepción, que determinaron diferencias de Impuesto de Primera Categoría por el pago de una indemnización.\n\nLa reclamante sostuvo que consideró como deducción a la Renta Liquida Imponible aquellos ingresos derivados de una indemnización por expropiación, los que, a su juicio, tenían el carácter de ingresos no constitutivos de renta en virtud de los artículos 20 inciso 5° y 38 del Decreto Ley N° 2.186 de 1978, sobre Ley Orgánica de Procedimiento de Expropiaciones, en relación con el artículo 17 N° 29 de la Ley sobre Impuesto a la Renta.\n\nAsimismo, la contribuyente manifestó que la indemnización pagada por el Fisco de Chile no constituía incremento de patrimonio ni un beneficio económico, sino más bien una compensación por la pérdida patrimonial sufrida, aún más la indemnización al subrogar el bien expropiado para todos los efectos legales la excluiría como tributable.\n\nPor su parte, el Servicio indicó que no se cumplía la condición de ingreso no renta, y si bien era cierto, que la indemnización por expropiación tenía dicha calidad, lo anterior contaba con la excepción de aquellas en que el daño emergente se refería a bienes incorporados al giro del negocio de contribuyentes que tributaban por Impuesto de Primera Categoría con renta efectiva, situación que se daba en el caso de autos. Agregó, que la distinción tenía justificación, ya que los contribuyentes con renta efectiva podían rebajar como gasto la pérdida material del bien expropiado, de conformidad a los artículos 17 N° 1 y 31 N° 3 de la Ley sobre Impuesto a la Renta, lo que tenía su contrapartida en el\ningreso generado por la indemnización. En cambio, los contribuyentes sin renta efectiva, no podían rebajar como gasto la pérdida del bien expropiado, por lo que se justificaba que el ingreso por la indemnización sea considerado como no renta.\n\nEl Tribunal Tributario declaró improcedentes las liquidaciones emitidas, aduciendo que las indemnizaciones pagadas por el Fisco de Chile no constituían bajo ningún punto de vista un incremento patrimonial ni tampoco beneficio económico, sino una compensación por la pérdida patrimonial. En este sentido, la indemnización al subrogar al bien expropiado para todos los efectos legales, se debía excluir de los ingresos tributables, debiendo no obstante considerarse en la contabilidad como un ingreso no constitutivo de renta en virtud de lo dispuesto en el artículo 17 N° 29 de la Ley sobre Impuesto a la Renta."
+    },
+    {
+      "name": "Oficio N°538 (23/03/2009)",
+      "source_type": "oficio",
+      "source": "Oficio N°538 (23/03/2009)",
+      "document_id": "738d10b7-c5f2-5e8d-8f95-f2202cb57d68",
+      "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2009/renta/ja538.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2009\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°5, ART. 41° – OFICIO N° 3.032, DE 2002.\n(ORD. N° 538, DE 23.03.2009)\nBIEN RAÍZ POSEÍDO EN COMUNIDAD – DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 31°,\nN°5, DE LA LEY SOBRE IMPUESTO A LA RENTA, SE AUTORIZA A DEDUCIR COMO GASTO\nNECESARIO PARA PRODUCIR LA RENTA, EN CUANTO SE RELACIONE CON EL GIRO DEL NEGOCIO,\nUNA CUOTA ANUAL DE DEPRECIACIÓN POR LOS BIENES FÍSICOS DE ACTIVO INMOVILIZADO LOS\nEFECTOS DE LO DISPUESTO EN EL N°5 DEL ARTÍCULO 31°, DE LA LEY DE LA RENTA –\nREQUISITOS – LOS DERECHOS QUE SE POSEEN RESPECTO DE UN BIEN RAÍZ, POSEÍDO EN\nCOMUNIDAD, NO TIENEN EL CARÁCTER DE UN BIEN FÍSICO DEL ACTIVO INMOVILIZADO SINO QUE\nUN DERECHO QUE ES UN BIEN INTANGIBLE, LOS CUALES NO ESTÁN SUJETOS A DEPRECIACIÓN\nNI A AMORTIZACIÓN, YA QUE NO EXISTE NORMA LEGAL QUE AUTORICE DEDUCCIONES\nTRIBUTARIAS POR ESTOS CONCEPTOS.\n1.- Por presentación indicada en el antecedente, señala que dentro de sus clientes se encuentra la situación\nde que tres de ellos, todas personas jurídicas y con giro de inversiones, adquirieron un bien raíz en\ncomunidad para el objeto de destinarlo a sus actividades comerciales como oficinas, de manera que en la\nactualidad el bien raíz se utiliza para los fines señalados.\nLa proporción que corresponde a cada una de las empresas en la comunidad por el bien comprado es de\n40%, 30 % y 30%, y a su vez, cada una de ellas contabilizó en sus registros contables utilizando la cuenta\nDerechos en Bienes Raíces por el valor que corresponde a su proporción y se acogen a las normas de\ncorrección monetaria del articulo 41 de la Ley de la Renta.\nSin embargo, ha surgido la duda de si a estos bienes del activo le son aplicables las normas de\ndepreciaciones establecidas en el artículo 31, N° 5, que para los efectos de la determinación de la renta\nlíquida permite deducir: \"Una cuota anual de depreciación por los bienes físicos del activo inmovilizado a\ncontar de su utilización en la empresa, calculada sobre el valor neto de los bienes a la fecha del balance\nrespectivo, una vez efectuada la revalorización obligatoria que dispone el artículo 41\".\nLo anterior debido a que al ser dueño de una parte del bien, su tenencia se transforma en derechos, que por\nnorma general por tratarse de bienes intangibles no están afectos a depreciaciones, sin embargo, en\nrespuesta a otras consultas específicamente sobre presunción de habitualidad, el Servicio ha señalado \"que\nno siendo el derecho que recae sobre un bien raíz un derecho distinto del de dominio, la cesión que se haga\nde dicho derecho real al cesionario transfiere el dominio del cedente en ese bien produciéndose en la\nespecie la enajenación de un bien raíz (Oficio N° 3.032, de 26.08.2002).\nComo a la enajenación de los derechos se le da el carácter de enajenación de un bien raíz, le surge la duda\nsi para los efectos de las depreciaciones también tiene el carácter de un bien raíz, razón por la cual se\nconsulta si los derechos en bienes raíces están sujetos a las depreciaciones contempladas en el artículo 31.\n2.- Sobre el particular, en primer término procede señalar que el N° 5 del articulo 31 de la Ley de la Renta\nautoriza a deducir como g"
+    },
+    {
+      "name": "Resolución N°69 (21/07/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°69 (21/07/2014)",
+      "document_id": "72b096ac-69b2-5d3d-b751-f9fb02853b68",
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso69.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nSERVICIO DE IMPUESTOS INTERNOS  \nSUBDIRECCIÓN DE FISCALIZACIÓN  \nMODIFICA \nCONTENIDO \nDEL \nFORMULARIO      \nN° \n50 \nSOBRE \nDECLARACIÓN \nY \nPAGO \nSIMULTÁNEO MENSUAL DE IMPUESTOS.  \nSANTIAGO, 21 DE JULIO DE 2014       \nHoy se ha resuelto lo que sigue:  \nRESOLUCIÓN EX. SII Nº 69.-  \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el \nartículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de \noctubre de 1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el \nartículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la \nRenta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; la Ley N° 20.657 del Ministerio \nde Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de Febrero de 2013, que \nModifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° 18.892, de 1989 y sus \nmodificaciones; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de \n2014; y \nCONSIDERANDO:  \n1° Que, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° \nde su Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el \ncumplimiento de las obligaciones tributarias de los contribuyentes;  \n2° Que, mediante la Resolución Ex. N° 27, de 27 \nde julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° \n41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de 2014; \n3° Que, con motivo de la publicación de Ley N° \n20.657 del Ministerio de Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de \nFebrero de 2013, que Modifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° \n18.892, de 1989 y sus modificaciones, se agrega el artículo 43 ter, el que establece un Impuesto \nEspecífico para los titulares de licencias transables de pesca clase A, que deben pagar anualmente \nen el mes de julio, surge la necesidad de adecuar el Formulario 50 de Declaración y Pago \nSimultáneo Mensual de Impuestos; \n4° Que, conforme el artículo 29 del Código \nTributario"
+    },
+    {
+      "name": "Cuarto Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-GR -18-00479-2014",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR -18-00479-2014",
+      "document_id": "8710cdbe-9add-53af-a4a3-25c1faf05cf5",
+      "chunk_uuid": "3c61d0bb-d970-5988-a7ca-ee6bb364e03a",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14623",
+      "content": " que fijó el monto del pasivo en una cantidad determinada.En tercer lugar, con respecto a que la pérdida invocada tiene efecto tributario, reiteran que lareclamante tuvo compromisos bancarios que no pudo cumplir, provenientes de contratos válidamentecelebrados con los respectivos acreedores, a raíz de lo cual dichos acreedores procedieron a hacerefectivas las garantías y, como estas garantías implicaban que un tercero había caucionado con bienesde su propiedad dichas obligaciones, la ejecución de los bienes dados en garantía implicó que lareclamante tuvo que asumir ante dicho tercero tales obligaciones. Agregan que el Servicio no tienerazón, en anteriores procesos de fiscalización, cuando afirma que la obligación de reembolso de lareclamante sólo tenía un carácter eventual, puesto que al enajenarse las acciones de un tercero quese habían dado en garantía de obligaciones de la reclamante, estas acciones fueron vendidas en unprecio que el acreedor recibió y que redujo el pasivo bancario, de modo que la obligación de reembolsotiene un valor mínimo representado por dicha suma. Reafirman que el pasivo exigible en cuestión síexistía y que su monto pudo variar, pero no puede desconocerse la existencia de la obligación dereembolso como lo señala la sentencia arbitral. Aseveran que aparecen cumplidos todos lospresupuestos legales para que esta obligación constituya un pasivo exigible para la reclamante,aseverando que la calidad de necesario del gasto adeudado está fuera de toda duda, ya que consta enun título ejecutivo que es una sentencia judicial ejecutoriada, la cual sustenta en forma fehaciente laprueba del gasto.Con respecto a las otras partidas, relatan que los antecedentes solicitados durante la revisión fueronproporcionados en su totalidad a la fiscalizadora, solicitando acreditar las siguientes partidas: 1) Gastosde Administración por $79.993.985; 2) Intereses Pagados por $395.001.164; 3) Amortización menorvalor tributario por $457.865.212; 4) Corrección Monetaria de las Inversiones por $98.502.440; y 5)Corrección monetaria Capital Propio Tributario por $17.141.652. Además, señalan cómo a su juicioestas partidas se encuentran justificadas.En cuarto término, con respecto a la prescripción, sostienen que las leyes tributarias establecen que laactuación fiscalizadora del Servicio debe realizarse dentro de ciertos plazos a que se refieren losartículos 59 y 200 del Código Tributario, de modo que si el Servicio no ha objetado dentro de dichos Documento firmado electrónicamente por don/ña Miguel Andrés Massone Pardo, el 04-06-2019.Verifique este documento en www.tta.cl, con el siguiente código de verificación2ec63105-5f66-4c3e-8618-068fe8afd28e Timbre Electrónico Ciento sesenta y uno – 161plazos las declaraciones de impuestos presentadas por el contribuyente, no puede con posterioridadmodificar y cuestionar tales antecedentes, debiendo tenerse por ciertos los resultados que se hayandeterminado en dichas declaraciones, citando en abono de su tesis las instrucciones contenidas en laCircular N°26 del año 2008 y la Circular N°51 del año 2005.En el capítulo de su libelo relativo al derecho, citan lo dispuesto en el artículo 31 inciso primero ytercero número 3 de la Ley sobre Impuesto a la Renta.Con respecto a la acreditación de los créditos por Impuesto de Primera Categoría, confirman que éstosse encuentran plenamente justificados.A fojas 40, se confiere traslado a la parte reclamada.A fojas 45, comparece don XXXXXXXXXX, abogado, en representación de la parte reclamada,quien, evacuando el traslado conferido en autos, solicita que se rechace el reclamo presentado por elcontribuyente, se confirme la resolución reclamada y se condene en costas al reclamante, en virtud del"
+    },
+    {
+      "name": "Oficio N°4176 (17/11/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°4176 (17/11/1999)",
+      "document_id": "c99f770b-1912-5cf3-91f9-29ddaa070bc3",
+      "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.htm",
+      "content": " el precio de la compraventa y por lo tanto si se devenga el impuesto a la renta.\n2.- Sobre el particular, y en relación a la primera consulta formulada en cuanto a la oportunidad\nen que debe entenderse verificada la adquisición y enajenación de un bien raíz, esta\ncircunstancia se da cuando el inmueble respectivo se encuentra inscrito en el Registro de\nPropiedad del Conservador de Bienes Raíces.\n3.- En cuanto a precisar si el pago de una indemnización en el caso de la expropiación de un\nbien raíz constituye la indemnización de un daño emergente, susceptible de calificarse en el\nartículo 17 Nº 1 de la Ley de la Renta, como un ingreso no constitutivo de renta, cabe tener\npresente que la legislación vigente considera como una indemnización el pago destinado a\nresarcir el valor del bien expropiado.\nEn efecto, el artículo 19 Nº 24, inciso tercero, de la Constitución Política del Estado señala que\nel expropiado tendrá siempre derecho a indemnización por el daño patrimonial efectivamente\ncausado. Asimismo, la Ley Orgánica de Procedimiento de Expropiaciones aprobada por el D.L.\n\n\nNº 2.186 de 1978, define en su artículo 38º el concepto de \"indemnización\" como la reparación\ndel daño patrimonial efectivamente causado con la expropiación y que sea una consecuencia\ndirecta e inmediata de la misma.\nDe este modo, la indemnización destinada a resarcir el valor del bien expropiado,\nreemplazándolo por otro de monto equivalente, con el objeto de evitar un menoscabo en el\npatrimonio del expropiado, sin acrecentarlo, constituiría la indemnización de un daño\nemergente. Con todo, en principio dicha indemnización podría comprender el lucro cesante,\npero ello debería constar del propio fallo o resolución que fija la indemnización.\nLo anterior, sin perjuicio de lo dispuesto en el inciso segundo del número 1º del artículo 17 de la\nLey de la Renta, respecto de los bienes incorporados al giro de un negocio, empresa o\nactividad, cuyas rentas efectivas deban tributar con el impuesto de Primera Categoría.\n4.- Finalmente, respecto de la procedencia de la aplicación de la norma contenida en el inciso\ntercero del artículo 18 de la Ley de la Renta al caso de la enajenación de un bien raíz por efecto\nde una expropiación, cuando entre su fecha de adquisición y la fecha de enajenación por\nexpropiación ha transcurrido menos de un año, se estima que la apreciación del concepto de\nhabitualidad que en ella se contiene debe entenderse asociada a la intención, necesidad o\nmotivo que se tuvo al enajenar el bien, lo que hace suponer la existencia de un acto voluntario\ndel vendedor, presupuesto que excluiría de su ámbito de aplicación a las enajenaciones\noriginadas en la expropiación de un inmueble por parte del Estado, en que no concurre el acto\nvoluntario de enajenar el bien, no siendo, en consecuencia, aplicable dicha normativa al caso en\nanálisis.\n \n                                                                                    JAVIER ETCHEBERRY CELHAY\n                                                                                                      DIRECTOR\n  \nOficio Nº 4.176, del 17.11.1999\nSubdirección Normativa\nDepto. Impuestos Directos\n"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-GR-10-00015-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-10-00015-2018",
+      "document_id": "a37898b5-0dd0-5699-a5ea-9ff05ac7216b",
+      "chunk_uuid": "521c768c-3d55-56c3-9092-e73dd531339b",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/15018",
+      "content": " no renta a una indemnización que cumplía con los requisitos que la norma establecía, tenía como fundamento el que después la pérdida generada por esta expropiación sería rebajada y reconocida como tal.\n\nEl Tribunal Tributario y Aduanero concluyó que la normativa legal aplicable a los hechos era el Decreto Ley N° 2.186 de 1978, específicamente sus artículos 20 incisos 5° y 38; los cuales establecían que la indemnización subrogara al bien expropiado para todos los efectos legales y que cada vez que en esta Ley se empleaba la palabra “indemnización”, debía entenderse que ella se refería al daño patrimonial efectivamente causado con la expropiación, y que por tanto esta era una consecuencia directa e inmediata de la misma.\n\n\nAsí, la indemnización pagada por el Fisco de Chile a la reclamante no constituyó bajo ningún punto de vista un incremento patrimonial ni tampoco un beneficio económico, sino que más bien, una compensación por la pérdida patrimonial sufrida por la recurrente; aún más, la indemnización al subrogar al bien expropiado para todos los efectos legales, lleva inmediatamente a excluirla como un ingreso tributable, no obstante, deberá considerarse en la contabilidad como un ingreso no constitutivo de renta en virtud de lo dispuesto en el artículo 17 N°1 y N° 29 de la Ley sobre Impuesto a la Renta."
+    }
+  ]
+}

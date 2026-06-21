@@ -1,0 +1,5 @@
+{
+  "query_id": "q016",
+  "query_text": "Devolución del IVA en la venta de inmuebles nuevos",
+  "notas": "Tributación inmobiliaria — IVA en venta de inmuebles. Discrimina fuertemente: p1_bm25 top-5 [3,3,2,3,3] vs. p1_splade [2,2,0,1,3]. BM25 encuentra 'devolución IVA inmuebles' con alta precisión léxica; SPLADE expande hacia devolución general de IVA (Art. 27 bis) trayendo chunks menos relevantes. Ganadora top-10 mean_grade: p1_bm25 (2.900). Sin correcciones manuales."
+}

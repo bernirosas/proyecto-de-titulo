@@ -1,0 +1,1108 @@
+{
+  "query_id": "q010",
+  "query_text": "Inscripción de la compraventa en el Conservador de Bienes Raíces como tradición del dominio del inmueble",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 47.468372,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 45.219093,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 43.817974,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 43.204742,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 42.885876,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 41.65962,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 40.200703,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 40.009422,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 39.60996,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+        "score": 39.537666,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 2.989563,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 2.6964111,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+        "score": 2.682373,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+        "score": 2.660614,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 2.6575928,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 2.6569824,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 2.6520386,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a2c651c2-c2ec-5dba-b4b5-7ca39c477695",
+        "score": 2.6351929,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+        "score": 2.6242065,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 2.5786743,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "f5db6768-3e9f-51e4-a448-5a054fd3af78",
+        "score": 37.74526,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 37.654137,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 34.62021,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "5c3f47c5-7bcd-5372-8f83-4bbe23e61146",
+        "score": 33.97765,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1d25bdd2-4000-54fc-9cec-683eca9e7232",
+        "score": 33.69409,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "f622f4d1-cd55-59bb-ae4e-401723dcf66c",
+        "score": 32.498497,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+        "score": 32.21366,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+        "score": 32.207943,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 32.183372,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 30.855125,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 44.866356,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 43.524525,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 41.812916,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 41.755375,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 40.958675,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "c4bef92f-8c47-55bb-98c7-9e0f85b6e78b",
+        "score": 39.909378,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 39.52941,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 39.33116,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 37.773853,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 37.57601,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 1.7202148,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 1.6768799,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 1.4846191,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 1.3833008,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 1.3712158,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 1.3688965,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 1.3566895,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 1.3044434,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 1.2901611,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+        "score": 1.28125,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 42.3659,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 39.99054,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 39.8423,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 39.595375,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+        "score": 37.923676,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 37.61318,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 36.61705,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "c4bef92f-8c47-55bb-98c7-9e0f85b6e78b",
+        "score": 36.3173,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 36.09938,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f622f4d1-cd55-59bb-ae4e-401723dcf66c",
+        "score": 35.08056,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 1.8920898,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 1.6436768,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 1.5200195,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 1.4606934,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 1.3962402,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+        "score": 1.3841553,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 1.3439941,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 1.3115234,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a30d90c2-d459-5c35-8d2d-5587b239c0d3",
+        "score": 1.2995605,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 1.298584,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 23.34375,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 22.34375,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 22.207031,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 21.972656,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 21.503906,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+        "score": 21.501953,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 21.173828,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 21.035156,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+        "score": 21.029297,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 20.955078,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.03200204813108039,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.030776515151515152,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.029083245521601686,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.028814262023217248,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.028438886647841874,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 0.027650648360030512,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.027051561365286855,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+        "score": 0.02661064425770308,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.032266458495966696,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03177805800756621,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.030536130536130537,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+        "score": 0.030158730158730156,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.03007688828584351,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.029211087420042643,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.028474711270410194,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.02749266862170088,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 0.026856524873828405,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+        "score": 0.026470588235294117,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.029877369007803793,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.029437229437229435,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+        "score": 0.029211087420042643,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5c3f47c5-7bcd-5372-8f83-4bbe23e61146",
+        "score": 0.028958333333333336,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f5db6768-3e9f-51e4-a448-5a054fd3af78",
+        "score": 0.02788769549651404,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1d25bdd2-4000-54fc-9cec-683eca9e7232",
+        "score": 0.027432808155699723,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "2036b647-852c-5e5f-8818-728c1a283f55",
+        "score": 0.02604430914933198,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f622f4d1-cd55-59bb-ae4e-401723dcf66c",
+        "score": 0.025151515151515154,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.0315136476426799,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.030776515151515152,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.02967032967032967,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.029418126757516764,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.028594771241830064,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+        "score": 0.026754075124025514,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 0.02667140825035562,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.026234567901234566,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.030798389007344232,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.030536130536130537,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.030536130536130537,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.030017921146953404,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.028814262023217248,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.026838432635534086,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 0.02667140825035562,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+        "score": 0.026333907056798625,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.031754032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.031024531024531024,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.029083245521601686,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.028814262023217248,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.028258706467661692,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 0.027242401779095628,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+        "score": 0.027051561365286855,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.026234567901234566,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.03125763125763126,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.03055037313432836,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.0304147465437788,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.03007688828584351,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.028594771241830064,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+        "score": 0.028404512489927477,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.027730294396961064,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "e1078d07-0cc8-56cc-bf0c-ed9a87c74a57",
+        "score": 0.026500526500526502,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.03200204813108039,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 0.030776515151515152,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+        "score": 0.028814262023217248,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.028594771241830064,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+        "score": 0.028371628371628373,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 0.027271052146674038,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+        "score": 0.02631578947368421,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+        "score": 0.02564935064935065,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 14.5,
+    "p1_tfidf": 14.4,
+    "p1_splade": 130.7,
+    "p2_bm25": 13.0,
+    "p2_tfidf": 8.1,
+    "p3_bm25": 8.9,
+    "p3_tfidf": 8.7,
+    "baseline_qdrant_bm25": 12.2,
+    "rrf_p1_bm25": 63.4,
+    "rrf_p1_tfidf": 51.5,
+    "rrf_p1_splade": 150.5,
+    "rrf_p2_bm25": 173.2,
+    "rrf_p2_tfidf": 174.7,
+    "rrf_p3_bm25": 60.9,
+    "rrf_p3_tfidf": 55.9,
+    "rrf_baseline_qdrant_bm25": 40.5
+  },
+  "pool": [
+    {
+      "name": "Oficio N°2625 (14/12/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°2625 (14/12/2018)",
+      "document_id": "67730004-b64a-5673-9e81-08741076d173",
+      "chunk_uuid": "f5db6768-3e9f-51e4-a448-5a054fd3af78",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja2625.htm",
+      "content": " la\ntradición, en este caso, del inmueble.\n \nDe conformidad con lo dispuesto en los artículos 670, 686 y siguientes del Código Civil, la tradición de los\nbienes raíces, en tanto modo de adquirir el dominio, se efectuará mediante la “inscripción del título” en el\nRegistro de Propiedad del Conservador de Bienes Raíces de la comuna en que el inmueble se ubique.\n \nDe esta manera, la promesa de un contrato, en tanto de cumplimiento con los requisitos legales para ser\ncatalogada como tal, es distinta al contrato prometido. La compraventa, por su parte, es un título que sirve\npara transferir el dominio, pero no produce, por sí misma, enajenación. Así, en ausencia de norma que\nhomologue los efectos tributarios de una y otra, la celebración de un contrato de promesa de compraventa,\nno constituirá enajenación, supuesto factico indicado en la norma del artículo tercero transitorio título IV N° 6\nde la Ley 20.780. \n \n\n\nb.- En relación a la segunda consulta, no existen normas que limiten el beneficio del artículo tercero\ntransitorio título IV N° 6 letra d) de la Ley 20.780, en relación a que la enajenación se efectúe con un tercero\nrelacionado.\n \nc.- Sobre la inclusión dentro de la eventual compraventa de las plantaciones existentes en el predio objeto de\nla misma, cabe señalar que, conforme indica expresamente el literal d) del N° 6 del título IV del artículo\ntercero transitorio de la Ley 20.780, deben incluirse dentro de la tasación los bienes indicados en la Ley\n17.235, que fija el texto refundido, sistematizado y coordinado de la ley sobre Impuesto Territorial (en\nadelante, “LIT”).\n \nPues bien, el artículo 1° de la LIT clasifica los inmuebles en primera y segunda serie, según se trate de un\nbien raíz agrícola o no agrícola, respectivamente. \n \nRespecto de los primeros, indica la norma citada que, “Comprenderá todo predio, cualquiera que sea su\nubicación, cuyo terreno esté destinado preferentemente a la producción agropecuaria o forestal, o que\neconómicamente sea susceptible de dichas producciones en forma predominante”.\n \nLa utilización del concepto de predio, que es un tipo de inmueble , excluye de la tasación del bien raíz los\ninmuebles por adherencia o por destinación, toda vez que la misma Ley 17.235 no los incluye. \n \nDe esta forma, no se considerará dentro de la tasación las plantaciones a que hace referencia el consultante.\n \nEn relación a la valorización de las referidas plantaciones, debe estarse al valor determinado en el balance\ninicial, de acuerdo a las reglas de valorización contenidas en la letra d) del número 1 del numeral IV del\nartículo tercero transitorio de la Ley 20.780.\n \nd.- Sobre la consulta relativa al plazo para informar el traspaso del régimen de renta presunta a efectiva, por\nmotivo de la transformación de la sociedad dueña del predio donde se ejercía la actividad agrícola, que\npasaría de ser una sociedad de responsabilidad limitada a una sociedad anónima. \n \nSobre el particular, el numeral 4) del artículo 34 LIR indica expresamente que, “Cuando se incumpla el\nrequisito establecido en el párrafo cuarto del número 1.- de este artículo, esto es, que correspondan al tipo de\nentidades allí indicadas y los comuneros, cooperados, socios o accionistas sean en todo momento personas\nnaturales, se considerará que han abandonado el régimen desde el 1 de enero del año comercial en que se\nproduce el incumplimiento y que se han incorporado a partir de esa fecha al régimen establecido en la letra\nB) del artículo 14, debiendo dar aviso de tal circunstancia entre el 1 de enero y el 30 de abril del año\ncomercial siguiente”.\n \nDe esta manera, conforme a la norma citada, en caso de transformarse una sociedad de responsabilidad\nlimit"
+    },
+    {
+      "name": "Oficio N°209 (27/01/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°209 (27/01/2012)",
+      "document_id": "0c6d875f-7598-5291-958a-c24829cfbe67",
+      "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja0209.htm",
+      "content": " efectúa por la inscripción del título en el Registro de\nPropiedad del Conservador de Bienes Raíces respectivo, forma en que se lleva a cabo la tradición de los\nbienes inmuebles, según lo establecido en el artículo 686 del Código Civil. Por ello, tratándose de la\ncompraventa de un bien inmueble, la enajenación a que se refiere el artículo 18, de la LIR, debe entenderse\nprecisamente efectuada por la inscripción del título en el citado Registro.\nIII.- CONCLUSIÓN.\nPara los efectos del cómputo de los plazos de uno y cuatro años establecidos en el inciso 3°, del artículo 18,\nde la LIR, se debe considerar la fecha de la inscripción en el Registro de Propiedad del Conservador de\nBienes Raíces, del título que da cuenta de la compra y posterior venta del bien raíz. En el caso que se\nanaliza, procede en principio aplicar la presunción de habitualidad de la parte final, del inciso 3°, del artículo\n18, de la LIR, pues entre la fecha de adquisición y enajenación del bien raíz, habría transcurrido un plazo\ninferior a un año.\nMARIO VILA FERNANDEZ\nDIRECTOR SUBROGANTE\nOficio N° 0209, de 27.01.2012\nSubdirección Normativa\n\n\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°2621 (29/09/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2621 (29/09/2021)",
+      "document_id": "5733ceaf-02ba-599b-abfc-fc870405f7b1",
+      "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2621-29%2F09%2F2021.pdf&extension=pdf&acc=download&id=9a0686ea-3247-4614-b1f9-ec302cf951aa&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 21.210 DE 2020 ARTÍCULO \nVIGÉSIMO PRIMERO TRANSITORIO – CIRCULAR N° 31 DE 2020 \n \n(ORD. N° 2621 DE 29.09.2021). \n \nFecha de adquisición de bienes raíces para efectos de aplicar la depreciación instantánea. \nSe ha consultado a este Servicio sobre qué debe entenderse como fecha de adquisición de bienes raíces \npara aplicar la depreciación instantánea en el contexto de la Ley N° 21.210. Si la fecha de la factura, la \nde la escritura de compraventa o la fecha de inscripción del respectivo bien raíz en el Conservador de \nBienes Raíces.  \nAl respecto, la Circular N° 31 de 2020, sobre el régimen de depreciación instantánea establecido en el \nartículo vigésimo primero transitorio de la Ley N° 21.210, instruye que1 para efectos de determinar la \nfecha de adquisición de los bienes raíces se deberá considerar aquella en que se produzca la \ntransferencia del dominio del bien respectivo al patrimonio del contribuyente.  \nEn el caso de los bienes inmuebles, y de acuerdo a las normas generales del Código Civil, su \ntransferencia (tradición) se verifica mediante la competente inscripción del título de adquisición \nrespectivo en el Conservador de Bienes Raíces2.  \nLuego, la fecha de adquisición de los bienes raíces, para efectos de aplicar la depreciación instantánea \nconforme a las disposiciones transitorias de la Ley N° 21.210, corresponde a la fecha de la inscripción \ndel título respectivo en el Conservador de Bienes Raíces. \nSaluda a usted, \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \n \n \nOficio N° 2621 del 29-09-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n \n1 Letra c) del apartado 1.1. de la Circular N° 31 de 2020 (página 2). \n2 Artículos 679 y 686 del Código Civil. \n"
+    },
+    {
+      "name": "Oficio N°1113 (31/05/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°1113 (31/05/2018)",
+      "document_id": "662b861f-4ffc-52f9-a53b-09cbd2350c34",
+      "chunk_uuid": "f622f4d1-cd55-59bb-ae4e-401723dcf66c",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1113.htm",
+      "content": " la adjudicación. Tratándose\nde la indivisión que nace al disolverse la sociedad conyugal, el efecto declarativo se retrotrae precisamente a\nla fecha en que se disuelve la sociedad, pues, como se señaló, la comunidad nace en ese momento.\n \nEn consecuencia, el efecto declarativo de la adjudicación implica que el adjudicatario respectivo se entiende\ndueño del bien adjudicado desde el momento en que nació la comunidad, sin que ello se vea alterado por la\nposterior inscripción en el Conservador de Bienes Raíces competente, cualquiera sea su fecha.\n \nEn el segundo caso, en que el bien habría sido adquirido para sí por parte de la madre de la consultante, al\nser ésta un tercero extraño a la comunidad quedada a la disolución de la sociedad conyugal, no habría\njurídicamente adjudicación, sino que ella habría adquirido por tradición en base a un título traslaticio de\ndominio (p.ej. compraventa, dación en pago, donación, etc.). De esta manera, la fecha de adquisición\ncorrespondería a la fecha de inscripción en el Conservador de Bienes Raíces.\n \nEn ambas situaciones, se debe considerar que el N° 3 del artículo 2° de la Ley, establece que se presume\nhabitualidad cuando entre la fecha de adquisición del inmueble y la fecha de la venta transcurre un plazo\nigual o inferior a un año; luego, si entre la fecha en que el inmueble se entiende adjudicado a la hermana del\nconsultante por la disolución de la sociedad conyugal, o en el caso que el inmueble fue adquirido por\ntradición por parte de su madre, y su posterior venta transcurre un plazo inferior a un año, su enajenación se\nencontraría gravada con IVA.\n \nOtra modificación incorporada por las leyes señaladas consistió en agregar una nueva letra F al artículo 12°\ndel D.L. N° 825, de 1974, estableciendo que se encontrarán exentas de IVA las ventas de bienes inmuebles\nque se realicen a beneficiarios de Subsidio Habitacional otorgados por el Ministerio de Vivienda y Urbanismo.\n \nA su vez, el artículo Séptimo Transitorio de la Ley N° 20.780 establece una exención de IVA en las ventas de\nbienes corporales inmuebles que se graven como consecuencia de las modificaciones introducidas en la ley,\nsiempre que dichos bienes cuenten, al 1 de enero de 2016, con el permiso de edificación a que se refiere la\nLey General de Urbanismo y Construcciones, y las ventas respectivas se efectúen dentro del plazo de un año\na contar del 1° de enero de 2016.\n \n \nIII.- CONCLUSIÓN:\n \nDando respuesta a su consulta y de conformidad a lo establecido en el artículo séptimo transitorio de la Ley\nN° 20.780, se encontrará exenta de IVA la venta de la propiedad inscrita a nombre de su madre a que se\nrefiere en su presentación, siempre que dicha enajenación se realice a más tardar al 1° de enero de 2017, en\nla medida que dicho inmueble cuente con permiso de edificación al 1° de enero de 2016. Asimismo, se\nencontrará exenta de IVA si la venta de la propiedad se hace a un beneficiario de subsidio habitacional\notorgado por el Ministerio de Vivienda y Urbanismo, de conformidad con la letra F, del artículo 12° del D.L. N°\n825, de 1974.\n \nFinalmente, se podrá presumir habitualidad en la venta del inmueble a que se refiere en su presentación, de\nconformidad al N° 3 del artículo 2° de la ley, y por tanto, su enajenación gravarse con IVA, en la eventualidad\n\n\nque la venta del inmueble se haga con posterioridad al 1° de enero de 2017, siempre y cuando entre la fecha\nde su adjudicación por parte de su hermana o adquisición e inscripción en el Conservador de Bienes\nRaíces por parte de su madre, según"
+    },
+    {
+      "name": "Oficio N°496 (08/03/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°496 (08/03/2017)",
+      "document_id": "672dc5f5-19e1-57a4-a12f-36ad25fc0e0e",
+      "chunk_uuid": "1d25bdd2-4000-54fc-9cec-683eca9e7232",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja496.htm",
+      "content": "ir a título oneroso el dominio de bienes corporales\nmuebles, bienes corporales inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes\no de derechos reales constituidos sobre ellos, como asimismo todo acto o contrato que conduzca al mismo\nfin o que la presente ley equipare a venta”.\n \nPor su parte, el Art. 2°, N° 3, del D.L N° 825, define como vendedor a “cualquiera persona natural o jurídica,\nincluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de\nbienes corporales muebles e inmuebles, sean ellos de su propia producción o adquiridos de terceros”. Al\nrespecto la norma dispone que corresponderá al Servicio de Impuestos Internos calificar a su juicio exclusivo,\nla habitualidad. Luego a renglón seguido establece que “Para efectos de la venta de inmuebles, se presumirá\nque existe habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra\nun plazo igual o inferior a un año”.\n \nAl respecto, la Circular N° 42, en su Título III.1, se refirió a la presunción de habitualidad antes señalada,\ninstruyendo que se “entenderá que el momento de la adquisición o enajenación es aquel en que el inmueble\nse encuentra inscrito en el Registro de Propiedad del Conservador de Bienes Raíces a nombre del respectivo\ncomprador”.\n \nDe lo anterior se concluye, tal como menciona en su presentación, que para que una venta de inmueble, se\npresuma habitual, debe efectuarse en un plazo igual o inferior a un año contado entre la adquisición o\nconstrucción del bien y su posterior enajenación, entendiéndose como momento de adquisición la fecha en\nque el vendedor inscribió a su nombre el dominio del bien inmueble y como fecha de enajenación, aquella en\nque el comprador hace lo propio inscribiendo el dominio de éste a su nombre.\n \nAhora bien, en estos casos, al momento de la firma de la escritura, momento en el cual el Art. 75 del Código\nTributario obliga al Notario a dejar constancia del pago del tributo, no existe hecho gravado a causa de la\npresunción de habitualidad, ya que ella sólo puede determinarse una vez que el bien inmueble sea inscrito a\nnombre del adquirente. En atención a ello, en esta situación el Notario no se encuentra obligado a la\nexigencia establecida en el Art. 75, ya que al momento de autorizar la escritura no se dan los elementos del\nhecho gravado bajo análisis.\n\n\n \nArtículo 2°, N° 3: Señala que podrá ser considerada habitual la transferencia de inmuebles efectuada por\ncontribuyentes con giro inmobiliario efectivo.\n \nSeñala que, al autorizar una escritura, no le es posible al Notario determinar si el vendedor tiene giro\ninmobiliario, a menos que dé la razón social del vendedor pudiere deducirse tal calidad, ni menos que dicho\nvendedor tiene giro inmobiliario efectivo.\n \nEstima que en tales casos no correspondería al Notario inquirir antecedentes al vendedor destinados a\ndemostrar si éste tiene como giro el inmobiliario y si dicho giro se realiza efectivamente.\n \nSobre el particular, cabe señalar que este Servicio se pronunció sobre la presunción de habitualidad en\ncomento, en Circular N°42, de 5/6/2015, señalando que “para efectos de determinar cuando existe un “giro\ninmobiliario efectivo” se considerará la naturaleza, cantidad y frecuencia con que el vendedor realice la venta\nde inmuebles, a efectos de considerar si se configura la habitualidad como elemento esencial del hecho\ngravado básico de venta, no siendo suficiente para darla por establecida el sólo hecho de constar tal\nactividad en la escritura social, inicio de actividades o en otro tipo de documento o registro”.\n \nDe lo anterior se aprecia que para determinar la habitualidad en estos casos debe ejercerse la facultad legal"
+    },
+    {
+      "name": "Oficio N°1083 (03/04/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°1083 (03/04/2000)",
+      "document_id": "cd6e7f05-2375-5f4a-9dd7-f459186b55d1",
+      "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+      "chunk_id": 6,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1655.pdf",
+      "content": " la disolución de una sociedad. \n \nTratándose de la división de una sociedad se está frente a la distribución de su \npatrimonio entre ella misma, que sigue existiendo, y una o mas sociedades que se \nconstituyan al efecto. Además, y esto marca una diferencia aún más importante, por \nmandato legal corresponderá a los accionistas de la sociedad dividida la misma \nproporción en el capital de las nuevas sociedades que aquella que poseían en la \nsociedad que se divide, lo que ha significado que tanto la Superintendencia de Valores y \nSeguros mediante Oficio Nº 2.048 de 14 de Junio de 1989, como este Servicio, hayan \nconsiderado que en la distribución del patrimonio de una sociedad anónima que se \ndivide existe una especificación de derechos preexistentes. \n\n\n6\nx  \nRespecto del planteamiento formulado en el sentido que la interpretación contenida en el \nreferido Oficio Nº 2.687, no resulta jurídicamente aplicable a los bienes raíces, que sería \nel caso del centro comercial objeto de la consulta, sosteniendo este criterio a partir de su \naseveración de que en todos los casos de cambio de titularidad de la propiedad sobre \nun bien raíz es preciso practicar la inscripción, aun en los casos de sucesión por causa \nde muerte y prescripción, y la circunstancia de que el Código Civil no se refiera a la \ninscripción en caso que el modo de adquirir sea la ley, se origina en que el Código no se \nrefiere a la ley como modo de adquirir. Por lo tanto, sostiene el recurrente, aún cuando el \nmodo de adquirir un bien raíz sea la ley, ello no libera  de la necesidad de inscribir el \nbien raíz en el Registro del Conservador de Bienes Raíces respectivo y mientras dicha \ninscripción no se produzca no puede afirmarse que se ha consumado la transferencia \ndel dominio. \n \nAl respecto es necesario precisar, que la inscripción del título en el Registro del \nConservador, es la única manera de efectuar la tradición del dominio sobre un inmueble \ny reviste respecto de este particular modo de adquirir el carácter de formalidad necesaria \npara que tenga valor, es decir, constituye la solemnidad de la tradición. Pero tratándose \nde otros modos de adquirir, como la prescripción, la sucesión por causa de muerte y la \nley, la inscripción de los bienes raíces no tiene la función de perfeccionar el respectivo \nmodo de adquirir. \n \nAsí por ejemplo, lo han precisado los autores Alessandri, Somarriva y Vodanovic que \nsobre el particular señalan que \"la inscripción no sirve para que el prescribiente adquiera \nel dominio, puesto que ya lo tiene adquirido por prescripción; la inscripción se exige con \nun triple objeto: 1) para colocar el inmueble bajo el régimen de la propiedad inscrita; 2) \npara mantener la historia de la propiedad raíz; y 3) para que la sentencia judicial \nproduzca efectos contra terceros (\"Tratado de los derechos reales\", Edición 1993).  Así \ntambién, los mismos autores, ahora respecto de la sucesión por causa de muerte, \nseñalan que \"la inscripción que se exige en las transmisiones hereditarias no es para \nque opere la tradición de los bienes del causante a los herederos, porque el traslado del \ndominio se efectúa por otro modo de adquirir, la sucesión por causa de muerte; en este \ncaso la inscripción sirve para dejar constancia pública de la transmisión, conservar la \nhistoria de la propiedad inmueble, explicar la mutación del dominio\". \n \nDe manera que, de la misma forma que en la prescripción y en la sucesión por causa de \nmuerte, cuando es la ley el modo de adquirir en virtud del cual se traspasa el dominio, la \ninscripción no es solemnidad para que sea válida la transferencia de dominio, sino que, \ncomo en aquellas, sólo tiene por finalidad dar publicidad y conservar la historia de la \nprop"
+    },
+    {
+      "name": "Oficio N°4176 (17/11/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°4176 (17/11/1999)",
+      "document_id": "c99f770b-1912-5cf3-91f9-29ddaa070bc3",
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta -1999\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ARTICULO 17º, Nº 8, ARTICULO 18º,\nINCISO 1º.\n_____________________________________________________________________________\nInterpretación del Servicio de las expresiones \"adquisición\" y \"enajenación\" en\ncompraventa de bienes raíces - Tratamiento en caso de enajenaciones de bienes raíces\npor expropiación - se entienden adquiridos o enajenados los bienes raíces cuando son\ninscritos en el Conservador de Bienes Raíces - Indemnización destinada a resarcir el\nvalor del bien expropiado, sin acrecentarlo constituiría la indemnización de un daño\nemergente - Susceptible de calificarse en el Art. 17º, Nº 1 como ingreso no constitutivo de\nrenta - Enajenación por expropiación no es aplicable Presunción de Habitualidad - No\nconcurre el acto voluntario de enajenar el bien.\n1.- Por intermedio del Ordinario indicado en el antecedente se ha remitido la presentación de un\ncontribuyente, quien expresa que de acuerdo a lo establecido en el artículo 18, inciso primero,\nde la Ley de la Renta, en los casos indicados en las letras a), b), c), d), i) y j) del número 8º del\nartículo 17 de esta misma ley, si tales operaciones representan el resultado de negociaciones o\nactividades realizadas habitualmente por el contribuyente, el mayor valor que se obtenga estará\nafecto a los impuestos de Primera Categoría y Global Complementario o Adicional, según\ncorresponda.\nIndica a continuación, que el inciso tercero de este artículo 18, presume de derecho que existe\nhabitualidad en determinados casos que señala y que en todos los demás casos se presumirá\nhabitualidad \"cuando entre la adquisición o construcción del bien raíz y su enajenación\ntranscurra un plazo inferior a un año\".\nPor lo anterior consulta, cual es la interpretación que da el Servicio a las expresiones\n\"adquisición\" y \"enajenación\" en el caso de compraventa de bienes raíces, y más\nespecíficamente si por \"adquisición\" se entiende que dicho hecho tiene lugar en la fecha del\ncontrato o en la fecha en que se practica la inscripción del dominio a favor del comprador en el\nRegistro de Propiedad del Conservador de Bienes Raíces. Asimismo, si por \"enajenación\" se\nentiende que dicho hecho tiene lugar en la fecha del contrato de venta o en la fecha en que se\npractica la inscripción en el Conservador de Bienes Raíces a nombre del comprador, haciendo\npresente al respecto, que el contrato de compra es un título que habilita para adquirir el dominio,\npero el comprador no lo adquiere por la celebración del contrato sino que por la tradición que se\npractica mediante la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces.\nEn relación con la misma materia, consulta además cual es el tratamiento que da este Servicio\nen el caso de enajenaciones de bienes raíces por efecto de una expropiación, cuando entre la\nfecha de adquisición del bien raíz y la fecha de enajenación por expropiación ha transcurrido\nmenos de un año.\nAl respecto, y no siendo la expropiación una enajenación voluntaria consulta, si se produce de\ntodas maneras el hecho gravado en el caso en que la indemnización por la expropiación sea\nmayor que el precio de la compraventa y por lo tanto si se devenga el impuesto a la renta.\n2.- Sobre el particular, y en relación a la primera consulta formulada en cuanto a la oportunidad\nen que debe entenderse verificada la adquisición y enajenación de un bien raíz, esta\ncircunstancia se da cuando el inmueble respectivo se encuentra inscrito en el Registro de\nPropiedad del Conservador de Bienes Raíces.\n3.- En cuanto a precisar si el pago de una indemnización en el caso de la expro"
+    },
+    {
+      "name": "Oficio N°2398 (17/10/2011)",
+      "source_type": "oficio",
+      "source": "Oficio N°2398 (17/10/2011)",
+      "document_id": "bcd5c2fb-2cda-5b43-a530-cbaa8c87df85",
+      "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2011/renta/ja2398.htm",
+      "content": "os\nde la aplicación de la presunción de habitualidad establecida en la segunda parte, del inciso 3°, del artículo\n18, de la LlR, cabe señalar que la \"adquisición\" y venajenaciónw, de conformidad con los artículos 675 y\n686 del Código Civil, tienen lugar en este caso cuando el título de transferencia de dominio del inmueble\nrespectivo se encuentre debidamente inscrito a nombre del nuevo adquirente en el Registro de Propiedad del\nConservador de Bienes Raíces. Lo anterior, porque si bien en nuestro derecho la compraventa genera\nderechos y obligaciones para las partes, no transfiere por sí misma el dominio, lo que se produce en el caso\nde los bienes raíces, mediante la inscripción del referido título en el Registro de Propiedad indicado.\nDe esta forma, para efectos de establecer si entre las fechas de adquisición y enajenación del bien raíz que\nmenciona en su presentación, ha transcurrido un plazo inferior a un año, debe considerarse las fechas de\ninscripciones de los títulos en el Registro de Propiedad del Conservador de Bienes Raíces de que se trate, y\nno las de los respetivos contratos.\nIII.- CONCLUSIONES.\nEn atención a que ha transcurrido menos de un año entre la adquisición y enajenación del bien raíz, ya que\n\n\nla inscripción del título de la compra en el Registro de Propiedad del Conservador de Bienes Raíces se\nefectuó el 28 de enero de 2009 y la inscripción del título de la venta el 28 de octubre del mismo año, resulta\naplicable la presunción simplemente legal de habitualidad que establece la segunda parte del inciso 3°, del\nartículo 18, de la LIR, gravándose por consiguiente, el mayor valor obtenido en esta operación con los\nimpuestos de Primera Categoría e Impuesto Global Complementario o Adicional, según corresponda, con\nderecho a rebajar como crédito de estos últimos tributos el Impuesto de Categoría indicado anteriormente.\nPara efectos de computar el mayor valor afecto, se deberá considerar lo establecido en el inciso 2°, del\nartículo 41, de la LIR, esto es, deberá deducirse del precio de venta el valor inicial actualizado de dichos\nbienes, según la variación experimentada por el índice de precios al consumidor en el período comprendido\nentre el último día del mes que antecede al de la adquisición del bien y el último día del mes anterior al de la\nenajenación, debiendo deducirse las depreciaciones correspondientes al período respectivo, cuando\ncorresponda.\nSin embargo, y como ha sostenido este Servicio en pronunciamientos anteriores sobre la materia , al tratarse\nde una presunción meramente legal, ella podrá ser desvirtuada por el contribuyente con antecedentes\nfidedignos. Lo anterior, conforme a lo dispuesto en el inciso 2°, del artículo 47, del Código Civil, que establece\nque se permitirá probar la no existencia del hecho que legalmente se presume, aunque sean ciertos los\nantecedentes o circunstancias de que lo infiere la Ley; alegación que deberá ser ponderada por las\ninstancias de fiscalización de este Servicio a la luz de los criterios generales establecidos en Suplemento\n6(11)-18, de 1967, del Manual del Servicio de Impuestos Internos, los que han sido reiterados posteriormente\nen diversos pronunciamientos .\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 2398, de 17.10.2011\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°1083 (03/04/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°1083 (03/04/2000)",
+      "document_id": "cd6e7f05-2375-5f4a-9dd7-f459186b55d1",
+      "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+      "chunk_id": 5,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1655.pdf",
+      "content": "transferencia o transmisión, requiere de inscripción en el Conservador de Bienes \nRaíces.\n\n\n5\n \nUn examen preliminar de lo señalado podría llevar a la conclusión de que esta \nafirmación solamente es cierta tratándose del modo de adquirir denominado \ntradición, debido a que la ley establece que la tradición de los bienes raíces se \nhace por la inscripción del título en el Conservador de Bienes Raíces; \nc) \nLo recién señalado no es efectivo y debe reconocerse que en todos los casos de \ncambio en la titularidad de la propiedad sobre un bien raíz es preciso practicar la \ninscripción. Así sucede en el caso de la sucesión por causa de muerte y en la \nprescripción. La circunstancia que el Código Civil no se refiera a la inscripción en \ncaso que el modo de adquirir sea la ley se origina en la sencilla razón de que el \nCódigo no se refiere a la ley como modo de adquirir. \n \nPor lo tanto, aún cuando el modo de adquirir de un bien raíz sea la ley como lo \nseñala el Oficio Nº 2.687, ello no libera de la necesidad de inscribir en el \nConservador de Bienes Raíces y mientras dicha inscripción no se produzca no \npuede afirmarse que se ha consumado la transferencia de dominio. \n \nEs así como el artículo 32 del Reglamento del Registro Conservatorio de Bienes \nRaíces establece que en el Registro de Propiedad \"se inscribirán las traslaciones \nde dominio\" sobre bienes raíces, sin hacer excepción de aquellos casos en que el \nmodo de adquirir sea la ley. \n \nA lo anterior debe agregarse que el artículo 52 Nº 1, del mismo Reglamento \nenumera entre los títulos que deben inscribirse a \"los títulos traslaticios de dominio \nde los bienes raíces\", sin hacer salvedad tampoco de la ley. \n \nEn consecuencia, si bien en el caso de los bienes raíces el antecedente de una \ntransferencia de dominio puede ser la ley, para que legalmente se produzca un \ncambio en la titularidad del dominio es preciso la inscripción; \nd) \nEn el caso de una sociedad que se disuelve por acuerdo de sus socios o \naccionistas, y en lo referente a los bienes raíces, al no existir una inscripción del \ndominio sobre los mismos a nombre de los socios o accionistas en comunidad, \nforzoso es concluir que la adjudicación a uno o más de ellos de un inmueble se \nproduce directamente entre la sociedad en disolución y el socio accionista \nadjudicatario, sin la etapa intermedia de la comunidad. \ne) \nPor las razones señaladas, debe concluirse que en el caso consultado la \ndisolución de la sociedad y adjudicación a uno de los socios de un bien raíz \nconsistente en un centro comercial adquirido nuevo, no impide al socio \nadjudicatario continuar con la depreciación acelerada. \n7. \nRespecto de los planteamientos que el recurrente formula a través de su escrito \ncomplementario indicado en el número anterior, procede indicar lo siguiente: \nx  \nEn cuanto a que la interpretación contenida en el citado Oficio Nº 2.687, de 1998 \ncontradice la jurisprudencia del Servicio en relación con la división de sociedades, cabe \nseñalar que, efectivamente, el criterio tratándose de división de sociedades es distinto, \ntoda vez que se trata de una situación diversa y que no puede asimilarse a lo que ocurre \nen la disolución de una sociedad. \n \nTratándose de la división de una sociedad se está frente a la distribución de su \npatrimonio entre ella misma, que sigue existiendo, y una o mas sociedades que se \nconstituyan al efecto. Además, y esto marca una diferencia aún más importante, por \nmandato legal corresponderá a los accionistas de la sociedad dividida la misma \nproporción en el capital de las nuevas sociedades que aquella que poseían en la \nsociedad que se divide, lo que ha significado que tanto la Superintendencia"
+    },
+    {
+      "name": "Resolución N°8655 (27/12/1999)",
+      "source_type": "resolucion",
+      "source": "Resolución N°8655 (27/12/1999)",
+      "document_id": "05055744-a0e2-5e29-9dea-b3e0d0f3ec86",
+      "chunk_uuid": "a30d90c2-d459-5c35-8d2d-5587b239c0d3",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/1999/r865599.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome > Resoluciones 1999\nRESOLUCION EXENTA N° 8655 DEL 27 DE DICIEMBRE DE 1999...\nMATERIA: ACTUALIZA PROCEDIMIENTO DE TRASPASO DE INFORMACIÓN DE\nNOTARIOS Y CONSERVADORES DE BIENES RAÍCES AL SERVICIO DE\nIMPUESTOS \nINTERNOS \nA \nTRAVÉS \nDE \nNUEVO \nFORMULARIO \nN°2890\n\"DECLARACIÓN SOBRE ENAJENACIÓN E INSCRIPCIÓN DE BIENES RAÍCES\".\nVistos:\nLo dispuesto en los artículos 6, letra A), N°1 y artículo 76 del Decreto Ley N°830 sobre Código\nTributario, en el artículo 2° de la Ley N°17.990 y en el artículo 16 N°1 y artículo 28 de la Ley\nN°17.235 sobre Impuesto Territorial,\nConsiderando:\nQue para una oportuna y adecuada información a este Servicio, se hace necesario actualizar la\nmodalidad de captura vigente de algunos antecedentes relativos a la individualización del (o los)\ninmueble(s) que se enajena(n) y del (o los) adquirente(s) y enajenante(s);\nResuelvo:\n1° Procedimiento de traspaso de información al Servicio de Impuestos Internos:\na) Establécese el nuevo formato de formulario N°2890 \"Declaración sobre\nEnajenación e Inscripción de Bienes Raíces\", que será utilizado por las Notarías y\nConservadores de Bienes Raíces del país, para enviar al Servicio la información de\ntodas las escrituras que se otorguen en Notarías a contar del 10 de enero del 2000.\nb) En la Notaría, cada vez que se autorice una escritura, se completará a máquina o\ncon letra tipo imprenta el formulario N°2890 llenándolo en original y copia,\nutilizando la sección \"Uso Exclusivo del Notario\". Los formularios, original y copia,\ndeberán ser anexados a la escritura con la que se requerirá al Conservador de Bienes\nRaíces la correspondiente inscripción de dominio en el Registro de Propiedad.\nc) El Conservador de Bienes Raíces, una vez recibida la escritura autorizada por el\nNotario con su correspondiente formulario N°2890, lo completará llenando la sección\n\"Uso Exclusivo del Conservador de Bienes Raíces\". El formulario original quedará\nen poder del Conservador para su posterior remisión al SII, mientras que la copia\ndeberá incorporarse a la escritura que quedará en poder del adquirente.\nNo obstante, cuando el inmueble se adquiera por sucesión por causa de muerte, saneamiento de\ntítulo de dominio o transferencia a título gratuito a través del Ministerio de Bienes Nacionales, o\ncualquier otra situación cuya escritura no se autorice en una Notaría, el Conservador de Bienes\nRaíces completará todos los antecedentes solicitados en el formulario N°2890.\nEl Conservador de Bienes Raíces remitirá mensualmente, durante los diez primeros días de cada\nmes, los formularios N°2890 correspondientes a las inscripciones de dominio practicadas en el\nRegistro de Propiedad durante el mes anterior, directamente a la Unidad del Servicio de\nImpuestos Internos correspondiente a su domicilio.\n2° A la presente Resolución se adjunta nuevo formato de formulario N°2890, cuyas instrucciones\nde llenado serán impartidas mediante Circular.\n3° La presente Resolución reemplaza en su totalidad a la Resolución Exenta N°6181 del 9 de\ndiciembre de 1997, relativa a esta materia, a contar de la fecha de entrada en vigencia señalada en\nel punto 6°.\n4° Los datos contenidos en los formularios N°2890, que deberán ser remitidos en los plazos\nestablecidos en el punto 1° letra c), deberán ser fidedignos.\n\n\n5° De acuerdo a lo dispuesto en el Artículo 2° de la Ley N°17.990, el no envío de la información\nen la forma, plazo y condiciones establecidas por el"
+    },
+    {
+      "name": "Oficio N°3012 (26/10/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3012 (26/10/2021)",
+      "document_id": "bd8bff32-0a45-5b16-bd74-8d165f9ed7d4",
+      "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3012-26%2F10%2F2021.pdf&extension=pdf&acc=download&id=ada9aeab-78f2-476f-853d-0da6e87a1aec&mediaType=application%2Fpdf",
+      "content": " renta el mayor valor obtenido en la enajenación de inmuebles que no \nexceda de 8.000 UF1.  \nDicho beneficio es improcedente cuando no ha transcurrido más de un año entre la adquisición y la \nenajenación del inmueble2.  \nLa fecha en que se entiende adquirido o nuevamente enajenado un inmueble corresponde a la fecha de \ninscripción de la compraventa en el Registro de propiedad del conservador de bienes raíces a nombre de \nquien enajena o del nuevo adquirente, según corresponda3.  \n \n1 Independiente del número de enajenaciones realizadas o del número de bienes raíces de propiedad del contribuyente. \n2 Número iv) de la letra b) del N° 8 del artículo 17 de la LIR. \n3 Párrafo final del N° 8 del artículo 17 de la LIR. \n\n\n2 \n \nEn dicho sentido, la fecha de la escritura pública en que conste la promesa o la compraventa es \nirrelevante para efectos de lo dispuesto en la letra b) del N° 8 del artículo 17 de la LIR.  \nEsta limitación temporal es de carácter objetivo puesto que atiende solo al transcurso del tiempo, sin \ndepender, por ejemplo, del ánimo con el cual se haya adquirido el inmueble.  \nSi bien no se consulta directamente, se hace presente que el mayor valor obtenido en la enajenación del \ninmueble, efectuada antes de un año contado desde su adquisición, se afectará con impuesto de primera \ncategoría e impuestos global complementario o impuesto adicional, según corresponda4. \nIII  \nCONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que:  \n1) La fecha que se considera para el cómputo de al menos un año entre la adquisición y la enajenación \ndel inmueble es aquella en que se efectuó la inscripción de dominio en el Registro de Propiedad del \nConservador de Bienes Raíces a nombre del adquirente;  \n2) Si entre la inscripción de dominio a nombre del enajenante y la inscripción de dominio a nombre \ndel nuevo adquirente no ha transcurrido al menos un año, no será procedente considerar como \ningreso no renta hasta 8.000 U.F. del mayor valor obtenido en la enajenación;  \n3) La LIR no considera el ánimo con que el enajenante del inmueble lo adquirió ni establece métodos \npara acreditar dicho ánimo, y  \n4) La fecha de inscripción del inmueble a nombre del adquirente determina la fecha de adquisición, \npor lo que no es procedente considerar la fecha del contrato de promesa de compraventa para \nefectos de determinar su tributación. \nSaluda a usted, \n \n \n          RICARDO PIZARRO ALFARO \n \n \n \n \n       \n       \n \n DIRECTOR (S) \n \n \n \n \n \nOficio N° 3012 del 26-10-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n \n4 Circular N° 43 de 2021, página 24. \n"
+    },
+    {
+      "name": "Oficio N°274 (27/01/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°274 (27/01/2021)",
+      "document_id": "0d0a9b21-e3da-5474-a13b-4537040719c1",
+      "chunk_uuid": "5c3f47c5-7bcd-5372-8f83-4bbe23e61146",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=274-27%2F01%2F2021.pdf&extension=pdf&acc=download&id=0b4cc71b-aeee-426f-9082-47befd71ba76&mediaType=application%2Fpdf",
+      "content": " la inscripción de una compraventa, como señala el \nconsultante, deberá acreditar la calidad de personero o representante legal del interesado en la \ninscripción4, en el caso de la consulta, el adquirente.  \nDe esta manera, independientemente de los datos de individualización que contenga la boleta, para \nefectos de acreditar el gasto, en el caso señalado en su presentación el gasto resulta efectivamente \nincurrido por quien se obliga al pago, es decir, el adquirente del inmueble, aun cuando el documento \ntributario se emita a nombre de un tercero, quien solicita al Conservador de Bienes Raíces, en razón del \npoder otorgado por el adquirente. \n \n1 En el presente caso son inaplicables las reglas relativas a la emisión de facturas. \n2 Conforme al párrafo segundo N° 5 de la letra G del resolutivo 1° de la Resolución Exenta N° 74 de 2020, de este Servicio. \n3 Artículos 60 y 61 del Reglamento del Registro Conservatorio de Bienes Raíces \n4 Resulta habitual en este tipo de contratos la inclusión de una disposición conforme a la cual se mandata a quien porte copia autorizada de la \nescritura para efectuar los trámites correspondientes ante el Conservador de Bienes Raíces. \n\n\n2 \n \nIII \nCONCLUSION  \nConforme a lo indicado, la emisión de la boleta por parte de un Conservador de Bienes Raíces no \nrequiere emitirse en forma nominativa y si se hiciere de esta forma, deberá efectuarse a nombre de la \npersona que solicita los servicios del Conservador, en su calidad de cliente. Ahora bien, desde el punto \nde vista tributario, el gasto que el pago del servicio signifique, corresponderá a quien se obligó \nefectivamente a él, siempre que se acredite el cumplimiento de todos los requisitos que la ley da para \nrebajar un gasto de la base imponible.  \nSaluda a usted, \n \n \n \n \n          RICARDO ANTONIO PIZARRO ALFARO \n \n \n \n \n       \n       \n \n DIRECTOR (S) \n \n \n \n \nOficio N° 274 del 27-01-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Oficio N°1946 (29/07/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1946 (29/07/2015)",
+      "document_id": "badde882-bdf0-537d-b71d-4844a32e6b09",
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/renta/ja1946.htm",
+      "content": " que ocurrió en julio de 2010;\ny en cambio para los efectos de determinar la presunción de habitualidad en la venta del mismo bien raíz,\neste Servicio consideraría la fecha de inscripción del título en el Conservador de Bienes Raíces, esto es, en\nagosto de 2013, lo que a su juicio sería una incongruencia.\nAcompaña copia de la escritura definitiva de compraventa y adjudicación del bien raíz, de fecha 12 de agosto\nde 2013, y copia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces, de día 21\ndel mismo mes y año.\n3.- Por consiguiente, solicita se ratifique que para la aplicación de la presunción legal de habitualidad que\nestablece la última parte, del inciso 3°, del artículo 18 de la LIR, se debería considerar como fecha de\nadquisición del bien raíz, la de suscripción del acta de remate en pública subasta, evento que ocurrió el 20 de\njulio de 2010 y no la fecha de inscripción de la escritura de venta suscrita, que ocurrió el 21 de agosto de\n2013.\nII.- ANÁLISIS.\n1.- En primer lugar, se debe señalar que tanto el Oficio N°1.269, de 2013, a que se refiere su requerimiento,\ncomo otros sobre el mismo punto, han sido dictados en conformidad a lo establecido en el ordenamiento\njurídico, en el sentido que para la enajenación y adquisición del dominio se exige la concurrencia de dos\nelementos jurídicos, a saber, un título y un modo de adquirir; ya que los contratos como el de compraventa,\nno transfieren el dominio ni ningún otro derecho real, sino que de ellos sólo emanan derechos personales o\nde crédito. En el caso de los bienes raíces, dicha adquisición se efectúa precisamente por la inscripción del\ntítulo en el Registro de Propiedad del Conservador de Bienes Raíces respectivo, acto en virtud del cual se\nlleva a cabo la tradición de los indicados bienes . Por consiguiente, si bien en el caso en consulta se habría\nsuscrito el acta de remate en el mes de julio de 2010, en cuanto al momento en que se entiende adquirido o\n\n\nenajenado el dominio del bien raíz para los efectos de la aplicación de la presunción legal de habitualidad\nestablecida en la segunda parte, del inciso 3°, del artículo 18 de la LlR, la \"adquisición\" y venajenaciónw,\ntiene lugar sólo cuando el título de transferencia de dominio del inmueble respectivo, esto es, la compraventa\ndefinitiva, se encuentre debidamente inscrita a nombre del nuevo adquirente en el Registro de Propiedad del\nConservador de Bienes Raíces.\nPor lo anterior, en una venta forzada, el modo de adquirir el dominio, es decir, la tradición del derecho real de\ndominio sobre el bien raíz, está constituido por la competente inscripción en el Registro de Propiedad del\nConservador de Bienes Raíces, que tiene por título dicha venta, efectuada por el ministerio de la justicia .\n2.- En cuanto a lo expresado en su segunda presentación, cabe señalar que ella se refiere a una materia\ndistinta a la que resuelve el Oficio que solicita sea reconsiderado. Por una parte, alude al artículo 70 de la\nLIR, que dispone que cuando no se acredite el origen de los fondos con los que se han efectuado\ndeterminados gastos, desembolsos o inversiones, se presumirá que corresponden a utilidades afectas a\nImpuesto de Primera Categoría del N°3, del artículo 20, o en la Segunda Categoría conforme al N° 2, del\nartículo 42, según corresponda; y por otro lado, se refiere al inciso 3°, del artículo 18 de la LIR que establece\nla aplicación de una presunción legal de habitualidad en la venta o enajenación de bienes raíces. Dichas\ndisposiciones legales tienen presupuestos diferentes, ya que en el primer caso se debe acreditar la"
+    },
+    {
+      "name": "Circular N°43 (05/07/2021)",
+      "source_type": "circular",
+      "source": "Circular N°43 (05/07/2021)",
+      "document_id": "68545bf9-c1fd-5ded-9ee1-b2552b1c62ac",
+      "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+      "chunk_id": 24,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2021/circu43.pdf",
+      "content": "6, estableciendo cambios respecto \nde la tributación en la enajenación de bienes raíces situados en Chile, o de derechos o cuotas \nrespecto de tales bienes poseídos en comunidad, manteniendo en lo esencial el régimen tributario \ny la forma de determinación del costo tributario.  \n4.6.2. \nBienes contemplados en la letra b) \nDebe tratarse de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes \nraíces poseídos en comunidad. \nEn consecuencia, las enajenaciones de inmuebles situados en el extranjero no se gravarán \nconforme esta letra b), sino que con el IDPC e IGC o IA, según corresponda, por tratarse de rentas \nclasificadas en el N° 5 del artículo 20, en atención a lo dispuesto en el artículo 41 B. \n4.6.3. \nDeterminación de la tributación aplicable en las enajenaciones de la letra b) del N° 8 \n4.6.3.1. Precio o valor de la enajenación \nLa norma establece que, para determinar la tributación aplicable en las enajenaciones de bienes a \nque se refiere la letra b) deberán aplicarse las disposiciones de los literales ii)37 y iii)38 de la letra a) \ndel N° 8 del artículo 17, en lo que fueren pertinentes.  \nPor tanto, la determinación del resultado tributable en la enajenación de los bienes raíces se origina \nen la diferencia entre su precio o valor de enajenación o cesión y su costo tributario. \nPara ello, corresponderá considerar primeramente el precio o valor de la enajenación, el cual \nconsiste en la valorización económica del bien raíz que se enajena y que las partes libremente han \n          \n34 Números 7 y 8, del numeral I, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780.  \n35 Artículo décimo sexto transitorio de la Ley. \n36 Literal iii, de la letra d) del N° 9 del artículo segundo de la Ley. \n37 Norma que regula la determinación del mayor valor, previa deducción del costo tributario. \n38 Norma que regula la compensación de resultados de enajenaciones de la misma especie. \n\n\n21 \n \nacordado en la respectiva convención. Lo anterior, sin perjuicio de las facultades de tasación con \nque cuenta este Servicio, conforme al artículo 64 del Código Tributario y al párrafo cuarto del N° 8 \ndel artículo 17.  \n4.6.3.2. Fecha de adquisición y de enajenación \nDispone el párrafo quinto del N° 8 del artículo 17 que, tratándose de enajenaciones de bienes raíces \nsituados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, \nefectuadas por los contribuyentes a quienes les resulta aplicable esta disposición, se entenderá por \nfecha de adquisición o de enajenación la fecha de la inscripción respectiva. \nEn consecuencia, habiendo operado la tradición como modo de adquirir el dominio, ya sea respecto \ndel enajenante o del nuevo adquirente, deberá estarse a la fecha de la inscripción del respectivo \ntítulo en el Registro de Propiedad del Conservador de Bienes Raíces (CBR), por cuanto dicha \ninscripción es la forma en que se lleva a cabo la tradición de los bienes raíces y por tanto fija la \nfecha de adquisición o de enajenación, según corresponda39. \nSi el enajenante adquirió el dominio de los bienes por sucesión por causa de muerte, para efectos \ndel cómputo de los plazos deberá estarse a la fecha de la apertura de la sucesión la que, de acuerdo \ncon el artículo 955 del Código Civil, corresponde al momento de la muerte del causante. \n4.6.3.3. Costo tributario \na) \nValor de adquisición \nEl literal i) de la letra b) del N° 8 del artículo 17 dispone que el costo tributario en la enajen"
+    },
+    {
+      "name": "Artículo 686 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "0153bbfe-268d-5160-9640-0797e7e7e181",
+      "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718555",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título VI DE LA TRADICION,Artículo 686 (DEL ART. 2)|Art. 686. Se efectuará la tradición del dominio de los bienes raíces por la inscripción del título en el Registro del Conservador. De la misma manera se efectuará la tradición de los derechos de usufructo o de uso constituidos en bienes raíces, de los derechos de habitación o de censo y del derecho de hipoteca. Acerca de la tradición de las minas se estará a lo prevenido en el Código de Minería."
+    },
+    {
+      "name": "Oficio N°116 (13/01/2006)",
+      "source_type": "oficio",
+      "source": "Oficio N°116 (13/01/2006)",
+      "document_id": "18656919-25dd-58bd-a977-5a82be77bf78",
+      "chunk_uuid": "a2c651c2-c2ec-5dba-b4b5-7ca39c477695",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1076.htm",
+      "content": ") cuando la operación represente el\nresultado de negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose que\nexiste habitualidad en las situaciones previstas por el inciso tercero del artículo 18 de la ley, señaladas\nanteriormente; b) cuando se trate de la enajenación de bienes raíces que formen parte del activo de\nempresas que declaren su renta efectiva en la Primera Categoría, bastando para la aplicación de esta\nnormativa que los citados bienes integren el activo de la empresa, sin entrar a precisar el ítem o cuenta a\nque corresponden dichos bienes, y que las mencionadas empresas declaren su renta efectiva en la Primera\nCategoría, ya sea que estén obligadas a dicha base de declaración o hayan optado por tal modalidad; y c)\ncuando la enajenación de los citados bienes se efectúe a una empresa o sociedad con la cual el cedente se\nencuentre relacionado en los términos previstos en el inciso cuarto del Nº 8 del artículo 17 de la ley del ramo\ncomentado anteriormente.\n5.- De acuerdo a lo antes señalado, uno de los requisitos para establecer la tributación que afecta al mayor\nvalor obtenido en la enajenación de bienes raíces, es si la operación es calificada de habitual o no,\nconsiderándose para estos efectos, según lo prescrito en el inciso segundo del artículo 18 de la Ley de la\nRenta, el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de los referidos\nbienes, correspondiendo al contribuyente probar lo contrario, o si se dan aquellas situaciones señaladas en\nel inciso tercero del precepto legal antes mencionado, en las cuales se presume que existe habitualidad.\n6.- Por otra parte, este Servicio a través de varios pronunciamientos ha establecido la oportunidad en que se\nentiende adquirido el dominio para los efectos del cómputo de la presunción de habitualidad del inciso\ntercero del artículo 18° de la Ley de la Renta, particularmente respecto del término \"adquisición\" que utiliza la\nnorma legal antes mencionada, que de conformidad a las normas contenidas en el Código Civil,\nespecíficamente en su artículo 686, la adquisición de un bien raíz se produce cuando el título de\ntransferencia de dominio del inmueble respectivo se encuentre debidamente inscrito a nombre del nuevo\nadquirente en el Registro del Conservador de Bienes Raíces.\n7.- Por consiguiente, teniendo presente que en el caso en análisis existe una norma especial respecto de la\nadquisición del dominio prevista en el D.L. N° 2.695, de 1979, en cuya virtud un poseedor regular de una\npequeña propiedad agrícola o rural puede adquirirlo sólo una vez transcurrido un año completo desde la\nfecha de inscripción del inmueble en el Registro del Conservador de Bienes Raíces, haciéndose dueño del\nbien raíz por prescripción, siendo insuficiente la mera inscripción a nombre del dueño en dicho Registro,\ncomo sucede con la generalidad de los bienes raíces, debe concluirse que el cómputo del plazo de un año a\nque se refiere el inciso tercero del artículo 18° de la Ley de la Renta, ocurrirá a partir de la fecha en que el\ndominio fue adquirido por prescripción, en este caso, a partir del 20 de enero de 2005, expirando dicho plazo\nel 20 de enero del 2006, tal como lo afirma el recurrente en su presentación.\nEn consecuencia, en respuesta a lo solicitado, puede informarse que la presunción de habitualidad\nestablecida en el inciso tercero del artículo 18° de la Ley sobre Impuesto a la Renta, sólo se configurará en\nla situación planteada, en el evento de enajenarse el predio antes del plazo de un año de haberse adquirido\nen conformidad al procedimiento del D.L. N° 2.695. Por consiguiente, desde este punto de vista, de acuerdo\na los antecedentes que proporciona"
+    },
+    {
+      "name": "Oficio N°779 (20/04/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°779 (20/04/2018)",
+      "document_id": "c638534a-773e-5b3c-aab2-fb497b1761b6",
+      "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja779.htm",
+      "content": " sea consensual, a menos que una disposición especial lo deje sujeto a formalidad a falta\nde ella, el contrato es consensual. De ahí que los más frecuentes e importantes contratos lo sean:\ncompraventa de cosas muebles, arrendamiento, fianza, transacción, sociedad civil, mandato, etc.”  Conforme\nlo anterior, excepcionalmente se requiere una solemnidad, como en la compraventa de bienes raíces, que no\nse reputan perfectas ante la ley mientras no sea otorgada la escritura pública (artículo 1801, inciso segundo,\ndel Código Civil). \nPor otra parte, y respecto del modo de adquirir “tradición”, ésta se perfecciona en general mediante la\nentrega material de la cosa tradida. Sin embargo, en el caso de los bienes raíces (y otros casos\nexpresamente señalados por ley), la entrega se efectúa mediante la competente inscripción del título –\ntraslaticio de dominio – en el registro de propiedad del Conservador de Bienes Raíces (artículo 686 del\nCódigo Civil). De esta manera, “mientras la inscripción no se verifica, un contrato puede ser perfecto, puede\nproducir obligaciones y derechos entre las partes, pero no transfiere el dominio u otro derecho real. Mientras\nno se inscribe la escritura de venta del bien raíz, éste permanece en el patrimonio del vendedor”. \n\n\nConforme lo expuesto, no es correcto sostener que la escritura pública y la competente inscripción de\ndominio en el Registro de Propiedad del Conservador de Bienes Raíces sea la forma de perfeccionar todo\ntítulo traslaticio de dominio y efectuar la tradición de bienes “tangibles o intangibles”, como parece\ndesprenderse de su presentación; sin considerar que nuestro Código Civil tampoco reconoce la distinción\nentre bienes “tangibles e intangibles”, sino aquella entre bienes “corporales” e “incorporales” (artículo 565 del\nCódigo Civil). \nLo anterior es relevante atendido que, conforme la estructura de la Ley sobre Impuesto a la Renta, se puede\ngravar tanto la renta “percibida” como devengada” (además de la atribuida), siendo devengada “aquélla sobre\nla cual se tiene un título o derecho, independientemente de su actual exigibilidad y que constituye un crédito\npara su titular”.\nEn el caso particular del impuesto cedular por categorías, y conforme lo dispuesto en el artículo 19 de la Ley\nsobre Impuesto a la Renta, las normas del Título II se aplican a “todas las rentas percibidas o devengadas.”\nLuego, en la medida que el hecho gravado sea la “renta” y ésta pueda estar meramente “devengada”, la\nobligación tributaria – sin perjuicio de su cumplimiento – nace cuando se tenga título o derecho a la renta;\nesto es, cuando se perfeccione el acto o contrato a partir del cual nacen derechos (créditos) y obligaciones,\nindependientemente de su exigibilidad. Siguiendo con el ejemplo, si se trata de un contrato (título traslaticio\nde dominio) de carácter solemne que recaiga sobre bienes inmuebles, la obligación tributaria nacerá cuando\nse perfeccione la respectiva escritura pública. \nSin perjuicio de lo dispuesto en el artículo 19 de la Ley sobre Impuesto a la Renta, en ciertos casos la misma\nley establece reglas diversas, como en la tributación del mayor valor en la enajenación de bienes inmuebles\nobtenido por ciertos contribuyentes , cuando dicho mayor valor excede el límite de 8.000 UF. En estos casos,\nla renta proveniente de la enajenación de los bienes inmuebles se grava sobre base percibida o devengada,\na elección del contribuyente. Esto quiere decir que, perfeccionado el título y no obstante encontrarse\npendiente la entrega (esto es, la tradición o enajenación del inmueble mediante la competente inscripción en\nel registro conservatorio), el contribuyente puede optar por tributar sobre base “devengada”, en los términos\nestablecidos por la ley. \nLa misma opción,"
+    },
+    {
+      "name": "Oficio N°2265 (30/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2265 (30/08/2021)",
+      "document_id": "eb0283d4-be10-522d-8f7e-752370b08491",
+      "chunk_uuid": "2036b647-852c-5e5f-8818-728c1a283f55",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2265-30%2F08%2F2021.pdf&extension=pdf&acc=download&id=c0ca3a57-1c8c-4955-b7f9-ce19b782a056&mediaType=application%2Fpdf",
+      "content": "iciones, restricciones u \nobligaciones” que la misma ley establece2 . \n \nA partir de lo anterior, y a pesar de ciertas impropiedades en la propia ley3, en lo que interesa, se \ndesprende que, en el derecho real de conservación, el “contrato constitutivo” es el título, que puede \nser gratuito u oneroso, mediante cuya inscripción (del título) en el Conservador de Bienes Raíces \nrespectivo se hace tradición del derecho real. \n \n \n \n          \n1 De acuerdo artículo 2° del proyecto de ley, iniciado por moción parlamentaria, el derecho real de conservación “consiste en una \nlimitación al dominio de un inmueble, que se constituye voluntariamente con la finalidad de contribuir a conservar el ambiente, en \nbeneficio de la comunidad en su conjunto, cuyo ejercicio y protección quedan especialmente entregados a una persona jurídica determinada \nen calidad de titular, y en virtud de la cual se imponen ciertos gravámenes al bien raíz afectado.” \n2 Las partes deben acordar, al menos, una de las siguientes prohibiciones, restricciones u obligaciones: \n1.- Restricción o prohibición de destinar el inmueble a uno o más determinados fines inmobiliarios, comerciales, turísticos, industriales, de \nexplotación agrícola, forestales o de otro tipo. \n2.- Obligación de hacerse cargo o de contratar servicios para la mantención, limpieza, descontaminación, reparación, resguardo, \nadministración o uso y aprovechamiento racionales del bien raíz. \n3.- Obligación de ejecutar o supervisar un plan de manejo acordado en el contrato constitutivo, con miras al uso y aprovechamiento \nracionales de los recursos naturales del inmueble gravado, dentro del marco de un uso sostenible de los \nmismos. \n3 Considerando que nuestro ordenamiento jurídico reconoce, por regla muy general, la dualidad título y modo, a partir de sus diversas \ndisposiciones, se concluye que el denominado “contrato constitutivo”, por sí mismo, no “constituye” el derecho real, sino que es el título, \nde modo que su inscripción permite hacer tradición del derecho real. Asimismo, se debe entender que la inscripción del contrato \nestrictamente no es “requisito, prueba y garantía del mismo” (del título), como dispone el N° 1 del artículo 8°, sino de la “posesión”. \n\n\n \n \n \nAsimismo, el derecho real de conservación limita los poderes o facultades inherentes del dominio \nque se encontraban radicadas en el propietario del predio de modo que, al constituirse el referido \nderecho real, el propietario del predio enajena – en su sentido amplio – todo o parte de sus facultades \nde uso y disposición material del predio. \n \nEn consecuencia, en la medida que el contrato constitutivo se celebre a título gratuito, en principio \ncalifica como una donación gravada con el Impuesto a las Donaciones, conforme al inciso quinto del \nartículo 1° de la Ley N° 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones, en \nrelación al artículo 1386 del Código Civil, en el sentido que, para los efectos del referido impuesto, se \nentiende por donación entre vivos “un acto por el cual una persona transfiere gratuita e \nirrevocablemente una parte de sus bienes a otra persona, que la acepta.” \n \nCon todo, se debe tener presente lo establecido en el artículo 1398 del Código Civil en cuanto que \n“no hay donación, si habiendo por una parte disminución de patrimonio, no hay por otra aumento; \ncomo cuando se da para un objeto que consume el importe de la cosa donada, y de que el donatario \nno reporta ninguna ventaja apreciable en dinero.” \n \nAsimismo, se debe considerar lo dispuesto en el artículo 1405 del citado código, en el sentido \nque “las donaciones en que se impone al donatario un gravamen pecuniario o que puede apreciarse \nen una suma determinada de dinero, no están sujetas a insinuación, sino con descuento del \ngravamen.” \n \nFinalmente, consistente con lo anterior, el inciso primero del artículo 5°"
+    },
+    {
+      "name": "Oficio N°855 (01/04/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°855 (01/04/2021)",
+      "document_id": "21d94d6d-8133-5b90-b593-17016e4468cb",
+      "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=855-01%2F04%2F2021.pdf&extension=pdf&acc=download&id=1815d85c-df0c-47b2-8226-684416609331&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – LEY SOBRE IMPUESTO A LAS – ART. 2, N° 3 \n– DECRETO SUPREMO N° 55, DE 1977, ART. 4. (ORD. N° 855, DE 01.04.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nIVA en la  resciliación  de  un  contrato  de compraventa de un bien raíz. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre el efecto en IVA en la resciliación de un \ncontrato de compraventa de un bien raíz. \n \nI        ANTECEDENTES \n \nDe acuerdo con su presentación, el año 1996 era dueño de una parcela en la comuna de XXXX, la cual \nvendió en 2003. Indica que las condiciones pactadas en dicha compraventa no se cumplieron, motivo \npor el cual con fecha 28 de diciembre de 2020 rescilió el contrato, quedando la propiedad nuevamente \na su nombre. Manifiesta que actualmente quiere vender nuevamente el bien raíz. \n \nAl respecto, consulta si puede vender ahora la propiedad sin que se le considere vendedor habitual y \npor tanto no tenga que pagar IVA. \n \nII       ANÁLISIS \n \nEn relación con la resciliación o mutuo disenso de un contrato como el que describe en su \npresentación, este Servicio ya se ha pronunciado, indicando que, para efectos tributarios, este modo de \nextinguir obligaciones solo produce efectos para el futuro, de manera que si las partes quisieran \nhacer desaparecer los efectos ya cumplidos del contrato resciliado, deben concurrir a una nueva \nconvención. \n \nEn el caso de los inmuebles, su tradición o entrega (enajenación) se verifica mediante su inscripción en \nel Conservador de Bienes Raíces. De esta manera, una compraventa resciliada con posterioridad a la \ninscripción del inmueble en el Conservador de Bienes Raíces no puede retrotraer los efectos de la \ncompraventa, desconociendo la tradición ya efectuada. En tal caso, este acto jurídico, más que una \nresciliación, constituirá un nuevo título traslaticio del inmueble.1 \n \nDado lo expuesto, la venta que se analiza se estaría verificando dentro de un año contado desde la \nadquisición de la propiedad, no obstante, no se aclara en la presentación si el inmueble a que se refiere \nla consulta es un inmueble construido o es un terreno desprovisto de construcciones, ya que sólo se \ndescribe como una “parcela”. \n \nAl respecto, el Nº 1°) del artículo 2º de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) define \nventa como toda convención independientemente de la designación que le den las partes, que sirva para \ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles \nconstruidos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, \ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta. \n \nComo se aprecia, la ley sólo grava la venta de inmuebles construidos, de manera que si la operación a \nque se refiere la consulta recae sobre un terreno sin construcciones ella no se encontrará afecta a IVA. \n \n \nPor el contrario, si la venta recae sobre un inmueble construido, el Nº 3°) del artículo 2° de la LIVS \ndefine como vendedor a cualquier persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e \ninmuebles, sean ellos de su propia producción o adquiridos de terceros. \n \nEn relación con el concepto de vendedor, el texto anterior de la LIVS establecía una presunción \nmeramente legal de habitualidad en la venta de inmuebles, cuando entre la adquisición o construcción \ndel bien raíz y su enajenación transcurra un plazo inferior a un año."
+    },
+    {
+      "name": "Oficio N°274 (27/01/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°274 (27/01/2021)",
+      "document_id": "0d0a9b21-e3da-5474-a13b-4537040719c1",
+      "chunk_uuid": "e1078d07-0cc8-56cc-bf0c-ed9a87c74a57",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=274-27%2F01%2F2021.pdf&extension=pdf&acc=download&id=0b4cc71b-aeee-426f-9082-47befd71ba76&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42 N° 2 – D.S. N° 55 DEL \nMINISTERIO DE HACIENDA, DE 1977, ART. 69 – RES. EX. N° 74 DE 2020 \n \n(ORD. N° 274 DE 27.01.2021). \n \nEmisión de boletas por parte de los Conservadores de Bienes Raíces. \nSe ha solicitado un pronunciamiento sobre la correcta emisión de boletas por parte de los Conservadores \nde Bienes Raíces, considerando que la persona que solicita el servicio prestado por dicha entidad no \nsuele ser quien se obliga a su pago. \nI \nANTECEDENTES \nDe acuerdo con su presentación, sería usual que las personas obligadas, en definitiva, al pago servicios \nprestados por los Conservadores de Bienes Raíces con motivo de compraventas de bienes raíces sea \ndistinta de aquella que los solicita.  \nEn dicho contexto, consulta si la boleta que emita un Conservador de Bienes Raíces debe ser a nombre \nde quien se obliga al pago de los servicios o a nombre de quien efectivamente realiza el pago.  \nII \nANÁLISIS \nSi bien los ingresos obtenidos por los Conservador de Bienes Raíces se encuentran afectos al Impuesto \nÚnico de Segunda Categoría conforme al N° 2 del artículo 42 de la Ley sobre Impuesto a la Renta, \ndebiendo emitir boletas de honorarios por los ingresos que perciba por la prestación de sus servicios, \nsobre la emisión de los documentos son aplicables las reglas del Título IV párrafo 2° Ley sobre \nImpuesto a las Ventas y Servicio (“LIVS”), que regula la emisión de boletas o facturas1, sin mencionar a \nnombre de quien deberá emitirse.  \nPor su parte, el artículo 69 del Decreto Supremo N° 55, del Ministerio de Hacienda, de 1977, \nReglamento de la LIVS, que en su letra B indica específicamente los requisitos que debe cumplir la \nemisión de boletas, tampoco considera la individualización del comprador del bien o del beneficiario del \nservicio.  \nA su turno, la Resolución Exenta N° 74 de 2020, emitida por este Servicio, no exige individualización \ndel beneficiario, salvo para el caso en que se requiera por el contribuyente la impresión física de boletas \nelectrónicas, si el contribuyente resulta ser prestador de servicios periódicos, en cuyo caso deberá \nindicarse el código de cliente, su rol único tributario o, en defecto de ellos, su nombre completo y la \ndirección del cliente y/o receptor2, excepción que no se aplica en este caso por no tratarse de la \nprestación de servicios periódicos.  \nDe esta manera, y conforme se puede observar en los Anexos N°s 1 y 2 de la mencionada Resolución \nExenta N° 74 de 2020, la inclusión de los datos del receptor de la boleta resulta opcional para los \nConservadores de Bienes Raíces, salvo en caso de corresponder a la excepción indicada párrafo anterior. \nAhora bien, el servicio prestado por un Conservador de Bienes Raíces con motivo de una compraventa \ncorresponde a la inscripción del título traslaticio de dominio de un inmueble, conforme a lo dispuesto en \nel artículo 686 del Código Civil. Dicho servicio puede ser requerido por el interesado, sus personeros o \nsus representantes legales3.  \nPor lo anterior, para que un tercero solicite la inscripción de una compraventa, como señala el \nconsultante, deberá acreditar la calidad de personero o representante legal del interesado en la \ninscripción4, en el caso de la consulta, el adquirente.  \nDe esta manera, independientemente de los datos de individualización que contenga la boleta, para \nefectos de acreditar el gasto, en el caso señalado en su presentación el gasto resulta efectivamente \nincurrido por quien se obliga al pago, es decir, el adquirente del inmue"
+    },
+    {
+      "name": "Oficio N°209 (27/01/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°209 (27/01/2012)",
+      "document_id": "0c6d875f-7598-5291-958a-c24829cfbe67",
+      "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja0209.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2012\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 17°, N°8, ART. 18° y CÓDIGO CIVIL, ART. 686.\n(ORD. N° 0209, DE 27.01.2012)\nANÁLISIS SOBRE LA PRESUNCIÓN LEGAL DE HABITUALIDAD EN LA ENAJENACIÓN DE UN BIEN\nRAÍZ y FECHA INICIAL A CONSIDERAR PARA EL CÓMPUTO DEL PLAZO DE UN AÑO y FECHA DE\nLA INSCRIPCIÓN EN EL REGISTRO DE PROPIEDAD DEL CONSERVADOR DE BIENES RAÍCES, DEL\nTÍTULO QUE DA CUENTA DE LA COMPRA Y POSTERIOR VENTA DEL BIEN RAÍZ.\nI.- ANTECEDENTES.\nUna persona natural, celebró un contrato de compraventa de un bien raíz el xx de mayo de 2007,\npracticándose la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces respectivo el xx\nde octubre del mismo año. Por otra parte, el xx de julio de 2008, ahora como vendedor, suscribió la escritura\npública de venta del mismo bien con fecha xx de julio de 2008, título que habría sido inscrito en el Registro\nde Propiedad con fecha xx de agosto del mismo año.\nAdicionalmente, luego de referirse a lo dispuesto en la parte final, del inciso 3°, del artículo 18, de la LIR,\ndescribe una serie de circunstancias previas y concurrentes a las operaciones señaladas precedentemente,\npara finalizar solicitando un pronunciamiento de este Servicio sobre cuál es el hecho a considerar para los\nefectos para computar los plazos establecidos en la citada disposición legal, y si, en la situación descrita,\nexiste o no habitualidad en la enajenación del bien raíz a que se refiere.\nII.- ANÁLISIS.\nTal como este Servicio ha sostenido con anterioridad de conformidad con las disposiciones de la LIR, existen\ntres casos en los cuales el mayor valor obtenido en la enajenación de bienes raíces queda afecto a la\ntributación general que contempla dicho texto legal, a saber: a) cuando la operación represente el resultado\nde negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose que existe\nhabitualidad en las situaciones previstas en el inciso 3°, del artículo 18, de la LIR; b) cuando se trate de la\nenajenación de bienes raíces que formen parte del activo de empresas que declaren su renta efectiva en la\nPrimera Categoría; y c) cuando la enajenación de tales bienes se efectúe a una empresa o sociedad con la\ncual el cedente se encuentre relacionado en los términos del inciso 4°, del Nº 8, del artículo 17, de la LIR.\nAhora bien, respecto de la interpretación del concepto de enajenación que emplea el artículo 18, de la LIR,\neste Servicio ha sostenido que no existiendo en el ordenamiento jurídico un concepto específico para efectos\ntributarios, dicha expresión debe entenderse en el sentido que le confiere el derecho común. Agrega dicha\njurisprudencia que en nuestra legislación, para la transferencia del dominio y demás derechos reales, y aún\npersonales, se exige la concurrencia de dos elementos jurídicos, a saber; un título y un modo de adquirir, y la\ntransferencia del dominio de los bienes raíces se efectúa por la inscripción del título en el Registro de\nPropiedad del Conservador de Bienes Raíces respectivo, forma en que se lleva a cabo la tradición de los\nbienes inmuebles, según lo establecido en el artículo 686 del Código Civil. Por ello, tratándose de la\ncompraventa de un bien inmueble, la enajenación a que se refiere el artículo 18, de la LIR, debe entenderse\nprecisamente efectuada por la inscripción del título en el citado Registro.\nIII.- CONCLUS"
+    },
+    {
+      "name": "Circular N°44 (12/07/2016)",
+      "source_type": "circular",
+      "source": "Circular N°44 (12/07/2016)",
+      "document_id": "9a629f44-a52c-5a18-922c-e899e851d68d",
+      "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+      "chunk_id": 60,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2016/circu44.pdf",
+      "content": " bienes raíces poseídos \nen comunidad, que resulten de la subdivisión de terrenos urbanos o rurales, la enajenación debe ser \nrealizada habiendo transcurrido un plazo superior a cuatro años contado desde la adquisición del bien \nraíz que fue subdividido o de los derechos o cuotas que recaen sobre éste. \n  \n-  \nTratándose de la venta de edificios por pisos o departamentos construidos por el \ncontribuyente, o de derechos o cuotas respecto de tales bienes raíces poseídos en la comunidad \nconstructora, la enajenación debe ser realizada habiendo transcurrido un plazo superior a cuatro años \ncontado desde su construcción.  \n \n-  \nTratándose de bienes raíces no comprendidos en las dos hipótesis anteriores, o de derechos \no cuotas respecto de tales bienes raíces poseídos en comunidad, la enajenación debe ser realizada \nhabiendo transcurrido un plazo igual o superior a un año contado desde su adquisición. \n  \nii) \nCómputo de los plazos señalados. Fecha de adquisición o de enajenación. \n \nDispone expresamente el inciso penúltimo, del N° 8, del artículo 17 de la LIR que tratándose de \nenajenaciones de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes \nraíces poseídos en comunidad, efectuadas por personas naturales, se entenderá por fecha de \nadquisición o de enajenación la fecha de la inscripción respectiva. En consecuencia, para efectos de \ncomputar los plazos referidos en la letra (b) anterior, habiendo operado la tradición como modo de \nadquirir el dominio, ya sea respecto del enajenante o del nuevo adquirente, deberá estarse a la fecha \nde la inscripción del respectivo título en el Registro de Propiedad del Conservador de Bienes Raíces \n(CBR), por cuanto dicha inscripción es precisamente la forma en que se lleva a cabo la tradición de \nlos bienes raíces y la que fija, por tanto, la fecha de adquisición o de enajenación, según \ncorresponda. En virtud de los artículos 21 a 31 y del artículo 65 del Reglamento del Registro \nConservatorio de Bienes Raíces, la fecha de inscripción corresponde a la fecha en que el respectivo \ntítulo sea anotado en el Repertorio del CBR, para su inscripción, por estricto orden cronológico de \nllegada.  \n \nSin embargo, si la convención que sirve de título para transferir el dominio, esto es, para enajenar, se \ncelebra en cumplimiento de cualquier otro acto o contrato que tenga por objeto suscribir, \n\n\n44 \n \nprecisamente, dicha convención, los plazos señalados se computarán desde la fecha de celebración \nde dicho acto o contrato, de acuerdo a lo dispuesto en el inciso 3°, de la letra b), del inciso 1°, del N° \n8, del artículo 17 de la LIR. Por ejemplo, si un terreno urbano adquirido con fecha 1° de diciembre de \n2014, (ya que en dicha fecha se inscribió la respectiva compraventa en el Registro de Propiedad del \nCBR) se subdivide y respecto de uno de los lotes resultantes se celebra un contrato de promesa de \ncompraventa con fecha 20 de noviembre de 2018, compraventa que se suscribe con fecha 2 de enero \nde 2019 y se inscribe en el Registro de Propiedad del CBR con fecha 15 de febrero de 2019, para \nefectos de computar el plazo respectivo, deberá considerarse el plazo transcurrido entre el 1° de \ndiciembre de 2014 (fecha de inscripción de la compraventa en el CBR) y el 20 de noviembre de 2018 \n(fecha de celebración del contrato de promesa de compraventa).  \n \nLo anterior no implica que se modifique la fecha de adquisición para el nuevo adquirente, la que en el \nejemplo señalado vendría dada por la fecha de inscripción de la compraventa del lote respectivo"
+    },
+    {
+      "name": "Oficio N°1420 (21/04/2006)",
+      "source_type": "oficio",
+      "source": "Oficio N°1420 (21/04/2006)",
+      "document_id": "e854328f-34fc-5c2a-9639-58df200ef9af",
+      "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1420.htm",
+      "content": " y demás derechos reales, y aún\npersonales, se exige la concurrencia de dos elementos jurídicos: un título y un modo de adquirir, y la\ntransferencia del dominio de los bienes raíces se efectúa por la inscripción del título en el Registro del\nConservador, forma en que se realiza la tradición de inmuebles según lo establecido en el artículo 686 del\nCódigo Civil, se informa a Ud. que tratándose de la compraventa de un bien inmueble, como es el caso\nplanteado, la enajenación a que se refiere la disposición legal indicada, debe entenderse precisamente\nefectuada por la inscripción del título (escritura pública del contrato de compraventa) en el Registro del\nConservador de Bienes Raíces.\nRICARDO ESCOBAR CALDERON\nDIRECTOR\nOficio N° 1420, de 21.04.2006\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Circular N°70 (31/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°70 (31/12/2014)",
+      "document_id": "78803365-9044-5e66-a1cb-dde73ee4f443",
+      "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+      "chunk_id": 68,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu70.pdf",
+      "content": "otas respecto de tales bienes raíces poseídos en comunidad, la enajenación \ndebe ser realizada habiendo transcurrido un plazo igual o superior a un año contado desde su \nadquisición. \n  \nii) \nCómputo de los plazos señalados. Fecha de adquisición o de enajenación. \n \nDado que se trata bienes raíces o de derechos o cuotas sobre éstos, los que también se reputan \ncomo inmuebles, atendido lo dispuesto en el artículo 580 del Código Civil51, para efectos de computar \nlos plazos referidos en la letra anterior, habiendo operado la tradición como modo de adquirir el \ndominio, ya sea respecto del enajenante o del nuevo adquirente, deberá estarse a la fecha de la \ninscripción del respectivo título en el Registro de Propiedad del Conservador de Bienes Raíces \n(CBR), por cuanto dicha inscripción es precisamente la forma en que se lleva a cabo la tradición de \nlos bienes raíces y la que fija, por tanto, la fecha de adquisición o de enajenación, según \ncorresponda. En virtud de los artículos 21 a 31 y del artículo 65 del Reglamento del Registro \nConservatorio de Bienes Raíces, la fecha de inscripción corresponde a la fecha en que el respectivo \ntítulo sea anotado en el Repertorio del CBR, para su inscripción, por estricto orden cronológico de \nllegada.  \n \nSi el enajenante adquirió el dominio de los bienes por sucesión por causa de muerte, para efectos del \ncómputo de los plazos deberá estarse a la fecha de la apertura de la sucesión, la que de acuerdo al \nartículo 955 del Código Civil, corresponde al momento de la muerte del causante, ya que en virtud de \ndicho hecho jurídico los bienes del difunto pasan a sus sucesores. Cabe precisar, que en el caso que \nfallezca el dueño de los bienes raíces o de los derechos o cuotas sobre tales bienes raíces, no se \nproducirá un mayor valor en los términos referidos, toda vez que se produce una transmisión del \ndominio y no una transferencia de éste.   \n \nSin embargo, si la convención que sirve de título para transferir el dominio, esto es, para enajenar, se \ncelebra en cumplimiento de cualquier otro acto o contrato que tenga por objeto suscribir, \nprecisamente, dicha convención, los plazos señalados se computarán desde la fecha de celebración \nde dicho acto o contrato, de acuerdo a lo dispuesto en el inciso 3°, de la letra b), del N° 8, del artículo \n17 de la LIR. Por ejemplo, si un terreno urbano adquirido con fecha 1° de diciembre de 2014, ya que \nen dicha fecha se inscribió la respectiva compraventa en el Registro de Propiedad del CBR, se \nsubdivide y respecto de uno de los lotes resultantes se celebra un contrato de promesa de \ncompraventa con fecha 20 de noviembre de 2018, compraventa que se suscribe con fecha 2 de enero \nde 2019 y se inscribe en el Registro de Propiedad del CBR con fecha 15 de febrero de 2019, para \nefectos de computar el plazo de que se trata, que en este caso debe ser igual o inferior a 4 años, \ndeberá considerarse el plazo transcurrido entre el 1° de diciembre de 2014 (fecha de inscripción de la \n          \n51 Dispone el artículo 580 del Código Civil: \n“Los derechos y acciones se reputan bienes muebles o inmuebles, según lo sea la cosa en que han de ejercerse, o que se \ndebe. Así el derecho de usufructo sobre un inmueble, es inmueble. Así la acción del comprador para que se le entregue la \nfinca comprada, es inmueble; y la acción del que ha prestado dinero, para que se le pague, es mueble.”. \n \n\n\n50 \n \ncompraventa en el CBR) y el 20 de noviembre de 2018 (fecha de celebración"
+    },
+    {
+      "name": "Oficio N°1664 (08/04/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°1664 (08/04/2004)",
+      "document_id": "184ca232-ee07-5940-bdcd-abeb599ba172",
+      "chunk_uuid": "c4bef92f-8c47-55bb-98c7-9e0f85b6e78b",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/ventas/ja704.htm",
+      "content": "\nla empresa fusionada.\nCon fecha 27 de junio del 2002 se constituyó una nueva sociedad denominada XXXX Banco. Los accionistas\nfundadores de YYYY Banco pagaron en dinero las acciones suscritas según lo dispone el artículo 49 N° 1 de\nla Ley General de Bancos.\nMás adelante, con fecha 19 de agosto del 2002, la empresa XXXX S.A. decidió vender, ceder y transferir,\ncomo universalidad de hecho, la denominada cartera de leasing a la empresa HNS Banco, por un valor de\n$00.000.000.000, operación que fue autorizada por la Superintendencia de Bancos e Instituciones\nFinancieras, considerándola como una venta de establecimientos de comercio que comprendía bienes\ncorporales muebles de su giro.\nSin embargo, la tradición simbólica (puesto que los bienes se encontraban dados en arrendamiento a\nterceras personas) de los bienes corporales muebles que componían la cartera de leasing que en su origen\nprovenía de la división de la sociedad XXXX S.A. se materializó, según se declara en la Cláusula Cuarta\nletra d) de la escritura de compraventa, directamente desde esta última sociedad a la empresa XXXX Banco,\ntoda vez que dicha tradición no se había realizado aún respecto de la sociedad XXXXX I S.A., como\ntampoco de su absorbente la sociedad XXXX S.A. Esto fue sin perjuicio de la tradición de los bienes\n\n\ncorporales inmuebles, que se materializaría con fecha posterior mediante su inscripción en el conservador\nde bienes raíces correspondiente.\nAsimismo, la sociedad XXXX S.A. en las Cláusulas Segunda y Novena del contrato de compraventa declaró\nefectuar la tradición simbólica, a la empresa adquirente de la cartera de leasing, de los bienes corporales\nmuebles correspondientes a los contratos de leasing que formaban parte de la cartera cedida y que habían\nsido celebrados directamente por esta empresa vendedora en el tiempo que media entre la adquisición de la\nmencionada cartera en virtud de la absorción de la sociedad XXXXX I S.A. y la celebración del presente\ncontrato de compraventa. Esto, nuevamente, fue sin perjuicio de la tradición de los bienes corporales\ninmuebles, que se materializaría con fecha posterior mediante su inscripción en el conservador de bienes\nraíces correspondiente.\nA la luz de los antecedentes expuestos, solicita un pronunciamiento de esta Dirección Nacional con respecto\na determinar si la operación de venta de la cartera de leasing efectuada por XXXX S.A. a YYYY Banco se\nencontraba gravada con Impuesto al Valor Agregado.\n2.- De acuerdo con lo expresado por el contribuyente, los bienes objeto de la transacción son principalmente\nbienes corporales muebles e inmuebles que fueron adquiridos por las empresas de leasing con la finalidad\nde darlos en arrendamiento con opción de compra a sus clientes. Los bienes muebles consisten en\nautomóviles, buses, camionetas, camiones, maquinaria industrial y agrícola. Por su parte, los inmuebles son\nbienes raíces rurales y urbanos que no fueron construidos por la empresa de leasing, sino que fueron\nadquiridos por ésta para darlos en arrendamiento.\nAhora bien, según el criterio reiteradamente sostenido por esta Dirección Nacional con respecto a los bienes\nentregados en leasing, en atención a que la empresa de leasing es la dueña de los bienes y a que en virtud\nde este contrato sólo se permite el uso y goce de los bienes y no se transfiere el dominio de éstos, sino\nhasta el momento en que el arrendatario decide libremente ejercer la opción de compra, situación que no\npuede precisarse al momento de suscribirse el contrato, el que esencialmente es de arrendamiento, se\nestima que dichos bienes corporales deben ser clasificados como bienes del activo fijo o inmovilizado de la\nempresa que los cede en arrendamiento.\nEn consecuencia, el régimen tributario aplicable a la enajenación de bienes pertenecientes al activo fijo de\nuna empresa es aquel"
+    }
+  ]
+}

@@ -1,0 +1,1088 @@
+{
+  "query_id": "q014",
+  "query_text": "Avalúo fiscal y reavalúo de condominios acogidos a la ley de copropiedad inmobiliaria",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 47.141705,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 44.961884,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 42.20366,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 41.607845,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 41.462856,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+        "score": 40.65853,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 38.244858,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 37.263096,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 36.870686,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b70974c7-9a0f-5b0b-8fb1-023aeb97a7e8",
+        "score": 36.68734,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 2.161621,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 2.043457,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 2.0429688,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+        "score": 2.0151367,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 1.9343262,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 1.9012451,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 1.8579102,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "7be76a13-ef2f-57e6-9e47-ad61a1242768",
+        "score": 1.760498,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ca53d682-4c14-5e52-a72d-8e348b21a07a",
+        "score": 1.7407227,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 1.7155762,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+        "score": 29.211008,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6a19e616-9675-577d-ae19-17e4660e4d0a",
+        "score": 29.02651,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 28.47447,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 27.951351,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 27.897173,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 27.144924,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 26.91703,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "25446216-155f-56d5-933a-1adb45d88bf2",
+        "score": 26.079947,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+        "score": 25.908112,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 25.600344,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 49.772358,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 44.924583,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 44.202114,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 42.132088,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 41.889423,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 41.21844,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 40.09345,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+        "score": 40.005634,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+        "score": 39.77019,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "bd060eb0-4932-50f4-bae3-2effd884a906",
+        "score": 38.566025,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 1.6813965,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 1.6032715,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 1.5682373,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 1.5039062,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 1.4782715,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+        "score": 1.3310547,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 1.3295898,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 1.270874,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7be76a13-ef2f-57e6-9e47-ad61a1242768",
+        "score": 1.1862793,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+        "score": 1.1693726,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 46.887333,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 42.698902,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 41.84645,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 40.40503,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 40.300907,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 39.68422,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 39.344753,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+        "score": 38.13801,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+        "score": 37.59441,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+        "score": 37.024605,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 1.7949219,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 1.7739258,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 1.7071533,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 1.6987305,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 1.689331,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 1.6320801,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+        "score": 1.5192871,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 1.4506836,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 1.3780518,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7be76a13-ef2f-57e6-9e47-ad61a1242768",
+        "score": 1.3464355,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 16.101562,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 15.597656,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 15.03125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 14.910156,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 14.6875,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 14.433594,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+        "score": 14.21875,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 14.144531,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 14.082031,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+        "score": 13.8515625,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.03076923076923077,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.028814262023217248,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028790389395194696,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+        "score": 0.028531243721117136,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.028298204527712725,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+        "score": 0.028083267871170464,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 0.028006267136701922,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 0.02786377708978328,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.03200204813108039,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.031009615384615385,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.030536130536130537,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 0.029906956136464335,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028790389395194696,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.02817460317460317,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+        "score": 0.028083267871170464,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+        "score": 0.027252906976744186,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+        "score": 0.027118043247075507,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+        "score": 0.026419626007891578,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.03125763125763126,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.03125,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+        "score": 0.03047794966520434,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.0304147465437788,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.029273504273504274,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "25446216-155f-56d5-933a-1adb45d88bf2",
+        "score": 0.028991596638655463,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028790389395194696,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.0287391216352965,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 0.028438886647841874,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "2cb7502a-0650-5323-84c4-3f13c15314b5",
+        "score": 0.027479766610201392,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.031009615384615385,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.02921395544346364,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.02904040404040404,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028594771241830064,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+        "score": 0.028531243721117136,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+        "score": 0.02819138376017471,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 0.028083267871170464,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+        "score": 0.028083267871170464,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.03076923076923077,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 0.02964254577157803,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+        "score": 0.028814262023217248,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.028594771241830064,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028404512489927477,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+        "score": 0.028373015873015873,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "bd060eb0-4932-50f4-bae3-2effd884a906",
+        "score": 0.027417840375586856,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.02738245361196181,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.03076923076923077,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.02904040404040404,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.02889344262295082,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+        "score": 0.028531243721117136,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028404512489927477,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+        "score": 0.028370221327967807,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+        "score": 0.028258706467661692,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+        "score": 0.02819138376017471,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.030536130536130537,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 0.02964254577157803,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+        "score": 0.029030910609857977,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+        "score": 0.02900988017658188,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+        "score": 0.028594771241830064,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.028381642512077296,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 0.02786377708978328,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.027757078986587184,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+        "score": 0.03225806451612903,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+        "score": 0.032018442622950824,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+        "score": 0.03076923076923077,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+        "score": 0.028665028665028666,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+        "score": 0.028381642512077296,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+        "score": 0.028373015873015873,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+        "score": 0.02788769549651404,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+        "score": 0.02786377708978328,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+        "score": 0.027783137179239824,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+        "score": 0.027783137179239824,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 11.5,
+    "p1_tfidf": 10.2,
+    "p1_splade": 111.6,
+    "p2_bm25": 15.2,
+    "p2_tfidf": 10.2,
+    "p3_bm25": 6.7,
+    "p3_tfidf": 6.9,
+    "baseline_qdrant_bm25": 8.7,
+    "rrf_p1_bm25": 55.9,
+    "rrf_p1_tfidf": 51.3,
+    "rrf_p1_splade": 148.8,
+    "rrf_p2_bm25": 188.6,
+    "rrf_p2_tfidf": 170.4,
+    "rrf_p3_bm25": 62.0,
+    "rrf_p3_tfidf": 63.8,
+    "rrf_baseline_qdrant_bm25": 32.4
+  },
+  "pool": [
+    {
+      "name": "Circular N°68 (26/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°68 (26/12/2014)",
+      "document_id": "e910a166-a023-52eb-a414-5cfb8263409a",
+      "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+      "chunk_id": 6,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf",
+      "content": " total calcular el \nporcentaje de derechos que le corresponde a cada unidad. Se excluye calcular el avalúo fiscal del bien común. \n \n \n2.- FORMULARIO Nº 2805: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación terminada de \ncada unidad acogida a la Ley de Copropiedad Inmobiliaria más el mayor avalúo por derechos sobre el \nbien común del sector_ Unidades con igual destino”: \n \nEste formulario se utilizará en todos los condominios con diferentes sectores y donde todas las unidades \ncorrespondan al mismo destino, ya sea  Habitacional o No Habitacional.  \n \nPermite  establecer los derechos de las unidades sobre los bienes comunes por sectores, separadamente de \nlos derechos sobre los bienes comunes de todo el condominio.  \n \nEl cálculo del avalúo fiscal de la edificación de las unidades vendibles se debe realizar de acuerdo a lo \ndispuesto en las instrucciones contenidas en la Resolución  Ex. SII N° 108/2013 o conforme a lo establecido \nen la Resolución Ex. SII N° 132/2012, según corresponda al destino de las unidades vendibles, o en las \nResoluciones que se encuentren vigentes para la clases de bienes que se trate, conforme al Instructivo que \nse adjunta en el Anexo 7. \n \nEn este tipo de condominios se generan dos situaciones nuevas que condicionan la declaración y el cálculo \ndel avalúo fiscal de las unidades y los porcentajes de derechos sobre los bienes comunes: \n \na) \nLa inmobiliaria debe calcular y declarar el avalúo de los bienes comunes de beneficio de cada sector de \ncopropietarios (terreno y edificaciones). \nb) \nEl porcentaje de derechos de  las unidades sobre el bien común de uso de todos los copropietarios del \ncondominio se debe calcular considerando el avalúo fiscal total de cada unidad (columna 17 del F. 2805), \nel cual incluye el avalúo fiscal de la unidad (columna 14 del F. 2805) más el avalúo correspondiente al \nporcentaje de derechos de la unidad sobre el bien común del sector al cual pertenece la unidad (Columna \n16 del F. 2805). \n \n\n\nEste formulario contiene:  \n \na) Primera página con:  \n- \nDatos generales del condominio, del propietario, del representante legal y de las leyes a las cuales se \nencuentra acogido. \n- \nDatos generales del bien común de beneficio de todos los copropietarios. \n- \nResumen de sectores y unidades: donde se individualiza (con número y nombre) cada sector del \ncondominio, especificando el tipo: “A” o “B” o “A y B” y la cantidad de unidades que son beneficiadas \npor el sector. \n- \nFirmas y certificación de haber sido recibido por el SII. \nb) Segunda página detalla el avalúo del bien común del sector y unidades del sector. \nc) Tercera página detalla unidades del sector. \n \nPara declarar el propietario o representante deberá utilizar las páginas indicadas en la letra b) y c) en las \ncantidades que sean necesarias, atendiendo a la cantidad de unidades y de sectores del condominio que \ndeclara. \n \n \n3.- FORMULARIO Nº 2806: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación terminada de \ncada unidad acogida a la Ley de Copropiedad Inmobiliaria más el mayor avalúo por derechos sobre el \nbien común del sector_ Unidades con diferentes destinos”: \n \nEste formulario se utilizará en todos los condominios con diferentes sectores y donde las unidades \ncorresponden a diferentes destinos (Habitacional y No Habitacional).  \n \nPermite  establecer los derechos de las unidades sobre los bienes comunes por sectores, separadamente de \nlos derechos sobre los bienes comunes de todo el condominio.  \n \nEl cálculo del avalúo fiscal de la edificación de las unidades vendibles se debe realizar de acuerdo a lo \ndispuesto en las instrucciones contenidas en la Resolución  Ex. SII N° 108/2013 o conforme a lo establecido \nen la Resolución Ex. SII N° 132/2012, según corresponda al destino de las unidades vendibles,"
+    },
+    {
+      "name": "Circular N°46 (17/08/2006)",
+      "source_type": "circular",
+      "source": "Circular N°46 (17/08/2006)",
+      "document_id": "b1419add-6132-58fd-ac27-1470ebc2ca32",
+      "chunk_uuid": "25446216-155f-56d5-933a-1adb45d88bf2",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/documentos/circulares/2006/circu46.pdf",
+      "content": " en el formulario Nº 2803B, considerando la suma del avalúo \nfiscal de la Unidad por concepto de edificaciones y de terreno de dominio exclusivo.\n2.-\nINSTRUCCIONES PARA EL CALCULO DEL AVALUO FISCAL DE LAS UNIDADES DE UN \nCONDOMINIO:\nLas presentes instrucciones tienen por objeto posibilitar el cálculo del avalúo fiscal de una propiedad \nacogida a la Ley Nº 19.537, sobre Copropiedad Inmobiliaria, y constituyen un resumen de la normativa \nvigente para la tasación fiscal de las edificaciones. Cualquier caso excepcional no considerado en ellas \ndeberá ser consultado en el Servicio de Impuestos Internos, como por ejemplo: edificaciones antiguas \nque están en proceso de ser acogidas a esta Ley o Declaraciones Juradas derivadas de lo dispuesto en \nel artículo 14 de esta misma ley, para especificar nuevos porcentajes en los derechos de los \ncopropietarios sobre los bienes comunes.\n2.1\nAvalúo fiscal :\nComprende la avaluación del terreno y de las edificaciones que existen en la propiedad. \n\n\nDejada sin efecto\nPara la tasación de un terreno se considera la superficie, el sector de ubicación (emplazamiento) del \nmismo, las obras de urbanización y equipamiento de que dispone (Art. 4°, N° 2, Ley 17.235). Para esto \nexisten tablas de valores unitarios de terrenos para cada comuna del país, las cuales forman parte de la \nResolución Ex N° 8 de 2006 y son registradas en los Planos comunales de precios de terreno, expuestos \nen las oficinas de Avaluaciones del S.I.I.\nPara la tasación de las construcciones se considera la superficie, la clase (material estructural), la calidad, \nla antigüedad y la ubicación del sector comercial (Art. 4°,N° 2, Ley 17.235).\nPara esto, se han confeccionado tablas de valores unitarios de construcción para cada clase y calidad \nconstructiva. Sus respectivas definiciones técnicas se encuentran registradas en el Anexo N° 2 de la \nResolución Ex.N° 8 de 2006.\n2.2\nCálculo del avalúo fiscal de la unidad:\n•\nCondominios tipo \"A\": El avalúo se determinará para cada unidad o departamento del edificio \no condominio, sin considerar el valor del terreno y de las edificaciones de dominio común. En \neste caso el avalúo se determina directamente al aplicar las tablas de precios y de corrección para \nedificaciones que se presentan a continuación, por lo que no es necesario solicitar Antecedentes \nPrevios al S.I.I.\n•\nCondominios tipo \"B\": Corresponde determinar el avalúo fiscal de las edificaciones \nexistentes y el avalúo de cada terreno o lote que son de dominio exclusivo, sin considerar el \nvalor del terreno y de las edificaciones de dominio común. Para estos casos el S.I.I. \nproporcionará adicionalmente, a través del \"Certificado de Antecedentes Previos para el Cálculo del \nAvalúo Fiscal\" (Formulario Nº 2802), los Valores Base del metro cuadrado de terreno contenidos en \nla Resolución Ex. Nº 8 de 2006, los Coeficientes Guías y sus Coeficientes Correctores para cada lote \ndel condominio y el “Índice de Actualización”, mediante el cual se reajusta el Valor Base del metro \ncuadrado de terreno a la fecha en que el S.I.I. extiende el Certificado.\n2.3\nPasos para determinar el avalúo fiscal de una edificación:\n1° Es necesario identificar la Clasificación de la Edificación, según tipo, clase y calidad:\nGALPONES\nOTRAS CONSTRUCCIONES\nCODIGO\nESTRUCTURA VERTICAL\nCODIGO\nCALIDAD\nGA\nAcero\n1\nSuperior\nCODIGO\nESTRUCTURA \nVERTICAL\nCODIGO\nCALIDAD\nGB\nHormigón Armado\n2\nMedia\nA\nAcero\n 1\nSuperior\nGC\nAlbañilería\n3\nInferior\nB\nHormigón Armado\n2\nMedia Superior\n"
+    },
+    {
+      "name": "Circular N°68 (26/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°68 (26/12/2014)",
+      "document_id": "e910a166-a023-52eb-a414-5cfb8263409a",
+      "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf",
+      "content": " especificados en esta Circular, se rigen por la \nCircular N° 33, de 2013. \nPor su parte, los condominios que califiquen en la figura de densificación predial, a que se refiere el \nnuevo artículo 39 bis de la Ley N° 19.537, introducido por la  Ley N° 20.741, se excluyen del procedimiento \ndispuesto en la Circular N° 33, de 2013, así como de la presente Circular, en consideración a que éstos \nno requieren la constitución del Reglamento de Copropiedad. La citada norma dice relación con predios \nque originalmente contaron con una vivienda social, los cuales podrán contemplar, por una sola vez, hasta \nModificada por Circular Nº 62, del 27 de diciembre de 2017 \n\n\n2 viviendas sociales adicionales y constituir un condominio acogido a la Ley N° 19.537, bajo la \ndenominación de “condominio de densificación predial”. \n \n \n3.- TIPOS DE CONDOMINIOS DISPUESTOS POR LA LEY N° 20.741: \n \nDe acuerdo a las modificaciones introducidas por la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad \nInmobiliaria, además de los condominios Tipo “A” o “B” a que se refiere la Circular N° 33, de 2013, pueden \npresentarse condominios de las siguientes clases: \n \na) Condominios Tipo “A y B” sin sectores. \nb) Condominios Tipo “A y B” con sectores \nc) Condominios Tipo “A” con sectores \nd) Condominios Tipo “B” con sectores \n \nEn estos casos, la declaración jurada de \"CÁLCULO DEL AVALÚO FISCAL DE LA EDIFICACIÓN \nTERMINADA DE CADA UNIDAD ACOGIDA A LA LEY DE COPROPIEDAD INMOBILIARIA\", se efectuará \na través de los Formularios N° 2804, 2805 ó 2806, considerando el tipo de condominio de que se trate y \nde si coexisten o no unidades con destino habitacional y no habitacional: \n \nA. FORMULARIO N° 2804 \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación \nterminada de cada unidad acogida a la Ley de Copropiedad Inmobiliaria\" _Condominio tipo \n“A y B”. \n \nB. FORMULARIO Nº 2805: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación \nterminada de cada unidad acogida a la Ley de Copropiedad Inmobiliaria más el mayor \navalúo por derechos sobre el bien común del sector. Unidades con igual destino” \n \nC. FORMULARIO Nº 2806: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación \nterminada de cada unidad acogida a la Ley de Copropiedad Inmobiliaria más el mayor \navalúo por derechos sobre el bien común del sector. Unidades con diferentes destinos” \n \nÉstos se utilizarán según el siguiente detalle:  \n \n \n \n \n \n \n \n \nEn el reverso de los formularios N°2804, N°2805 y N°2806 se detalla una guía para facilitar el cálculo del \navalúo fiscal en cada caso (Anexos 6, 7 y 8). Para facilitar esta gestión, tanto las instrucciones como los \nformularios se encuentran disponibles en la página web de este Servicio en internet www.sii.cl. \n \nPara completar dichos formularios, el propietario del condominio o su representante deberá solicitar \nAntecedentes Previos a este Servicio, a través de la presentación de un Formulario N° 2118 “Solicitud de \nModificación al Catastro de Bienes Raíces”, y en consecuencia, el SII le entregará la información \nnecesaria para completarlos, según se indica en el Capítulo Segundo de la presente circular. \n \n \n \n4.-  INSTRUCCIÓN PREVIA: \n \nEn forma previa a la declaración que se efectúe a través de los Formularios N°2804, N°2805 y N°2806, \nen los casos que el propietario o su representante (persona natural o empresa constructora o inmobiliaria) \n"
+    },
+    {
+      "name": "Oficio N°2345 (02/08/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2345 (02/08/2022)",
+      "document_id": "2d80c51e-73db-508d-958a-526c466feab4",
+      "chunk_uuid": "6a19e616-9675-577d-ae19-17e4660e4d0a",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2345-02%2F08%2F2022.pdf&extension=pdf&acc=download&id=644ebc46-6c70-497d-aec3-05ed24368ab8&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nLEY GENERAL DE URBANISMO Y CONSTRUCCIONES – ART.86, ART. 59 – LEY N° \n19.537, ART. 2 – CIRCULAR N° 15 DE 2017. (ORD. N° 2345, DE 02.08.2022) \n \n \n \n \n \nAplicación de la exención de impuesto territorial por declaración de utilidad pública a la \ncopropiedad inmobiliaria. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la aplicación de la exención de \nimpuesto territorial por declaración de utilidad pública a la copropiedad inmobiliaria. \n \nI        ANTECEDENTES \n \nSegún se desprende de su presentación, y en el marco de la exención de impuesto territorial \nestablecida en el artículo 99 de la Ley General de Urbanismo y Construcciones (LGUC), solicita \naclarar si: \n \n1) \nSe aplica a un condominio tipo A ya construido acogido a la Ley N° 19.537, sobre \ncopropiedad inmobiliaria. \n \n2) \nComprende el 100% del impuesto territorial que grava a una unidad, aun cuando parte o la \ntotalidad de los bienes comunes no se haya declarado de utilidad pública. \n \n3) \nEs posible solicitar la rebaja del avalúo fiscal de los bienes comunes, en caso que la \ndeclaración de utilidad pública solo haya afectado a dicho tipo de bienes. \n \n4) \nEn este último caso, la solicitud de rebaja puede ser efectuada por uno de los copropietarios \no debe ser efectuada conjuntamente por todos los copropietarios. \n \nTras solicitar al peticionario precisiones sobre la consulta, de su respuesta1 e imágenes \nacompañadas, se desprende que se trata de un condominio tipo A, ya construido, respecto del cual \nhabría declaración de utilidad pública (se destinaría al dominio común, no privativo de los \ncopropietarios), agregando que “el destino de la afectación lo decidirá el ente expropiador, ya sea \nla Municipalidad, SERVIU, MINVU, MOP u otro. Sin embargo, si es necesario para su análisis, \nsupongamos que la zona o franja afecta será destinada a bien nacional de uso público, pudiendo \nacceder a ellos personas ajenas a la copropiedad.”. \n \n \nII       ANÁLISIS \n \nComo cuestión preliminar, cabe indicar que, a partir del 27 de mayo de 2022, el artículo 99 de la \nLGUC2 pasó a ser el actual artículo 86 de dicha ley, manteniendo su tenor literal3. \n \nAsimismo, se debe tener presente que la Ley N° 19.537, también referida en su presentación, fue \nderogada por el inciso primero del artículo 100 del artículo primero de la Ley N° 21.442, que \naprueba la nueva Ley de copropiedad inmobiliaria, cuyo inciso segundo dispone que “las \ncomunidades de copropietarios que se hubieren acogido a la ley N° 19.537 se regirán por la \npresente ley desde su publicación”, esto es, desde el 13 de abril de 2022. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1 Aclarada mediante correos electrónicos de fecha 05.07.2022. \n2 Contenida en el Decreto con Fuerza de Ley N° 458 de 1975, del Ministerio de Vivienda y Urbanismo. \n3 Lo anterior, producto de la modificación introducida a la señalada ley por el N° 5 del artículo tercero de la Ley N° 21.450, que \naprueba Ley sobre integración social en la planificación urbana, gestión de suelo y plan de emergencia habitacional. \n\n\n \n \n \n \n \n \n \nDe este modo, el presente análisis se efectuará en referencia al artículo 86 de la LGUC y entendiendo \npor copropiedad inmobiliaria aquel régimen jurídico que “corresponde a una forma especial de \ndominio sobre las distintas unidades en que se divide un inmueble, que atribuye a sus titulares un \nderecho de propiedad exclusivo sobre tales unidades y un derecho de dominio común respecto de los \nbienes comunes”, de acuerdo con lo dispuesto en el artículo \n1° de la"
+    },
+    {
+      "name": "Circular N°68 (26/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°68 (26/12/2014)",
+      "document_id": "e910a166-a023-52eb-a414-5cfb8263409a",
+      "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+      "chunk_id": 2,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf",
+      "content": "Solicitud de \nModificación al Catastro de Bienes Raíces”, y en consecuencia, el SII le entregará la información \nnecesaria para completarlos, según se indica en el Capítulo Segundo de la presente circular. \n \n \n \n4.-  INSTRUCCIÓN PREVIA: \n \nEn forma previa a la declaración que se efectúe a través de los Formularios N°2804, N°2805 y N°2806, \nen los casos que el propietario o su representante (persona natural o empresa constructora o inmobiliaria) \nsolicite la Asignación de Roles de Avalúo para un condominio acogido a la Ley N° 19.537, sobre \nCopropiedad Inmobiliaria, modificada por la Ley N° 20.741, con el objeto de facilitar la posterior \ndeclaración del avalúo fiscal de cada unidad a través de los referidos formularios, en las oficinas del SII \nse le entregará una Carta Tipo con Instrucciones Básicas para efectuar la Declaración Jurada del cálculo \ndel avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria (Anexo 1), \nacompañada de los formularios Nº 2804 (Anexo 3), Nº 2805 (Anexo 4) o N° 2806 (Anexo 5).  \n \n \nN° \nFORMULARIO \nTipos de casos \nDestino de las unidades \nSectores \n2804 \nCondominio tipo “A y B” \nCualquiera \nSin \nsectores \n2805 \nCondominio tipo “A y B” \nTodas \nlas \nunidades \n(excepto \nestacionamientos y bodegas) corresponden \nal mismo destino (Habitacional o No \nHabitacional). \n2 y más \nCondominio tipo “A” o tipo \n“B” \n2 y más \n2806 \nCondominio tipo “A y B” \nCoexisten unidades con distintos destinos: \nHabitacional y No Habitacional. \n2 y más \nCondominio tipo “A” o tipo “B” \n2 y más \n\n\nII - CAPITULO SEGUNDO \n \n \n1.- \nSOLICITUD DE ANTECEDENTES PREVIOS: \n \nDe acuerdo a lo dispuesto en la Circular N° 33, de 2013, tratándose de Condominios Tipo “A”, sólo \ndeberán solicitarse Antecedentes Previos cuando se trate de condominios donde alguna(s) o todas las \nunidades tenga(n) destino comercio, oficina y/o motel, ubicados en las áreas afectas a coeficientes \ncomerciales de las comunas de Valparaíso, Viña del Mar, Santiago o Providencia. Por su parte, para los \nCondominios Tipo “B”, la citada Circular dispone que siempre el primer propietario deberá solicitar \nantecedentes previos al SII, independiente del destino de las unidades del condominio. \n \nPor su parte, en todos los tipos de condominios dispuestos por la Ley N° 20.741 y que se regulan por la \npresente Circular siempre se deberán requerir Antecedentes Previos a este Servicio. \n \nLa solicitud del  Formulario N° 2802 “Certificado de Antecedentes Previos para el cálculo del avalúo fiscal”   \nse deberá realizar a través del formulario F2118 “Solicitud de Modificación al Catastro de Bienes Raíces”, \nconforme a lo dispuesto en la Circular N°33, de 2013. \n \nLos antecedentes que se deberán acompañar en cada caso son los siguientes: \n \nTipo de caso \nPropietario o representante debe \npresentar: \nAntecedentes \nque \nle \ndebe \nentregar el SII: \nCondominios tipo “A y \nB” \nsin \nsectores, \nindependiente del destino \nde \nlas \nunidades \ndel \ncondominio. \n1. Plano \nde \ncopropiedad  \nregistrando: \na) En la parte del condominio tipo \n“A”: el piso en que se ubican \nlas unidades y su destino. \nCuando exista más de un \nedificio deberá individualizar \ncada \nuno \nen \nel \nplano \n(asignándole un nombre o un \nnúmero \nque \npermita \nsu \nindividualización). \nb) En la parte del condominio tipo \n“B"
+    },
+    {
+      "name": "Circular N°42 (05/08/1999)",
+      "source_type": "circular",
+      "source": "Circular N°42 (05/08/1999)",
+      "document_id": "79f8bc77-d30e-5eac-bd19-5070e1a9215f",
+      "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/circulares/1999/circu42.pdf",
+      "content": "ada la debe realizar el \npropietario del inmueble acogido a la Ley de Copropiedad Inmobiliaria, presentando el \nFormulario Nº 2803 (y el Formulario Nº 2803B cuando corresponda) ante el Servicio de \nImpuestos Internos. \nEn consideración a que esta declaración jurada será efectuada por el primer propietario del \ncondominio, el S.I.I. podrá utilizarla como fuente de información para efectos de la \ndeterminación de la base imponible del Impuesto, así como del monto mismo del tributo. Dicho \nprocedimiento se realizará con posterioridad al acto de recepción de la declaración jurada, de \nforma tal, de facilitar el proceso de confección del citado Reglamento de Copropiedad. \nDejada sin efecto\nDejada sin efecto por Circular Nº 46, del 17 de agosto de 2006 \nModificada por Circular Nº 40, del 21 de julio de 2005\n\n\n2.- \nINSTRUCCIÓN PREVIA: \n \n \nLas Oficinas del S.I.I. deberán entregar al propietario (Persona Natural o Empresa \nInmobiliaria) un ejemplar de la Carta Tipo con Instrucciones Básicas (Anexo 1), acompañada \nde formularios Nº 2801, Nº 2803 y Nº 2803B (este último sólo cuando corresponda), al \nmomento que éstos soliciten la Asignación de Números de Roles de avalúo de una obra de \nedificación que va a ser acogida a la Ley de Copropiedad Inmobiliaria. \n \n \n \nCAPÍTULO SEGUNDO \n \n1.- \nFORMULARIO Nº 2801: “SOLICITUD DE ANTECEDENTES PREVIOS PARA EL CALCULO \nDEL AVALUO FISCAL\". \n \n1.1 \nObjetivo del Formulario: \n \n \nEste instrumento ha sido diseñado para permitir que, en los casos que sea necesario, el \npropietario de un condominio solicite al Servicio de Impuestos Internos la información \nnecesaria para realizar la declaración jurada del Cálculo del Avalúo Fiscal de cada unidad. \n \n1.2 \nCasos en que el propietario debe solicitar Antecedentes Previos al S.I.I.: \n \na) \nCondominios tipo \"A\" (art. 2º de la Ley): \n \n \nCuando se trate de condominios con destino habitacional el avalúo fiscal se determina \ndirectamente siguiendo el procedimiento registrado en el punto 2 del Capítulo Tercero \nde la presente Circular y al reverso del formulario Nº 2801, Nº 2802 y Nº 2803, por lo \ntanto, para estos casos no es necesario que el propietario solicite Antecedentes \nPrevios al Servicio de Impuestos Internos. \n \n \nCuando se trate de unidades con destino comercial, oficinas, bancos, financieras, \nhoteles, cines y/o teatros, ubicadas dentro de un área afecta a coeficiente comercial, \n(cuyo detalle se adjunta en Anexo 7, así como se expone en planos comunales en el \nDepartamento Regional de Avaluaciones del S.I.I. correspondiente), el propietario o el \nrepresentante legal deberá llenar el formulario Nº 2801 y así el Servicio de Impuestos \nInternos le informará el valor del coeficiente comercial que debe ser aplicado en la \ntasación fiscal de esas unidades. \n \nb) \nCondominios tipo \"B\" (art.2º de la Ley): \n \n \nEl propietario o el representante legal deberá llenar el formulario Nº 2801, para que así \nel Servicio de Impuestos Internos le pueda informar los valores base de terreno, \ncoeficientes guías y sus factores de corrección para cada unidad del condominio. Se \ndeberá anexar una copia del plano de conjunto, donde se registrará el frente y la \nsuperficie de terreno de cada unidad. \n \n \nCuando se trate de unidades con destino comercial, oficinas, bancos, financieras, \nhoteles, cines y/o teatros, ubicadas dentro de un área afecta a coeficiente comercial, \n(cuyo detalle se adjunta en Anexo 7, así como se expone en planos comunales en el \nDepartamento Regional de Avaluaciones del S.I.I"
+    },
+    {
+      "name": "Circular N°68 (26/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°68 (26/12/2014)",
+      "document_id": "e910a166-a023-52eb-a414-5cfb8263409a",
+      "chunk_uuid": "bd060eb0-4932-50f4-bae3-2effd884a906",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf",
+      "content": "idos a la Ley N°20.741, mediante el formulario N° 2802 el SII entrega al \npropietario o representante los antecedentes que le permitan calcular el avalúo de terreno de dominio \nexclusivo de las unidades tipo “B”, los coeficientes comerciales a aplicar a las unidades que queden \nafectas a dicho coeficiente (tipo “A” y/o tipo “B”), y en los casos de condominios donde se definen sectores \nde bienes comunes, el SII entrega el avalúo del terreno de estos sectores.  \n \nEn el formulario N° 2802, en materia de sectores, el SII registrará: Área Homogénea (AH), Valor Unitario \ndel m2 de terreno, Coeficiente  Guía, Coeficiente Corrector, Superficie de terreno y Avalúo fiscal del \nterreno del sector, conforme a lo dispuesto en la Resolución Ex. SII N° 108/2013  o a lo establecido en la \nResolución Ex. SII N° 132/2012, según corresponda al destino de las unidades vendibles, o en las \nResoluciones que se encuentren vigentes para la clase de bienes que se trate. \n\n\n \nEl Número que el SII asigne a este  “Certificado de Antecedentes Previos para el cálculo del Avalúo Fiscal” \n(formulario Nº 2802), deberá consignarse en el recuadro “Antecedentes Previos N°”, ubicado en el \nextremo superior derecho del formulario Nº 2804,  N° 2805 o N° 2806, según corresponda. \n \n \n \nIII.- CAPÍTULO TERCERO  \n \n \nDECLARACIÓN JURADA DEL CÁLCULO DEL AVALÚO FISCAL DE CADA UNIDAD: \n \nEl propietario o su representante deberá presentar su Declaración Jurada ante el Servicio de Impuestos Internos \nmediante los siguientes formularios: \n \n1.- FORMULARIO Nº 2804: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación terminada de \ncada unidad acogida a la Ley de Copropiedad Inmobiliaria\" _Condominio tipo “A y B”:  \n \n \nEste formulario se utilizará en todos los casos de condominios tipo \"A y B\" sin sectores, es decir, con un solo \nbien común. \n \nEl cálculo del avalúo fiscal de la edificación de las unidades vendibles se debe realizar de acuerdo a lo \ndispuesto en las instrucciones contenidas en la Resolución  Ex. SII N° 108/2013 o conforme a lo establecido \nen la Resolución Ex. SII N° 132/2012, según corresponda al destino de las unidades vendibles, o en las \nResoluciones que se encuentren vigentes para la clase de bienes que se trate, conforme al Instructivo que se \nadjunta en el Anexo 6 de la presente Circular. \n \n \nCabe destacar que en el cálculo del avalúo: \n \n En la parte del condominio tipo “A”: El avalúo de la construcción se determinará para cada unidad o \ndepartamento del edificio o condominio, sin considerar el valor del terreno y de las edificaciones de dominio \ncomún.  \n En la parte del condominio tipo \"B\": Corresponde determinar el avalúo fiscal de las edificaciones \nexistentes y el avalúo de cada terreno o lote que sea de dominio exclusivo, sin considerar el valor del \nterreno y de las edificaciones de dominio común.  \n \nPara el cálculo del porcentaje de derechos de las unidades sobre el bien común, se deben sumar los avalúos \nde todas las unidades (de la parte del condominio tipo “A” y de la parte tipo “B”) y sobre ese total calcular el \nporcentaje de derechos que le corresponde a cada unidad. Se excluye calcular el avalúo fiscal del bien común. \n \n \n2.- FORMULARIO Nº 2805: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación terminada de \ncada unidad acogida a la Ley de Copropiedad Inmobiliaria más el mayor avalúo por derechos sobre el \nbien común del sector_ Unidades con igual destino”: \n \nEste formulario se utilizará en todos los condominios con diferentes sectores y donde todas las unidades"
+    },
+    {
+      "name": "Circular N°38 (05/07/2016)",
+      "source_type": "circular",
+      "source": "Circular N°38 (05/07/2016)",
+      "document_id": "8d4fb48d-4acf-5d14-8e37-47530f5c3cbc",
+      "chunk_uuid": "ca53d682-4c14-5e52-a72d-8e348b21a07a",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/circulares/2016/circu38.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n1 \n \nDEPARTAMENTO EMISOR: \n \nSUBDIRECCIÓN DE AVALUACIONES \n \n \n \nCIRCULAR Nº 38.- \nSISTEMA DE PUBLICACIONES \nADMINISTRATIVAS \n \n \nFECHA: 05 de julio de 2016.- \nMATERIA:  \nACTUALIZA E IMPARTE INSTRUCCIONES SOBRE \nPROCEDIMIENTO \nDE \nEMISIÓN \nDE \nLOS \nCERTIFICADOS DE AVALÚO FISCAL Y DEROGA \nCIRCULARES N°S 58, DE 1996 Y 52, DE 1999. \nREFERENCIA:  \n \nCIRCULAR N° 52, DE 09.09.1999. \n \nCIRCULAR N° 58, DE 14.10.1996. \n \n \n \nINTRODUCCIÓN \nPor la presente Circular se imparten instrucciones relativas al Proceso de Emisión \nde los Certificados de Avalúo Fiscal de los Bienes Raíces, otorgados en las \nOficinas del Servicio de Impuestos Internos, con el objeto de agilizar y mejorar la \natención a los contribuyentes para la obtención de dichos documentos. \n1 \nANTECEDENTES \nEl Servicio de Impuestos Internos otorga una importante cantidad de Certificados \nde Avalúo Fiscal en sus Oficinas, por lo que se estima necesario optimizar su \nobtención y entrega mediante nuevos procedimientos, con la finalidad de otorgar \nuna atención más expedita a los contribuyentes, estandarizando su formato y \nprocedimiento de emisión, mediante sistemas computacionales.  \nAsí las cosas, el documento expedido por este Servicio que informe el Avalúo \nFiscal de un predio, se denominará “Certificado de Avalúo Fiscal”, y podrá ser \nrequerido en forma presencial, o de manera online desde la página web sii.cl; \ntendrá un formato único, a diferencia de los Certificados de Avalúo Fiscal Especial \no aquellos que informen de alguna situación particular del inmueble. \nCabe hacer presente que el Avalúo Fiscal informado no representa una estimación \ndel valor comercial del bien raíz, dado que ha sido determinado según \nprocedimientos de tasación fiscal que son específicos para el cálculo del Impuesto \nTerritorial. \nEs importante mencionar que mediante Resolución Exenta SII N° 57, de fecha 22 \nde junio de 2016, se derogó la Resolución Exenta SII N° 5.941 de fecha \n02.09.1999, que fijaba el cobro por la emisión de Certificados de Avalúo Fiscal \notorgados en oficina, por lo que a partir de 01 de julio 2016, éstos se entregarán \nde manera gratuita. \n2 \nCLASIFICACIÓN Y TIPOS DE CERTIFICADOS DE AVALÚO FISCAL \nEl Certificado de Avalúo Fiscal es un documento emitido por el Servicio de \nImpuestos Internos por el cual se informa el Avalúo Fiscal de una propiedad, junto \ncon otra información del inmueble, tal como número de Rol de Avalúo, dirección o \nnombre del predio, nombre de la persona natural o jurídica registrada en el \nCatastro de los Bienes Raíces del Servicio de Impuestos Internos, que se \n\n\n2 \n \nencuentra disponible a la fecha de su emisión. Adicionalmente se le puede \nincorporar información complementaria acerca de la determinación del Impuesto \nTerritorial u otros datos registrados en el catastro. \n \nLos Certificados de Avalúo Fiscal según sus características y formatos se han \nclasificado en dos grupos “Certificados de Avalúo Fiscal Corrientes” y “Certificados \nde Avalúo Fiscal Especiales”, tal como se describen a continuación:  \n \na) \nCertificados de Avalúo Fiscal Corrientes:  \nEste tipo de documento es generado con la información disponible en el \nCatastro de Bienes Raíces al momento de la consulta o emisión del \ndocumento y se comprenden los siguientes: \n \n Certificado de Avalúo Fiscal Simple  \n Certificado de Avalúo Fiscal Simple (con datos del propietario \nregistrado en el SII) \n Certificado de Avalúo Fiscal Detallado I Serie (Bien Raíz Agrícola) \n Certificado de Avalúo Fiscal Detallado"
+    },
+    {
+      "name": "Circular N°33 (20/06/2013)",
+      "source_type": "circular",
+      "source": "Circular N°33 (20/06/2013)",
+      "document_id": "11574a0e-4753-5fdd-8ec0-1893ce50dac8",
+      "chunk_uuid": "2cb7502a-0650-5323-84c4-3f13c15314b5",
+      "chunk_id": 7,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf",
+      "content": "unidad sobre el bien común. \n \n \nEn consecuencia, si al declarar una etapa el primer propietario omite el plano de subdivisión \ncorrespondiente a dicha etapa, aprobado por la respectiva Dirección de Obras Municipales, no \nconstando a este Servicio la superficie efectiva del terreno que abarca esa etapa, corresponderá \ncalcular el avalúo fiscal de cada unidad y su prorrateo en los bienes comunes considerando la \ntotalidad del terreno en que se emplaza el proyecto. \n \nDe esta forma, una vez finalizada la construcción de todas las etapas, el primer propietario del \ncondominio o el Comité de Administración según corresponda, podrá presentar una “Solicitud de \nModificación al Catastro de Bienes Raíces” (formulario N° 2118), adjuntando el plano de fusión \naprobado por la respectiva Dirección de Obras Municipales, a fin que este Servicio realice la \n\n\nfusión de los bienes comunes compartidos por todas las etapas involucradas y actualice los \nderechos que corresponden al propietario de cada unidad sobre dichos bienes de dominio común. \n \n2.- \nINSTRUCCIONES PARA EL CÁLCULO DEL AVALUO FISCAL DE LAS UNIDADES DE UN \nCONDOMINIO Y EL CÁLCULO DEL PORCENTAJE DE DERECHOS DE ÉSTAS SOBRE EL BIEN \nCOMUN: \n \nLas presentes instrucciones tienen por objeto posibilitar el cálculo del avalúo fiscal de una propiedad \nacogida a la Ley Nº 19.537, sobre Copropiedad Inmobiliaria, así como el cálculo del porcentaje de \nderechos de las unidades sobre el bien común. Constituyen un resumen de la normativa vigente para la \ntasación fiscal. Cualquier caso excepcional no considerado en ellas deberá ser consultado en el Servicio \nde Impuestos Internos, como por ejemplo: edificaciones antiguas que están en proceso de ser acogidas \na esta Ley o Declaraciones Juradas derivadas de lo dispuesto en el artículo 14 de esta misma ley, para \nespecificar nuevos porcentajes en los derechos de los copropietarios sobre los bienes comunes. \n \n2.1 \nAvalúo fiscal: \n \nComprende la avaluación del terreno y de las edificaciones que existen en la propiedad.  \n \nPara la tasación de un terreno se considera la superficie, el sector de ubicación (emplazamiento) del mismo, \nlas obras de urbanización y equipamiento que dispone (Art. 4°, N° 2, Ley 17.235). Para esto el SII define \ntablas de valores unitarios de terrenos para cada comuna del país. \n \nPara la tasación de las edificaciones se considera la superficie, la clase (material estructural), la calidad, la \nantigüedad y la ubicación del sector comercial (Art. 4°, N° 2, Ley 17.235). Para esto, el SII confecciona \ntablas de valores unitarios de construcción para cada clase y calidad constructiva.  \n \nLas respectivas tablas de valores se encuentran normadas por el SII según se trate de: \n \n \nCopropiedades con unidades destino H \n:  donde \ntodas \nlas \nunidades \ntienen \ndestino \nhabitacional (H). Se rige por lo dispuesto en la Resolución Exenta SII N° 8, del 2006,  o la que la \nreemplace.  \n \n \nCopropiedades con unidades destino NH \n:  donde todas las unidades tienen destino no \nhabitacional (NH). Se rige por lo dispuesto en la Resolución Exenta SII N° 132, año 2012. \n \n \nCopropiedades con unidades destino H y NH :  donde \ncoexisten \nunidades \ncon \ndestinos \nhabitacionales y unidades con  destinos no habitacionales (H y NH). Se rigen por lo dispuesto en la \nResolución Exenta SII N° 8, año 2006, o la que la reemplace y/o Resolución Exenta SII N° 132, año \n2012, respectivamente. \n \n2.2 \nCálculo del avalúo fiscal de la unidad: \n \n Condominios tipo \"A\": El avalúo de la construcción se determinará para cada unidad o \ndepartamento del"
+    },
+    {
+      "name": "Circular N°33 (20/06/2013)",
+      "source_type": "circular",
+      "source": "Circular N°33 (20/06/2013)",
+      "document_id": "11574a0e-4753-5fdd-8ec0-1893ce50dac8",
+      "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf",
+      "content": " procedimiento en base a una declaración jurada de \"CÁLCULO \nDEL AVALÚO FISCAL DE LA EDIFICACIÓN TERMINADA DE CADA UNIDAD ACOGIDA A LA LEY DE \nCOPROPIEDAD INMOBILIARIA\" (Formulario Nº 2803) y a una declaración jurada anexa “CÁLCULO DE \nAVALÚO FISCAL CONSIDERANDO AVALÚO DEL TERRENO DE CADA UNIDAD” (Formulario Nº \n2803B). Las declaraciones juradas las debe realizar el propietario del inmueble acogido a la Ley de \nCopropiedad Inmobiliaria personalmente o a través de un representante mandatado al efecto. \nEn consideración a que estas declaraciones juradas son efectuadas por el primer propietario del \ncondominio o por su representante, el SII las utilizará como fuente de información para efectos de \ndeterminar la base imponible del Impuesto Territorial.  \n2.- INSTRUCCIÓN PREVIA: \nLas Oficinas del SII deberán entregar al propietario o su representante (Persona Natural o Empresa \nInmobiliaria) un ejemplar de la Carta Tipo con Instrucciones Básicas (Anexo 1), acompañada de los \nformularios Nº 2803 (Anexo 3) y Nº 2803B (Anexo 4), cuando proceda, al momento que éstos soliciten la \nAsignación de Números de Roles de Avalúo para una edificación que vaya a ser acogida a la Ley de \nCopropiedad Inmobiliaria. En el reverso de los formularios N°2802 y F 2803, se detalla una guía para \nModificada por Circular Nº 62, del 27 de diciembre de 2017\nModificada por Circular N° 51, del 29 de julio de 2016 \nComplementada por Circular N° 68, del 26 de diciembre de 2014\n\n\nfacilitar el cálculo del avalúo fiscal de las unidades de un condominio y del consiguiente porcentaje de \nderechos sobre el bien común (Anexo 5). \n \n \nPara facilitar esta gestión, tanto las instrucciones como los formularios necesarios se encuentran \ndisponibles en la página web de este Servicio en internet www.sii.cl. \n \n \n \nCAPITULO SEGUNDO \n \n1.- \nSOLICITUD DE ANTECEDENTES PREVIOS: \n \nLa solicitud de la información necesaria (Antecedentes Previos) para realizar la declaración jurada del \nCálculo del Avalúo Fiscal de cada unidad se deberá efectuar a través del formulario F2118 “Solicitud de \nModificación al Catastro de Bienes Raíces”. \n \n1.1 \nCasos en que el propietario debe solicitar Antecedentes Previos al SII: \n \na) \nCondominios tipo \"A\" (art. 2º de la Ley N° 19.537): \nSólo cuando se trate de condominios donde alguna(s) o todas las unidades tenga(n) destino: \ncomercio, oficina, y/o hotel – motel, ubicados en las área afectas a coeficientes comerciales de \nlas comunas de Valparaíso, Viña del Mar, Santiago o Providencia, según lo dispuesto en el \nAnexo N° 3 de la Resolución Ex SII N° 132, de fecha 31.12.2012, el propietario o el representante \ndeberá solicitar a través del formulario Nº 2118, el valor del coeficiente comercial que debe ser \naplicado en la tasación fiscal de las edificaciones de esas unidades. \n \nPara ello el propietario deberá anexar el plano de la copropiedad, indicando el piso en que se \nubican las unidades y su destino. Se deberá registrar además, el o los números de los roles \nmatrices que generan el condominio. \n \nb) \nCondominios tipo \"B\" (art.2º de la Ley): \nEn todos los casos el primer propietario deberá solicitar antecedentes previos al SII, \nindependiente del destino de las unidades del condominio. Los antecedentes requeridos son: \n \nValores bases de terreno. \n \nCoeficientes guías de terreno. \n \nFactores de corrección del valor de terreno.  \n \n"
+    },
+    {
+      "name": "Circular N°33 (20/06/2013)",
+      "source_type": "circular",
+      "source": "Circular N°33 (20/06/2013)",
+      "document_id": "11574a0e-4753-5fdd-8ec0-1893ce50dac8",
+      "chunk_uuid": "b70974c7-9a0f-5b0b-8fb1-023aeb97a7e8",
+      "chunk_id": 6,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf",
+      "content": " \nigual Clasificación, igual Destino, igual Condición Especial e igual  Coeficiente Comercial, cuando \ncorresponda). En este caso se deberá calcular la sumatoria de avalúo fiscal de la unidad y sólo \nsobre ella se calculará el porcentaje de prorrateo del bien común. Dentro de esta situación caben \nlas piscinas y pavimentos que son de dominio exclusivo en condominios tipo B.  \n \nCabe destacar que el destino principal de la unidad es el que define la Resolución que rige para \nel cálculo de su avalúo. Por ejemplo: si existe una unidad que es comercio, pero la misma unidad \ntiene un segundo piso con destino habitacional (destino secundario), el cálculo del avalúo para \ntoda la unidad se debe realizar según la Resolución Ex.SII N° 132, del año 2012. \n \n1.5 \nCondominios Tipo “B” con edificación: \n \nEn estos casos no se deben calcular ni registrar porcentajes de prorrateo en el formulario Nº \n2803. Estos deben ser detallados en el formulario Nº 2803B, considerando la suma del avalúo \nfiscal de la Unidad por concepto de edificaciones y de terreno de dominio exclusivo. \n \n1.6 \nDestino principal de una copropiedad donde coexisten unidades con destino habitacional \n(H) y destino no habitacional (NH): \n \nLa Ley N° 20.650 (D.O. de 31.12.2012) prorrogó hasta el 31.12.2013, con sujeción a las normas \nde la Ley N° 17.235, sobre Impuesto Territorial, la vigencia de los avalúos que regían al \n31.12.2012, de los bienes raíces no agrícolas destinados a la habitación, así como de aquellos \ncorrespondientes a bodegas y estacionamientos de conjuntos habitacionales acogidos a la Ley \nN° 19.537, sobre Copropiedad Inmobiliaria, estableciendo que esta prórroga se aplicará a las \nbodegas y estacionamientos de un conjunto habitacional sólo si la superficie construida de las \nunidades habitacionales es superior a la de las unidades no habitacionales, excluyendo de la \ncomparación los metros cuadrados de las bodegas y estacionamientos. \n \nPor consiguiente, en el caso de conjuntos acogidos a copropiedad donde coexistan unidades con \ndestino habitacional y no habitacional, será necesario comparar sus superficies construidas, \nexcluyendo las correspondientes a bodegas y estacionamientos de modo de determinar sus \navalúos. \n \nSi la sumatoria de las superficies construidas de las unidades habitacionales de un conjunto es \nmayor a la correspondiente a las unidades no habitacionales del mismo, la clasificación y avalúos \nde las bodegas y estacionamientos de dicho conjunto se determinará según la Resolución Ex. SII \nN° 8, de 2006, o la que la reemplace.. \n \nPor su parte, si la sumatoria de las superficies construidas de las unidades habitacionales es \nmenor o igual a la correspondiente a las unidades no habitacionales, la clasificación y avalúos de \nlas bodegas y estacionamientos se determinará según la Resolución Ex. SII N° 132, de 2012. \n \n1.7 \nCopropiedades construidas por etapas y plano de Subdivisión que define la superficie de \nterreno de la etapa que se declara: \n \n \nTratándose de proyectos inmobiliarios construidos por etapas, el primer propietario deberá \nefectuar la declaración jurada de cálculo del avalúo fiscal de cada unidad, adjuntando los \ndocumentos que respaldan el porcentaje de derechos que corresponden al propietario de cada \nunidad sobre el bien común. \n \n \nEn consecuencia, si al declarar una etapa el primer propietario omite el plano de subdivisión \ncorrespondiente a dicha etapa, aprobado por la respectiva Dirección de Obras Municipales, no \nconstando a este Servicio la superficie efectiva del terreno que abarca esa etapa, corresponderá \ncalcular el avalúo fiscal de cada unidad y su prorrateo en los bienes comunes considerando la \ntotalidad del terreno en que se emplaza el proyecto. \n \nDe esta"
+    },
+    {
+      "name": "Circular N°68 (26/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°68 (26/12/2014)",
+      "document_id": "e910a166-a023-52eb-a414-5cfb8263409a",
+      "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nDEPARTAMENTO EMISOR: \nSUBDIRECCIÓN DE AVALUACIONES \nDEPARTAMENTO DE CATASTRO Y TASACIONES \n1875 \nCIRCULAR Nº 68\nSISTEMA DE PUBLICACIONES ADMINISTRATIVAS \nFECHA: 26 de diciembre de 2014\nMATERIA: \nComplementa la Circular N° 33, de 2013, respecto al \nprocedimiento para determinar el avalúo fiscal de bienes \nraíces acogidos al régimen de Copropiedad Inmobiliaria, en \nconformidad a las modificaciones introducidas por la Ley N° \n20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria, \ny actualiza el formulario N° 2802, “CERTIFICADO DE \nANTECEDENTES PREVIOS PARA EL CÁLCULO DEL \nAVALÚO FISCAL” \nREFERENCIA: \nNº Y NOMBRE DEL VOLUMEN \n 8(A) 8141 \nUSO DE CIRCULARES:\nPara instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente.\nEstas últimas deben incorporarse al Manual del Servicio de Impuestos Internos.\nI.- CAPÍTULO PRIMERO: \n1.-  MODIFICACIONES INCORPORADAS POR LA LEY N° 20.741 A LA LEY N°19.537, SOBRE \nCOPROPIEDAD INMOBILIARIA: \nLa Ley N° 20.741, publicada en el Diario Oficial de fecha 01.04.2014, modificó la Ley N° 19.537, sobre \nCopropiedad Inmobiliaria, con el objeto de facilitar la administración de copropiedades, así como también \npermitir la presentación de proyectos de mejoramiento o ampliación de condominios de viviendas \nsociales.  \nEn lo referido a las facultades de este Servicio de Impuestos Internos, dicha ley incorpora dos \nmodificaciones fundamentales: \na)\nModifica el artículo 2° de la Ley N° 19.537, eliminado en el encabezamiento del número 1 de dicho\nartículo la oración “los cuales no podrán estar emplazados en el mismo predio”, de manera tal que en\nla actualidad se podrán construir condominios tipo “A y B” en un mismo predio, es decir condominios\ndonde el terreno es de dominio común (Tipo “A”) y donde existen simultáneamente terrenos que\npertenecen en dominio exclusivo a cada copropietario y terrenos de dominio común de todos ellos\n(Tipo “B”).\nb)\nIncorpora al artículo 3° de la Ley N° 19.537 la posibilidad que existan condominios que contemplen\ndiferentes sectores, disponiendo que el reglamento de copropiedad podrá establecer los derechos de\nlas unidades sobre los bienes comunes del respectivo sector, separadamente de los derechos sobre\nlos bienes comunes de todo el condominio.\n2.- ÁMBITO DE APLICACIÓN: \nEn virtud de las modificaciones referidas, por la presente Circular se complementa la Circular N° 33, de \n20.06.2013, de este Servicio  que “Actualiza los procedimientos para determinar el avalúo fiscal de bienes \nraíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la Ley N° 19.537”, instruyendo \nsobre  el procedimiento para la declaración de cálculo del avalúo fiscal de la edificación de cada unidad \nen los casos correspondientes a las modificaciones introducidas por la Ley N° 20.741, de 2014. \nEn todos los aspectos del procedimiento que no estén especificados en esta Circular, se rigen por la \nCircular N° 33, de 2013. \nPor su parte, los condominios que califiquen en la figura de densificación predial, a que se refiere el \nnuevo artículo 39 bis de la Ley N° 19.537, introducido por la  Ley N° 20.741, se excluyen del procedimiento \ndispuesto en la Circular N° 33, de 2013, así como de la presente Circular, en consideración a que éstos \nno requieren la constitución del Reg"
+    },
+    {
+      "name": "Circular N°42 (05/08/1999)",
+      "source_type": "circular",
+      "source": "Circular N°42 (05/08/1999)",
+      "document_id": "79f8bc77-d30e-5eac-bd19-5070e1a9215f",
+      "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/documentos/circulares/1999/circu42.pdf",
+      "content": "adro de Superficies de terreno de dominio exclusivo para cada Unidad \nVendible. Rige sólo para los Condominios tipo”B”. \n \n \nAnte la presentación de los formularios Nº 2803 y Nº 2803B, el tasador de turno del \nServicio de Impuestos Internos en el mismo acto timbrará la declaración, acreditando \nasí su recepción. Quedará en poder del S.I.I. una copia de la declaración y el \nExpediente descrito, los cuales constituirán la base para la tasación fiscal definitiva de \nla copropiedad. \n \nNo obstante, para facilitar la atención a los contribuyentes, las Unidades del Servicio \nque no cuenten con Avaluaciones podrán recepcionar los formularios Nº 2803 y Nº \n2803B. \n \nSe agrega la excepción de los casos en que un contribuyente que reside en Santiago \nnecesite presentar la Declaración Jurada de un condominio ubicado en una comuna \nque pertenezca a una región distinta a la Región Metropolitana. En este caso podrá \npresentar la Declaración Jurada en el Departamento Regional de Avaluaciones de la \nXIII Dirección Regional Metropolitana Santiago Centro. \n \nLo mismo rige en el caso de un contribuyente que requiera presentar la Declaración \nJurada de un condominio ubicado en una región distinta de donde él se encuentra. En \nesta situación el contribuyente podrá realizar este trámite en la Oficina del Servicio de \nImpuestos Internos que le resulte más cercana. \n \n1.3 \nUnidades vendibles especiales: \n \nCuando la Unidad Vendible que se identifica en el formulario Nº 2803 tenga más de \nuna Clasificación, o Destino, o Condición Especial, o Coeficiente Comercial, ésta \ndeberá desglosarse utilizando las líneas que sean necesarias. En este caso se deberá \ncalcular la sumatoria de avalúo fiscal de la unidad y sólo sobre ella se calculará el \nporcentaje de prorrateo. \n \n1.4 \nCondominios Tipo “B” con edificación: \n \nEn estos casos no se deben calcular ni registrar porcentajes de prorrateo en el \nformulario Nº 2803. Estos deben ser detallados en el formulario Nº 2803B, \nconsiderando la suma del avalúo fiscal de la Unidad por concepto de edificaciones y de \nterreno de dominio exclusivo. \n \n \n2.- \nINSTRUCCIONES PARA EL CÁLCULO DEL AVALÚO FISCAL DE LAS UNIDADES DE UN \nCONDOMINIO: \n \nLas presentes instrucciones tienen por objeto posibilitar el cálculo del avalúo fiscal de una \npropiedad acogida a la Ley Nº 19.537, sobre Copropiedad Inmobiliaria y constituyen un \nresumen de la normativa vigente para la tasación fiscal de las edificaciones. Cualquier caso \nexcepcional no considerado en ellas deberá ser consultado en el Servicio de Impuestos \nInternos, como por ejemplo: edificaciones cuya estructura es de piedra (código \"D\") o de \nadobe (código \"F\"), edificaciones antiguas que están en proceso de ser acogidas a esta Ley o \nDejada sin efecto\n\n\nDeclaraciones Juradas derivadas de lo dispuesto en el artículo 14 de esta misma ley, para \nespecificar nuevos porcentajes en los derechos de los copropietarios sobre los bienes \ncomunes. \n \n2.1 \nAvalúo fiscal: \n \nComprende la avaluación del terreno y de las edificaciones que existen en la propiedad. Para \nlos terrenos existe una tabla de precios unitarios para todas las comunas del país y para las \nedificaciones se utiliza una tabla comunal de valores unitarios de edificación, considerando la \nestructura soportante del edificio y su calidad o categoría. \n \n2.2 \nCálculo del avalúo fiscal de la unidad: \n \n* \nCondominios tipo \"A\": El avalúo se determinará para cada unidad o departamento del \nedificio o condominio, sin considerar el valor del terreno y de las edificaciones de \ndominio común. En este caso el avalúo se determina directamente al aplicar las tablas de \nprecios y de corrección para edificaciones que se presentan a continu"
+    },
+    {
+      "name": "Circular N°51 (29/07/2016)",
+      "source_type": "circular",
+      "source": "Circular N°51 (29/07/2016)",
+      "document_id": "72783977-2a3a-52be-b3be-9f89f53274fd",
+      "chunk_uuid": "7be76a13-ef2f-57e6-9e47-ad61a1242768",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2016/circu51.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n DEPARTAMENTO EMISOR: \nSUBDIRECCIÓN DE AVALUACIONES \nCIRCULAR Nº 51.- \nSISTEMA DE PUBLICACIONES \nADMINISTRATIVAS \nFECHA: 29 de julio de 2016.- \nMATERIA: \nSUSTITUYE \nEL \nNUMERAL \n1.7 \nDEL \nCAPÍTULO TERCERO DE LA CIRCULAR N° \n33, \nDE \n2013, \nQUE \nACTUALIZA \nLOS \nPROCEDIMIENTOS PARA DETERMINAR EL \nAVALÚO FISCAL DE BIENES RAÍCES \nACOGIDOS \nAL \nRÉGIMEN \nDE \nCOPROPIEDAD \nINMOBILIARIA \nESTABLECIDO EN LA LEY Nº 19.537. \nREFERENCIA:  \nCIRCULAR N° 33, DE 2013. \nPor la presente Circular se sustituye el numeral 1.7 del Capítulo Tercero de la \nCircular N° 33, de 2013, que actualiza los procedimientos para determinar el \navalúo fiscal de bienes raíces acogidos al régimen de copropiedad inmobiliaria \nestablecido en la Ley N° 19.537, por el siguiente: \n1.7 Copropiedades construidas por etapas: \nEl primer propietario deberá efectuar la declaración jurada de cálculo del \navalúo fiscal de cada unidad, conforme lo dispuesto en el artículo 3° de la Ley \nN° 19.537 y cumplir con lo establecido en el artículo 29 de la misma ley sobre \nCopropiedad Inmobiliaria, adjuntando los documentos que respaldan el \nporcentaje de derechos que corresponden a cada unidad sobre los bienes de \ndominio común, porcentaje de derechos que debe referirse a la totalidad de \nlas unidades que contempla el proyecto aprobado por la Dirección de Obras \nMunicipales respectiva, independientemente que dicho proyecto se pueda \ndesarrollar posteriormente por etapas. \nEn caso que no se acompañen los antecedentes necesarios, se aplicará \nsupletoriamente lo dispuesto en la Ley N° 19.880, estando facultado este \nServicio, por ejemplo, para tener por desistida la petición o declarar el \nabandono del procedimiento conforme a los artículos 31 y 43 de la Ley N° \n19.880, respectivamente. \nFERNANDO BARRAZA LUENGO \nDIRECTOR \n- Oficina de Gestión Normativa \n- Al Boletín \n- A Internet \nModificada por Circular Nº 62, del 27 de diciembre de 2017 \n"
+    },
+    {
+      "name": "Circular N°62 (27/12/2017)",
+      "source_type": "circular",
+      "source": "Circular N°62 (27/12/2017)",
+      "document_id": "fb707992-2c87-5874-bc7f-d4a6d4268588",
+      "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/normativa_legislacion/circulares/2017/circu62.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nDEPARTAMENTO EMISOR: \nSUBDIRECCIÓN DE AVALUACIONES \n \nCIRCULAR Nº 62.- \nSISTEMA DE PUBLICACIONES \nADMINISTRATIVAS \nFECHA: 27 DE DICIEMBRE 2017 \n \nMATERIA: \nREEMPLAZA \nPROCEDIMIENTO \nPARA EFECTUAR LA DECLARACIÓN JURADA \nPARA EL CÁLCULO DEL AVALÚO FISCAL DE \nLAS UNIDADES Y DEL PORCENTAJE DE \nDERECHOS \nQUE \nLES \nCORRESPONDAN \nSOBRE LOS BIENES DE DOMINIO COMÚN, DE \nBIENES RAÍCES ACOGIDOS AL RÉGIMEN DE \nCOPROPIEDAD INMOBILIARIA ESTABLECIDO \nEN LA LEY Nº 19.537. \n \nREFERENCIA: \nARTÍCULO 16° DE LA LEY N° 17.235. \nI. \nIntroducción \n \nMediante Resolución Ex. SII N° 120 de 07.12.2017, se reemplaza el procedimiento para \nefectuar la declaración jurada de cálculo del avalúo fiscal de las unidades y de derechos \nsobres los bienes de dominio común de inmuebles acogidos al régimen de copropiedad \ninmobiliaria establecido en la Ley Nº 19.537, por una aplicación disponible en el sitio \nwww.sii.cl. En consecuencia, se reemplaza lo instruido en las Circulares N°33, de \n20.06.2013,  N°68, de 26.12.2014, y N° 51, de 29.07.2016, en todo lo que se refiera a la \ntramitación y llenado de la declaración jurada contenida en los formularios F2802, F2803, \nF2303B, F2804, F2805 y F2806. \nMediante la presente Circular se establecen las instrucciones para el uso obligatorio de la \naplicación sobre Declaración Jurada para el cálculo del avalúo fiscal de las unidades y de los \nporcentajes de derechos sobre los bienes de dominio común, de bienes raíces acogidos al \nrégimen de copropiedad inmobiliaria establecido en la Ley Nº 19.537. \nII. \nAntecedentes \nDe acuerdo a lo dispuesto en el artículo 3°, de la Ley N° 19.537, sobre Copropiedad \nInmobiliaria, el porcentaje de derechos que corresponda a cada unidad sobre los bienes de \ndominio común se determinará en el reglamento de copropiedad, atendiéndose, para fijarlo, \nal avalúo fiscal de la respectiva unidad. \nEn atención a que el organismo encargado de la determinación de los avalúos fiscales es el \nServicio de Impuestos Internos, se pone a disposición de los contribuyentes, una aplicación \nen el sitio Web www.sii.cl “Declaraciones Juradas de Bienes Raíces”, para efectuar la \ndeclaración para el cálculo del avalúo fiscal y los porcentajes de derechos sobre los bienes \nde dominio común. \nIII. \nAplicación sobre Declaración Jurada para el cálculo del avalúo fiscal de las unidades \ny de los porcentajes de derechos sobre los bienes de dominio común, de bienes raíces \nacogidos al régimen de copropiedad inmobiliaria establecido en la Ley Nº 19.537 \nLa aplicación permite realizar el cálculo del avalúo de las unidades determinadas en los \nproyectos acogidos a la ley de copropiedad inmobiliaria, en forma masiva. \nEn el menú de ésta se dispondrá de un manual de uso, el cual podrá ser descargado o \nconsultado en línea.  \n\n\n1. Procedimiento \n \nPara ingresar a la aplicación se deberá, previamente, obtener el respectivo “Certificado de \nasignación de roles de avalúo”, el cual deberá ser solicitado conforme a lo instruido en \nResolución Exenta SII N°46 de 12.05.2017. Sin este certificado, no se podrá efectuar la \ndeclaración establecida en la presente circular. \nEn el caso que el propietario quiera delegar a"
+    },
+    {
+      "name": "Circular N°46 (17/08/2006)",
+      "source_type": "circular",
+      "source": "Circular N°46 (17/08/2006)",
+      "document_id": "b1419add-6132-58fd-ac27-1470ebc2ca32",
+      "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+      "chunk_id": 3,
+      "url": "https://www.sii.cl/documentos/circulares/2006/circu46.pdf",
+      "content": " a la \nbrevedad a la Dirección Regional en cuya jurisdicción se ubica el condominio, quien la procesará y \nemitirá el correspondiente Certificado, remitiéndolo a través del sistema de valija empleado por este \nServicio a la Dirección Regional de origen.\n \nEn los tres casos de excepción mencionados, la Oficina del S.I.I. que recepciona la solicitud entregará \nal contribuyente el Certificado de Antecedentes previos para el cálculo del avalúo fiscal.\n2.2.-\nÍndice de Actualización:\nSe debe registrar con seis decimales.\nCAPITULO TERCERO\n1.-\nDECLARACIÓN JURADA DEL CÁLCULO DEL AVALUO FISCAL DE CADA UNIDAD:\nEl propietario deberá presentar ante el Servicio de Impuestos Internos el cálculo del avalúo fiscal de \ncada unidad del condominio, respecto de la cual se constituya dominio exclusivo, utilizando para ello el \no los formularios que a continuación se detallan:\n1.1\nFormulario Nº 2803: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación \nterminada de cada unidad acogida a la Ley de Copropiedad Inmobiliaria\":\nEste formulario se utilizará en todos los casos de condominios (tipo \"A\" y tipo \"B\").\nEn el recuadro “Antecedentes Previos N°”, ubicado en el extremo superior derecho del \nformulario Nº 2803, el propietario debe registrar el Número que el Servicio de Impuestos \nInternos le asignó al “Certificado de Antecedentes Previos para el cálculo del Avalúo Fiscal” \n(formulario Nº 2802).\nEl cálculo del avalúo fiscal de la edificación de la unidad se debe realizar de acuerdo a lo \ndispuesto en las instrucciones señaladas en el numeral 2 de este Capítulo, las que constituyen \nun resumen de la normativa vigente para la tasación fiscal de las edificaciones.\n1.2\nFormulario Nº 2803 B: \"Declaración Jurada Anexa: Cálculo del avalúo fiscal considerando \navalúo del terreno de cada unidad\":\nEste formulario se utilizará sólo en los casos de condominios tipo \"B\". Su utilidad es la de \npermitir incorporar el avalúo fiscal del terreno de dominio exclusivo de cada unidad. En estos \ncasos, el avalúo fiscal del terreno de la unidad se debe determinar siguiendo el procedimiento \nregistrado en el numeral 2 de este Capítulo.\n1.3\nPresentación ante el Servicio de Impuestos Internos:\nEl formulario Nº 2803, y si corresponde, el formulario Nº 2803 B, se presentará en duplicado en \nla Oficina de Avaluaciones del Servicio de Impuestos Internos, que tenga competencia en la \ncomuna donde se ubica el condominio, salvo las excepciones contempladas en el numeral 1.2 \ndel Capítulo Segundo de la presente Circular, acompañada de los antecedentes necesarios \npara la posterior tasación de las propiedades, como por ejemplo: copia de la Hoja de Catastro, \ncopia del o los Permiso(s) de Edificación, copia de la Recepción Final (si la hubiere), Plano de \nCopropiedad, Plano de Emplazamiento, Planta(s) tipo de Arquitectura, Elevaciones y \nEspecificaciones Técnicas. No obstante, el Jefe del Departamento Regional de Avaluaciones \npodrá no exigir algunos de los antecedentes requeridos, cuando a su juicio la información \ndisponible sea suficiente para la tasación fiscal.   \n\n\nDejada sin efecto\nEn los casos de Condominios tipo “B” sin edificación, se debe acompañar en el Expediente sólo \ncopia de la Hoja de Catastro y copia del Certificado extendido por la Dirección de Obras \nMunicipales respectiva, donde consta que no se requiere la ejecución de obras de urbanización \no que las obras de urbanización requeridas han sido ejecutadas o garantizadas.\nConjuntamente con el Plano de Copropiedad a presentar ante el S.I.I. se deberán entregar los \nsiguientes datos:\n•\nRol(es) Matriz(ces) que origina(n) el condominio.\n•\nFotocopia del o los Permisos de Edificación.\n•\n"
+    },
+    {
+      "name": "Circular N°28 (28/04/1998)",
+      "source_type": "circular",
+      "source": "Circular N°28 (28/04/1998)",
+      "document_id": "632581fe-d45a-567d-b3fb-5161cd9ad4f5",
+      "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/circulares/1998/circu28.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nDejada sin efecto\n1\nCIRCULAR Nº 28, DEL 28 DE ABRIL DE 1998\nMATERIA:  PROCEDIMIENTOS OPERATIVOS A PROPIETARIOS DE BIENES RAICES \nACOGIDOS AL REGIMEN DE COPROPIEDAD INMOBILIARIA, ESTABLECIDO EN LA \nLEY Nº 19.537.\nLa Ley Nº 19.537, publicada en el Diario Oficial el 16 de Diciembre de 1997 dispone un régimen \nespecial de propiedad inmobiliaria, mediante el cual es posible establecer condominios integrados por \ninmuebles divididos en unidades sobre las cuales se puede constituir dominio exclusivo a favor de \ndistintos propietarios, manteniendo uno o más bienes en el dominio común de todos ellos.\nEn su artículo 3º, esta Ley establece que el porcentaje de derechos que corresponde a cada unidad \nsobre los bienes de dominio común, se debe determinar en el reglamento de copropiedad, atendiendo \nal avalúo fiscal de la respectiva unidad.\nEl artículo 29º del mismo cuerpo legal señala que el primer reglamento de copropiedad debe ser \ndictado por la persona natural o jurídica propietaria del condominio. Este instrumento debe ser \nreducido a escritura pública e inscrito en el Registro de Hipotecas y Gravámenes del Conservador de \nBienes Raíces respectivo. Esto último como condición previa para que, de acuerdo al artículo 10, el \nDirector de Obras Municipales extienda el Certificado que declara el condominio acogido al régimen \nde copropiedad inmobiliaria.\nPara facilitar y agilizar la determinación por parte del Servicio de Impuestos Internos, del avalúo \nfiscal de cada unidad que forma parte de un condominio y sobre la cual se constituye dominio \nexclusivo a favor de distintos propietarios, se establece un procedimiento en base a una declaración de \n\"CALCULO DEL AVALUO FISCAL DE LA EDIFICACIÓN DE CADA UNIDAD\". Esta \ndeclaración deberá realizarla el propietario del inmueble acogido a la Ley de Copropiedad \nInmobiliaria, presentando el Formulario Nº 2803 ante la Oficina de Avaluaciones del Servicio de \nImpuestos Internos correspondiente a la ubicación del inmueble.\nEn consideración a que esta declaración será efectuada por el primer propietario del condominio, el \nS.I.I. podrá utilizarla como fuente de información para efectos de la determinación de la base \nimponible del Impuesto, así como del monto mismo del tributo. Dicho procedimiento se realizará con \nposterioridad al acto de recepción de la declaración, de forma tal, de facilitar el proceso de confección \ndel citado Reglamento de Copropiedad.\nMediante la presente Circular se imparten las instrucciones relativas a este procedimiento y a los \nformularios que lo componen, además se anexa un detalle de las \"Áreas con coeficientes \ncomerciales\"(Anexo 1), por comuna y por Dirección Regional del Servicio de Impuestos Internos y \nuna definición de los límites que el S.I.I. considera al interior de la Comuna de Santiago (Anexo 2).\nCAPITULO PRIMERO\n1.-\nFORMULARIO Nº 2801 : \"SOLICITUD DE ANTECEDENTES PREVIOS PARA EL \nCALCULO DEL AVALUO FISCAL\".\n1.1\nObjetivo del Formulario :\nEste instrumento ha sido diseñado para permitir que, en los casos que sea necesario, el propietario de \nun condominio solicite al Servicio de Impuestos Internos la información necesaria para realizar la \ndeclaración del Cálculo del Avalúo Fiscal de cada unidad.\n1.2\nCasos en que el propietario debe solicitar Antecedentes Previos al S.I.I. :\na)\nCondominios tipo \"A\" (art. 2º de la Ley) :\nCuando se trate de condominios con destino habitacional el avalúo fiscal se determina\ndirectamente siguiendo el procedimiento registrado en el punto 4 de la presente Circular y al\nreverso del formulario 2801, 2802 y 2803,"
+    },
+    {
+      "name": "Circular N°33 (20/06/2013)",
+      "source_type": "circular",
+      "source": "Circular N°33 (20/06/2013)",
+      "document_id": "11574a0e-4753-5fdd-8ec0-1893ce50dac8",
+      "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+      "chunk_id": 4,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf",
+      "content": "idad a la escrituración del Primer Reglamento \nde Copropiedad. En los condominios donde sí se requieren antecedentes, el primer propietario la podrá \nrealizar sólo cuando el SII se los haya entregado, mediante el Formulario N°2802.  \n \n \nEl propietario o su representante deberá presentar ante el Servicio de Impuestos Internos el cálculo del \navalúo fiscal de cada unidad del condominio, respecto de la cual se constituya dominio exclusivo, \nutilizando para ello el o los formularios que a continuación se detallan: \n \n1.1 \nFormulario Nº 2803: \"Declaración Jurada: Cálculo del avalúo fiscal de la edificación \nterminada de cada unidad acogida a la Ley de Copropiedad Inmobiliaria\": \n \n \nEste formulario se utilizará en todos los casos de condominios (tipo \"A\" y tipo \"B\"). \n \n\n\n \nEl cálculo del avalúo fiscal de la edificación de las unidades vendibles se debe realizar de acuerdo \na lo dispuesto en las instrucciones contenidas en la Resolución Ex. del SII que corresponda según \nel destino de las unidades vendibles, para lo cual se registra en el numeral 2 de este Capítulo una \npauta de los pasos a seguir en cada caso. \n \nSólo en los condominios que requieren información previa para realizar los cálculos de avalúo: \nen el recuadro “Antecedentes Previos N°”, ubicado en el extremo superior derecho del formulario \nNº 2803, el propietario debe registrar el Número que el Servicio de Impuestos Internos le asignó \nal “Certificado de Antecedentes Previos para el cálculo del Avalúo Fiscal” (formulario Nº 2802). \n \n1.2 \nFormulario Nº 2803 B: \"Declaración Jurada Anexa: Cálculo del avalúo fiscal considerando \navalúo del terreno de cada unidad\": \n \n \nEste formulario se utilizará sólo en los casos de condominios tipo \"B\". Su utilidad es la de permitir \nincorporar el avalúo fiscal del terreno de dominio exclusivo de cada unidad. En estos casos, el \navalúo fiscal del terreno de la unidad se debe determinar siguiendo la fórmula  indicada en el \nnumeral 2 de este Capítulo. \n \n \n1.3 \nPresentación ante el Servicio de Impuestos Internos: \n \n El formulario Nº 2803 y si corresponde, el formulario Nº 2803 B, se presentará en duplicado en la \nOficina de Avaluaciones del Servicio de Impuestos Internos, que tenga competencia en la comuna \ndonde se ubica el condominio, salvo las excepciones contempladas en el numeral 1.2 del Capítulo \nSegundo de la presente Circular, acompañados del plano de copropiedad y de los demás \nantecedentes necesarios para la posterior tasación de las propiedades: tales como, copia de la \nHoja de Catastro, copia del o los Permiso(s) de Edificación, copia de la Recepción Final (si la \nhubiere), Plano de Emplazamiento, Planta(s) tipo de Arquitectura, Elevaciones, Especificaciones \nTécnicas u otros documentos que este Servicio estime necesarios. No obstante, el Jefe del \nDepartamento Regional de Avaluaciones podrá no exigir algunos de los antecedentes señalados, \ncuando a su juicio la información disponible sea suficiente para la tasación fiscal.    \n \nEn los casos de Condominios tipo “B” sin edificación, además del Plano de Copropiedad, se debe \nacompañar en el Expediente copia de la Hoja de Catastro y copia del Certificado extendido por la \nDirección de Obras Municipales respectiva, donde consta que no se requiere la ejecución de \nobras de urbanización o que las obras de urbanización requeridas han sido ejecutadas o \ngarantizadas. En este caso el destino de todas las unidades es Sin Edificación (W) y en \nconsecuencia, se rige por la Resolución Ex.SII N° 132, de 2012. \n \nAsimismo,  el Plano de subdivisión constituye un antecedente a adjuntar en todos los casos que \nse declare una etapa de un proyecto, en conformidad a lo establecido en el numeral 1.7 del \npresente"
+    },
+    {
+      "name": "Circular N°42 (05/08/1999)",
+      "source_type": "circular",
+      "source": "Circular N°42 (05/08/1999)",
+      "document_id": "79f8bc77-d30e-5eac-bd19-5070e1a9215f",
+      "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/circulares/1999/circu42.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nCIRCULAR Nº 42 DEL 05 DE AGOSTO DE 1999 \n MATERIA: REFUNDE PROCEDIMIENTOS OPERATIVOS A PROPIETARIOS DE BIENES \nRAÍCES ACOGIDOS AL RÉGIMEN DE COPROPIEDAD INMOBILIARIA, ESTABLECIDO EN \nLA LEY 19.537. \nEl día 28 de Abril de 1998 se publicó la Circular Nº 28, que impartió instrucciones a los \npropietarios de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, establecido en \nla Ley Nº 19.537, relativas al procedimiento operativo para determinar el porcentaje de \nderechos que corresponde a cada unidad sobre los bienes de dominio común. \nPor medio de la presente Circular se refunden los contenidos de dicha Circular con \ninstrucciones complementarias, se incorpora un formato de Carta Tipo con Instrucciones \nBásicas (Anexo 1) y se modifican los formularios Nº 2803 y Nº 2803B, así como el Instructivo \nimpreso al reverso de los formularios Nº 2801, Nº 2802 y Nº 2803 (detallados en Anexo 2, 3, 4, \n5 y 6). Se adjunta además un detalle de las \"Áreas con coeficientes comerciales\"(Anexo 7), \npor comuna y por Dirección Regional del Servicio de Impuestos Internos y una definición de \nlos límites que el S.I.I. considera al interior de la Comuna de Santiago (Anexo 8). \nCAPÍTULO PRIMERO \n1.- \nASPECTOS GENERALES: \nLa Ley Nº 19.537, publicada en el Diario Oficial el 16 de Diciembre de 1997 dispone un \nrégimen especial de propiedad, mediante el cual es posible establecer condominios integrados \npor inmuebles divididos en unidades sobre las cuales se puede constituir dominio exclusivo a \nfavor de distintos propietarios, manteniendo uno o más bienes en el dominio común de todos \nellos. \nEn su artículo 3º, esta Ley establece que el porcentaje de derechos que corresponde a cada \nunidad sobre los bienes de dominio común, se debe determinar en el reglamento de \ncopropiedad, atendiendo al avalúo fiscal de la respectiva unidad. \nEl artículo 29º del mismo cuerpo legal señala que el primer reglamento de copropiedad debe \nser dictado por la persona natural o jurídica propietaria del condominio. Este instrumento debe \nser reducido a escritura pública e inscrito en el Registro de Hipotecas y Gravámenes del \nConservador de Bienes Raíces respectivo. Esto último como condición previa para que, de \nacuerdo al artículo 10, el Director de Obras Municipales respectivo extienda el Certificado que \ndeclara el condominio acogido al régimen de copropiedad inmobiliaria. \nPara facilitar y agilizar la determinación por parte del Servicio de Impuestos Internos, del \navalúo fiscal de cada unidad que forma parte de un condominio y sobre la cual se constituye \ndominio exclusivo a favor de distintos propietarios, mediante la presente Circular se establece \nun procedimiento en base a una declaración jurada de \"CALCULO DEL AVALUO FISCAL DE \nLA EDIFICACIÓN TERMINADA DE CADA UNIDAD\" (Formulario Nº 2803) y una declaración \njurada anexa “CALCULO DE AVALUO FISCAL CONSIDERANDO AVALUO DEL TERRENO \nDE CADA UNIDAD” (Formulario Nº 2803B). Esta declaración jurada la debe realizar el \npropietario del inmueble acogido a la Ley de Copropiedad Inmobiliaria, presentando el \nFormulario Nº 2803 (y el Formulario Nº 2803B cuando corresponda) ante el Servicio de \nImpuestos Internos. \nEn consideración a que esta declaración jurada será efectuada por el primer propietario del \ncondominio, el S.I.I. podrá utilizarla como fuente de información para efectos de la \ndeterminación de la base imponible del Impuesto, así como del m"
+    },
+    {
+      "name": "Resolución N°120 (07/12/2017)",
+      "source_type": "resolucion",
+      "source": "Resolución N°120 (07/12/2017)",
+      "document_id": "b599434e-4a2d-5a98-8ce1-7b85b71c2a75",
+      "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/normativa_legislacion/resoluciones/2017/reso120.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nSUBDIRECCIÓN DE AVALUACIONES  \nOFICINA DE PROYECTOS \n \n \nREEMPLAZA PROCEDIMIENTO PARA \nDETERMINAR EL AVALÚO FISCAL DE \nBIENES \nRAÍCES \nACOGIDOS \nAL \nRÉGIMEN \nDE \nCOPROPIEDAD \nINMOBILIARIA ESTABLECIDO EN LA \nLEY Nº 19.537. \n \n \nSANTIAGO, 07 de diciembre de 2017.- \n \nHoy se ha resuelto lo que sigue: \n \nRESOLUCIÓN EX. SII Nº ___120.-______/ \n \n \nVISTOS: \n \nLo dispuesto en el número 1 de la letra A \ndel artículo 6° del Código Tributario; en los artículos 3° y 29 de la Ley N° 19.537, sobre \nCopropiedad Inmobiliaria; en el artículo 19 N° 3 de la Ley N° 19.880, sobre Bases de \nlos Procedimientos Administrativos que rigen los Actos de los Órganos de la \nAdministración del Estado; y en el número 3° del artículo 16 de la Ley N°17.235 sobre \nImpuesto Territorial. \n \n \nCONSIDERANDO: \n \n1°) Que, conforme a lo prescrito en el \nartículo 3° de la Ley N° 19.537, de 1997, sobre Copropiedad Inmobiliaria, el derecho \nque corresponda a cada unidad sobre los bienes de dominio común se determinará en \nel reglamento de copropiedad, atendiéndose, para fijarlo, al avalúo fiscal de la \nrespectiva unidad; \n \n2°) Que, en cumplimiento a lo dispuesto en \nel numeral anterior, el Servicio de Impuestos Internos instruyó el procedimiento para el \ncálculo del avalúo fiscal de la edificación de cada unidad acogida al régimen de la Ley \nN° 19.537, sobre Copropiedad inmobiliaria, mediante Circular N° 28 del año 1998; \n \n3°) Que, mediante Circular N° 33 del año \n2013, modificada por Circular N° 51 de 2016, el Servicio de Impuestos Internos \nactualizó las instrucciones relativas al procedimiento relacionado con la declaración de \ncálculo del avalúo fiscal de la edificación de cada unidad de los bienes raíces acogidos \nal régimen de copropiedad inmobiliaria establecido en la Ley N° 19.537, sobre \nCopropiedad Inmobiliaria; \n \n4°) Que, mediante Circular N° 68 del año \n2014, el Servicio de Impuestos Internos complementó la Circular N° 33, de 2013, \nrespecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al \nrégimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas \npor la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria; \n \n5°) Que, atendido el desarrollo del acceso a \ninternet y los avances de las tecnologías de información en los últimos años, es posible \nque los propietarios de los inmuebles que se acogerán al régimen de la Ley N° 19.537, \ndeclaren online el cálculo del avalúo fiscal de la edificación terminada de cada unidad \nacogida a la Ley de Copropiedad Inmobiliaria, instruido mediante Circular N° 33, del \naño 2013 y Circular N° 68 del año 2014; \n \n\n\n6°) Que, mediante la Resolución Exenta SII \nN° 0234, de fecha 12.01.2000, y sus modificaciones posteriores, se instruyó a los \nConservadores de Bienes Raíces respecto a la remisión a este Servicio de una copia \nde los reglamentos de copropiedad que se inscriban en el Registro de Hipotecas y \nGravámenes de sus respectivas jurisdicciones; \n \n \nSE RESUELVE: \n \n1°. \nREEMPLÁZASE \nla \nDeclaración \nJurada de Cálculo del Avalúo Fiscal de la Edificación Terminada de cada Unidad \nAcogida a la Ley de Copropiedad Inmobiliaria,"
+    },
+    {
+      "name": "Circular N°33 (20/06/2013)",
+      "source_type": "circular",
+      "source": "Circular N°33 (20/06/2013)",
+      "document_id": "11574a0e-4753-5fdd-8ec0-1893ce50dac8",
+      "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nDEPARTAMENTO EMISOR: \nSUBDIRECCIÓN DE AVALUACIONES \nDEPARTAMENTO DE CATASTRO Y TASACIONES \n1875 \nCIRCULAR Nº 33\nSISTEMA DE PUBLICACIONES ADMINISTRATIVAS \nFECHA: 20 de junio de 2013\nMATERIA: \nACTUALIZA \nLOS \nPROCEDIMIENTOS \nPARA \nDETERMINAR EL AVALÚO FISCAL DE BIENES \nRAÍCES \nACOGIDOS \nAL \nRÉGIMEN \nDE \nCOPROPIEDAD INMOBILIARIA ESTABLECIDO EN \nLA LEY Nº 19.537.  \nREFERENCIA: \nNº Y NOMBRE DEL VOLUMEN \n 8(A) 8141 \nUSO DE CIRCULARES:\nPara instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente.\nEstas últimas deben incorporarse al Manual del Servicio de Impuestos Internos.\nLa presente Circular reemplaza a la Circular N°46, de 2006 y actualiza las instrucciones relativas al \nprocedimiento relacionado con la declaración de cálculo del avalúo fiscal de la edificación de cada unidad de \nlos bienes raíces acogidos al régimen de copropiedad inmobiliaria establecido en la Ley N° 19.537, \ndistinguiendo tres situaciones: si todas las unidades tienen destino habitacional (H), si la totalidad de ellas \ntienen destino no habitacional (NH) o si coexisten en un mismo condominio unidades con destino habitacional \n(H) y unidades con destino no habitacional (NH); todo lo anterior, en el marco de lo dispuesto en la Ley N° \n20.650, que postergó el reavalúo y prorrogó los avalúos vigentes en los bienes raíces no agrícolas con destino \nhabitacional, y redujo la periodicidad del reavalúo de los bienes raíces de las distintas series. \nCAPÍTULO PRIMERO: \n1.-  ASPECTOS GENERALES: \nLa Ley Nº 19.537, publicada en el Diario Oficial de 16 de diciembre de 1997, dispone un régimen especial \nde propiedad, mediante el cual es posible establecer condominios integrados por inmuebles divididos en \nunidades sobre las cuales se puede constituir dominio exclusivo a favor de distintos propietarios, \nmanteniendo uno o más bienes en el dominio común de todos ellos. \nEn su artículo 3º, dicha norma establece que el porcentaje de derechos que corresponde a cada unidad \nsobre los bienes de dominio común, se debe determinar en el reglamento de copropiedad, atendiéndose, \npara fijarlo, al avalúo fiscal de la respectiva unidad. \nPor otra parte, el artículo 29º del mismo cuerpo legal señala que el primer reglamento de copropiedad \ndebe ser dictado por la persona natural o jurídica propietaria del condominio. Este instrumento debe ser \nreducido a escritura pública e inscrito en el Registro de Hipotecas y Gravámenes del Conservador de \nBienes Raíces respectivo. Esto último como condición previa para que, de acuerdo al artículo 10 del \ncitado cuerpo legal, el Director de Obras Municipales respectivo extienda el Certificado que declara el \ncondominio acogido al régimen de copropiedad inmobiliaria. \nEn vista de lo anterior, para facilitar y agilizar la determinación del avalúo fiscal de cada unidad que forma \nparte de un condominio y sobre la cual se constituye dominio exclusivo a favor de distintos propietarios, \nse establece, por la presente Circular, un procedimiento en base a una declaración jurada de \"CÁLCULO \nDEL AVALÚO FISCAL DE LA EDIFICACIÓN TERMINADA DE CADA UNIDAD ACOGIDA A LA LEY DE \nCOPROPIEDAD INMOBILIARIA\" (Formulario Nº 2803) y a una declaración jurada anexa “CÁLCULO DE \nAVALÚO FISCAL CONSIDERANDO AVALÚO DEL TERRENO DE CADA UNIDAD” (Formulario Nº \n2803B). Las declaraciones juradas las debe realizar"
+    },
+    {
+      "name": "Circular N°46 (17/08/2006)",
+      "source_type": "circular",
+      "source": "Circular N°46 (17/08/2006)",
+      "document_id": "b1419add-6132-58fd-ac27-1470ebc2ca32",
+      "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/documentos/circulares/2006/circu46.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nDejada sin efecto\nCIRCULAR N° 46, DEL 17 DE AGOSTO DE 2006 \nMATERIA: REEMPLAZA CIRCULARES N° 42, DE 1999, Y N° 40, DE 2005 Y ACTUALIZA PROCEDIMIENTO \nPARA DETERMINAR EL AVALÚO FISCAL DE BIENES RAÍCES ACOGIDOS AL RÉGIMEN DE \nCOPROPIEDAD INMOBILIARIA ESTABLECIDO EN LA LEY Nº 19.537.\nLa presente Circular reemplaza las Circulares N° 42, de 1999, N° 40 de 2005 y actualiza las instrucciones \nrelativas al procedimiento relacionado con la declaración de cálculo del avalúo fiscal de la edificación de \ncada unidad de los bienes raíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la Ley N° \n19.537.\nCAPÍTULO PRIMERO:\n1.- ASPECTOS GENERALES:\nLa Ley Nº 19.537, publicada en el Diario Oficial de 16 de diciembre de 1997, dispone un régimen \nespecial de propiedad, mediante el cual es posible establecer condominios integrados por inmuebles \ndivididos en unidades sobre las cuales se puede constituir dominio exclusivo a favor de distintos \npropietarios, manteniendo uno o más bienes en el dominio común de todos ellos.\nEn su artículo 3º, dicha norma establece que el porcentaje de derechos que corresponde a cada unidad \nsobre los bienes de dominio común, se debe determinar en el reglamento de copropiedad, \natendiéndose, para fijarlo, al avalúo fiscal de la respectiva unidad.\nPor otra parte, el artículo 29º del mismo cuerpo legal señala que el primer reglamento de copropiedad \ndebe ser dictado por la persona natural o jurídica propietaria del condominio. Este instrumento debe ser \nreducido a escritura pública e inscrito en el Registro de Hipotecas y Gravámenes del Conservador de \nBienes Raíces respectivo. Esto último como condición previa para que, de acuerdo al artículo 10, el \nDirector de Obras Municipales respectivo extienda el Certificado que declara el condominio acogido al \nrégimen de copropiedad inmobiliaria.\nPara facilitar y agilizar la determinación del avalúo fiscal de cada unidad que forma parte de un \ncondominio y sobre la cual se constituye dominio exclusivo a favor de distintos propietarios, se \nestablece, por la presente Circular, un procedimiento en base a una declaración jurada de \"CALCULO \nDEL AVALÚO FISCAL DE LA EDIFICACIÓN TERMINADA DE CADA UNIDAD ACOGIDA A LA LEY DE \nCOPROPIEDAD INMOBILIARIA\" (Formulario Nº 2803) y a una declaración jurada anexa “CALCULO \nDE AVALÚO FISCAL CONSIDERANDO AVALÚO DEL TERRENO DE CADA UNIDAD” (Formulario Nº \n2803B). Ambas declaraciones juradas las debe realizar el propietario del inmueble acogido a la Ley de \nCopropiedad Inmobiliaria personalmente o a través de un representante mandatado al efecto.\nEn consideración a que estas declaraciones juradas son efectuadas por el primer propietario del \ncondominio o por su representante, el S.I.I. las utilizará como fuente de información para efectos de \ndeterminar la base imponible del Impuesto Territorial. \n2.-\nINSTRUCCIÓN PREVIA:\nLas Oficinas del S.I.I. deberán entregar al propietario o su representante (Persona Natural o Empresa \nInmobiliaria) un ejemplar de la Carta Tipo con Instrucciones Básicas (Anexo 1), acompañada de los \nformularios Nº 2803 (Anexo 3) y Nº 2803B (Anexo 4), cuando corresponda, al momento que éstos \nsoliciten la Asignación de Números de Roles de Avalúo para una edificación que vaya a ser acogida a la \nLey de Copropiedad Inmobiliaria. En el revers"
+    },
+    {
+      "name": "Circular N°28 (28/04/1998)",
+      "source_type": "circular",
+      "source": "Circular N°28 (28/04/1998)",
+      "document_id": "632581fe-d45a-567d-b3fb-5161cd9ad4f5",
+      "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/documentos/circulares/1998/circu28.pdf",
+      "content": " de Emplazamiento, Planta(s) tipo de Arquitectura, \nElevaciones y Especificaciones Técnicas.\nAnte la presentación de los formularios 2803 y 2803 B, el Servicio de Impuestos Internos, en \nel mismo acto, timbrará la declaración, acreditando así su recepción. Quedará en poder del \nS.I.I. una copia de la declaración y el Expediente descrito en el punto anterior, los cuales \nconstituirán la base para la tasación fiscal definitiva de la copropiedad.\n2.-\nINSTRUCCIONES PARA EL CALCULO DEL AVALUO FISCAL DE LAS UNIDADES DE \nUN CONDOMINIO :\nLas presentes instrucciones tienen por objeto posibilitar el cálculo del avalúo fiscal de una propiedad \nacogida a la Ley Nº 19.537, sobre Copropiedad Inmobiliaria y constituyen un resumen práctico de la \nnormativa vigente para la tasación fiscal de las edificaciones. Cualquier caso excepcional, no \nconsiderado en ellas, como por ejemplo, edificaciones cuya estructura es de piedra (código \"D\") o de \nadobe (código \"F\"), deberá ser consultado en el Servicio de Impuestos Internos.\n\n\nDejada sin efecto\n4\n2.1\nAvalúo fiscal :\nComprende la avaluación del terreno y de las edificaciones que existen en la propiedad. Para \nlos terrenos existe una tabla de precios unitarios para todas las comunas del país y para las \nedificaciones se utiliza una tabla comunal de valores unitarios de edificación, considerando la \nestructura soportante del edificio y su calidad o categoría.\n2.2\nCálculo del avalúo fiscal de la unidad :\n*\nCondominios tipo \"A\" : El avalúo se determinará para cada unidad o departamento del \nedificio o condominio, sin considerar el valor del terreno y de las edificaciones de uso \ncomún. En este caso el avalúo se determina directamente al aplicar las tablas de precios y de \ncorrección para edificaciones que se presentan a continuación, por lo que no es necesario \nsolicitar Antecedentes Previos al S.I.I.\n*\nCondominios tipo \"B\" : Corresponde determinar el avalúo fiscal de las edificaciones \nexistentes o en su defecto, de las propuestas en el Permiso de Edificación y el avalúo de \ncada terreno o lote, sin considerar el valor del terreno y de las edificaciones de uso \ncomún. Para estos casos el S.I.I. proporcionará adicionalmente, a través del \"Certificado de \nAntecedentes Previos para el Cálculo del Avalúo Fiscal\" (Form. Nº 2802), los Valores Base \nde terreno, los Coeficientes Guías y sus Coeficientes Correctores para cada lote del \ncondominio.\n2.3\nPasos para determinar el avalúo fiscal de una edificación:\n1º\nEs necesario identificar la Clasificación (CL.) de la Edificación, en base a la Estructura y la \nCategoría :\n________________________________________________________\nCódigo\nESTRUCTURA\nCódigo CATEGORÍA\n_________________________________________________________\n   A    \nAcero\n1\nLujo\n   B    \nHormigón Armado\n2\nEntre Lujo y Corriente\n   C    \nAlbañilería\n3\nCorriente\n   E    \nMadera\n4\nEntre Corriente y Básica\n5\nBásica\n2º\nSe debe seleccionar el valor unitario de la edificación, según su Clasificación (C.L.) : ($ del \nprimer semestre de 1998) \nESTRUCTURA\nCATEGORÍA\n1\n2\n3\n4\n5\nA o B\n403.407\n265.659\n167.285\n108.242\n48.212\nC\n364.051\n236.140\n147.603\n98.402\n44.276\nE\n244.996\n157.445\n108.242\n54.122\n24.597\nNOTA : Los valores unitarios se reajustan semestralmente, de acuerdo a la variación del \nI.P.C.\n3º\nSi corresponde se debe aplicar al valor unitario seleccionado un factor por Condición Especial \n:\n_______________________________________________________\nCondición Especial\nFactor\n_________________________________________________________\nMansarda  o "
+    }
+  ]
+}

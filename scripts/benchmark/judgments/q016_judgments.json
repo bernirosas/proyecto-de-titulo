@@ -1,0 +1,313 @@
+{
+  "query_id": "q016",
+  "query_text": "Devolución del IVA en la venta de inmuebles nuevos",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:17Z",
+  "judgments": [
+    {
+      "chunk_uuid": "b675004a-d0c1-50a3-ac64-4d68ac81fc3a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica las exenciones de IVA para inmuebles nuevos y su aplicabilidad según fechas de construcción y recepción."
+    },
+    {
+      "chunk_uuid": "d53a20c4-f8dc-50d3-bec0-09daa88776be",
+      "relevance_grade": 2,
+      "justification": "Aborda la devolución de remanentes de IVA crédito fiscal acumulado, pero se enfoca en activos fijos y no directamente en la venta de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "1790c0d2-a8b4-529d-adea-831ced53c847",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en el arriendo de locales, no sobre la devolución del IVA en la venta de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "70b2b02c-10c8-507a-9050-e147434c83b5",
+      "relevance_grade": 3,
+      "justification": "Explica la vigencia de exenciones de IVA para inmuebles nuevos, detallando requisitos de construcción y recepción definitiva."
+    },
+    {
+      "chunk_uuid": "5670d765-ffe1-5b79-8da3-39aef71e6f7b",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se centra en el artículo 27 bis del D.L. 825 y reorganizaciones empresariales, no en la devolución de IVA por venta de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "c92d61e2-9b8b-565d-aac6-08dd61cd9efa",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la devolución del IVA en el contexto de divisiones societarias, no directamente en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "d166aa9d-7176-5e81-b4d3-305775460886",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica la aplicación del IVA y la base imponible en la venta de inmuebles por vendedores habituales que no soportaron IVA."
+    },
+    {
+      "chunk_uuid": "f22711c3-9e64-5955-a2ab-5be2a85b7d1f",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la devolución del IVA bajo el artículo 27 bis en relación con un beneficio de la Ley N° 21.631, tocando la consulta."
+    },
+    {
+      "chunk_uuid": "55a0026f-237b-5692-a99e-ce48c51a8509",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la ampliación de la aplicación del IVA a todas las ventas de inmuebles por vendedores habituales desde 2016."
+    },
+    {
+      "chunk_uuid": "8530f1a4-e64f-5571-bff0-5305d6de9411",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla la aplicación del IVA a ventas de inmuebles nuevos y usados por vendedores habituales, incluyendo exenciones transitorias."
+    },
+    {
+      "chunk_uuid": "cc6a4ea9-0c34-5e4b-8c30-4894623b48b0",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre el cálculo del IVA en arrendamientos de inmuebles, no en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "99253f79-ca18-56f8-b805-0cfffbc99cc5",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la devolución de remanentes de crédito fiscal en actividades exentas, no la devolución de IVA en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "fe3de5fe-34c2-5e9b-8097-8746eb712d2d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute exenciones de IVA en ventas de inmuebles, pero no se enfoca en la devolución del IVA en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "b5cc753c-1c7b-51f2-8171-41f77057e4c9",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica la aplicación del artículo 126 del Código Tributario para solicitar devolución de IVA pagado indebidamente en un proyecto inmobiliario."
+    },
+    {
+      "chunk_uuid": "3f94d57a-e813-5b25-ada1-6ff73fac37e3",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la base imponible y la devolución de remanentes de crédito fiscal en la venta de predios forestales, no en inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "0e28266e-fee9-57b2-8c21-03761e6664d9",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la aplicación del IVA en la venta de inmuebles tras la reforma tributaria, incluyendo consultas sobre exenciones."
+    },
+    {
+      "chunk_uuid": "0ac74f9c-86a0-5c1d-97e7-3829460e095d",
+      "relevance_grade": 3,
+      "justification": "Este oficio analiza la exención de IVA para inmuebles nuevos según el artículo 7° transitorio de la Ley N° 20.780."
+    },
+    {
+      "chunk_uuid": "763eecd1-8f70-5aa8-a9b9-a49dceb11acb",
+      "relevance_grade": 1,
+      "justification": "Este oficio trata sobre la devolución de remanentes de crédito fiscal de IVA, no directamente sobre la devolución del IVA en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "23cc2e3a-63bd-57a5-baff-cb058a9b20ac",
+      "relevance_grade": 2,
+      "justification": "Esta circular detalla cambios en los hechos gravados especiales de IVA, incluyendo la venta habitual de inmuebles y crédito fiscal."
+    },
+    {
+      "chunk_uuid": "13a01704-f4e3-590d-8b19-5851840e1b4e",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la aplicación de IVA al arrendamiento de oficinas, no en la devolución del IVA en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "76be3e26-7e03-5dac-9a91-8c7b7791ef14",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute la devolución de remanentes de crédito fiscal IVA bajo el artículo 27 bis, relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "6ac40c25-d88d-5db1-9755-4f8b278c3013",
+      "relevance_grade": 3,
+      "justification": "Explica las modificaciones legales que gravan con IVA la venta de inmuebles nuevos y usados por vendedores habituales."
+    },
+    {
+      "chunk_uuid": "34f8aee4-b9f4-5a3b-99a7-4fa24cf3684a",
+      "relevance_grade": 1,
+      "justification": "Este oficio se centra en el tratamiento tributario del IVA en el arrendamiento de inmuebles, no en su venta."
+    },
+    {
+      "chunk_uuid": "eae276b2-eaf0-530a-a637-ab61bedbe54d",
+      "relevance_grade": 2,
+      "justification": "Aborda la emisión errónea de documentos tributarios en la venta de inmuebles y la restitución de crédito fiscal."
+    },
+    {
+      "chunk_uuid": "9827fbeb-4e9b-5b55-9e1d-55a6c3f7ce59",
+      "relevance_grade": 2,
+      "justification": "Este oficio aclara que el IVA solo afecta la venta habitual de inmuebles y detalla excepciones transitorias."
+    },
+    {
+      "chunk_uuid": "bea5c52e-7d05-562c-94e7-5931a3f1894c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la aplicación del IVA en la venta de inmuebles por parte de una embajada, no la devolución general del IVA en ventas de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "282beb21-f748-5b13-9b9d-c2b4d59a2f6a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica la aplicación del IVA a las ventas de inmuebles, nuevos o usados, por vendedores habituales, y las modificaciones legales al respecto."
+    },
+    {
+      "chunk_uuid": "5b1a0d3d-4009-54ba-9b65-a49b3c00d699",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en el crédito fiscal del IVA en el arrendamiento de inmuebles, no en la devolución del IVA por venta de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "50baf3fc-d504-541b-80fd-78257dadc525",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la posibilidad de solicitar la devolución del IVA como pago en exceso si la venta está gravada y no se utilizó el crédito fiscal."
+    },
+    {
+      "chunk_uuid": "64ba3685-a2b5-5ff6-adc8-4c85f9253700",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la aplicación del IVA al arrendamiento de inmuebles amoblados y la devolución de crédito fiscal por construcción, no por venta de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "50d53ac9-865c-5da7-b264-a4f6c89eef60",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica que la venta de inmuebles no está afecta a IVA si el vendedor no actúa de forma habitual."
+    },
+    {
+      "chunk_uuid": "4a0f36ca-6269-5812-8748-06bfd917769e",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la exención de IVA para inmuebles con permiso de edificación anterior a 2016 y vendidos en un año."
+    },
+    {
+      "chunk_uuid": "daea3fdb-a1c7-5a94-a1ba-5179e512bab5",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la aplicación del IVA en arrendamientos de inmuebles, no en ventas."
+    },
+    {
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "relevance_grade": 2,
+      "justification": "Este oficio define 'venta' y 'vendedor' para efectos de IVA en inmuebles, y menciona exenciones transitorias."
+    },
+    {
+      "chunk_uuid": "84f7a1aa-c26b-5c71-8929-df503ecb5028",
+      "relevance_grade": 1,
+      "justification": "Esta circular se enfoca en la recuperación del IVA soportado en proyectos inmobiliarios, no en la devolución del IVA en ventas."
+    },
+    {
+      "chunk_uuid": "e5957f96-b099-5b68-bbaa-1d180ea11791",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la posibilidad de devolución del crédito fiscal IVA por adquisición de inmuebles destinados a activo fijo."
+    },
+    {
+      "chunk_uuid": "0c1e8010-6c8e-5aa9-987b-d91064befc9e",
+      "relevance_grade": 3,
+      "justification": "Aborda la consulta sobre la aplicación del IVA en la venta de inmuebles nuevos por personas naturales."
+    },
+    {
+      "chunk_uuid": "01b2eb6a-b50f-573d-ba78-df4e220b645e",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la aplicación del IVA en arrendamientos de inmuebles, no en ventas."
+    },
+    {
+      "chunk_uuid": "2154155a-f7a1-512c-abe3-f1f87d9fcb82",
+      "relevance_grade": 2,
+      "justification": "Explica exenciones de IVA para ventas de inmuebles con permisos de construcción o urbanización."
+    },
+    {
+      "chunk_uuid": "92e88dc3-4a1e-5d1e-bebb-cd14ff2b761a",
+      "relevance_grade": 2,
+      "justification": "Detalla la base imponible del IVA en ventas de inmuebles construidos, incluyendo deducciones."
+    },
+    {
+      "chunk_uuid": "dba3ceba-bd6e-5c48-a72f-3f98408a58d3",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la devolución de IVA por adquisición de inmuebles que incluyen estacionamientos, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "11f6263b-dfd8-50cb-bcc8-0edb5a31828b",
+      "relevance_grade": 3,
+      "justification": "Este oficio concluye que la venta de una propiedad específica no se afecta a IVA, explicando cambios legislativos relevantes."
+    },
+    {
+      "chunk_uuid": "43e52302-b022-5d11-a04f-3a5fd639abc7",
+      "relevance_grade": 3,
+      "justification": "Este oficio analiza la aplicación de IVA en la venta de una propiedad construida en 2016, abordando la habitualidad y exenciones."
+    },
+    {
+      "chunk_uuid": "b958c7bf-e134-5683-98cb-bb029808d354",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica que las leyes N° 20.780 y 20.899 incorporaron el IVA a la venta de inmuebles construidos, excluyendo terrenos."
+    },
+    {
+      "chunk_uuid": "dbd2c074-c221-58a7-87ee-15c2db4fdbd7",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda la aplicación de IVA en la venta de un activo fijo (inmueble) y la no generación de crédito fiscal."
+    },
+    {
+      "chunk_uuid": "61663b5c-0530-5e9d-b89f-ef0ae79a58b4",
+      "relevance_grade": 2,
+      "justification": "Explica las modificaciones al concepto de venta y vendedor para efectos del IVA en inmuebles."
+    },
+    {
+      "chunk_uuid": "36b99a38-657c-5a0b-8346-474a408404c0",
+      "relevance_grade": 3,
+      "justification": "Aclara que la venta de inmuebles con construcciones está afecta a IVA si hay habitualidad o es activo fijo."
+    },
+    {
+      "chunk_uuid": "a6bb5d22-c191-5f6c-aee2-9a67085c0b0c",
+      "relevance_grade": 2,
+      "justification": "Aborda la tributación de promesas de venta y arriendos con opción de compra post-2016."
+    },
+    {
+      "chunk_uuid": "df5fff00-0f5c-51d0-b9d2-0dad5b004d22",
+      "relevance_grade": 2,
+      "justification": "Analiza la aplicación del Art. 8, letra m) a la venta de inmuebles del activo fijo."
+    },
+    {
+      "chunk_uuid": "7f749a58-65d0-5e5f-af8b-c8ccdc609973",
+      "relevance_grade": 3,
+      "justification": "Detalla la afectación a IVA de ventas de inmuebles por habitualidad o activo fijo post-2016."
+    },
+    {
+      "chunk_uuid": "c7058d9f-2e47-59dd-978e-69cf4dcdd8eb",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica las exenciones del IVA en la venta de inmuebles nuevos bajo ciertas condiciones transitorias."
+    },
+    {
+      "chunk_uuid": "ae59ea1b-a23c-578c-a33c-f5b44bf3f81b",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la devolución de IVA por adquisición de inmuebles que incluyen estacionamientos, no directamente sobre la venta de inmuebles nuevos."
+    },
+    {
+      "chunk_uuid": "bfaa9320-eb6a-51c8-b585-57758ccd0d43",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute la aplicación del IVA en la venta de predios forestales y la posibilidad de devolución anticipada del IVA crédito fiscal."
+    },
+    {
+      "chunk_uuid": "9d191fe4-e2d9-57a1-8d74-cdc1cc5dea2b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el derecho a crédito fiscal por materiales de construcción y la devolución del IVA bajo el Artículo 27 bis."
+    },
+    {
+      "chunk_uuid": "836b5d5b-b134-5aa5-846e-86dc3753a755",
+      "relevance_grade": 2,
+      "justification": "Analiza la afectación a IVA en la venta de inmuebles con construcciones y la exclusión del terreno, mencionando el artículo 27 bis."
+    },
+    {
+      "chunk_uuid": "fe19ee96-623f-56d7-9a0b-6c3fe671b3a8",
+      "relevance_grade": 3,
+      "justification": "Aborda la consulta sobre IVA en la venta de viviendas nuevas, explicando las modificaciones legales y la afectación a la venta habitual."
+    },
+    {
+      "chunk_uuid": "8da5d00d-3d95-5dba-8f8f-f5aeacc928af",
+      "relevance_grade": 2,
+      "justification": "Explica la posibilidad de reembolso del remanente de crédito fiscal del IVA soportado en la adquisición de inmuebles para activo fijo."
+    },
+    {
+      "chunk_uuid": "d96f01f3-b807-53a6-adb2-9b3259f5070f",
+      "relevance_grade": 3,
+      "justification": "Informa sobre las modificaciones legales que afectan la venta de viviendas nuevas y cuándo se aplica el IVA, detallando cambios en el artículo 2."
+    },
+    {
+      "chunk_uuid": "6b42e2ec-49d2-5181-8ff9-1466e3b3a8c9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la inaplicabilidad de la devolución del IVA en promesas de venta de inmuebles."
+    },
+    {
+      "chunk_uuid": "4f2e824c-59e9-514a-98ff-5bc348c17ab0",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la improcedencia de la devolución del IVA en casos de arriendo de inmuebles por empresas constructoras."
+    },
+    {
+      "chunk_uuid": "61d73d26-c93c-5a7e-a344-caa503c32e47",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la exención de IVA en ventas de viviendas financiadas con subsidio, impidiendo la devolución."
+    }
+  ]
+}

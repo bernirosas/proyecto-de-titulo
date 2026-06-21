@@ -1,0 +1,687 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maqui sparse retrieval</title>
+<style>
+  :root {
+    --bg: #f7f7f5;
+    --card: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e3e3df;
+    --accent: #0b6cb1;
+    --accent-soft: #eef5fb;
+    --tag-bg: #efeae0;
+    --tag-ink: #5a4a2a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  header {
+    padding: 18px 24px;
+    border-bottom: 1px solid var(--line);
+    background: var(--card);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  header .subtitle {
+    color: var(--muted);
+    font-size: 12px;
+    margin-top: 4px;
+  }
+  main {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 24px;
+  }
+  .controls {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: end;
+  }
+  .controls label {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .controls .grow { flex: 1 1 320px; }
+  .controls input,
+  .controls select {
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: white;
+    font-size: 14px;
+    color: var(--ink);
+  }
+  .controls input:focus,
+  .controls select:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: -1px;
+  }
+  .controls button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background: var(--accent);
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .controls button:hover { background: #095593; }
+  .controls button:disabled {
+    background: var(--muted);
+    cursor: not-allowed;
+  }
+  .meta {
+    margin: 18px 0 8px;
+    font-size: 12px;
+    color: var(--muted);
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .vector {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 12px;
+  }
+  .vector-head {
+    color: var(--muted);
+    margin-bottom: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .vector-head .count { font-variant-numeric: tabular-nums; }
+  .vector-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 6px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .vector-pill {
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    white-space: nowrap;
+  }
+  .vector-pill .w {
+    color: var(--muted);
+    margin-left: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+  .vector-toggle {
+    background: none;
+    border: none;
+    color: var(--accent);
+    cursor: pointer;
+    font-size: 11px;
+    padding: 0;
+    text-decoration: underline;
+  }
+  .pipeline {
+    margin: 12px 0 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .stage-label {
+    font-size: 11px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 4px;
+  }
+  .query-echo {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 13px;
+    color: var(--ink);
+  }
+  /* Pills de expansión SPLADE: verde para contrastar con el azul (en query). */
+  .vector-pill--exp {
+    background: #eafaf1;
+    color: #157347;
+  }
+  .vector-pill--exp .w { color: #5fa37e; }
+  .vector-legend {
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .vector-legend .dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 2px;
+    display: inline-block;
+  }
+  .vector-legend .dot--q { background: var(--accent-soft); border: 1px solid var(--accent); }
+  .vector-legend .dot--exp { background: #eafaf1; border: 1px solid #157347; margin-left: 8px; }
+  .hit-content mark {
+    /* base style; el background_color real viene inline computado por
+       contribución relativa al score (ver renderContentWithHighlights). */
+    color: var(--ink);
+    padding: 0 2px;
+    border-radius: 2px;
+    background-color: transparent;
+  }
+  .results {
+    margin-top: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .hit {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .hit-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 6px;
+  }
+  .hit-head .name {
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .hit-head .chunk-num {
+    color: var(--muted);
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 6px;
+    font-variant-numeric: tabular-nums;
+  }
+  .hit-head .score {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    font-size: 13px;
+    cursor: help;
+    border-bottom: 1px dotted var(--accent);
+  }
+  .hit-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+  .tag {
+    background: var(--tag-bg);
+    color: var(--tag-ink);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .hit-content {
+    color: #2a2a2a;
+    font-size: 13px;
+    line-height: 1.6;
+  }
+  .hit-foot {
+    margin-top: 8px;
+    font-size: 11px;
+    color: var(--muted);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px;
+  }
+  .error {
+    background: #fff3f3;
+    border: 1px solid #f5c2c2;
+    color: #8b1a1a;
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-top: 14px;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Maqui sparse retrieval</h1>
+  <div class="subtitle">
+    Cambia la técnica para ver cómo varían los resultados obtenidos. El preprocesamiento de la
+    query se aplica con la misma función que se usó al indexar el corpus.
+  </div>
+</header>
+
+<main>
+  <form id="searchForm" class="controls">
+    <label class="grow" id="queryTextLabel">
+      Query
+      <input id="query" type="text" autocomplete="off"
+             placeholder="ej: el arrendatario debe restituir el inmueble"
+             required>
+    </label>
+
+    <label class="grow" id="queryDropdownLabel" style="display:none">
+      Query del benchmark
+      <select id="queryDropdown">
+        <!-- se llena con /benchmark-queries al elegir hybrid_rrf -->
+      </select>
+    </label>
+
+    <label>
+      Técnica
+      <select id="method">
+        <!-- se llena con /techniques -->
+      </select>
+    </label>
+
+    <label>
+      Scoring
+      <select id="scoring">
+        <!-- se llena con /scoring-variants según la técnica -->
+      </select>
+    </label>
+
+    <label>
+      Top-k
+      <input id="size" type="number" min="1" max="50" value="10">
+    </label>
+
+    <button id="submitBtn" type="submit">Buscar</button>
+  </form>
+  <div id="hybridNotice" class="empty" style="display:none; margin-top:8px;">
+    En modo híbrido (RRF) sólo se pueden ejecutar las 31 queries del benchmark
+    porque sus embeddings densos están pre-computados con Gemini. Para queries
+    arbitrarias usa cualquiera de las 8 técnicas sparse.
+  </div>
+
+  <div id="status"></div>
+  <div id="results" class="results"></div>
+</main>
+
+<script>
+const $query           = document.getElementById('query');
+const $queryTextLabel  = document.getElementById('queryTextLabel');
+const $queryDropdown   = document.getElementById('queryDropdown');
+const $queryDropdownLb = document.getElementById('queryDropdownLabel');
+const $hybridNotice    = document.getElementById('hybridNotice');
+const $method  = document.getElementById('method');
+const $scoring = document.getElementById('scoring');
+const $size    = document.getElementById('size');
+const $form    = document.getElementById('searchForm');
+const $btn     = document.getElementById('submitBtn');
+const $status  = document.getElementById('status');
+const $results = document.getElementById('results');
+
+// Catálogo de scoring (id → label) por familia. Se popula desde
+// /scoring-variants y lo consume updateScoringOptions() cuando cambia la
+// técnica. Inicializado vacío para que la UI funcione si el fetch falla.
+let SCORING_CATALOG = {
+  bm25: [], rank_feature: [], hybrid: [],
+  defaults: { bm25: 'default', rank_feature: 'linear', hybrid: 'p3_bm25' },
+};
+// Mapa methodId → 'bm25' | 'rank_feature' | 'hybrid'. Determina qué dropdown
+// de scoring se muestra. El frontend ya soporta `hybrid` como tercera familia.
+const METHOD_TO_FAMILY = {};
+
+// Cache local del catálogo de queries del benchmark (para el dropdown que
+// reemplaza el input de texto cuando se elige hybrid_rrf). Sólo se incluyen
+// las queries con embedding denso pre-computado (has_dense=true) porque las
+// otras no pueden correr el lado denso de la fusión.
+let BENCHMARK_QUERIES = [];
+
+function familyForMethod(methodId) {
+  return METHOD_TO_FAMILY[methodId] || 'bm25';
+}
+
+function isHybridMethod(methodId) {
+  return familyForMethod(methodId) === 'hybrid';
+}
+
+function updateScoringOptions() {
+  const family = familyForMethod($method.value);
+  const variants = SCORING_CATALOG[family] || [];
+  const defaultId = SCORING_CATALOG.defaults?.[family];
+  $scoring.innerHTML = '';
+  for (const v of variants) {
+    const opt = document.createElement('option');
+    opt.value = v.id;
+    opt.textContent = v.label;
+    if (v.id === defaultId) opt.selected = true;
+    $scoring.appendChild(opt);
+  }
+}
+
+// Alterna entre input de texto libre (sparse) y dropdown de queries (hybrid).
+// El input requerido siempre tiene `required` activo para que el navegador
+// gatille validación nativa antes de POST a /search; el otro lo apaga
+// para no bloquear el submit cuando está oculto.
+function updateQueryInputMode() {
+  const hybrid = isHybridMethod($method.value);
+  if (hybrid) {
+    $queryTextLabel.style.display = 'none';
+    $query.required = false;
+    $queryDropdownLb.style.display = '';
+    $queryDropdown.required = true;
+    $hybridNotice.style.display = '';
+    if (!$queryDropdown.options.length) {
+      // El catálogo se carga lazy la primera vez que se entra a hybrid.
+      loadBenchmarkQueries();
+    }
+  } else {
+    $queryTextLabel.style.display = '';
+    $query.required = true;
+    $queryDropdownLb.style.display = 'none';
+    $queryDropdown.required = false;
+    $hybridNotice.style.display = 'none';
+  }
+}
+
+async function loadBenchmarkQueries() {
+  try {
+    const resp = await fetch('/benchmark-queries');
+    const data = await resp.json();
+    BENCHMARK_QUERIES = (data.queries || []).filter(q => q.has_dense);
+    $queryDropdown.innerHTML = '';
+    if (!BENCHMARK_QUERIES.length) {
+      const opt = document.createElement('option');
+      opt.value = '';
+      opt.textContent = '(no hay queries con embedding denso disponible)';
+      opt.disabled = true;
+      $queryDropdown.appendChild(opt);
+      return;
+    }
+    for (const q of BENCHMARK_QUERIES) {
+      const opt = document.createElement('option');
+      opt.value = q.query_id;
+      opt.textContent = `${q.query_id} · ${q.query_text}`;
+      $queryDropdown.appendChild(opt);
+    }
+  } catch (e) {
+    $queryDropdown.innerHTML = '<option value="" disabled>(error cargando queries)</option>';
+  }
+}
+
+async function loadCatalogs() {
+  try {
+    const [tResp, sResp] = await Promise.all([
+      fetch('/techniques'),
+      fetch('/scoring-variants'),
+    ]);
+    const tData = await tResp.json();
+    const sData = await sResp.json();
+    SCORING_CATALOG = sData;
+    $method.innerHTML = '';
+    for (const t of tData.techniques) {
+      const opt = document.createElement('option');
+      opt.value = t.id;
+      opt.textContent = t.label + ' — ' + t.preprocessing;
+      $method.appendChild(opt);
+      // Mapear método → familia de scoring. Prioriza el campo explícito
+      // `scoring_family` del catálogo (API moderno). Fallback heurístico
+      // sobre `vectorization.startsWith('bm25')` para compatibilidad con
+      // versiones viejas del catálogo — falla en `baseline_qdrant_bm25`
+      // (vectorización nominalmente BM25 pero servida por rank_features).
+      const fam = t.scoring_family;
+      if (fam === 'bm25' || fam === 'rank_feature' || fam === 'hybrid') {
+        METHOD_TO_FAMILY[t.id] = fam;
+      } else {
+        const vec = (t.vectorization || '').toLowerCase();
+        METHOD_TO_FAMILY[t.id] = vec.startsWith('bm25') ? 'bm25' : 'rank_feature';
+      }
+    }
+    updateScoringOptions();
+    updateQueryInputMode();
+  } catch (e) {
+    $method.innerHTML = '<option value="p1_bm25">P1 + BM25</option>';
+    METHOD_TO_FAMILY['p1_bm25'] = 'bm25';
+    updateScoringOptions();
+    updateQueryInputMode();
+  }
+}
+
+$method.addEventListener('change', () => {
+  updateScoringOptions();
+  updateQueryInputMode();
+});
+
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+const SCORE_TOOLTIP = (
+  'Score de relevancia. Para BM25: score nativo de Lucene ' +
+  '(suma sobre los tokens de la query de IDF·TF saturado, normalizado por largo del doc). ' +
+  'Para TF-IDF: suma lineal de TF(query) · TF·IDF(doc) sobre los tokens. ' +
+  'Mayor = más relevante. Las magnitudes NO son comparables entre técnicas.'
+);
+
+function colorForScore(score, maxScore) {
+  if (!(score > 0) || !(maxScore > 0)) return null;
+  const intensity = Math.pow(score / maxScore, 0.6);
+  return `hsl(48, 95%, ${92 - intensity * 30}%)`;
+}
+
+function renderContentWithHighlights(content, highlights) {
+  const ellipsis = content.length === 600 ? '…' : '';
+  if (!highlights || typeof highlights !== 'object') {
+    return escapeHtml(content) + ellipsis;
+  }
+  const entries = Object.entries(highlights);
+  if (!entries.length) return escapeHtml(content) + ellipsis;
+
+  const scoreMap = new Map(entries.map(([w, s]) => [w.toLowerCase(), s]));
+  const maxScore = Math.max(...entries.map(([, s]) => s));
+
+  const html = content.replace(/(\p{L}[\p{L}\p{N}_]*)|([^\p{L}\p{N}_]+)/gu, (_, word, sep) => {
+    if (sep !== undefined) return escapeHtml(sep);
+    const score = scoreMap.get(word.toLowerCase());
+    const color = colorForScore(score, maxScore);
+    if (!color) return escapeHtml(word);
+    const titleScore = score.toFixed(3);
+    return `<mark style="background-color: ${color};" title="contribución: ${titleScore}">${escapeHtml(word)}</mark>`;
+  });
+  return html + ellipsis;
+}
+
+function renderHit(h) {
+  const name = h.name || '(sin nombre)';
+  const chunkNum = (h.chunk_id != null) ? `<span class="chunk-num">· chunk #${h.chunk_id}</span>` : '';
+  const ctx = (h.content || '').slice(0, 600);
+  const tags = [];
+  if (h.source_type) tags.push(h.source_type);
+  if (h.source) tags.push(h.source);
+  if (h.rol_number) tags.push('ROL ' + h.rol_number);
+  if (h.court_specific_name) tags.push(h.court_specific_name);
+
+  return `
+    <article class="hit">
+      <div class="hit-head">
+        <div class="name">${escapeHtml(name)}${chunkNum}</div>
+      </div>
+      <div class="hit-tags">
+        ${tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+      </div>
+      <div class="hit-content">${renderContentWithHighlights(ctx, h.highlights)}</div>
+      <div class="hit-foot">
+        chunk_uuid=${escapeHtml(h.chunk_uuid)}
+        ${h.document_id ? '· document_id=' + escapeHtml(h.document_id) : ''}
+        ${h.url ? '· <a href="' + escapeHtml(h.url) + '" target="_blank" rel="noopener">fuente</a>' : ''}
+      </div>
+    </article>
+  `;
+}
+
+function renderQueryTerms(terms, vectorizer) {
+  if (!terms || !terms.length) return '';
+  const sorted = [...terms].sort((a, b) => b.weight - a.weight);
+  const isCount = vectorizer !== 'splade';
+  const fmt = w => isCount ? String(Math.round(w)) : Number(w).toFixed(3);
+  const weightLabel = vectorizer === 'splade' ? 'peso SPLADE' : 'TF (count)';
+  const expCount = sorted.filter(t => t.in_query === false).length;
+
+  const pills = sorted.map(t => {
+    const exp = t.in_query === false;
+    const cls = exp ? 'vector-pill vector-pill--exp' : 'vector-pill';
+    const title = (t.key && t.key !== t.term) ? ` title="clave: ${escapeHtml(t.key)}"` : '';
+    return `<span class="${cls}"${title}>${escapeHtml(t.term)}<span class="w">${fmt(t.weight)}</span></span>`;
+  }).join('');
+
+  const legend = (expCount > 0)
+    ? `<div class="vector-legend"><span class="dot dot--q"></span>en la consulta<span class="dot dot--exp"></span>expansión del modelo (${expCount})</div>`
+    : '';
+  const countLabel = (expCount > 0)
+    ? `${sorted.length} dim · ${sorted.length - expCount} de la consulta, ${expCount} expansión`
+    : `${sorted.length} dimensiones activas`;
+
+  return `
+    <div class="vector">
+      <div class="vector-head">
+        <span>vector esparso de la query · ${weightLabel}</span>
+        <span class="count">${countLabel}</span>
+      </div>
+      ${legend}
+      <div class="vector-pills">${pills}</div>
+    </div>
+  `;
+}
+
+function renderInputTokens(tokens) {
+  const list = tokens || [];
+  const pills = list
+    .map(t => `<span class="vector-pill">${escapeHtml(t)}</span>`)
+    .join('');
+  return `
+    <div class="vector">
+      <div class="vector-head">
+        <span>unidades que entran al vectorizador</span>
+        <span class="count">${list.length} tokens</span>
+      </div>
+      <div class="vector-pills">${pills}</div>
+    </div>
+  `;
+}
+
+async function search(ev) {
+  ev.preventDefault();
+  $btn.disabled = true;
+  $status.innerHTML = '';
+  $results.innerHTML = '<div class="empty">buscando…</div>';
+
+  // En modo híbrido, la query se determina por el id seleccionado: el texto
+  // de la consulta se rescata del catálogo cargado en BENCHMARK_QUERIES, no
+  // del input. Esto evita un round-trip extra al backend para resolver el
+  // texto, y asegura que `query` y `query_id` son consistentes.
+  let queryText = $query.value;
+  let queryId = null;
+  if (isHybridMethod($method.value)) {
+    queryId = $queryDropdown.value;
+    const q = BENCHMARK_QUERIES.find(x => x.query_id === queryId);
+    if (!q) {
+      $status.innerHTML = '<div class="error">Selecciona una query del benchmark.</div>';
+      $results.innerHTML = '';
+      $btn.disabled = false;
+      return;
+    }
+    queryText = q.query_text;
+  }
+
+  try {
+    const resp = await fetch('/search', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({
+        query: queryText,
+        method: $method.value,
+        size: parseInt($size.value, 10),
+        scoring: $scoring.value || null,
+        query_id: queryId,
+      }),
+    });
+    if (!resp.ok) {
+      const text = await resp.text();
+      throw new Error('HTTP ' + resp.status + ' — ' + text);
+    }
+    const data = await resp.json();
+
+    const fc = data.fusion_components;
+    const fusionMeta = fc
+      ? `<span>RRF k=${fc.rrf_k}, fusionó ${fc.n_fused} de ${fc.n_dense} densos × ${fc.n_sparse} sparse (fetch_depth=${fc.fetch_depth})</span>`
+      : '';
+    $status.innerHTML = `
+      <div class="meta">
+        <span><b>${data.method}</b></span>
+        <span>preproc=${data.preproc}, vectorizer=${data.vectorizer}, scoring=${data.scoring}</span>
+        <span>${data.total} matches, mostrando ${data.hits.length}</span>
+        <span>Latencia: ${data.latency_ms} ms</span>
+        ${fusionMeta}
+      </div>
+      <div class="pipeline">
+        <div class="stage">
+          <div class="stage-label">1 · query</div>
+          <div class="query-echo">${escapeHtml(data.query)}</div>
+        </div>
+        <div class="stage">
+          <div class="stage-label">2 · ${escapeHtml(data.query_input_label || 'tokens del input')}</div>
+          ${renderInputTokens(data.query_input_tokens)}
+        </div>
+        <div class="stage">
+          <div class="stage-label">3 · vector esparso generado</div>
+          ${renderQueryTerms(data.query_terms, data.vectorizer)}
+        </div>
+      </div>
+    `;
+
+    if (!data.hits.length) {
+      $results.innerHTML = '<div class="empty">sin resultados</div>';
+    } else {
+      $results.innerHTML = data.hits.map(renderHit).join('');
+    }
+  } catch (e) {
+    $status.innerHTML = '<div class="error">Error: ' + escapeHtml(e.message) + '</div>';
+    $results.innerHTML = '';
+  } finally {
+    $btn.disabled = false;
+  }
+}
+
+$form.addEventListener('submit', search);
+loadCatalogs();
+</script>
+
+</body>
+</html>

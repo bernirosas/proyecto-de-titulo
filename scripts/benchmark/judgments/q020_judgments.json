@@ -1,0 +1,343 @@
+{
+  "query_id": "q020",
+  "query_text": "¿Puede deducirse como gasto tributario el impuesto territorial pagado por un inmueble destinado al giro de la empresa?",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:22Z",
+  "judgments": [
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el tratamiento tributario del impuesto territorial pagado por el arrendatario para el arrendador, considerándolo mayor renta."
+    },
+    {
+      "chunk_uuid": "d0e45278-12f1-5ddc-beb5-55d871b1c554",
+      "relevance_grade": 3,
+      "justification": "Explica la deducción del impuesto territorial para empresas constructoras e inmobiliarias sobre bienes para venta, vinculándolo a la renta afecta."
+    },
+    {
+      "chunk_uuid": "31bff5c0-7b0a-5e76-afd6-cee1e4847c7a",
+      "relevance_grade": 1,
+      "justification": "Trata sobre la tributación de beneficios por uso de inmuebles y la presunción del 11% del avalúo fiscal, no directamente la deducción del impuesto territorial como gasto."
+    },
+    {
+      "chunk_uuid": "56a96b8b-396e-5688-8c41-557c3ebc8a21",
+      "relevance_grade": 2,
+      "justification": "Indica que el impuesto territorial pagado por el arrendatario constituye mayor renta para el arrendador y puede ser crédito contra el IDPC."
+    },
+    {
+      "chunk_uuid": "a4b7dfc4-333a-5919-85db-c1b400ef5b0d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en gastos deducibles y créditos fiscales en casos de quiebra, sin relación con el impuesto territorial como gasto general."
+    },
+    {
+      "chunk_uuid": "f1665c3a-1cfe-5f88-9d3f-9936401d81aa",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla los requisitos para deducir el impuesto territorial como crédito del impuesto de primera categoría."
+    },
+    {
+      "chunk_uuid": "a785de92-fdb5-5427-9bfa-612939713744",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre donaciones y su tratamiento como gasto o crédito, no sobre el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "74b7f25c-7135-5870-8bc0-11675343a6e5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la deducibilidad de cuotas de leasing como gasto, no el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "802f6d0a-ac27-556e-8911-a529c9d66f0d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la sobretasa del impuesto territorial y si los inmuebles destinados al giro de la empresa están exentos."
+    },
+    {
+      "chunk_uuid": "0ce1a31e-917a-5780-934b-70907dea6fd5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la rectificación de capital propio tributario y no sobre la deducibilidad del impuesto territorial."
+    },
+    {
+      "chunk_uuid": "774d92c0-5a54-5eb7-a4ef-96c0c8e39f13",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la deducción de intereses hipotecarios, no en el impuesto territorial como gasto tributario."
+    },
+    {
+      "chunk_uuid": "01322ef8-d843-5e18-8260-03aaa1436b72",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente la deducibilidad del impuesto territorial pagado por el arrendatario como gasto necesario para producir renta."
+    },
+    {
+      "chunk_uuid": "821a898d-0b18-5e41-ae37-349fcbb3b463",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la imputación de créditos por impuesto territorial en el contexto de término de giro, no su deducción como gasto."
+    },
+    {
+      "chunk_uuid": "7df33e3b-78f7-555e-aa59-c88077653cb3",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica la deducibilidad del impuesto territorial como gasto tributario para contribuyentes impedidos de usarlo como crédito."
+    },
+    {
+      "chunk_uuid": "7e815180-4a96-5d02-9e46-ce757214e3dd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en gastos no destinados al giro del negocio, no en el impuesto territorial como gasto deducible."
+    },
+    {
+      "chunk_uuid": "2b359f40-2d96-5cfe-9bd5-ebf937ee8346",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en el impuesto a los servicios en arrendamientos, no en la deducibilidad del impuesto territorial como gasto."
+    },
+    {
+      "chunk_uuid": "8a87f3b2-8cfc-500a-b223-e7281a026ed9",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda directamente la deducibilidad del impuesto territorial como gasto necesario para producir la renta para el arrendatario."
+    },
+    {
+      "chunk_uuid": "96ac545b-3ff9-5109-9aad-497d61f94690",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el impuesto territorial pagado en el contexto de retiros, pero no lo trata como gasto deducible del giro."
+    },
+    {
+      "chunk_uuid": "508bdb31-83d8-50eb-8c77-48dbb4f3dfbc",
+      "relevance_grade": 3,
+      "justification": "Este fragmento analiza la deducibilidad del impuesto territorial como gasto, detallando los requisitos y la falta de acreditación en el caso."
+    },
+    {
+      "chunk_uuid": "8c02f867-5cd9-526d-a86e-d584d56c9361",
+      "relevance_grade": 2,
+      "justification": "Este fragmento de ley menciona la deducibilidad de impuestos, incluyendo el territorial, pero con condiciones específicas y no como respuesta directa."
+    },
+    {
+      "chunk_uuid": "8a6736dc-fff7-59cc-b14a-402e2af38291",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la deducibilidad del Impuesto Territorial pagado en el contexto de la venta de inmuebles."
+    },
+    {
+      "chunk_uuid": "158fc31a-36da-50e6-ac4b-cf3f22d8c662",
+      "relevance_grade": 3,
+      "justification": "Explica que el Impuesto Territorial pagado por una empresa inmobiliaria arrendataria constituye un mayor desembolso deducible como gasto necesario."
+    },
+    {
+      "chunk_uuid": "0552cb62-af00-526f-af39-2f4fa7641e4d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la deducción del 11% del avalúo fiscal en arrendamientos, no el impuesto territorial como gasto directo."
+    },
+    {
+      "chunk_uuid": "b37ccd24-ae66-5d48-8df2-72561f6b7f9f",
+      "relevance_grade": 0,
+      "justification": "Se enfoca en el crédito fiscal del IVA y la deducción de gastos generales relacionados con el giro."
+    },
+    {
+      "chunk_uuid": "ca5c53a0-3552-54b7-a30e-8b76a58f71cd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la deducción de gastos pagados con préstamos de socios, no sobre el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "315348de-6fb7-50ef-9b5f-a62f45b21dab",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en el IVA de arrendamientos y no aborda la deducibilidad del impuesto territorial como gasto."
+    },
+    {
+      "chunk_uuid": "2774126d-4210-5742-856f-d85871fb4c8e",
+      "relevance_grade": 1,
+      "justification": "Este fragmento solo indica quién paga el impuesto territorial, sin abordar su deducibilidad como gasto tributario."
+    },
+    {
+      "chunk_uuid": "a3f592db-e7e1-5b3b-93ff-a90760447137",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre créditos especiales en construcción y no sobre la deducibilidad del impuesto territorial."
+    },
+    {
+      "chunk_uuid": "0bd50e26-a354-55f2-b965-bf07b07a6176",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda la rebaja del impuesto territorial pagado contra el impuesto de primera categoría para bienes raíces propios destinados al giro."
+    },
+    {
+      "chunk_uuid": "058004e3-aa28-530c-a44c-268781831643",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en el IVA y la deducibilidad de gastos relacionados con caminos, no el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "801c361c-a10e-5352-a912-105d78cf2e3c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre gastos ajenos al giro, no sobre la deducibilidad del impuesto territorial."
+    },
+    {
+      "chunk_uuid": "6a463827-234d-5ff2-9942-749410c56d1c",
+      "relevance_grade": 3,
+      "justification": "Este fragmento cita el Artículo 20 N° 1 letra a) de la Ley de la Renta, que permite rebajar el impuesto territorial pagado."
+    },
+    {
+      "chunk_uuid": "763eecd1-8f70-5aa8-a9b9-a49dceb11acb",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la devolución de crédito fiscal del IVA, no en la deducibilidad del impuesto territorial."
+    },
+    {
+      "chunk_uuid": "90417394-dde9-54c7-9b4c-3717bdcdf069",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la posibilidad de rebajar el Impuesto Territorial contra el IDPC para ciertas empresas."
+    },
+    {
+      "chunk_uuid": "28fd6c56-7000-50d9-93ea-6ff0fd1b25b6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en arrendamientos, no sobre la deducibilidad del impuesto territorial como gasto."
+    },
+    {
+      "chunk_uuid": "882d0716-cf09-5df9-8ba9-cafae8ab3e0d",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica la modificación que permite deducir el impuesto territorial de la renta bruta global."
+    },
+    {
+      "chunk_uuid": "5df5ab8c-49d0-5b9e-b722-ccaec235b6c8",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona que los impuestos establecidos por leyes chilenas son deducibles si se relacionan con el giro, excluyendo los de bienes raíces."
+    },
+    {
+      "chunk_uuid": "d79189b2-8ab7-5ac1-b8e7-5b83e9238c23",
+      "relevance_grade": 1,
+      "justification": "Este oficio trata sobre la deducción del 11% del avalúo fiscal en arrendamientos, no sobre el impuesto territorial como gasto general."
+    },
+    {
+      "chunk_uuid": "12593f5e-049d-5655-a1ee-19dd42db91bf",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la deducción de pérdidas por venta de vehículos, no en el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "dab0492c-38a7-58f6-b326-05f24ffb0908",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el Impuesto Territorial pagado en el contexto de un impuesto único, no como gasto deducible general."
+    },
+    {
+      "chunk_uuid": "029c5371-91e6-59a1-a069-567025055037",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute gastos no aceptados cuando los bienes no están destinados al giro de la empresa, lo cual es relevante."
+    },
+    {
+      "chunk_uuid": "c2f35c79-038e-5116-b0e9-7339989514a5",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda la deducibilidad de la compra de un inmueble destinado al giro del negocio, incluyendo el valor del terreno."
+    },
+    {
+      "chunk_uuid": "e96336a5-cc9d-5cba-b496-63c4960623b4",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el crédito por impuesto territorial pagado en el contexto de la reliquidación del IGC, pero no responde directamente la consulta."
+    },
+    {
+      "chunk_uuid": "ac991470-e769-5e7a-aa81-4f495becea1c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en arrendamientos de inmuebles y no sobre la deducibilidad del impuesto territorial como gasto."
+    },
+    {
+      "chunk_uuid": "ef2c4870-ae82-544f-b53d-e1c953c668aa",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla la rebaja del impuesto territorial para empresas constructoras e inmobiliarias, lo cual es altamente relevante."
+    },
+    {
+      "chunk_uuid": "1f8f76aa-855d-5b00-b649-86818f20447e",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el impuesto territorial y su modificación, pero no aborda su deducibilidad como gasto tributario."
+    },
+    {
+      "chunk_uuid": "3e768cca-ccec-5b8e-968b-fc44fdc8f505",
+      "relevance_grade": 3,
+      "justification": "Este fragmento responde directamente a la consulta, indicando que el impuesto territorial pagado puede ser deducido como gasto tributario."
+    },
+    {
+      "chunk_uuid": "3578f9ba-6c01-5e63-8135-5174a2ee3a58",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en quién es el sujeto obligado al pago del impuesto territorial, no en su deducibilidad como gasto."
+    },
+    {
+      "chunk_uuid": "dc15a26b-4622-50a4-abb6-8ca73adb92ea",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la enajenación de inmuebles y el impuesto a las herencias, no sobre gastos tributarios."
+    },
+    {
+      "chunk_uuid": "12a561d3-7bbb-5113-a3c9-c819cf413fe0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a beneficios tributarios por intereses hipotecarios, no a la deducibilidad del impuesto territorial como gasto."
+    },
+    {
+      "chunk_uuid": "eabed637-42e9-562b-909a-f6f1bfba818c",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que el impuesto territorial pagado por el arrendatario constituye mayor renta para el arrendador, deducible como gasto necesario."
+    },
+    {
+      "chunk_uuid": "f8795ecd-de07-5565-8163-8b499e573c83",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el crédito por impuesto territorial para arrendadores en leasing, pero se enfoca en la deducción del Impuesto de Primera Categoría."
+    },
+    {
+      "chunk_uuid": "a837340e-b055-53c8-8198-02d7b4bb71e8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones del impuesto territorial y su naturaleza, no sobre su deducción como gasto tributario."
+    },
+    {
+      "chunk_uuid": "f50ae0a8-29eb-57e6-9d0c-93c3109d215a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento responde directamente que el impuesto territorial pagado sobre bienes raíces destinados al giro no es gasto tributario, pero sí crédito."
+    },
+    {
+      "chunk_uuid": "07a3daa4-f0e1-53fc-93d1-5a9ba752cccb",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el costo tributario de un bien raíz adquirido por leasing, no sobre la deducibilidad del impuesto territorial."
+    },
+    {
+      "chunk_uuid": "49bca2ae-1dc5-54bd-8570-f09098d5f8a4",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la deducibilidad de intereses como gasto necesario, no en el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "102bdabf-f775-5442-b0bd-4f1e7ea822b9",
+      "relevance_grade": 3,
+      "justification": "Este fragmento establece explícitamente que el impuesto territorial no puede rebajarse como gasto, pero sí como crédito."
+    },
+    {
+      "chunk_uuid": "a2d2ad2f-3d8c-5017-a144-6e1b98c305f5",
+      "relevance_grade": 1,
+      "justification": "El fragmento discute gastos rechazados y su relación con el giro de la empresa, pero no aborda el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "6f4cd0af-683f-5323-8bf4-6bd010498073",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute el derecho a usar el impuesto territorial como crédito contra el Impuesto de Primera Categoría."
+    },
+    {
+      "chunk_uuid": "180135e8-98ee-5908-92b6-2c3debaad61d",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que empresas inmobiliarias pueden imputar el Impuesto Territorial como crédito contra el IDPC."
+    },
+    {
+      "chunk_uuid": "e51e5a3f-cd98-5554-ad7a-bbb70196eebf",
+      "relevance_grade": 3,
+      "justification": "Detalla que el crédito por Impuesto Territorial procede contra el IDPC por venta de inmuebles, no por arriendo."
+    },
+    {
+      "chunk_uuid": "9440aa2e-f86e-589b-84b2-6d99879dc013",
+      "relevance_grade": 2,
+      "justification": "Aborda el pago del Impuesto Territorial por arrendatarios y su deducción como gasto, no como crédito contra IDPC."
+    },
+    {
+      "chunk_uuid": "c124a550-6095-51ee-8b9b-a5686a0e8510",
+      "relevance_grade": 2,
+      "justification": "Explica que el Impuesto Territorial pagado por arrendadoras en leasing puede ser crédito contra el IDPC."
+    },
+    {
+      "chunk_uuid": "7ed202ce-e486-5e0e-914b-b2de937febb8",
+      "relevance_grade": 2,
+      "justification": "Confirma la aplicación del crédito por Impuesto Territorial contra el IDPC en contratos de leasing inmobiliario."
+    },
+    {
+      "chunk_uuid": "18e8b3cc-bae4-5ca1-957e-cbcab208ac1c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica cuándo el impuesto territorial puede ser rebajado como crédito del IDPC para rentas de arrendamiento y venta."
+    },
+    {
+      "chunk_uuid": "c7553f24-6167-50ae-b0b6-59936c571411",
+      "relevance_grade": 2,
+      "justification": "Este oficio detalla la procedencia del crédito por impuesto territorial para empresas constructoras e inmobiliarias, vinculándolo a la generación de renta."
+    },
+    {
+      "chunk_uuid": "9193cbb3-8117-5bee-8f57-57a8a0914a0e",
+      "relevance_grade": 2,
+      "justification": "Esta jurisprudencia aborda la improcedencia de rebajar el impuesto territorial como crédito si los inmuebles no generaron renta."
+    }
+  ]
+}

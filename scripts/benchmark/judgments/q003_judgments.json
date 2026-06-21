@@ -1,0 +1,338 @@
+{
+  "query_id": "q003",
+  "query_text": "Garantía o mes de depósito en contrato de arriendo devolución y descuentos",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:02Z",
+  "judgments": [
+    {
+      "chunk_uuid": "abab3f59-f4bd-5bd8-bd60-6e687e6604f5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la devolución de saldos a favor y los reajustes e intereses aplicables, lo cual es tangencial al tema de la devolución de garantías."
+    },
+    {
+      "chunk_uuid": "9146f107-d99e-5dfa-80f6-439a2979b23f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'garantía' y 'depósitos a plazo' en el contexto de cauciones fiscales, pero no aborda la devolución de garantías en arrendamientos."
+    },
+    {
+      "chunk_uuid": "353644f7-20c1-594e-bc7e-f15c79877466",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'fondo de garantía' en el contexto de cuentas de ahorro para arrendamiento con promesa de compraventa, pero no sobre su devolución."
+    },
+    {
+      "chunk_uuid": "8e45de3e-d0d0-5249-bb97-df8b4f00d801",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la cesión de contratos de arriendo y no sobre la devolución de garantías."
+    },
+    {
+      "chunk_uuid": "64ca7107-716a-57c2-932a-53890f44f31f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'boletas o depósitos de garantía' emitidas por bancos, pero no en el contexto de arrendamientos ni su devolución."
+    },
+    {
+      "chunk_uuid": "bfa36be7-82ce-558e-adf9-c551c12760b5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la devolución de crédito fiscal y los requisitos para solicitarla, no sobre garantías de arrendamiento."
+    },
+    {
+      "chunk_uuid": "d38e38b5-afbc-5612-8de0-79c924b07cc3",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute devoluciones y descuentos en el contexto del IVA, no en el de garantías de arrendamiento."
+    },
+    {
+      "chunk_uuid": "a94d9228-f80e-5aff-8b85-6b6320e49895",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a boletas de garantía en el contexto de contratos y gastos necesarios para producir renta, no a arrendamientos."
+    },
+    {
+      "chunk_uuid": "c9d8c3e1-5001-5e77-821b-00e0cb797a0f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre boletas de garantía en el contexto de contratos y gastos necesarios para producir renta, no sobre arrendamientos."
+    },
+    {
+      "chunk_uuid": "555626c0-3e9f-5ab2-bb4c-09e779db7a69",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a depósitos de ahorro previsional voluntario y no a garantías de arrendamiento."
+    },
+    {
+      "chunk_uuid": "8dd79df7-18f8-5672-b56a-5e7f10f73bf4",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre devoluciones de saldos a favor del contribuyente, pero no se relaciona con garantías o depósitos en arriendos."
+    },
+    {
+      "chunk_uuid": "c1b44e57-2448-585c-823b-24c1f0fa3c6c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la devolución de remanentes de crédito fiscal de IVA, no la devolución de garantías en contratos de arriendo."
+    },
+    {
+      "chunk_uuid": "3827af8d-ae69-5320-a6f3-0a652785b558",
+      "relevance_grade": 0,
+      "justification": "Este texto se enfoca en la devolución de pagos provisionales mensuales y no aborda garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "17f4922c-dd15-5ae1-ae56-78fc7fc70d02",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la administración de garantías y los intereses generados, pero en un contexto de ISAPRE, no de arriendos."
+    },
+    {
+      "chunk_uuid": "9a854cbc-bda4-5422-b839-09c392dae604",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la recuperación de remanentes de crédito fiscal de IVA, no a la devolución de garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "42ca0ace-0e26-5274-bc30-a07a1e382693",
+      "relevance_grade": 0,
+      "justification": "Este texto detalla descuentos y rebajas en remuneraciones para ahorro previsional voluntario, sin relación con garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "01938760-d366-5150-b3c2-67962e679864",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la vigencia y devolución de impuestos específicos al petróleo diésel, no sobre garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "d619efd8-60b4-5b60-8cc9-ffdc16284775",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda el tratamiento tributario de arriendos con opción de compra, no la devolución de garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "556a9768-6816-5bd9-8672-1333c91d1a2d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento presenta cálculos de devoluciones de impuestos y límites legales, sin relación con garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "d90c2940-8b33-5f9c-90a6-d799755859d6",
+      "relevance_grade": 1,
+      "justification": "Este texto discute el crédito fiscal por arriendo de inmuebles y el tratamiento de impuestos facturados en exceso, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "7fcf6394-3921-5b1f-9f93-34464b93dbd0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre deducciones de la base imponible del impuesto, no sobre la devolución de garantías."
+    },
+    {
+      "chunk_uuid": "e4b0b3fc-36fb-5fdd-a612-c158dbd9d8a2",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la calificación de actividades como prestación de servicios y no como mero arriendo."
+    },
+    {
+      "chunk_uuid": "740d8a03-7fac-5be2-9a46-5372a5d4cff8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a garantías en el contexto de financiamiento y endeudamiento, no a depósitos de arriendo."
+    },
+    {
+      "chunk_uuid": "d793aa60-b008-5b78-9abb-9d32480f7a03",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona depósitos para garantizar devolución y su posible deducción del débito fiscal."
+    },
+    {
+      "chunk_uuid": "3dd58a4c-696c-5c76-92b8-fa6c1147cda9",
+      "relevance_grade": 1,
+      "justification": "Este fragmento delega facultades sobre contratos de arrendamiento y la ejecución de documentos de garantía."
+    },
+    {
+      "chunk_uuid": "554239b0-8e06-512e-b50a-ad698db77fc9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre descuentos en compraventa de departamentos y la retención de garantías documentales."
+    },
+    {
+      "chunk_uuid": "f294a5c5-d9ab-57db-950b-577c92d2f4b5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a retenciones y multas en contratos de obra pública, no a garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "b95377fb-7311-5a78-94aa-0ab4edbb8375",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre remate de mercaderías pignoradas y el pago de IVA, no sobre garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "2440fb51-15e1-5349-8e22-5ae32e3b8884",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona depósitos constituidos por compradores para garantizar su devolución en el contexto de ventas."
+    },
+    {
+      "chunk_uuid": "00662cb1-8a66-5d5c-8ed4-0672db65ba7f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre notas de crédito por devolución de anticipos en contratos de servicios, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "23417046-f788-52dd-861a-a84737733933",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la devolución de depósitos convenidos y su tributación, no sobre garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "f4213a73-488c-52e4-9e9a-3fe6a4a2ee5c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona boletas de garantía para cumplimiento de contrato, pero no se enfoca en arriendos ni devoluciones."
+    },
+    {
+      "chunk_uuid": "a0bef32d-8033-5741-adae-fe85536975b4",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute contratos de depósito y asesoría, no garantías ni devoluciones en arrendamientos."
+    },
+    {
+      "chunk_uuid": "ba0602bb-0556-5539-8791-c40fe898c54b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza garantías de fiel cumplimiento de contrato y su naturaleza, pero en un contexto artístico, no de arriendo."
+    },
+    {
+      "chunk_uuid": "e1d7c2c4-250a-5204-af60-652cde736bc6",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la restitución de cantidades por bienes devueltos o servicios resciliados, aplicable a arriendos."
+    },
+    {
+      "chunk_uuid": "06476f15-e671-50db-a307-52df04e95a89",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere a un contrato de arriendo y patentes comerciales, pero no aborda garantías ni devoluciones."
+    },
+    {
+      "chunk_uuid": "09879562-fe00-515b-8316-cd98991d093d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona el arrendamiento con promesa de compraventa, pero se enfoca en beneficios tributarios de vivienda nueva."
+    },
+    {
+      "chunk_uuid": "2080bf39-9891-5cd3-aea5-ad25ee8e6d8c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre devoluciones de saldos a favor del contribuyente y reajustes, no sobre garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "3fbe35bd-3f25-5a3e-b187-c466fb842c22",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute notas de crédito por condonación de deudas y su relación con el IVA, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "247b83ff-24af-5732-8301-64d8dae71151",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla instrumentos elegibles como garantía para cierre de faenas mineras, no para arrendamientos."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a modificaciones del Formulario 50 para declaración y pago de impuestos, no a garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute contratos de arriendo con opción de compra y su afectación a IVA, no la devolución de garantías."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la sustitución del Formulario 50, sin relación con la devolución de garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "a62194f7-4f99-50e5-9918-5abd97e59362",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla procedimientos de devolución de impuestos y retenciones, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "cb941e61-182c-5817-93e7-e8502d04d97c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la emisión de notas de crédito por devoluciones y garantías, pero no específicamente de arriendo."
+    },
+    {
+      "chunk_uuid": "8d4d49ad-2cf9-5545-9958-72128bc4f788",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de Impuesto de Timbres y Estampillas para garantías, no sobre depósitos de arriendo."
+    },
+    {
+      "chunk_uuid": "0b2bf44a-5912-5265-a2e6-48f643835f79",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la valoración de cuotas de fondos de pensiones, sin relación con arriendos."
+    },
+    {
+      "chunk_uuid": "82161ff8-fbf0-505c-bc96-023abaedb98f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la devolución de fianzas y depósitos en procesos penales, no en arriendos."
+    },
+    {
+      "chunk_uuid": "dbc0b660-a3a1-5f3e-b091-257b527ddcb8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla la devolución de crédito fiscal IVA a pequeños productores agrícolas, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "14d4b86a-d921-56e7-9248-1b9b49beaea0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento explica el reajuste y devolución de remanentes de pagos provisionales, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "03c97c15-b28f-5462-b0c8-6baca74fb302",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la devolución de créditos fiscales del IVA, no sobre garantías o depósitos en arriendos."
+    },
+    {
+      "chunk_uuid": "d890c436-a134-5df0-954c-c04d9153a5fe",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la devolución de excesos de pagos provisionales de impuestos a la renta, no a arriendos."
+    },
+    {
+      "chunk_uuid": "a2dd27ba-f936-50cb-86db-9c5ff11b2ac6",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre el descuento de impuestos de segunda categoría sobre remuneraciones, no sobre garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "c48acb45-34e5-5e83-96f1-fa45da0081e0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la recuperación de créditos fiscales para exportadores, no en depósitos de arriendo."
+    },
+    {
+      "chunk_uuid": "d34ced7b-0c22-51ed-b415-bfec94807448",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla la entrega de información de saldos y abonos de productos financieros, no sobre arriendos."
+    },
+    {
+      "chunk_uuid": "109078e1-1091-56ad-af52-e9be54418bad",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la devolución de impuestos pagados en exceso o por error, no garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "896bd96b-40d5-5b16-ab12-4e7019c0e5fc",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la tributación de arriendos con opción de compra, no directamente la devolución de garantías."
+    },
+    {
+      "chunk_uuid": "fa318389-7d91-5f1d-942c-ce8d63662143",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre notas de crédito y devoluciones de IVA en exportaciones, no sobre garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "61d73d26-c93c-5a7e-a344-caa503c32e47",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en exenciones de IVA para viviendas financiadas con subsidios, no en garantías de arriendo."
+    },
+    {
+      "chunk_uuid": "3887bda5-7339-5389-a4b0-b1d50b25f60c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el tratamiento tributario de boletas de garantía cobradas por incumplimiento contractual, no directamente la devolución de depósitos de arriendo."
+    },
+    {
+      "chunk_uuid": "cfa638d4-6aeb-5837-b148-aa610c7471db",
+      "relevance_grade": 1,
+      "justification": "Aborda el tratamiento tributario de boletas de garantía como gasto necesario o rechazado, pero no la devolución de depósitos de arriendo."
+    },
+    {
+      "chunk_uuid": "266b19b4-e097-5efd-8e56-6f55e9d56b3c",
+      "relevance_grade": 0,
+      "justification": "Este artículo regula garantías en promesas de compraventa, no la devolución de depósitos en contratos de arriendo."
+    },
+    {
+      "chunk_uuid": "169b6668-1d08-516d-94c1-7cde5cac0e49",
+      "relevance_grade": 0,
+      "justification": "Trata sobre la deducción de gastos de arriendo en contratos de leasing, no sobre la devolución de depósitos de garantía."
+    },
+    {
+      "chunk_uuid": "35639a88-7c58-5a1a-8ead-b749ab0a22a5",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a la cesión de contratos de arriendo y la renta generada, no a la devolución de depósitos."
+    },
+    {
+      "chunk_uuid": "3e325f23-c2df-532e-b1da-38f1f73e9ea3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el concepto de 'deducible' en contratos de arriendo de vehículos y su relación con garantías."
+    },
+    {
+      "chunk_uuid": "d492feee-5f0d-5b2d-8bfb-8fca20392c89",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el contrato de leasing y su asimilación al arrendamiento, pero no aborda la devolución de garantías."
+    }
+  ]
+}

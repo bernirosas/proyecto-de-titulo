@@ -1,0 +1,213 @@
+{
+  "query_id": "q005",
+  "query_text": "Arriendo con promesa de compraventa derechos del arrendatario",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:05Z",
+  "judgments": [
+    {
+      "chunk_uuid": "d619efd8-60b4-5b60-8cc9-ffdc16284775",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el tratamiento tributario del IVA en contratos de arriendo con promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+      "relevance_grade": 2,
+      "justification": "Explica la naturaleza de los contratos de arriendo con promesa de compraventa y su tratamiento tributario."
+    },
+    {
+      "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+      "relevance_grade": 2,
+      "justification": "Detalla el funcionamiento de la Ley N° 19.281 y la finalidad de transferencia del bien inmueble."
+    },
+    {
+      "chunk_uuid": "850cff40-8b14-5bd8-9827-734d26c3030e",
+      "relevance_grade": 1,
+      "justification": "Aborda la cesión de arriendo y opción de compra en leasing, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "efaaa668-fb54-5b92-be40-c75bbf768027",
+      "relevance_grade": 1,
+      "justification": "Explica la naturaleza jurídica de los patrimonios separados de las sociedades securitizadoras."
+    },
+    {
+      "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+      "relevance_grade": 2,
+      "justification": "Aclara que el contrato de arriendo con promesa de compraventa no es un hecho gravado especial con IVA."
+    },
+    {
+      "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+      "relevance_grade": 2,
+      "justification": "Explica la aplicación del artículo 6° transitorio de la Ley N° 20.780 a contratos de promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+      "relevance_grade": 2,
+      "justification": "Trata el tratamiento tributario de la cesión de contratos de promesa de compraventa sobre inmuebles."
+    },
+    {
+      "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+      "relevance_grade": 2,
+      "justification": "Establece que los contratos de arriendo con promesa de compraventa no son un hecho gravado con IVA."
+    },
+    {
+      "chunk_uuid": "b7651ffd-85fd-5868-891b-1a276c9003d9",
+      "relevance_grade": 1,
+      "justification": "Detalla la exención de IVA para contratos de arriendo con opción de compra financiados con subsidio habitacional."
+    },
+    {
+      "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la finalidad de la Ley N° 19.281 y la calidad de vendedor de las sociedades inmobiliarias en arrendamientos con promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "27086754-bb8a-57c8-a403-885f27c39701",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda directamente el tratamiento tributario de la cesión de derechos de un arrendatario en un contrato con opción de compra."
+    },
+    {
+      "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+      "relevance_grade": 2,
+      "justification": "Este fragmento diferencia entre arrendamiento con opción de compra y arrendamiento con promesa de compraventa, y su tratamiento tributario."
+    },
+    {
+      "chunk_uuid": "3080c35c-b889-548c-b1c5-da43f9b2c91e",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza el tratamiento tributario de la enajenación de inmuebles adquiridos mediante promesa de compraventa seguida de compraventa definitiva."
+    },
+    {
+      "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica que la cesión de un contrato de promesa de compraventa es un contrato principal y su tratamiento tributario."
+    },
+    {
+      "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza la aplicación de exenciones de IVA en la venta de viviendas arrendadas con promesa de compraventa a empresas securitizadoras."
+    },
+    {
+      "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla el tratamiento del IVA en la transferencia de inmuebles por sociedades securitizadoras en contratos de arrendamiento con promesa de venta."
+    },
+    {
+      "chunk_uuid": "d71b0157-3143-5757-823c-7dcb972ddcc6",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la oportunidad de reconocimiento tributario del anticipo del valor de opción de compra en contratos de leasing inmobiliario."
+    },
+    {
+      "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la finalidad de la Ley N° 19.281 y la obligación de las sociedades inmobiliarias en arrendamientos con promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "4dad6027-ed9c-5510-96b1-5db45fbce45d",
+      "relevance_grade": 1,
+      "justification": "Este oficio consulta sobre el cumplimiento de requisitos para un beneficio de crédito por compra de viviendas nuevas mediante promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "18f3e7fb-57df-5e5a-91d5-399c4b373d0a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el arrendamiento con promesa de compraventa y su tratamiento tributario, incluyendo deducciones de terreno."
+    },
+    {
+      "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+      "relevance_grade": 2,
+      "justification": "Explica el contexto de los contratos de arrendamiento con promesa de compraventa y su securitización, relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+      "relevance_grade": 2,
+      "justification": "Distingue entre arrendamiento con opción de compra y promesa de compraventa, y su tratamiento de IVA."
+    },
+    {
+      "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+      "relevance_grade": 2,
+      "justification": "Aborda el tratamiento del IVA en pagos previos y la transferencia de inmuebles en contratos de arrendamiento con promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "701be697-97b3-5a0c-94dc-70456cc240d7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es irrelevante ya que trata sobre pertenencias mineras y no sobre arrendamientos con promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "e229fe3d-fee0-50cc-b15f-2c572ab6a6d6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es irrelevante ya que trata sobre arrendamiento de predios con ganados y no sobre la consulta."
+    },
+    {
+      "chunk_uuid": "9784ea63-b600-502b-8877-ceac57c8bc51",
+      "relevance_grade": 1,
+      "justification": "Este fragmento es marginalmente relevante al mencionar el arrendamiento de inmuebles amoblados, pero no la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "44f88055-670a-5fd9-98f1-7a8f3471f899",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es irrelevante ya que trata sobre un empresario individual arrendándose a sí mismo y no sobre la consulta."
+    },
+    {
+      "chunk_uuid": "d4ff9559-13f8-584a-9a85-290c64b18bb3",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es irrelevante ya que trata sobre crédito fiscal por bienes nuevos en arrendamiento con opción de compra."
+    },
+    {
+      "chunk_uuid": "da011916-3739-5c67-b19f-465b435f5a9b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es irrelevante ya que trata sobre arrendamiento de inmuebles de iglesias y no sobre la consulta."
+    },
+    {
+      "chunk_uuid": "731eb7bb-2ce1-577e-a0ae-de4d3d17e700",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda el arrendamiento de inmuebles y su afectación a impuestos, pero no la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "929f7b61-7af6-58f1-8427-27eaefed3393",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute el arrendamiento de inmuebles y su gravamen con IVA, pero no la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "bf03b920-fb16-5bd4-b2b9-cb7a6a400f29",
+      "relevance_grade": 1,
+      "justification": "Este oficio trata sobre el IVA en arrendamiento de módulos, pero no menciona la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "1bd91d19-09c7-513d-b0ee-37c09886f7b7",
+      "relevance_grade": 1,
+      "justification": "Este oficio analiza el IVA en arrendamiento de locales comerciales, sin abordar la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "e080fbad-177b-54be-8751-4b40e035cf38",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute el IVA en arrendamiento de inmuebles, pero no la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "0fcfb942-0378-5d67-aa37-2d9a84f0ead5",
+      "relevance_grade": 2,
+      "justification": "El fragmento distingue entre arrendamiento con promesa de compraventa y opción de compra, abordando la consulta."
+    },
+    {
+      "chunk_uuid": "492319ab-1fef-5a90-8ab1-9a5b389f58d5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en el cálculo del IVA y la aplicación de rebajas, mencionando el arriendo con opción de compra."
+    },
+    {
+      "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el arrendamiento con promesa de compraventa y su tratamiento tributario, mencionando la Ley N° 19.281."
+    },
+    {
+      "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+      "relevance_grade": 2,
+      "justification": "Explica que las promesas de compraventa de inmuebles no están gravadas con IVA y cómo se tratan los anticipos de precio."
+    },
+    {
+      "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+      "relevance_grade": 2,
+      "justification": "Distingue el arrendamiento con promesa de compraventa del leasing y aclara la tributación en IVA de ambos contratos."
+    },
+    {
+      "chunk_uuid": "35925668-d7f6-5269-afe4-1a48acd05e93",
+      "relevance_grade": 2,
+      "justification": "Define el contrato de arrendamiento con opción de compra y su exención de impuestos de la Ley de la Renta."
+    }
+  ]
+}

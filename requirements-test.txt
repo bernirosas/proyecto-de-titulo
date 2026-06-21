@@ -1,0 +1,16 @@
+# Dependencias mínimas para correr la suite de tests unitarios.
+# Excluímos a propósito spaCy, NLTK, transformers y torch — esas se stubean
+# en tests/conftest.py para que el CI quede liviano (~30s de instalación
+# vs varios minutos con las deps pesadas).
+
+pytest>=8
+pytest-cov>=5
+
+# Necesarias porque son imports de módulos top-level del proyecto:
+#   - pydantic + fastapi : scripts/api.py los importa al cargar
+#   - opensearch-py      : src/clients.py
+#   - qdrant-client      : src/clients.py
+pydantic>=2
+fastapi>=0.115
+opensearch-py>=2.7
+qdrant-client>=1.12

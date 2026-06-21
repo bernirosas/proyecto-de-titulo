@@ -1,0 +1,158 @@
+{
+  "query_id": "q014",
+  "query_text": "Avalúo fiscal y reavalúo de condominios acogidos a la ley de copropiedad inmobiliaria",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:15Z",
+  "judgments": [
+    {
+      "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica el uso de formularios para el cálculo del avalúo fiscal en condominios acogidos a la ley de copropiedad inmobiliaria."
+    },
+    {
+      "chunk_uuid": "ca53d682-4c14-5e52-a72d-8e348b21a07a",
+      "relevance_grade": 1,
+      "justification": "Este fragmento describe los certificados de avalúo fiscal y su emisión, pero no se enfoca en condominios específicamente."
+    },
+    {
+      "chunk_uuid": "b70974c7-9a0f-5b0b-8fb1-023aeb97a7e8",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el cálculo de avalúos fiscales en condominios con destinos mixtos y la aplicación de normativas específicas."
+    },
+    {
+      "chunk_uuid": "001c8c50-b9be-516e-a86b-6bca082cdaa9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento define actos judiciales no contenciosos y no tiene relación con avalúos fiscales de condominios."
+    },
+    {
+      "chunk_uuid": "00045cfe-6533-59b7-8c42-e4b5b3814834",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre un reclamo contra una resolución del SII que incluyó un bien raíz en una serie específica, afectando su avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "1344a676-faef-5935-af71-28b16f59f7fd",
+      "relevance_grade": 2,
+      "justification": "Explica el procedimiento y los formularios para el cálculo del avalúo fiscal de condominios acogidos a la ley de copropiedad inmobiliaria."
+    },
+    {
+      "chunk_uuid": "90fe9597-6c2c-56d8-bb8b-c3449c80d9d8",
+      "relevance_grade": 2,
+      "justification": "Detalla los formularios y el proceso de solicitud de antecedentes previos para el avalúo fiscal de condominios."
+    },
+    {
+      "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+      "relevance_grade": 2,
+      "justification": "Informa sobre la nueva aplicación web para el cálculo del avalúo fiscal de unidades en condominios acogidos a la ley."
+    },
+    {
+      "chunk_uuid": "25446216-155f-56d5-933a-1adb45d88bf2",
+      "relevance_grade": 2,
+      "justification": "Describe el cálculo del avalúo fiscal de unidades en condominios, diferenciando entre tipo A y B."
+    },
+    {
+      "chunk_uuid": "000747e9-ec82-5966-be30-5b364cfe946d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en el arrendamiento de estacionamientos, no sobre avalúos fiscales de condominios."
+    },
+    {
+      "chunk_uuid": "7be76a13-ef2f-57e6-9e47-ad61a1242768",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos a la Ley de Copropiedad Inmobiliaria."
+    },
+    {
+      "chunk_uuid": "bd060eb0-4932-50f4-bae3-2effd884a906",
+      "relevance_grade": 2,
+      "justification": "Detalla los formularios y procedimientos para el cálculo del avalúo fiscal de edificaciones y terrenos en condominios tipo A y B."
+    },
+    {
+      "chunk_uuid": "086157c9-72b3-5eb7-a20f-1b7ceca35020",
+      "relevance_grade": 2,
+      "justification": "Complementa la Circular N° 33 sobre el avalúo fiscal de bienes raíces en copropiedad, abordando modificaciones legales."
+    },
+    {
+      "chunk_uuid": "6a19e616-9675-577d-ae19-17e4660e4d0a",
+      "relevance_grade": 2,
+      "justification": "Aborda la aplicación de exenciones de impuesto territorial a copropiedades inmobiliarias y la rebaja de avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "0007b6c4-2089-5181-ba11-c4b0a66794a3",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la determinación de la base imponible del impuesto de primera categoría y corrección monetaria."
+    },
+    {
+      "chunk_uuid": "2633906a-0ca0-54b4-95d0-54f3b60fc712",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica los formularios y procedimientos para el cálculo del avalúo fiscal en condominios tipo A y B."
+    },
+    {
+      "chunk_uuid": "dfa72c88-f1ee-5afe-ad6c-93f35907e8aa",
+      "relevance_grade": 2,
+      "justification": "Detalla formularios y procedimientos para el cálculo del avalúo fiscal en condominios tipo A y B, incluyendo densificación predial."
+    },
+    {
+      "chunk_uuid": "00099a1e-28cd-5542-bcba-cf6d4f8b02ea",
+      "relevance_grade": 0,
+      "justification": "Este fragmento de jurisprudencia trata sobre la deducibilidad de gastos y no aborda el avalúo fiscal de condominios."
+    },
+    {
+      "chunk_uuid": "0f70655f-68c8-5715-9578-6dcf6218d36d",
+      "relevance_grade": 2,
+      "justification": "Explica el procedimiento y formularios para el cálculo del avalúo fiscal de unidades en condominios acogidos a la ley."
+    },
+    {
+      "chunk_uuid": "000a732d-db9d-50fd-a73e-0ee9a9328840",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la prueba en materia de inversiones y gastos, no sobre avalúos fiscales de condominios."
+    },
+    {
+      "chunk_uuid": "69dc7412-fe12-56f3-9119-7ccb22cba95d",
+      "relevance_grade": 2,
+      "justification": "Explica el procedimiento para determinar el avalúo fiscal de cada unidad en condominios acogidos a la Ley de Copropiedad Inmobiliaria."
+    },
+    {
+      "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+      "relevance_grade": 2,
+      "justification": "Reemplaza el procedimiento para determinar el avalúo fiscal de bienes raíces acogidos a la Ley de Copropiedad Inmobiliaria."
+    },
+    {
+      "chunk_uuid": "3fcf8a97-a328-542a-ad39-6395c9782cdb",
+      "relevance_grade": 2,
+      "justification": "Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos a la Ley de Copropiedad Inmobiliaria."
+    },
+    {
+      "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+      "relevance_grade": 2,
+      "justification": "Reemplaza circulares anteriores y actualiza el procedimiento para el avalúo fiscal de condominios bajo la Ley de Copropiedad."
+    },
+    {
+      "chunk_uuid": "0004b1dd-0d5b-5b21-a4b9-bab488556ac5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exhumaciones y no tiene relación con avalúos fiscales de condominios."
+    },
+    {
+      "chunk_uuid": "2cb7502a-0650-5323-84c4-3f13c15314b5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica cómo calcular el avalúo fiscal de unidades en condominios y sus derechos sobre bienes comunes."
+    },
+    {
+      "chunk_uuid": "4d0b0bde-6532-5c4d-9801-4a17a2f363a0",
+      "relevance_grade": 2,
+      "justification": "Detalla instrucciones para el cálculo del avalúo fiscal de unidades en condominios acogidos a la Ley de Copropiedad Inmobiliaria."
+    },
+    {
+      "chunk_uuid": "9191f6c7-dc48-546c-851a-d3bd5f564572",
+      "relevance_grade": 2,
+      "justification": "Describe los formularios y el proceso para declarar el avalúo fiscal de cada unidad en condominios."
+    },
+    {
+      "chunk_uuid": "c9884b17-a1b1-5c9f-b86c-ef437465fdab",
+      "relevance_grade": 2,
+      "justification": "Explica el uso de formularios para el cálculo del avalúo fiscal de unidades en condominios y los antecedentes requeridos."
+    },
+    {
+      "chunk_uuid": "06f6b89c-8e59-5928-beaf-265fdf6c48bf",
+      "relevance_grade": 2,
+      "justification": "Proporciona instrucciones para el cálculo del avalúo fiscal de unidades en condominios y los pasos para determinarlo."
+    }
+  ]
+}

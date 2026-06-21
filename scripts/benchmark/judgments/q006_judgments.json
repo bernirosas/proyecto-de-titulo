@@ -1,0 +1,268 @@
+{
+  "query_id": "q006",
+  "query_text": "Requisitos y solemnidades de la escritura pública en la compraventa de bienes raíces",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:06Z",
+  "judgments": [
+    {
+      "chunk_uuid": "94146c7e-e595-588c-b2e4-631a93b111b1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la escritura pública de compraventa como fecha relevante para la emisión de facturas y el derecho a crédito fiscal."
+    },
+    {
+      "chunk_uuid": "0184cdb2-71b2-50bc-a457-58532f4e93c7",
+      "relevance_grade": 2,
+      "justification": "El texto aborda la necesidad de que la escritura pública de compraventa contenga menciones específicas para acceder a beneficios tributarios."
+    },
+    {
+      "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la tributación del mayor valor en la enajenación de bienes raíces, mencionando la Ley de la Renta y la habitualidad."
+    },
+    {
+      "chunk_uuid": "f63c237a-cac4-594f-9426-afd256c21d6e",
+      "relevance_grade": 1,
+      "justification": "El texto se refiere a la declaración jurada de bienes raíces destinados a giro comercial y su relación con el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "0cfb800e-00ab-5f06-8deb-2ce88d97f5ef",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la tasación de bienes raíces fiscales y municipales y su relación con el impuesto territorial."
+    },
+    {
+      "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la habitualidad en la compraventa de bienes raíces, no los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "d36385cd-4713-5e7a-a18a-ce15b42f1600",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la escritura pública como requisito para la formación y prueba de sociedades anónimas, no para compraventa de bienes raíces."
+    },
+    {
+      "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que la compraventa de bienes raíces requiere escritura pública como solemnidad para perfeccionarse."
+    },
+    {
+      "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento indica que la transferencia de dominio de bienes raíces se efectúa por inscripción del título, que es la escritura pública."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre contratos de arrendamiento y tributación, no sobre requisitos de escritura pública en compraventa."
+    },
+    {
+      "chunk_uuid": "726aad0e-145c-59cd-88d7-591baf71b782",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la necesidad de escrituras públicas para la adquisición de bienes inmuebles financiados con donaciones."
+    },
+    {
+      "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la habitualidad en la enajenación de bienes raíces, un aspecto relevante para la compraventa."
+    },
+    {
+      "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación del mayor valor en la enajenación de bienes raíces fusionados, no los requisitos de la escritura."
+    },
+    {
+      "chunk_uuid": "d8702cb9-b00c-540f-aae6-3283ec70d43a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento establece que la adjudicación de bienes raíces debe reducirse a escritura pública para su inscripción."
+    },
+    {
+      "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la fecha de adquisición y enajenación de bienes raíces, vinculada a la inscripción registral."
+    },
+    {
+      "chunk_uuid": "1b8ceeeb-fcee-51f3-a86f-49a8f22ddfe5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la necesidad de una escritura pública para acuerdos en comunidades, pero no aborda la compraventa de bienes raíces."
+    },
+    {
+      "chunk_uuid": "0bf34689-3ef9-5ed1-92a6-e40c943ca251",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tasación de bienes raíces fiscales y municipales, no en los requisitos de la escritura pública de compraventa."
+    },
+    {
+      "chunk_uuid": "8b01231f-ed02-5b81-80d9-ba6152eb998c",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute el tratamiento tributario de la venta de bienes raíces y la presunción de habitualidad, sin detallar requisitos de escritura pública."
+    },
+    {
+      "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda el tratamiento tributario del mayor valor en la enajenación de bienes raíces fusionados, no los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la presunción de habitualidad en la venta de bienes raíces y la inscripción de títulos, no los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "4af40f72-1d04-5afb-8f33-4136c49fca35",
+      "relevance_grade": 0,
+      "justification": "Este fragmento menciona la escritura pública en el contexto de fusiones societarias, no de compraventa de bienes raíces."
+    },
+    {
+      "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona que las ventas de bienes raíces requieren escritura pública según el Código Civil, respondiendo parcialmente a la consulta."
+    },
+    {
+      "chunk_uuid": "c162c481-547d-581e-9f70-77c58e2aa59f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'Escrituras Públicas de Compraventa de Bienes Raíces' como un tipo de documento, pero no detalla requisitos ni solemnidades."
+    },
+    {
+      "chunk_uuid": "6029a465-fe74-55fa-a99f-aca6e0070f09",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define qué es una escritura pública y menciona las solemnidades legales, siendo altamente relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "9d40c05d-1e97-51f7-a309-fceb503843f7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre concesiones municipales y su régimen tributario, sin abordar la compraventa de bienes raíces."
+    },
+    {
+      "chunk_uuid": "7538719c-610e-5fe1-af17-e28a332e895c",
+      "relevance_grade": 2,
+      "justification": "Menciona la escritura pública como solemnidad para la compraventa, pero se enfoca en la promesa y beneficios tributarios."
+    },
+    {
+      "chunk_uuid": "5f7b3e0d-8a4c-5693-ba6e-9806e963f679",
+      "relevance_grade": 3,
+      "justification": "Explica que la falta de instrumento público (escritura pública) en la compraventa de bienes raíces impide su perfeccionamiento."
+    },
+    {
+      "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+      "relevance_grade": 1,
+      "justification": "Se refiere a la inscripción de la escritura pública en el Conservador de Bienes Raíces, pero no a sus requisitos."
+    },
+    {
+      "chunk_uuid": "a13b5809-5662-5b28-b9ff-44739621dea2",
+      "relevance_grade": 1,
+      "justification": "Menciona la adquisición de bienes raíces, pero se centra en la tributación y no en los requisitos de la escritura."
+    },
+    {
+      "chunk_uuid": "c6e718d1-08c3-5755-ac37-87aac5ef125e",
+      "relevance_grade": 1,
+      "justification": "Discute la tributación de la enajenación de bienes raíces, sin detallar los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "abe0e09a-e845-5599-ad3d-b830f8205dcd",
+      "relevance_grade": 2,
+      "justification": "Define la promesa de compraventa y la compraventa, mencionando el Código Civil y la tradición de bienes raíces."
+    },
+    {
+      "chunk_uuid": "fd2c0cd9-fac2-5236-99f6-c3c2fe2b43bb",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la tributación de bienes raíces agrícolas y no aborda los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+      "relevance_grade": 2,
+      "justification": "Menciona la escritura pública de compraventa como requisito para acceder a un crédito tributario, pero no detalla sus solemnidades."
+    },
+    {
+      "chunk_uuid": "f269980d-ff15-5b00-a96f-21afdc2235b8",
+      "relevance_grade": 3,
+      "justification": "Explica la falta de instrumento público exigido como solemnidad en la compraventa de bienes raíces, lo que impide su perfeccionamiento."
+    },
+    {
+      "chunk_uuid": "d3018d7c-f75c-553d-9ff5-01b89ced015a",
+      "relevance_grade": 1,
+      "justification": "Menciona la escritura pública para perfeccionar una compraventa derivada de un contrato de leasing, pero no detalla requisitos."
+    },
+    {
+      "chunk_uuid": "26467ad0-4e36-54a3-8014-9f83fbfeae04",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la habitualidad y tributación de la enajenación de bienes raíces, no en los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la solemnidad de la escritura pública para la perfección de la compraventa de bienes raíces, respondiendo parcialmente a la consulta."
+    },
+    {
+      "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la escritura pública y el instrumento privado protocolizado como requisitos para la promesa de compraventa, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "cfe0d7c8-ae39-522a-b99a-ca7df6e20d79",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la escritura pública en el contexto de la formación y disolución de sociedades, no en la compraventa de bienes raíces."
+    },
+    {
+      "chunk_uuid": "5bee4091-701e-528e-9a3e-5cc21e211e41",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la enajenación de bienes raíces y costos tributarios, sin abordar los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "c8855817-9974-5ee8-9105-3cac501d0b34",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el crédito por contribuciones de bienes raíces y no sobre los requisitos de la escritura pública."
+    },
+    {
+      "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento menciona explícitamente la compraventa de bienes raíces como un acto que requiere escritura pública."
+    },
+    {
+      "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que la compraventa de bienes raíces requiere escritura pública para su perfeccionamiento."
+    },
+    {
+      "chunk_uuid": "64da18af-f3dc-5698-8a5f-480ce9cbdfdd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del mayor valor en la enajenación de bienes raíces, no en las solemnidades."
+    },
+    {
+      "chunk_uuid": "4dad6027-ed9c-5510-96b1-5db45fbce45d",
+      "relevance_grade": 2,
+      "justification": "El fragmento menciona la escritura pública como requisito para la promesa de compraventa, pero no detalla las solemnidades de la escritura pública en sí."
+    },
+    {
+      "chunk_uuid": "07756b54-1988-58c5-b0da-e48c7accd70b",
+      "relevance_grade": 0,
+      "justification": "El fragmento menciona 'escritura pública' en el contexto de la separación de bienes y liquidación de sociedad conyugal, pero no aborda la compraventa de bienes raíces."
+    },
+    {
+      "chunk_uuid": "7e1807a2-758e-5253-8cac-79e911701df5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla requisitos específicos para notarios y conservadores al otorgar escrituras públicas de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "bba74564-912e-5b08-b209-651eb8d241d9",
+      "relevance_grade": 2,
+      "justification": "Menciona la necesidad de escritura pública o instrumento privado protocolizado para contratos de promesa de venta de inmuebles."
+    },
+    {
+      "chunk_uuid": "b4e6b89d-36f2-5b52-92e6-139f4c110fe8",
+      "relevance_grade": 2,
+      "justification": "Aborda la escritura pública de compraventa en el contexto de remates judiciales y su inscripción, incluyendo formatos electrónicos."
+    },
+    {
+      "chunk_uuid": "87f36fcd-b663-5fb0-9108-6bd9bf3cf565",
+      "relevance_grade": 3,
+      "justification": "Establece que la venta de bienes raíces requiere escritura pública para considerarse perfecta ante la ley."
+    },
+    {
+      "chunk_uuid": "a2819a1b-5eff-538d-8a69-d1ee74ce3f31",
+      "relevance_grade": 1,
+      "justification": "Se refiere a la necesidad de constancia expresa en la escritura pública para acogerse a beneficios tributarios."
+    },
+    {
+      "chunk_uuid": "fa1e85a5-2a32-563c-b06a-9b589e39372c",
+      "relevance_grade": 2,
+      "justification": "El fragmento detalla información requerida para el registro de compraventas, incluyendo la fecha y naturaleza de la escritura."
+    }
+  ]
+}

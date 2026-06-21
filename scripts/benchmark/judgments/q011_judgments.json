@@ -1,0 +1,298 @@
+{
+  "query_id": "q011",
+  "query_text": "IVA en el arriendo de espacios o bienes comunes de un edificio acogido a copropiedad",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:11Z",
+  "judgments": [
+    {
+      "chunk_uuid": "3cab1018-2daf-5b37-8fd0-0d7e63923147",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la aplicación del IVA al arrendamiento de bodegas con instalaciones y bienes comunes."
+    },
+    {
+      "chunk_uuid": "1790c0d2-a8b4-529d-adea-831ced53c847",
+      "relevance_grade": 2,
+      "justification": "Aborda el IVA en arriendos de locales no amoblados y menciona explícitamente que servicios comunes no gravan."
+    },
+    {
+      "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+      "relevance_grade": 2,
+      "justification": "Analiza el IVA en prestaciones de comunidades de copropietarios, como el arriendo de máquinas de lavar."
+    },
+    {
+      "chunk_uuid": "bdc271e5-e1f3-56f9-946c-b748eff3d9e9",
+      "relevance_grade": 1,
+      "justification": "Menciona exenciones del IVA en contratos de arriendo con opción de compra de bienes inmuebles."
+    },
+    {
+      "chunk_uuid": "d6971f98-a436-5812-ac71-198cb08ea956",
+      "relevance_grade": 3,
+      "justification": "Trata sobre un arriendo de espacios comunes y su renta con IVA, en un contexto de fiscalización."
+    },
+    {
+      "chunk_uuid": "6a19e616-9675-577d-ae19-17e4660e4d0a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la exención de impuesto territorial para copropiedades, no el IVA en arriendos de bienes comunes."
+    },
+    {
+      "chunk_uuid": "89c733d4-7b67-533e-b179-0737408a0d7e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tasación de bienes comunes y unidades, no en el IVA de arriendos."
+    },
+    {
+      "chunk_uuid": "9c0861a0-fd86-5579-b3e8-33c652a6f825",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el avalúo fiscal de bienes raíces en copropiedad, no sobre el IVA de arriendos."
+    },
+    {
+      "chunk_uuid": "2ed0a414-625f-5380-909a-d184a673b201",
+      "relevance_grade": 0,
+      "justification": "Este fragmento instruye a conservadores sobre la remisión de reglamentos de copropiedad, sin relación con el IVA."
+    },
+    {
+      "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza la tributación de ingresos por arriendo de espacios comunes, incluyendo el Impuesto de Primera Categoría."
+    },
+    {
+      "chunk_uuid": "d93cfad7-35b1-5269-9358-b280c01d8d8f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica el régimen de copropiedad inmobiliaria y la determinación del avalúo fiscal, pero no aborda el IVA en arriendos de bienes comunes."
+    },
+    {
+      "chunk_uuid": "060184b2-9fc1-5806-bbc8-6df7f1456a5c",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute el IVA en el arriendo de boxes de estacionamiento, mencionando copropiedad y gastos comunes, pero no se enfoca en bienes comunes."
+    },
+    {
+      "chunk_uuid": "000a7749-71f6-588d-90b6-83911a31e0e7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es una sentencia judicial que detalla documentos contables y tributarios, sin relación directa con el IVA en arriendos de bienes comunes."
+    },
+    {
+      "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+      "relevance_grade": 3,
+      "justification": "Este oficio establece explícitamente que el cobro a copropietarios por uso de bienes comunes para estacionamiento no está gravado con IVA."
+    },
+    {
+      "chunk_uuid": "366106f6-4fdd-5d67-83b7-ec6aba601011",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata exenciones de IVA en arriendos de inmuebles con opción de compra, pero no aborda específicamente bienes comunes de copropiedad."
+    },
+    {
+      "chunk_uuid": "d52e0071-9995-5894-8114-ebda6eb14a69",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza la aplicación del IVA al arrendamiento de espacios en centros comerciales, abordando la naturaleza de los bienes arrendados."
+    },
+    {
+      "chunk_uuid": "579d2396-70d9-5fe8-a9b6-fecbd3e69a4b",
+      "relevance_grade": 2,
+      "justification": "Este oficio indica que si una comunidad arrienda espacios comunes, puede ser contribuyente de Primera Categoría y estar afecta a impuestos."
+    },
+    {
+      "chunk_uuid": "b68dd558-9297-5148-9b72-b3906453fc4f",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute el tratamiento tributario de bienes comunes en comunidades, pero no aborda directamente el IVA por su arriendo."
+    },
+    {
+      "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+      "relevance_grade": 2,
+      "justification": "Este oficio explica que una comunidad que arrienda espacios comunes puede ser contribuyente de Primera Categoría y sus obligaciones tributarias."
+    },
+    {
+      "chunk_uuid": "384a9c3a-d1d4-506f-9e95-9cbeed41b96c",
+      "relevance_grade": 1,
+      "justification": "Esta jurisprudencia trata sobre avalúos de bienes comunes y su asignación, pero no sobre el IVA del arriendo de estos."
+    },
+    {
+      "chunk_uuid": "2a54ada0-19a8-570c-8af3-b030cffd1591",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el IVA en arriendos con opción de compra y promesas de venta, no en arriendo de bienes comunes."
+    },
+    {
+      "chunk_uuid": "cd23fcb9-45de-546a-9ecf-e833a5b46ceb",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre el IVA en ventas a través de 'concept stores' y arriendo de espacios, pero no específicamente bienes comunes de edificios."
+    },
+    {
+      "chunk_uuid": "eedd130e-22be-5d61-a9fb-36ee8a32807b",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente el IVA en el arriendo de espacios comunes de un condominio, respondiendo la consulta."
+    },
+    {
+      "chunk_uuid": "9c8bd8e8-3586-52fa-96d0-9a07b4e16bfb",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza el IVA en arrendamiento de inmuebles dentro de un complejo, incluyendo instalaciones, pero no se enfoca en bienes comunes de copropiedad."
+    },
+    {
+      "chunk_uuid": "c14d48bb-e519-5bc0-bc23-a5199ae409eb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el IVA en la venta de inmuebles construidos y urbanizaciones, no en el arriendo de bienes comunes."
+    },
+    {
+      "chunk_uuid": "00056031-7cda-5b90-8f0d-4b43b5c953dd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la designación de árbitros y no tiene relación con la consulta sobre IVA en arriendos."
+    },
+    {
+      "chunk_uuid": "8b92f691-3d91-513b-8350-c520fe5e37f0",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda la tributación de ingresos extras de condominios, incluyendo explícitamente el arriendo de espacios comunes y la consulta sobre IVA."
+    },
+    {
+      "chunk_uuid": "efd18b7a-799e-5d30-a8d5-bcd74394469c",
+      "relevance_grade": 2,
+      "justification": "Este oficio se refiere a la aplicación de IVA en servicios relacionados con arrendamiento de inmuebles, pero no específicamente a bienes comunes."
+    },
+    {
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre convenios de coordinación para regularización de títulos de dominio y avalúos, sin relación con el IVA en arriendos."
+    },
+    {
+      "chunk_uuid": "0007b6c4-2089-5181-ba11-c4b0a66794a3",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la corrección monetaria de activos y la determinación del Impuesto de Primera Categoría, no en el IVA de arriendos."
+    },
+    {
+      "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la tributación de rentas de comunidades, incluyendo arriendos, pero no se enfoca específicamente en bienes comunes."
+    },
+    {
+      "chunk_uuid": "62f5afdb-bd83-5dbd-bea7-0b781fee66be",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la proporcionalidad del crédito fiscal IVA en bienes y servicios de uso común, relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "000747e9-ec82-5966-be30-5b364cfe946d",
+      "relevance_grade": 2,
+      "justification": "Este oficio trata el IVA en el arriendo de estacionamientos, un tipo de bien común, pero no aborda la generalidad."
+    },
+    {
+      "chunk_uuid": "7861f881-0005-5383-a433-117ffb6e87a8",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza el IVA en arriendos de estacionamientos, mencionando bienes comunes, pero se centra en la exención."
+    },
+    {
+      "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+      "relevance_grade": 1,
+      "justification": "Esta circular explica la determinación de derechos sobre bienes comunes en copropiedad inmobiliaria, pero no sobre su tributación."
+    },
+    {
+      "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda el IVA en el arriendo de espacios comunes, indicando que si la comunidad desarrolla esta actividad, los ingresos son gravados."
+    },
+    {
+      "chunk_uuid": "0d91f331-ebb7-58e3-b754-6be79d664270",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la aplicación del IVA y el crédito fiscal en bienes y servicios de uso común, pero no específicamente el arriendo de espacios comunes."
+    },
+    {
+      "chunk_uuid": "b5f8a8a6-4d9f-5cf0-bc7b-bbee41733554",
+      "relevance_grade": 3,
+      "justification": "Este oficio analiza la aplicación del IVA al arriendo de locales comerciales, incluyendo el acceso a instalaciones comunes."
+    },
+    {
+      "chunk_uuid": "cd42a3f5-e7b6-5b31-8263-6d0e3b11c864",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre el gasto por arriendo de instalaciones y espacios comunes, y su necesidad para producir renta, no el IVA."
+    },
+    {
+      "chunk_uuid": "8e45de3e-d0d0-5249-bb97-df8b4f00d801",
+      "relevance_grade": 1,
+      "justification": "Este oficio se refiere al IVA en la cesión de un contrato de arriendo de sitio industrial con galpones, no al arriendo de bienes comunes."
+    },
+    {
+      "chunk_uuid": "7b2e0605-b75a-546f-ac67-444ace9082ca",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el IVA en contratos de arriendo con opción de compra, pero no aborda directamente los bienes comunes."
+    },
+    {
+      "chunk_uuid": "15cf3906-6907-54b1-93b5-7c16a6c9f44a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la Ley de Impuesto a la Renta y no aborda el IVA en arriendos de bienes comunes."
+    },
+    {
+      "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda la tributación de una comunidad de edificio por arriendo de espacios comunes para antenas, siendo altamente relevante."
+    },
+    {
+      "chunk_uuid": "11b05f36-48fd-50f5-98d0-088ef53f88fc",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla aspectos del plano de copropiedad y avalúos, pero no el IVA en arriendos de bienes comunes."
+    },
+    {
+      "chunk_uuid": "00045cfe-6533-59b7-8c42-e4b5b3814834",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre avalúos fiscales y notificaciones, sin relación con el IVA en arriendos de bienes comunes."
+    },
+    {
+      "chunk_uuid": "78c0daab-beb6-514e-b22a-57885616873d",
+      "relevance_grade": 2,
+      "justification": "Aborda la aplicación del IVA en la venta de sitios eriazos y bienes comunes en condominios."
+    },
+    {
+      "chunk_uuid": "8d189086-3fee-5374-a476-5f55f4a2610c",
+      "relevance_grade": 0,
+      "justification": "Trata sobre crédito fiscal en construcción de inmueble comercial y su asignación a nueva sociedad."
+    },
+    {
+      "chunk_uuid": "bd029f3c-0e88-5354-824e-5b3859de7fd7",
+      "relevance_grade": 2,
+      "justification": "Analiza el tratamiento tributario del uso y goce exclusivo de bienes comunes en copropiedad."
+    },
+    {
+      "chunk_uuid": "4559d6ae-2a3f-5756-aec4-48b23007cd96",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda el IVA en el arriendo de azoteas para letreros publicitarios, discutiendo si se grava o no según las instalaciones."
+    },
+    {
+      "chunk_uuid": "0f6ba08f-906c-5e6b-8f57-7b91fd2f288b",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica que el arriendo de bienes comunes de copropiedad se rige por la ley de copropiedad y puede estar afecto a IVA si hay instalaciones comerciales."
+    },
+    {
+      "chunk_uuid": "fbcd8a1a-8c18-5aa2-ad94-44fd926b9023",
+      "relevance_grade": 2,
+      "justification": "Este oficio trata el IVA en el arriendo de inmuebles con espacios comunes equipados, concluyendo que el monto total está gravado si el inmueble está amoblado."
+    },
+    {
+      "chunk_uuid": "9b37042b-7a0b-54c0-9949-08a7d3e15495",
+      "relevance_grade": 1,
+      "justification": "Este oficio se enfoca en la venta de sitios eriazos con bienes comunes, no directamente en el arriendo de estos últimos."
+    },
+    {
+      "chunk_uuid": "2d5e5914-20b7-51ad-966b-3d0118d55c45",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza el IVA en arriendo de terrenos con instalaciones industriales, estableciendo criterios para determinar si está gravado."
+    },
+    {
+      "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente el IVA en el arriendo de bienes comunes por copropietarios, explicando su tratamiento."
+    },
+    {
+      "chunk_uuid": "1cda3f59-f203-5010-8c10-29534727e95e",
+      "relevance_grade": 2,
+      "justification": "Explica el IVA en arriendo de inmuebles con instalaciones, mencionando criterios para determinar si es gravado, relevante para bienes comunes."
+    },
+    {
+      "chunk_uuid": "2122a1ab-1a23-5f1c-bd31-11efe5a7cf78",
+      "relevance_grade": 2,
+      "justification": "Aclara que los gastos comunes en copropiedad no constituyen un hecho gravado con IVA."
+    },
+    {
+      "chunk_uuid": "dd3ae299-cad8-555f-83c4-1c0e8d0dbca3",
+      "relevance_grade": 3,
+      "justification": "Aborda el IVA en arriendo de espacios comunes si están amoblados o con instalaciones, indicando que se grava."
+    },
+    {
+      "chunk_uuid": "9583a7e2-c802-5140-8c48-27a684bc7a64",
+      "relevance_grade": 1,
+      "justification": "Trata el IVA en arriendo de departamentos con estacionamiento y bodega, diferenciando prestaciones afectas y exentas."
+    }
+  ]
+}

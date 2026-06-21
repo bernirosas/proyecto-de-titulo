@@ -1,0 +1,1163 @@
+{
+  "query_id": "q030",
+  "query_text": "Indemnización de mejoras al poseedor de buena fe en juicio reivindicatorio",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 35.731228,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 32.632442,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+        "score": 28.922544,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 27.604475,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+        "score": 26.684208,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9f2b4ed5-698b-5b2f-aec1-e5c461ebded6",
+        "score": 23.89605,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "14af4e0c-0562-5934-8912-a3fd6fcce0ee",
+        "score": 23.060345,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3cda22ef-f4c7-5874-ba3a-818472299e48",
+        "score": 22.738964,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7d79c820-c435-5714-81d9-86a2111dff73",
+        "score": 21.797722,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7eabfd5a-3be7-5477-92b7-8e746b275633",
+        "score": 21.685947,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 1.7287598,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+        "score": 1.4379883,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+        "score": 1.4338379,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 1.3964844,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+        "score": 1.3918457,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 1.3842773,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0528519b-8e24-57a4-9135-319300439e59",
+        "score": 1.381897,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4c27272d-6348-56c0-95a9-00dc9822425d",
+        "score": 1.3813477,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4f2ff359-be12-56da-bb76-c87eb7abd895",
+        "score": 1.3792725,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+        "score": 1.3777466,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+        "score": 22.912336,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 21.129171,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 21.100765,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a52ec4b7-2cf4-52a3-ac08-5c345e2d6443",
+        "score": 20.106253,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "477bb601-069b-5f97-88d0-ce0c2507e89a",
+        "score": 20.102898,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+        "score": 19.615387,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9f2b4ed5-698b-5b2f-aec1-e5c461ebded6",
+        "score": 19.526514,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+        "score": 18.821875,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "14af4e0c-0562-5934-8912-a3fd6fcce0ee",
+        "score": 18.678858,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "3cda22ef-f4c7-5874-ba3a-818472299e48",
+        "score": 18.488832,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 26.628946,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+        "score": 26.204718,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 24.86272,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+        "score": 21.584934,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+        "score": 21.584934,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3cda22ef-f4c7-5874-ba3a-818472299e48",
+        "score": 21.458288,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+        "score": 21.200048,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+        "score": 20.66024,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "e090223f-9045-5bdb-b913-637983378acd",
+        "score": 20.244,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 18.900892,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.99560547,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 0.77441406,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.7246094,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+        "score": 0.7089844,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "5ad279d7-2c98-5141-bce9-535055b6ec55",
+        "score": 0.67578125,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3690bc69-ad7f-52fa-9efe-a3b099319cbe",
+        "score": 0.6722412,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7c08f6b8-9208-5106-a065-3df3d994b79b",
+        "score": 0.6699219,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "aba87070-0045-5f31-b84d-99a9625f60a7",
+        "score": 0.6660156,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "6a973f85-6857-5275-abc6-0a9081ddd7d3",
+        "score": 0.6621094,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "710f1856-bf7d-567d-9f64-5ff9e9b5a306",
+        "score": 0.6464844,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+        "score": 25.023045,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 23.397545,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+        "score": 21.935026,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+        "score": 21.681393,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 21.196566,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a52ec4b7-2cf4-52a3-ac08-5c345e2d6443",
+        "score": 19.857815,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+        "score": 19.161594,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+        "score": 19.16153,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "465a3452-f3e3-52f4-afa2-12d8b7e97240",
+        "score": 18.48972,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 18.455923,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.9394531,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 0.73095703,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+        "score": 0.7089844,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3690bc69-ad7f-52fa-9efe-a3b099319cbe",
+        "score": 0.7089844,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6a973f85-6857-5275-abc6-0a9081ddd7d3",
+        "score": 0.703125,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "65a523ba-4938-5f28-a7a2-d223afbfdecb",
+        "score": 0.6953125,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "aba87070-0045-5f31-b84d-99a9625f60a7",
+        "score": 0.6855469,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "490db28f-4ff3-5f73-9157-aadd890fdf78",
+        "score": 0.6816406,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "016a19d5-8800-5482-8db9-10e1f416f810",
+        "score": 0.6777344,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7c08f6b8-9208-5106-a065-3df3d994b79b",
+        "score": 0.6738281,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 11.9453125,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 11.3671875,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+        "score": 10.765625,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+        "score": 10.316406,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0ddbf22d-6da1-51b6-8d2d-d1fdf19bc640",
+        "score": 10.105469,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "f99287aa-d36a-50c1-aa0d-eb4908cc5d43",
+        "score": 9.988281,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "14af4e0c-0562-5934-8912-a3fd6fcce0ee",
+        "score": 9.441406,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "20feebc2-9492-5264-a2cc-40021e275c54",
+        "score": 9.441406,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "af26b368-55a9-5107-9d12-51174357ea44",
+        "score": 9.410156,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "5bedb9c4-0e37-500e-b651-686bce6a0031",
+        "score": 9.253906,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "181953f4-32f1-5b5d-af8c-994893c92602",
+        "score": 0.026021080368906456,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "9a34ae06-c7b7-5dbd-8912-fbe394d14fa5",
+        "score": 0.025678061306371368,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a01c65c9-9e02-5434-9e2e-9ff1a9dc944d",
+        "score": 0.024806892453951276,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "295753da-fdb9-5cc2-b750-99bbdfec295f",
+        "score": 0.024186704384724186,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+        "score": 0.02408450704225352,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "b099f7b6-fe8b-5ae5-8d34-b6e94b9ec395",
+        "score": 0.019378393559258564,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.01639344262295082,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.016129032258064516,
+        "rank": 8
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+        "score": 0.02946912242686891,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a52ec4b7-2cf4-52a3-ac08-5c345e2d6443",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "477bb601-069b-5f97-88d0-ce0c2507e89a",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "205f46c1-38f6-54c7-a139-9dadab33327b",
+        "score": 0.023769338959212377,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "3775072e-756a-57d8-a27e-bf7448afdcb6",
+        "score": 0.026742581090407176,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b099f7b6-fe8b-5ae5-8d34-b6e94b9ec395",
+        "score": 0.019549876025176424,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+        "score": 0.01639344262295082,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.016129032258064516,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+        "score": 0.015873015873015872,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+        "score": 0.015625,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.015384615384615385,
+        "rank": 7
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "3775072e-756a-57d8-a27e-bf7448afdcb6",
+        "score": 0.026289682539682536,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3690bc69-ad7f-52fa-9efe-a3b099319cbe",
+        "score": 0.015625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "6a973f85-6857-5275-abc6-0a9081ddd7d3",
+        "score": 0.015384615384615385,
+        "rank": 6
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "a01c65c9-9e02-5434-9e2e-9ff1a9dc944d",
+        "score": 0.028790389395194696,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "181953f4-32f1-5b5d-af8c-994893c92602",
+        "score": 0.027972027972027972,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+        "score": 0.027242401779095628,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9a34ae06-c7b7-5dbd-8912-fbe394d14fa5",
+        "score": 0.02712049508554787,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "295753da-fdb9-5cc2-b750-99bbdfec295f",
+        "score": 0.02694394213381555,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "b099f7b6-fe8b-5ae5-8d34-b6e94b9ec395",
+        "score": 0.024092970521541947,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+        "score": 0.01639344262295082,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+        "score": 0.016129032258064516,
+        "rank": 8
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 7.5,
+    "p1_tfidf": 11.4,
+    "p1_splade": 95.4,
+    "p2_bm25": 7.0,
+    "p2_tfidf": 10.9,
+    "p3_bm25": 4.6,
+    "p3_tfidf": 6.0,
+    "baseline_qdrant_bm25": 9.1,
+    "rrf_p1_bm25": 43.8,
+    "rrf_p1_tfidf": 46.8,
+    "rrf_p1_splade": 116.8,
+    "rrf_p2_bm25": 54.7,
+    "rrf_p2_tfidf": 77.3,
+    "rrf_p3_bm25": 42.9,
+    "rrf_p3_tfidf": 51.4,
+    "rrf_baseline_qdrant_bm25": 43.2
+  },
+  "pool": [
+    {
+      "name": "Artículo 1490 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "3cdac840-93c6-5f8f-8fef-c0b69197f122",
+      "chunk_uuid": "477bb601-069b-5f97-88d0-ce0c2507e89a",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719423",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título IV DE LAS OBLIGACIONES CONDICIONALES Y MODALES,Artículo 1490 (DEL ART. 2)|Art. 1490. Si el que debe una cosa mueble a plazo, o bajo condición suspensiva o resolutoria, la enajena, no habrá derecho de reivindicarla contra terceros poseedores de buena fe."
+    },
+    {
+      "name": "Artículo 1689 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "1f774f39-d378-5f84-849b-2f1a26c53114",
+      "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719648",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XX DE LA NULIDAD Y LA RESCISION,Artículo 1689 (DEL ART. 2)|Art. 1689. La nulidad judicialmente pronunciada da acción reivindicatoria contra terceros poseedores; sin perjuicio de las excepciones legales."
+    },
+    {
+      "name": "Oficio N°359 (26/02/2010)",
+      "source_type": "oficio",
+      "source": "Oficio N°359 (26/02/2010)",
+      "document_id": "b8a53c79-e4a0-511a-9ad2-33c3e2fd9e9c",
+      "chunk_uuid": "6a973f85-6857-5275-abc6-0a9081ddd7d3",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2010/renta/ja359.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2010\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°13, ART. 31°, N°6 – CIRCULAR N° 29, DE\n1991. (ORD. N° 359, DE 26.02.2010)\nSITUACIÓN TRIBUTARIA DE INDEMNIZACIÓN POR AÑOS DE SERVICIOS, PAGADA EN FORMA\nVOLUNTARIA TANTO RESPECTO DEL TRABAJADOR BENEFICIARIO DE LA RENTA COMO DE LA\nEMPRESA EMPLEADORA – INSTRUCCIONES IMPARTIDAS POR EL SERVICIO DE IMPUESTOS\nINTERNOS, A TRAVÉS DE CIRCULAR N° 29, DE 1991.\n1.- Se ha recibido en esta Dirección su presentación indicada en el antecedente, a través de la cual consulta\nacerca de la tributación a que se encuentra afecta una indemnización voluntaria pagada con ocasión de la\nrenuncia de un trabajador, así como de la deducción de dicha indemnización como gasto aceptado para el\nempleador.\nAl respecto informa que la desvinculación actualmente no se ha producido, pero el término de la relación\nlaboral se originará mediante la renuncia del trabajador pagándosele en dicha oportunidad una\nindemnización voluntaria equivalente a siete remuneraciones (5 años de antigüedad, más mes de aviso, más\nvacaciones proporcionales) por un valor cada remuneración equivalente a 60 UF.\nSeñala además que no existe acuerdo alguno acerca de indemnización a todo evento, y contrato o convenio\ncolectivo que garantice el pago, en este caso, pese a la causal señalada.\nIndica a continuación, que por la causal invocada -renuncia- el trabajador pierde todo derecho a\nindemnización, de manera que no sería procedente en su opinión, aplicar los artículos 178 del Código del\nTrabajo y 17 N° 13 de la Ley sobre Impuesto a la Renta (LIR), toda vez que en dicho caso la entrega de\nsumas de dinero por parte del empleador constituiría un pago y no una indemnización (no existiría causa que\nla origine). Si esto es así, el total de la renta se encontraría gravada con impuesto, y para la empresa\n(empleador) ello significaría un gasto rechazado.\nBajo el mismo supuesto, considera que el pago que se haga de dicha indemnización degeneraría la causal\ninvocada transformándola en mutuo acuerdo, en cuyo caso estima procedente hablar de la locución\nindemnización.\nSeguidamente señala, que a su entender la indemnización voluntaria no se encuentra regulada por el inciso\nprimero del artículo 178 del Código del Trabajo (que a su turno establece que no constituyen renta las\nindemnizaciones allí señaladas), sino en su inciso segundo cuando dicha disposición señala: \" ... cuando por\nterminación de funciones o de contrato de trabajo, se pagaren además otras indemnizaciones a las\nprecitadas, deberán sumarse estas a aquellas (las señaladas en el inciso primero) con el único objeto de\naplicarles lo dispuesto en el N°13, del artículo 17, de la LIR.\nEn este sentido, el articulo 17, N°13, de la LIR dispone a propósito de lo consultado que no constituye renta\nla indemnización por desahucio y la de retiro hasta un máximo de un mes de remuneración por cada año de\nservicio o fracción superior a seis meses.\nDe este modo y por las consideraciones expuestas, entiende que la indemnización voluntaria, definida en el\nsegundo caso y en los términos antes señalados, podría tratarse de un ingreso no constitutivo de renta, pese\na no sumarse a ninguna otra indemnización y consecuencialmente podría constituir un gasto aceptado para\nel empleador (empresa).\n2.- Sobre el particular cabe expresar, que el inciso segundo del artículo 178 del Código del Trabajo dispone\nque: \"Sin perjuicio de lo dispuesto en el inciso anterior, cuando por terminación de funciones o de contrato de\ntrabajo se pagaren además otras indemniz"
+    },
+    {
+      "name": "Resolución N°69 (21/07/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°69 (21/07/2014)",
+      "document_id": "72b096ac-69b2-5d3d-b751-f9fb02853b68",
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso69.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nSERVICIO DE IMPUESTOS INTERNOS  \nSUBDIRECCIÓN DE FISCALIZACIÓN  \nMODIFICA \nCONTENIDO \nDEL \nFORMULARIO      \nN° \n50 \nSOBRE \nDECLARACIÓN \nY \nPAGO \nSIMULTÁNEO MENSUAL DE IMPUESTOS.  \nSANTIAGO, 21 DE JULIO DE 2014       \nHoy se ha resuelto lo que sigue:  \nRESOLUCIÓN EX. SII Nº 69.-  \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el \nartículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de \noctubre de 1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el \nartículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la \nRenta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; la Ley N° 20.657 del Ministerio \nde Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de Febrero de 2013, que \nModifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° 18.892, de 1989 y sus \nmodificaciones; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de \n2014; y \nCONSIDERANDO:  \n1° Que, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° \nde su Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el \ncumplimiento de las obligaciones tributarias de los contribuyentes;  \n2° Que, mediante la Resolución Ex. N° 27, de 27 \nde julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° \n41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de 2014; \n3° Que, con motivo de la publicación de Ley N° \n20.657 del Ministerio de Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de \nFebrero de 2013, que Modifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° \n18.892, de 1989 y sus modificaciones, se agrega el artículo 43 ter, el que establece un Impuesto \nEspecífico para los titulares de licencias transables de pesca clase A, que deben pagar anualmente \nen el mes de julio, surge la necesidad de adecuar el Formulario 50 de Declaración y Pago \nSimultáneo Mensual de Impuestos; \n4° Que, conforme el artículo 29 del Código \nTributario"
+    },
+    {
+      "name": "Oficio N°9 (05/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°9 (05/01/2017)",
+      "document_id": "2bc3e6ca-dab6-594f-852d-792c97b218fc",
+      "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/renta/ja009.htm",
+      "content": "ítulo III, punto 3.2)\nque las indemnizaciones pagadas bajo esta modalidad no constituyen renta para los efectos tributarios,\ncualquiera sea su monto.\nPrecisado lo anterior, procede expresar, respecto del límite de las noventa Unidades de Fomento, que\nestablece el inciso final del artículo 172 del Código del Trabajo, sólo encuentra aplicación respecto de las\nindemnizaciones legales por años de servicio, tal como lo explicitó este Servicio por medio de la Circular\nN°10 de 1999, vale decir únicamente respecto de aquellas previstas en el inciso segundo del artículo 163 del\nCódigo del Trabajo y de la indemnización sustitutiva del aviso previo contenida en el inciso segundo del\nartículo 161 y en el inciso cuarto del artículo 162 de dicho texto, esto último de acuerdo a dictamen de la\nDirección del Trabajo sobre los pagos que involucra el concepto indemnización legal.[1]\nEn consecuencia, y basado en lo dispuesto en las normas mencionadas, si una empresa paga una\nindemnización pactada en un contrato colectivo considerando una remuneración mensual superior a 90\nUnidades de Fomento, dicha indemnización asumirá el carácter de no renta en su totalidad, cualquiera sea\nsu monto.\nNo ocurre lo mismo con la indemnización legal que considere una remuneración mensual superior a 90\nUnidades de Fomento, ya que el exceso por sobre dicha suma asumirá el carácter de una indemnización\nvoluntaria, la cual se regirá en su tributación por lo dispuesto en el N° 13 del artículo 17 de la ley sobre\nImpuesto a la Renta, de acuerdo a las instrucciones establecidas en la Circular Nº 10, de 1999, de este\nServicio.\nLa misma tributación será aplicable si la empresa paga una indemnización voluntaria o pactada en un\ncontrato individual, según dispone  el punto 4 de la letra B.- del Capítulo III de la Circular 29 de 1991, que\nestablece para los fines de precisar qué parte de las indemnizaciones pactadas en contratos individuales y/o\npagadas voluntariamente no constituyen renta para efectos tributarios, que a dichas indemnizaciones\ndeberán adicionárseles aquellas legales y/o contractuales establecidas en contratos o convenios colectivos\nque el trabajador con motivo del término del contrato de trabajo tenga derecho a percibir, conforme a las\nnormas de la Ley Nº 19.010[2], o a las estipulaciones de los respectivos contratos o convenios colectivos.\nDe acuerdo con lo expresado, si se pagare conjuntamente una indemnización pactada en un contrato\ncolectivo y una indemnización voluntaria, la operatoria práctica a seguir a partir del promedio actualizado de\nlas últimas 24 remuneraciones, es multiplicar dicho promedio por el número de años de servicio del\ntrabajador, y a continuación restar de dicho monto la indemnización establecida en el convenio colectivo.\nEl monto positivo que resulte de la operación anterior, constituirá el monto máximo por concepto de la\nindemnización voluntaria que no constituye renta en virtud del artículo 17 Nº 13, de la Ley sobre Impuesto a\n\n\nla Renta.\nFinalmente, procede expresar que una vez determinada la parte de las indemnizaciones voluntarias que\nquedan afectas al Impuesto Único de Segunda Categoría, conforme a lo dispuesto por el artículo 46 de la\nLey sobre Impuesto a la Renta, dichas indemnizaciones asumen el carácter de una renta accesoria o\ncomplementaria a los sueldos, y en virtud de lo establecido en el inciso final de la norma legal antes\nmencionada, en su calidad de voluntarias, se entienden devengadas uniformemente en los últimos doce\nmeses, y el Impuesto Único de Segunda Categoría que las afecta deberá calcularse de acuerdo a la\nmodalidad contenida en el inciso segundo y tercero del citado artículo, cuyas instrucciones para su cálculo\neste Servicio las impartió mediante las Circulares Nºs. 37, de 1990 y 29, de 199"
+    },
+    {
+      "name": "Artículo 2302 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "4e74f883-a6cb-554b-beb5-deeacb45c1b9",
+      "chunk_uuid": "7eabfd5a-3be7-5477-92b7-8e746b275633",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720361",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXXIV DE LOS CUASICONTRATOS,Artículo 2302 (DEL ART. 2)|Art. 2302. El que de buena fe ha vendido la especie que se le dio como debida, sin serlo, es sólo obligado a restituir el precio de la venta, y a ceder las acciones que tenga contra el comprador que no le haya pagado íntegramente. Si estaba de mala fe cuando hizo la venta, es obligado como todo poseedor que dolosamente ha dejado de poseer."
+    },
+    {
+      "name": "Resolución N°80 (29/09/2015)",
+      "source_type": "resolucion",
+      "source": "Resolución N°80 (29/09/2015)",
+      "document_id": "2083856b-34da-5d8f-987d-97d43ac9433f",
+      "chunk_uuid": "710f1856-bf7d-567d-9f64-5ff9e9b5a306",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/documentos/resoluciones/2015/reso80.pdf",
+      "content": "entatoria (papel o archivo \npdf), que permita acreditar fehacientemente ante este Servicio tales desembolsos que hayan aumentado \nel valor del bien, por ejemplo: facturas y/o boletas recibidas por contratos de construcción y/o adquisición \nde materiales, boletas de honorarios por servicios profesionales, entre otros. \n \nAsimismo, en caso que las mejoras hubieran sido efectuadas por un tercero, deberá acompañarse como \nparte de la referida documentación sustentatoria, aquella que permita acreditar fehacientemente que las \nmismas han pasado a formar parte de la propiedad del enajenante. \n \nSin perjuicio de todo lo anterior, respecto de aquellas mejoras efectuadas a bienes adquiridos a contar del \n1° de enero de 2004 y hasta la fecha de la publicación de la Ley N° 20.780, que ya han sido incorporadas \nen la determinación del avalúo fiscal de la propiedad, igualmente deberán ser informadas conforme a lo \nseñalado en esta Resolución, pero sin la obligatoriedad de aportar la documentación sustentatoria. \n \n \n3º) Los desembolsos incurridos en mejoras que \naumenten el valor de bienes raíces situados en Chile, corresponden únicamente a las mejoras útiles que \nse lleven a cabo en los mismos, esto es, aquellas mejoras necesarias y considerables, que tienen por \nobjeto habilitar, remodelar o acondicionar un inmueble, agregando un valor importante al mismo, en \nconformidad a lo establecido en el N° 3 de la Circular N°53, de 1978, de este Servicio. \n \nPara estos efectos, se clasificarán las mejoras que hayan aumentado el valor venal del bien raíz en los \nsiguientes términos: \n \n- \nNuevas construcciones: nueva construcción en un sitio no edificado o separada de una ya existente. \n- \nAmpliaciones: Aumentos de superficie edificada que se construyen adosadas a la o una de las \nconstrucciones existentes. \n- \nRemodelaciones: Modificación (rehabilitación/reparación/transformación/alteración/reconstrucción) \nsiempre que no correspondan a obras de conservación como el reemplazo de los revestimientos \nexteriores o interiores, cielos, pinturas o pavimentos por otros similares a los reemplazados. \n- \nNuevas obras complementarias (piscinas, pavimentos exteriores, cobertizos). \n- \nMejoras en terrenos agrícolas (obras de: drenaje, riego, contra la acción de la erosión, etcétera). \n- \nOtras mejoras contenidas en el N° 3 de la Circular N°53, de 1978. \n \n \n4º) Se entenderá que una mejora debe ser declarada \nante este Servicio, para efectos de lo dispuesto en la Ley N° 20.780, cuando ésta se encuentre terminada, \nesto es, cuando las obras se encuentren en condiciones de ser usadas. \n \n \n5º) Las mejoras a que se refiere la presente \nresolución que se hayan efectuado a contar del 1° de enero de 2004 y hasta el 31 de diciembre de 2014, \nsobre aquellos bienes adquiridos en dicho período, deberán ser informadas a este Servicio hasta el 31 de \ndiciembre del año 2015. Asimismo, las mejoras que se efectúen a partir del 1° de enero del año 2015 y \nhasta el 31 de diciembre de dicho año, respecto de bienes adquiridos a contar del 1° de enero de 2004, \ndeberán declararse a este Servicio hasta el 30 de junio del año siguiente, y así sucesivamente. \n \nEn caso que el bien raíz sea enajenado con anterioridad a la fecha de declaración que corresponda, según \nlo precisado en el párrafo anterior, la declaración de las mejoras deberá ser presentada hasta el 31 de \ndiciembre del año en que ocurrió tal enajenación. \n \n \n6º) Las mejoras declaradas se incorporarán en el \navalúo fiscal, siempre que corresponda y con la vigencia respectiva, en conformidad a"
+    },
+    {
+      "name": "Oficio N°1118 (03/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1118 (03/05/2021)",
+      "document_id": "e3289583-b1e4-5737-9a7d-418489d40dec",
+      "chunk_uuid": "016a19d5-8800-5482-8db9-10e1f416f810",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1118-03%2F05%2F2021.pdf&extension=pdf&acc=download&id=c449738a-e6c6-4f01-8843-bc49610d61c0&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 1  \n(ORD. N° 1118 DE 03.05.2021). \n \n \nTratamiento tributario de una indemnización por término anticipado del contrato, conforme a la \nLIR. \n \n \nSe ha solicitado a este Servicio un pronunciamiento respecto a tratamiento tributario que tiene, \nconforme a la Ley sobre Impuesto a la Renta, la renta percibida por concepto de indemnización por \ntérmino anticipado de un contrato. \n \nI \nANTECEDENTES \n \nSeñala en su presentación, que una sociedad percibió una indemnización por término de contrato \nanticipado de arrendamiento de una oficina, por lo cual, consulta si esa indemnización está exenta del \nimpuesto de renta, según el artículo 17 de la Ley sobre Impuesto a la Renta (LIR). \n \nII \nANÁLISIS \nPara determinar el tratamiento tributario que corresponde aplicar a la indemnización percibida por \ntérmino anticipado de un contrato, es preciso establecer previamente qué naturaleza jurídica reviste \ndicha compensación frente de la LIR; y, respecto a la naturaleza jurídica de las indemnizaciones, en \ngeneral, es necesario distinguir previamente si esta tiene por objeto indemnizar el lucro cesante, el daño \nemergente o el daño moral. \nLuego, en atención a que no indica ni acompaña antecedentes sobre la naturaleza de la indemnización \npercibida, no es posible emitir un pronunciamiento específico sobre el particular, por lo cual, se explica \nen términos generales el tratamiento tributario de las indemnizaciones conforme a la LIR. \nLa indemnización del lucro cesante, tiene por objeto el pago de un ingreso o una ganancia que se habría \npercibido de haberse cumplido el plazo estipulado por las partes; y al no encontrarse liberada de \ntributación, constituye renta, la que debe gravarse con los impuestos de la LIR. \nPor otra parte, la indemnización del daño emergente tiene por objeto cubrir el daño material, la pérdida \no disminución patrimonial sufrida; y se encuentra liberada de tributación conforme a lo dispuesto en el \nN° 1 del artículo 17 de la LIR. Sin embargo, según lo dispuesto en el inciso segundo de esta norma, la \ncalificación como un ingreso no renta, no regirá respecto de la indemnización del daño emergente en el \ncaso de bienes incorporados al giro del negocio, empresa o actividad, cuyas rentas efectivas deban \ntributar con el impuesto de primera categoría, sin perjuicio de la deducción como gasto de dicho daño \nemergente. \nA su turno, la indemnización del daño moral, también contemplada en la norma citada, debe ser \nestablecida por sentencia ejecutoriada. \nConforme a lo anterior, considerando que la consulta trataría sobre una indemnización percibida por el \ntérmino anticipado de un contrato de arriendo, pareciera corresponder a una indemnización del lucro \ncesante, ya que tendría por objeto cubrir las rentas que se habrían percibido de haberse cumplido el \nplazo estipulado por las partes, por lo cual, no se encuentra amparada en la liberación de impuestos que \ncontempla el N° 1 del artículo 17 de la LIR. \n \nIII \nCONCLUSIÓN \nDe acuerdo a lo expuesto, si la indemnización percibida por una sociedad, por el término anticipado del \ncontrato de arrendamiento de una oficina, constituye una indemnización por lucro cesante, no \ncorresponde a un ingreso no renta contemplado el N° 1 del artículo 17 de la LIR, por tanto, debe ser \n\n\n2 \n \nincorporada en los ingresos brutos del ejercicio de la sociedad y gravarse con los impuestos que \nestablece dicho texto legal. \nSaluda a usted, \n \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \n \n \n \nOficio N° 1118 del 03-05-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Oficio N°1426 (28/05/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1426 (28/05/2015)",
+      "document_id": "b81a2b56-f71d-52f5-98cb-689a362efa10",
+      "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/ventas/ja1426.htm",
+      "content": " configura una hipótesis de cobro con efecto retroactivo de impuestos,\nparece innecesario determinar si acaso el aparente cambio de criterio debió publicarse mediante un extracto\nen el Diario Oficial, como se señala en la presentación amparándose en el artículo 15 del Código Tributario.\nSin embargo, en función de lo expuesto más adelante, cabe precisar que no es requisito que los documentos\nen que se manifieste un cambio interpretativo sean publicados de acuerdo con el Art. 15, del Código\nTributario. Ese acto de publicidad sólo constituye una presunción de pérdida de la buena fe, entendiéndose\nconocidas dichas modificaciones desde que han sido publicadas . Por tanto, constando fehacientemente que\nel contribuyente ha tomado conocimiento efectivo de un cambio de criterio en un determinado momento,\ndesde ese mismo momento se pierde a su respecto la buena fe en materia tributaria. En el caso analizado,\nsalvo que en la instancia de fiscalización respectiva se acredite otra cosa, y de acuerdo a lo señalado en la\npresentación del contribuyente, consta fehacientemente que el peticionario tomó conocimiento efectivo del\naparente cambio de criterio en la audiencia de fecha 27.11.2013, oportunidad a partir de la cual el ya no\npuede desconocer la existencia del Ord. N° 2931 de 2012.\nSin perjuicio de lo anterior, resta determinar si acaso el peticionario puede esgrimir la buena fe, como\nprincipio general, al menos durante el periodo que va desde la adquisición del activo fijo (01/02/2013),\npasando por la presentación de la solicitud de devolución de remanente de crédito fiscal de IVA (30/09/2013)\ny hasta la fecha en que tomó conocimiento del Oficio Ord. N° 2931 de 2012 (audiencia de fecha 27.11.2013).\nAl respecto, y a partir del artículo 706 del Código Civil, la buena fe en materia tributaria puede definirse como\nla conciencia que tiene el contribuyente que su conducta tributaria se ajusta a Derecho, en la forma que éste\nha sido interpretado por la Dirección .\nEn consecuencia, y en virtud del principio general de buena fe, del cual el artículo 26 del Código Tributario\nconstituye una manifestación, puede admitirse que:\na) Al momento de adquirir el inmueble (y salvo que en la instancia de fiscalización pertinente se llegue a una\napreciación distinta de los hechos) el contribuyente de buena fe pudo entender que el arriendo de\nestacionamientos y bodegas, anexos al arriendo del inmueble principal (oficinas), estaba afecto a IVA para\nconstituir su remanente de crédito fiscal por adquisición de activo fijo conforme al Oficio Ord. N° 2019 de\n2011.\nb) Que, transcurridos los seis meses desde la adquisición del activo fijo, necesarios para solicitar la\ndevolución del remanente del crédito fiscal, y hasta el momento de presentar la solicitud, el peticionario aún\nse encontraba de buena fe respecto de la interpretación contenida en el Oficio Ord. antes citado.\nc) Por esta razón, la resolución que en definitiva se dicte debe otorgar la devolución del remanente del\ncrédito fiscal considerando la doctrina del oficio Ord. N° 2019 de 2011.\nd) Sin perjuicio de lo anterior, atendida la mecánica del Impuesto al Valor Agregado, otorgada la devolución\ndel remanente de crédito fiscal por adquisición de activo fijo en los términos antes indicados, a partir del\nperiodo tributario en que tomó conocimiento fehaciente del Oficio Ord. N° 2931 de 2012 (audiencia de fecha\n27.11.2013), el contribuyente debió realizar restituciones adicionales en caso de estimarse que el\narrendamiento de estacionamiento y bodegas, en su caso particular, está no afecto al IVA.\nIII.- CONCLUSIÓN:\nConforme al análisis precedente, cabe concluir que en el caso bajo estudio no se configura una hipótesis de"
+    },
+    {
+      "name": "Artículo 702 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "c89afe23-2b91-51b0-8fee-458e10242dca",
+      "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718574",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título VII DE LA POSESION,Artículo 702 (DEL ART. 2)|Art. 702. La posesión puede ser regular o irregular. Se llama posesión regular la que procede de justo título y ha sido adquirida de buena fe; aunque la buena fe no subsista después de adquirida la posesión. Se puede ser por consiguiente poseedor regular y poseedor de mala fe, como viceversa el poseedor de buena fe puede ser poseedor irregular. Si el título es translaticio de dominio, es también necesaria la tradición. La posesión de una cosa a ciencia y paciencia del que se obligó a entregarla, hará presumir la tradición; a menos que ésta haya debido efectuarse por la inscripción del título."
+    },
+    {
+      "name": "Segundo Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-VD-15-00015-2024",
+      "source_type": "jurisprudencia",
+      "source": "RIT-VD-15-00015-2024",
+      "document_id": "b587f7ae-19f1-5bbc-8212-b54e8d5fa309",
+      "chunk_uuid": "af26b368-55a9-5107-9d12-51174357ea44",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/19646",
+      "content": "uviera una o más partidas que se refirieran a determinaciones de impuesto.\n\n\nEl Magistrado arguyó que el procedimiento de vulneración de derechos tenía una naturaleza eminentemente cautelar, según se desprendía de lo dispuesto en el inciso tercero del artículo 156 del Código Tributario. En este sentido, el Tribunal estimó que la declaración de prescripción era una materia que debía ser debatida en un juicio de lato conocimiento, agregando que conforme lo establecía el artículo 8 bis del citado Código, de ninguno de sus numerales se podía desprender que constituía un derecho para el contribuyente que se declarara la prescripción de la acción fiscalizadora. ​\n    ​\nFinalmente, el Juez agregó sobre este punto, que malamente podría haber accedido el Servicio a la petición administrativa presentada por el contribuyente, pues al no haber transcurrido en la especie los plazos de prescripción establecidos en el inciso segundo del artículo 200 ya citado, estaría renunciando a ella. ​\n​\nSobre la vulneración al derecho establecido en el artículo 8 bis N° 19 del Código Tributario, a que se presuma que el contribuyente actúa de buena fe, el Tribunal concluyó que no podía estimarse que existiera una vulneración a dicha norma, por cuanto al Servicio no había emitido hasta la fecha acto alguno en que se hubiera estimado que el contribuyente no había actuado de buena fe, ya que la Resolución reclamada solo había hecho referencia a que aún no habían transcurrido los plazos de prescripción establecidos en el artículo 200 del Código Tributario."
+    },
+    {
+      "name": "Artículo 900 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "0ce80787-e712-5da0-8bdc-8941302380e6",
+      "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718788",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 900 (DEL ART. 2)|Art. 900. Contra el que poseía de mala fe y por hecho o culpa suya ha dejado de poseer, podrá intentarse la acción de dominio, como si actualmente poseyese. De cualquier modo que haya dejado de poseer y aunque el reivindicador prefiera dirigirse contra el actual poseedor, respecto del tiempo que ha estado la cosa en su poder tendrá las obligaciones y derechos que según este título corresponden a los poseedores de mala fe en razón de frutos, deterioros y expensas. Si paga el valor de la cosa y el reivindicador lo acepta, sucederá en los derechos del reivindicador sobre ella. Lo mismo se aplica aun al poseedor de buena fe que durante el juicio se ha puesto en la imposibilidad de restituir la cosa por su culpa. El reivindicador en los casos de los dos incisos precedentes no será obligado al saneamiento."
+    },
+    {
+      "name": "Oficio N°137 (22/08/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°137 (22/08/2016)",
+      "document_id": "29e89892-40be-5f6d-a418-58d141bdd8bf",
+      "chunk_uuid": "a01c65c9-9e02-5434-9e2e-9ff1a9dc944d",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja137.htm",
+      "content": ". Para corregir este mal, se adoptan diversas precauciones,\nfacultando a los jueces para rechazar de oficio los incidentes que aparecieren inconexos con el pleito,\ndeterminando el tiempo en que es lícito promoverlos, estableciendo que su tramitación se haga en ramo\nseparado y no detenga la acción principal, salvo que sea ello absolutamente indispensable, y fijando penas\npara los litigantes que promovieren y perdieren más de tres incidentes dilatorios, pues hay en tal caso\npresunción vehemente de mala fe.w\nEn consecuencia, puede entenderse como manifestación de ese principio de buena fe lo dispuesto en el\nartículo 139 en relación al 144 del Código de Procedimiento Civil, en el sentido que si una parte es vencida\ntotalmente en un juicio o en un incidente, puede ser condenada al pago de las costas, a menos que el\ntribunal estime que ha litigado con motivo plausible.\nDe este modo, si la parte no sólo es completamente vencida en juicio (lo cual no necesariamente supone\ncondenar en costas), sino que además y en concepto del tribunal y carece de motivo plausible para litigar,\nimplica que la condenación en costas contiene un reproche sobre el comportamiento procesal del litigante\n(mala fe). Esto es, representativa de una conducta contraria a la buena fe, fraudulenta o contradictoria.\n2. Las costas personales en sede de protección.\nEl apartado 11 del Auto Acordado sobre Tramitación y Fallo del Recurso de Protección de las Garantías\nConstitucionales, dictado por la Corte Suprema el 27 de junio de 1992, dispone que vtanto la Corte de\nApelaciones como la Corte Suprema, cuando lo estimen procedente, podrán imponer la condenación en\ncostasw.\nA partir de ahí, podría entenderse que, en sede de protección, la condenación en costas no supondría\nreproche alguno al comportamiento del perdidoso, porque a diferencia de la jurisdicción común, no sería\nnecesario invocar la falta de fundamento plausible para litigar o la mala fe procesal. De este modo, la\ncondena en costas personales en sede de protección no podría calificar como gasto rechazado.\nSin embargo, en la práctica y en concreto, no ha sido ese el criterio de la Corte al momento de condenar en\ncostas en sede de protección. Además, ese entendimiento no sería correcto, por los motivos que se señalan\na continuación:\na) Por de pronto, las Cortes sí consideran la falta de motivo plausible para litigar en sede de protección como\ncriterio para condenar en costas.\nPor ejemplo, casos donde se rechaza la protección interpuesta por el afiliado, pero no se le condena en\ncostas vpor haber tenido motivo plausible para litigarw .\nb) En otros casos, si bien la ISAPRE (parte recurrida) gana en sede de protección, igualmente es condenada\n\n\nen costas, pero no de modo vdiscrecionalw, varbitrariow, carente de razón o sin fundamento plausible.\nEs importante notar que en algunos casos se ha condenado en costas a la ISAPRE porque vla actora se vio\nen la necesidad de interponer acciones judiciales, lo cual entraña un indudable desembolso económico que\nno tiene por qué asumir, en el presente caso, quien ha debido recurrir a los tribunales para el reconocimiento\nde sus derechos, especialmente si se tiene en cuenta que la actuación de la recurrida era improcedentew.\nLo anterior porque vla recurrida ISAPRE TTTTT dejó sin efecto el alza y adecuación del plan de salud de la\nrecurrentew y notificó del hecho dos días después de haberse interpuesto el recurso de protección, de\nsuerte que a esa altura ya vno existe medida de protección alguna que se pueda decretar al respecto,\nmotivo por el cual el recurso de fojas 4 no puede prosperar y debe ser desestimado en cuanto al fondo de las\npeticiones de la actora.w\nLuego, es evidente que no se condena en costas"
+    },
+    {
+      "name": "Circular N°9 (12/01/1977)",
+      "source_type": "circular",
+      "source": "Circular N°9 (12/01/1977)",
+      "document_id": "4a31589c-b06d-5abe-bfff-3614afeef52e",
+      "chunk_uuid": "3690bc69-ad7f-52fa-9efe-a3b099319cbe",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/documentos/circulares/1977/circu9a.htm",
+      "content": " no constituye renta $ 70.000\nTratándose de las indemnizaciones legales o contrac tuales colectivas no opera el limite máximo, por lo qual todo el monto de ellas no constituye renta.\nEjemplo N№ 2\nEmpleado recibe las siguientes indemnizaciones:\ns). Indemnisacion legal $ 40.000\nb) Indemnización establecida en contrato colectivo $ 20.000\nc) Indemnización voluntaria $ 15.000\nTotal $ 75.000\nLimite: 1 mes por cada año de servicios, con tope máximo de 24 años $ 65.000\nSolucióni\na) Monto total de la indemnización $ 75.000\nb) Monto de la indemnización que no constituye penta\nIndemnización legal: $ 40.000\nIndemnización según cont. colectivo 20.000\nIndemnización voluntaria, hasta com-pletar el límite $ 5.000, $65.000\nc) Diferencia que constituye renta $ 10.000\n[1], [2]\n\nHome > Circulares 1977\n[1], [2]\n\nEjemplo N 3.-\nEmpleado recibe las siguientes indemnizaciones:\na) Indemnización legal. $ 50.000\nb) Indemnización establecida en contrato individual. $ 30.000\nc) Indemnización voluntaria $ 20.000\nd) Indemnización establecida en contrato colectivo $ 35.000\nTotal $ 135.000\nLimite: 1 mes por cada año de servicios, con un tope de 24 añов $ 100.000\nSolución:\na) Monto total de la indemnización $ 135.000\nb) Monto de la indemnización que no es renta $ 100.000\nc) Diferencia que constituye renta $ 35.000\nEjemplo N№ 4\nEmpleado recibe solamente una lndemnización voluntaria de $ 50,000\nLlaite: 1 nes por cada año de servicios, con un tope Máximo de 24 años $ 45.000\nBelución:\nMonto total de la indemnización $ 50.000\nMonte nge no constituye renta $ 45.000\nDiferencia que constituye rents $ 5.000\nE) VIGENCIA:\nEsta modificación empezará a regir a partir del 1º de Enero de 1977 y afectará a las indemnizaciones que se paguen, abonen en cuenta o se pongan a disposición del interesado dende dicha fe-cha.\nIII. PREMIOS DEL SISTEMA DE PRONOSTICOS Y APUESTAS (POLLA -GOL)\nA) La letra c) del No 1 del artículo 19 del D.L. 1604, agrega al final del N№ 23 del artículo 17 de la Ley de la Renta, la siguien te frase, reemplazando el punto final (.), por un punto y coma (;), \"como asimismo, los premios del sistema de Pronósticos y Apuan \"tas creado por Decreto Ley Nº 1.298, de 1975.\"\n\n8) En virtud de esta modificcción legal no tienen la calidså de renta los premios que se otorguen por el sistema de Pronósticos y Apues tas, comunmente llamado FOLLA GOL, y, por lo tanto, no se deben d clarar ui considerar para los efectos del cálculo de los impuestos de Primera Categoria, Global Complementario o Adicional.\nC) VIGENCIL:\nEsta modificación rige desde el 12 de Enero de 1976, afectando a loe premios que se hayan otorgado a partir de esa fecha,\nBaluda a Ud.,\nJOSE MANUEL BEYTIA BARRIOS\nDIRECTOR\nDISTRIBUCION:\nAL PERSONAL\nAL BOLETIN\n[1], [2]"
+    },
+    {
+      "name": "Resolución N°9 (22/01/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°9 (22/01/2014)",
+      "document_id": "f3342d2d-cf8e-5935-899c-0541c7b1ed48",
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso9.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nSERVICIO DE IMPUESTOS INTERNOS \nSUBDIRECCIÓN DE FISCALIZACIÓN \nDEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL \n \n \nSUSTITUYE ESTRUCTURA Y CONTENIDO DEL \nFORMULARIO N° 50 SOBRE DECLARACIÓN Y \nPAGO SIMULTÁNEO MENSUAL DE IMPUESTOS.  \n \n \n  \n \nSANTIAGO, 22 de enero de 2014 \n \n \nHoy se ha resuelto lo que sigue: \n \n \nRESOLUCIÓN EX. SII Nº 9.-______/ \n \n \n \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo \n1° del   D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de \n1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del \nDecreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida \nen el artículo 1° del Decreto Ley N° 824, de 1974, y sus modificaciones contenidas en la Ley \nN°20.630, de 2012; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; y N° 10, de 23 de enero de 2013; y \n \n \nCONSIDERANDO: \n \n1° \nQue, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° de \nsu Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el cumplimiento de \nlas obligaciones tributarias de los contribuyentes;  \n2° \nQue, mediante la Resolución Ex. N° 27, de \n27 de julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° 41, \nde 29 de marzo de 2011; y N° 10, de 23 de enero de 2013; \n3° \nQue, con motivo de la publicación de la Ley \nN° 20.630, en el Diario Oficial el 27 de septiembre de 2012, que perfecciona la legislación tributaria \ny financia la reforma educacional, modificando, entre otras normas, aquellas que dicen relación con \nlas retenciones de impuestos que deben practicarse a personas sin domicilio ni residencia en Chile, \ncontenidas en el N°4 del artículo 74 de la Ley sobre Impuesto a la Renta, surge la necesidad de \nadecuar el Formulario 50 de Declaración y Pago Simultáneo Mensual de Impuestos;  \n4° \nQue, conforme el artículo 29 del Código \nTributario la presentación de declaraciones con el objeto de determinar la procedencia o liquidación \nde un impuesto, se hará de acuerdo con las normas legales o reglamentarias y con las instrucciones \nque imparta la Dirección de este Servicio, incluyendo toda la información que fuere necesaria;   \n5° \nQue, este Servicio, de acuerdo a lo"
+    },
+    {
+      "name": "Oficio N°1775 (20/05/2009)",
+      "source_type": "oficio",
+      "source": "Oficio N°1775 (20/05/2009)",
+      "document_id": "cadd2079-4215-5d09-aa98-50dc5564a897",
+      "chunk_uuid": "490db28f-4ff3-5f73-9157-aadd890fdf78",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2009/renta/ja1775.htm",
+      "content": " y financiada con el Fondo\nde Indemnizaciones. La sentencia, agrega, tampoco aplicó para determinar el exceso a la indemnización el\nlímite que establece el artículo 172 del Código del Trabajo de 90 unidades de fomento como remuneración\nlegal máxima.\nExpresa a continuación que en su opinión, esta diferencia resulta ser una indemnización de aquéllas\nreguladas en el inciso 2° del artículo 178 del Código del Trabajo que establece: \"Sin perjuicio de lo dispuesto\nen el inciso anterior, cuando por terminación de funciones o de contratos de trabajo, se pagaren además\notras indemnizaciones a las precitadas, deberán sumarse éstas a aquéllas con el único objeto de aplicarles\nlo dispuesto en el N° 13 del artículo 17 de la Lev sobre Impuesto a la Renta, a las indemnizaciones que no\nestén mencionadas en el inciso primero de este artículo\".\nSi esta es la correcta interpretación, concluye, correspondería aplicar el impuesto de Segunda Categoría en\nrelación al pago en exceso de la indemnización por años de servicio, por no encontrarse esta suma\ncontemplada, prevista ni provista en el Fondo de Indemnización convencional pactado entre La Caja de\nAhorros y sus trabajadores. En consecuencia, la Caja como ex empleadora debe retener el impuesto y\nenterarlo en arcas fiscales.\nEncontrándose la causa Rol N° xxx/xxxx en estado de cumplimiento y ejecución del fallo y la Caja de\nAhorros -por sentencia judicial que así lo dispone- condenada a pagar lo anteriormente citado, solicita un\npronunciamiento de este Servicio sobre la procedencia del pago del impuesto y que dado el monto\ninvolucrado correspondería aplicar un 40% a la suma de $ xxx.xxx.xxx.- como exceso de indemnización por\naños de servicio a que ha sido condenada la XXXXX.\n2.- Sobre el particular, cabe señalar en primer término, que el Código del Trabajo, en su artículo 178,\nestablece lo siguiente: “Artículo. 178:- Las indemnizaciones por término de funciones o de contratos de\ntrabajo establecidas por ley, las pactadas en contratos colectivos de trabajo o en convenios colectivos que\ncomplementen, modifiquen o reemplacen estipulaciones de contratos colectivos, no constituirán renta para\nningún efecto tributario.\nSin perjuicio de lo dispuesto en el inciso anterior, cuando por terminación de funciones o de contrato de\ntrabajo, se pagaren además otras indemnizaciones a las precitadas, deberán sumarse éstas a aquéllas con\nel único objeto de aplicarles lo dispuesto en el Nº 13 del artículo 17 de la ley sobre Impuesto a la Renta a las\nindemnizaciones que no estén mencionadas en el inciso primero de este artículo.”\n\n\nAhora bien, de conformidad a lo dispuesto en dicha norma, respecto a las indemnizaciones pactadas en\ncontratos colectivos de trabajo, este Servicio ha instruido a través de la Circular Nº 29 de 1991, (Capítulo III,\npunto 3.2) que las indemnizaciones canceladas bajo esta modalidad no constituyen renta para los efectos\ntributarios, cualquiera sea su monto.\nPor lo anterior procede expresar, respecto del límite de las noventa Unidades de Fomento, que establece el\ninciso final del artículo 172 del Código del Trabajo, que dicho límite solo encuentra aplicación respecto de las\nindemnizaciones legales por años de servicio, tal como lo explicitó este Servicio por medio de la Circular N°\n10 de 1999, vale decir únicamente respecto de aquellas previstas en el inciso segundo del artículo 163 del\nCódigo del Trabajo y de la indemnización sustitutiva del aviso previo contenida en el inciso segundo del\nartículo 161 y en el inciso cuarto del artículo 162 de dicho texto, esto último de acuerdo a dictamen de la\nDirección del Trabajo sobre los pagos que involucra el concepto indemnización legal.\nEn consecuencia, y basado en lo dispuesto en las normas mencionadas, cuando la empresa pague una\nindem"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-10-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-10-2021",
+      "document_id": "fd29b323-0f0d-5fa3-9ece-e14ebf6b18e1",
+      "chunk_uuid": "f99287aa-d36a-50c1-aa0d-eb4908cc5d43",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16900",
+      "content": " vida útil a los activos usados por sobre los nuevos. Lo anterior, a juicio de la Corte, evidencia que era necesario que la contribuyente diera cumplimiento a la norma recién transcrita.\nEn consecuencia, la Corte concluyó sobre este punto que, las razones aducidas por la contribuyente para efectuar la depreciación de los bienes del activo fijo son insuficientes para aceptar que le asiste la garantía de haber adherido de buena fe a las instrucciones del Servicio, y por tanto no resulta aplicable el artículo 26 del Código Tributario.\n\nA continuación, la Corte se hizo cargo de los gastos rechazados, señalando que al tenor de lo dispuesto por el inciso primero del artículo 31 de la LIR, el pago de la indemnización convencional por parte de la contribuyente no puede ser considerado como un gasto necesario para producir la renta, ya que para que tenga tal calidad debe tener la aptitud de generar renta, en el mismo o futuros ejercicios y que se encuentre asociado al interés, desarrollo o mantención del giro del negocio, cuestión que no acontece con esta indemnización.\n\nPor último, la Corte señaló que en cuanto al gasto por errores de producción que consistía en pagar fallas en diseños de reembolsos por pagos de productos defectuosos, pagos por incumplimiento de fecha, reembolsos de gastos por lavado y re-etiquetado y pagos por inspección de productos mal despachados, dicho gasto corresponde a indemnizaciones y por lo mismo se aleja de la necesariedad del desembolso efectuado para generar renta."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-VD-10-00044 -2019",
+      "source_type": "jurisprudencia",
+      "source": "RIT-VD-10-00044 -2019",
+      "document_id": "22a0f427-4e1c-54e0-8f7f-dfee2b2597d3",
+      "chunk_uuid": "181953f4-32f1-5b5d-af8c-994893c92602",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14950",
+      "content": "ada por aplicación del principio de buena fe del contribuyente, principio general del Derecho que también resulta aplicable en materia de derecho público y del derecho tributario. Al respecto, indicó el Sentenciador que el principio de buena fe, sería un principio general del derecho de carácter “superior”, y que fue reconocido por la legislación tributaria, en el artículo 26 del Código Tributario. Así, arguyó que no precedería el cobro retroactivo cuando el contribuyente se haya ajustado de buena fe a determinada interpretación de las leyes tributarias, lo que dejaba en evidencia que el citado Principio constituía un límite a la potestad administrativa, que resguardaba a los administrados de las actuaciones que lesionan sus derechos cuando éstos han actuado de Buena Fe ante la Autoridad. Por lo que, el Tribunal analizó la posibilidad de aplicar el efecto retroactivo en las modificaciones al avalúo de los bienes raíces, en el caso de contribuyentes que se encuentren de Buena Fe, concluyendo que esto no era posible, y que así lo había indicado la Corte Suprema, en los autos Rol N° 734-2013. \n\n\nEn síntesis, el Tribunal decretó que la contribuyente había obrado “de buena fe”, facilitando la determinación de los elementos de base del avalúo y fijación del impuesto territorial del caso de autos, y habiendo sido quien solicitó voluntariamente la modificación del catastro, aportando los antecedentes y documentos en que se basó la modificación individual, cuyo cobro retroactivo se reclamaba, por lo que dejó sin efecto los Giros suplementarios correspondientes a los años anteriores a aquel en que la sociedad presentó su solicitud de modificación."
+    },
+    {
+      "name": "Oficio N°3006 (25/10/1996)",
+      "source_type": "oficio",
+      "source": "Oficio N°3006 (25/10/1996)",
+      "document_id": "f1e1f0d0-c438-5318-8f51-24ae34c069b5",
+      "chunk_uuid": "3775072e-756a-57d8-a27e-bf7448afdcb6",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/pagina/jurisprudencia/adminis/1996/renta/nov95.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 2, NO. 1 CONTRATO DE ARRENDAMIENTO DE\nINMUEBLE - MEJORAS QUE EL\nARRENDATARIO EFECTUA EN PROPIEDAD ARRENDADA Y QUEDAN A BENEFICIO DEL\nARRENDADOR - MEJORAS UTILES - INCREMENTO DE PATRIMONIO PARA PROPIETARIO -\nCONCEPTO DE \"RENTA\" - DOCTRINA TRIBUTARIA DEL \"REDITO-PRODUCTO\" Y DEL\n\"REDITO-INCREMENTO PATRIMONIAL\".\n1.- SE HA CONSULTADO A ESTE SERVICIO DE IMPUESTOS INTERNOS, SOBRE EL\nTRATAMIENTO TRIBUTARIO QUE DEBEN RECIBIR LAS MEJORAS INCORPORADAS A UN\nINMUEBLE POR EL ARRENDATARIO DE ESTE, LAS CUALES SEGUN EL CONTRATO\nCELEBRADO ENTRE LAS PARTES QUEDAN A BENEFICIO DEL ARRENDADOR.\nEL CONTRATO CELEBRADO ENTRE LAS PARTES, EN SU CLAUSULA NOVENA DISPONE LA\nPROHIBICION A LA ARRENDATARIA DE EJECUTAR OBRA ALGUNA EN LA PROPIEDAD, SIN\nLA AUTORIZACION PREVIA Y ESCRITA DE LA ARRENDADORA, AGREGANDO EN SU INCISO\nSEGUNDO, QUE SIN PERJUICIO DE LO ANTERIOR, TODAS LAS MEJORAS HECHAS EN EL\nINMUEBLE, CON O SIN AUTORIZACION DE LA ARRENDADORA, QUE NO PUEDAN SEPARARSE\nDE EL SIN DETRIMENTO DE LA PROPIEDAD, QUEDARAN A BENEFICIO DE LA\nARRENDADORA, SIN DERECHO A REEMBOLSO O INDEMNIZACION ALGUNA.\nLA ARRENDATARIA EN EL AÑO 1995 REALIZO DIVERSAS MEJORAS EN EL BIEN RECIBIDO\nEN ARRIENDO, CONSISTENTES EN LA CONSTRUCCION DE HABITACIONES,\nESTACIONAMIENTOS, UNA PISCINA, INSTALACIONES DE DOS ASCENSORES, SALA DE\nJUEGOS, UN GIMNASIO, CASINO Y BAÑOS PARA EL PERSONAL, TODAS ELLAS POR UN\nVALOR DE $ 538.000.000.-, LAS QUE SEGUN LOS TERMINOS DEL ACUERDO, QUEDAN A\nBENEFICIO DE LA ARRENDADORA, SIN INDEMNIZACION ALGUNA.\n2.- AL RESPECTO, EN PRIMER TERMINO SE DEBE TENER PRESENTE QUE LAS\nCONSTRUCCIONES E INSTALACIONES DE QUE TRATA LA CONSULTA, CORRESPONDEN A\n\"MEJORAS UTILES\" LAS QUE DE CONFORMIDAD AL ARTICULO 1.936 DEL CODIGO CIVIL\nSON AQUELLAS INTRODUCIDAS POR EL ARRENDATARIO Y QUE AUMENTAN EL VALOR VENAL\nDE LA PROPIEDAD.\nEN RELACION A ESTAS MEJORAS, RESULTA APLICABLE EL ACUERDO DE LAS PARTES\nCONTENIDO EN EL NUMERAL NOVENO DEL CONTRATO EN ANALISIS, CUYO TENOR ES EL\nSIGUIENTE \"...TODAS LAS MEJORAS HECHAS EN EL INMUEBLE, CON O SIN\nAUTORIZACION DE LA ARRENDADORA, QUE NO PUEDAN SEPARARSE DE EL SIN\nDETRIMENTO DE LA PROPIEDAD, QUEDARAN A BENEFICIO DE LA ARRENDADORA SIN\nDERECHO A REEMBOLSO O INDEMNIZACION ALGUNA.\".\nASI, EL ARRENDADOR SE HARA DUEÑO DE LAS MEJORAS QUE AL TERMINO DEL CONTRATO\nNO PUEDAN SER SEPARADAS SIN DETRIMENTO DEL INMUEBLE DE SU PROPIEDAD,\nINCREMENTO DE PATRIMONIO QUE TIENE COMO TITULO LA ESTIPULACION DE LAS\nPARTES Y COMO MODO DE ADQUIRIR LA TRADICION QUE OPERA CON LA ENTREGA DEL\nINMUEBLE POR PARTE DEL ARRENDATARIO.\n3.- LA MEJORAS UTILES INTRODUCIDAS AL INMUEBLE ARRENDADO, EN CUANT"
+    },
+    {
+      "name": "Artículo 2429 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "b1106d4e-1ec3-514c-96f5-e1a4286a20f2",
+      "chunk_uuid": "465a3452-f3e3-52f4-afa2-12d8b7e97240",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720498",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXXVIII DE LA HIPOTECA,Artículo 2429 (DEL ART. 2)|Art. 2429. El tercer poseedor reconvenido para el pago de la hipoteca constituida sobre la finca que después pasó a sus manos con este gravamen, no tendrá derecho para que se persiga primero a los deudores personalmente obligados. Haciendo el pago se subroga en los derechos del acreedor en los mismos términos que el fiador. Si fuere desposeído de la finca o la abandonare, será plenamente indemnizado por el deudor, con inclusión de las mejoras que haya hecho en ella."
+    },
+    {
+      "name": "Oficio N°233 (28/01/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°233 (28/01/1999)",
+      "document_id": "89de27fb-e3b0-5cce-be90-f817078b63a8",
+      "chunk_uuid": "65a523ba-4938-5f28-a7a2-d223afbfdecb",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/ene05.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome| Ley Renta - 1999\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17º, Nº 13\nIndemnizaciones por años de servicios – Tratamiento tributario – Indemnizaciones pagadas en virtud\nde una ley – En su totalidad no constituye renta – Cuantificación debe considerar una remuneración\nmensual devengada con tope de 90 UF – Concepto de remuneración – Pronunciamiento de la\nDirección del Trabajo – Exceso pagado sobre límite de 90 UF reviste, desde punto vista laboral, el\ncarácter de indemnización voluntaria – Su monto no constituiría renta en la medida que no exceda\ndel límite máximo que establece la Ley de la Renta – Si aún quedare un exceso consituiría renta para\nefectos tributarios.\n1.- Por presentación indicada en el antecedente señala que mediante Oficio Nº 537, de 1998, se estableció\nque los pagos en exceso que se produzcan por concepto de indemnizaciones legales que se calculen\nconsiderándose una remuneración mensual devengada superior a 90 UF vigente a la fecha indicada, no\nquedan amparados en la calidad de ingresos no constitutivo de renta que la ley le otorga a dicho tipo de\nindemnizaciones, constituyendo éstos una renta afecta al impuesto único de Segunda Categoría de los\nartículos 42º, Nº 1 y 43º, Nº 1, de la Ley de la Renta.\nEn su opinión agrega que cuando se producen pagos en exceso entre la indemnización efectivamente\npagada al trabajador y el tope que señala el Código del Trabajo para la indemnización legal, se está ante\nuna indemnización de carácter voluntario que debe tratarse de acuerdo a lo señalado en el artículo 17º\nnúmero 13 de la Ley de la Renta y, de existir una parte afecta a impuesto, se debe aplicar lo señalado en el\nartículo 46º del mismo cuerpo legal.\nEl fundamento de lo anterior es que el Código del Trabajo en su artículo 172º señala en su parte pertinente lo\nsiguiente: \"....... Con todo, para los efectos de las indemnizaciones establecidas en este título, no se\nconsiderará una remuneración mensual superior a 90 Unidades de Fomento del último día del mes anterior\nal del pago, limitándose a dicho monto la base de cálculo.\"\nLo anterior significa que si un empleador está obligado a pagar las indemnizaciones por término de contrato\nestablecidas en el Título V del Código del Trabajo (artículo 163 incisos 1 y 2 por aplicación del 161º incisos 1\ny 2), sólo se considerarán, para la base de cálculo, remuneraciones no superiores a 90 UF. Como se\ndesprende, por imperativo legal no se pueden considerar remuneraciones superiores a ese límite por lo que\ncualquier suma que sobrepase dicho tope debe necesariamente considerarse indemnización voluntaria.\nPor otra parte, el artículo 178º del Código del Trabajo en su inciso segundo prescribe...\" cuando por\nterminación de funciones o de contrato de trabajo se pagaren además otras indemnizaciones a las\nprecitadas, deberán sumarse éstas a aquéllas con el único objeto de aplicarles lo dispuesto en el Nº 13 del\nartículo 17º de la Ley sobre Impuesto a la Renta a las indemnizaciones que no estén mencionadas en el\ninciso primero de este artículo.\"\nComo se ve, la ley laboral considera un límite para la base de cálculo de las indemnizaciones legales de 90\nUF.\nPor otra parte, señala que si se pagan otras indemnizaciones (voluntarias, convencionales, contrato\nindividual, etc.), deberá aplicarse el citado artículo 17º Nº 13 de la Ley de la Renta.\nEn relación con lo anteriormente expuesto, solicita reconsiderar el Nº 4 del Oficio Nº 537, de 13.02.98, o en\nsu defecto aclarar el sentido y alcance del mismo.\n2.- Sobre el particular, cabe señ"
+    },
+    {
+      "name": "Oficio N°575 (17/02/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°575 (17/02/2000)",
+      "document_id": "5cc17f20-670c-54e5-8522-9466cbc85842",
+      "chunk_uuid": "7c08f6b8-9208-5106-a065-3df3d994b79b",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/febrero04.htm",
+      "content": " trabajo establecidas por ley, las pactadas en contratos colectivos de\ntrabajo o en convenios colectivos que complementen, modifiquen o reemplacen\nestipulaciones de contratos colectivos, no constituirán renta para ningún efecto\ntributario.\nAhora bien, de conformidad a lo dispuesto en dicha norma, respecto a las\nindemnizaciones pactadas en contratos colectivos este Servicio ha instruido a través de\nla Circular Nº 29 de 1991, (Capítulo III, punto 3.2) que las canceladas bajo esta\nmodalidad no constituyen renta para los efectos tributarios, cualquiera sea su monto.\nPor lo anterior procede expresar, que las instrucciones impartidas por esta Dirección a\ntravés de la Circular Nº 10, de 1999, respecto del límite de las noventa Unidades de\nFomento, que establece el inciso final del artículo 172 del Código del Trabajo, solo\n\n\nencuentra aplicación respecto de las indemnizaciones legales por años de servicio, vale\ndecir únicamente respecto de aquellas previstas en el inciso segundo del artículo 163\ndel Código del Trabajo y de la indemnización sustitutiva del aviso previo contenida en el\ninciso segundo del artículo 161 y en el inciso cuarto del artículo 162 de dicho texto, esto\núltimo de acuerdo a dictamen de la Dirección del Trabajo sobre los pagos que involucra\nel concepto indemnización legal.\nEn consecuencia, y basado en lo dispuesto en las normas mencionadas, cuando la\nempresa pague una indemnización pactada en un contrato colectivo considerando una\nremuneración mensual superior a 90 Unidades de Fomento, dicha indemnización\nasumirá el carácter de no renta en su totalidad, cualquiera sea su monto, ya que las\ninstrucciones establecidas en la Circular Nº 10 de 1999 de este Servicio, no se aplican\nen el caso de estas indemnizaciones.\n3.- Ahora bien, si la citada empresa paga además de la indemnización pactada en un\ncontrato colectivo, una indemnización voluntaria, el inciso segundo del artículo 178 del\nCódigo del Trabajo dispone que : \" Sin perjuicio de lo dispuesto en el inciso anterior,\ncuando por terminación de funciones o de contrato de trabajo se pagaren además otras\nindemnizaciones a las precitadas, deberán sumarse éstas a aquellas con el único objeto\nde aplicarles lo dispuesto en el Nº 13 del artículo 17 de la Ley sobre Impuesto a la Renta\na las indemnizaciones que no estén mencionadas en el inciso primero de este artículo\".\nEn este sentido el punto 4 de la letra B.- del Capítulo III de la Circular 29 de 1991,\nestablece para los fines de precisar que parte de las indemnizaciones pactadas en\ncontratos individuales y/o pagadas voluntariamente no constituyen renta para efectos\ntributarios, que a dichas indemnizaciones deberán adicionárseles aquellas legales y/o\ncontractuales establecidas en contratos o convenios colectivos que el trabajador con\nmotivo del término del contrato de trabajo tenga derecho a percibir, conforme a las\nnormas de la ley Nº 19.010, ó a las estipulaciones de los respectivos contratos o\nconvenios colectivos.\nDe acuerdo con lo expresado, en el caso que Ud. indica, es decir, cuando se paga\nconjuntamente una indemnización pactada en un contrato colectivo y una indemnización\nvoluntaria, la operatoria práctica a seguir a partir del promedio actualizado de las últimas\n24 remuneraciones, es multiplicar dicho promedio por el número de años de servicio del\ntrabajador, y a continuación restar de dicho monto la indemnización establecida en el\nconvenio colectivo.\nEl monto positivo que resulte de la operación anterior, constituirá el monto máximo que\npor concepto de la indemnización voluntaria a que Ud. se refiere, no constituye renta en\nvirtud del artículo 17 Nº 13, de la Ley de la Renta.\n4.- Finalmente procede expresar, que una vez determinada la parte de las\nindemnizaciones voluntarias que quedan afectas al impuesto único de segunda\n"
+    },
+    {
+      "name": "Circular N°44 (12/07/2016)",
+      "source_type": "circular",
+      "source": "Circular N°44 (12/07/2016)",
+      "document_id": "9a629f44-a52c-5a18-922c-e899e851d68d",
+      "chunk_uuid": "5ad279d7-2c98-5141-bce9-535055b6ec55",
+      "chunk_id": 56,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2016/circu44.pdf",
+      "content": "será el que resulte de multiplicar el porcentaje así determinado por el valor total de las mejoras en \ncuestión. \n \nEjemplo:\nI. Antecedentes.\nPorcentaje de derechos adquiridos sobre bien raíz no agrícola…………………………………………………………………………\n80%\nValor de los derechos adquiridos, reajustado a la fecha de enajenación……………..………..………………………………\n$ 50.000.000\nFecha de adquisición……………………………………………………………………………………………………………………… 14-09-2012\nMonto de mejoras útiles realizadas al bien raíz no agrícola, reajustadas a la fecha de enajenación…………………………………$ 15.000.000\nPorcentaje de derechos enajenados (del total del bien raíz no agrícola)………………………………………………………….\n60%\nII. Desarrollo.\nPorcentaje de derechos enajenados\n60%\nPorcentaje de derechos adquiridos\n80%\n$ 15.000.000\nx\n80%\nx\n75%\n=\n$ 9.000.000\nValor reajustado de los derechos adquiridos\n$ 50.000.000\nx\n75%\n=\n$ 37.500.000\nCosto tributario  total de los derechos  enajenados………………………………………………………………\n$ 46.500.000\nValor de las mejoras reajustadas que corresponde al \nporcentaje de derechos enajenados\n=\n75%\n=\n \n \nAclarado lo anterior, cabe indicar que formarán parte del valor de adquisición los desembolsos, \ndebidamente reajustados, incurridos en mejoras que cumplan los siguientes requisitos: \n \n(b.1) \nDebe tratarse de mejoras que hayan aumentado el valor del bien. \n \nFormarán parte del valor de adquisición las mejoras que hayan aumentado el valor venal del bien raíz \nde que se trate, las que de acuerdo a lo instruido por este Servicio en la Circular N° 53 de 1978 y a lo \n\n\n41 \n \ndispuesto en el inciso 2°, del artículo 909 del Código Civil, corresponden a aquellas mejoras \ndenominadas útiles59 60. \n \nPor lo anterior, no formarán parte del valor de adquisición las reparaciones locativas (aquellas que \nsubsanan deterioros) y las mejoras necesarias (aquellas que reparan el mal estado), de acuerdo a lo \ninstruido en la referida Circular61. \n \n(b.2) \nLas mejoras pueden haber sido realizadas por el enajenante o un tercero, siempre que \nen este último caso hayan pasado a formar parte de la propiedad del enajenante62. \n \nSe entenderá que las mejoras fueron realizadas por el enajenante cuando las llevó a cabo él mismo, \nesto es, cuando fueron el fruto de su propio esfuerzo. Asimismo, se entenderá que las mejoras fueron \nrealizadas por el enajenante cuando fueron efectuadas por un tercero por encargo de aquel. \n \nSe entenderá que las mejoras fueron realizadas por un tercero cuando no hubiere mediado encargo \nalguno por parte del enajenante, ya sea que haya existido autorización o no de parte de éste último. \nEn este caso, es necesario, además, que las mismas hayan pasado a formar parte del bien raíz del \nenajenante. Sin perjuicio de lo anterior, el enajenante no podrá considerar las mejoras introducidas \npor terceros durante el tiempo en que todavía no era dueño. \n \nLas mejoras debieron implicar la realización de desembolsos o inversiones efectivas, ya sea que \naquellas hayan sido efectuadas por el enajenante o por un tercero.  \n \n(b.3) \nLas mejoras deben haber sido declaradas en la oportunidad que corresponda ante este \nServicio, en la forma que establezca mediante resolución, para ser incorporadas en la \ndeterminación del avalúo fiscal del respectivo bien raíz para los fines del impuesto \nterritorial, con anterioridad a la enajenación. \n \nPara estos efectos, una mejora puede ser declarada siempre que cumpla los requisitos referidos \nprecedentemente. \n \nSin perjuicio de la oportunidad que establezca la resolución respectiva de este Servicio, cabe hacer \npresente que la declaración debe realizarse, en todo caso, antes de la enajenación del bien raí"
+    },
+    {
+      "name": "Artículo 903 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "81aaf10f-b6f6-5c82-9d15-543f7ffac630",
+      "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718791",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 903 (DEL ART. 2)|Art. 903. La acción reivindicatoria se extiende al embargo, en manos de tercero, de lo que por éste se deba como precio o permuta al poseedor que enajenó la cosa."
+    },
+    {
+      "name": "Artículo 897 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "cc306aad-aed6-53bc-8aff-90d630f7e8dc",
+      "chunk_uuid": "e090223f-9045-5bdb-b913-637983378acd",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718785",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 897 (DEL ART. 2)|Art. 897. Si alguien, de mala fe, se da por poseedor de la cosa que se reivindica sin serlo, será condenado a la indemnización de todo perjuicio que de este engaño haya resultado al actor."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Libertador General Bernardo O`Higgins: Sentencia RIT-GR-19-00005-2015",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-19-00005-2015",
+      "document_id": "b66fd965-012e-5e8f-a9f1-f1d2c3c95d95",
+      "chunk_uuid": "5bedb9c4-0e37-500e-b651-686bce6a0031",
+      "chunk_id": 7,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1302",
+      "content": "ando cómo hechos como hechos sustanciales, pertinentes y controvertidos, los siguientes:\n\n1.Efectividad de que el Servicio de Impuestos Internos le solicitó antecedentes al reclamante con anterioridad a la emisión de la Resolución reclamada, respecto de su Declaración de Impuesto a la Renta Año Tributario 2012. Efectividad de haberse notificado uno o más requerimientos de antecedentes al reclamante. Forma de notificación y fecha de la misma.\n\n2.Efectividad de haberse verificado inconsistencias entre lo declarado por el reclamante en su Formulario 22, Año Tributario 2012, y la información sobre honorarios entregada por los agentes retenedores en las respectivas declaraciones juradas. Detalle y naturaleza de las inconsistencias.\n\nSEXTO: Que la interlocutoria de prueba fue notificada a las partes en la forma establecida en la ley, según consta en testimonio de fojas 42 y certificación de fojas 44, sin que haya sido objeto de impugnación por las partes de este juicio.\n\nSÉPTIMO: Que, es una carga procesal de las partes del juicio acompañar, aportar, solicitar y/o producir cualquiera de los diferentes medios de prueba que les franquea la ley, según el mérito de los puntos de prueba contenidos en la respectiva resolución.\n\nQue, así las cosas, dentro del término probatorio, las partes deben rendir la prueba que estimen necesaria a fin de lograr acreditar los hechos fijados por el Tribunal, como sustanciales, pertinentes y controvertidos.\n\nQue, por expresa disposición del inciso 3° del artículo 132 del Código Tributario, toda la prueba de la cual las partes han de servirse para sus propósitos, debe ser rendida dentro del término probatorio.\n\nQue, no pueden confundirse aquellos documentos fundantes, acompañados por las partes en los escritos de reclamación o de contestación, que han sido presentados antes de abierto el término probatorio, con los instrumentos probatorios propiamente tales, que permiten corroborar la pretensión del actor en la etapa probatoria, que precisamente se inicia con la dictación de la respectiva interlocutoria de prueba; toda vez, que, los primeros, sólo tienen el mérito de justificar el derecho ejercido en juicio, o mejor dicho, de posibilitar la admisibilidad de la acción.\n\nAl efecto, resulta útil señalar, que la doctrina identifica a los documentos fundantes, como “aquellos de los cuales emana el derecho que se invoca” (Prof. Mario Casarino Viterbo (“Manual de Derecho Procesal”, Tomo IV, Editorial Jurídica de Chile, Santiago, 1974, Pág. 27) o “como aquellos en los cuales específicamente está documentado el derecho del actor, es decir, su título de crédito o su derecho real” (Prof. Eduardo J. Couture (“Procedimiento. Primer Curso. Juicio Ordinario”, Editorial Medina. Montevideo. 1900. Pág 35), y que han de acompañarse necesariamente en la demanda, o como en este caso, en la reclamación, según exige el número 3 del artículo 125 del Código Tributario. De allí emana su finalidad, cual es demostrar la fuente de la causa de pedir, o causa petendi o mejor dicho, los hechos materiales o los actos jurídicos que la constituyen.\n\nPor lo expuesto, resulta relevante determinar el momento de la incorporación al juicio de los documentos, por cuanto, al ser acompañados al reclamo -al inicio y dentro de la etapa de discusión- han de tener el carácter de documentos fundantes, dado que así se respetan dos importantes principios procesales, cuales son: igualdad de las partes y de la buena fe procesal de los litigantes.\n\nLa igualdad se materializa, en la posibilidad real que tienen las partes, de conocer recíprocamente, los documentos y/o antecedentes más importantes que poseen y especialmente en el derecho de objetarlos y desvirtuarlos en la oportunidad procesal respectiva.\n\nLa buena fe procesal, obliga a los litigantes a demostrar desde el inicio del juicio que sus pretensiones tienen antecedentes serios, que hacen verosímil su acción, posibilitando a la parte contraria, adecuar su comportamiento procesal, en relación con"
+    },
+    {
+      "name": "Oficio N°1427 (28/05/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1427 (28/05/2015)",
+      "document_id": "6c3a9e21-2ccc-50bb-960b-5533f88e4d1f",
+      "chunk_uuid": "295753da-fdb9-5cc2-b750-99bbdfec295f",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/ventas/ja1427.htm",
+      "content": " fecha 27.11.2013, oportunidad a partir de la cual él ya no puede\ndesconocer la existencia del Ord. N° 2931 de 2012.\nSin perjuicio de lo anterior, resta determinar si acaso el peticionario puede esgrimir la buena fe, como\nprincipio general, al menos durante el periodo que va desde la adquisición del activo fijo (01./02/2013),\npasando por la presentación de la solicitud de devolución de remanente de crédito fiscal de IVA (30/09/2013)\ny hasta la fecha en que tomó conocimiento del Oficio Ord. N° 2931 de 2012 (audiencia de fecha 27.11.2013).\nAl respecto, y a partir del artículo 706 del Código Civil, la buena fe en materia tributaria puede definirse como\nla conciencia que tiene el contribuyente que su conducta tributaria se ajusta a Derecho, en la forma que éste\nha sido interpretado por la Dirección .\nEn consecuencia, y en virtud del principio general de buena fe, del cual el artículo 26 del Código Tributario\nconstituye una manifestación, puede admitirse que:\na) Al momento de adquirir el inmueble (y salvo que en la instancia de fiscalización pertinente se llegue a una\napreciación distinta de los hechos) el contribuyente de buena fe pudo entender que el arriendo de\nestacionamientos y bodegas, anexos al arriendo del inmueble principal (oficinas), estaba afecto a IVA para\nconstituir su remanente de crédito fiscal por adquisición de activo fijo conforme al Oficio Ord. N° 2019 de\n2011.\nb) Que, transcurridos los seis meses desde la adquisición del activo fijo, necesarios para solicitar la\ndevolución del remanente del crédito fiscal, y hasta el momento de presentar la solicitud, el peticionario aún\nse encontraba de buena fe respecto de la interpretación contenida en el Oficio Ord. antes citado.\nc) Por esta razón, la resolución que en definitiva se dicte debe otorgar la devolución del remanente del\ncrédito fiscal considerando la doctrina del oficio Ord. N° 2019 de 2011.\nd) Sin perjuicio de lo anterior, atendida la mecánica del Impuesto al Valor Agregado, otorgada la devolución\ndel remanente de crédito fiscal por adquisición de activo fijo en los términos antes indicados, a partir del\nperiodo tributario en que tomó conocimiento fehaciente del Oficio Ord. N° 2931 de 2012 (audiencia de fecha\n27.11.2013), el contribuyente debió realizar restituciones adicionales en caso de estimarse que el\narrendamiento de estacionamiento y bodegas, en su caso particular, está no afecto al IVA.\nIII.- CONCLUSIÓN:\nConforme al análisis precedente, cabe concluir que en el caso bajo estudio no se configura una hipótesis de\ncobro de impuestos con efecto retroactivo, de suerte que ninguna incidencia tiene la falta de publicación\nmediante su inserción en extracto del Oficio Ord. N° 2931 de 2012, que aparentemente habría contenido un\ncambio de criterio, por aplicación de lo dispuesto en el artículo 15 en relación a los incisos primero y final del\nartículo 26, ambos del Código Tributario.\nNo obstante lo anterior, en virtud del principio general de buena, del cual el artículo 26 del Código Tributario\nconstituye una manifestación, puede admitirse dicha buena fe al menos durante el periodo que va desde la\nadquisición del activo fijo (01./02/2013), pasando por la presentación de la solicitud de devolución de\nremanente de crédito fiscal de IVA (30/09/2013) y hasta la fecha en que tomó conocimiento del Oficio Ord. N°\n2931 de 2012 (audiencia de fecha 27.11.2013).\nEn consecuencia, la resolución que en definitiva se dicte deberá otorgar la devolución del remanente del\ncrédito fiscal considerando la doctrina del oficio Ord. N° 2019 de 2011, sin perjuicio que, a partir del periodo\ntributario en que"
+    },
+    {
+      "name": "Artículo 909 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "e9331dea-2d45-5a88-809d-d47ffdb58c44",
+      "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718798",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 909 (DEL ART. 2)|Art. 909. El poseedor de buena fe, vencido, tiene asimismo derecho a que se le abonen las mejoras útiles, hechas antes de contestarse la demanda. Sólo se entenderán por mejoras útiles las que hayan aumentado el valor venal de la cosa. El reivindicador elegirá entre el pago de lo que valgan al tiempo de la restitución las obras en que consisten las mejoras, o el pago de lo que en virtud de dichas mejoras valiere más la cosa en dicho tiempo. En cuanto a las obras hechas después de contestada la demanda, el poseedor de buena fe tendrá solamente los derechos que por el artículo siguiente se conceden al poseedor de mala fe."
+    },
+    {
+      "name": "Artículo 1268 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "23ba462d-b1ed-50de-9f6d-c30c95ba9785",
+      "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719190",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título VII DE LA APERTURA DE LA SUCESION Y DE SU ACEPTACION, REPUDIACION E INVENTARIO,Artículo 1268 (DEL ART. 2)|Art. 1268. El heredero podrá también hacer uso de la acción reivindicatoria sobre cosas hereditarias reivindicables, que hayan pasado a terceros, y no hayan sido prescritas por ellos. Si prefiere usar de esta acción, conservará, sin embargo, su derecho para que el que ocupó de mala fe la herencia le complete lo que por el recurso contra terceros poseedores no hubiere podido obtener, y le deje enteramente indemne; y tendrá igual derecho contra el que ocupó de buena fe la herencia en cuanto por el artículo precedente se hallare obligado."
+    },
+    {
+      "name": "Resolución N°120 (12/10/2011)",
+      "source_type": "resolucion",
+      "source": "Resolución N°120 (12/10/2011)",
+      "document_id": "39242214-d2a2-5228-bae7-db66f8bad087",
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2011/reso120.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRESOLUCION EXENTA SII N°120 DEL 12 DE OCTUBRE DEL 2011\nMATERIA : ESTABLECE PROCEDIMIENTO DE EMISIÓN DE CUPÓN DE PAGO DEL FORMULARIO N° 50, QUE SEA PRESENTADO POR INTERNET.\nHoy se ha resuelto lo que sigue:\nVISTOS: Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del\nMinisterio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980; en los artículos 6°, letra A, N° 1, 29 y 30, inciso primero, del Código Tributario,\ncontenido en el artículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley\nN° 824, de 1974, y sus modificaciones; las instrucciones contenidas en la Circular N° 37, de 16 de Julio de 2004, de este Servicio; la Resolución Exenta SII N° 27,\ndel 27 de Julio de 2001, modificada por Resoluciones Ex. SII Nos 87, de 08 de septiembre 2004; 94, de 23 de septiembre de 2005; 27, de 25 de febrero de 2009; 78,\nde 28 de mayo 2009; 144, de 31 de Agosto de 2010; y N° 41, de 29 de marzo de 2011; y las instrucciones contenidas en la Resolución Ex. SII N° 29, del 31 de Julio\nde 2001, y,\nCONSIDERANDO:\n1°        Que, el Servicio de Impuestos Internos, mantiene un interés constante de contribuir eficazmente con el desarrollo y masificación de las tecnologías de\ninformación, de facilitar la forma de declarar y pagar los impuestos, de dar una mejor atención al contribuyente y de eliminar la burocracia y trámites innecesarios;\n2°        Que, el inciso segundo del artículo 30 del Código Tributario, confiere a la Dirección del Servicio la facultad de autorizar a los contribuyentes para que\npresenten los informes y declaraciones en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;\n3°        Que, mediante Resolución Ex. N° 27, de 27 de julio de 2001, se dispuso la creación del Formulario N° 50 de declaración y pago simultáneo mensual de\nimpuestos, modificada por  Resoluciones Ex. SII Nos 87, de 08 de septiembre 2004; 94, de 23 de septiembre de 2005; 27, de 25 de febrero de 2009; 78, de 28 de\nmayo 2009; 144, de 31 de Agosto de 2010; y N° 41, de 29 de marzo de 2011.\n4°        Que, este Servicio, mediante Circular N° 37, de 16 de Julio de 2004, impartió instrucciones relativas al procedimiento de declaración y rectificatoria del\nFormulario 50 de Declaración y Pago Simultáneo Mensual de Impuestos, estableciendo que - para facilitar el referido proceso e incentivar la presentación a través\nde Internet del referido formulario- habilitó una aplicación en su página Web que permite su presentación, mediante transmisión electrónica de datos, vía Internet,\nsiempre que el contribuyente efectúe el correspondiente pago en línea.  \n5°        Que, a fin de incentivar la presentación a través de Internet del Formulario N° 50, es necesario establecer una modalidad de pago adicional que permitirá, a\nlos contribuyentes que declaren por dicha vía, poder efectuar la cancelación de los impuestos correspondientes, a través de la presentación ante las Instituciones\nRecaudadoras Autorizadas, de un cupón de pago que se generará, en forma electrónica, por medio de una aplicación habilitada para dichos efectos en la  página"
+    },
+    {
+      "name": "Oficio N°3273 (10/11/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°3273 (10/11/2022)",
+      "document_id": "fa228a84-e2e3-5198-9ae8-42d565ebbcf1",
+      "chunk_uuid": "205f46c1-38f6-54c7-a139-9dadab33327b",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3273-10%2F11%2F2022.pdf&extension=pdf&acc=download&id=d50dbee3-c114-4141-bce1-32f08ddcc3fa&mediaType=application%2Fpdf",
+      "content": "afo primero de la letra g) del \nartículo 16 de la LIVS. \n          \n1  Ver instrucciones sobre la materia en la Circular N° 37 de 2021 y Oficio N° 995 de 2021. \n\n\n2 \n \n2)  De acuerdo con lo anterior, no es necesario corregir el valor de las mejoras para los fines de \nla norma citada. \n3)  Para los efectos del impuesto a la renta, se distingue, respecto de su tratamiento tributario, \nentre “reparaciones y “mejoras útiles”2. \nPor “reparaciones” se entiende aquellas que tienen por finalidad subsanar los deterioros que \ncorresponden al uso normal del bien, manteniéndolo en condiciones de ser utilizado, sin \nagregarle un valor importante al mismo. Tales reparaciones se aceptan como gastos \nnecesarios para producir la renta, conforme a lo dispuesto en el inciso primero del artículo \n31, de la Ley sobre Impuesto a la Renta. \nPor “mejoras útiles” se entienden aquellos desembolsos necesarios y considerables, que \nacondicionan o remodelan el bien, agregándole un valor importante que le aumenta su \nduración y productividad. El valor de tales mejoras útiles, no constituyen un gasto del \nperíodo en que son realizadas, sino que pasan a formar parte del activo que ha sido \nbeneficiado con la mejora, siguiendo la suerte de dicho activo. \nIII  CONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que no \ncorresponde sumar el valor de las mejoras al valor de adquisición del inmueble para efectos de \naplicar la base imponible especial contenida en el párrafo primero de la letra g) del artículo 16 de \nla LIVS, ni tampoco corregir su valor para los fines de la norma citada. \nPara efectos del impuesto a la renta, las mejoras útiles no son un gasto del ejercicio, sino que \npasan a formar parte del valor del activo que ha sido beneficiado con la mejora, siguiendo la \nsuerte de este. \n \n \n \n \nRICARDO PIZARRO ALFARO \nDIRECTOR (S) \n \n \nOficio N° 3273, de 10-11-2022 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n          \n2  Oficios N° 2771 de 1994, N° 714 de 2022, N° 3037 de 2021; Circular N° 53 de 2020, apartados 1.1. y 3.5.4. \n"
+    },
+    {
+      "name": "Oficio N°963 (11/04/2005)",
+      "source_type": "oficio",
+      "source": "Oficio N°963 (11/04/2005)",
+      "document_id": "e517e8bb-6149-5440-a1cd-25ab1ade2458",
+      "chunk_uuid": "0528519b-8e24-57a4-9135-319300439e59",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja924.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2005\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 13 – CÓDIGO DEL TRABAJO, ART. 126°\nY 178° – OFICIO N° 2.325, DE 2004. (ORD. N° 963, DE 11.04.2005)\nTRATAMIENTO TRIBUTARIO DE INDEMNIZACIÓN POR AÑOS DE SERVICIO PAGADA A UN EX-\nTRABAJADOR CUYA FUENTE ES UN PROTOCOLO DE DERECHOS LABORALES, CUYA\nNATURALEZA ES LA DE UN CONVENIO COLECTIVO, DE ACUERDO A LO DISPUESTO POR EL\nARTÍCULO 178°, DEL CÓDIGO DEL TRABAJO, EN CONCORDANCIA CON LO ESTABLECIDO POR EL\nARTÍCULO 17°, N°13, DE LA LEY DE LA RENTA.\n1.- Por presentación indicada en el antecedente, y basado en las consideraciones de hecho y de derecho\nque expone en su escrito, solicita se declare jurídicamente procedente la exención de impuesto contemplada\nen el artículo 178 del Código del Trabajo, respecto de la suma que le fue pagada por concepto de\nindemnización por años de servicio, contemplada en su finiquito de trabajo de fecha 23 de diciembre de\n2003, suscrito ante notario el día 31 de diciembre del mismo año, entre el recurrente y la empresa\nXXXXXXXX S.A..\nPor las razones que expone solicita, además, que se declare que el descuento por concepto de impuesto\núnico determinado sobre la cantidad pagada por concepto de indemnización por años de servicios\nascendente a la suma de $ 0.000.000.- fue jurídicamente improcedente, y que por tanto, se ordene la\ndevolución de dicho valor, a través del respectivo instrumento de pago a su nombre.\n2.- Sobre el particular, cabe expresar que dentro de los antecedentes aportados, existe una fotocopia de un\nfiniquito de contrato de trabajo, celebrado con fecha 23 de diciembre de 2003, suscrito ante notario entre el\nocurrente y la empresa XXXXXXXX S.A., adjudicataria de los derechos de explotación de las concesiones\nde servicios sanitarios de propiedad de la Empresa YYYYYYYY S.A.\nDe acuerdo a lo que se establece en la Cláusula Primera del referido finiquito, el citado ex-trabajador prestó\nservicios al ex-empleador desde el 19 de Octubre de 1978, hasta el 22 de diciembre de 2003, fecha esta\núltima de la terminación de sus servicios por necesidades de la empresa, consistente en una racionalización\ny reestructuración de la empresa, originada por la adjudicación por parte de XXXXXXXX S.A. del derecho de\nexplotación de las concesiones de servicios sanitarios de propiedad de YYYYYYYY S.A. (Artículo 161 N° 1\ndel Código del Trabajo).\nEn Cláusula Segunda del referido documento, se detallan las sumas pagadas en virtud del finiquito y los\ndescuentos practicados al trabajador, destacándose dentro de sus haberes el pago por concepto de\nindemnización por años de servicio ascendente a la suma de $ 00.000.000; y dentro de los descuentos el\nimpuesto retenido por la indemnización por años de servicio por la suma de $ 0.000.000.-\nEn la parte final de esta misma cláusula se deja expresa constancia:\na) Que el trabajador recibió de parte de YYYYYYYY S.A. a título de anticipo de indemnización por años de\nservicio, con fecha 23 de Diciembre de 2003 la suma de $ 00.000.000-, con motivo del proceso de\ntransferencia de los derechos de explotación que experimentó la empresa el año 2003. Al efecto las partes\nsuscribieron todos y cada uno de los documentos respectivos que ellas reconocen conocer y mantener en su\npoder.\nb) Que con ocasión del proceso de licitación de los derechos de explotación de los servicios sanitarios de\nXXX, de propiedad de YYYYYYYY S.A"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-GR-10-00121-2014",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-10-00121-2014",
+      "document_id": "fd555834-63e5-50bf-87b3-288e90e60b87",
+      "chunk_uuid": "20feebc2-9492-5264-a2cc-40021e275c54",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/3002",
+      "content": "El Tribunal Tributario y Aduanero de la Región del Bío Bío rechazó un reclamo en contra de las Liquidaciones mediante las cuales se determinaron diferencias de impuestos correspondientes al mayor valor obtenido en la enajenación de acciones.\n\nEl actor señaló, en primer lugar, que las Liquidaciones fueron notificadas impropiamente por el Servicio ya que notificó solamente al mandante y no al mandatario quien -a su juicio- también tendría la calidad de parte, motivo por el cual las liquidaciones no pudieron entenderse noticiadas hasta que la última parte lo hubiere sido, en atención al artículo 65 del Código de Procedimiento Civil.\n\nEn segundo lugar, el actor señaló que las Liquidaciones estarían formuladas sobre una base imponible que no constituye renta. Esto por cuanto al momento de la enajenación estaba vigente el artículo 18 ter de la Ley de la Renta, a partir del cual interpretó de buena fe que la venta de acciones no era un hecho gravado no obstante tratarse de una sociedad anónima cerrada.\n\nEl Servicio evacuó el traslado señalando que el actor hizo una aplicación errada del entonces vigente artículo 18 ter, pues indica haber interpretado de buena fe que la norma se aplicaba al mayor valor obtenido en la venta de acciones de sociedades anónimas cerradas, a pesar de que esta exige expresamente que se trate de sociedades anónimas abiertas con presencia bursátil.\n\nEn segundo lugar, el Servicio señaló que no existe el plazo común alegado por el actor, pues no existen dos partes como ésta aduce; es decir, que el hecho de que el contribuyente designe un mandatario no implica la existencia de una parte adicional, ya que sus actos se consideran actos del mandante. Por lo cual las notificaciones fueron realizadas dentro de plazo.\n\nEl Tribunal señaló que la alegación consistente en que existía dos partes no resiste mayor análisis pues el actor aplica mañosamente normas propias de las actuaciones judiciales al ámbito administrativo, olvidando que representante y representado son solamente un parte y no dos.\n\nPor otra parte el sentenciador consideró imposible que una sociedad anónima cerrada se encuadre dentro de lo dispuesto en el citado artículo 18 ter; no siendo aplicable lo dispuesto en el artículo 26 del Código Tributario por cuanto éste es aplicable cuando el contribuyente se ajusta de buena fe a un interpretación del Servicio y no a una interpretación propia del contribuyente."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Libertador General Bernardo O`Higgins: Sentencia RIT-GR-19-00037-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-19-00037-2013",
+      "document_id": "4c08fa63-945c-5389-b039-b8e64d8283e1",
+      "chunk_uuid": "b099f7b6-fe8b-5ae5-8d34-b6e94b9ec395",
+      "chunk_id": 11,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1459",
+      "content": " invoca” (Prof. Mario Casarino Viterbo (“Manual de Derecho Procesal”, Tomo IV, Editorial Jurídica de Chile, Santiago, 1974, Pág. 27) o “como aquellos en los cuales específicamente está documentado el derecho del actor, es decir, su título de crédito o su derecho real” (Prof. Eduardo J. Couture (“Procedimiento. Primer Curso. Juicio Ordinario”, Editorial Medina. Montevideo.1900.Pág 35), y que han de acompañarse necesariamente en la demanda, o como en este caso, en la reclamación, según exige el número 3 del artículo 125 del Código Tributario. De allí emana su finalidad, cual es demostrar la fuente de la causa de pedir, o causa petendi o mejor dicho, los hechos materiales o los actos jurídicos que la constituyen.\n\nPor lo expuesto, resulta relevante determinar el momento de la incorporación al juicio de los documentos, por cuanto, al ser acompañados al reclamo -al inicio y dentro de la etapa de discusión-han de tener el carácter de documentos fundantes, dado que así se respetan dos importantes principios procesales, cuales son: igualdad de las partes y de la buena fe procesal de los litigantes.\n\nLa igualdad se materializa, en la posibilidad real que tienen las partes, de conocer recíprocamente, los documentos y/o antecedentes más importantes que poseen y especialmente en el derecho de objetarlos y desvirtuarlos en la oportunidad procesal respectiva.\n\nLa buena fe procesal, obliga a los litigantes a demostrar desde el inicio del juicio que sus pretensiones tienen antecedentes serios, que hacen verosímil su acción, posibilitando a la parte contraria, adecuar su comportamiento procesal, en relación con el valor de convicción que de ellos emane.\n\nSegún lo expuesto, es posible concluir, que los documentos o instrumentos probatorios que han de acompañarse o solicitarse, una vez iniciada la etapa probatoria –-según el tenor del artículo 132 inciso tercero ya citado-- tienen por objeto fundamental dilucidar la controversia fijada a la luz de los hechos sustanciales, pertinentes y controvertidos determinados por el Tribunal con la dictación del Auto de Prueba, a diferencia de aquellos que se acompañan al escrito de reclamo cuya finalidad es posibilitar la admisibilidad de éste.\n\nDECIMO NOVENO: Que, ciertamente, la distinción señalada sería absolutamente inoficiosa de no existir la disposición contenida en el inciso tercero del artículo 132 del Código Tributario, en razón, de que por lo dispuesto en el artículo 148 del referido código, habría que recurrir de manera supletoria a la normativa contenida en el Libro primero del Código de Procedimiento Civil, lo que a su vez, y por lo establecido en el artículo tercero de dicho cuerpo legal, nos permitiría aplicar el artículo 348 del mismo código. Así las cosas, y conforme el tenor de la última norma citada, habría que concluir que los instrumentos podrían presentarse en cualquier estado del juicio y hasta el vencimiento del término probatorio en primera instancia.\n\nQue, sin embargo, en el caso que nos ocupa la conclusión no puede ser la señalada, justamente por la existencia del inciso tercero del artículo 132 tantas veces referido, toda vez que dicha disposición establece --de manera clara y evidente-- que en lo que toca al procedimiento general de reclamaciones, el término probatorio es de veinte días y dentro de él se debe rendir toda la prueba.\n\nEn este contexto, dado el tenor literal de la disposición tributaria, no queda más que interpretarla en su sentido natural y obvio, lo que nos lleva necesariamente a concluir, que en el procedimiento general de reclamaciones, establecido en los artículos 123 y siguientes del Código Tributario, toda la prueba debe rendirse dentro del término probatorio, por lo que aquella producida, solicitada y/o generada fuera de dicho término resultará extemporánea y por lo tanto no puede ser utilizada por el Tribunal al momento de resolver la controversia. De este modo, si alguna de las partes quisiere que los instrumentos, antecedentes y/o documentos acompañados al juicio antes del tér"
+    },
+    {
+      "name": "Artículo 913 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "95947a13-fbac-5a67-93cf-a009a0dec968",
+      "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718802",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 913 (DEL ART. 2)|Art. 913. La buena o mala fe del poseedor se refiere, relativamente a los frutos, al tiempo de la percepción, y relativamente a las expensas y mejoras, al tiempo en que fueron hechas."
+    },
+    {
+      "name": "Oficio N°9 (05/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°9 (05/01/2017)",
+      "document_id": "2bc3e6ca-dab6-594f-852d-792c97b218fc",
+      "chunk_uuid": "aba87070-0045-5f31-b84d-99a9625f60a7",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/renta/ja009.htm",
+      "content": " límite está estipulado en su contrato de trabajo, sin perjuicio que la empresa entienda que para\nrealizar dicho cálculo deba basarse en el artículo 178 del mismo texto, calificando la indemnización que debe\nrecibir como contractual, más otra pactada en un convenio colectivo, sin que él jamás haya adherido a dicho\n  convenio, debiendo dicho exceso tributar según el N°13 del artículo 17, de la Ley sobre Impuesto a la\nRenta.   \nEn atención a lo anterior, solicita se determine si el exceso de indemnizaciones por año de servicio y\nsustitutiva del aviso previo por sobre las 90 UF, constituye renta de modo tal que el empleador realice un\ncorrecto cálculo de las indemnizaciones que le correspondan y proceda a su pago, aún pendiente.\nAdjunta a su presentación fotocopia de su contrato de trabajo, de una minuta referida a indemnizaciones, sin\nautoría,  de liquidaciones de sueldo  de los meses de mayo, junio y julio de 2013 y de una comunicación de la\nempresa al ocurrente en la cual se le aclara que le están pagando dos indemnizaciones, una contractual,\nmás otra, originada en un convenio colectivo, entendiendo  la compañía que sólo las indemnizaciones legales\nestán exentas de impuesto, es decir,  las indemnizaciones por mes de aviso y por años de servicio.\n \nII- ANÁLISIS.\n\n\nSobre el particular, analizados los antecedentes, no se acompañó el finiquito del contrato de trabajo del\nocurrente, no siendo posible determinar el título bajo el cual recibió las indemnizaciones con motivo de su\ndespido.\nAhora bien, para los efectos de determinar la tributación que afecta a las indemnizaciones por término de\nfunciones, cabe recordar que el Código del Trabajo, en su artículo 178, establece que: “Las indemnizaciones\npor término de funciones o de contratos de trabajo establecidas por ley, las pactadas en contratos colectivos\nde trabajo o en convenios colectivos que complementen, modifiquen o reemplacen estipulaciones de\ncontratos colectivos, no constituirán renta para ningún efecto tributario.\nSin perjuicio de lo dispuesto en el inciso anterior, cuando por terminación de funciones o de contrato de\ntrabajo, se pagaren además otras indemnizaciones a las precitadas, deberán sumarse éstas a aquéllas con\nel único objeto de aplicarles lo dispuesto en el Nº13 del artículo 17 de la Ley sobre Impuesto a la Renta, a las\nindemnizaciones que no estén mencionadas en el inciso primero de este artículo.”\nPor su parte, el N°13, del artículo 17, de la Ley sobre Impuesto a la Renta, preceptúa que no constituye renta\nla indemnización por desahucio y la de retiro hasta un máximo de un mes de remuneración por cada año de\nservicio o fracción superior a seis meses. Tratándose de dependientes del sector privado, se considerará\nremuneración mensual el promedio de lo ganado en los últimos 24 meses, excluyendo gratificaciones,\nparticipaciones, bonos y otras remuneraciones extraordinarias y reajustando previamente cada remuneración\nde acuerdo con la variación que haya experimentado en Índice de Precios al Consumidor entre el último día\ndel mes anterior al devengamiento de la remuneración y el último día del mes anterior al del término del\ncontrato\nDe conformidad a lo dispuesto en dichas normas, respecto a las indemnizaciones pactadas en contratos\ncolectivos de trabajo, este Servicio ha instruido a través de la Circular Nº 29, de 1991, (Capítulo III, punto 3.2)\nque las indemnizaciones pagadas bajo esta modalidad no constituyen renta para los efectos tributarios,\ncualquiera sea su monto.\nPrecisado lo anterior, procede expresar, respecto del límite de las noventa Unidades de Fomento, que\nestablece el inciso final del artículo 172 del Código del Trabajo, sólo encuentra aplicación respecto de las\nindemnizaciones legales por años de servicio, tal como lo explicitó este Servicio por medio de la Circular\nN°10 de 1999"
+    },
+    {
+      "name": "Artículo 906 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "185818b1-2549-5c27-97fa-8928b10fe7d1",
+      "chunk_uuid": "9f2b4ed5-698b-5b2f-aec1-e5c461ebded6",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718795",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 906 (DEL ART. 2)|Art. 906. El poseedor de mala fe es responsable de los deterioros que por su hecho o culpa ha sufrido la cosa. El poseedor de buena fe, mientras permanece en ella, no es responsable de estos deterioros, sino en cuanto se hubiere aprovechado de ellos; por ejemplo, destruyendo un bosque o arbolado, y vendiendo la madera o la leña, o empleándola en beneficio suyo."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Maule: Sentencia RIT-GR-07-00004-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-07-00004-2018",
+      "document_id": "a13201eb-a6fe-5fa5-b1bb-01810b34063b",
+      "chunk_uuid": "0ddbf22d-6da1-51b6-8d2d-d1fdf19bc640",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14716",
+      "content": "itirse al artículo 2521 del CódigoCivil, por cuanto resulta necesario esclarecer cuándo ocurrió el hecho que faculta lamodificación del avalúo del bien raíz y que, consecuencialmente, autoriza a que se devenguenimpuestos.Así las cosas, dice que la única certeza que existe en la referida resolución esque la propiedad fue visitada con fecha 15.06.2017, oportunidad en que presume que el S.I.I.pudo constatar alguna causal de las que amerite la modificación del avalúo, por lo que, en suconcepto, y por disposición del inciso primero del artículo 13 de la Ley N° 17.235, sobreImpuesto Territorial, debe considerarse que la modificación del avalúo rige a partir del añosiguiente en que se constata la causal respectiva, y que en razón de ello el cobro suplementariosólo podría realizarse a partir del 01.01.2018.B) PROHIBICIÓN DEL COBRO RETROACTIVO DEL IMPUESTO TERRITORIAL.En otro orden de cosas, alega que el cobro retroactivo del Impuesto Territorialpretendido por el S.I.I. importa una afectación al artículo 26 del Código Tributario, y a losartículos 706 y 707 del Código Civil, en relación al principio de buena fe. En el caso, dice que setrata de una propiedad correspondiente a una bencinera y hostería que fue construida entre elaño 1995 y 1996, terminada en el año 1996, ante lo cual la contribuyente solicitó a lasinstituciones correspondientes los permisos referentes a cambio de uso de suelo, permiso deedificación, construcción de accesos a estación de servicio, autorización para funcionamientode local de alimentos, patentes municipales, entre otros, todos los cuales fueron autorizados porlas instituciones respectivas, y desde la fecha de construcción y posterior apertura delestablecimiento comercial, hasta diciembre de 2017, el inmueble en cuestión no había estadoafecto al pago de impuesto territorial. Documento firmado electrónicamente por don/ña Hernan Enrique Farias Sepulveda, el 08-05-2019.Verifique este documento en www.tta.cl, con el siguiente código de verificación5706b45a-d13d-4897-ab45-76f257f0ce53 Timbre Electrónico 4 A su turno, señala que en la determinación del avalúo y la decisión de quedarsujeto al pago de impuestos es materia en la cual el contribuyente no tiene ninguna incidencia,por cuanto conforme al artículo 16 de la Ley N° 17.235, sobre Impuesto Territorial, es deber delS.I.I. mantener al día los avalúos de bienes raíces en base a la información que éste puederequerir de diversas fuentes tales como: Conservador de Bienes Raíces, Notarías,Municipalidades, y la información que aporten los propietarios del respectivo bien raíz, cuandoson requeridos por el Director del Servicio.Agrega que, según el artículo 707 del Código Civil, la buena fe se presume, portanto, en el caso, debe estimarse que la contribuyente obró de buena fe, puesto que no sehabría acreditado lo contrario, como lo sería en el caso de haber sido requerido por el S.I.I. yhubiera entregado información incompleta sobre los bienes del inmueble; o que entregarainformación falsa; o que hubiese realizado algún tipo de mejoras sin las debidas autorizacionesde los organismos de la administración llamados a otorgarlas. Con todo, sugiere que resultanecesario dilucidar si el cobro retroactivo del impuesto territorial establecido en el artículo 13 dela ley del ramo, alcanza también al contribuyente que ha estado de buena fe, situación que, sibien no se encontraría explicitada en la norma en cuestión, a la luz de los principios y normastanto de la Ley de Bases de Administración del Estado (artículo 52) y el propio Código Tributario(artículo 26), a su juicio, permiten sostener que la retroactividad es excepcional y restringida,máxime cuando con ella se pudiesen afectar derechos de los interesados.Además, sostiene que el cobro retroactivo de contribuciones en el caso delcontribuyente que está de buena fe"
+    },
+    {
+      "name": "Artículo 907 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "329d8b19-e175-5771-be8e-47c9247cc8de",
+      "chunk_uuid": "14af4e0c-0562-5934-8912-a3fd6fcce0ee",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718796",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 907 (DEL ART. 2)|Art. 907. El poseedor de mala fe es obligado a restituir los frutos naturales y civiles de la cosa, y no solamente los percibidos sino los que el dueño hubiera podido percibir con mediana inteligencia y actividad, teniendo la cosa en su poder. Si no existen los frutos, deberá el valor que tenían o hubieran tenido al tiempo de la percepción: se considerarán como no existentes los que se hayan deteriorado en su poder. El poseedor de buena fe no es obligado a la restitución de los frutos percibidos antes de la contestación de la demanda: en cuanto a los percibidos después, estará sujeto a las reglas de los dos incisos anteriores. En toda restitución de frutos se abonarán al que la hace los gastos ordinarios que ha invertido en producirlos."
+    },
+    {
+      "name": "Artículo 2301 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "6f65b54f-3ab9-5166-a49c-6cf5002b7165",
+      "chunk_uuid": "7d79c820-c435-5714-81d9-86a2111dff73",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720360",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXXIV DE LOS CUASICONTRATOS,Artículo 2301 (DEL ART. 2)|Art. 2301. El que ha recibido de buena fe no responde de los deterioros o pérdidas de la especie que se le dio en el falso concepto de debérsele, aunque hayan sobrevenido por negligencia suya; salvo en cuanto le hayan hecho más rico. Pero desde que sabe que la cosa fue pagada indebidamente, contrae todas las obligaciones del poseedor de mala fe."
+    },
+    {
+      "name": "Artículo 706 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "4340557e-add1-563c-a549-45b8a87c45a1",
+      "chunk_uuid": "4c27272d-6348-56c0-95a9-00dc9822425d",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718578",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título VII DE LA POSESION,Artículo 706 (DEL ART. 2)|Art. 706. La buena fe es la conciencia de haberse adquirido el dominio de la cosa por medios legítimos, exentos de fraude y de todo otro vicio. Así en los títulos translaticios de dominio la buena fe supone la persuasión de haberse recibido la cosa de quien tenía la facultad de enajenarla, y de no haber habido fraude ni otro vicio en el acto o contrato. Un justo error en materia de hecho no se opone a la buena fe. Pero el error en materia de derecho constituye una presunción de mala fe, que no admite prueba en contrario."
+    },
+    {
+      "name": "Oficio N°2649 (19/11/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°2649 (19/11/2020)",
+      "document_id": "d51ad056-2bf8-5228-af42-dead1f79ea56",
+      "chunk_uuid": "4f2ff359-be12-56da-bb76-c87eb7abd895",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2649-19%2F11%2F2020.pdf&extension=pdf&acc=download&id=97e93d85-32a9-44e2-933f-375cd5dec1f2&mediaType=application%2Fpdf",
+      "content": " párrafos precedentes. Luego, si tras la liquidación de la indemnización, el monto total de esta \nexcede el límite establecido en el Nº 13 del artículo 17 de la LIR, el exceso – se haya percibido o no \ncomo anticipo – quedará gravado con el Impuesto Único de Segunda Categoría. \nSe hace presente que el correcto tratamiento tributario de una indemnización a todo evento pagada como \nanticipo sólo puede determinarse una vez efectuada la liquidación definitiva de la indemnización, de \nacuerdo a las reglas del N° 13 del artículo 17 de la LIR. Por ello, el plazo para ejercer la actividad \nfiscalizadora, de acuerdo a lo dispuesto en el artículo 200 del Código Tributario, será el término de tres \naños contados desde la expiración del plazo en que debió efectuarse el pago, que en este caso aplicará \npara el empleador una vez efectuada la liquidación definitiva de la indemnización, tras finalizar la \nrelación laboral5. \nEn cuanto al tratamiento tributario de la indemnización respecto de la empresa pagadora, \nparticularmente, la deducción de la misma como un gasto necesario para producir la renta, se debe tener \npresente lo establecido en el inciso primero del artículo 31 de la LIR. \nEn este contexto, son gastos necesarios tanto aquellos desembolsos que efectivamente generen rentas \ngravadas con el Impuesto de Primera Categoría (IDPC), como aquellos que sean aptos o tengan la \npotencialidad de generar rentas, aun cuando éstas en definitiva no se generen. Por otra parte, este \nServicio ha señalado6 que el gasto por indemnización se estima adeudado cuando su pago posterior deba \nmaterializarse obligatoriamente, lo que ocurre si aquella consta, por ejemplo, en un contrato individual \nde trabajo y resulta exigible tanto si el término del contrato es imputable a la empresa, como si es \nimputable al trabajador, lo que se verifica en una indemnización a todo evento. \nAhora bien, dado que la indemnización será pagada de forma anticipada, que consta en un contrato \nindividual de trabajo y que corresponde a una indemnización a todo evento y, por lo tanto, deberá \nmaterializarse obligatoriamente, el monto que anualmente sea pagado será un gasto deducible para la \nempresa, de acuerdo con el artículo 31 inciso primero de la LIR. El cumplimiento de los requisitos \n \n4 A modo ejemplar, Dictámenes N° 6641 de 2015 y N° 4062 de 1995. \n5 Sin perjuicio de lo dispuesto en el artículo 83 de la LIR, respecto de la responsabilidad del beneficiario de la renta cuando no se efectúe la \ncorrespondiente retención de impuestos por parte del pagador de la renta. \n6 Circular Nº18 de 1976, Oficios Nº 4.790 de 1977, Nº 38 de 2006, entre otros. \n\n\n3 \n \nestablecidos en este artículo será materia de revisión en la instancia de fiscalización respectiva. Lo \nanterior, siempre que el monto pagado en forma anticipada como indemnización a todo evento sea \nrazonable, pueda vincularse con la remuneración, los años de servicio del trabajador en la empresa y los \nvalores de mercado para trabajadores de rubro similar \nEl tratamiento tributario de la indemnización por años de servicio descrito en los párrafos precedentes \nno resulta aplicable a un accionista que trabaje para su empresa. \nEn efecto, a la luz de las normas laborales7, un accionista no califica bajo el concepto de “trabajador”, al \nfaltarle la dependencia y subordinación propia de un contrato de trabajo. Luego, dado que la \nindemnización por años de servicio nace al término de un contrato de trabajo, como un derecho para los \ntrabajadores, no puede un accionista que no cumple con el requisito básico de ser “trabajador”, acceder \nal beneficio establecido en las disposiciones laborales y en el artículo 17 Nº 13 de la LIR. \nPor otra parte, respecto de la empresa, y en concordancia con lo expuesto en el párrafo anterior, el \nartículo 31 inciso cuarto, N"
+    },
+    {
+      "name": "Artículo 669 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "db48d9fa-76e3-571d-a5f8-642b033cc549",
+      "chunk_uuid": "a52ec4b7-2cf4-52a3-ac08-5c345e2d6443",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718535",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título V DE LA ACCESION,Artículo 669 (DEL ART. 2)|Art. 669. El dueño del terreno en que otra persona, sin su conocimiento, hubiere edificado, plantado o sembrado, tendrá el derecho de hacer suyo el edificio, plantación o sementera, mediante las indemnizaciones prescritas a favor de los poseedores de buena o mala fe en el título De la reivindicación, o de obligar al que edificó o plantó a pagarle el justo precio del terreno con los intereses legales por todo el tiempo que lo haya tenido en su poder, y al que sembró a pagarle la renta y a indemnizarle los perjuicios. Si se ha edificado, plantado o sembrado a ciencia y paciencia del dueño del terreno, será éste obligado, para recobrarlo, a pagar el valor del edificio, plantación o sementera."
+    },
+    {
+      "name": "Artículo 911 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "51c5da8f-d0a4-59a5-a887-92e653e3fe73",
+      "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718800",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 911 (DEL ART. 2)|Art. 911. En cuanto a las mejoras voluptuarias, el propietario no será obligado a pagarlas al poseedor de mala ni de buena fe, que sólo tendrán con respecto a ellas el derecho que por el artículo precedente se concede al poseedor de mala fe respecto de las mejoras útiles. Se entienden por mejoras voluptuarias las que sólo consisten en objetos de lujo y recreo, como jardines, miradores, fuentes, cascadas artificiales, y generalmente aquellas que no aumentan el valor venal de la cosa, en el mercado general, o sólo lo aumentan en una proporción insignificante."
+    },
+    {
+      "name": "Artículo 910 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "53c62886-dc88-59e3-8a29-99de33a6e204",
+      "chunk_uuid": "3cda22ef-f4c7-5874-ba3a-818472299e48",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718799",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 910 (DEL ART. 2)|Art. 910. El poseedor de mala fe no tendrá derecho a que se le abonen las mejoras útiles de que habla el artículo precedente. Pero podrá llevarse los materiales de dichas mejoras, siempre que pueda separarlos sin detrimento de la cosa reivindicada, y que el propietario rehúse pagarle el precio que tendrían dichos materiales después de separados."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Valparaíso: Sentencia RIT-AB-14-00077-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-AB-14-00077-2018",
+      "document_id": "fb44e52c-7a22-59d7-8906-4fa3b25efe4f",
+      "chunk_uuid": "9a34ae06-c7b7-5dbd-8912-fbe394d14fa5",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14949",
+      "content": " de derecho público y del derecho tributario. Al respecto, indicó el Sentenciador que el principio de buena fe, sería un principio general del derecho de carácter “superior”, y que fue reconocido por la legislación tributaria, en el artículo 26 del Código Tributario. Así, arguyó que no precedería el cobro retroactivo cuando el contribuyente se haya ajustado de buena fe a determinada interpretación de las leyes tributarias, lo que dejaba en evidencia que el citado Principio constituía un límite a la potestad administrativa, que resguardaba a los administrados de las actuaciones que lesionan sus derechos cuando éstos han actuado de Buena Fe ante la Autoridad. Por lo que, el Tribunal analizó la posibilidad de aplicar el efecto retroactivo en las modificaciones al avalúo de los bienes raíces, en el caso de\ncontribuyentes que se encuentren de Buena Fe, concluyendo que esto no era posible, y que así lo había indicado la Corte Suprema, en los autos Rol N° 734-2013. \n\nEn síntesis, el Tribunal decretó que la contribuyente había obrado “de buena fe”, facilitando la determinación de los elementos de base del avalúo y fijación del impuesto territorial del caso de autos, y habiendo sido quien solicitó voluntariamente la modificación del catastro, aportando los antecedentes y documentos en que se basó la modificación individual, cuyo cobro retroactivo se reclamaba, por lo que dejó sin efecto los Giros suplementarios correspondientes a los años anteriores a aquel en que la sociedad presentó su solicitud de modificación."
+    }
+  ]
+}

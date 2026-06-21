@@ -1,0 +1,1233 @@
+{
+  "query_id": "q009",
+  "query_text": "Obligación del vendedor de saneamiento de la evicción en la compraventa",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 31.10236,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 30.212986,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 30.183207,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 27.60836,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 26.97576,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 25.686167,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 24.270021,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 22.911634,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "60a8756a-f4a4-5435-9104-2665a2310a8f",
+        "score": 22.471361,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "8d14bad4-e718-52ba-9400-dc127d815003",
+        "score": 22.222698,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "2dafb986-4bb9-58ef-8ea6-73c179f93f07",
+        "score": 2.0299072,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "03824f2d-40ad-5474-af88-7e9074be6428",
+        "score": 2.027832,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "cd2d0be5-6b56-5207-a45c-cfb94987df49",
+        "score": 2.0014648,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "22e61ff6-005b-5f67-beff-ffa8daa068be",
+        "score": 2.0,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ff970b1d-ca7f-5532-b6aa-00f7efcb2804",
+        "score": 1.9985352,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4855af45-954b-50d4-b2ea-5876bdf3dfe6",
+        "score": 1.9770508,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "77499a03-59a9-57f4-981b-3189546cd963",
+        "score": 1.9726562,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "452a70ab-d495-5ad3-a0b0-b45d3dc2c48b",
+        "score": 1.9706421,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0f6fa7a4-0bc9-52e0-a68b-e0a872da6a3f",
+        "score": 1.9683228,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "fd483c77-baef-5ba1-b14c-5fba763ac6c2",
+        "score": 1.9448242,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 21.060032,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 21.005896,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "26e48a8b-2354-5fa0-9d86-dcaa3474e187",
+        "score": 20.407461,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 19.563051,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 19.295113,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "cc0c512d-0000-576f-b548-3026f0eaeffe",
+        "score": 18.65027,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+        "score": 18.365139,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+        "score": 18.2299,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d4c7f8ad-0560-5819-987d-ada692dad13f",
+        "score": 18.22703,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "3b92b52f-78c4-59f7-bf8f-8d720d1871fa",
+        "score": 18.103443,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 29.565754,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 28.77979,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 28.636086,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 26.85412,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 25.648764,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 24.648975,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 22.587492,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 21.777767,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "8d14bad4-e718-52ba-9400-dc127d815003",
+        "score": 21.719208,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 21.14983,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.7116699,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.704834,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.65771484,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.6262207,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.58032227,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+        "score": 0.56640625,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.56396484,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a270c71c-203e-5bd0-ab28-2385d9a57296",
+        "score": 0.5551758,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "8d14bad4-e718-52ba-9400-dc127d815003",
+        "score": 0.5439453,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "09479368-8932-511e-a862-74082df1c389",
+        "score": 0.5410156,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 31.36625,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 30.416111,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 30.020441,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 26.976543,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 25.013935,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 24.766418,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 23.42749,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "60a8756a-f4a4-5435-9104-2665a2310a8f",
+        "score": 23.345806,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 23.120047,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 22.896626,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.88964844,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.82421875,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "edadc18c-5322-5524-a0f7-c707af9bbdb4",
+        "score": 0.8203125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.81030273,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.7993164,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.7775879,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 0.76904297,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "60a8756a-f4a4-5435-9104-2665a2310a8f",
+        "score": 0.7583008,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d4c7f8ad-0560-5819-987d-ada692dad13f",
+        "score": 0.72314453,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9dc2200b-0020-53e9-89b9-a2fe92d57ef3",
+        "score": 0.6928711,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 12.78125,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+        "score": 12.628906,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 12.542969,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 12.457031,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+        "score": 12.171875,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "f8245601-571f-592b-9e53-2072abc9102b",
+        "score": 12.1328125,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 12.1171875,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 12.0859375,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "783f45ce-e75d-5318-b432-f393f0659444",
+        "score": 11.9921875,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "266b19b4-e097-5efd-8e56-6f55e9d56b3c",
+        "score": 11.7890625,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.031746031746031744,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.031009615384615385,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 0.030309988518943745,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.030117753623188408,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.03009207275993712,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.029631255487269532,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 0.029236022193768675,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 0.029236022193768675,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+        "score": 0.02758751902587519,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "d5683797-0f78-5d37-93a7-d57f24944739",
+        "score": 0.01976246105919003,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "2dafb986-4bb9-58ef-8ea6-73c179f93f07",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "03824f2d-40ad-5474-af88-7e9074be6428",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "cd2d0be5-6b56-5207-a45c-cfb94987df49",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "22e61ff6-005b-5f67-beff-ffa8daa068be",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.032266458495966696,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.03125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 0.03076923076923077,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 0.03021353930031804,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+        "score": 0.028814262023217248,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 0.02719970792259949,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "d4c7f8ad-0560-5819-987d-ada692dad13f",
+        "score": 0.026992753623188405,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "c33da2da-1db0-5ab4-b7f4-1a346988ec7d",
+        "score": 0.02684684684684685,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+        "score": 0.025816993464052286,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.031746031746031744,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.031009615384615385,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 0.030309988518943745,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.030117753623188408,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.03009207275993712,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 0.030017921146953404,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.029631255487269532,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 0.029437229437229435,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 0.029236022193768675,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.032018442622950824,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.03125763125763126,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.030621785881252923,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.029850746268656716,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.029571646010002173,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 0.028474711270410194,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 0.028169014084507043,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+        "score": 0.027402402402402402,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 0.027056277056277056,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.03200204813108039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.030776515151515152,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 0.0304147465437788,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.030117753623188408,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.029850746268656716,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 0.02964426877470356,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.029571646010002173,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 0.02946912242686891,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 0.029273504273504274,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.03177805800756621,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.03125,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+        "score": 0.031054405392392875,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.030621785881252923,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.03009207275993712,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.03007688828584351,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.029957522915269395,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 0.027783137179239824,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+        "score": 0.027651515151515153,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0d7f90dc-b62d-51b1-80ad-2d459485baa6",
+        "score": 0.027222222222222224,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+        "score": 0.03057889822595705,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+        "score": 0.030309988518943745,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+        "score": 0.03009207275993712,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+        "score": 0.030017921146953404,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+        "score": 0.028258706467661692,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "c33da2da-1db0-5ab4-b7f4-1a346988ec7d",
+        "score": 0.02702702702702703,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+        "score": 0.026540946394272742,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+        "score": 0.025448143405889884,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 9.0,
+    "p1_tfidf": 14.3,
+    "p1_splade": 77.0,
+    "p2_bm25": 6.1,
+    "p2_tfidf": 7.0,
+    "p3_bm25": 4.8,
+    "p3_tfidf": 4.8,
+    "baseline_qdrant_bm25": 8.6,
+    "rrf_p1_bm25": 53.5,
+    "rrf_p1_tfidf": 58.0,
+    "rrf_p1_splade": 126.1,
+    "rrf_p2_bm25": 81.6,
+    "rrf_p2_tfidf": 77.2,
+    "rrf_p3_bm25": 38.2,
+    "rrf_p3_tfidf": 36.3,
+    "rrf_baseline_qdrant_bm25": 43.3
+  },
+  "pool": [
+    {
+      "name": "Artículo 1346 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "7fbb9f83-b7b5-5fd8-aeb9-aad7850cc3a3",
+      "chunk_uuid": "8d14bad4-e718-52ba-9400-dc127d815003",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719271",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título X DE LA PARTICION DE LOS BIENES,Artículo 1346 (DEL ART. 2)|Art. 1346. No ha lugar a esta acción: 1. Si la evicción o la molestia procediere de causa sobreviniente a la partición; 2. Si la acción de saneamiento se hubiere expresamente renunciado; 3. Si el partícipe ha sufrido la molestia o la evicción por su culpa."
+    },
+    {
+      "name": "Artículo 1856 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "e655fec4-316a-53d0-9188-b0d9f4b27199",
+      "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719865",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1856 (DEL ART. 2)|Art. 1856. La acción de saneamiento por evicción prescribe en cuatro años; mas por lo tocante a la sola restitución del precio, prescribe según las reglas generales. Se contará el tiempo desde la fecha de la sentencia de evicción; o si ésta no hubiere llegado a pronunciarse, desde la restitución de la cosa."
+    },
+    {
+      "name": "Circular N°10 (30/01/2015)",
+      "source_type": "circular",
+      "source": "Circular N°10 (30/01/2015)",
+      "document_id": "2e553ddc-4ad2-5c22-b1ed-9a7d29a77d1f",
+      "chunk_uuid": "2dafb986-4bb9-58ef-8ea6-73c179f93f07",
+      "chunk_id": 47,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu10.pdf",
+      "content": " con el IDPC en carácter de impuesto único a la renta de la empresa, \ncomunidad o sociedad respectiva.  \n \n8) \nModificaciones al N° 4, del artículo 74 de la LIR43.  \n \na) Modifica la referencia a la norma legal que establece el régimen de reinversión. La modificación \nefectuada al párrafo 3°, del N° 4, del artículo 74 de la LIR, se efectúa con el objeto de concordar las \ndisposiciones de este último artículo, con las modificaciones efectuadas a la letra A), del artículo 14 de \nla LIR.  \n \nEn efecto, la norma modificada trata sobre una excepción a la obligación de practicar la retención de \nIA, en caso que el perceptor de un retiro le declare al contribuyente obligado a retener que efectuará \nuna reinversión de utilidades en los términos de la letra c), del N° 1, de la Letra A), del artículo 14 de \n          \n43 Modificaciones efectuadas de acuerdo a las letras a) y c), del N° 11), del artículo segundo de las disposiciones transitorias \nde la Ley. Por su parte, la modificación incluida en la letra b), del N° 11), del mismo artículo, se refiere a las normas de \nretención de IA sobre rentas determinadas conforme a la letra A), del artículo 14 ter de la LIR, cuyas instrucciones fueron \nimpartidas por este Servicio mediante la Circular N° 69 de 2014. En el N° 8), del Anexo N° 1 de la presente Circular, se incluye \nel texto del N° 4, del artículo 74 de la LIR, según su texto vigente a contar del 1° de enero de 2015. Dichas modificaciones \nrigen a contar del 1° de enero de 2015 y hasta el 31 de diciembre de 2016. \n \n\n\n34 \n \nla LIR, según su texto vigente hasta el 31 de diciembre de 2014. A partir del 1° de enero de 2015, el \nrégimen de reinversión se encuentra regulado en el N° 2, de la letra A), del artículo 14 de la LIR, \nmodificándose en consecuencia, dicha referencia legal. \n \nb) Modifica la tasa de retención del IA, sobre las partidas señaladas en el inciso 3°, del artículo 21 de \nla LIR. La Ley modifica el párrafo penúltimo, del N° 4, del artículo 74 de la LIR, reemplazando el \nguarismo 35% por 45%. Tal modificación, tiene por objeto establecer la obligación de retener el total \nde impuestos que afectan a los contribuyentes sin domicilio ni residencia en Chile, respecto de las \ncantidades señaladas en los numerales i) al iv), del inciso 3°, del artículo 21 de la LIR, vale decir, para \nretener, junto con el IA de 35% que afecta a dichos contribuyentes respecto de las sumas que indica \nesta disposición, el 10% de tasa adicional o recargo que la misma norma señala.  \n \nEn consecuencia, a partir del 1° de enero de 2015, la retención de IA sobre las partidas señaladas se \nefectuará considerando una tasa de 45%.  \n \nAhora bien, de acuerdo a lo señalado en la Circular N° 45 de 2013 de este Servicio, en el caso que los \ncontribuyentes señalados, no tengan domicilio ni residencia en Chile y se encuentren acogidos a la \ninvariabilidad tributaria del artículo 7° del D.L. N° 600, el IA se aplica con la tasa general de la \ninvariabilidad pactada, sin que tengan que aplicar la tasa adicional del 10%, ya que ellos tienen una \ncarga tributaria garantizada por el Estado de Chile. Por tanto, en tales casos la retención se practicará \ncon una tasa equivalente a la que se hubiere pactado en el referido contrato.  \n \n \nIII.- \nVIGENCIA DE ESTAS INSTRUCCIONES. \n \nLas normas legales de que trata la presente Circular, consistentes en modificaciones a preceptos de \nla Ley sobre Impuesto a la Renta"
+    },
+    {
+      "name": "Artículo 138 BIS",
+      "source_type": "ley",
+      "source": "APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES",
+      "document_id": "16041e38-94ab-5be0-9bab-c656e6d68112",
+      "chunk_uuid": "266b19b4-e097-5efd-8e56-6f55e9d56b3c",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=13560&idParte=8632304",
+      "content": "Decreto 458 APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES,TITULO III De la construcción,PARRAFO 4º.- De las obligaciones del Urbanizador,Artículo 138 BIS|- Las personas naturales o jurídicas que tengan por giro la actividad inmobiliaria o aquellas que construyan o encarguen construir bienes raíces destinados a viviendas, locales comerciales u oficinas, que no cuenten con recepción definitiva y que celebren contratos de promesa de compraventa en los cuales el promitente comprado entregue todo o parte del precio del bien raíz, deberán otorgarlos mediante instrumentos privados autorizados ante notario y caucionarlos mediante póliza de seguro o boleta bancaria, aceptada por el promitente comprador. Esta garantía, debidamente identificada, se incorporará al contrato a favor del promitente comprador, en un valor igual a la parte del precio del bien raíz entregado por éste y establecido en el contrato de promesa respectivo, para el evento de que éste no se cumpla dentro del plazo o al cumplimiento de la condición establecidos por el promitente vendedor. La garantía permanecerá vigente mientras el inmueble se encuentre sujeto a cualquier gravamen o prohibición emanado directamente de obligaciones pendientes e imputables al promitente vendedor y hasta la inscripción del dominio en el registro de propiedad del respectivo conservador de bienes raíces, a favor del promitente comprador. Los notarios públicos no autorizarán los contratos de promesa de compraventa a que se refiere el inciso anterior si no se ha constituido la garantía a favor del promitente comprador. La obligación del promitente vendedor de otorgar la garantía no será exigible respecto de la parte del precio que sea depositada por el promitente comprador en alguno de los siguientes instrumentos, de lo que se dejará constancia en el contrato de promesa: a) Cuenta de ahorro de la cual no pueda girar fondos el promitente comprador. b) Depósitos a plazo en favor del promitente vendedor, que deberán mantenerse en custodia del notario autorizante. En los casos indicados en las letras a) y b) del inciso precedente, los montos anticipados serán puestos a disposición del promitente vendedor una vez que se celebre el contrato de compraventa y se inscriba el inmueble a nombre del promitente comprador en el Conservador de Bienes Raíces respectivo. Los depósitos a plazo y las cuentas de ahorro a que alude esta norma deberán cumplir con los requisitos generales establecidos por las disposiciones legales, reglamentarias y normativa de la Superintendencia de Bancos e Instituciones Financieras vigentes y, además, con los requisitos específicos que al efecto establezca la Ordenanza General de Urbanismo y Construcciones. En los casos previstos en las letras a) y b) del inciso tercero deberá estipularse un plazo para el cumplimiento de la condición de inscribir el dominio del inmueble a nombre del promitente comprador y si nada se dijere se entenderá que dicho plazo es de 1 año contado desde la fecha de la promesa. Las disposiciones anteriores se aplicarán a cualquier acto jurídico que implique la entrega de una determinada cantidad de dinero para la adquisición del dominio de una vivienda, local comercial u oficina, que no cuente con recepción definitiva, excepto a aquellos regidos por la Ley General de Cooperativas o la ley Nº 19.281, sobre arrendamiento de viviendas con promesa de compraventa, aun cuando no cuenten con recepción definitiva. En todo caso, las disposiciones contenidas en el presente artículo se aplicarán a las compraventas de viviendas, locales comerciales u oficinas cuando al momento de celebrarse dicho contrato el inmueble se encuentre hipotecado, en cuyo evento la garantía que se otorgue se mantendrá vigente mientras no se proceda al alzamiento de dicha hipoteca, salvo que el acreedor hipotecario concurra a la escritura de compraventa alzando la hipoteca y la prohibición de gravar o enajenar"
+    },
+    {
+      "name": "Oficio N°3005 (05/11/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°3005 (05/11/2012)",
+      "document_id": "889b8504-16fa-55a2-9b1f-04359aaea376",
+      "chunk_uuid": "3b92b52f-78c4-59f7-bf8f-8d720d1871fa",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja3005.htm",
+      "content": "ue obligaciones, pues éstas ya se\nencuentran cumplidas, sino que crea nuevas obligaciones; la restitución de las acciones por parte de la\ncompradora a la vendedora y la restitución del precio efectivamente pagado por parte de esta última a la\nprimera. Esta no es, por tanto, una resciliación sino un nuevo contrato.\nEventualmente podría resciliarse la obligación de pagar el componente variable del precio, pero sólo una vez\nque se haya verificado la condición suspensiva de la cual pende su nacimiento, ya que antes de eso, no\nexiste obligación alguna que pueda extinguirse por la convención.\nAl igual que lo que ocurre con la resciliación, la celebración de la operación descrita no puede retrotraer la\nsituación al estado anterior a la celebración de la compraventa neutralizando sus efectos como si ésta no\nhubiese existido, aún cuando sea esa la intención de las partes.\nIII.- CONCLUSIÓN.\nLa convención propuesta en su presentación no constituye estrictamente una resciliación ya que no tiene por\nobjeto extinguir obligaciones, ello considerando que las obligaciones que emanan del contrato de\ncompraventa de acciones que se pretende resciliar, una ya se encuentra cumplida y otra, la del\ntcomponente variableu, en tanto sujeta a condición suspensiva, aún no nace a la vida jurídica.\nEn consecuencia, respecto de su consulta, cabe indicar, de acuerdo con el análisis precedente, que el nuevo\ncontrato que señala, sólo produciría efecto respecto de la parte del precio sujeto a condición suspensiva,\npues respecto de éste no estaría mutando ninguna realidad consolidada, ni alterando ni extinguiendo\nderechos u obligaciones ya establecidos o consolidados, y en ese estado puede ser alcanzada por los\nefectos del nuevo contrato.\nPor lo tanto, y no obstante los términos del nuevo contrato, cabe expresar que éste no altera la obligación\ntributaria de la vendedora de pagar los impuestos a la renta que correspondan sobre la renta devengada\ncomo consecuencia del pago de la parte fija del precio de la compraventa de acciones.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 3005, de 05.11.2012\nSubdirección Normativa\nDpto. de Impuestos Directos\n\n\n"
+    },
+    {
+      "name": "Artículo 1859 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "3d31636a-c47a-5cd7-94fa-e2000f6f4c8c",
+      "chunk_uuid": "d4c7f8ad-0560-5819-987d-ada692dad13f",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719869",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1859 (DEL ART. 2)|Art. 1859. Si se ha estipulado que el vendedor no estuviese obligado al saneamiento por los vicios ocultos de la cosa, estará sin embargo obligado a sanear aquellos de que tuvo conocimiento y de que no dio noticia al comprador."
+    },
+    {
+      "name": "Artículo 1839 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "5ef4d6c7-d67b-5cb2-a1d8-4bbbbadeb302",
+      "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719848",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1839 (DEL ART. 2)|Art. 1839. El vendedor es obligado a sanear al comprador todas las evicciones que tengan una causa anterior a la venta, salvo en cuanto se haya estipulado lo contrario."
+    },
+    {
+      "name": "Circular N°81 (09/11/2001)",
+      "source_type": "circular",
+      "source": "Circular N°81 (09/11/2001)",
+      "document_id": "683d464a-e8a8-57f6-8349-809a8fcb7cd8",
+      "chunk_uuid": "03824f2d-40ad-5474-af88-7e9074be6428",
+      "chunk_id": 24,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu81.htm",
+      "content": " del ejercicio igualmente\ndeberán reajustarse en la misma forma antes indicada, abonando a la cuenta de resultado \"Corrección\nMonetaria\" la mencionada actualización.\nEn todo caso, es necesario aclarar que las donaciones que se encuentren en la situación antes analizada,\nvale decir, en aquella parte que den derecho a crédito en contra del impuesto de Primera Categoría, no\nserán consideradas como una partida de aquellas señaladas por el Nº 1 del artículo 33 de la Ley de la Renta\n(Gastos Rechazados), sólo para los efectos de la aplicación de lo dispuesto por el artículo 21 de la ley\nprecitada, por tratarse en la especie de una partida imputable al valor o costo de un bien del activo de la\nempresa donante (un derecho o crédito). En consecuencia, tales sumas no se afectarán como \"gastos\nrechazados\" con la tributación que dispone el citado artículo 21 respecto del propietario, socios o accionistas\nde las empresas donantes, de acuerdo a la calidad jurídica de éstas últimas, esto es, se trate de una\nempresa individual, sociedad de personas, sociedad en comandita por acciones, sociedad anónima o\ncontribuyente del artículo 58 N° 1 de la ley del ramo.\nSin perjuicio de la liberación tributaria señalada, los referidos desembolsos de todas maneras deberán\ndeducirse como gastos rechazados de las utilidades tributables acumuladas por las empresas en su registro\nFUT, de acuerdo a lo dispuesto por el N° 3 de la Letra A) del artículo 14 de la Ley de la Renta, ya que tales\nsumas no son susceptibles de retiro ni de distribución a los propietarios, socios o accionistas de las\nempresas.\nb) En relación con aquella parte de las donaciones a que se refiere la Ley Nº 19.712, que no pueda ser\nutilizada como crédito, en virtud de lo previsto por el inciso penúltimo del artículo 62 de la ley precitada, se\nconsiderarán un gasto necesario para producir la renta, de acuerdo a lo dispuesto en el artículo 31 de la Ley\nde la Renta. De consiguiente, en la medida que tales donaciones en la parte indicada cumplan con los\nrequisitos de tipo general que exige el artículo 31 de la ley del ramo en su inciso primero, en su totalidad, ya\nque la ley en comento en este aspecto no establece ninguna limitación o tope alguno, se considerarán un\ngasto necesario para producir la renta y, en virtud de esta condición los contribuyentes de la Primera\nCategoría del artículo 20 de la ley precitada, podrán rebajarlas de la Renta Líquida Imponible para los\nefectos de la determinación del tributo de dicha categoría que les afecta. Si las referidas donaciones no\ncumplen con las condiciones antes indicadas para poder ser calificadas de un gasto necesario para producir\nla renta, ellas se considerarán para todos los efectos tributarios como un gasto rechazado de aquellos\n\n\nseñalados en el Nº 1 del artículo 33 de la Ley de la Renta y, en virtud de tal calificación, deberán agregarse a\nla Renta Líquida Imponible de Primera Categoría en el evento de que la hayan disminuido, debidamente\nreajustadas, de conformidad a la modalidad establecida por el Nº 3 de la norma legal antedicha y, a su vez,\nquedarán sujetas a la tributación dispuesta por el artículo 21 de la ley del ramo, en la medida que cumplan\ncon las condiciones y requisitos a que se refiere esta última disposición; imposición que se aplicará\nconsiderando la calidad jurídica del contribuyente que incurrió en el desembolso, esto es, se trate de una\nempresa individual, sociedad de personas, sociedades en comandita por acciones, sociedad anónima o\ncontribuyente del artículo 58 N° 1 de la Ley de la Renta.\nLo expuesto anteriormente también será aplicable respecto de los contribuyentes de la Segunda Categoría\nclasificados en el N° 2 del artículo 42 N° 2 de"
+    },
+    {
+      "name": "Artículo 1852 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "4f1d1d93-2925-535d-b464-3102b744fff3",
+      "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719861",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1852 (DEL ART. 2)|Art. 1852. La estipulación que exime al vendedor de la obligación de sanear la evicción, no le exime de la obligación de restituir el precio recibido. Y estará obligado a restituir el precio íntegro, aunque se haya deteriorado la cosa o disminuido de cualquier modo su valor, aun por hecho o negligencia del comprador, salvo en cuanto éste haya sacado provecho del deterioro. Cesará la obligación de restituir el precio, si el que compró lo hizo a sabiendas de ser ajena la cosa, o si expresamente tomó sobre sí el peligro de la evicción, especificándolo. Si la evicción no recae sobre toda la cosa vendida, y la parte evicta es tal, que sea de presumir que no se habría comprado la cosa sin ella, habrá derecho a pedir la rescisión de la venta."
+    },
+    {
+      "name": "Artículo 2085 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "606a47ab-9eb0-5a3d-b062-79cf41ecf350",
+      "chunk_uuid": "9dc2200b-0020-53e9-89b9-a2fe92d57ef3",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720123",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXVIII DE LA SOCIEDAD,Artículo 2085 (DEL ART. 2)|Art. 2085. El que aporta un cuerpo cierto en propiedad o usufructo, es obligado, en caso de evicción, al pleno saneamiento de todo perjuicio."
+    },
+    {
+      "name": "Artículo 157",
+      "source_type": "ley",
+      "source": "CODIGO DE COMERCIO",
+      "document_id": "55b00985-9a1e-5ee0-aaf6-162a6d05c555",
+      "chunk_uuid": "cc0c512d-0000-576f-b548-3026f0eaeffe",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1974&idParte=8725388",
+      "content": "Código DE COMERCIO CODIGO DE COMERCIO,Título II DE LA COMPRAVENTA,Artículo 157|Art. 157. El comprador que contratare en conjunto una determinada cantidad de mercaderías, no está obligado a recibir una porción de ellas bajo promesa de que se le entregará posteriormente lo restante. Pero si el comprador aceptare las entregas parciales, la venta se tendrá por consumada en cuanto a las porciones recibidas, aun cuando el vendedor no le entregue las restantes. En este caso el comprador podrá compeler al vendedor a que cumpla íntegramente el contrato o a que le indemnice los perjuicios que le cause el cumplimiento imperfecto."
+    },
+    {
+      "name": "Corte de Apelaciones de La Serena: Sentencia ROL-4-2014",
+      "source_type": "jurisprudencia",
+      "source": "ROL-4-2014",
+      "document_id": "9ac0355c-8e44-5d87-b00f-6a4f38b85d34",
+      "chunk_uuid": "a270c71c-203e-5bd0-ab28-2385d9a57296",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/214",
+      "content": "No basta para ello la simple afirmación en orden a que la entrega de la mercadería por el vendedor en el puerto de embarque consiste en tradición, pues en ese contexto es menester acreditar la existencia de una compraventa y su fecha, la existencia de un vendedor y el precio convenido entre las partes."
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": "ente comprador.\n\n\n \n \nDel análisis de las normas legales precedentes se colige entonces que el sistema normado por la Ley N°\n19.281, tiene por finalidad última la transferencia efectiva de un bien corporal inmueble.\n \nPor lo tanto, cuando ello ocurra, se estará en presencia del nuevo hecho gravado “venta”, modificado por el\nArt. 2°, N° 1, letra a), de la Ley N° 20.780 y contenido en el Art. 2°, N° 1, del D.L. N° 825, definido en lo\npertinente como “toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de ……………….., bienes corporales inmuebles, excluidos los terrenos,\nde una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo,\ntodo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta”.\n \nRespecto de la calidad de vendedor que tendrían las sociedades inmobiliarias que realizan la venta del\ninmueble, resulta indudable su calificación como tal, toda vez que conforme a lo dispuesto en el Art. 11°, de la\nLey N° 19.281, estas sociedades tienen como objeto la adquisición o construcción de viviendas para\nentregarlas en arrendamiento con promesa de compraventa, promesa que conforme al Art. 27, de la\nmencionada ley tienen obligación de cumplir, es decir, el ánimo que guía a estas sociedades al adquirir los\ninmuebles para suscribir estos contratos es precisamente la transferencia del inmueble.\n \nAhora bien, las sociedades inmobiliarias, en virtud del Art. 17°, de la Ley N° 19.281, pueden enajenar estas\nviviendas arrendadas con promesa de compraventa, siempre que cedan conjuntamente el contrato de\narrendamiento con promesa de compraventa, entre otras, a empresas securitizadoras, las cuales como\ncesionarias del referido contrato tienen iguales obligaciones, derechos y facultades que el cedente,\nencontrándose obligadas a cumplir el contrato de arrendamiento con promesa de compraventa.\n \nDe lo anterior se desprende que al producirse la cesión del contrato en cuestión, la empresa securitizadora\ntoma el lugar jurídico de la inmobiliaria en el referido contrato de arrendamiento con promesa de venta,\nencontrándose obligada, en virtud del Art. 30, de la Ley N° 19.281, a enajenar la vivienda en los términos y\ncondiciones pactados en el referido contrato. Por lo tanto e independientemente que la adquisición de dichos\ninmuebles haya sido con la finalidad de respaldar la emisión de títulos de deuda, en la práctica y como\nconsecuencia de la cesión del referido contrato de arrendamiento con promesa de compraventa, la sociedad\nsecuritizadora adquiere, al ocupar jurídicamente el lugar de la inmobiliaria, la calidad de vendedora respecto\nde dicha operación, para efectos del Art. 2°, N° 3, del D.L. N° 825.\n \nPor lo tanto, la transferencia de inmuebles que realice la sociedad securitizadora en su calidad de cesionaria\nde los contratos de arrendamiento con promesa de compraventa, se encuentra afecta a IVA, de acuerdo al\nArt. 8, en concordancia con el Art. 2°, N° 1, de D.L.  N° 825.\n \nEn este caso, la factura por la venta del inmueble deberá emitirse en la fecha de suscripción de la escritura\nde compraventa por el precio total, incluyendo las sumas pagadas previamente que se imputen al valor de\nventa del inmueble a cualquier título, según lo dispuesto por el Art. 55, del D.L. N° 825, modificado en este\nsentido, por el Art. 2°, N° 10, letra c), de la Ley N° 20.899. Al respecto, cabe tener presente que en este tipo\nde contratos,"
+    },
+    {
+      "name": "Oficio N°1481 (29/03/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°1481 (29/03/2004)",
+      "document_id": "2d7cae07-0d1f-5c5b-a73f-4fb9f289c1ac",
+      "chunk_uuid": "0f6fa7a4-0bc9-52e0-a68b-e0a872da6a3f",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja712.htm",
+      "content": " a declarar su renta efectiva en la primera categoría. De no contarse con alguno\nde los antecedentes anteriores, deberá efectuarse en todos los casos la retención con la tasa de 5% sobre el\ntotal de la cantidad a remesar, sin deducción alguna.\nTodo lo anterior, es sin perjuicio de la declaración anual del citado tributo que debe hacerse conforme a lo\nseñalado en el artículo 65, número 1, ocasión en la que lo retenido provisionalmente, debidamente\nactualizado, podrá darse de abono al mencionado gravamen y los eventuales remanentes que pudieran\nproducirse, imputarse a otros impuestos anuales que afecten a los referidos contribuyentes extranjeros o a\nsolicitar la devolución respectiva en los términos previstos por el artículo 97 de la Ley de la Renta.”\n6.- En consecuencia, esa Dirección Regional una vez que dilucide que tributación afecta a la operación de\nenajenación de acciones que señala, conforme a las normas de los artículos 17 N° 8 letra a), inciso 2°, 3° y\n4° y 18 de la Ley de la Renta, debe aplicar la norma de retención de impuesto adicional que proceda, de\naquellas indicadas en el número precedente, la que se hará efectiva en los términos indicados en dicho\nnumerando.\nEn el caso de la aplicación de la primera norma de retención, esto es, la establecida en el inciso primero del\nartículo 60 de la Ley de la Renta, en concordancia con lo dispuesto por el inciso primero del N° 4 del artículo\n74 de la misma ley, la retención provisoria de 20% se efectuará sobre el total de las cantidades, sumas o\ningresos remesados al exterior, sin deducción de ninguna especie; retención que el beneficiario de tales\n\n\nvalores al término del ejercicio la podrá hacer valer en contra del impuesto adicional definitivo que afecte a la\nrenta que se determine, debidamente actualizada, conforme a la modalidad prevista por el artículo 75 de la\nley precitada, o en el evento de que no exista la obligación de declarar el citado tributo, solicitar su\ndevolución respectiva, bajo los términos indicados por el artículo 97 de la ley.\nRespecto de la aplicación de la retención prevista por el inciso final del N° 4 del artículo 74 de la Ley de la\nRenta, ésta se hará efectiva con la tasa del impuesto de Primera Categoría que esté vigente en el momento\nde la remesa al exterior de la renta definitiva determinada por existir antecedentes suficientes para su\ncálculo. En caso contrario, la citada retención se aplicará con una tasa provisoria de 5%, sobre el total de las\ncantidades, sumas o ingresos remesados al exterior, sin deducción alguna; retención que el beneficiario de\ntales valores también la podrá hacer valer al término del período en los mismos términos señalados para los\nfines de la retención comentada en primer lugar\n7.- Finalmente, sin perjuicio que conforme lo expuesto en el párrafo 1° del número anterior, corresponde a\nesa Dirección Regional determinar qué tributación afecta a la operación de enajenación de acciones que\nseñala, y en base a dicha determinación aplicar la correspondiente norma de retención de impuesto\nadicional, a juicio de esta Superioridad, y conforme los antecedentes de hecho resumidos por el recurrente,\nse estima que la norma de retención a aplicar sería la del inciso primero del N° 4 del Artículo 74, en relación\ncon el artículo 60 inciso primero, ambas normas de la Ley de la Renta, por cuanto, entre la fecha de\nadquisición de las acciones de la sociedad que se enajenaron en Marzo de 2001, transcurrió menos de un\naño pues fueron adquiridas en el mes de diciembre de 2000 por la adjudicación por parte de XXXX de las\nacciones de propiedad de la empresa XXXXX y por la compra que YYYY hizo a YYYYYY. Así las cosas, no\nes posible aplicar el inciso final del N"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-45308-2017",
+      "source_type": "jurisprudencia",
+      "source": "ROL-45308-2017",
+      "document_id": "ac80968e-b71a-5d68-be64-3ed44e2e6359",
+      "chunk_uuid": "cd2d0be5-6b56-5207-a45c-cfb94987df49",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16689",
+      "content": "La Corte Suprema rechazó el recurso de casación en el fondo impetrado por el Servicio de Impuestos Internos, en contra de la sentencia dictada por la Corte de Apelaciones de San Miguel, que revocó aquella parte de la resolución en que el Tercer Tribunal Tributario y Aduanero de la Región Metropolitana había desestimado la excepción de prescripción, y, en consecuencia, dejó sin efecto la resolución exenta en contra de la cual la contribuyente había interpuesto el reclamo por haberle denegado la devolución solicitada en su declaración de renta.\n\nEl Servicio, en su recurso, denunció en primer lugar infracción a los incisos primero y segundo del artículo 200 del Código Tributario en relación a los artículos 63, 68 y 70 del mismo cuerpo legal. Ello, dado que, en la sentencia impugnada, la determinación del plazo de prescripción se vinculó al momento de la suscripción de la escritura de fusión en noviembre de 2006, por lo que el término para efectuar la declaración y el pago del Impuesto a la Renta -dada la premisa anterior- se habría verificado en el mes abril de 2007. En razón de lo anterior, a juicio del recurrente, el cómputo de tres años establecido en la primera de las normas precitadas, habría expirado el 30 de abril de 2010\nporque, en concepto de los sentenciadores de segundo grado, la obligación de certificar el pago del impuesto por parte de las sociedades que se disolvieron no alteró la fecha de absorción de las mismas.\n\nEl segundo acápite del recurso, se construyó sobre una supuesta contravención a los artículos 2, 15 y 29 de la Ley sobre Impuesto a la Renta en relación con el artículo 200 del Código Tributario, explicando que, en materia de reconocimiento de ingresos, la norma vigente para el período en que ocurrió la fusión impropia correspondía al del percibido o devengado.\n\n\nAl respecto, agregó que se encontraba ante una contribuyente que tributaba en base a sus rentas efectivas, determinadas según contabilidad completa y, aunque la cesión de derechos se hubiese celebrado en noviembre de 2006, adquiriendo la contribuyente el 100% de las acciones y, consecuencialmente , la totalidad de la participación en una sociedad, ello generaba efectos cuya determinación se daban en el tiempo, y podían reconocerla incluso, en años tributarios diversos de aquel en que se celebró el contrato. Por lo que, de acuerdo a lo establecido en el artículo 15 de la Ley sobre Impuesto a la Renta –vigente a la época- constituiría una excepción a la tributación al momento del devengo o percepción.\n\nLa Corte señaló que la controversia planteada por el Servicio podía sintetizarse en el momento en que la fusión impropia de la sociedad limitada, por parte de la reclamante, producía efectos patrimoniales respecto del badwill que debía ser considerado como renta y que debía ser incorporado en su base imponible, para los efectos previstos en la ley del ramo. Así, en el caso en estudio, la fusión se verificó por el solo ministerio de la ley con ocasión de la escritura pública de cesión de derechos, de manera tal que en ese momento se produjo el aumento patrimonial con ocasión del badwill o mayor valor de la inversión, respecto de la reclamante. El término de giro de las sociedades disueltas , su situación tributaria o la autorización del Servicio, de acuerdo a lo establecido en los artículos 69 y 70 del Código Tributario, no obstaban para estar en presencia del concepto de renta al que aludía el artículo 2 inciso primero de la Ley sobre Impuesto a la Renta, legislación especial que debía preferirse a las normas comunes establecidas en el Código del ramo y que no contenían como requisito, para que se percibiera o devengara la renta –en los términos de la legislación vigente a la época de los hechos- un pronunciamiento de la operación por parte del Servicio.\n\nEn relación a lo anterior, la Corte Suprema"
+    },
+    {
+      "name": "Oficio N°1639 (16/09/2010)",
+      "source_type": "oficio",
+      "source": "Oficio N°1639 (16/09/2010)",
+      "document_id": "c0f0fd1a-88b3-5023-9576-37204dcf76ef",
+      "chunk_uuid": "f8245601-571f-592b-9e53-2072abc9102b",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2010/ventas/ja1639.htm",
+      "content": " obligado legalmente a emitir una “factura de exportación”, no correspondiendo\nque el SII autorice su timbraje.\ne) En consecuencia Aduana no puede exigir al vendedor del planeador que requiera de Impuesto Internos el\ntimbraje de una “factura de exportación” pues en este caso no corresponde legalmente la emisión de ese\ndocumento.\nII.- ANALISIS:\n\n\nDe los antecedentes aportados por el consultante, se aprecia que quien vende la aeronave, no se dedica en\nforma habitual al comercio de estas especies, por lo que la compraventa en cuestión no califica como un\nhecho gravado general venta del D.L. N° 825, de 1974.\nEn base a lo señalado, se confirma que:\na) La compraventa no constituye una venta, para efectos de la aplicación del Impuesto al Valor Agregado,\ncomo tampoco se enmarca dentro de las hipótesis de incidencia tributaria especial del artículo 8 del D.L N°\n825, de 1974.\nb) Para que proceda una exención, cualquiera sea ella, es requisito esencial que el hecho o acto en cuestión\nse encuentre gravado con el impuesto. En consecuencia, no es posible aplicar la exención de la letra D del\nartículo 12 del D.L. N° 825, de 1974, a la compraventa de la aeronave en cuestión, por tratarse esta\noperación de un hecho no gravado con el impuesto.\nc) No sólo las personas que realizan operaciones gravadas o exentas se encuentran en la obligación de\nemitir documentos tributarios del IVA, también deben hacerlo aquellos contribuyentes que realicen\noperaciones no gravadas, así se desprende del artículo 52 de la Ley sobre Impuesto a las Ventas y\nServicios, cuando al referirse a quienes deben emitir boletas o facturas dispone que “Esta obligación regirá\naun cuando en la venta de los productos o prestación de los servicios no se apliquen los impuesto de esta\nley”. Además tal obligación se encuentra ratificada y aclarada en la Resolución N° 6080, de 1999, y la\nCircular N° 39 de 2000.\nd) Sin embargo, para que proceda la emisión de documentos tributarios por operaciones que no se\nencuentran gravadas, es requisito que la persona que realiza la venta sea a lo menos contribuyente del\nimpuesto al valor agregado o del artículo 20 N° 1 letras a) y b), y números 3, 4 y 5 del mismo artículo, de la\nLey sobre Impuesto a la Renta.\nEn el caso planteado, el vendedor no estaría realizando la venta en el desarrollo de algún giro u actividad,\nque lo ponga en el contexto de la norma que obliga a emitir documentos tributarios.\ne) En este contexto, el vendedor no debe emitir una factura de exportación u otro documento del IVA para\nacreditar la operación de venta de la aeronave al exterior, y en armonía con lo dicho, este Servicio no puede\nautorizar su emisión.\nAsí las cosas, solicitar que se emita una factura de exportación en las particulares condiciones en que se\nlleva a cabo esta compraventa al exterior, implica poner al requirente en la imposibilidad de cumplir con los\nrequisitos necesarios para realizar la declaración de exportación.\nIII.- CONCLUSION:\nEn el caso bajo análisis, al no tener el consultante la calidad de contribuyente del Impuesto al Valor\nAgregado, no procede a su respecto la obligación de emitir facturas de exportación, por lo que no puede\nexigirse tal documento para dar curso a la Declaración Única de Salida en la venta al extranjero de la\naeronave modelo xxx, serie xx/xx\nMARIO VILA FERNÁNDEZ\nDIRECTOR SUBROGANTE\nOficio N° 1639, de 16.09.2010\nSubdirección Normativa\nDpto. de Impuestos Indirectos\n"
+    },
+    {
+      "name": "Oficio N°1596 (15/06/1998)",
+      "source_type": "oficio",
+      "source": "Oficio N°1596 (15/06/1998)",
+      "document_id": "eb327e28-dd51-5444-b2c1-73fe04667272",
+      "chunk_uuid": "783f45ce-e75d-5318-b432-f393f0659444",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1998/ventas/jun04.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome| Ventas y Servicios - 1998\nVENTAS Y SERVICIOS - NUEVO TEXTO IMPUESTO A LAS - ARTS. 23°, N° 5 y 55°.\nExportación de fruta - Contratos entre productores y exportadores - Venta fruta\nque se producirá en la temporada completa, facturándose conforme a entregas\nparciales - Comprobación de pagos de dinero del exportador al productor, no\nrespaldado con entrega de alguna de la especie - Atribuible al pago parcial del\nprecio de la convención gravada con IVA - Obligación de emitir factura en el\nmomento de la entrega de los bienes corporales muebles - Vendedor puede\nanticipar dicha obligación, emitiendo la factura al producirse un pago, aunque sea\nparcial - Efecto, anticipa también el devengo del tributo - Presuntos préstamos de\ndineros, impuesto de timbres y estampillas grava el documento que da cuenta de\nuna operación de crédito - Si operación no consta en contrato de compraventa de\nla fruta o en instrumento separado, no puede exigirse al deudor la aceptación de\nletra o pagaré, para el sólo efecto de gravarlo con ese tributo - Recuperación del\nimpuesto por el exportador, supeditada a la procedencia del uso del crédito fiscal\nequivalente.\n1.- En diversas oportunidades, esta Dirección Nacional ha conocido de los distintos\nproblemas suscitados con motivo de la exportación de fruta, ocasiones en que se ha\ntenido a la vista -a lo menos- los contratos tipo que los productores de la especie\nsuscriben con los exportadores para venderles la fruta, siempre recargando el IVA.\nEn la generalidad de los casos, en esas convenciones se acuerda la venta de la fruta\nque se producirá en una temporada completa, facturándose en la medida de las\nentregas parciales -con las modalidades pertinentes- en un precio medio convenido que\nse ajusta, en definitiva, una vez conocido el resultado de la selección o embalaje de la\nfruta que se entrega a granel, y/o el precio que se obtenga en la exportación,\ndebiéndose emitir entonces las notas de débito o crédito que corresponda.\n2.- En este sistema conocido, aunque se comprobara pagos de dinero (del exportador-\ncomprador a su proveedor de la fruta) que no estuvieran respaldados por entrega\nalguna de la especie, la existencia del contrato de compraventa entre ellos obligaría a\natribuirlos al pago parcial del precio de la convención, siempre gravado con IVA.\nEn efecto, si bien el artículo 55º del citado decreto ley, determina la obligación del\nvendedor de emitir las facturas en el momento de la entrega de los bienes corporales\nmuebles que vende, nada obsta a que él se anticipe a esta obligación, extendiendo el\ndocumento al producirse cualquier pago, aunque sea parcial, del precio convenido,\npuesto que, en definitiva, en ese mismo momento está anticipando también el devengo\ndel tributo al valor agregado recargado en él.\nEsta Dirección Nacional se ha pronunciado ya con anterioridad en este sentido. (Por\nejemplo en Ords. Nºs 3452, de l9/lO/9O y 1126, de 28//5/97).\n3.- En cuanto a los presuntos préstamos de dinero, el impuesto de timbres y estampillas\nsiempre grava al documento que dé cuenta de una operación de crédito de ese dinero,\nde modo que si esta operación no consta en el contrato de compraventa de la fruta o en\nalgún instrumento separado, no puede exigirse al deudor que acepte una letra o pagaré\npara los solos efectos de gravarlo con ese tributo.\n4.- Si se comprueba la entrega de insumos -del comprador de la fruta al vendedor de\nella- habrá de exigirse la documentación pertinente y el recargo del IVA, por la venta.\n5.- En cuanto a la procedencia de la recuperación del impuesto por el exportador, ella\nestá supeditada a la procedencia del uso del"
+    },
+    {
+      "name": "Artículo 1853 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "701501d4-325f-57e2-ac8b-22d0346f6f60",
+      "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719862",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1853 (DEL ART. 2)|Art. 1853. En virtud de esta rescisión, el comprador será obligado a restituir al vendedor la parte no evicta, y para esta restitución será considerado como poseedor de buena fe, a menos de prueba contraria; y el vendedor además de restituir el precio, abonará el valor de los frutos que el comprador hubiere sido obligado a restituir con la parte evicta, y todo otro perjuicio que de la evicción resultare al comprador."
+    },
+    {
+      "name": "Circular N°49 (30/07/2001)",
+      "source_type": "circular",
+      "source": "Circular N°49 (30/07/2001)",
+      "document_id": "623c71fb-5b21-5ea7-b6bd-fe48b9e3d0fa",
+      "chunk_uuid": "22e61ff6-005b-5f67-beff-ffa8daa068be",
+      "chunk_id": 23,
+      "url": "https://www.sii.cl/documentos/circulares/2001/circu49.pdf",
+      "content": "uesto por los artículos 1° y 4° transitorio de la Ley N° 19.738, \npublicada en el Diario Oficial de  19.06.2001, las modificaciones introducidas a los artículos de la Ley \nde la Renta que se analizan a través de la presente Circular, tendrán la siguiente vigencia: \n \n \n \na.1)  \nConforme a lo dispuesto por el N° 1 del artículo 1° transitorio de la Ley N° \n19.738,  la modificación introducida al inciso cuarto de la letra c) del N° 1 de la Letra A) del artículo 14 \nde la Ley de la Renta, analizada en el N° 1 del Capitulo III precedente, regirá respecto de las \ninversiones en acciones de sociedades anónimas cerradas que se efectúen a contar desde la fecha \nde publicación en el Diario Oficial de la ley modificatoria antes mencionada, esto es, a partir del 19 \nde junio del año 2001. \n  \n \n \n \nEn consecuencia, y de acuerdo a lo antes expuesto, el tratamiento tributario \nque  afectará a la enajenación de acciones de pago de sociedades anónimas cerradas adquiridas \nmediante la reinversión de utilidades, regirá respecto de aquellas inversiones que se realicen en \ndicho tipo de acciones a contar del 19 de junio del año 2001. Respecto de aquellas inversiones \n\n\n \n18\nefectuadas en el tipo de acciones señaladas, realizadas con anterioridad a la fecha antes indicada, \nmantendrán el tratamiento tributario dispuesto por la letra c) del Nº 1 de la letra A) del artículo 14 de \nla Ley de la Renta vigente con antelación a su modificación por la Ley Nº 19.738, esto es, la \nenajenación de tales títulos cualquiera que sea la fecha de ésta se sujetará en todo a las normas \ngenerales de la letra a) del N° 8 del artículo 17 de la Ley de la Renta y demás disposiciones de la \nreferida ley que regulan dicha operación, sin que se presuma un retiro tributable como lo dispone \nactualmente la norma modificada. \n \n \n \na.2) \nSegún lo dispuesto por el N° 2 del artículo 1° transitorio de la Ley N°  19.738, la \nmodificación introducida al artículo 18 de la Ley de la Renta, comentado en el N° 2 del Capítulo III \nanterior,  regirá a contar de la fecha de publicación en el Diario Oficial de la ley antes mencionada, \nesto es, a partir del 19.06.2001, respecto de las enajenaciones de predios rurales subdivididos que \nse efectúen a partir de dicha fecha. No obstante la vigencia precedente, y según lo preceptuado por \nel artículo 4° transitorio de la citada ley, dicha modificación  no tendrá aplicación respecto de la venta \nde bienes raíces rurales cuya escritura de compraventa se hubiere otorgado antes de la fecha \nseñalada precedentemente, esto es, antes del 19 de junio del año 2001, aunque la inscripción en el \nConservador de Bienes Raíces de dicha compraventa se efectúe con posterioridad a la fecha \nindicada. \n \n \n \na.3) \nLas modificaciones introducidas a los incisos sexto y séptimo de la letra b) del \nN° 1 del artículo 20 de la Ley de la Renta, según lo dispuesto por la primera parte del inciso primero \ndel artículo 1° transitorio de la Ley N° 19.738, regirán a contar del Año Tributario 2002, afectando \nen consecuencia, al límite de ventas de bienes agrícolas que se determine al 31.12.2001, y en la \nmedida que dicho límite supere las 8000 UTM, considerando las ventas realizadas por las \nsociedades anónimas abiertas con las cuales los contribuyentes referidos en los incisos \nmodificados se encuentren relacionados, quedarán obligados a declarar la renta efectiva \ndeterminada mediante contabilidad completa a contar del 01 de enero del año 2002. \n \n \n \na.4) \nDe acuerdo a"
+    },
+    {
+      "name": "Artículo 1840 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "0375a680-d321-5bc6-86cb-48de8cc10a83",
+      "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719849",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1840 (DEL ART. 2)|Art. 1840. La acción de saneamiento es indivisible. Puede por consiguiente intentarse insólidum contra cualquiera de los herederos del vendedor. Pero desde que a la obligación de amparar al comprador en la posesión, sucede la de indemnizarle en dinero, se divide la acción; y cada heredero es responsable solamente a prorrata de su cuota hereditaria. La misma regla se aplica a los vendedores que por un solo acto de venta hayan enajenado la cosa."
+    },
+    {
+      "name": "Circular N°92 (20/09/1974)",
+      "source_type": "circular",
+      "source": "Circular N°92 (20/09/1974)",
+      "document_id": "90c61295-3520-5db6-8f19-32baf71fa522",
+      "chunk_uuid": "26e48a8b-2354-5fa0-9d86-dcaa3474e187",
+      "chunk_id": 24,
+      "url": "https://www.sii.cl/documentos/circulares/1974/circu92.pdf",
+      "content": " en el documento que -dé cuenta de la operación de crédito de dinero.\nJ.4 Documento que contenga varios actos, contratos o -convenciones gravados por este Decreto Ley.\n\"Artículo 14º, inciso 1º.-\n\"El documento que contenga varios actos, contratos o con-venciones gravados por este Decreto Ley, pagará el im-\"puesto que corresponda a cada uno de ellos\".\nEl artículo 14º, inciso 1º, dispone que en estos ca-sos se pagará el impuesto que corresponde a cada uno de los actos, contratos o convenciones gravados allí contenidos.\nLa disposición es idéntica a la anterior (Ley Nº -16.272, artículo 8º, inciso 1º), y se ha aplicado siempre por el -Servicio en el sentido siguiente: el impuesto que satisface o co-rresponde a un determinado acto, contrato o convención, ampara todas aquellas estipulaciones que son de la esencia o la naturaleza del -acto, contrato o convención de que se trate, pero no las accidenta-les, vale decir, aquellas que se le agregan por medio de cláusulas especiales.\n29\nEn una compraventa, por ejemplo, son de la \"esencia\" del contrato las estipulaciones o cláusulas relativas al precio y a la cosa que se vende; de la naturaleza, el saneamiento de la evic-ción y de los vicios ocultos o redhibitorios, y \"meramente acciden-tal\" la obligación que contrae el vendedor de asegurar contra un de-terminado riesgo la cosa vendida, hasta su entrega al comprador.\nEn síntesis, si en una escritura pública de consigna -la venta de un bien raíz, la hipoteca del mismo, un mutuo que se -le otorga al comprador, etc., cada uno de estos actos jurídicos di-ferentes está afecto a impuesto, y además, todas aquellas estipula-ciones que no sean de la esencia o de la naturaleza de los mismos, sino meramente accidentales a ellos.\nJ.5 Documentos que den cuenta de la modificación, recti-ficación o complementación de un acto o contrato -que haya pagado los impuestos establecidos en este -Decreto Ley.\n\"Articulo 14º, inciso 2º.-\n\"La modificación, rectificación o complementación de un -acto o contrato que haya pagado los impuestos estableci-\"dos en este Decreto Ley, no estará afecto a impuesto al-guno, a menos que se aumente la base imponible que haya -servido para el cálculo del tributo, caso en el cual se -pagará sólo la diferencia que resulte, sin perjuicio -del pago de los impuestos a que se refiere el artículo -3º y lo dispuesto en el artículo 3º de este Decreto Ley\".\nCOMENTARIO:\nEn conformidad a lo dispuesto por el artículo 14º, -inciso 2º (cuyo tenor es idéntico al antiguo texto: Ley N°16.272, -artículo 8º, inciso 2º), dichos documentos o escrituras complemen-tarias no se hallan afectos a impuesto alguno (a los actos o con-tratos) si no se aumenta la base imponible que sirvió para el cál-culo del tributo. Si esta se aumenta, deberá pagarse la diferencia que resulte.\nAsí, por ejemplo, si en una escritura de arrendamien-to de un inmueble por cinco años, se pactó una renta de F100.000.-mensuales, y al tercer año de celebrado se suscribe una escritura complementaria de la anterior en que se acuerda elevar la renta -mensual a F150.000,-, dicha escritura devenga impuesto por la dife-rencia de F50.000,- mensuales durante todo el lapso que falta para el término del contrato.\nUn ejemplo, además, de la aplicación de este princi-pio se vió ya al tratar la base imponible de las \"cauciones o ga-rantías\" (artículo 11º, Nº3)\nNaturalmente que en ambos casos -sea que se manten-ga, sea que se aumente la base imponible que sirvió para el cálculo del tributo-, se devengan los impuestos que afectan a las actuacio-nes"
+    },
+    {
+      "name": "Artículo 584",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "301fdced-d7d1-5e06-a5a3-280b292e64a3",
+      "chunk_uuid": "edadc18c-5322-5524-a0f7-c707af9bbdb4",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768089",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título V DE LA CITACION DE EVICCION,Artículo 584|Art. 584. (742). La citación de evicción deberá hacerse antes de la contestación de la demanda. Para que se ordene la citación de evicción deberán acompañarse antecedentes que hagan aceptable la solicitud."
+    },
+    {
+      "name": "Oficio N°3041 (27/10/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3041 (27/10/2021)",
+      "document_id": "9afbf88b-b75e-589e-b99a-e40096254402",
+      "chunk_uuid": "d5683797-0f78-5d37-93a7-d57f24944739",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3041-27%2F10%2F2021.pdf&extension=pdf&acc=download&id=79c23dce-dc12-4988-954d-8adb2c7cd6b1&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2 N° 1 Y N° 3 – CÓDIGO \nTRIBUTARIO – ART. 75 – DECRETO SUPREMO N° 55, DE HACIENDA, DE 1977 – \nART. 4 – RESOLUCIÓN EX. N° 16 DE 2017 – OFICIO N° 1233 DE 2021. – (ORD. N° 3041, \nDE 27.10.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nIVA y habitualidad en la venta de inmuebles. \n \nSe ha consultado a este Servicio sobre la calificación de vendedor en la venta de un inmueble \nefectuada antes de un año desde su adquisición. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, el Conservador de Bienes Raíces de Concón se ha negado a \npracticar la inscripción de la compraventa celebrada con fecha 13.08.2021, no obstante el claro \ntenor de la Resolución Ex. N° 16 de 2017, de este Servicio, y la declaración jurada del artículo 75 \n(del Código Tributario), que le acompaña. \nAgrega que con fecha de 30.09.2020 compró un inmueble y que, por razones personales, lo \nvendió en el mismo precio de compra. \nSostiene que, si bien entre la fecha de compra y la de venta ha transcurrido menos de un año, la \nmodificación de la norma conduce necesariamente a revisar la concurrencia de los elementos de la \nventa y del vendedor para efecto de determinar la procedencia del IVA, solicitando se declare que \nno es vendedor en los términos de dicha ley. \nII  ANÁLISIS \nEl N° 1°) del artículo 2° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) considera \n“venta” toda convención independiente de la designación que le den las partes, que sirva para \ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles \nconstruidos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre \nellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que dicha ley equipare a \nventa. \nA su turno, el N° 3°) del citado artículo 2° define “vendedor” como cualquier persona natural o \njurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual \na la venta de bienes corporales muebles e inmuebles, sean ellos de su propia producción o \nadquiridos de terceros. \nCon relación al concepto de “vendedor”, si bien el texto anterior de la LIVS establecía una \npresunción meramente legal de habitualidad en la venta de inmuebles, cuando entre la adquisición \no construcción del bien raíz y su enajenación transcurra un plazo inferior a un año, la Ley N° \n21.210 eliminó1 dicha presunción por lo que, en la actualidad, para determinar si una persona es \nhabitual en una operación de venta habrá que estarse a la normativa general. \nAl respecto, el texto vigente del N° 3°) del artículo 2° de la LIVS entrega al Servicio de \nImpuestos Internos la facultad de calificar la habitualidad, conforme a lo establecido en el artículo \n4° del Decreto Supremo N° 55, de Hacienda, de 1977, que contiene el Reglamento de la LIVS. \nEsto es, se deberá considerar la naturaleza, cantidad y frecuencia con que el vendedor realice las \nventas de los bienes corporales muebles de que se trata y, con estos antecedentes, determinará si \nel ánimo que guío al contribuyente fue adquirir el inmueble para su uso, consumo o para la \nreventa. \nSin perjuicio de tratarse de una cuestión de hecho entregada a las instancias de fiscalización \nrespectivas, en la medida que el recurrente pueda acreditar fehacientemente lo informado en su \npresentación, por medio de los respectivos contratos"
+    },
+    {
+      "name": "Artículo 1345 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "8c2f5f93-2fa4-5396-a231-e311a45019ab",
+      "chunk_uuid": "09479368-8932-511e-a862-74082df1c389",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719270",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título X DE LA PARTICION DE LOS BIENES,Artículo 1345 (DEL ART. 2)|Art. 1345. El partícipe que sea molestado en la posesión del objeto que le cupo en la partición, o que haya sufrido evicción de él, lo denunciará a los otros partícipes para que concurran a hacer cesar la molestia, y tendrá derecho para que le saneen la evicción. Esta acción prescribirá en cuatro años contados desde el día de la evicción."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-6925-2012",
+      "source_type": "jurisprudencia",
+      "source": "ROL-6925-2012",
+      "document_id": "e2f93818-e0e9-57de-aca5-c11fa227ee6c",
+      "chunk_uuid": "fd483c77-baef-5ba1-b14c-5fba763ac6c2",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/2682",
+      "content": "La Excma. Corte Suprema rechazó un recurso de casación en el fondo interpuesto por la contribuyente Melón Hormigones S.A, en contra de una sentencia dictada por la Iltma. Corte de Apelaciones de San Miguel, que confirmó la sentencia de primera instancia del Director Regional del SII, en virtud de la cual se rechazó el reclamo interpuesto confirmando la Resolución Ex.\n\nEl recurso explica que en este caso se ha discutido la suficiencia de las medidas prudenciales de cobro empleadas por la reclamante, a la luz del artículo 31 N° 4 de la Ley de Impuesto a la Renta, referida a la deducción de gastos por concepto de castigo de créditos incobrables y que exige el agotamiento de tales medios de cobro. La recurrente señala que el Servicio de Impuestos Internos determinó que no se habría cumplido con tal exigencia, estimando insuficientes gestiones como el envío de cartas certificadas, la realización de llamadas telefónicas, el protesto de cheques por falta de pago, o no los estimó acreditados. Explica que las exigencias de la resolución reclamada son desproporcionadas y van más allá de los términos del artículo 31 N° 4 de la Ley de Impuesto a la Renta y del artículo 21 del Código Tributario. Agrega que los antecedentes aportados en los autos daban cuenta de la veracidad de la pérdida declarada, en especial, la parte relativa a la generada en el gasto por depreciación de los bienes del activo fijo, por lo que tal pérdida tributaria debió ser aceptada. Por último, señala que en la especie se habrían conculcado los artículos 132 del Código Tributario y 19 N° 3 de la Constitución Política de la República, al haberse omitido la recepción de la causa a prueba.\n\nLa Corte Suprema estimó que, partiendo de la base que en sede administrativa la contribuyente no respaldó debidamente las deducciones efectuadas en el año tributario 2010 a la renta líquida imponible por concepto de gastos de ejercicios y depreciación de activo fijo, y siendo esta una obligación del contribuyente por cuanto debe aportar la documentación que el Servicio de Impuestos Internos requiera a fin de establecer la procedencia de sus planteamientos, la autoridad tributaria está facultada para emitir legalmente un acto administrativo fundado de rechazo total o parcial a sus pretensiones, por lo que la resolución exenta constituye un acto plenamente válido, ajustado a la normativa y a las instrucciones del Servicio de Impuestos Internos para la ejecución de su función fiscalizadora.\n\nEl Tribunal de Casación agregó que en cuanto a la presunta infracción del artículo 132 del Código Tributario, en relación con el artículo 19 N° 3 de la Constitución Política de la República, por la omisión de la recepción de la causa a prueba no puede prosperar, ya que tal vicio es propio del recurso de casación en la forma."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-17586-2014",
+      "source_type": "jurisprudencia",
+      "source": "ROL-17586-2014",
+      "document_id": "0c6369dd-77f5-5a24-9f89-c05cc4ab7dba",
+      "chunk_uuid": "77499a03-59a9-57f4-981b-3189546cd963",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1900",
+      "content": "La Corte Suprema rechazó el recurso de casación en el fondo interpuesto por la contribuyente en contra de la sentencia dictada por la Corte de Apelaciones de Temuco que confirmó la de primer grado, que desestimó la alegación de prescripción, la rectificación de errores propios y rechazó el reclamo impetrado en contra de las liquidaciones de 2012, por impuesto de primera categoría e impuesto global complementario del año tributario 2009, aplicado sobre el mayor valor obtenido en la enajenación de acciones de una sociedad anónima.\n\nPor el recurso se denunció infracción de los artículos 21, 26, 59 inciso 1°, 68 incisos 1, 3 y 4,\n\n127 del Código Tributario; los artículos 14 bis inciso 1° y 10°, 20 N°3, 68 inciso primero y 41 N°1 de la Ley sobre Impuesto a la Renta; y de los artículos 3 N°1 del Código de Comercio; 6, 7 y 19 N°24 de la Constitución Política de la República, 53 de la Ley N° 19.880 y 160 del Código de Procedimiento Civil.\n\nEn cuanto a la primera denuncia de error de derecho relativa a la falta de un procedimiento invalidatorio para dejar sin efecto el Oficio N° 684, la Corte Suprema señaló que no resultaba exigible al ente fiscalizador la utilización del procedimiento contencioso administrativo general en el sentido propuesto, siendo inaplicable, la disposición del artículo 53 de la Ley N° 19.880 en el procedimiento tributario de los antecedentes, no existiendo la consecuente infracción de los artículos 6 y 7 de la Constitución Política de la República, ni del artículo 3 de la misma ley ni de los artículos 19 a 24 del Código Civil.\n\nRespecto a la solicitud de impedir el cobro retroactivo de impuesto, la Corte señaló que no tenía aplicación, puesto que el indicado Oficio no contenía una interpretación de leyes tributarias, sino que una mera constatación formal del cumplimiento de requisitos legales. Por lo anterior, dejó en claro que la proscripción del cobro retroactivo de impuesto beneficia al contribuyente que, en el ejercicio de su actividad y en la planificación de su comportamiento tributario, se ajusta de buena fe a los lineamientos que dan la Dirección Nacional o Direcciones Regionales del Servicio.\n\nPor otro lado, se discutió si la reclamante se encontraba obligada a llevar contabilidad completa al momento de intentar ingresar al régimen simplificado de tributación. La Corte señaló que era acertada la conclusión jurídica de los jueces del grado en orden a la calificación del giro de la reclamante en el numeral segundo del artículo 20 de la Ley sobre Impuesto a la Renta y, con ello, la conclusión de no estar obligada a llevar contabilidad completa para determinar la renta efectiva, al tenor de lo previsto en el artículo 68 de esa ley. La venta de las acciones que motivaron la liquidación, era la única operación y no era suficiente para estimar que revelaba el ejercicio de una actividad comercial.\n\nEn cuanto a la determinación de capital propio de la reclamante, la Corte Suprema indicó que resultaba claro que la declaración de ésta debía tener relación con los impuestos que afectarían las actividades que se iniciaban y el capital con que la contribuyente desarrollaría los giros declarados eran las acciones que poseía en las sociedades anónimas, cuyo importe era superior a 200 UTM, no cumpliendo con el requisito de capital impuesto por el artículo 14 bis de la Ley sobre Impuesto a la Renta.\n\nEn relación al cobro del impuesto global complementario, el recurso fue desestimado, al haberse articulado sobre la base de presupuestos fácticos distintos de los establecidos en el proceso, sin haber pretendido su incorporación por la vía de la infracción a las normas reguladoras de la prueba.\n\nRespecto a la denuncia de error de derecho en la decisión de la corrección de errores propios, se señaló que no resultaba procedente extender este derecho del contribuyente a la contabilidad, puesto que no había sido contemplada en la norma.\n\nSobre la denuncia"
+    },
+    {
+      "name": "Artículo 1851 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "c9d17660-486a-5c06-a89f-74d0b1e306af",
+      "chunk_uuid": "0d7f90dc-b62d-51b1-80ad-2d459485baa6",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719860",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1851 (DEL ART. 2)|Art. 1851. En las ventas forzadas hechas por autoridad de la justicia, el vendedor no es obligado, por causa de la evicción que sufriere la cosa vendida, sino a restituir el precio que haya producido la venta."
+    },
+    {
+      "name": "Oficio N°1530 (07/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1530 (07/08/2020)",
+      "document_id": "e348e2f8-b649-514e-9dfd-a1075203d9e6",
+      "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1530-07%2F08%2F2020.pdf&extension=pdf&acc=download&id=00c6371d-b1b1-42a0-8824-147d68f90471&mediaType=application%2Fpdf",
+      "content": " de dicho contrato no están comprendidos en los hechos gravados de la Ley sobre Impuesto a \nlas Ventas y Servicios (LIVS).  \n3) \nSi la Sociedad adquiere la propiedad del inmueble que ha prometido comprar y posteriormente lo \nvende, calificaría como vendedor habitual, de acuerdo al N° 3 del artículo 2° de la LIVS.  \nII \nANÁLISIS \nSin perjuicio que no se acompañó el contrato de promesa de compraventa señalado en la presentación, \neste Servicio entiende que lo cedido es el contrato de promesa mismo, esto es, la cesión de la relación \njurídica completa que emana del contrato de promesa.  \nAl respecto, a partir de lo dispuesto en el artículo 1554 del Código Civil1 y la doctrina, se desprende que \nla promesa es un contrato principal, el cual subsiste por sí mismo sin necesidad de otra convención y \n \n1 Dispone que la promesa de celebrar un contrato no produce obligación alguna; salvo que concurran las circunstancias siguientes:  \n1) Que la promesa conste por escrito;  \n2) Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces;  \n3) Que la promesa contenga un plazo o condición que fije la época de la celebración del contrato;  \n\n\n2 \n \nproduce sus efectos propios, aunque no haya otra convención. La promesa, si bien tiene por objeto el \notorgamiento del contrato definitivo prometido, no se le confunde ni se le asimila con aquel contrato \nque las partes se obligan a otorgar en el futuro2.  \nAsimismo, el contrato de promesa de compraventa y el contrato de compraventa prometido son dos \ncontratos distintos e independientes entre sí, de los cuales derivan diferentes derechos y obligaciones \npara las partes intervinientes. De este modo, en el contrato de promesa, la celebración del contrato \nprometido constituye la obligación principal de ambas partes. Por su parte, la obligación principal del \ncontrato de compraventa para el comprador, es el pago del precio, y para el vendedor, la transferencia \ndel dominio de la cosa vendida3.  \nPrecisado lo anterior y atendido el concepto amplio de renta contenido en el N° 2 del artículo 2° de la \nLIR, y el hecho que la renta derivada de la cesión del contrato de promesa de compraventa no califica \ncomo ingreso no constitutivo de renta del artículo 17 de la LIR ni se encuentra liberada de tributación en \nvirtud de otra ley especial, se clasifica en el N° 5 del artículo 20 de la LIR, quedando afecta a \ntributación con IDPC para la sociedad por la cual se consulta.  \nLuego, la Sociedad cedente, de no encontrarse acogida a un régimen especial para las Pyme4, debe \ntributar sobre la base de renta efectiva determinada según contabilidad completa, calculando la renta \nafecta a IDPC derivada de la cesión del contrato de promesa según las normas contenidas en los \nartículos 29 al 33 de la LIR.  \nEn cuanto al tratamiento tributario que la sociedad cedente debe dar al anticipo que pagó al celebrar el \ncontrato de promesa, cabe señalar que, frente a las normas de la LIR, dicho anticipo pagado es \ncalificado como un activo intangible. Dicha inversión debe activarse y, al no existir norma legal, que \npermita su amortización, su recuperación sólo podrá ocurrir mediante la enajenación o cualquier otro \nhecho o circunstancia que la haga perder la calidad de activo intangible para la empresa que realizó la \ninversión. \nEn consecuencia, en caso que la sociedad suscriba el contrato de compraventa con el prominente \nvendedor adquiriendo el inmueble para sí, el anticipo del precio de la compraventa entregado al \npromitente vendedor al suscribir el contrato de promesa, pasará a formar parte de su costo directo y \npodrá ser deducido como tal al enajenarlo, conforme a lo dispuesto en el artículo 30 de la LIR. \nA su vez, la cesión de dicha promesa haría perder la calidad de activo intangible para la sociedad que \nrealizó"
+    },
+    {
+      "name": "Artículo 1843 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "ce03147f-3f82-596a-80c0-b1f88f5d61fb",
+      "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719852",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1843 (DEL ART. 2)|Art. 1843. El comprador a quien se demanda la cosa vendida, por causa anterior a la venta, deberá citar al vendedor para que comparezca a defenderla. Esta citación se hará en el término señalado por el Código de Enjuiciamiento. Si el comprador omitiere citarle, y fuere evicta la cosa, el vendedor no será obligado al saneamiento; y si el vendedor citado no compareciere a defender la cosa vendida, será responsable de la evicción; a menos que el comprador haya dejado de oponer alguna defensa o excepción suya, y por ello fuere evicta la cosa."
+    },
+    {
+      "name": "Artículo 1842 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "7e8f4037-98a2-536a-9b34-bac04b7f0db0",
+      "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719851",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1842 (DEL ART. 2)|Art. 1842. Es nulo todo pacto en que se exima al vendedor del saneamiento de evicción, siempre que en ese pacto haya habido mala fe de parte suya."
+    },
+    {
+      "name": "Artículo 1824 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "75311bcb-0799-5042-a45d-fffd7cea18e3",
+      "chunk_uuid": "c33da2da-1db0-5ab4-b7f4-1a346988ec7d",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719831",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1824 (DEL ART. 2)|Art. 1824. Las obligaciones del vendedor se reducen en general a dos: la entrega o tradición, y el saneamiento de la cosa vendida. La tradición se sujetará a las reglas dadas en el Título VI del Libro II."
+    },
+    {
+      "name": "Oficio N°451 (20/02/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°451 (20/02/2012)",
+      "document_id": "3ed08639-2b55-5045-b355-41ce15e47d93",
+      "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja451.htm",
+      "content": " al momento en que se cumplen todas y cada una de las modalidades\ny condiciones ya explicadas, lo que formalmente ocurre con la firma y/o notificación de la constancia del\ndescuento promocional. Por ello, es posible que la compraventa se firme en un ejercicio y que el descuento\nse verifique en el siguiente.\nSobre la materia, solicita expresamente aclarar si el menor ingreso se debe reconocer en el momento de la\nfirma de la escritura de compraventa o bien, en el momento en que se hace efectivo el descuento. En su\nopinión el criterio correcto sería reconocer el menor ingreso al momento en que jurídicamente el descuento\nse hace efectivo.\nI. ANÁLISIS.\nEn primer lugar, cabe señalar que este Servicio, mediante Oficio N°4291, de 2006, concluyó que en el caso\nespecífico allí planteado no existía un gasto necesario para producir la renta, sino que un menor precio de\nventa de los inmueble, el que se hacía efectivo a través de un descuento.\nEn efecto, en la situación sobre la cual se pronunció el referido Oficio, la empresa inmobiliaria recurrente\notorgaba a los promitentes compradores que suscribiesen promesas de compraventa, un bono canjeable en\ndinero, a la fecha de suscripción de la compraventa definitiva del inmueble, por el 5% del precio de cada\ndepartamento, debiendo el promitente comprador aplicar dicho dinero, única y exclusivamente al pago del\n5% del precio de la compraventa.\nTal como se indicó, este Servicio estimó que en dicho caso no existía un gasto necesario para producir la\nrenta, ya que el bono antes indicado no implicaba un desembolso efectivo al no realizar el contribuyente una\nadquisición o prestación real.\nAhora bien, en el caso planteado en su presentación, y según aparece de las Bases y Condiciones de la\npromoción acompañadas, la Inmobiliaria otorgará a sus clientes un beneficio consistente en un descuento del\nprecio de la compraventa, el que se verificará mediante la restitución material por parte de la Inmobiliaria al\n\n\npromitente comprador del mismo, dentro del plazo de 30 días, contado desde la fecha en que la Inmobiliaria\nhubiere percibido íntegramente el precio de la compraventa.\nPor su parte, entre los requisitos y condiciones de esta promoción se dispone que al momento de otorgar la\ncorrespondiente promesa de compraventa, el promitente comprador deberá suscribir un pagaré extendido a\nla orden de la Inmobiliaria con vencimiento a la fecha prevista para el otorgamiento de la compraventa\ndefinitiva, por un monto equivalente al total del porcentaje de descuento aplicable. Posteriormente, al\nmomento de otorgarse el contrato de compraventa definitivo, entre la Inmobiliaria y el comprador deberá\nsuscribirse un convenio complementario en el que se dejara constancia que se produce la novación\nconvencional de la obligación de pagar una parte del precio de la compraventa equivalente al monto\nconsignado en el pagaré, de modo que se dará por pagada esta parte del precio, subsistiendo la obligación\nde pago consignada en el pagaré.\nTranscurrido el plazo de 30 días, contado desde la fecha en que la Inmobiliaria hubiere percibido\níntegramente el pago del resto no novado del precio de la compraventa, la Inmobiliaria procederá a restituir el\npagaré al comprador contra la firma de este último de una constancia de haberse hecho efectivo el\ndescuento en el precio de la compraventa.\nDe acuerdo con ello, el precio de la compraventa se devenga en su totalidad, y la obligación de pagar el\nmismo se extingue, una parte mediante el pago efectivo, y la otra (equivalente al descuento) mediante\nnovación. Sin embargo, con posterioridad, la Inmobiliaria hace efectivo el descuento comprometido,\ndevolviendo el pagaré otorgado por dicho monto sin hacer efectivo su cobro.\nPor tanto, aun cuando al momento de otorgarse la compraventa definit"
+    },
+    {
+      "name": "Artículo 1854 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "63bcd22a-3ae6-563d-a752-fe991c091de4",
+      "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719863",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1854 (DEL ART. 2)|Art. 1854. En caso de no ser de tanta importancia la parte evicta, o en el de no pedirse la rescisión de la venta, el comprador tendrá derecho para exigir el saneamiento de la evicción parcial con arreglo a los artículos 1847 y siguientes."
+    },
+    {
+      "name": "Artículo 1846 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "c4d03572-ca6f-5dc3-9e0f-01a6ddbdeacb",
+      "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719855",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1846 (DEL ART. 2)|Art. 1846. Cesará la obligación de sanear en los casos siguientes: 1º. Si el comprador y el que demanda la cosa como suya se someten al juicio de árbitros, sin consentimiento del vendedor, y los árbitros fallaren contra el comprador; 2º. Si el comprador perdió la posesión por su culpa, y de ello se siguió la evicción."
+    },
+    {
+      "name": "Artículo 1849 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "7d700696-d339-57bc-af57-63ab4230d73c",
+      "chunk_uuid": "60a8756a-f4a4-5435-9104-2665a2310a8f",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719858",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1849 (DEL ART. 2)|Art. 1849. El vendedor será obligado a reembolsar al comprador el aumento de valor, que provenga de las mejoras necesarias o útiles, hechas por el comprador, salvo en cuanto el que obtuvo la evicción haya sido condenado a abonarlas. El vendedor de mala fe será obligado aun al reembolso de lo que importen las mejoras voluptuarias."
+    },
+    {
+      "name": "Circular N°71 (23/07/2015)",
+      "source_type": "circular",
+      "source": "Circular N°71 (23/07/2015)",
+      "document_id": "c32cc36c-f1b8-5bd5-ae29-d357a358673b",
+      "chunk_uuid": "ff970b1d-ca7f-5532-b6aa-00f7efcb2804",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu71.pdf",
+      "content": " este Servicio. En consecuencia, sobre estas partidas pueden consultarse las instrucciones que este \nServicio ha impartido sobre la materia con anterioridad, sin que se apliquen los impuestos señalados en el \nartículo 21 de la LIR.   \n \n10 La letra a), del N° 16, del artículo 1° de la Ley, agrega una nueva letra c), al N° 2, del artículo 33 de la LIR, \nnorma que trata sobre las deducciones que deben efectuarse a la renta líquida para llegar a la renta líquida \nimponible afecta a IDPC. La nueva letra c), del N° 2 de dicha norma, dispone que para la determinación de la \nrenta líquida imponible deberán deducirse, de la renta líquida, las cantidades a que se refieren los numerales \ni.-, del inciso 1°, e i) del inciso 3°, ambos del artículo 21 de la LIR. \n \n11 En conformidad con lo dispuesto en el numeral ii.-, del inciso 1°, del artículo 21 de la LIR, están gravados \ncon el IU de 40% las cantidades que se determinen por este Servicio en ejercicio de sus facultades de \nfiscalización, por aplicación de lo dispuesto en los artículos 17 N° 8 inciso 4°; 35; 36 inciso 2°; 38; 41 E, 70 y \n71, todos ellos de la LIR, y aquellas que se determinen por aplicación de lo dispuesto en los incisos 3° al 6° \ndel artículo 64 y en el artículo 65 del CT, según corresponda. \n \n12 La letra e), del N° 8, del artículo 1° de la Ley, en relación con el artículo primero de las disposiciones \ntransitorias,  sustituye el número 8° del artículo 17 de la LIR, con vigencia a partir del 1° de enero del 2017.  \n \n\n\n5 \n \nDe esta manera, en aquellos casos en que el valor o precio de la enajenación de un bien \nraíz o de otros bienes o valores que se transfieran a otro contribuyente, sea notoriamente \nsuperior al valor comercial de los inmuebles de características y ubicación similares en la \nlocalidad respectiva, o de los corrientes en plaza, considerando las circunstancias en que \nse realiza la operación, este Servicio podrá tasar la base imponible con los antecedentes \nque tenga en su poder, en conformidad a lo establecido en el inciso 4°, del N° 8, del \nartículo 17 de la LIR.  \n \nSi bien dicha facultad de tasación no ha sido modificada con ocasión de la Ley (razón por \nla cual ésta seguirá aplicándose en los mismos términos en que se ha hecho hasta la \nfecha y de acuerdo a las instrucciones impartidas por este Servicio13), cuando en virtud de \nla aplicación de ésta, se establezca una diferencia entre el valor asignado en la operación \ny el valor que determine el Servicio en el proceso de fiscalización respectivo, dicha \ncantidad, se gravará respecto del enajenante, sólo con el IU de 40%, cualquiera que sea \nla organización jurídica de dicho enajenante, independientemente de la forma en que éste \ndeclare sus rentas, del resultado tributario obtenido en la operación respectiva, del \nresultado determinado para el ejercicio y de los resultados acumulados en la empresa.  \n \nEn consecuencia, la aplicación de la facultad de tasación referida no afectará la \ndeterminación de la base imponible de los demás impuestos a la renta, respecto de los \ncontribuyentes afectados, puesto que el carácter de único de este impuesto es sólo \nrespecto de las diferencias de precios o valores que se determinen. \n \nb) El nuevo texto del numeral ii.-, del inciso 1°, del artículo 21 de la LIR, incluyó dentro de \nlas causales que dan lugar a la aplicación del IU de 40%, la tasación efectuada por este \nServicio conforme a lo dispuesto en el artículo 65 del Código Tributario.  \n \nEsta última norma establece dos hipótesis de tasación de la base imponible por parte de \neste Servicio, la primera relacionada con la comisión de los delitos tip"
+    },
+    {
+      "name": "Circular N°68 (23/07/2015)",
+      "source_type": "circular",
+      "source": "Circular N°68 (23/07/2015)",
+      "document_id": "1addb946-27e5-58c4-ba0c-23eaa6fdb685",
+      "chunk_uuid": "4855af45-954b-50d4-b2ea-5876bdf3dfe6",
+      "chunk_id": 35,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu68.pdf",
+      "content": ", y además deberá atribuir dicha renta a sus \npropietarios, comuneros, socios o accionistas, conforme a lo dispuesto en dicha norma.  \n \nLa empresa o sociedad que cesa en sus actividades producto de la fusión, según lo establecido en la \nletra a), del N° 4, de la letra D), del artículo 14 de la LIR, deberá determinar a la fecha de fusión, un \ninventario de los bienes del activo realizable a su valor de costo de reposición y del activo fijo físico a \nsu valor actualizado a esa fecha, según las normas del N° 2, del artículo 41 de la LIR, considerando \nDejada sin efecto\n\n\n27 \n \nla depreciación que habría sido aplicable con una vida útil normal, conforme a las normas del artículo \n31 N° 5 de la LIR, todo ello, conforme a las normas que establece la letra c), del N° 6, de la letra A, \ndel artículo 14 ter de la LIR. \n \nDel total de valores señalados se deducirá la pérdida tributaria que determine la empresa sociedad a \nesa misma fecha. Si la pérdida es superior a las citadas cantidades, la diferencia no podrá ser \nimputada por la empresa o sociedad absorbente. En caso de resultar un saldo positivo luego de \ndeducir la referida pérdida, éste formará parte de los ingresos a considerar en la determinación de la \nrenta del último ejercicio comercial de la empresa o sociedad, sin que sea procedente considerarlo \nun ingreso diferido amortizable en los 3 ejercicios comerciales siguientes, toda vez que, de acuerdo a \nlo dispuesto en el 2° párrafo, de la letra c), del N° 6, de la letra A, del artículo 14 ter de la LIR, al \ntérmino de giro, la empresa o sociedad debe reconocer la parte del ingreso que no ha sido \namortizada a esa fecha. \n \nPor su parte, en relación a la diferencia positiva que resulte de restar al valor del capital propio \ntributario, el monto del capital aportado más sus aumentos y menos sus disminuciones, determinados \npor la empresa o sociedad a la fecha de fusión, conforme a lo dispuesto en la letra d), del N° 6, de la \nletra A, del artículo 14 ter de la LIR, en concordancia con el párrafo 2°, de la letra a), del N° 4, de la \nletra D), del artículo 14 de la misma ley, formará parte del saldo inicial del registro REX, a que se \nrefiere la letra c), del N° 4, de la letra A), del citado artículo 14, que deberá llevar la empresa o \nsociedad que se crea a partir de la fecha de fusión. \n \nAtendido que los efectos de la fusión de una empresa o sociedad sujeta al régimen simplificado de la \nletra A, del artículo 14 ter de la LIR, se encuentran especialmente regulados en el N° 4, de la letra D), \ndel artículo 14 de la misma ley, no se aplicará a esta situación, lo dispuesto en el N° 4, del artículo 38 \nbis de la ley citada.  \n \nFinalmente, cabe señalar que para efectos de la determinación de lo señalado en las letras c) y d), \ndel N° 6, de la letra A, del artículo 14 ter de la LIR, se aplicarán las instrucciones impartidas por este \nServicio sobre la materia, contenidas en la Circular N° 48 de 2015.  \n \nii) \nEfectos para la empresa o sociedad disuelta que se encontraba sujeta al régimen de \nrenta presunta del artículo 34 de la LIR. \n \nEn primer lugar, se hace presente que la empresa o sociedad que tributa en el régimen de renta \npresunta, respecto del ejercicio de término de giro, deberá aplicar la presunción de renta y pagar el \nIDPC correspondiente, en proporción a los meses del año en que estuvo sujeta al referido régimen, \nademás deberá atribuir la renta presunta determinada, a sus propietarios, comuneros, socios o \naccionistas, conforme a lo dispuesto en el N° 2, de la letra C), del artículo 14 de la LIR.  \n \nPor otra parte,"
+    },
+    {
+      "name": "Oficio N°1481 (29/03/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°1481 (29/03/2004)",
+      "document_id": "2d7cae07-0d1f-5c5b-a73f-4fb9f289c1ac",
+      "chunk_uuid": "452a70ab-d495-5ad3-a0b0-b45d3dc2c48b",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja712.htm",
+      "content": "º 1.- de la\nletra A) del artículo 14º. El Servicio de Impuestos Internos determinará la forma, plazo y condiciones que\ndeberá cumplir la referida declaración, así como el aviso que la sociedad receptora de la reinversión deberá\ndar tanto a dicho servicio como a la sociedad fuente del retiro. En este caso, si dentro de los veinte días\nsiguientes al retiro no se formaliza dicha reinversión, la empresa de la cual se hubiere efectuado el retiro o\nremesa será responsable del entero de la retención a que se refiere este número, dentro de los primeros\ndoce días del mes siguiente a aquel en que venza dicho plazo, sin perjuicio de su derecho a repetirse en\ncontra del contribuyente que efectuó el retiro, sea con cargo a las utilidades o a otro crédito que el socio\ntenga contra la sociedad. No obstante, tratándose de la remesa, retiro, distribución o pago de utilidades o de\nlas cantidades retiradas o distribuidas a que se refiere el artículo 14 bis, la retención se efectuará con tasa\ndel 35%, con deducción del crédito establecido en el artículo 63. En el caso de dividendos pagados por\nsociedades anónimas o en comandita por acciones, si la deducción del crédito resultare indebida, total o\nparcialmente, la sociedad deberá restituir al Fisco el crédito deducido en exceso, por cuenta del\ncontribuyente de impuesto adicional. Esta cantidad se pagará reajustada en la proporción de la variación del\níndice de precios al consumidor entre el último día del mes anterior al de la retención y el último día del mes\nanterior a la presentación de la declaración de impuesto a la renta de la sociedad anónima, oportunidad en la\nque deberá realizar la restitución.\nIgual obligación de retener tendrán las personas que remesen al exterior, a contribuyentes sin domicilio ni\nresidencia en Chile, cantidades provenientes de las operaciones señaladas en las letras a), c), d), e), h) y j)\ndel número 8º del artículo 17º. La retención se efectuará con la tasa de 5% sobre el total de la cantidad a\nremesar, sin deducción alguna, salvo que pueda determinarse el mayor valor afecto a impuesto, caso en el\ncual dicha retención se hará con la tasa del Impuesto de Primera Categoría sobre esta renta, sin perjuicio del\nderecho que tenga el contribuyente de imputar en su declaración anual el remanente que resultare a otros\nimpuestos anuales de esta ley o a solicitar su devolución en la forma prevista en el artículo 97º.”\n4.- Ahora bien, para la aplicación de una u otra de las normas antes indicadas, es necesario en primer lugar,\n\n\ndilucidar que tratamiento tributario conforme a lo dispuesto por el artículo 17 N° 8, letra a), incisos 2°, 3° y 4°\nde la Ley de la Renta, en concordancia con lo establecido en el artículo 18 de la misma ley, afecta a la\noperación de enajenación de acciones que describe en su presentación, situación que debe ser aclarada por\nesa Dirección Regional, acorde con los antecedentes con que cuente sobre el particular.\n5.- Si la referida operación de enajenación de acciones queda afecta a los impuestos generales de la Ley de\nla Renta, esto es, al impuesto de Primera Categoría e impuesto Adicional, por tratarse del beneficiario de la\nrenta de una persona sin domicilio o residencia en Chile, la norma del impuesto Adicional aplicable en la\nespecie es aquella contenida en el inciso 1° del artículo 60 de la Ley de la Renta, es decir, el mayor valor\nque se obtenga de dicha operación se clasifica en la disposición legal antedicha, y conforme a lo dispuesto\npor el inciso primero del N° 4 del artículo 74 de la ley del ramo, la persona que remese las sumas al exterior\nsobre el total de la cantidad resultante de la enajenación, sin deducción de ninguna especie, debe efectuar\nuna retención provisoria, con tasa de 20%, en la oportunidad que"
+    },
+    {
+      "name": "Artículo 1847 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "c4cf8922-1303-529b-8850-d9d21e027e03",
+      "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719856",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1847 (DEL ART. 2)|Art. 1847. El saneamiento de evicción, a que es obligado el vendedor, comprende: 1º. La restitución del precio, aunque la cosa al tiempo de la evicción valga menos; 2º. La de las costas legales del contrato de venta que hubieren sido satisfechas por el comprador; 3º. La del valor de los frutos, que el comprador hubiere sido obligado a restituir al dueño; sin perjuicio de lo dispuesto en el artículo 1845; 4º. La de las costas que el comprador hubiere sufrido a consecuencia y por efecto de la demanda; sin perjuicio de lo dispuesto en el mismo artículo; 5º. El aumento de valor que la cosa evicta haya tomado en poder del comprador, aun por causas naturales o por el mero transcurso del tiempo. Todo con las limitaciones que siguen."
+    },
+    {
+      "name": "Artículo 1855 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "cbfe8b55-a9ef-5229-a2bc-8a783637f634",
+      "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719864",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1855 (DEL ART. 2)|Art. 1855. Si la sentencia negare la evicción, el vendedor no será obligado a la indemnización de los perjuicios que la demanda hubiere causado al comprador, sino en cuanto la demanda fuere imputable a hecho o culpa del vendedor."
+    }
+  ]
+}

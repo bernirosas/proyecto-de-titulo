@@ -1,0 +1,11 @@
+vectors/vectors/
+vectors.zip
+vectors/*
+__pycache__/
+__pycache__/*
+vectors.zip
+vectors.zip/*
+vectors.zip/__pycache__/
+vectors.zip/__pycache__/*
+vectors.zip/__pycache__/
+.env

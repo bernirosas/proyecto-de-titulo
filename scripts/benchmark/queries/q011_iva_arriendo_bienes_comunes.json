@@ -1,0 +1,5 @@
+{
+  "query_id": "q011",
+  "query_text": "IVA en el arriendo de espacios o bienes comunes de un edificio acogido a copropiedad",
+  "notas": "Cubre Copropiedad / propiedad horizontal desde el ángulo tributario (IVA sobre el arriendo de espacios o bienes comunes de un edificio). Discrimina bien (top-10 mean_grade va de 0.40 en el baseline_qdrant_bm25 a 2.40 en las punteras). Ganadora top-10 mean_grade: p1_splade (2.40), empatada con p3_bm25 (2.40). Distribución sana del juez: 7/17/11/10 en grados 3/2/1/0 sobre 45 chunks, sin parse errors (-1) ni correcciones manuales."
+}

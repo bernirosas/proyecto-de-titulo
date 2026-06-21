@@ -1,0 +1,1228 @@
+{
+  "query_id": "q012",
+  "query_text": "Tributación de la comunidad de copropietarios de un edificio",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 28.492159,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+        "score": 27.021751,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 26.901815,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 25.802265,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 25.521574,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fdbd31d3-4c30-5b93-9739-133d073f73a0",
+        "score": 24.867367,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 24.179386,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 23.733833,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 23.281555,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 19.251978,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+        "score": 2.168457,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+        "score": 2.123291,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+        "score": 2.0722656,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 2.0649414,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "766edb1e-3268-58b1-9ad6-7ce266a9c023",
+        "score": 2.034851,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+        "score": 2.0148926,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a209a54b-29ae-5e9a-bce8-c12c76ec6e47",
+        "score": 2.0095215,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+        "score": 2.005371,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "74fcf25d-8d58-5cbe-a6ad-ffb0daf285da",
+        "score": 2.0012817,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "5281e16a-8d4b-5ba8-ad68-e0f8feef60f4",
+        "score": 1.9968262,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 21.738361,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "30bcd1f0-8fcd-54bb-80e3-3e2a660fb124",
+        "score": 21.12775,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 21.028383,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "579d2396-70d9-5fe8-a9b6-fecbd3e69a4b",
+        "score": 20.862827,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2354e2e4-f204-5024-ac40-57b959bc3369",
+        "score": 20.74521,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4676a37f-6133-51a9-a0dd-bb8e1bfe64e4",
+        "score": 20.70146,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7b21ef36-19ff-5ce5-8e62-02ac368543f5",
+        "score": 20.52518,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1df5e95d-899a-51af-bfd5-d602e3f99e71",
+        "score": 20.373386,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a6579e3a-be23-5582-978c-a5e37c40178b",
+        "score": 20.273363,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d17a158b-c7ca-5070-895b-dff19d9aa02c",
+        "score": 20.128048,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 25.810736,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+        "score": 25.626396,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 24.778706,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 24.196236,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 23.288921,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 22.414818,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 22.239542,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "fdbd31d3-4c30-5b93-9739-133d073f73a0",
+        "score": 21.92973,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 21.333927,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 18.977522,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 1.0717773,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.8638916,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+        "score": 0.8591919,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 0.85717773,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 0.8535156,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.7783203,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+        "score": 0.7606201,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.70495605,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.7003174,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "eedd130e-22be-5d61-a9fb-36ee8a32807b",
+        "score": 0.69628906,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+        "score": 23.964397,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 23.142818,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 23.062334,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 23.00698,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 21.946344,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 20.35194,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 19.910997,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "fdbd31d3-4c30-5b93-9739-133d073f73a0",
+        "score": 18.418472,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 18.218344,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 15.941565,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 1.0263672,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+        "score": 1.0235596,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 0.98095703,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 0.90625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.89453125,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.86743164,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.81225586,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.8051758,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+        "score": 0.75671387,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.75,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 10.863281,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fdbd31d3-4c30-5b93-9739-133d073f73a0",
+        "score": 10.560547,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 10.53125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 10.378906,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 10.253906,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "8b92f691-3d91-513b-8350-c520fe5e37f0",
+        "score": 10.0390625,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 9.796875,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 9.761719,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+        "score": 9.734375,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 9.4453125,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.030834914611005692,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.029709507042253523,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.02967032967032967,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.029051670471052088,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.028438886647841874,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.02817460317460317,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.027650648360030512,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "dd3ae299-cad8-555f-83c4-1c0e8d0dbca3",
+        "score": 0.027526395173453996,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+        "score": 0.027346637102734665,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 0.027313266443701224,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "fee54875-e97b-589d-9b65-6840de9a176c",
+        "score": 0.0288981288981289,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.028474711270410194,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.027673192771084338,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.026597524255603883,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 0.025934278350515462,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+        "score": 0.024922600619195046,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.024266201685556526,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+        "score": 0.01639344262295082,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+        "score": 0.016129032258064516,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+        "score": 0.015873015873015872,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.029906956136464335,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.029906956136464335,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.029709507042253523,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "579d2396-70d9-5fe8-a9b6-fecbd3e69a4b",
+        "score": 0.0293236301369863,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 0.028693528693528692,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "f4f9624a-0253-55b0-b236-f62f3c086cff",
+        "score": 0.028068137824235385,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7b21ef36-19ff-5ce5-8e62-02ac368543f5",
+        "score": 0.027425373134328357,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "dd3ae299-cad8-555f-83c4-1c0e8d0dbca3",
+        "score": 0.027364110201042444,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.02591362126245847,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.025481764612199396,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.030621785881252923,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.02967032967032967,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.028958333333333336,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.0287391216352965,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.028665028665028666,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.028381642512077296,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.02817460317460317,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 0.027745885954841176,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "dd3ae299-cad8-555f-83c4-1c0e8d0dbca3",
+        "score": 0.027364110201042444,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 0.027108970929195647,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.030117753623188408,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.029906956136464335,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.02964254577157803,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.029437229437229435,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "f4f9624a-0253-55b0-b236-f62f3c086cff",
+        "score": 0.02886002886002886,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+        "score": 0.028850145288501453,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.028594771241830064,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+        "score": 0.028083267871170464,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.02782608695652174,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.027623285131627734,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.03128054740957967,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.02967032967032967,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.02817460317460317,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.028006267136701922,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 0.027745885954841176,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.027529761904761904,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 0.02736498731424429,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.027313266443701224,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.02649445272396092,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+        "score": 0.026263297872340427,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.030834914611005692,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.029910714285714284,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+        "score": 0.029877369007803793,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.029726775956284153,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.029437229437229435,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+        "score": 0.028665028665028666,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.028438886647841874,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "f4f9624a-0253-55b0-b236-f62f3c086cff",
+        "score": 0.028068137824235385,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.02797339593114241,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+        "score": 0.027650648360030512,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+        "score": 0.030330882352941176,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+        "score": 0.03021353930031804,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+        "score": 0.029726775956284153,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+        "score": 0.029386529386529386,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+        "score": 0.029211087420042643,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+        "score": 0.02758751902587519,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+        "score": 0.027106227106227107,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "8b92f691-3d91-513b-8350-c520fe5e37f0",
+        "score": 0.026779422128259338,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+        "score": 0.026702720973466286,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+        "score": 0.02662057044079516,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 11.9,
+    "p1_tfidf": 13.1,
+    "p1_splade": 85.1,
+    "p2_bm25": 9.8,
+    "p2_tfidf": 7.3,
+    "p3_bm25": 6.2,
+    "p3_tfidf": 6.3,
+    "baseline_qdrant_bm25": 7.9,
+    "rrf_p1_bm25": 57.0,
+    "rrf_p1_tfidf": 46.2,
+    "rrf_p1_splade": 192.0,
+    "rrf_p2_bm25": 181.3,
+    "rrf_p2_tfidf": 190.2,
+    "rrf_p3_bm25": 64.6,
+    "rrf_p3_tfidf": 70.0,
+    "rrf_baseline_qdrant_bm25": 64.6
+  },
+  "pool": [
+    {
+      "name": "Oficio N°842 (27/02/2001)",
+      "source_type": "oficio",
+      "source": "Oficio N°842 (27/02/2001)",
+      "document_id": "9c4d6c3e-7ad6-52eb-9cd3-056358afbc81",
+      "chunk_uuid": "fdbd31d3-4c30-5b93-9739-133d073f73a0",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja165.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ventas y Servicios - 2001\nVENTAS Y SERVICIOS – NUEVO TEXTO – LEY IMPUESTO A LAS – ART. 2° N° 2°, ART. 8°, ART. 55° -\nART. 20° N°3° Y N°4°, DE LA LEY DE LA RENTA.\nTRIBUTACIÓN Y MOMENTO DE EMISIÓN DE LA BOLETA EN CONTRATO DE “PRESTACIÓN DE\nSERVICIOS DE LAVANDERÍA” – DEFINICIÓN DE “SERVICIOS” – NORMAS APLICABLES – CONTRATO\nDE PRESTACIÓN DE SERVICIOS NO CORRESPONDE A UNA PRESTACIÓN DE SERVICIOS EN LOS\nTÉRMINOS DEL ART. 2° N° 2° DEL D. LEY N° 825 – EXISTE UNA MERA CESIÓN TEMPORAL DEL USO\nY GOCE DE MÁQUINAS LAVADORAS Y SECADORAS DE ROPA – A CAMBIO DE UNA\nREMUNERACIÓN – CONFIGURA UN HECHO GRAVADO ESPECIALMENTE CON IVA EN EL ART. 8°\nLETRA G) – LA EMPRESA DEBE EMITIR BOLETA POR LA CESIÓN DE LAS MAQUINAS – DEBE SER\nEMITIDA EN EL MOMENTO MISMO EN QUE REMUNERACIÓN SE PERCIBA O SE PONGA EN\nCUALQUIER FORMA A DISPOSICIÓN DEL PRESTADOR DEL SERVICIO.\n1.- Se ha recibido en esta Dirección Nacional su Oficio indicado en el antecedente, mediante el cual traslada\nuna consulta formulada por un administrador de la Comunidad Edificio YY II, en que solicita un\npronunciamiento en relación a la tributación que se genera cuando una empresa, en este caso “XX Ltda.”,\ninstala sus máquinas lavadoras de ropa en dependencias del Edificio, las cuales funcionan bajo la modalidad\nde venta de fichas a los comuneros.\nSeñala que la Comunidad del Edificio YY II suscribió un contrato de prestación de servicios de lavandería,\nque se acompaña a la presentación, con la empresa XX Ltda. con el objeto de prestar dichos servicios a los\narrendatarios y/o copropietarios de la Comunidad.\nExpone que en virtud del contrato citado, la empresa XX Ltda. se obliga a instalar en dependencias del\nEdificio, las máquinas lavadoras y secadoras de su propiedad y a realizar las mejoras e instalaciones que se\nrequieran para la prestación del servicio. El pago por tal servicio se hará bajo la modalidad de venta de\nfichas a los usuarios, que estarán a su disposición en la conserjería del Edificio.\nManifiesta que en base al contrato suscrito, la Comunidad no recibe ningún tipo de beneficio económico por\nla venta de las fichas, ni tampoco por concepto de arrendamiento del espacio donde se ubicarán las\nmáquinas.\nDe acuerdo a lo anteriormente expuesto, la Comunidad plantea si Comercial XX Ltda. está obligada a\nmantener talonarios de boletas de compraventa, y si estas deben ser extendidas al momento de vender cada\nficha, o bien, se debe extender una factura comercial mensual a la comunidad por los servicios prestados.\n2.- El artículo 2° N° 2 del D.L N° 825, de 1974, define lo que debe entenderse por servicio para los efectos\nde la aplicación del Impuesto al Valor Agregado como “la acción o prestación que una persona realiza para\notra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que\nprovenga del ejercicio de las actividades comprendidas en los N° 3 y 4, del Artículo 20°, de la Ley sobre\nimpuesto a la Renta.”.\nPor su parte, el artículo 8° letra g) del texto legal citado, grava con IVA “El arrendamiento, subarrendamiento,\nusufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles...”.\nPor último, el artículo 55 inciso séptimo del D.L. N° 825, de 1974, dispone que en caso de prestaciones de\nservicios, las boletas"
+    },
+    {
+      "name": "Oficio N°1740 (17/06/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1740 (17/06/2016)",
+      "document_id": "7bed3071-5f1d-5dc0-8478-0a52a277a47e",
+      "chunk_uuid": "579d2396-70d9-5fe8-a9b6-fecbd3e69a4b",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja1740.htm",
+      "content": " lo expuesto precedentemente se informa que, si la comunidad del edificio arrienda espacios\ncomunes puede calificar como contribuyente de la Primera Categoría y, en la medida que desarrolle una\nactividad cualquiera de aquellas a que se refiere el artículo 20 de la Ley sobre Impuesto a la Renta, como la\nindicada en el ordinario del antecedente, la comunidad está afecta a las disposiciones de dicha Categoría,\nalcanzándole las demás obligaciones tributarias anexas antes enumeradas.\nFERNANDO BARRAZA LUENGO\nDIRECTOR\nOficio N° 1740, de 17.06.2016\nSubdirección Normativa\nDpto. de Técnica Tributaria.\n"
+    },
+    {
+      "name": "Resolución N°128 (31/12/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°128 (31/12/2014)",
+      "document_id": "4cddfecb-d430-5e1e-8aa4-3744c8382a1e",
+      "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso128.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \n \n     SUBDIRECCIÓN DE FISCALIZACIÓN \nDEPARTAMENTO DE ANÁLISIS SELECTIVO \n        DEL CUMPLIMIENTO TRIBUTARIO \n \nESTABLECE FORMULARIO PARA DECLARAR Y \nPAGAR \nEL \nIMPUESTO \nSOBRE \nRENTAS \nACUMULADAS \nY \nRETIROS \nEN \nEXCESO, \nCONFORME A LO ESTABLECIDO EN EL N° 11, \nDEL NUMERAL I), DEL ARTÍCULO TERCERO DE \nLAS DISPOSICIONES TRANSITORIAS DE LA \nLEY N° 20.780 DE 2014. \n  \nSANTIAGO, 31 de diciembre de 2014 \n  \nHoy se ha resuelto lo que sigue:  \n \nRESOLUCIÓN EX. SII N° 128  \n \n \nVISTOS: Las facultades que me confieren los \nartículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. \nN° 7, de 1980, del Ministerio de Hacienda; lo establecido en los artículos 6° letra A) N° 1 y 21 del Código \nTributario, contenido en el artículo 1° del D.L. N° 830, de 1974; el artículo 14 de la Ley sobre Impuesto a la \nRenta, contenida en el artículo 1° del D.L. 824 de 1974, y lo dispuesto en el N° 11, del numeral I), del artículo \ntercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial con fecha 29 de \nseptiembre de 2014; y la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada mediante las \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° 27, de \n25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° 41, de 29 de marzo \nde 2011; N° 10, de 23 de enero de 2013; N° 9, de 22 de enero de 2014, y N° 69, de 21 de julio del 2014; y  \n \n \nCONSIDERANDO:  \n \n1° Que, conforme al N° 1, del N° 11, del numeral I), \ndel artículo tercero de las disposiciones transitorias de la Ley N°20.780, los contribuyentes sujetos al \nimpuesto de primera categoría sobre la base de un balance general, según contabilidad completa, que hayan \niniciado actividades con anterioridad al 1° de enero de 2013, y que al término del año comercial 2014 \nmantengan un saldo de utilidades no retiradas o distribuidas pendientes de tributación con los impuestos \nglobal complementario o adicional, determinadas conforme a lo dispuesto en la letra A), del artículo 14 de la \nLey sobre Impuesto a la Renta, según su texto vigente a esa fecha, podrán optar por pagar a título de \nimpuesto de esa ley, un tributo sustitutivo de los impuestos finales, sobre una parte de dichos saldos de \nutilidades; \n \n2° Que, según el N° 3, del N° 11, del numeral I), del \nartículo tercero de las disposiciones transitorias de la Ley N° 20.780, las empresas, comunidades y \nsociedades que, desde el 1 de enero de 2014 se encuentren conformadas exclusivamente por personas \nnaturales contribuyentes del impuesto global complementario, que hayan iniciado actividades con \nanterioridad al 1 de enero de 2013, y que al término del año comercial 2014 mantengan un saldo de utilidades \nno retiradas o distribuidas pendientes de tributación con el impuesto referido, podrán optar por pagar a título \nde impuesto de la Ley sobre Impuesto a la Renta, un tributo sustitutivo de los impuestos finales, sobre una \nparte de dichos saldos de utilidades; \n \n3"
+    },
+    {
+      "name": "Oficio N°1986 (26/07/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1986 (26/07/2019)",
+      "document_id": "16f0ad7a-8573-58f1-8b45-686ab6eb00f2",
+      "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+      "chunk_id": 5,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1986-26%2F07%2F2019.pdf&extension=pdf&acc=download&id=01bdd2bf-582a-4af0-a5b4-41087f8223a8&mediaType=application%2Fpdf",
+      "content": "en en general los requisitos señalados precedentemente, respecto al \nderecho al uso como crédito fiscal del Impuesto al Valor Agregado recargado en las facturas \nrecibidas a nombre de la comunidad, correspondiente a gastos de tipo general por la \nadquisición de bienes o servicios recibidos respecto de los bienes de uso común, a que se \nrefieren los N°s. 3, 4 y 5 del artículo 2°, de la Ley, ya que, no es dicho Condominio quien \nsoporta tales desembolsos, sino que la comunidad formada por los copropietarios. \nA su vez, como lo ha señalado este Servicio2, no corresponde que estas Comunidades \nfacturen a cada copropietario -recargando el Impuesto al Valor Agregado- los cobros por \nservicios de energía eléctrica, ascensores y otros, facturados originalmente a ella, toda vez \nque no sería la Comunidad la prestadora de dichos servicios. Asimismo, en el cobro de los \ngastos comunes que realiza la administración, no procede recargar el Impuesto al Valor \nAgregado, ya que la distribución de dichos gastos entre los copropietarios, no constituyen por \nsí mismo, un servicio gravado por el referido impuesto al tenor del N° 2, del artículo 2°, D.L. \nN° 825. \nPor otra parte, tampoco es posible que estas Comunidades traspasen a los copropietarios el \nderecho al uso como crédito fiscal del Impuesto al Valor Agregado recargado en las facturas \nrecibidas por los gastos generales soportados por el Condominio, ya que, como lo ha \n          \n2 Oficios N° 01995, de 23 de mayo de 2000; N° 191, de 24 de enero de 2005. \n\n\n5 \n \nseñalado este Servicio3, el crédito fiscal del Impuesto al Valor Agregado, no constituye un \nderecho trasmisible. \n \nIII.- CONCLUSIÓN: \n1.-  En respuesta a sus consultas en lo que tiene relación con el Impuesto a la Renta, a que se \nrefieren las letras a), b), c), e) y f) de su presentación, se concluye lo siguiente: \n1.1. Respecto del Régimen de Tributación de los ingresos extras independientes del giro que \nreciben los Condominios, a que se refiere la letra a) de su consulta, si dichos \nCondominios desarrollan alguna de las actividades a las que se refiere el artículo 20° de \nla Ley sobre Impuesto a la Renta, dicha comunidad será contribuyente del Impuesto de \nPrimera Categoría y deberá dar cumplimiento a todas las obligaciones que establece la \nLey para estos contribuyentes, según el detalle de las letras a) a la d) del punto 1., del \nTítulo II. \n1.2. En relación con las consultas de las letras b), e) y f), sobre el régimen tributario de los \nintereses del fondo de reserva, constituido por los aportes de los copropietarios, \nincluyendo las multas e intereses que éstos deben pagar, que se perciban, devenguen o \natribuyan, cualquiera que sea su naturaleza, origen o denominación, no se encuentran \ncomprendidos en el concepto de renta contenido en la Ley sobre Impuesto a la Renta, y \nen consecuencia no se encuentran gravados con los impuestos anuales a la renta. \nAsimismo, los intereses o rentas provenientes de los instrumentos de renta fija, a que se \nrefiere las letras a) a la h) del N° 4, del artículo 39° de la Ley sobre Impuesto a la Renta, \nlos cuales se encuentran exentos del Impuesto de Primera Categoría. \n1.3. La pregunta consignada en la letra c) no corresponde al ámbito de competencia de este \nServicio, por lo cual no es posible emitir pronunciamiento sobre ella.    \n2.-  Respecto del Impuesto al Valor Agregado, y en relación con la consulta de la letra a) de su \npresentación, si el Condominio percibe ingresos por concepto de arriendo de espacios \ncomunes del inmueble, en la medida que ést"
+    },
+    {
+      "name": "Oficio N°2569 (29/06/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°2569 (29/06/2000)",
+      "document_id": "1ff9700c-2661-528c-a66a-2509250f830e",
+      "chunk_uuid": "4676a37f-6133-51a9-a0dd-bb8e1bfe64e4",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/julio13.htm",
+      "content": "as en comunidad o copropiedad, ya que en tales casos dichas personas no\nadquieren la vivienda propiamente tal, sino que una cuota de dominio sobre ella,\nsituación que no está prevista en la ley que se comenta.\nReafirma lo anterior, el hecho que la citada Ley N° 19.622, por excepción expresa\nhizo extensivo el beneficio a los adquirentes de las citadas viviendas a través del\nsistema de cooperativas, aún cuando el bien se posea en comunidad, pero\nhaciendo efectivo el beneficio sólo cuando la vivienda respectiva se encuentre\nadjudicada.\nDe otro lado, la misma ley contempla como franquicia un monto específico\ndeducible de la renta afecta a impuesto de los beneficiarios, expresado en número\nde unidades tributarias mensuales en relación a la fecha en que se contrajo la\nobligación hipotecaria con motivo del mutuo convenido para financiar la\nadquisición de la respectiva vivienda. Este monto deducible está fijado en\ntérminos inmutables y definido, por lo que no puede administrativamente\nproporcionalizarse ni menos otorgarse dos veces por una misma vivienda.\nEn consecuencia, los meros derechos que se tengan en una vivienda nueva –\ncomo es el caso de la adquisición de un bien raíz por dos o más personas en\ncomunidad o copropiedad, en que dichas personas no adquieren la vivienda\npropiamente tal, sino que una cuota de dominio sobre ella- identifican como\nadquirente del bien a la respectiva comunidad quien, como tal, no se encuentra\ndentro de los titulares del beneficio que estipula la ley, la cual en forma\n\n\nconsistente tampoco permite una modalidad especial para hacer efectiva en este\ncaso la mencionada deducción de la renta afecta a impuesto de los comuneros.\nPor último, se señala que este Servicio en relación con la consulta ya había\nemitido algunos pronunciamientos expresos al respecto, mediante los Oficios\nN°s. 3.305, de 01.09.99, y 3.549, de 22.09.99, publicados en los Boletines que edita\neste organismo de los meses de Septiembre y Octubre de dicho año,\nrespectivamente, y en la página web que tiene este Servicio (www.sii.cl), por lo\nque no es efectivo que sobre la materia en comento no existieran instrucciones\nsobre el particular, como lo sostiene el recurrente en su escrito. Además, de la\npropia Circular N° 46, emitida por este Servicio y difundida por los medios\nseñalados anteriormente, y a su vez, publicada en el Diario Oficial de fecha 18 de\nAgosto de 1999, no puede entenderse en absoluto que el beneficio también\nalcanza a las comunidades.\n6.- De consiguiente, por las razones antes indicadas, y atendido el texto expreso\nde la Ley N° 19.622, que establece las personas que pueden acceder a la\nfranquicia que ella contempla, este Servicio no tiene facultades ni atribuciones\npara atender favorablemente su solicitud, en cuanto a extender un beneficio\nadministrativamente a contribuyentes que la ley no consideró.\n \nJAVIER ETCHEBERRY CELHAY\nDIRECTOR\n \nOficio Nº 2.569, del 29.06.2000\nSubdirección Normativa\nDepto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°976 (19/02/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°976 (19/02/2004)",
+      "document_id": "97aa62ad-af33-5129-abab-ddccdc28d8e8",
+      "chunk_uuid": "d17a158b-c7ca-5070-895b-dff19d9aa02c",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja661.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2004\nLEY SOBRE IMPUESTO A LA RENTA – ART. 64 CÓDIGO TRIBUTARIO (ORD. N° 976, DE 19.02.2004)\nADJUDICACIÓN DE LOTES DE INMUEBLE URBANO POSEÍDO EN COMUNIDAD Y FACULTAD DE\nTASAR CONTENIDA EN EL ARTÍCULO 64 DEL CÓDIGO TRIBUTARIO\n1.- Por presentación indicada en el antecedente, expone que está asesorando a tres personas naturales que\nson copropietarias de un inmueble urbano de aproximadamente 30 hectáreas. Los copropietarios han\ndecidido dividir el inmueble en 6 lotes para posteriormente adjudicarse cada uno de ellos dos lotes, en virtud\nde lo dispuesto en el artículo 2.313 del Código Civil, en relación con las normas de la partición de la\nherencia.\nAgrega que la intención de estos copropietarios es adjudicarse cada uno de estos lotes a su costo\nreajustado, el que es muy inferior a su valor comercial. Esto evitará que pueda entenderse que en esta\noperación exista una renta clasificada en el N° 5 del artículo 20 de la Ley de la Renta, según lo dispone el\nOficio N° 4.025, de 13.2.89.\nPor lo anterior, desea ratificar que en esta operación no existe realmente una enajenación, sino simplemente\nuna especificación de los derechos que antes tenían los copropietarios en el respectivo inmueble, y que por\nlo tanto, no corresponde aplicar las normas contempladas en el artículo 64 del Código Tributario respecto a\nla facultad que tiene el SII de tasar ciertas operaciones.\nSeñala que en su opinión, estas conclusiones son las que se desprenden del análisis de las normas del\nCódigo Civil, el cual establece en su artículo 2313 que “ La división de las cosas comunes y las obligaciones\ny derechos que de ella resulten se sujetarán a las mismas reglas que en la partición de la herencia.”,\nconcluyendo que en el caso de esta comunidad, debería aplicarse la norma del artículo 1.344 del texto legal\nprecitado que señala que: “Cada asignatario se reputará haber sucedido inmediata y exclusivamente al\ndifunto en todos los efectos que le hubieren cabido, y no haber tenido jamás parte alguna en los otros\nefectos de la sucesión.”\nA su vez, agrega, el Artículo 2115 del Código Civil, establece que:\n“Disuelta, la sociedad se procederá a la división de los objetos que componen su haber.\nLas reglas relativas a la partición de los bienes hereditarios y a las obligaciones entre los coherederos se\naplican a la división del caudal social y a las obligaciones entre los miembros de la sociedad disuelta, salvo\nen cuanto se opongan a las disposiciones de este título.”\nConforme a este análisis, concluye que la adjudicación de los sitios en la división de la comunidad, formada\npor la compra común de esos sitios, no existe enajenación o adquisición, sino que se adjudican derechos\npreexistentes. Por lo tanto los sitios que cada uno de los comuneros se asignen deben entenderse\nadquiridos en el año en que fueron comprados por la comunidad, para todos los efectos legales.\nExpresa finalmente que este criterio sería consistente con la opinión que manifestó el Servicio, en el Oficio\nN° 2.687 del 6 de Octubre de 1998.\n2.- Sobre el particular, cabe señalar que en anteriores dictámenes sobre la materia, este Servicio ha\nestablecido que una comunidad se forma cuando una misma cosa pertenece a varias personas que pueden\nejercer simultáneamente derechos de igual naturaleza jurídica sobre ésta.\nAhora bien, a través de estos mismos pronunciamientos se ha señalado que la forma de terminar con una\ncomunidad es la partición, a través de la cual se produce la separación y, en consecuencia, el reparto de las\ncosas comunes entre las personas a las cuales pertenecen. El act"
+    },
+    {
+      "name": "Oficio N°706 (11/04/2024)",
+      "source_type": "oficio",
+      "source": "Oficio N°706 (11/04/2024)",
+      "document_id": "39a61de0-a17c-56a0-842e-07198b073298",
+      "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=706-11%2F04%2F2024.pdf&extension=pdf&acc=download&id=e03af5b3-7082-49f4-8303-719a99c429e7&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 6–  \n(ORD. N° 706, DE 11.04.2024) \n \n \nTratamiento tributario de las rentas de una comunidad. \n \nDe acuerdo con su presentación, una comunidad de copropietarios de un predio agrícola –junto con sus \ninstalaciones y derechos de agua– dio aviso de inicio de actividades el 20111.  \n \nTras señalar que una parte del predio fue entregado en arriendo a un tercero, por medio de un contrato \nsuscrito por este y la comunidad, en lo fundamental solicita confirmar que la comunidad puede considerarse \nen este caso como contribuyente del impuesto de primera categoría (IDPC) por las rentas que percibe en \nvirtud del contrato de arriendo2 y cumplir las demás exigencias tributarias anexas.  \n \nAl respecto se informa que, de acuerdo con el inciso primero del artículo 6° de la Ley sobre Impuesto a la \nRenta (LIR), como regla general, en el caso de comunidades, como también en los casos de sociedades de \nhecho, los comuneros o socios serán solidariamente responsables de la declaración y pago de los impuestos \nde la LIR que afecten a las rentas obtenidas por la comunidad o sociedad de hecho. Agrega dicha norma \nlegal –en su inciso final– que, sin embargo, el comunero o socio se liberará de la solidaridad, siempre que \nen su declaración individualice a los otros comuneros o socios, indicando su domicilio y actividad y la \ncuota o parte que les corresponde en la comunidad o sociedad de hecho.  \n \nLo anterior, atendido que la comunidad carece de personalidad jurídica para ser sujeto pasivo de la \nobligación tributaria, debiendo responder los comuneros por el pago de los impuestos que afecten a dicha \ncomunidad o sociedad de hecho.  \n \nSin perjuicio de lo expuesto, este Servicio ha precisado3 que las comunidades pueden actuar como \ncontribuyentes del IDPC, siempre que se pruebe fehacientemente el dominio común del negocio o empresa. \nPara estos efectos la comunidad deberá inscribirse en el rol único tributario4 y presentar una declaración de \niniciación de actividades.  \n \nDe esta forma, y respecto del caso consultado, se informa que, cumpliendo los requisitos señalados, la \ncomunidad puede actuar como contribuyente para los efectos del IDPC, tributando conforme a ello por las \nrentas generadas.  \n \nPrecisado lo anterior, y en cuanto a las obligaciones tributarias anexas, en la columna “RUT Propietario o \nUsufructuario del Bien Raíz” de la declaración jurada N° 1835, se debe informar el rol único tributario de \nla comunidad, por cuanto dicha comunidad explota el inmueble arrendado.  \n \nAsimismo, corresponde que la arrendataria individualice a la comunidad arrendadora como la beneficiaria \nde los cánones de arriendo que se pagan para los efectos de la declaración jurada N° 1835. \n \n \n \n \n \n \n    HERNÁN FRIGOLETT CÓRDOVA \nDIRECTOR \n \n \nOficio N° 706, del 11.04.2024 \nSubdirección Normativa \nDepto. de Impuestos Directos \n \n1 Se hace presente que la fecha indicada no coincide con la fecha que aparece en los registros de este Servicio, que corresponde al año 2009. \n2 Cita al efecto los Oficios N° 5352 de 2003, N° 934 de 2015, N° 1740 de 2016 y N° 1986 de 2019, relativo a la tributación de comunidades \nsujetas al régimen de copropiedad inmobiliaria por el arriendo de espacios. \n3 Ver Oficio N° 926 de 2001. \n4 Conforme a lo dispuesto en los artículos 66 y 68 del Código Tributario. \n"
+    },
+    {
+      "name": "Oficio N°1986 (26/07/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1986 (26/07/2019)",
+      "document_id": "16f0ad7a-8573-58f1-8b45-686ab6eb00f2",
+      "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1986-26%2F07%2F2019.pdf&extension=pdf&acc=download&id=01bdd2bf-582a-4af0-a5b4-41087f8223a8&mediaType=application%2Fpdf",
+      "content": " sexto del artículo 23.” \nLuego, respecto a las consultas planteadas en las letras b) y f) precedentes, referidas al \nrégimen tributario de los intereses que se generan en el fondo de reserva (entendiendo que se \nrefiere a los intereses que deben pagar en su caso los copropietarios) y las multas cursadas \npor la administración de un edificio, cuyas infracciones no se contemplan en el reglamento \ninterno, sino que en dictámenes emanados por el propio comité administrativo, cabe señalar, \nque dado que el fondo de reserva regulado en el artículo 7° de la Ley N° 19.537, es un fondo \nobligatorio, formado por un porcentaje de los gastos comunes, con el producto de las multas \ne intereses que deban pagar, en su caso, los copropietarios, y con los aportes por concepto de \nuso y goce exclusivo sobre bienes de dominio común, que tiene por objeto que la comunidad \nprovisione recursos monetarios para solventar los gastos de mayor cuantía para la \nmantención del edificio o condominio, esa comunidad es una mera administradora de bienes \najenos respecto de los aportes efectuados al fondo de reserva, y de los réditos que genera la \ninversión de dichos fondos, por tanto, estos recursos no representan una utilidad o beneficio \no incremento de patrimonio para la comunidad. Lo anterior, independiente que las multas \ntengan su origen en un incumplimiento de las disposiciones de la ley, de su reglamento y/o \ndel reglamento de copropiedad del condominio, puesto que la ley no hace distinción alguna \nal respecto. \nSobre este punto, cabe agregar que el número 1.- del artículo 2° de la Ley sobre Impuesto a \nla Renta (LIR), establece que se entenderá por “Renta”, los ingresos que constituyan \nutilidades o beneficios que rinde una cosa o actividad y todos los beneficios, utilidades e \nincrementos de patrimonio que se perciban, devenguen o atribuyan, cualquiera sea su \nnaturaleza, origen o denominación, por lo cual, los aportes al fondo de reserva que deben \nefectuar los copropietarios, entre ellos las multas e intereses que deban pagar, en su caso, no \nse encuentran comprendidos en el concepto de renta contenido en la LIR, y en consecuencia, \nno se encuentran gravados con los impuestos anuales a la renta. \n\n\n3 \n \nAhora bien, cabe advertir que en la medida que la comunidad del edificio desarrolle una \nactividad cualquiera de aquellas a que se refiere el artículo 20 de la LIR, por ejemplo, \narriendo de espacios comunes a terceros, evidentemente no podrá rebajar de sus respectivos \ningresos tributables aquellos gastos financiados con los recursos correspondientes al fondo de \nreserva. \nRespecto a la consulta planteada en la letra e) de la presentación, cabe señalar que el número \n4 del artículo 39 de la LIR, exime de Impuesto de Primera Categoría a los intereses o rentas \nprovenientes de los instrumentos que señala en sus letras a) a h), entre los cuales se \nencuentran los depósitos que se efectúen en determinadas instituciones. Esta misma norma \ncontiene una contra excepción en su inciso final, que dispone que las exenciones \ncontempladas en los números 2° y 4° no regirán cuando las rentas provenientes de dichas \noperaciones sean obtenidas por empresas que desarrollen actividades clasificadas en los N°s. \n3, 4 y 5 del artículo 20 de la LIR, y declaren renta efectiva.  \nLuego, considerando que la comunidad de copropietarios, por norma general no es una \nempresa1 que desarrolle actividades clasificadas en los N°s. 3, 4 y 5 del artículo 20, puede \nestablecerse que si este fondo de reserva formado por los aportes de la comunidad de \ncopropietarios percibe intereses de aquellos señalados en el número 4 del artículo 39 de la \nLIR, se encontraría exenta del Impuesto de Primera Categoría por dicho concepto, por \ncuanto,"
+    },
+    {
+      "name": "Circular N°67 (20/05/1976)",
+      "source_type": "circular",
+      "source": "Circular N°67 (20/05/1976)",
+      "document_id": "14eb66fb-e6a7-5028-bd89-fd93346f5bfb",
+      "chunk_uuid": "1df5e95d-899a-51af-bfd5-d602e3f99e71",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/documentos/circulares/1976/circu67a.htm",
+      "content": " ser comunes. Los regla -\n\"mentos de copropiedad, aun con el consentimiento de to-\ndos los comuneros, no podrán contener disposiciones con\n\"trarias a este precepto.\n12\n* Artículo 112°.- En todo edificio a que se refiere este\npárrafo deberá contemplarse la ventidad mínima obligato\n*ria de estacionamientos que señale el plan regulador y\neu ordenanza local,\nLos estacionamientos que correspondan a la cuota\n\" mínima obligatoria, a que se refiere el inciso anterior,\nsólo podrán venderse conjuntamente con el departamento,\noficina o local al que han sido asignados.\n\"\n14\nLos estacionamientos que excedieren la cuota -\n* nima obligatoria podrán enajenarse libremente.\n\"Artículo 113º.- El derecho de cada propietario sobre\n\" los bieneв сомилен зеerá proporcional al avalúo fiscal\ndel piso, departamento, oficina, local o vivienda de su\n11\n\"dominio. En proporción a este mismo valor deberá\n忭\nH\n71\ncon\n-\ntribuir a las expensas concernientes a dichos bienese,\npartioulurnente a las de administración, mantenimiento\ny reparación, y el pago de servicios. Sin perjuicio de\nlo anterior, el reglamento de copropiedad podrá contem-\nplar una distribución proporcional con relación\nperficies y/o avaldos fiscales.\nNo será licito a un propietario cambiar el uso\nel\n-\nde la parte que le pertenece sin autorización expresa\n\"de la Dirección de Obras Municipales respectiva y\n\"consentimiento de la comunidad,\"\nComentario. Lae normas relativae\nla obligación de enrolar separadamente los locales, oficinas\ndepartamentos ubicados en edificios colectivos acogidos a la ley\nde Propiedad Horizontal ( Ley de Pisos ), han sido latamente\ntratadas en diversas oportunidades, así como el procedimiento a\nseguir.\n0\nTratándose de los estacionamienton\na\nque se refiere el art. 112° transcrito procedentemente, se pre-\nsentan los dos casos siguientes:\na) Estacionamientos que correspondan a la cuota mínima obli\ngatoria. Se enrolarán conjuntamente con el departamento, ofici-\nna o local al que han sido asignados.\nb) Estacionamientos que excedan la cuota mínima obligatoria.\nBe enrolaren scparadamente a fin de facilitar el procedimiento\nde su posible enujenación.\n\" Artículo 126°. Los permisos de urbanización, subdivi\nη\n17\nsión, loteo y construcción se otorgarán previo pago\nde los derechos municipales correspondientes.\"\n-\nLos permisos de subdivisión y lotege de terre\nr\n\n:\n바\nnos pagarán solamente el derecho de subdivisión, que\n\"se calculará sobre el avalio fiscal del total del to\n* rreno a subdividir. Los permisos de urbanización eu-\n\"tarán exentos de derechos,\n11\n1\nr:\nLos permisos de construcción pagarán un dere-\ncho que se calculará sobre el monto del presupuesto\n\" de la obra. Dicho presupuesto se confecolonard apli-\noando la tabla de costos unitarios por metro cuadre-\n\"do de construcción, que se menciona más adelante,\n* conforme a los tipos y materiales de construcción\nemplearse.\"\n11\nComentario.- Respecto a este dispo\n-\nsición, la competencia del Servicio se traduce en otorgar el\ncertificado de avaldo del terreno a subdividirse, a petición -\nde parte.\n\" Artículo 1418- Una vez recibidas las viviendas o e-\nH\n-\n-\ndificios de un loteo o urbanización, será obliga\n\"ción de los propietarios respectivos la arboriza\n\"ción de sus áreas verdes y calles, que deberá ejecu-\n\" tarse en el plazo de tres años, contado desde la fe-\nH\nM\n\"\ncha de la recepción.\n-\nLas obras respectivas podrán ejecutarse direg\ntamente por los interesados, de acuerdo al proyecto\n* que aprobare la Municipalidad y bajo la dirección\n\" técnica de ésta o encomendaree directamente a ella\nLos interesados podrán ser represent"
+    },
+    {
+      "name": "Oficio N°1986 (26/07/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1986 (26/07/2019)",
+      "document_id": "16f0ad7a-8573-58f1-8b45-686ab6eb00f2",
+      "chunk_uuid": "eedd130e-22be-5d61-a9fb-36ee8a32807b",
+      "chunk_id": 6,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1986-26%2F07%2F2019.pdf&extension=pdf&acc=download&id=01bdd2bf-582a-4af0-a5b4-41087f8223a8&mediaType=application%2Fpdf",
+      "content": " se encuentran exentos del Impuesto de Primera Categoría. \n1.3. La pregunta consignada en la letra c) no corresponde al ámbito de competencia de este \nServicio, por lo cual no es posible emitir pronunciamiento sobre ella.    \n2.-  Respecto del Impuesto al Valor Agregado, y en relación con la consulta de la letra a) de su \npresentación, si el Condominio percibe ingresos por concepto de arriendo de espacios \ncomunes del inmueble, en la medida que éstos cuenten con muebles o bien con instalaciones \no maquinarias que permitan el desarrollo de una actividad comercial o industrial, dicha \noperación se encontrará gravada con IVA, de conformidad con la letra g), del artículo 8°, del \nD.L. N° 825, de 1974. \nEn lo que se refiere a la consulta de la letra d), el IVA recargado en las facturas por gastos \ngenerales a nombre del Condominio no puede ser usado por éste como crédito fiscal, puesto que \nno es él quien soporta tales desembolsos, sino que la Comunidad formada por los copropietarios; \nasimismo, dicho impuesto no es recuperable por los copropietarios como crédito fiscal, en vista \nque respecto de dichos cobros no existe la prestación de un servicio gravado de la Comunidad a \nlos copropietarios, al tenor del N° 2, del artículo 2°, de la Ley, y porque además, dicho crédito \nfiscal que no puede ser utilizado por la Comunidad, no constituye un derecho traspasable. \n \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR \n \n \nOficio N° 1986, de 26-07-2019 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n          \n3 Oficio N° 1293, de 15 de abril de 1985. \n"
+    },
+    {
+      "name": "Oficio N°1986 (26/07/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1986 (26/07/2019)",
+      "document_id": "16f0ad7a-8573-58f1-8b45-686ab6eb00f2",
+      "chunk_uuid": "dd3ae299-cad8-555f-83c4-1c0e8d0dbca3",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1986-26%2F07%2F2019.pdf&extension=pdf&acc=download&id=01bdd2bf-582a-4af0-a5b4-41087f8223a8&mediaType=application%2Fpdf",
+      "content": "Luego, considerando que la comunidad de copropietarios, por norma general no es una \nempresa1 que desarrolle actividades clasificadas en los N°s. 3, 4 y 5 del artículo 20, puede \nestablecerse que si este fondo de reserva formado por los aportes de la comunidad de \ncopropietarios percibe intereses de aquellos señalados en el número 4 del artículo 39 de la \nLIR, se encontraría exenta del Impuesto de Primera Categoría por dicho concepto, por \ncuanto, por regla general, no le resulta aplicable la contra excepción señalada en el inciso \nfinal del artículo 39 de la LIR. \n Por último, en relación a la pregunta consignada en la letra c), referida a si es obligatorio para \nla administración del condominio tener como ingreso (de forma separada a otros ingresos) el \n“fondo de puesta en marcha”, cabe informar que para efectos tributarios el señalado fondo \ntiene la misma naturaleza que el fondo de reserva analizado anteriormente o que el fondo \ncompuesto por los gastos comunes, es decir, la comunidad tiene la calidad de mera \nadministradora de bienes ajenos respecto de él. Sin embargo, no corresponde a este Servicio \ninstruir respecto a la forma en que se debe mantener o controlar el fondo de puesta en \nmarcha, por cuanto, dicha materia se encuentra fuera del ámbito de competencia que otorga \nla ley a este organismo. \n2.-  Desde el punto de vista del Impuesto al Valor Agregado, y en relación a las consultas de las \nletras a) y d) del Título I, se debe considerar lo siguiente: \nEl artículo 8°, del D.L. N° 825, de 1974, grava con Impuesto al Valor Agregado (IVA), las \nventas y los servicios.  A su vez, el N° 2, del artículo 2°, de la ley define “servicios” como: \n“La acción o prestación que una persona realiza para otra y por la cual percibe un interés, \nprima, comisión o cualquiera otra forma de remuneración, siempre que provenga del \nejercicio de las actividades comprendidas en los N°s 3 y 4, del artículo 20°, de la Ley sobre \nImpuesto a la Renta”. \n \nPor su parte, el artículo 23° y siguiente del referido decreto ley, establece los requisitos para \ntener derecho al uso del crédito fiscal del Impuesto al Valor Agregado. \n \nAhora bien, en el caso que una comunidad de copropietarios obtenga ingresos extras \nindependientes del giro, a que se refiere la consulta de la letra a) de su presentación, por \ndesarrollar alguna actividad afecta al Impuesto de Primera Categoría establecido en el \nartículo 20°, de la Ley sobre Impuesto a la Renta, como el arriendo de espacios comunes, se \ndebe considerar que la letra g) del artículo 8°, del D.L. N° 825, grava con IVA el arriendo de \nbienes corporales inmuebles amoblados o con instalaciones o maquinarias que permitan \nrealizar una actividad comercial o industrial. \nDe conformidad con la referida norma, si el espacio común del inmueble dado en arriendo, se \nencuentra amoblado o con instalaciones que permiten realizar una actividad comercial, los \ningresos por dicho concepto se encontrarían gravado con IVA, y en tal circunstancia, la \ncomunidad tendría el carácter de contribuyente de este impuesto, y por consiguiente debe \n          \n1  En este sentido, a través de los Oficios N°s. 706, de 13.04.2018; 550, de 15.03.2017; y 413, de 10.02.1995, este \nServicio ha señalado que para calificar una entidad como “empresa” se requiere de la formación de un todo constituido \npor capital y el trabajo, encaminado a la realización de actividades mercantiles, industriales o de prestación de servicios \ncon fines lucrativos. \n\n\n4 \n \ncumplir con todas las obligaciones accesorias establecidas en la ley, como emitir facturas, \npresentar \ndeclaraciones \nmensuales \nde \nimpuestos \n(formulario \nN° \n29),"
+    },
+    {
+      "name": "Oficio N°1986 (26/07/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1986 (26/07/2019)",
+      "document_id": "16f0ad7a-8573-58f1-8b45-686ab6eb00f2",
+      "chunk_uuid": "8b92f691-3d91-513b-8350-c520fe5e37f0",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1986-26%2F07%2F2019.pdf&extension=pdf&acc=download&id=01bdd2bf-582a-4af0-a5b4-41087f8223a8&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO –  ART. 2, N° 2, ART. 8, LETRA G), ART 23, \nART. 25 – LEY SOBRE IMPUESTO A LA RENTA, ART. 39, N° 4 – OFICIOS N° 5352, \nDE 2003, N° 934, DE 2015 Y N° 1740, DE 2016 (ORD. N° 1986, DE 26.07.2019) \n \n \n \n \n \n \n \n \n \n \n \n \n \nSolicita un pronunciamiento sobre la tributación de ingresos extras percibidos por \nCondominios. \n \nSe ha solicitado a esta Dirección Nacional, un pronunciamiento respecto de consulta realizada por \ndon XXXXX, sobre el régimen de tributación de los ingresos independientes del giro que reciben \nlos Condominios. \nI.-  ANTECEDENTES: \nSeñala esa Dirección Regional, haber recibido mediante Oficio Ord. N° 1855, de fecha 6 de \nseptiembre de 2018, de la Subdirección de Asuntos Corporativos, consulta efectuada a través de la \nLey de Transparencia, la cual fue declarada inadmisible por corresponder a materias tributarias. \nEl contribuyente en su presentación, solicita respuesta a las siguientes consultas: \na) \n¿Cuál es el Régimen de Tributación por ingresos extras independientes del giro que reciben \nlos condominios? Por ejemplo: el arriendo de espacios comunes de los propietarios, en los \ncuales se instala un negocio de florería sin espacios físicos o bien espacios que se ocupan \ncomo casino de comida. \nb) \n¿Los intereses que se generan en el fondo de reserva de cada condominio son tributables o \nno? \nc) \n¿Es obligatorio para la administración del condominio tener como ingreso (de forma \nseparada a otros ingresos) el “fondo de puesta en marcha”? \nd) \n¿El IVA que pagan los comuneros por consumos de gastos comunes, es posible traspasarlo a \nlos mismos, a fin de que ellos puedan recuperarlos como impuesto? \ne) \nTodo condominio conforme a la Ley N° 19.537 debe tener fondo de reserva entre el 3% al \n5%, dineros que se cobran de forma extra a los gastos comunes. Si este dinero el comité \nadministrativo del Condominio lo coloca en un instrumento de renta fija, como un vale vista \no fondo mutuo, lo cual les genera interés conformando un rédito para la comunidad ¿Se paga \nimpuesto por ese rédito? \nf) \n¿Cuál es el régimen tributario de las multas cursadas por la administración de un edificio, \ncuyas infracciones no se contemplan en el reglamento interno, sino que en dictámenes \nemanados por el propio comité administrativo? \n \nII.- ANALISIS: \n1. \nDesde el punto de vista de la tributación con el Impuesto a la Renta, establecido en el D.L. \nN° 824, de 1974, se da respuestas a las consultas de las letras a), b) e) y f), del Título I, según \nlo siguiente: \n \nEn relación a la consulta planteada en la letra a), este Servicio ha emitido diversos \npronunciamientos respecto a las obligaciones tributarias que afectas los ingresos por arriendo \nde los espacios comunes recibidos por las comunidades de un edificio sujeto a la regulación \nde la Ley N° 19.537, sobre Copropiedad Inmobiliaria. \nEn efecto, a través de los Oficios N°s. 5352, de 2003; 934, de 2015; y 1740, de 2016, se ha \nestablecido que si una comunidad de un edificio arrienda espacios comunes puede actuar \ncomo contribuyente de Primera Categoría y, en la medida que desarrolle una actividad \ncualquiera de aquellas a que se refiere el artículo 20 de la Ley sobre Impuesto a la Renta, la \ncomunidad estará afecta a las disposiciones de dicha categoría, alcanzándoles las siguientes \nob"
+    },
+    {
+      "name": "Oficio N°1740 (17/06/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1740 (17/06/2016)",
+      "document_id": "7bed3071-5f1d-5dc0-8478-0a52a277a47e",
+      "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja1740.htm",
+      "content": "De este modo, si bien las comunidades carecen de personalidad jurídica y por consiguiente el contribuyente\nno es la comunidad misma sino que cada comunero en particular por la proporción de las rentas efectivas o\npresuntas que le correspondan en ella, este Servicio ha considerado a las comunidades como contribuyentes\npara los efectos de la Ley sobre Impuesto a la Renta, en la medida que den cumplimiento a determinados\nrequisitos y condiciones, y al verificarse éstos, conforme a lo dispuesto en los artículos 66 y 68 del Código\nTributario se les inscribe en el Rol Único Tributario y pueden presentar una declaración de iniciación de\nactividades. En tal sentido, mediante Circular N° 143 de 1972, sobre tratamiento tributario de este tipo de\nentidades, este Servicio ha establecido que será condición indispensable para tratar tributariamente a las\ncomunidades como contribuyentes para los efectos tributarios, que se pruebe fehacientemente el dominio en\ncomún del negocio o empresa que genera las rentas a distribuirse entre los comuneros.\nAl respecto, se hace presente que, de acuerdo a las bases de datos de este Servicio, consta que la\nComunidad Edificio TTTT efectivamente está registrada como contribuyente bajo el RUT N° xxxx, con inicio\n\n\nde actividades de fecha xxxxxx, registrando actividades sujetas al Impuesto de Primera Categoría.\nDe este modo, una comunidad de edificio que arrienda espacios comunes puede actuar como un\ncontribuyente de la Primera Categoría y, en la medida que desarrolle una actividad cualquiera de aquellas a\nque se refiere el artículo 20 de la Ley sobre Impuesto a la Renta, como la indicada (clasificada en el N° 1),\nestá afecta a las disposiciones de dicha Categoría, alcanzándole, entre otras, las siguientes obligaciones\ntributarias:\na) Determinar y pagar el Impuesto de Primera Categoría, con la tasa que corresponda al año comercial\nrespectivo, aplicada sobre la base imponible de dicho tributo determinada de acuerdo al mecanismo\nestablecido en los artículos 29° al 33° de la Ley sobre Impuesto a la Renta;\nb) Efectuar Pagos Provisionales Mensuales (PPM), de acuerdo a una tasa variable, aplicada sobre los\ningresos brutos percibidos o devengados, en cada mes ;\nc) Cumplir todas aquellas exigencias de carácter administrativo, como por ejemplo: llevar contabilidad\ncompleta en libros debidamente timbrados por el Servicio; practicar un balance anual al 31 de diciembre de\ncada año; efectuar iniciación de actividades; inscribirse en el RUT y en la oportunidad de término de giro de\nsus actividades dar aviso por escrito al Servicio de tal circunstancia (según los artículos 66, 68 y 69 del\nCódigo Tributario); efectuar declaraciones mensuales, ya sea, por tributos retenidos a terceras personas o de\nlos propios impuestos que le afecta como contribuyente de la Ley sobre Impuesto a la Renta y/o del Decreto\nLey N° 825, de 1974; presentar anualmente una declaración jurada de sus rentas en cada año tributario,\ncualquiera que sea el resultado obtenido; y\nd) Llevar contabilidad completa, sujeta al mecanismo de corrección monetaria dispuesta en su artículo 41°, y\na la obligación de llevar los registros de ingresos pertinentes para los efectos de la aplicación del régimen de\ntributación que afecte a sus comuneros, de acuerdo a las reglas generales de la Ley sobre Impuesto a la\nRenta.\nIII CONCLUSIÓN\nConforme lo expuesto precedentemente se informa que, si la comunidad del edificio arrienda espacios\ncomunes puede calificar como contribuyente de la Primera Categoría y, en la medida que desarrolle una\nactividad cualquiera de aquellas a que se refiere el artículo 20 de la Ley sobre Impuesto a la Renta, como la\nindicada en el ordinario del antecedente, la comunidad está afecta a las disposiciones de dicha Categoría,\nalcanzándole las demás obligaciones tributarias anexas antes enumeradas.\nFERN"
+    },
+    {
+      "name": "Resolución N°9 (22/01/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°9 (22/01/2014)",
+      "document_id": "f3342d2d-cf8e-5935-899c-0541c7b1ed48",
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso9.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nSERVICIO DE IMPUESTOS INTERNOS \nSUBDIRECCIÓN DE FISCALIZACIÓN \nDEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL \n \n \nSUSTITUYE ESTRUCTURA Y CONTENIDO DEL \nFORMULARIO N° 50 SOBRE DECLARACIÓN Y \nPAGO SIMULTÁNEO MENSUAL DE IMPUESTOS.  \n \n \n  \n \nSANTIAGO, 22 de enero de 2014 \n \n \nHoy se ha resuelto lo que sigue: \n \n \nRESOLUCIÓN EX. SII Nº 9.-______/ \n \n \n \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo \n1° del   D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de \n1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del \nDecreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida \nen el artículo 1° del Decreto Ley N° 824, de 1974, y sus modificaciones contenidas en la Ley \nN°20.630, de 2012; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; y N° 10, de 23 de enero de 2013; y \n \n \nCONSIDERANDO: \n \n1° \nQue, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° de \nsu Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el cumplimiento de \nlas obligaciones tributarias de los contribuyentes;  \n2° \nQue, mediante la Resolución Ex. N° 27, de \n27 de julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° 41, \nde 29 de marzo de 2011; y N° 10, de 23 de enero de 2013; \n3° \nQue, con motivo de la publicación de la Ley \nN° 20.630, en el Diario Oficial el 27 de septiembre de 2012, que perfecciona la legislación tributaria \ny financia la reforma educacional, modificando, entre otras normas, aquellas que dicen relación con \nlas retenciones de impuestos que deben practicarse a personas sin domicilio ni residencia en Chile, \ncontenidas en el N°4 del artículo 74 de la Ley sobre Impuesto a la Renta, surge la necesidad de \nadecuar el Formulario 50 de Declaración y Pago Simultáneo Mensual de Impuestos;  \n4° \nQue, conforme el artículo 29 del Código \nTributario la presentación de declaraciones con el objeto de determinar la procedencia o liquidación \nde un impuesto, se hará de acuerdo con las normas legales o reglamentarias y con las instrucciones \nque imparta la Dirección de este Servicio, incluyendo toda la información que fuere necesaria;   \n5° \nQue, este Servicio, de acuerdo a lo"
+    },
+    {
+      "name": "Resolución N°69 (21/07/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°69 (21/07/2014)",
+      "document_id": "72b096ac-69b2-5d3d-b751-f9fb02853b68",
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso69.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nSERVICIO DE IMPUESTOS INTERNOS  \nSUBDIRECCIÓN DE FISCALIZACIÓN  \nMODIFICA \nCONTENIDO \nDEL \nFORMULARIO      \nN° \n50 \nSOBRE \nDECLARACIÓN \nY \nPAGO \nSIMULTÁNEO MENSUAL DE IMPUESTOS.  \nSANTIAGO, 21 DE JULIO DE 2014       \nHoy se ha resuelto lo que sigue:  \nRESOLUCIÓN EX. SII Nº 69.-  \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el \nartículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de \noctubre de 1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el \nartículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la \nRenta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; la Ley N° 20.657 del Ministerio \nde Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de Febrero de 2013, que \nModifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° 18.892, de 1989 y sus \nmodificaciones; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de \n2014; y \nCONSIDERANDO:  \n1° Que, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° \nde su Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el \ncumplimiento de las obligaciones tributarias de los contribuyentes;  \n2° Que, mediante la Resolución Ex. N° 27, de 27 \nde julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° \n41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de 2014; \n3° Que, con motivo de la publicación de Ley N° \n20.657 del Ministerio de Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de \nFebrero de 2013, que Modifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° \n18.892, de 1989 y sus modificaciones, se agrega el artículo 43 ter, el que establece un Impuesto \nEspecífico para los titulares de licencias transables de pesca clase A, que deben pagar anualmente \nen el mes de julio, surge la necesidad de adecuar el Formulario 50 de Declaración y Pago \nSimultáneo Mensual de Impuestos; \n4° Que, conforme el artículo 29 del Código \nTributario"
+    },
+    {
+      "name": "Resolución N°4845 (10/10/1995)",
+      "source_type": "resolucion",
+      "source": "Resolución N°4845 (10/10/1995)",
+      "document_id": "4e8fcc3b-9c55-5635-8e79-3a8bf78c214b",
+      "chunk_uuid": "30bcd1f0-8fcd-54bb-80e3-3e2a660fb124",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/documentos/resoluciones/1995/reso4845.htm",
+      "content": "unidad emitió a sus socios o comuneros, informando la situación tributaria de los gastos\nrechazados en que incurrió, de acuerdo a lo establecido en la Resol. Ex. No. 65, de 1993,\nmodificada por la Resol. Ex. No. 4.571, de 1994.\nLínea Totales : En los Códigos ( ); ( ); ( ) y ( ), se anotan los totales que resulten de sumar los\nvalores registrados en las columnas correspondientes a cada Código. En el caso que se utilice más\nde un Formulario No. 1.893, los totales antes referidos, deberán registrarse en el último\nformulario, no siendo procedente anotar subtotales en cada documento.\nd) Nombre y Firma del Representante Legal: La Declaración Jurada debe ser firmada por el\nRepresentante Legal de la sociedad o comunidad respectiva, registrando, además, su nombre y\nNo. de RUT.\ne) Lugar de Presentación: Debe ser presentada en la Unidad del Servicio que corresponda al\ndomicilio de la sociedad o comunidad que efectúa la declaración.\nf) No. de ejemplares en que debe emitirse: Debe emitirse como mínimo en dos ejemplares con el\nsiguiente destino: Original: SECCOM, SII y Copia: Archivo contribuyente.\ng) Sanciones: La omisión de esta declaración o su presentación fuera de plazo, será sancionado de\nacuerdo a lo previsto en el artículo 97 No. 15 del Código Tributario.\n\n\nh) Plazo de Presentación: Debe ser presentada antes del 01 de abril de cada año.\n \n"
+    },
+    {
+      "name": "Oficio N°1740 (17/06/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1740 (17/06/2016)",
+      "document_id": "7bed3071-5f1d-5dc0-8478-0a52a277a47e",
+      "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja1740.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2016\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 14, ART. 20, N°1, ART. 29, ART. 30, ART. 31,\nART. 32, ART. 33. (ORD. N° 1740, DE 17.06.2016)\nSITUACIÓN TRIBUTARIA DE UNA COMUNIDAD DE EDIFICIO, RESPECTO DE LOS INGRESOS\nOBTENIDOS POR ARRIENDO DE ESPACIOS COMUNES PARA FUNCIONAMIENTO DE ANTENAS DE\nCELULAR.\nSe ha solicitado a este Servicio informar al tenor de lo expuesto por usted en su presentación efectuada ante\nla Contraloría General de la República.\nI ANTECEDENTES\nMediante el ordinario referido en el antecedente, la entonces Contralora General de la República (S) informa\nque se abstiene de emitir pronunciamiento y remite a este Servicio su consulta, la cual no se acompaña en\nlos antecedentes.\nCon todo, según indica el ordinario de la Contraloría General de la República, usted solicitó a ese organismo\nfiscalizador un pronunciamiento sobre la legalidad de la actuación de este Servicio, que ordenó a la\nComunidad Edificio TTTT tributar en primera categoría; tener contabilidad completa en libros debidamente\ntimbrados; efectuar declaraciones mensuales; confeccionar balances anuales; llevar registro del Fondo de\nUtilidades Tributables y realizar pagos provisionales mensuales.\nEl ordinario señala que la comunidad dio en arriendo a una empresa de comunicaciones un espacio en la\nazotea para la instalación de antenas repetidoras y que este Servicio remitió al correspondiente municipio, la\ndeclaración de capital propio de los años tributarios 2013 y 2014 de esa entidad, por lo que la Municipalidad\nde Providencia les envió una carta para la regularización de la patente comercial pertinente.\nAl respecto, junto con abstenerse de emitir un pronunciamiento sobre la materia, y en base a las facultades\nlegales de este Servicio para interpretar administrativamente, en forma exclusiva, las disposiciones sobre\ntributación fiscal interna, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización\nde los tributos cuyo control no esté encomendado por ley a una autoridad diferente, ese organismo contralor\ntraslada la consulta a este Servicio.\nII ANÁLISIS\nAntes de abordar la consulta se deja constancia que, salvo fotocopia del dictamen N° xxxx, de la Contraloría\nGeneral de la República, no se ha remitido a este Servicio copia de su presentación así como sus\nantecedentes.\nEn segundo lugar, se hace presente que la descripción efectuada en el ordinario del antecedente no entrega\nmayores detalles relativos al tipo de comunidad que se trata o norma legal bajo la cual se rige. Sin perjuicio\nde lo anterior, atendido que se alude a la comunidad de un edificio que entrega en arriendo su azotea, puede\ncolegirse que se trata de un edificio sujeto al régimen de copropiedad inmobiliaria regulada por la Ley N°\n19.537.\nPartiendo del supuesto anterior, y a propósito de una consulta similar formulada por la comunidad de un\nedificio que arrienda espacios comunes (una azotea) para el funcionamiento de antenas de celular, este\nServicio ha señalado que la naturaleza jurídica de la copropiedad inmobiliaria regulada por la Ley N° 19.537\ncorresponde al de una comunidad.\nDe este modo, si bien las comunidades carecen de personalidad jurídica y por consiguiente el contribuyente\nno es la comunidad misma sino que cada comunero en particular por la proporción de las rentas efectivas o\npresuntas que le correspondan en ella, este Servicio ha considerado a las comunidades como contribuyentes\npara los efectos de la Ley sobre Impuesto a la Renta, en la medida que den cumplimiento a determinados\nrequisitos y condiciones, y al verificarse éstos, conforme a lo dispuesto en los artículos 66 y"
+    },
+    {
+      "name": "Resolución N°65 (18/07/2017)",
+      "source_type": "resolucion",
+      "source": "Resolución N°65 (18/07/2017)",
+      "document_id": "2712ae52-a888-5629-a58f-f04b2e1b00af",
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "chunk_id": 39,
+      "url": "http://www.sii.cl/normativa_legislacion/resoluciones/2017/reso65.pdf",
+      "content": " respectivas \ncompetencias, a desarrollar acciones conjuntas con la finalidad de facilitar la coordinación, tanto a \nnivel central como regional, en lo que dice relación con: \na) \nLa aplicación práctica de lo establecido en las resoluciones Exentas N°4.553, de fecha 30 \nde septiembre de 1996 y N° 6.181 de fecha 9 de diciembre de 1997 de “El Servicio”; que \ndetermina la primera de ellas la obligatoriedad de solicitar ante el Departamento Regional de \nAvaluaciones de “El Servicio” correspondiente un “certificado de Asignación de roles de \nAvalúo en Trámite” cuando en los casos de saneamiento o transferencias a título gratuito, \nlos bienes raíces sean parte de un inmueble mayor extensión, estableciendo la segunda de \nellas, un procedimiento de traspaso de la información de carácter legal relativa a las \ntransferencias de los bienes raíces dese las Notarías y los Conservadores de bienes raíces \nhacia “El Servicio”. \n \nb) \nLa aplicación práctica del D.L. N°2.695, de 1979 y de la Ley 19.455 (25.05.96), en lo relativo \na información que debe ser proporcionada por “El Servicio”, para efectos de la regularización \nde la posesión de la pequeña propiedad raíz gestionada por “El Ministerio”. \nSEGUNDO: “El Ministerio” realiza en las distintas regiones del país programas o proyectos masivos \nde regularización de títulos de dominio a personas de escasos recursos, de conformidad al artículo \n38 del D.L. 1939 de 1977, cuando se trate de inmuebles fiscales y de acuerdo al D.L. N°2.695 de \n1979, cuando se trate de propiedades particulares con título imperfectos. En este último caso, “El \nMinisterio”, dispone para la ejecución de estos proyectos, de un registro nacional y de Nóminas \nRegionales de empresas contratistas, cuya reglamentación está contenida en el D.S. N°13, de fecha \n17 de octubre de 1996. \nTERCERO: Con el fin de optimizar el cumplimiento de lo establecido en las disposiciones señaladas \nen la cláusula primera, por el presente documento se establece un Convenio de Cooperación y \nCoordinación sobre la base de las siguientes consideraciones: \n1. Relativas a la letra a) de la cláusula Primera del presente Convenio: \na) Las Secretarias Regionales Ministeriales de “El Ministerio” o las empresas contratistas \nautorizadas por éste tendrán una comunicación directa con los respectivos departamentos de \nAvaluaciones de “El Servicio”, con el fin de retirar o presentar los formularios correspondientes o \nresolver cualquier situación o inconveniente de identificación de predios y sus respectivos \nnúmeros de Rol de Avalúo. \n \n\n\nb) La solicitud de Certificado (Formulario 2892) de “Asignación de Roles de Avalúo en Trámite”, que \nserá tramitada y presentada por las empresas contratistas a que se refiere la cláusula Segunda, \no por la Secretaría Regional Ministerial en los casos de ejecución directa de “El Ministerio”, se \nacompañará con dos copias de planos con croquis de ubicación, en lo posible a escala, incluidos \npuntos de referencia. \n \nEn los casos de saneamientos de títulos múltiples, es decir, cuando en un mismo predio de mayor \nextensión se realiza el saneamiento de más de un lote, el Solicitante podrá llenar un solo \nFormulario 2892, debiendo indicar en el bloque destinado a nombre de Propietario/Beneficiario: \n“Se adjunta nómina” y una “X” en el bloque destinado al R.U.T.  Esta nómina contendrá el nombre \ny R.U.T. de los beneficiarios, con su respectiva dirección, debiendo adjuntar un plano a escala \ndel conjunto además de las dos copias de plano mencionadas en el párrafo anterior. \n \nc) En los planos con sistema de ortofotos o fotografías aéreas será necesario acompañar una \nfotocopia de la misma, con indicación de su número y año de vuelo. \n \nd) En el plano de saneamiento de propiedades"
+    },
+    {
+      "name": "Oficio N°5352 (23/10/2003)",
+      "source_type": "oficio",
+      "source": "Oficio N°5352 (23/10/2003)",
+      "document_id": "224ade24-0e81-5fa8-a006-79a4724b22f8",
+      "chunk_uuid": "f4f9624a-0253-55b0-b236-f62f3c086cff",
+      "chunk_id": 1,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1774.pdf",
+      "content": "\nXXXXXXXXXX\n\n\n2\n3.- \nEn segundo lugar en lo que dice relación con las normas de la Ley de la Renta, debe \ntenerse presente que todas las personas, revisten la calidad de contribuyentes, en la \nmedida que puedan estar sujetas a algunos de los tributos que ella establece, lo cual \nocurrirá en caso que tales personas posean bienes o realicen actividades susceptibles \nde generar rentas clasificadas en alguna de las categorías que contempla dicho texto \nlegal.\nEn efecto, la Ley de la Renta, salvo las excepciones taxativas que ella misma establece, \nno atiende a la naturaleza o finalidad de las personas para gravarlas o no con impuesto, \nsino que considera las actividades que éstas realizan, los actos y contratos que \nejecutan y los beneficios económicos que puedan obtener. \n4.- \nAhora bien, de acuerdo a lo establecido en la Ley Nº 19.537, publicada en el Diario \nOficial de fecha 16 de Diciembre de 1997 y su Reglamento contenido en el Decreto \nSupremo Nº 46, del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial de \n17 de Junio de 1998, se advierte que la característica principal de la copropiedad radica \nen la circunstancia que, junto al dominio individual y por entero que a cada propietario \ncorresponde sobre su unidad, existe una comunidad forzada  de todos los propietarios \nsobre alguna parte de los bienes de dominio común, todo ello conforme a lo dispuesto \npor el artículo 3º de la mencionada ley. \nEn cuanto a la naturaleza jurídica de esta copropiedad inmobiliaria, ella corresponde al \nde una comunidad, coexistiendo varias propiedades exclusivas con la comunidad sobre \nciertos bienes de dominio común. \n5.- \nPor su parte, el artículo 6° de la Ley sobre Impuesto a la Renta, establece que en los \ncasos de comunidades, cuyo origen no sea la sucesión por causa de muerte o \ndisolución de la sociedad conyugal, como también en los casos de sociedades de \nhecho, los comuneros o socios serán solidariamente responsables de la declaración y \npago de los impuestos de la ley del ramo que afecten a las rentas obtenidas por la \ncomunidad o sociedad de hecho, agregando dicha norma legal en su inciso final, que \nsin embargo, el comunero o socio se liberará de la solidaridad, siempre que en su \ndeclaración individualice a los otros comuneros o socios, indicando su domicilio y \nactividad y la cuota o parte que les corresponde en la comunidad o sociedad de hecho. \nEn relación con las comunidades, cabe señalar que éstas carecen de personalidad \njurídica. No obstante ello, este Servicio a través de sus instrucciones ha declarado que \nen el caso de una comunidad, el contribuyente no es la comunidad misma, por cuanto \nésta carece de personalidad jurídica, sino que el contribuyente es cada comunero en \nparticular por la proporción de las rentas efectivas o presuntas que le correspondan en \nla comunidad. \nNo obstante lo anterior, a las comunidades –entes sin personalidad jurídica– este \nServicio las ha considerado como contribuyentes para los efectos de la Ley de la Renta, \nen la medida que den cumplimiento a determinados requisitos y condiciones, y al \nverificarse éstos, conforme a lo dispuesto en los artículos 66 y 68 del Código Tributario \nse les inscribe en el Rol Unico Tributario y pueden presentar una declaración de \niniciación de actividades. \nEn tal sentido, este Servicio mediante Circular N° 143, de 1972, sobre tratamiento \ntributario de este tipo de entidades, ha establecido que será condición indispensable \npara tratar tributariamente a las  comunidades como contribuyentes para los efectos \ntributarios, que se pruebe fehacientemente el dominio en común del negocio o empresa \nque genera las rentas a distribuirse entre los comuneros. \n\n\n3\nEn tal situación la comunidad debe tributar con el impuesto de Primera Categoría en la \noportunidad en que las rentas se devengaron o percibieron y los respectivos comuneros \ncon"
+    },
+    {
+      "name": "Oficio N°926 (05/03/2001)",
+      "source_type": "oficio",
+      "source": "Oficio N°926 (05/03/2001)",
+      "document_id": "78ed8754-3020-5f62-86aa-f19f0028094b",
+      "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2001/renta/ja172.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2001\nTRIBUTACIÓN DE LAS COMUNIDADES – COMUNEROS O SOCIOS SERÁN SOLIDARIAMENTE\nRESPONSABLES DE LA DECLARACIÓN Y PAGO DE LOS IMPUESTOS DE LA LEY DEL RAMO QUE\nAFECTEN A LAS RENTAS OBTENIDAS POR LA COMUNIDAD O SOCIEDAD DE HECHO –\nOBLIGACIÓN DE PAGAR LOS IMPUESTOS RECAE SOBRE LAS PERSONAS NATURALES O\nJURÍDICAS – COMUNIDAD CARECE DE PERSONALIDAD JURÍDICA – CONTRIBUYENTE ES CADA\nCOMUNERO POR LA PROPORCIÓN DE LAS RENTAS QUE LES CORRESPONDAN EN LA\nCOMUNIDAD – ESTA DIRECCIÓN A TRAVÉS DE SUS INSTRUCCIONES HA ESTABLECIDO QUE\nCOMUNIDADES PUEDEN ACTUAR COMO UN CONTRIBUYENTE DE LA PRIMERA CATEGORÍA –\nDEBE TRIBUTAR CON EL IMPUESTO DE PRIMERA CATEGORÍA EN LA OPORTUNIDAD EN QUE LAS\nRENTAS SE DEVENGARON O PERCIBIERON – Y LOS RESPECTIVOS COMUNEROS CON EL\nIMPUESTO GLOBAL COMPLEMENTARIO O ADICIONAL – SALVO EXCEPCIONES TAXATIVAS NO SE\nATIENDE A LA NATURALEZA DE LAS PERSONAS PARA GRAVARLAS CON IMPUESTO – SINO QUE\nSE CONSIDERA LA ACTIVIDAD QUE REALIZA EN EL PLANO ECONÓMICO.\n1.- Por Ordinario indicado en el antecedente, señala que se ha recibido en esa Dirección Regional la\npresentación de la Comunidad Edificio XX, formada por los copropietarios de un edificio, quién solicita un\npronunciamiento respecto de la tributación que afectaría a la cafetería que explota comercialmente, cuyas\nutilidades se destinan a pagar parte de los gastos comunes del edificio administrado por la referida\ncomunidad.\n2.- Sobre el particular, cabe señalar en primer lugar, que el artículo 6° de la Ley sobre Impuesto a la Renta,\nestablece que en los casos de comunidades, cuyo origen no sea la sucesión por causa de muerte o\ndisolución de la sociedad conyugal, como también en los casos de sociedades de hecho, los comuneros o\nsocios serán solidariamente responsables de la declaración y pago de los impuestos de la ley del ramo que\nafecten a las rentas obtenidas por la comunidad o sociedad de hecho, agregando dicha norma legal en su\ninciso final, que sin embargo, el comunero o socio se liberará de la solidaridad, siempre que en su\ndeclaración individualice a los otros comuneros o socios, indicando su domicilio y actividad y la cuota o parte\nque les corresponde en la comunidad o sociedad de hecho.\n3.- Por otra parte procede señalar, que la obligación de pagar los impuestos recae sobre las personas\nnaturales y jurídicas, sin que sea posible admitir que entes con una capacidad limitada a interactuar en\nciertas relaciones jurídico-tributarias pueda asumir la calidad de contribuyente, toda vez que de conformidad\nal artículo 1.575 del Código Civil, es requisito indispensable para efectuar un pago, tener la capacidad de\nenajenar, de la cual carecen los entes sin una personalidad jurídica propia.\nConforme a lo anterior, cabe concluir que la naturaleza jurídica del contribuyente necesariamente está\nlimitada a las personas naturales y jurídicas siendo éstas en definitiva los sujetos obligados a pagar el\nimpuesto , no así los entes carentes de personalidad jurídica como las comunidades.\nEn consecuencia, de acuerdo con lo señalado y conforme a las instrucciones impartidas sobre la materia, en\nel caso de comunidades, el contribuyente no es la comunidad misma, por cuanto como ya se expresó, ésta\ncarece de personalidad jurídica, sino que el contribuyente es cada comunero por la proporción de las rentas\nque les correspondan en la comunidad.\n4.- No obstante lo anterior, para los efectos de la Ley de la Renta, y en conformidad a lo dispuesto por el\nartículo 6°, de este mismo texto"
+    },
+    {
+      "name": "Resolución N°100 (31/08/2023)",
+      "source_type": "resolucion",
+      "source": "Resolución N°100 (31/08/2023)",
+      "document_id": "dd548240-5642-5b27-9875-13d1f1f48746",
+      "chunk_uuid": "a6579e3a-be23-5582-978c-a5e37c40178b",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso100.pdf",
+      "content": " personas naturales, \npara cumplir con sus obligaciones tributarias.  El impuesto a pagar por las rentas declaradas  \ndependerá de la diferencia entre las provisiones pagadas durante el año y el cálculo final a \npagar por concepto de impuestos, por lo que el contribuyente pagará al Fisco u obtendrá \nuna devolución por la diferencia. \n \nEste trámite lo deben realizar todos los ciudadanos que durante el año anterior hayan \nobtenido ingresos calificados como rentas para efectos tributarios, y que su monto exceda \nlos límites establecidos por la Ley de Impuesto a la Renta para quienes están liberados de \nesta obligación.  Esto hace necesario que - antes de que un contribuyente realice su \nDeclaración de Renta- sepa si le corresponde o no, cumplir con este compromiso tributario.  \nEsto último lo puede determinar a través de la propuesta total o parcial de la declaración \nde renta, que hace al SII a través de su página web a partir de la información que posee en \nsus bases de datos. \n \nOBJETIVO. \n \nEl fin de este producto es que “LA UTALCA” pueda apoyar y cooperar con el proceso de \n“Operación Renta” en sus edificios, especialmente las que imparten carreras relacionadas \ncon contabilidad y administración, con el objeto de vincular a los alumnos de dichas \ncarreras a la comunidad y al “SII”. \n\n\n          \n  \n10 \n \n \n \n \nDESCRIPCIÓN DEL FUNCIONAMIENTO. \n \nPara cumplir el objetivo señalado se deben realizar las siguientes acciones: \n \n1. Determinar los edificios de la institución de educación superior donde se ejecutarán \nacciones de cooperación para la asistencia durante la Operación Renta. \n \n2. En cada sede se constituirá una mesa de trabajo, conformada por los coordinadores \nlocales (de ambas instituciones) quienes serán los responsables de definir, \nimplementar, realizar el seguimiento y asegurar los resultados acordados. \n \n3. Los coordinadores locales –en una fecha de común acuerdo- realizarán una primera \nreunión donde confirmarán: \n \n- \nEl emplazamiento donde se realizará la actividad de asistencia. \n- \nEl calendario de actividades y horarios, por ejemplo: \n \nFechas \nHorario de atención \nAbril (1 al 30) lunes a viernes \n9:00 a 14:00 \n \n- \nLos alumnos y docentes que participarán. \n- \nLos funcionarios del “SII” que realizarán la capacitación y el apoyo a las actividades \nde asistencia. \n- \nLos turnos y el control de estos, por ejemplo: \n \nINSTITUCIÓN DE FORMACIÓN SUPERIOR \n \nAlumnos por día (dependiendo de la \nSede) \n2 a 5 \nDocentes por día \n1 \nCoordinador Administrativo \n1 \nAlumno Gestor de Sala \n1 \nSERVICIO DE IMPUESTOS INTERNOS \n \nFiscalizadores \n1 a 2 \nAdministrativo \n1 a 2 \n \n- \nEl protocolo de atención, para asegurar un estándar de servicio, incluido el plan de \ncontingencia. \n- \nEl plan de difusión de la actividad. \n\n\n          \n  \n11 \n \n \n- \nLos recursos necesarios (escritorios, sillas, computadores, conexión a internet, \nimpresora, sillas de espera, un sistema de ordenamiento de la atención, materiales, \netc.). \n- \nLos resultados esperados. \n \n4. Los acuerdos quedarán estipulados en un acta de la reunión que servirá para la \nevaluación final. \n \n5. Posteriormente cada coordinador gestionará los recursos materiales, humanos y \ntécnicos para asegurar el logro de los objetivos. \n \n6. En cada uno de estos lugares, tanto el “SII” como la institución de educación superior \ndeberán difundir las acciones que se estipulen a través de los medios virtuales, de audio \no escritos de los que disponga. \n \n7. Finalmente, la institución de educación superior entregará un informe con los \nresultados de la actividad, en base a los parámetros que acuerden medir en la mesa de \ntrabajo y que quedará estipulado en el acta. \n \nRECURSOS ASOCIADOS. \n \nLos recursos necesarios para esta actividad de asistencia, someramente, son: \n \nPor parte del SII: \n \n• Nom"
+    },
+    {
+      "name": "Oficio N°1997 (11/09/2013)",
+      "source_type": "oficio",
+      "source": "Oficio N°1997 (11/09/2013)",
+      "document_id": "6e54d165-9cc2-5e31-8e80-54f153de1546",
+      "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2013/ventas/ja1997.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a las Ventas y Servicios - 2013\nVENTAS Y SERVICIOS y NUEVO TEXTO y ACTUAL LEY SOBRE IMPUESTO A LAS y ART. 8°, LETRA\nG), ART. 3°, ART. 52°, ART. 55° y LEY N° 19.537. (ORD. N° 1997, DE 11.09.2013)\nIMPUESTO AL VALOR AGREGADO EN PRESTACIONES REALIZADAS POR COMUNIDAD DE\nCOPROPIETARIOS DE UN EDIFICIO.\nSe ha solicitado a este Servicio confirmar los criterios que expone, en orden a la situación frente al Impuesto\nal Valor Agregado de las comunidades de copropietarios que arriendan o ceden el uso y goce temporal de\nmáquinas de lavar y secar ropa a los habitantes de sus respectivos edificios.\nI.- ANTECEDENTES\nUna comunidad de copropietarios acogidos a la Ley 19.537 de un edificio, arrienda máquinas de lavar y\nsecar ropa a los habitantes del edificio a cambio de un precio representado por una ficha que autoriza el uso\nde las mismas.\nCon el fin de dar estricto cumplimiento a la ley, solicita se indique cuál es el correcto tratamiento tributario\nfrente al Impuesto al Valor Agregado de la comunidad, en relación a la cesión o arrendamiento de máquinas\nde lavado y secado de ropa, confirmando lo siguiente:\na) La comunidad de copropietarios es un contribuyente de IVA.\nb) La comunidad de copropietarios, cumple con todos los elementos del hecho gravado especial contenido\nen el artículo 8° letra g) de la Ley sobre Impuesto al Valor Agregado.\nc) No existe exención personal ni real que beneficie a la actividad desarrollada por la comunidad de\ncopropietarios.\nd) Que en consecuencia, el arriendo o cesión temporal del uso o goce de máquinas de lavado y secado de\nropa efectuada por la comunidad de copropietarios a los habitantes del edificio por el cual recibe un precio,\nes un hecho gravado afecto a IVA.\ne) Que de acuerdo a lo establecido en el artículo 55° de la Ley sobre Impuesto al Valor Agregado, la\ncomunidad de copropietarios debe emitir la correspondiente boleta o factura, cada vez que ceda el uso y\ngoce temporal de las máquinas a cada uno de los habitantes/usuarios.\nf) Que como consecuencia de ser un contribuyente de IVA, la comunidad de copropietarios deberá presentar\nmensualmente, y en la fecha que corresponda, el respectivo formulario 29.\nII.- ÁNALISIS:\nEl artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, en lo pertinente señala:v Son\ncontribuyentes, para los efectos de esta ley, las personas naturales o jurídicas, incluyendo las comunidades,\ny las sociedades de hecho, que realicen ventas, que presten servicios o efectúen cualquier otra operación\ngravada con los impuestos establecidos en ellaw.\nPor su parte, el artículo 8° letra g) del texto legal citado, grava con IVA vEl arrendamiento,\nsubarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales\nmuebles...w.\nA su vez, el artículo 52° del mismo cuerpo legal dispone que las personas que celebren cualquier contrato o\nconvención de los mencionados en los Títulos II y III de esta Ley deberán emitir facturas o boletas, según el\ncaso, por las operaciones que efectúen.\nPor último, el artículo 55° inciso séptimo del D.L. N° 825, de 1974, dispone que en el caso de prestaciones de\nservicios, las boletas deberán ser emitidas en el momento mismo en que la remuneración se perciba o se\nponga, en cualquier forma, a disposición del prestador del servicio .\nEl artículo 64° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N°825 de 1974,\nestablece la obligación de todos los contribuy"
+    },
+    {
+      "name": "Oficio N°5352 (23/10/2003)",
+      "source_type": "oficio",
+      "source": "Oficio N°5352 (23/10/2003)",
+      "document_id": "224ade24-0e81-5fa8-a006-79a4724b22f8",
+      "chunk_uuid": "fee54875-e97b-589d-9b65-6840de9a176c",
+      "chunk_id": 3,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1774.pdf",
+      "content": " \ninciso final del artículo 68° de la Ley de la Renta, queda sujeta al mecanismo de \ncorrección monetaria del artículo 41° de la Ley de la Renta, y al ordenamiento que \ndispone la Resolución Exenta del Servicio N° 2.154, D.O. 24.07.91 (sobre Registro \nFUT), para los efectos de la aplicación del régimen de tributación en base a retiros \no distribuciones que afectan a sus comuneros, de acuerdo a lo establecido en el \nartículo 14° de la Ley de la Renta. Las instrucciones relativas a la aplicación de \ndicho sistema tributario, el Servicio las impartió por Circulares N°s. 60, de 1990 y \n40, de 1991. \n7.- \nEn consecuencia, la citada Comunidad de Edificios por las rentas que percibe o \ndevengue, por concepto de arriendo de la azotea, en su calidad de contribuyente de la \nPrimera Categoría, se encuentra afecta al impuesto de dicha categoría, cuya base \nimponible se determina conforme al mecanismo establecido por los artículos 29 al 33 de \nla Ley de la Renta, y además a las obligaciones de carácter contable y administrativas \nseñaladas anteriormente. En cuanto a la forma de acreditar las rentas, la citada \n\n\n4\ncomunidad debe efectuarla mediante una contabilidad completa, sin perjuicio de poder \noptar por acreditar dicha renta mediante una contabilidad simplificada en la medida que \nse den los supuestos básicos que exige la letra a) del artículo 68 de la Ley de la Renta. \n \nRespecto de la última consulta formulada, se señala que el sistema de tributación a \nbase de retiros, conforme a lo dispuesto por el artículo 14 de la Ley de la Renta, sólo es \naplicable a los propietarios o socios de sociedades que señala dicha norma legal, dentro \nde los cuales se comprenden también los comuneros de las respectivas comunidades \nreconocidas por este Servicio como contribuyentes en los términos señalados \nanteriormente, y en virtud de dicha calidad a los citados comuneros les es aplicable el \nconcepto de retiros, y a su vez, con derecho a la recuperación del impuesto de Primera \nCategoría pagado por la comunidad como crédito en contra de los impuestos Global \nComplementario o Adicional que les afecta; todo ello conforme a lo dispuesto por los \nartículos 54 N° 1, 56 N° 3, 60, 61 y 63 de la Ley de la Renta. \n \nSaluda a Ud., \n1.1 \n \n \n \n \n \n \n        \nJUAN TORO RIVERA \n \n \n \n \n \n \n \n \n       DIRECTOR\n1.2 \nEMR/JCVB/asmg/mcgv. \nA LA SEÑORA \nVERONICA ACEVEDO \nSANTA ROSA N° 950, DEPARTAMENTO 467-P \nSANTIAGO\n- SECRETARIA DEL DIRECTOR \n- SUBDIRECCION NORMATIVA \n- DEPTO. DE IMPTOS. DIRECTOS \n- DEPTO. DE IMPTOS. INDIRECTOS\n- DEPTO DE ASESORIA JURIDICA \n- SUBDIRECCION DE FISCALIZACION \n- OFICINA DE PARTES\nXXXXXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXX\n"
+    },
+    {
+      "name": "Circular N°1 (02/01/2015)",
+      "source_type": "circular",
+      "source": "Circular N°1 (02/01/2015)",
+      "document_id": "0982a58e-f2bd-5665-80d0-1dc49cc29c6c",
+      "chunk_uuid": "766edb1e-3268-58b1-9ad6-7ce266a9c023",
+      "chunk_id": 15,
+      "url": "http://www.sii.cl/documentos/circulares/2015/circu1.pdf",
+      "content": " sociedades anónimas cerradas sólo pueden ingresar a este \nrégimen simplificado a partir de julio de 2016. (de acuerdo a lo dispuesto en la letra e) del artículo 2° transitorio del \nReglamento de la Ley 20.659 contenido en Decreto Supremo N°45 de 28 de marzo de 2013. \n \n18 Cabe hacer presente que el actual artículo 21 de la LIR, es sustituido a partir del 1° de enero de 2017, de acuerdo a lo \ndispuesto en el numeral 11), del artículo 1°, en concordancia con el inciso 1°, del artículo primero de las disposiciones \ntransitorias de la Ley. \n \n19 Dado que se derogan el artículo 14 bis a partir del 1° de enero de 2015, de acuerdo a lo dispuesto en el numeral 5), del \nartículo 1°, en concordancia con la letra b) del artículo primero de las disposiciones transitorias de la Ley, es necesario \nhacer presente que de acuerdo a lo dispuesto en el numeral II, del artículo tercero de las disposiciones transitorias de la \nLey, los contribuyentes que hasta el 31 de diciembre de 2014, se encuentren acogidos al artículo 14 bis, podrán \nmantenerse acogidos a dicho régimen de tributación hasta el 31 de diciembre de 2016. Para tal efecto, lo dispuesto en el \nartículo 21 de la LIR, el que expresamente hace aplicable la tributación en él establecida a los contribuyentes del artículo \n14 bis, debe entenderse vigente respecto de los referidos contribuyentes y por el período señalado. \n \n20 Las instrucciones sobre la aplicación del actual artículo 21 de la LIR fueron impartidas mediante la Circular N° 45, de 23 \nde septiembre de 2013, las que resultan plenamente aplicables mientras continúe en vigencia dicho artículo, esto es, \nhasta el 31 de diciembre de 2016. \n \n\n\n12 \n \n2.- \nMODIFICACIÓN DE LA FORMA DE DETERMINAR EL CAPITAL PROPIO DE \nSOCIEDADES DE PERSONAS, TRATÁNDOSE DE VALORES DE SUS SOCIOS \nINCORPORADOS A ÉSTAS, CONTENIDA EN EL INCISO 1°, DEL N° 1, DEL ARTÍCULO 41 \nDE LA LIR21. \n \nDe acuerdo a lo establecido en el párrafo 1°, del N° 1, del inciso 1° del artículo 41 de la LIR, vigente \nhasta el 31 de diciembre de 2014, forman parte de capital propio los valores del socio de \nsociedades de personas que hayan estado incorporados al giro de la empresa. \n \nEl sentido de la referida expresión, según ha señalado este Servicio, es amplio, esto es, \ncomprensible de cualquier cantidad a favor de un socio, sea proveniente de utilidades no retiradas, \nde préstamos otorgados por el socio a la respectiva sociedad a corto o a largo plazo o sin plazo \ndefinido, de desembolsos de dinero efectuados por el socio por cuenta de la sociedad, de entregas \nde dinero para futuros aumentos de capital, o simplemente de saldos a su favor en cuenta corriente, \ncon la única condición de que se hayan incorporado al giro de la empresa, es decir, que se hayan \ninvertido en bienes de la sociedad, que se hayan empleado en pagar obligaciones de ella o que se \nhayan destinado a financiar gastos de explotación. \n \nSin embargo, atendida la modificación del numeral en análisis, en la que se suprimió la frase “o \nsocio de sociedades de personas”22, y que entra en vigencia el 1° de enero de 2015, cuando en la \ndeterminación del capital propio de una sociedad de personas, se esté en presencia de este tipo de \nvalores, deberán examinarse previamente los títulos mediante los cuales los bienes fueron \nincorporados por los socios a la respectiva sociedad para efectos de establecer la naturaleza que \ntributariamente les corresponde y determinar, de esa manera, si pueden considerarse como \nformando parte del capital propio23.  \n \nAsí, por ejemplo, el aporte de capital que un socio realice a una sociedad de personas, formará \nparte"
+    },
+    {
+      "name": "Oficio N°516 (08/02/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°516 (08/02/2019)",
+      "document_id": "ddb32655-9f3d-5844-8ec2-4060090aac73",
+      "chunk_uuid": "5281e16a-8d4b-5ba8-ad68-e0f8feef60f4",
+      "chunk_id": 4,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=516-08%2F02%2F2019.pdf&extension=pdf&acc=download&id=804e60bd-0726-426d-9aec-85a066a2a669&mediaType=application%2Fpdf",
+      "content": "al con todos los requisitos y solemnidades previstas en nuestro derecho común, pero que \npor falta o incumplimiento de alguno de esos requisitos no llegan a tener la calidad de sociedad \nde derecho”.   \n \nEntiende, asimismo, que la LIR asimila el tratamiento tributario de las sociedades de hecho al de \nlas comunidades, en concordancia con las normas de Derecho Privado18. \n \nAdicionalmente, define qué casos deberán considerarse como comunidad, especificando que \ncualquier caso en que dos o más personas desarrollen una “empresa o actividad colectiva”, que \nno tenga calidad de sociedad de hecho en los términos de la definición transcrita, será \nconsiderada comunidad para los efectos del impuesto a la renta. \n \nEn todo caso, deberá existir un dominio común del negocio o empresa que genera las rentas que \nse distribuirán19. \n \nRespecto a la naturaleza tributaria de estas entidades, se ha declarado que la falta de personalidad \njurídica implica que el contribuyente realmente es el comunero o socio, respecto de la proporción \nde su participación20, sin embargo, por efecto del artículo 6 de la LIR, se considera contribuyente \nde impuesto a la renta. \n \nSobre el caso en particular, es decir, la continuación del giro de la sociedad disuelta producto de \nuna fusión por incorporación, no hay pronunciamientos de este Servicio.  \n \nSin perjuicio de lo anterior, el Oficio N° 1542, de 15 de abril de 1992, dio respuesta a una \nconsulta relativa a la continuación de facto de una sociedad disuelta por la expiración del plazo \nde su vigencia, en el caso, el 31 de diciembre de 1985.  \n \nEn dicho caso, este Servicio indicó que la sociedad dejó de existir el día 01 de enero de 1986, por \nlo que, dentro del plazo de 2 meses, debió dar aviso de término de giro, salvo que entre en estado \nde liquidación, en cuyo caso el plazo comenzará una vez terminada la liquidación de la misma21. \n          \n17  Si bien no se tienen antecedentes de esta naturaleza, podría ser verificado en un proceso de fiscalización.  \n18  N° 2 de la Circular 143 de 1972, “Por consiguiente, para los efectos de su tributación, a las sociedades de hecho debe \ntratárseles como si fueran comunidades (…)”, criterio confirmado por el Oficio 1120, de 24 de marzo, N° 6, y Oficio N° 1429, \nde 16 de abril, N° 2, ambos del año 1987. \n19  Este criterio ha sido reiterado por este Servicio, por ejemplo, en el Oficio N° 1264, de 13 de junio de 1997, párrafo segundo del \nN° 2, y Oficio N° 926, de 05 de marzo de 2001, N° 4. En caso de no cumplirse este requisito, la renta será de la persona que \ntenga el dominio de la empresa o actividad.  \n20  Oficio N° 926, de 05 de marzo de 2001, párrafo final del número 3. \n21  Art. 69 del Código Tributario. \n\n\n \n \n5 \n \nInclusive, el Servicio indicó que, no habiendo liquidación, se estaría frente a un nuevo \ncontribuyente, sociedad de hecho, por lo que deberá dar cumplimiento a las obligaciones de \ninscribirse en el Rol Único Tributario e iniciar actividades. \n \nParticularmente, entiende el Servicio que la continuación del giro, a pesar de haberse producido \nla disolución de la sociedad, “presume un acuerdo de voluntades en términos de continuar en \nsociedad, pero que al faltar el cumplimiento de las formalidades o solemnidades requeridas, en \nla especie, escritura social, le da solamente existencia de hecho y no legal”22. Esto resulta \nprecisamente concordante con la definición transcrita de la Circular 143 de 1972. \n \nConsiderando que, en el caso de la consultante no procede liquidación, resulta lógico tratar a la \nAbsorbida como un nuevo contribuyente parece tener más asidero, en"
+    },
+    {
+      "name": "Oficio N°66 (13/01/1997)",
+      "source_type": "oficio",
+      "source": "Oficio N°66 (13/01/1997)",
+      "document_id": "cb3dbe34-5aaf-52e3-9aee-240d948bd502",
+      "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/feb12.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nJURISPRUDENCIA ADMINISTRATIVA FEBRERO 1997\nVENTAS Y SERVICIOS - NUEVO TEXTO LEY DE IMPUESTOS A LAS\nART. 8°, LETRA I)\nEL COBRO A COPROPIETARIOS Y ARRENDATARIOS DE UN EDIFICIO DE DEPARTAMENTOS POR\nOCUPACIÓN DE UN SECTOR DEL TERRENO O BIEN COMÚN DEL INMUEBLE PARA EL\nESTACIONAMIENTO DE VEHÍCULOS, NO SE ENCUENTRA GRAVADO CON EL IVA. (OF. NO 66, DEL\n13/01/97. I. INDIRECTOS).\n1.- POR PRESENTACIÓN DEL ANTECEDENTE, SE CONSULTA SI SE ENCONTRARÍA GRAVADO CON EL\nIMPUESTO AL VALOR AGREGADO, EL COBRO QUE SE HACE A LOS COPROPIETARIOS Y\nARRENDATARIOS DE UN EDIFICIO DE DEPARTAMENTOS SOBRE LA RENTA QUE MENSUALMENTE\nCANCELAN A LA COMUNIDAD ADMINISTRADORA DEL EDIFICIO, POR LA OCUPACIÓN O ARRIENDO DE\nUN SECTOR DEL TERRENO O BIEN COMÚN DEL INMUEBLE EN EL CUAL SE LEVANTA EL EDIFICIO Y\nQUE DESTINAN A ESTACIONAR SUS AUTOMÓVILES. AGREGA, QUE EL FUNDAMENTO PARA SOLICITAR\nESTE PRONUNCIAMIENTO, ES LA EXISTENCIA DE ARGUMENTOS EN EL SENTIDO QUE, POR TRATARSE\nDE UN BIEN COMÚN, LOS PAGOS REFERIDOS NO ESTARÍAN AFECTADOS POR LA DISPOSICIÓN LEGAL\nTRANSCRITA. 2.- PARA RESOLVER SOBRE LA MATERIA ES PRECISO TENER EN CONSIDERACIÓN LO\nDISPUESTO EN LA LETRA I) DEL ARTICULO 8° DEL DL N° 825, DE 1974. ARTICULO 8°. EL IMPUESTO DE\nESTE TITULO (IVA) AFECTA A LAS VENTAS Y SERVICIOS. PARA ESTOS EFECTOS SERÁN CONSIDERADAS\nTAMBIÉN COMO VENTAS Y SERVICIOS, SEGÚN CORRESPONDA: ..................................... I) EL\nESTACIONAMIENTO DE AUTOMÓVILES Y OTROS VEHÍCULOS EN PLAYAS DE ESTACIONAMIENTO U\nOTROS LUGARES DESTINADOS A DICHO FIN. 3.- AL RESPECTO, CABE EXPRESAR QUE EN LA ESPECIE,\nEL COBRO QUE SE EFECTÚA POR LA COMUNIDAD ADMINISTRADORA DEL EDIFICIO A LOS\nCOPROPIETARIOS Y ARRENDATARIOS DEL MISMO, POR LA OCUPACIÓN DE UN SECTOR DEL TERRENO\nO BIEN COMÚN DEL INMUEBLE, NO SE ENCUENTRA GRAVADO CON EL IMPUESTO AL VALOR\nAGREGADO, DE ACUERDO A LO DISPUESTO EN LA LETRA I) DEL ARTICULO 8° DEL DL N° 825, DE 1974\nANTES TRANSCRITO, EN ATENCIÓN, A QUE POR UNA PARTE, EL SECTOR DEL EDIFICIO UTILIZADO POR\nLOS COPROPIETARIOS Y ARRENDATARIOS PARA ESTACIONAR SUS VEHÍCULOS, NO CONSTITUYE UNA\nPLAYA DE ESTACIONAMIENTO NI UN LUGAR QUE ESTE DESTINADO A ESTE FIN SUSCEPTIBLE DE SER\nEXPLOTADO COMO TAL, POR CUANTO ESTOS ESPACIOS ESTÁN DESTINADOS A SER OCUPADOS POR\nLOS RESIDENTES DEL EDIFICIO, Y POR OTRA PARTE, EL DERECHO AL USO Y GOCE DE TALES\nESTACIONAMIENTOS, DERIVA DE UN CONTRATO PRINCIPAL, SEA ESTE DE COMPRAVENTA O\nARRENDAMIENTO DE LOS DEPARTAMENTOS UBICADOS EN EL REFERIDO EDIFICIO. JAVIER\nETCHEBERRY CELHAY\nDIRECTOR\nOFICIO N° 66, DEL 13.01.97\nSUBDIRECCION NORMATIVA\nDEPTO. IMPUESTOS INDIRECTOS\n"
+    },
+    {
+      "name": "Oficio N°934 (02/04/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°934 (02/04/2015)",
+      "document_id": "bb8d3962-5b47-519e-9492-993086bbf7eb",
+      "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/renta/ja934.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2015\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 54°, N°1, ART. 56°, N°3, ART. 60°, ART. 63°,\nART. 68°, LETRA A) y OFICIO N° 5.352, DE 2003. (ORD. N° 934, DE 02.04.2015)\nSITUACIÓN TRIBUTARIA DE UNA COMUNIDAD DE EDIFICIO, RESPECTO DE LOS INGRESOS\nOBTENIDOS POR ARRIENDO DE ESPACIOS COMUNES PARA FUNCIONAMIENTO DE ANTENAS DE\nCELULAR.\nI.- ANTECEDENTES.\nSeñala que una comunidad existente en un edificio, arrienda espacios comunes (una azotea) para el\nfuncionamiento de antenas de celular. Al respecto, indica que debe determinar si corresponde pagar Pagos\nProvisionales Mensuales, e Impuesto de Primera Categoría por este ingreso, y el destino o uso del crédito\npor dicho impuesto y, particularmente, si éste puede ser utilizado por los comuneros.\nAñade que en su opinión los ingresos están afectos al Impuesto de Primera Categoría y los comuneros no\npodrían hacer retiros, ya que es una comunidad sin fines de lucro y no está constituida como sociedad.\nII.- ANÁLISIS.\nLa situación en consulta ya ha sido analizada y resuelta por este Servicio a través de su jurisprudencia, la\nque puede ser consultada en la página en su página web www.sii.cl. En dicha jurisprudencia se ha señalado\nque la naturaleza jurídica de la copropiedad inmobiliaria, regulada por la Ley N° 19.537, corresponde al de\nuna comunidad; coexistiendo varias propiedades exclusivas sobre las respectivas unidades, con la\ncomunidad sobre ciertos bienes de dominio común.\nLas comunidades carecen de personalidad jurídica, y por consiguiente el contribuyente no es la comunidad\nmisma sino que cada comunero en particular por la proporción de las rentas efectivas o presuntas que le\ncorrespondan en ella . No obstante lo anterior, a las comunidades yentes sin personalidad jurídicay este\nServicio las ha considerado como contribuyentes para los efectos de la Ley sobre Impuesto a la Renta (LIR),\nen la medida que den cumplimiento a determinados requisitos y condiciones, y al verificarse éstos, conforme\na lo dispuesto en los artículos 66 y 68 del Código Tributario se les inscribe en el Rol Único Tributario y\npueden presentar una declaración de iniciación de actividades. En tal sentido, este Servicio mediante Circular\nN° 143 de 1972, sobre tratamiento tributario de este tipo de entidades, ha establecido que será condición\nindispensable para tratar tributariamente a las comunidades como contribuyentes para los efectos tributarios,\nque se pruebe fehacientemente el dominio en común del negocio o empresa que genera las rentas a\ndistribuirse entre los comuneros.\nUna comunidad de edificio que arrienda espacios comunes, puede actuar como un contribuyente de la\nPrimera Categoría, y en la medida que desarrolle una actividad cualquiera, de aquellas a que se refiere el\nartículo 20 de la LlR, como la indicada, la que constituye una actividad comercial clasificada en el N° 1 de\ndicha norma, está afecta a las disposiciones de dicha Categoría, alcanzándole, entre otras, las siguientes\nobligaciones tributarias:\na) Impuesto de Primera Categoría, con tasa de 21%, respecto del año comercial 2014 , aplicada sobre la\nbase imponible de dicho tributo determinada de acuerdo al mecanismo establecido en los artículos 29° al 33°\nde la LlR;\nb) Efectuar Pagos Provisionales Mensuales, de acuerdo a una tasa variable, aplicada sobre los ingresos\nbrutos percibidos o devengados, en cada mes, conforme a lo establecido en la letra a) del artículo 84 de la\nLlR ;\nc) Cumplimiento de todas aquellas exigencias de car"
+    },
+    {
+      "name": "Oficio N°25 (07/01/2026)",
+      "source_type": "oficio",
+      "source": "Oficio N°25 (07/01/2026)",
+      "document_id": "1a7da548-b426-54c6-a69b-68f843c358ca",
+      "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=25-07%2F01%2F2026.pdf&extension=pdf&acc=download&id=cde8460a-4b0d-47a2-89e8-abd47e845679&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 20 N° 1, ART. 39 N° 3 – LEY SOBRE \nIMPUESTO A LAS VENTAS Y SERVICIOS – ART. 8 LETRA G), ART. 12 LETRA E N° 11 \n– CÓDIGO TRIBUTARIO – ART. 66, ART. 68 – LEY N° 21.442 – ART. 26 – CIRCULAR N° \n143 DE 1972 – RESOLUCIONES EX. N° 6080 Y N° 6444 DE 1999 \n(ORD. N° 25, DE 07.01.2026) \n \n \nArriendo de bienes comunes (sitios eriazos) por parte de una comunidad de copropietarios \nregida por la Ley N°21.442. \n \nDe acuerdo con su presentación, tras señalar que una comunidad de copropietarios regida por la Ley \nN° 21.442 proyecta dar en arriendo terrenos de dominio común (sitios eriazos de entre 2.500 a 5.000 \nm2) a terceros, con el objeto de incrementar el fondo de reserva y solventar gastos comunes, sin que \nlas utilidades sean distribuidas como beneficio a los copropietarios, en lo fundamental consulta si \ndichos ingresos constituyen renta y si corresponde emitir facturas o recibos.  \n \nAl respecto, en términos generales, se informa lo siguiente:  \n \n1) Las comunidades carecen de personalidad jurídica y, por consiguiente, el contribuyente no es la \ncomunidad misma sino cada comunero en particular por la proporción de las rentas efectivas o \npresuntas que le correspondan.  \n \nNo obstante lo anterior, este Servicio ha considerado a las comunidades como contribuyentes para \nlos efectos de la Ley sobre Impuesto a la Renta (LIR), en la medida que cumplan a determinados \nrequisitos.  \n \nVerificados los requisitos, se les inscribe en el rol único tributario y pueden presentar una \ndeclaración de iniciación de actividades, conforme a lo dispuesto en los artículos 66 y 68 del \nCódigo Tributario.  \n \nConstituye condición indispensable para tratar tributariamente a las comunidades como \ncontribuyentes, que se pruebe fehacientemente el dominio en común del negocio o empresa que \ngenera las rentas1.  \n \n2) Precisado lo anterior, salvo excepciones taxativas, se hace presente que la LIR no atiende a la \nnaturaleza o finalidad del contribuyente, sino que las actividades que realizan, los actos y \ncontratos que ejecutan y los beneficios económicos que puedan obtener2.  \n \nLuego, para los efectos de aplicar el impuesto a la renta es irrelevante que la comunidad carezca \nde fines de lucro o que la Ley N° 21.442 disponga que las rentas de arrendamiento de bienes de \ndominio común deben ingresar al fondo común de reserva3.  \n \n3) Conforme lo anterior, las comunidades de copropietarios regidas por la Ley N°21.442 pueden \nactuar como contribuyentes de IDPC respecto de los ingresos provenientes del arriendo de bienes \nraíces de dominio común, clasificados como rentas del N° 1 del artículo 20 de la LIR4.  \n \nPara tal efecto, la comunidad deberá inscribirse en el rol único tributario, presentar una \ndeclaración de iniciación de actividades, y cumplir las demás obligaciones accesorias \nrelacionadas con el desarrollo de su actividad. \n \n4) En cuanto al IVA, se informa que el N° 11 de la letra E del artículo 12 de la Ley sobre Impuesto a \nlas Ventas y Servicios (LIVS) exime de IVA el arrendamiento de inmuebles, sin perjuicio de lo \ndispuesto en la letra g) del artículo 8° del mismo cuerpo legal.  \n \n \n1 Ver instrucciones en la Circular N° 143 de 1972. Ver también Oficios N° 5352 de 2003, N° 1740 de 2016, N° 1986 de 2019. \n2 Ver Oficio N°5352 de 2003"
+    },
+    {
+      "name": "Oficio N°1936 (17/06/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°1936 (17/06/2022)",
+      "document_id": "378c5dea-3cd4-548e-9f6b-93b4b0adf7f5",
+      "chunk_uuid": "2354e2e4-f204-5024-ac40-57b959bc3369",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1936-17%2F06%2F2022.pdf&extension=pdf&acc=download&id=95b1dafa-285e-4c2c-b953-1448ddbebac6&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42 N° 2 – CÓDIGO TRIBUTARIO, \nART. 68 \n(ORD. N° 1936 DE 17.06.2022). \nObligación de emitir boleta de honorarios por parte de una persona natural que presta servicios a \nuna comunidad habitacional. \nDe acuerdo con su presentación, consulta respaldar el gasto que hace una comunidad de edificios, \npersona jurídica sin inicio de actividades, por los pagos que realiza a algún maestro o a un jardinero, \netc., ya que, no podría emitir una boleta de prestación de servicios de terceros al no tener inicio de \nactividades. \nAl respecto se informa que, las comunidades de edificios que no registran actividad económica \nsusceptible de generar impuestos y solo administran un fondo en común para financiar los gastos de \noperación y mantención del edificio, no se encuentran obligadas a comunicar inicio de actividades, por \nno concurrir los presupuestos legales establecidos en el artículo 68 del Código Tributario. \nEn consecuencia, solo tendrían obligación de obtener rol único tributario en atención a las normas \ncontenidas en el Reglamento del sistema de rol único tributario, especialmente su artículo 3°, y las \ninstrucciones contenidas en la Circular N° 31 de 20071. \nAsimismo, este Servicio ha informado que una persona natural que percibe ingresos por la prestación de \nservicios de aquellos a que se refiere el N° 2 del artículo 42 de la Ley sobre Impuesto a la Renta (LIR) a \nuna comunidad habitacional, debe emitir una boleta de honorarios por los ingresos recibidos, \ncumpliendo las formalidades establecidas por este Servicio. La retención del impuesto respectivo debe \nser efectuada por la persona que efectúe el pago de los honorarios, en caso que sea un contribuyente de \nla primera categoría obligado por ley a llevar contabilidad. En caso contrario, el propio perceptor de los \ningresos deberá enterar en arcas fiscales el pago provisional que establece la letra b) del artículo 84 de la \nLIR2. \nConforme a lo anterior, una comunidad de edificios que no se encuentre obligada a efectuar inicio de \nactividades, por no desarrollar una actividad económica susceptible de generar impuestos, deberá \nrespaldar los gastos que efectúe por la contratación de servicios de terceros, de aquellos clasificados en \nel N° 2 del artículo 42 de la LIR, mediante la respectiva boleta de honorarios que debe emitir el \nprestador de los servicios3. \nSaluda a usted,  \n \nHERNÁN FRIGOLETT CÓRDOVA \n \n \n \n \n       \n       \n \n DIRECTOR \n \nOficio N° 1936 del 17-06-2022 \nSubdirección Normativa \nDepto. de Impuestos Directos \n          \n1 Preguntas Frecuentes, ID: 001.105.5519.003 \n2 Oficios N° 1977 de 2015 y N° 1592 de 1995. \n3 Resolución Ex. N° 1414 de 1978. \n"
+    },
+    {
+      "name": "Oficio N°1995 (23/05/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°1995 (23/05/2000)",
+      "document_id": "db577825-7cb8-5996-8e93-9791bd9a1a7a",
+      "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/ventas/junio01.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nEmpresa contratada por administración de edificio – Cobros por servicios de energía\neléctrica, ascensores y otros – No procede que empresa contratada facture a cada\ncopropietario los cobros por servicios – Distribución de dichos gastos entre los\ncopropietarios no constituye por sí misma hecho gravado con el Impuesto al Valor\nAgregado.\n1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente,\nmediante la cual solicita un pronunciamiento de esta Superioridad sobre el\nprocedimiento utilizado por un administrador de edificios de oficinas para cobrar los\ngastos comunes.\nSeñala que, dada la complejidad técnica que tiene la administración de equipos\nsofisticados de ascensores, seguridad, incendio, servicios eléctricos y otros, el\nadministrador de un edificio de oficinas encarga a una empresa especializada la\nadministración de dichos servicios, pagándole a esa sociedad una remuneración fija\nmensual.\nA su vez, esta sociedad recibe las facturas correspondientes a cobros de energía\neléctrica, ascensores y otros, de terceros especializados. Estos servicios son a su vez\nfacturados, recargando el impuesto al valor agregado, a cada uno de los copropietarios,\nen la proporción que les corresponda, cobrando además a la administración del edificio\nsus honorarios por este servicio.\nFinalmente la administración del edificio cobra a cada copropietario el resto de los\ngastos de administración, como personal, útiles y otros mediante emisión de cobranza\nsin IVA, absorbiendo el impuesto al valor agregado como costo para el cobro de su\nreembolso por cada propietario.\n2.- Sobre el particular, cumplo con informar a Ud. que no procede que la empresa\ncontratada por la administración del edificio facture a cada copropietario de la\nComunidad -recargando el impuesto al valor agregado- los cobros por servicios de\nenergía eléctrica, ascensores y otros, facturados originalmente a ella, toda vez que no\nsería ésta la prestadora de dichos servicios.\nAsí las cosas, si esos servicios le están siendo facturados a ella directamente debe\nasumirlos como costo, e incluirlos en el precio que cobre por el servicio que, a su vez,\npresta a la administración del edificio.\nSin embargo, el impuesto al valor agregado recargado en las facturas por concepto de\nenergía eléctrica, ascensores y otros, no puede nunca ser utilizado por la empresa como\ncrédito fiscal puesto que no es ella la beneficiaria de esos servicios, sino que la\ncomunidad formada por los propietarios del edificio, a quienes efectivamente se les está\nprestando dicho servicio.\n3.- En cuanto al cobro de los gastos comunes que realiza la administración del edificio,\nprocede que los efectúe sin recargar el impuesto al valor agregado, ya que la\ndistribución de dichos gastos entre los copropietarios, no constituye por sí misma, hecho\ngravado con el impuesto al valor agregado al tenor del Artículo 2°, N° 2, del D.L. N° 825.\nFinalmente, cabe señalar que el impuesto al valor agregado soportado en las facturas\npor todos aquellos servicios utilizados o bienes adquiridos por la comunidad, no puede\nser recargado separadamente en el cobro de los gastos comunes, debiendo\nconsiderarse, para esos fines, como un mayor gasto.\n \nJAVIER ETCHEBERRY CELHAY\nDIRECTOR\n \n\n\nOficio Nº 1.995, del 23.05..2000\nSubdirección Normativa\nDepto. de Impuestos Indirectos\n \n"
+    },
+    {
+      "name": "Oficio N°700 (10/04/2013)",
+      "source_type": "oficio",
+      "source": "Oficio N°700 (10/04/2013)",
+      "document_id": "a2dc13c3-fabb-507c-bf79-4a6c52c9ef23",
+      "chunk_uuid": "7b21ef36-19ff-5ce5-8e62-02ac368543f5",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2013/renta/ja700.htm",
+      "content": " Tributario y pueden presentar una\ndeclaración de iniciación de actividades.\nEn tal sentido, la Circular N°143, de 1972, de este Servicio, sobre el tratamiento tributario de este tipo de\nentidades, ha establecido que será condición indispensable para tratar a las comunidades como\ncontribuyentes para efectos tributarios, el que se pruebe fehacientemente el dominio común del negocio o\nempresa que genera las rentas a distribuirse entre los comuneros, y, en ese sentido, la comunidad debe\ntributar con el Impuesto de Primera Categoría, en la oportunidad en que las rentas se devengaron o\npercibieron y los respectivos comuneros con el impuesto Global Complementario o Adicional, según\ncorresponda, sobre la base de los retiros que hayan efectuado durante el ejercicio, en la medida que la\ncomunidad se encuentre sujeta a dicha modalidad de tributación al declarar en la Primera Categoría, su renta\nefectiva mediante contabilidad completa y balance general, y, en el evento que la comunidad declare en la\nPrimera Categoría su renta efectiva determinada mediante una contabilidad simplificada debidamente\nautorizada para ello, tanto el Impuesto de Primera Categoría de la comunidad, como los impuestos Global\nComplementario o Adicional, según corresponda, que gravan a los comuneros, deberán declararse en la\nmisma oportunidad en que fueron devengadas o percibidas dichas rentas.\nEn base a lo anterior, el Oficio mencionado indica que las comunidades de edificios regidas por la Ley N°\n19.537, pueden actuar como contribuyentes de Primera Categoría si desarrollan una actividad cualquiera de\naquellas clasificadas en el artículo 20 de la la LIR, alcanzándoles, entre otras, la obligación de pagar el\nImpuesto de Primera Categoría, aplicada sobre la base imponible de dicho tributo, determinada de acuerdo al\n\n\nmecanismo establecido en los artículos 29 al 33 de la LIR, por lo cual debe concluirse que es posible que una\ncomunidad regida por las disposiciones de la Ley N° 19.537, en la medida que pruebe fehacientemente el\ndominio de un negocio común o empresa, puede ser considerada como un contribuyente para efectos\ntributarios, y en consecuencia, junto con cumplir las obligaciones de carácter contable y administrativas\nseñaladas, podrá deducir los gastos necesarios para producir la renta de la comunidad, entre ellos, el de\ndeducir la cuota anual de depreciación de los bienes físicos del activo inmovilizado que integren el negocio o\nempresa, conforme a las reglas del N° 5, del artículo 31 de la LIR.\nIII.- CONCLUSIÓN.\nTeniendo en consideración que una comunidad nacida al amparo de las disposiciones de la Ley N°19.537,\npuede actuar como un contribuyente del Impuesto de Primera Categoría de la LIR, pese a carecer de\npersonalidad jurídica, y en base a ello, determinar su renta líquida imponible afecta a tal impuesto, de\nacuerdo a lo dispuesto en los artículos 29 al 33 de la LIR, cabe señalar que para tal efecto, debe cumplir con\ntodas las obligaciones de carácter contable y administrativas antes señaladas, pudiendo deducir como gasto,\nla cuota anual de depreciación de los bienes físicos del activo inmovilizado que integren el negocio o\nempresa, conforme a las reglas del N° 5, del artículo 31 de la LIR, en la medida que pruebe fehacientemente\nel dominio en común del negocio o empresa que genera las rentas a distribuirse entre ellos, y siendo así,\nprocederá el registro de tales bienes en su contabilidad, excluyendo la posibilidad de efectuar tal registro,\nrespecto de bienes que son ajenos al desarrollo del negocio o empresa de la comunidad.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 700, de 10.04.2013\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°1267 (11/06/2013)",
+      "source_type": "oficio",
+      "source": "Oficio N°1267 (11/06/2013)",
+      "document_id": "d14bb6de-902d-5765-a864-771739cb840c",
+      "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2013/renta/ja1267.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2013\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y OFICIOS N° 4116, DE 1999 Y N°5352, DE 2003.\n(ORD. N° 1267, DE 11.06.2013)\nOBLIGACIONES TRIBUTARIAS QUE AFECTAN A UNA COMUNIDAD DE COPROPIETARIOS DE\nDEPARTAMENTOS EN LA SITUACIÓN QUE SE INDICA.\nSe ha solicitado un pronunciamiento a este Servicio sobre las obligaciones tributarias que pesan sobre una\ncomunidad de copropietarios de departamentos en la cual vive, la cual obtiene ingresos del arrendamiento de\nparte del inmueble común.\nI.- ANTECEDENTES.\nSeñala que el departamento perteneciente al edificio en el cual reside, del cual su cónyuge es copropietaria\nhace 14 años, en épocas pasadas celebró por intermedio de su Comité de Administración, un contrato con\nuna empresa de telecomunicaciones, en virtud del cual la compañía instaló dos ascensores nuevos para el\nedificio a cambio de empotrar una torre de telefonía celular en su parte superior, con la condición de no\nefectuar ninguna cancelación en 10 años. El valor total de tal implementación fue fijado en 40 millones en\naquel entonces.\nIndica que expirado el contrato anterior, los integrantes del Comité acordaron uno nuevo con la empresa de\ntelecomunicaciones, por un lapso de 5 años, renovables de forma automática, salvo que por decisión\nunilateral de las partes se desee dar término a lo convenido.\nEn mérito a ello, manifiesta que desde hace 4 años a la fecha, el pago por tal concepto se efectúa en el mes\nde noviembre, por año adelantado, sobre la base de una determinada cantidad de Unidades de Fomento,\nque en la actualidad significan una suma superior a $9.000.000.-, haciendo presente que la comunidad posee\nRUT.\nPor lo anterior, consulta si respecto de la suma que percibe anualmente la comunidad por el arriendo del\nespacio del inmueble para la instalación de dicha antena, ésta se encuentra obligada a efectuar alguna\ndeclaración y pago de algún impuesto.\nII.- ANÁLISIS.\nLa situación en consulta ya ha sido analizada y resuelta por este Servicio a través de pronunciamientos\nanteriores, dentro de los cuales pueden mencionarse los oficios N°s 4.116 de 1.999 y 5.352 de 2003.\nIII.-CONCLUSIÓN.\nConforme a lo señalado, cabe informar a Ud. que las consultas planteadas en materia de Impuesto a la\nRenta e Impuesto a las Ventas y Servicios, se encuentran resueltas en los oficios referidos.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 1267, de 11.06.2013\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Resolución N°120 (12/10/2011)",
+      "source_type": "resolucion",
+      "source": "Resolución N°120 (12/10/2011)",
+      "document_id": "39242214-d2a2-5228-bae7-db66f8bad087",
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2011/reso120.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRESOLUCION EXENTA SII N°120 DEL 12 DE OCTUBRE DEL 2011\nMATERIA : ESTABLECE PROCEDIMIENTO DE EMISIÓN DE CUPÓN DE PAGO DEL FORMULARIO N° 50, QUE SEA PRESENTADO POR INTERNET.\nHoy se ha resuelto lo que sigue:\nVISTOS: Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del\nMinisterio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980; en los artículos 6°, letra A, N° 1, 29 y 30, inciso primero, del Código Tributario,\ncontenido en el artículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley\nN° 824, de 1974, y sus modificaciones; las instrucciones contenidas en la Circular N° 37, de 16 de Julio de 2004, de este Servicio; la Resolución Exenta SII N° 27,\ndel 27 de Julio de 2001, modificada por Resoluciones Ex. SII Nos 87, de 08 de septiembre 2004; 94, de 23 de septiembre de 2005; 27, de 25 de febrero de 2009; 78,\nde 28 de mayo 2009; 144, de 31 de Agosto de 2010; y N° 41, de 29 de marzo de 2011; y las instrucciones contenidas en la Resolución Ex. SII N° 29, del 31 de Julio\nde 2001, y,\nCONSIDERANDO:\n1°        Que, el Servicio de Impuestos Internos, mantiene un interés constante de contribuir eficazmente con el desarrollo y masificación de las tecnologías de\ninformación, de facilitar la forma de declarar y pagar los impuestos, de dar una mejor atención al contribuyente y de eliminar la burocracia y trámites innecesarios;\n2°        Que, el inciso segundo del artículo 30 del Código Tributario, confiere a la Dirección del Servicio la facultad de autorizar a los contribuyentes para que\npresenten los informes y declaraciones en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;\n3°        Que, mediante Resolución Ex. N° 27, de 27 de julio de 2001, se dispuso la creación del Formulario N° 50 de declaración y pago simultáneo mensual de\nimpuestos, modificada por  Resoluciones Ex. SII Nos 87, de 08 de septiembre 2004; 94, de 23 de septiembre de 2005; 27, de 25 de febrero de 2009; 78, de 28 de\nmayo 2009; 144, de 31 de Agosto de 2010; y N° 41, de 29 de marzo de 2011.\n4°        Que, este Servicio, mediante Circular N° 37, de 16 de Julio de 2004, impartió instrucciones relativas al procedimiento de declaración y rectificatoria del\nFormulario 50 de Declaración y Pago Simultáneo Mensual de Impuestos, estableciendo que - para facilitar el referido proceso e incentivar la presentación a través\nde Internet del referido formulario- habilitó una aplicación en su página Web que permite su presentación, mediante transmisión electrónica de datos, vía Internet,\nsiempre que el contribuyente efectúe el correspondiente pago en línea.  \n5°        Que, a fin de incentivar la presentación a través de Internet del Formulario N° 50, es necesario establecer una modalidad de pago adicional que permitirá, a\nlos contribuyentes que declaren por dicha vía, poder efectuar la cancelación de los impuestos correspondientes, a través de la presentación ante las Instituciones\nRecaudadoras Autorizadas, de un cupón de pago que se generará, en forma electrónica, por medio de una aplicación habilitada para dichos efectos en la  página"
+    },
+    {
+      "name": "Circular N°21 (19/04/2016)",
+      "source_type": "circular",
+      "source": "Circular N°21 (19/04/2016)",
+      "document_id": "414bd968-e7f7-5f11-ae51-1253ac5c3eed",
+      "chunk_uuid": "a209a54b-29ae-5e9a-bce8-c12c76ec6e47",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/documentos/circulares/2016/circu21.pdf",
+      "content": "os de la entidad controlada susceptibles de \nproducir rentas pasivas, considerados proporcionalmente según su permanencia en el \nejercicio, no exceda de un 20% del valor total de sus activos, determinado también \nproporcionalmente en la forma señalada. Tampoco se aplicará cuando las rentas pasivas de \nla entidad controlada se hayan gravado con impuestos a la renta cuya tasa efectiva sea igual \no superior a un 30% en el país donde se encuentre domiciliada, establecida o constituida \ndicha entidad; se incorpora la posibilidad de imputar como crédito el impuesto de retención \npagado al momento de percibir dividendos y otras utilidades del exterior. \n \nf) Artículo 41 H7: Se precisan las hipótesis de las letras d) y e) de la misma norma, para \ndeterminar cuándo un territorio o jurisdicción tiene un régimen fiscal preferencial. \n          \n1 Artículo 1°.- numerales 1. al 7., de la Ley. \n2 Artículo 1°.- N° 1., de la Ley \n3 Artículo 1°.- N° 2., de la Ley \n4 Artículo 1°.- N° 3., de la Ley \n5 Artículo 1°.- N° 4., de la Ley \n6 Artículo 1°.- N° 5., de la Ley \n7 Artículo 1°.- N° 6., de la Ley \n\n\n \n4 \n \n \ng) Artículo 59 inciso 4° N°28: Se mantiene el deber de informar las operaciones exentas de IA \nal Servicio, pero esta información, deja de ser un requisito para efectos de que opere la \nexención; y se elimina la facultad del Servicio para aplicar la facultad de tasación del artículo \n36 de la LIR. \n \n \nA.1.2) Modificaciones al Artículo 3° transitorio de la Ley N° 20.7809.  \n \n \nSe modifican los siguientes numerales del artículo tercero de las disposiciones transitorias de la Ley \n20.780: \n \na) Numeral I10: Se modifican las reglas relacionadas con la transición del régimen general de \ntributación establecido en la letra A), del artículo 14 de la LIR, vigente hasta el 31 de \ndiciembre de 2016, hacia los nuevos regímenes de tributación vigentes a partir del 1° de \nenero de 2017, producto de las modificaciones introducidas a éstos últimos por la Ley, todo lo \nanterior con el objeto de simplificar la referida transición. En términos generales, se precisa a \nqué registros de los que deben llevar los contribuyentes a contar del 1° de enero de 2017, \nsegún si tributarán conforme al régimen del artículo 14 letra A) o régimen del artículo 14 letra \nB), deberán incorporar tanto las utilidades tributables acumuladas al 31 de diciembre de 2016, \ncomo los ingresos no constitutivos de renta o utilidades exentas de los impuestos finales y el \nsaldo total de los créditos de los artículos 56 N° 3 y 63 de la LIR, estableciéndose, además \nreglas relativas al control de las rentas o cantidades que dan cuenta los referidos \nantecedentes; se modifica el orden de imputación de los retiros, remesas y distribuciones que \nse efectúen a partir del 1° de enero de 2017; se precisa el tratamiento de las devoluciones de \ncapital efectuadas a partir del 1° de enero de 2017 y de las sumas retiradas, remesadas o \ndistribuidas por dicho concepto; se precisa el tratamiento tributario de los retiros en exceso \nque se mantengan al 31 de diciembre de 2016; se precisa el tratamiento tributario del término \nde giro, efectuado a partir del 1° de enero de 2017, de contribuyentes sujetos a los regímenes \nde renta atribuida o de imputación parcial de créditos, que mantengan los saldos de rentas o \ncantidades que la norma establece; y se establecen los requisitos que deben cumplir los \ncontribuyentes que hayan iniciado actividades con anterioridad al 1° de jun"
+    },
+    {
+      "name": "Resolución N°10 (23/01/2013)",
+      "source_type": "resolucion",
+      "source": "Resolución N°10 (23/01/2013)",
+      "document_id": "d5f578e3-6476-524e-8c22-22b74845dfb4",
+      "chunk_uuid": "74fcf25d-8d58-5cbe-a6ad-ffb0daf285da",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2013/reso10.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nSERVICIO DE IMPUESTOS INTERNOS \nSUBDIRECCIÓN DE FISCALIZACIÓN \nDEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL \n \n \nSUSTITUYE ESTRUCTURA Y CONTENIDO DEL \nFORMULARIO N° 50 SOBRE DECLARACIÓN Y \nPAGO SIMULTÁNEO DE IMPUESTOS.  \n \n  \n \nSANTIAGO, 23 de enero de 2013.- \n \n \nHoy se ha resuelto lo que sigue: \n \n \nRESOLUCIÓN EX. SII Nº __10.-_______/ \n \n \n \nVISTOS: Las facultades contempladas en los \nartículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° \ndel   D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de \n1980; en el artículo 6°, letra A, N° 1 y en los artículos 29, 30 inciso primero del Código Tributario, \ncontenido en el artículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre \nImpuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, y sus \nmodificaciones contenidas en la Ley N°20.630, de 2012; y lo dispuesto en la Resolución Exenta SII \nN° 27, de 27 de julio de 2001, modificada mediante Resoluciones Exentas SII N°s 87, de 08 de \nseptiembre 2004; 94, de 23 de septiembre de 2005; 27, de 25 de febrero de 2009; 78, de 28 de \nmayo 2009; 144, de 31 de agosto de 2010; y 41, de 29 de marzo de 2011; y \n \n \nCONSIDERANDO: \n \n1° Que, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° \nde su Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el \ncumplimiento de las obligaciones tributarias de los contribuyentes;  \n2° Que, mediante la Resolución Exenta N° 27, de \n27 de julio de 2001, se dispuso la creación del Formulario N° 50 de declaración y pago simultáneo \nmensual de impuestos, actualizando posteriormente su diseño mediante Resoluciones Exentas SII \nN°s 87, de 08 de septiembre 2004; 94, de 23 de septiembre de 2005; 27, de 25 de febrero de 2009; \n78, de 28 de mayo 2009; 144, de 31 de agosto de 2010; y 41, de 29 de marzo de 2011; \n3° Que, con motivo de la Ley N° 20.630, publicada \nen el Diario Oficial el 27 de septiembre de 2011, que perfecciona la legislación tributaria y financia \nla reforma educacional, modificando, entre otras normas, aquellas que dicen relación con las \nretenciones de impuestos que deben practicarse a personas sin domicilio ni residencia en Chile, \ncontenidas en el N°4 del artículo 74 de la Ley sobre Impuesto a la Renta, surge la necesidad de \nadecuar el Formulario 50 “Declaración y Pago simultáneo de Impuestos”;  \n4° Que, de acuerdo a lo establecido en el artículo \n29 del Código Tributario la presentación de declaraciones con el objeto de determinar la \nprocedencia o liquidación de un impuesto, se hará de acuerdo con las normas legales o \nreglamentarias y con las instrucciones que imparta la Dirección de este Servicio, incluyendo toda la \ninformación que fuere necesaria;   \n5° Que, a su vez, en el artículo 30 del Código \nTributario se establece que las declaraciones se presentarán por escrito, bajo juramento, en las \noficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exig"
+    },
+    {
+      "name": "Oficio N°5699 (20/11/2003)",
+      "source_type": "oficio",
+      "source": "Oficio N°5699 (20/11/2003)",
+      "document_id": "3e96791f-15a0-5b49-9598-49598d23f44c",
+      "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl//normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2003/ja5699.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nï»¿\nVENTAS Y SERVICIOS â€“ NUEVO TEXTO â€“ OFICIO NÂ° 4155, DE 1999. (Ord. Nº 5699, de 20-11-\n2003)\nADMINISTRACIÃ“N DE EDIFICIOS. SOLICITA RECONSIDERACIÃ“N DE OFICIO QUE INDICA.\n1.-     Se ha recibido en esta Dirección Nacional su oficio del antecedente, mediante el cual solicita un\npronunciamiento acerca de la solicitud de reconsideración de Ord. N° 166, de 18/6/2003, emitido por esa\nDirección Regional y presentada por XXXX, en representación de TTTTT\n2.-   Con fecha 2/6/2003, el contribuyente consultó a esa Dirección Regional, respecto de la tributación con\nimpuesto al valor agregado que afecta al servicio conocido comúnmente como “administración de edificios”.\nEn dicha presentación expuso que el servicio consiste en:\nMantener en el condominio una nómina actualizada de los copropietarios, con sus respectivos\ndomicilios registrados.\nMantener actualizado el archivo de documentos del edificio y a disposición de los copropietarios.\nLlevar en estricto orden la cuenta corriente bancaria del condominio y registrar todos los gastos en que\nincurra el mismo.\nSupervisar que se mantengan en perfecto estado de conservación las instalaciones, iluminación, útiles\ny otros bienes del edificio, incluido los bienes de dominio común.\nCumplir las instrucciones, que digan relación con sus funciones, impartidas por el Comité de\nAdministración, e informar inmediatamente de cualquier inconveniente que surgiera.\nSupervisar los actos de administración y conservación ordinarios como los de carácter urgente, sin\nrecabar previamente acuerdo de la asamblea, sin perjuicio de su posterior ratificación.\nDeterminar y cobrar periódicamente y con toda puntualidad los gastos comunes a todos los\ncopropietarios.\nSupervisar que se mantengan al día el pago de las remuneraciones y cotizaciones del personal\ndependiente de la comunidad o, cuando corresponda, de los subcontratistas que sean requeridos por la\ncomunidad.\nRepresentar en juicio, activa y pasivamente a los copropietarios, con las facultades del inciso primero\ndel artículo 7°, del Código de Procedimiento Civil, en las causas concernientes a la administración y\nconservación del edificio, sea que se promuevan con cualquiera de ellos o con terceros.\nCitar y coordinar las reuniones de la asamblea de copropietarios.\nPedir al tribunal competente que aplique los apremios o sanciones que procedan al copropietario u\nocupante que infrinja las limitaciones o restricciones que en el uso de su unidad le imponen el\nreglamento de copropiedad y las normas legales y reglamentarias vigentes sobre copropiedad\ninmobiliaria.\nPoner en conocimiento del Comité de Administración cualquier acto de ocupación ilícito o de daño a los\nbienes comunes o a las unidades, sea por copropietarios o por terceros.\nProponer al Comité de Administración la adopción de medidas para resguardar el ingreso al edificio de\npersonas ajenas a éste, sea en calidad de visitantes o de prestadores de servicios.\nRendir cuenta de su gestión al Comité de Administración, según la periodicidad que se determine, la\nque al menos debe realizarse cada seis meses.\n3.-     Posteriormente, mediante Ord. N° 166, de 18/6/2003, de esa Dirección Regional se determinó,\nbasándose en Ord. N° 4.155, de 16/11/99, de esta Dirección Nacional, que el referido servicio se encuentra\ngravado con impuesto al valor agregado.\nAl respecto, cabe señalar que el servicio que prestará el ocurrente, en la medida que consista solamente en\nla ejecución de las labores enumeradas taxativamente en el párrafo N° 2 de este oficio, sin que se\nproporcione otros servicios, tales como aseo, mantención o vigilancia,"
+    },
+    {
+      "name": "Oficio N°1986 (26/07/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1986 (26/07/2019)",
+      "document_id": "16f0ad7a-8573-58f1-8b45-686ab6eb00f2",
+      "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1986-26%2F07%2F2019.pdf&extension=pdf&acc=download&id=01bdd2bf-582a-4af0-a5b4-41087f8223a8&mediaType=application%2Fpdf",
+      "content": ". 5352, de 2003; 934, de 2015; y 1740, de 2016, se ha \nestablecido que si una comunidad de un edificio arrienda espacios comunes puede actuar \ncomo contribuyente de Primera Categoría y, en la medida que desarrolle una actividad \ncualquiera de aquellas a que se refiere el artículo 20 de la Ley sobre Impuesto a la Renta, la \ncomunidad estará afecta a las disposiciones de dicha categoría, alcanzándoles las siguientes \nobligaciones tributarias: \na) Determinar y pagar el Impuesto de Primera Categoría, con la tasa que corresponda al año \ncomercial respectivo, aplicada sobre la base imponible de dicho tributo determinada de \nacuerdo al mecanismo establecido en los artículos 29° al 33° de la Ley sobre Impuesto a \nla Renta. \n \n\n\n2 \n \nb) Efectuar Pagos Provisionales Mensuales (PPM), de acuerdo a una tasa variable, aplicada \nsobre los ingresos brutos percibidos o devengados, en cada mes. \n \nc) Cumplir todas aquellas exigencias de carácter administrativo, como por ejemplo: efectuar \niniciación de actividades; inscribirse en el RUT y en la oportunidad de término de giro de \nsus actividades dar aviso por escrito al Servicio de tal circunstancia (según los artículos \n66, 68 y 69 del Código Tributario); efectuar declaraciones mensuales, ya sea, por tributos \nretenidos a terceras personas o de los propios impuestos que le afecta como contribuyente \nde la Ley sobre Impuesto a la Renta y/o Decreto Ley N° 825, de 1974; presentar \nanualmente una declaración jurada de sus rentas en cada año tributario, cualquiera que sea \nel resultado obtenido; y \nd) Llevar contabilidad completa, sujeta al mecanismo de corrección monetaria dispuesta en \nsu artículo 41°, y a la obligación de llevar los registros de ingresos pertinentes para los \nefectos de la aplicación del régimen de tributación que afecte a sus comuneros, de \nacuerdo a las reglas generales de la Ley sobre Impuesto a la Renta. \n \nPor otra parte, para responder las consultas contenidas en las letras b), e) y f) de su \npresentación, es necesario referirse previamente al fondo de reserva regulado en el artículo 7° \nde la Ley N° 19.537. Este artículo, señala que “En la administración de todo condominio \ndeberá considerarse la formación de un fondo común de reserva para atender a reparaciones \nde los bienes de dominio común, a la certificación periódica de las instalaciones de gas, \ncertificación de ascensores, tanto verticales como inclinados o funiculares, montacargas y \nescaleras o rampas mecánicas y sus instalaciones o a gastos comunes urgentes o imprevistos. \nEste fondo se formará e incrementará con el porcentaje de recargo sobre los gastos comunes \nque, en sesión extraordinaria, fije la asamblea de copropietarios; con el producto de las \nmultas e intereses que deban pagar, en su caso, los copropietarios, y con los aportes por \nconcepto de uso y goce exclusivos sobre bienes de dominio común a que alude el inciso \nsegundo del artículo 13. \nLos recursos de este fondo se mantendrán en depósito en una cuenta corriente bancaria o en \nuna cuenta de ahorro o se invertirán en instrumentos financieros que operen en el mercado de \ncapitales, previo acuerdo del Comité de Administración. Esta cuenta podrá ser la misma a \nque se refiere el inciso sexto del artículo 23.” \nLuego, respecto a las consultas planteadas en las letras b) y f) precedentes, referidas al \nrégimen tributario de los intereses que se generan en el fondo de reserva (entendiendo que se \nrefiere a los intereses que deben pagar en su caso los copropietarios) y las multas cursadas \npor la administración de un edificio, cuyas infracciones no se contemplan en el reglamento \ninterno, sino que en dictámenes emanados por el propio comité administr"
+    }
+  ]
+}

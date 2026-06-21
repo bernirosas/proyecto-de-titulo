@@ -1,0 +1,5 @@
+{
+  "query_id": "q009",
+  "query_text": "Obligación del vendedor de saneamiento de la evicción en la compraventa",
+  "notas": "Compraventa de bienes raíces (arts. 1837 y ss. CC; complementa sin duplicar los vicios redhibitorios de q027). 'saneamiento de la evicción' literal en 1 chunk pero el concepto 'evicción' está bien cubierto (22 chunks, + citación de evicción en el CPC). Pool 42 chunks; distribución 9/6/5/22 (mejor núcleo de grado 3 del set). Discrimina: léxicas P2/P3 lideran (2.50), SPLADE intermedio (1.70); p1_tfidf falla por completo (0.00, no recupera ningún relevante). Ganadora top-10 mean_grade: p2_bm25 (2.50), empatada con p3_bm25 y p3_tfidf (2.50). 0 correcciones manuales (gemini-2.5-flash-lite). Ver q009_analisis.md."
+}

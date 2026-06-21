@@ -1,0 +1,1293 @@
+{
+  "query_id": "q021",
+  "query_text": "Recurso de protección por afectación al derecho de propiedad sobre inmueble",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 22.868938,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 22.134554,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 21.784195,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 21.69772,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "38b5acfe-8252-568e-ae49-f201e34d362b",
+        "score": 20.109442,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+        "score": 18.973785,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+        "score": 18.42029,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 18.168509,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3dfe3bfc-53f3-5b32-b4f2-1ebc57e05e59",
+        "score": 17.92324,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ffe806a0-782e-52f5-b98d-74012f7b2efa",
+        "score": 17.90995,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 1.4244995,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "99f7096a-22e2-5525-87b8-443588e809fa",
+        "score": 1.4233093,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+        "score": 1.4036255,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "e6ddfd6f-c06c-583c-9df9-8fede34e0520",
+        "score": 1.3710938,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+        "score": 1.3681641,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0528519b-8e24-57a4-9135-319300439e59",
+        "score": 1.3664551,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+        "score": 1.3598938,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+        "score": 1.3582153,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "106b1435-f37c-549c-b393-c4f75c4f3b94",
+        "score": 1.3572998,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ef7b7bfd-4cb1-5b37-9f79-e31912d2864a",
+        "score": 1.3512573,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "529f6ab1-175e-5182-b127-88f315d87230",
+        "score": 23.898912,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 23.69865,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "47586d74-122c-5421-a94d-eff9d1234258",
+        "score": 23.354618,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9879c904-fe67-5b83-a4a7-b3a8663fa760",
+        "score": 23.344797,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c826af-928d-5938-b49b-cd4325f9b78a",
+        "score": 22.913857,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fbbebdb4-ba1f-5083-9ecb-f3f40501e257",
+        "score": 22.81397,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "12fccba9-4bfa-5dc2-918c-f7d351e8c3af",
+        "score": 22.511038,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "9a257242-50cb-5dbe-a7e7-fb059335aa69",
+        "score": 22.379839,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 22.360243,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "38b5acfe-8252-568e-ae49-f201e34d362b",
+        "score": 22.335491,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 20.27779,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 19.591007,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 19.383179,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 18.894577,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 18.23014,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "38b5acfe-8252-568e-ae49-f201e34d362b",
+        "score": 17.609974,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 16.805267,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "9035d150-6714-5647-8bfe-c2753bbcf7ec",
+        "score": 16.707075,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3dfe3bfc-53f3-5b32-b4f2-1ebc57e05e59",
+        "score": 16.65608,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+        "score": 16.624725,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.7154541,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "88c83fd9-8af0-590e-86d8-a6e8cb3664ed",
+        "score": 0.7011719,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.67578125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.645874,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 0.63720703,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0dcf6104-b50c-5bee-be64-39f1e0fe0689",
+        "score": 0.63427734,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+        "score": 0.6246338,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "2a4e542b-5cb6-56b0-bd46-7c5c1ff88d48",
+        "score": 0.6102295,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.60388184,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "6ac40c25-d88d-5db1-9755-4f8b278c3013",
+        "score": 0.5998535,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 18.865728,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 18.63547,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 18.507412,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+        "score": 17.687965,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "69c826af-928d-5938-b49b-cd4325f9b78a",
+        "score": 17.53515,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9035d150-6714-5647-8bfe-c2753bbcf7ec",
+        "score": 16.80411,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+        "score": 16.51235,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 16.346243,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ffe806a0-782e-52f5-b98d-74012f7b2efa",
+        "score": 16.260267,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 16.121243,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.7731323,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "88c83fd9-8af0-590e-86d8-a6e8cb3664ed",
+        "score": 0.72546387,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.7077637,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b76bac12-eee0-5da4-9ec3-afad9068db52",
+        "score": 0.7036133,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1f8ddcd2-4e61-5964-9e78-bb17aad2b316",
+        "score": 0.7019043,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "888c5c30-dbd5-569b-b737-ffac193bf47e",
+        "score": 0.6726074,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+        "score": 0.6549072,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0dcf6104-b50c-5bee-be64-39f1e0fe0689",
+        "score": 0.6513672,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b54e54a0-95b1-5ff2-9cb9-f02305e28de7",
+        "score": 0.64941406,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.64923096,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 13.0390625,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+        "score": 12.6953125,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 12.4609375,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 12.28125,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9035d150-6714-5647-8bfe-c2753bbcf7ec",
+        "score": 12.1640625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 11.863281,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "53252c20-f117-5b39-b291-77679c5a4b21",
+        "score": 11.753906,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "29541063-78e3-5a5b-b5e2-add358dfad03",
+        "score": 11.6796875,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "6d7312e3-0868-5bcb-af93-0647ea5054d6",
+        "score": 11.671875,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1c282c8c-e3bc-5d01-8858-791971081102",
+        "score": 11.519531,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.03149801587301587,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 0.031054405392392875,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+        "score": 0.031054405392392875,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+        "score": 0.030536130536130537,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.02921395544346364,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+        "score": 0.028588564574170333,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "3dfe3bfc-53f3-5b32-b4f2-1ebc57e05e59",
+        "score": 0.027650648360030512,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+        "score": 0.027031963470319637,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.026151315789473682,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ffe806a0-782e-52f5-b98d-74012f7b2efa",
+        "score": 0.026050420168067225,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.02188995215311005,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "99f7096a-22e2-5525-87b8-443588e809fa",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "e6ddfd6f-c06c-583c-9df9-8fede34e0520",
+        "score": 0.015625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+        "score": 0.015384615384615385,
+        "rank": 6
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "529f6ab1-175e-5182-b127-88f315d87230",
+        "score": 0.027757078986587184,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.027529761904761904,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.026655348047538198,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "12fccba9-4bfa-5dc2-918c-f7d351e8c3af",
+        "score": 0.025678061306371368,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.025362318840579712,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+        "score": 0.023132592401137242,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9847a154-7ac8-5293-a754-9c89c7c135c1",
+        "score": 0.02224666911135558,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b96a858b-aa04-55b9-b051-1c2fc65acfd9",
+        "score": 0.02085561497326203,
+        "rank": 8
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.03149801587301587,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 0.031054405392392875,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+        "score": 0.03009207275993712,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 0.03007688828584351,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+        "score": 0.02967032967032967,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+        "score": 0.02946236559139785,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.02921395544346364,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3dfe3bfc-53f3-5b32-b4f2-1ebc57e05e59",
+        "score": 0.027650648360030512,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.02625418060200669,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.026151315789473682,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.03125,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 0.030536130536130537,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.028693528693528692,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.027263007840342125,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.02501906941266209,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+        "score": 0.023799640237996404,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f96b10f4-4888-569b-8bd7-61ecef965ac8",
+        "score": 0.019142700128228614,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "88c83fd9-8af0-590e-86d8-a6e8cb3664ed",
+        "score": 0.016129032258064516,
+        "rank": 8
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+        "score": 0.030309988518943745,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 0.029857397504456328,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+        "score": 0.029827662395050816,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 0.029211087420042643,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.027263007840342125,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.026399331662489554,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+        "score": 0.026356857985087564,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.026334026334026334,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.029910714285714284,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.028693528693528692,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+        "score": 0.028484848484848488,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.027263007840342125,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+        "score": 0.02649445272396092,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.023513328776486674,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+        "score": 0.02278953922789539,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "12fccba9-4bfa-5dc2-918c-f7d351e8c3af",
+        "score": 0.020556609740670462,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "88c83fd9-8af0-590e-86d8-a6e8cb3664ed",
+        "score": 0.016129032258064516,
+        "rank": 9
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+        "score": 0.03225806451612903,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.032018442622950824,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+        "score": 0.03007688828584351,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+        "score": 0.02681010928961749,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+        "score": 0.026494565217391304,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+        "score": 0.026399331662489554,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+        "score": 0.025807525807525808,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "c94cec35-5666-5ac3-ac6e-eef5d04dc189",
+        "score": 0.025503573749187783,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "cb75e0de-36a3-5fd8-b335-979cf6cfecfd",
+        "score": 0.021212121212121213,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9847a154-7ac8-5293-a754-9c89c7c135c1",
+        "score": 0.020539287971350326,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 15.9,
+    "p1_tfidf": 15.5,
+    "p1_splade": 91.2,
+    "p2_bm25": 12.0,
+    "p2_tfidf": 19.9,
+    "p3_bm25": 15.9,
+    "p3_tfidf": 12.7,
+    "baseline_qdrant_bm25": 15.5,
+    "rrf_p1_bm25": 74.4,
+    "rrf_p1_tfidf": 88.4,
+    "rrf_p1_splade": 139.6,
+    "rrf_p2_bm25": 200.1,
+    "rrf_p2_tfidf": 140.9,
+    "rrf_p3_bm25": 68.9,
+    "rrf_p3_tfidf": 64.6,
+    "rrf_baseline_qdrant_bm25": 44.4
+  },
+  "pool": [
+    {
+      "name": "Segundo Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-VD-16-00062-2023",
+      "source_type": "jurisprudencia",
+      "source": "RIT-VD-16-00062-2023",
+      "document_id": "c68339cc-8909-572d-b34a-3fa41906d57b",
+      "chunk_uuid": "0dcf6104-b50c-5bee-be64-39f1e0fe0689",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/20532",
+      "content": " N°22), que la reclamante no había precisado cómo concretamente se habría producido la misma. Sobre la afectación del derecho de propiedad (artículo 19 N°24), el Tribunal concluyó que la recurrente no había acreditado cómo el derecho de propiedad hubiera sido afectado por la utilización de un “algoritmo”. \n\nEn cuanto a los derechos establecidos en el artículo 8 bis del Código Tributario, el Juez arguyó que en no existió vulneración del artículo 8 bis N°1, por cuanto la contribuyente fue debidamente informada del ejercicio de sus derechos. Respecto a la letra a) del N°4, del citado artículo, indicó que la Resolución impugnada se encontraba debidamente fundada, bastándose a sí misma, por lo que no se había vulnerado tal derecho. En relación con la letra b) del N°4, el acto reclamado se hizo cargo de cada una de las alegaciones de la reclamante, agregando el Tribunal que esta última no había logrado acreditar que hubiera dado respuesta efectiva y suficiente al requerimiento efectuado, ni que las observaciones a su declaración “no hayan sido reales”. Finalmente, en cuanto a la letra c) del N°4, el Sentenciador señaló que era claro que la resolución impugnada explicó que lo que se estaba analizando era la Liquidación por concepto de Impuesto de Primera Categoría, concluyendo que en ese caso no se había podido verificar que el Servicio hubiera afectado este último derecho."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-20.883-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-20.883-2018",
+      "document_id": "0fbba819-8e6e-59a7-96ff-694b5eb7e0e1",
+      "chunk_uuid": "fbbebdb4-ba1f-5083-9ecb-f3f40501e257",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16702",
+      "content": "ados por la sociedad reclamante respecto de inmuebles ubicados al interior de la Zona Franca de Punta Arenas, contratos que tenían un objeto que difería totalmente con la finalidad principal de una zona franca.\nDado lo anterior, el Excelentísimo Tribunal concluyó que tales rentas omitidas se encontraban afectas al impuesto de primera categoría –artículo 20 N°1 de la Ley sobre Impuesto a la Renta-, por lo que el proceder de la autoridad administrativa, en orden a liquidar dichos tributos, era ajustado a derecho. En esas circunstancias, resolvió que aparecía claro que los jueces del grado habían incurrido en un error de derecho al momento de resolver la controversia sometida a su conocimiento al determinar que las rentas provenientes de los subarrendamientos efectuados por la sociedad reclamante se encontraban exentas del pago de impuestos. Lo anterior, dado que no habían examinado el real sentido y alcance del D.F.L. N° 2, de 2001, sobre Zonas Francas, cuerpo de normas que de acuerdo con una interpretación sistemática de sus preceptos, aludía a que las rentas exentas del pago de tributos, eran aquellas que provenían del depósito, transformación, terminación y comercialización de las mercancías de origen extranjero, cuyo no era el caso de autos. A tal conclusión arribó la Corte Suprema toda vez que se trataba de utilidades provenientes de una actividad inmobiliaria, que no se enmarcaba dentro de aquellas de que podían ser objeto las mercancías introducidas en los recintos francos."
+    },
+    {
+      "name": "Corte de Apelaciones de San Miguel: Sentencia ROL-1060-2015",
+      "source_type": "jurisprudencia",
+      "source": "ROL-1060-2015",
+      "document_id": "175a9ea8-9bd7-56e3-96c0-d855dbb60617",
+      "chunk_uuid": "12fccba9-4bfa-5dc2-918c-f7d351e8c3af",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/2732",
+      "content": "La I. Corte de Apelaciones de San Miguel rechazó el recurso de protección interpuesto por la contribuyente en contra de la XVI Dirección Regional Santiago Sur del Servicio de Impuestos Internos, por estimar que afectó su garantía constitucional del derecho de propiedad.\n\nLa recurrente señaló que el acto recurrido vulneró la garantía constitucional establecida artículo 19 N° 24 de la Constitución Política de la República, y explicó que el acto arbitrario e ilegal consistió en la emisión por parte del Servicio de Impuestos Internos de un Ordinario, mediante el cual se le hizo entrega de parte de la carpeta de auditoría , sin los antecedentes correspondientes a ocho facturas consideradas no fidedignas y otras dos señaladas como falsas.\n\nLa Corte de Apelaciones expuso que la acción de protección debe ser ejercida ante actos u omisiones arbitrarios o ilegales que provoquen privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías con resguardo constitucional, para que en su caso, se adopten las providencias necesarias en el restablecimiento del imperio del derecho, asegurándose la debida protección del perjudicado. De lo que se sigue, que se trata de un procedimiento extraordinario, de emergencia, cuyo objetivo es remediar pronta y eficazmente los efectos lesivos de un actuar ostensiblemente contrario al ordenamiento jurídico o carente de fundamento o caprichoso, reparándose así el amago provocado a derechos o prerrogativas derivadas de situaciones ciertas y definidas y, por ello, con resguardo constitucional preferente. Todo ello sin perjuicio de los demás derechos que puedan hacerse valer ante la autoridad o los Tribunales correspondientes.\n\nLos sentenciadores concluyeron que la información solicitada por el recurrente al Servicio de Impuestos Internos, contenía datos cubiertos por el secreto tributario por tratarse de información cuya divulgación afectaba directamente derechos de índole comercial y económico de terceros, cumpliéndose los requisitos de la causal de reserva establecida en el artículo 2° de la Ley de Transparencia, encontrándose consecuentemente el contenido del formulario amparado por el deber de reserva del ente fiscalizador.\n\nLos Ministros señalaron, respecto a la supuesta vulneración de la garantía constitucional del artículo 19 N° 24 de la Constitución Política de la República, que el resguardo de los derechos fundamentales no puede ir más allá de aquellos de que es titular el recurrente y, los antecedentes que éste solicitó consisten en documentos relativos a información tributaria de terceros. Por otra parte, los sentenciadores manifestaron que dichos informes habían sido reproducidos en las liquidaciones que le fueron entregadas a la recurrente, de tal modo que no se le impidió el derecho a conocer el procedimiento administrativo que lo afectaba, ni se le privó de efectuar una adecuada defensa."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-24905-2017",
+      "source_type": "jurisprudencia",
+      "source": "ROL-24905-2017",
+      "document_id": "722708da-a823-5360-9831-3cd8727ed915",
+      "chunk_uuid": "99f7096a-22e2-5525-87b8-443588e809fa",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14327",
+      "content": "Santiago, nueve de abril de dos mil diecinueve.\nVistos:\nEn estos autos ingreso Rol N° 24905-2017, de esta Corte Suprema,\nseguidos en procedimiento general de reclamación tributaria, deduce recurso de\ncasación en el fondo, en lo principal de fojas 221, el abogado don Rafael Ossa de\nla Lastra, en representación de la contribuyente doña XXXXXXX, contra la sentencia dictada el siete de abril de dos mil diecisiete, por la\nCorte de Apelaciones de Santiago, que confirmó la de primer grado que rechazó la\nreclamación deducida para enervar las Liquidaciones N° 266 y 267, de 29 de julio\nde 2013, por diferencias de Impuesto Global Complementario y Reintegro del\nartículo 97 de la Ley de la Renta, del año tributario 2010.\nSe trajeron los autos en relación para conocer de ese recurso, tal como se\nlee a fojas 281.\nY Considerando:\nPrimero: Que por el recurso se denuncia, en un primer apartado, la falsa\naplicación del artículo 167 de la ley General de Urbanismo y Construcción en\nrelación al inciso segundo del artículo 18 del D.F.L. N° 2.\nSeñala que en el caso de autos no se ha dictado por parte del Servicio de\nImpuestos Internos resolución alguna, que haya dejado sin efecto el beneficio\ncontenido en el D.F.L. Nº 2 de 1959, que goza el inmueble de propiedad de la\nactora. Por su parte, la norma del inciso 2º del artículo 18 del D.F.L. Nº 2, obliga a\nlas Direcciones de Obras Municipales a informar al Servicio de Impuestos Internos\ncuando se otorga un permiso que pueda hacer cambiar las características de una\nvivienda con franquicia, comunicación que resulta de toda lógica, ya que la\nautoridad administrativa que tiene la potestad de “supervigilar” que las viviendas\neconómicas mantengan los requisitos, características y condiciones en que fueron\naprobadas por el ente fiscalizador, autoridad administrativa que por mandato legal\n(artículo 167 Ley General de Urbanismo y Construcción ) puede dejar sin efecto\nlos beneficios, franquicias y exenciones de aquellas viviendas en que se\ncomprobare la existencia de alguna infracción.\nPor lo expuesto refiere que los sentenciadores han infringido las normas\nprecedentemente singularizadas, pues de haberlas aplicado correctamente, no\nhabrían podido sino concluir que los beneficios del inmueble de propiedad de la\nrecurrente se encontraban vigentes y que, por tanto, los cánones percibidos por la\nrecurrente por rentas de arrendamiento corresponden a ingresos no constitutivos\nde renta por lo que no debían ser declarados. Señala que tal disconformidad se\nverifica al establecer que, con motivo de lo solicitado en el Permiso de Obra Menor\nN° 386/06, de fecha 12 de diciembre de 2006, la propiedad perdió el beneficio\ntributario consagrado en el D.F.L. N° 2, debido a la realización de una ampliación\nen dicha propiedad, sin que de acuerdo a lo dispuesto en el artículo 167 de la Ley\nGeneral de Urbanismo y Construcción, la autoridad administrativa llamada a\ndejarlo sin efecto haya dictado la resolución que así lo determinara, por lo que\ndicha prerrogativa se encuentra, respecto al inmueble de la contribuyente,\nplenamente vigente.\nEn segundo término expone que los sentenciadores han conculcado lo\ndispuesto en el artículo 26 del Código Tributario en relación a lo preceptuado en el\nartículo 167 de la Ley General de Urbanismo y Construcción.\nAl respecto señala que al pretender el Servicio de Impuestos Internos\ncobrar tributos sobre rentas de arrendamiento por una propiedad acogida al D.F.L.\nNº 2, de 1959, respecto de la cual no existía ni existe a la fecha ninguna\nresolución que deje sin efecto dicho beneficio, menos aún una notificación de esa\nresolución, el fiscalizador y los sentenciadores"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-5832-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-5832-2021",
+      "document_id": "ab1ad171-2fff-592e-9039-31ae0af67683",
+      "chunk_uuid": "9879c904-fe67-5b83-a4a7-b3a8663fa760",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16847",
+      "content": "La Corte de Apelación de Santiago desestimó el recurso de protección interpuesto por representantes del Colegio de Contadores en contra del Servicio de Impuestos Internos (SII) y el Estado de Chile, por estimar que los recurrentes carecían de legitimación activa y no existir una vulneración actual de los derechos constitucionales alegados.\n\nLa parte recurrente acusó la vulneración del derecho a la vida e integridad física y psíquica, a la  libertad laboral, a desarrollar actividades económicas y a la propiedad, de los contadores y  contribuyentes, a consecuencia de diversas acciones y omisiones de los recurridos en el contexto de  la primera operación renta en que se aplicaron las modificaciones introducidas por la Ley  N°  21.210  sobre Modernización Tributaria, considerando, especialmente, la situación de emergencia sanitaria  vigente a la época.\n\nAl respecto, la recurrente alegó supuestas dificultades para el ejercicio de la profesión de contador a consecuencia de la excesiva extensión de las instrucciones del Suplemento Tributario de la Operación Renta AT 2021, al atraso en la emisión del mismo comparado a años anteriores, desperfectos en las plataformas informáticas a las que acceden los contribuyentes y el retraso de la declaración de la profesión de contador como actividad esencial.\n\nPor su parte, el SII señaló ante el tribunal que los recurrentes carecían de legitimidad activa por no haber indicado en el recurso de forma individualizada quienes serían los eventuales afectados.\n\nAsimismo, alegó la falta de oportunidad del recurso, en consideración a que el Ministerio de Hacienda y el SII implementaron oportunamente medidas destinadas flexibilizar las fechas de declaración y devolución de impuestos. Por último, la autoridad administrativa alegó que no existió una acción arbitraria o ilegal de su parte toda vez que no se acreditó que la dictación de las instrucciones referidas hubieren ocasionado un perjuicio a los recurrentes, así como tampoco que las plataformas informáticas del SII hayan impedido a los contribuyentes cumplir sus obligaciones.\n\nLa Corte compartió las aseveraciones del SII en relación a que los recurrentes carecían de legitimidad activa, ya que el recurso no identificaba en forma precisa las personas vulneradas en sus derechos en cuyo nombre actuaban.\n\nAl respecto, la Corte hizo presente que el recurso de protección no es una acción popular, sino que es una acción dirigida a proteger a un lesionado concreto, específico, individualizado, víctima de un acto u omisión ilegal o arbitraria.\n\nPor último, el tribunal declaró no existir una vulneración actual de los derechos alegados, toda vez que, a la fecha de la dictación de la sentencia, los plazos ampliados de la Operación Renta del AT  2021 habían concluido."
+    },
+    {
+      "name": "Corte de Apelaciones de Copiapó: Sentencia RIT-1954-2023",
+      "source_type": "jurisprudencia",
+      "source": "RIT-1954-2023",
+      "document_id": "01367fc8-4f85-5fe2-be50-10d402414870",
+      "chunk_uuid": "ffe806a0-782e-52f5-b98d-74012f7b2efa",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17822",
+      "content": "La Corte de Apelaciones de Concepción rechazó el recurso de protección interpuesto por el contribuyente en contra de la VIII Dirección Regional Concepción por el acto arbitrario e ilegal consistente en haber transcurrido más de veinte días sin dar respuesta a la solicitud presentada para la entrega de un rol de avalúo para una propiedad.\n \nEl recurrente arguyó que con fecha 20 de diciembre de 2022 presentó solicitud ante la Dirección del Servicio de Impuestos Internos de la ciudad de Concepción a objeto se le entregara rol de avalúo para una propiedad que le pertenecía en comunidad, o bien se le entregara un rol de avalúo provisorio. Agregó que transcurridos más de veinte días se le informó que el Órgano Fiscalizador se había auto prorrogado el plazo para darle una respuesta lo que estimaba ilegal y arbitrario, conforme a lo dispuesto en el artículo 19 N°s 2, 16, 21, 22 y 24 de la Constitución Política y el Convenio 169 de la OIT, por lo que solicitó se ordenara al Ente Fiscal entregar el rol definitivo de la propiedad e iniciar el sumario en contra de los responsables por la demora en dar respuesta a su solicitud.\n\n\nEl Servicio informó que el recurrente presentó solicitud con fecha 5 de diciembre de 2022 a objeto se le otorgara “rol para la propiedad identificada en un plano que adjuntó a su presentación” y que en el comprobante de la solicitud del Formulario 2118 se señaló, expresamente, que el plazo estimado de resolución sería el día 8 de febrero de 2023.\n\n\n\nEl Órgano Fiscalizador sostuvo que dentro del plazo que se había indicado al recurrente en el respectivo formulario se procedió a emitir y notificar la Resolución Exenta que negó lugar a lo solicitado por considerarse que los antecedentes acompañados resultaban insuficientes para acceder por los motivos indicados en la misma resolución. Agregó que dado lo anterior existía falta de oportunidad en el recurso desde que ya se había dictado la resolución que se solicitaba, no existiendo por tanto un acto arbitrario e ilegal que enmendar.\nLa Corte de Apelaciones señaló que resultaba requisito indispensable de la acción de protección la existencia de un acto u omisión ilegal, esto es, contrario a la ley, según el concepto contenido en el artículo 1 del Código Civil, o arbitrario, o sea, producto del mero capricho de quien incurre en él y que afectaré una o más de las garantías constitucionales protegidas, consideración básica para el análisis y decisión del recurso.\n\n\nA continuación, la Magistratura arguyó que el acto estimado como ilegal o arbitrario por el recurrente consistía en la demora de haber transcurrido más de veinte días sin una respuesta a su solicitud de rol para una propiedad de la que decía ser dueño, pero que no obstante lo anterior, de los antecedentes de los autos constaba que el 8 de febrero de 2023 se había dictado la Resolución emanada del Departamento Regional de Avaluaciones que se pronunció sobre su solicitud, rechazándola por las razones en ella indicadas.\n\n\nEl Tribunal de Alzada razonó que el recurso de protección, en cuanto acción cautelar de urgencia, supone que exista una alguna persona o personas actualmente perjudicados, requisito que en la especie no concurría, desde que la recurrida había emitido dentro de plazo la resolución de la solicitud presentada por el contribuyente, siendo precisamente la demora en el pronunciamiento el motivo del recurso. De esta manera, la situación de hecho planteada no existía en la actualidad careciendo el recurso de objeto al haber desaparecido el supuesto agravio causado no existiendo medida cautelar que pudiera adoptar la Corte para restablecer el imperio del derecho en circunstancias que éste no se encontraba quebrantado."
+    },
+    {
+      "name": "Oficio N°1440 (24/05/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1440 (24/05/2016)",
+      "document_id": "95c98f1e-0773-5e03-8984-9b814d623055",
+      "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja1440.htm",
+      "content": " son tratados como\ninmuebles susceptibles de hipoteca.\nII.- ANALISIS\nEl artículo 1° del Código de Minería consagra el derecho de las personas a constituir concesiones de\nexploración y explotación de las sustancias de los yacimientos mineros, los cuales declara de dominio\nabsoluto del Estado.\nPor otra parte, en conformidad con lo dispuesto en el artículo 2° de dicho Código, una concesión minera y\nque es un derecho real e inmueble que, como se ha dicho, puede ser de exploración o explotación y es\nsusceptible, en general, de todo acto o contrato, y se rige por las mismas leyes civiles que los demás\ninmuebles, salvo en lo que contraríe disposiciones de la ley orgánica constitucional sobre la materia (Ley N°\n18.097) o del propio Código de Minería. El inciso segundo de ese mismo artículo, se encarga de precisar que\nvpertenenciaw, es otra denominación de la concesión minera de explotación.\nComo se señala en la presentación, las concesiones mineras son un derecho real sobre un bien inmueble,\npor lo que se hace necesario determinar si las modificaciones introducidas por la Ley N° 20.780 sobre\n\n\nReforma Tributaria y N° 20.899 de Simplificación, a los conceptos de venta y vendedor, afectan las\ntransferencias de este tipo de inmuebles.\nSobre el particular, con las señaladas modificaciones, el texto de los N° 1 y 3 del artículo 2°, del Decreto Ley\nN° 825, de 1974, ha quedado del siguiente tenor:\nArtículo 2° Para los efectos de esta ley, salvo que la naturaleza del texto implique otro significado, se\nentenderá:\nv1°) Por vventaw, toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos\nlos terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos,\ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.\n3°) Por vvendedorw cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de\nhecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles.\nCorresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Para efectos\nde la venta de inmuebles, se presumirá que existe habitualidad cuando entre la adquisición o construcción\ndel bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo no se considerará\nhabitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías\nhipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y\nsiempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los\ndemás casos de ventas forzadas en pública subasta autorizadas por resolución judicial. La transferencia de\ninmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada habitual.\nSe considerará también vvendedorw al productor, fabricante o vendedor habitual de bienes corporales\ninmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos\nproductivosw.\nCabe señalar, que mediante la Ley N° 18.630 de 1987, con vigencia a contar del 1° de octubre de 1987, se\nhabía modificado el Decreto Ley N° 825, de 1974, incorporando la actividad de la construcción al hecho\ngravado venta, pero restringido exclusivamente a la transferencia de inmuebles de propiedad de una\nempresa constructora, construidos totalmente por ella o en parte por un tercero para ella, de una cuota de\ndominio sobre dichos bienes o derechos reales constituidos sobre ellos, siempre y cuando la empresa\nconstructora tuviera la calidad de vendedor"
+    },
+    {
+      "name": "Circular N°26 (05/08/1987)",
+      "source_type": "circular",
+      "source": "Circular N°26 (05/08/1987)",
+      "document_id": "47419029-ccea-5170-ac13-a58a44aec885",
+      "chunk_uuid": "29541063-78e3-5a5b-b5e2-add358dfad03",
+      "chunk_id": 22,
+      "url": "https://www.sii.cl/documentos/circulares/1987/circu26.pdf",
+      "content": " materia.\nCAPITULO IV.- MODIFICACIONES AL TEXTO DEL D.L. Nº 825, de 1974, PARA INCORPORAR LA ACTIVIDAD DE LA CONSTRUCCION AL IVA.\nEn el artículo 1º de la Ley Nº 18.630, se contienen las modificaciones que se introducen al texto del decreto ley Nº 825, de 1974, para incorporar la actividad de la construcción al régimen del Impuesto al Valor Agregado. Respecto de dichas modificacio- nes, se entregan los comentarios señalados a continuación.\nComo precisión inicial conviene señalar que la nueva normativa legal grava con IVA la actividad de la construc- ción y, como consecuencia de ello, resulten afectadas las ventas y o- tros actos asimilados a éstos celebradas por empresas constructoras o que recaigan sobre bienes corporales inmuebles construidos en todo o parte por ellas. Por consiguiente, las transferencias de bienes corpora- les inmuebles, por regla general, no se encuentran afectas al impuesto al valor agregado, salvo que concurran los requisitos que establece la ley en comento para configurar los nuevos hechos gravados.\n1.- Modificaciones al concepto \"venta\", \"vendedor\" y de la ubicación territorial del bien gravado.\n1.A) Hecho gravado\nComo se sabe el hecho gravado general del Impuesto al Valor A- gregado, se define en el número 1º) del artículo 2º del decreto\nley 825, dentro del concepto \"venta\" y de cuyo análisis puede con- cluirse, antes de comentar la modificación señalada, que una con- vención queda afecta a este tributo cuando se cumplen los siguien- tes requisitos básicos:\na) Celebración de una convención traslaticia de dominio.\nb) Transferencia realizada por un \"vendedor\".\nc) La convención debe ser a título oneroso.\nd) La convención debe recaer sobre un bien corporal mueble.\nLa modificación que le introdujo la ley Nº 18.630 al artículo 2º citado, tiene por objeto agregar, para los efectos de la ley, un nuevo hecho gravado del IVA al definir como \"venta\" la transferen- cia a título oneroso del dominio \"de bienes corporales inmuebles de propiedad de una empresa constructora construidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella\".\nDe tal modo, se configurará el hecho gravado respecto de la trans- ferencia del dominio de inmuebles, de cuotas de dominio sobre di- chos bienes o de derechos reales constituidos sobre ellos, cuando existan copulativamente, las siguientes circunstancias:\na) Celebración de una convención traslaticia del dominio, de cuo- tas de dominio o de derechos reales constituidos sobre bienes cor- porales inmuebles.\nb) Transferencia realizada por un \"vendedor\".\nc) La convención debe ser a título oneroso.\nd) La convención debe recaer sobre un bien corporal inmueble de propiedad de una empresa constructora o sobre los derechos reales mencionados, siempre que el inmueble haya sido construido por di- cha empresa, ya sea totalmente o en parte, aunque el resto lo construya para ella otra u otras empresas constructoras.\nDe lo expresado en la letra d) anterior se desprende que la in- termediación de inmuebles construidos para el adquirente quien pos- teriormente lo vende sin que medie algún tipo de construcción, ya sea en carácter de obras adicionales, complementarias, ampliacio- nes, terminaciones o remodelaciones, no queda afecta al Impuesto al Valor Agregado. Tal es el caso de las inmobiliarias cuando se limiten a comprar y vender propiedades o a encargar mediante la ce- lebración de uno o más contratos generales de construcción, la construcción total de un inmueble para su venta.\nTratándose de adquisiciones de inmuebles no construidos por el adquirente al cual éste le efectúe obras adicionales, complementa- rias, ampliaciones, terminaciones o remodelaciones, para su venta, dichas obras constituirán hecho gravado.\n1.B) Concepto de \"vendedor\".\nComo se analizó en el punto anterior uno de los requisitos pa- ra que se configure"
+    },
+    {
+      "name": "Resolución N°43 (03/04/2024)",
+      "source_type": "resolucion",
+      "source": "Resolución N°43 (03/04/2024)",
+      "document_id": "215be790-3544-5c6e-98f3-1826e4846a5b",
+      "chunk_uuid": "e6ddfd6f-c06c-583c-9df9-8fede34e0520",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso43.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nSUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y   \nESTUDIOS TRIBUTARIOS \nGE269961 \n \nMATERIA: Aprueba Modificación de Convenio de Intercambio \nde Información y Colaboración entre el Instituto Nacional de \nPropiedad Industrial y el Servicio de Impuestos Internos.  \n \nSANTIAGO, 03 DE ABRIL DE 2024 \n \nRESOLUCIÓN EX. SII N°43.-    \n \nVISTOS: Lo dispuesto en los artículos 1° y 7° letras a), c) y o) \nde la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de Hacienda, de \n1980; Ley N° 19.628, sobre Protección de la Vida Privada; Ley N° 20.575 que establece el Principio de Finalidad en el \nTratamiento de Datos Personales; Ley N° 20.285 sobre Acceso a la Información Pública. \n \nCONSIDERANDO: \n1.- Que, corresponde al Servicio de Impuestos Internos la \naplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de \notro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad \ndiferente.  \n \n2.- Que, a su vez, el Instituto Nacional de Propiedad Industrial, \nes un organismo de carácter técnico y jurídico encargado de la administración y atención de los servicios de la propiedad \nindustrial, conforme a lo dispuesto en las leyes sobre la materia, correspondiéndole promover la protección que brinda la \npropiedad industrial y difundir el acervo tecnológico y la información de que disponga. \n \n \n3.- Que, en virtud de lo anterior, el Servicio de Impuestos \nInternos y el Instituto Nacional de Propiedad Industrial, han acordado suscribir la presente Modificación de Convenio de \nIntercambio de Información y Colaboración entre ambas instituciones firmado con fecha 27 de diciembre de 2016, aprobado \npor la Resolución Ex. N° 7, de fecha 18 de enero de 2017, del SERVICIO y la Resolución Ex N°193, de fecha 31 de mayo \nde 2017, de INAPI, y modificado por Addendum de 15 de junio de 2023, aprobado por Resolución SII EX N° 78 de 28 de \njunio de 2023, a fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas \norgánicas les han asignado.. \n \nRESUELVO:   \n \nApruébese la modificación de convenio de intercambio de \ninformación y colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos, celebrado \nel 26 de marzo de 2024, cuyo texto es el siguiente: \n \n“MODIFICACIÓN A CONVENIO DE COLABORACIÓN  \nENTRE EL INSTITUTO NACIONAL DE PROPIEDAD INDUSTRIAL  \nY EL SERVICIO DE IMPUESTOS INTERNOS \n \nEn Santiago, a 26 de marzo de 2024, entre el Servicio de Impuestos Internos, RUT 60.803.000-K, en adelante \nindistintamente denominado el “SERVICIO”, representado por su Director, don Hernán Frigolett Córdova, cédula de \nidentidad N° 6.367.513-K, ambos con domicilio en Teatinos N° 120, Santiago y el Instituto Nacional de Propiedad \nIndustrial, en adelante indistintamente denominada la “INAPI”, RUT 65.999.669-3, representado por su Directora \nNacional doña Loreto Bresky Ruiz, cédula nacional de identidad Nº 10.730.726-5 ambos con domicilio en Avenida \nLibertador Bernardo O’Higgins N°194, comuna y ciudad de Santiago, se ha convenido la siguiente modificación al \nConvenio de Colaboración suscrito entre ambas instituciones: \n \nPRIMERO: Con fecha 27 de diciembre de 2016, ambas partes suscribieron un Convenio de Colaboración, en cuya \ncláusula ter"
+    },
+    {
+      "name": "Corte de Apelaciones de Rancagua: Sentencia ROL-1.951-2024",
+      "source_type": "jurisprudencia",
+      "source": "ROL-1.951-2024",
+      "document_id": "21237467-a9e2-5900-ac91-e2d086ee1b47",
+      "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/20602",
+      "content": "La Corte de Apelaciones de Rancagua rechazó el Recurso de Protección interpuesto por la contribuyente en contra de la VI Dirección Regional Rancagua, por no acceder a la modificación del Catastro de Bienes Raíces, correspondiente a la comuna de Colchagua, pese a haber buscado todas las alternativas judiciales y administrativas pertinentes. ​\n​\nLa recurrente arguyó que, con dicha omisión, se perjudicó la parcelación del inmueble de que era dueña y, por ende, no podía contabilizar la superficie total de la parcela cooperativa asignataria de la misma . Agregó, que concurrió personalmente – a las oficinas del Servicio de Impuestos Internos- exhibiendo la solicitud y la documentación correspondiente, recibiendo la negativa de los funcionarios; lo que constituía una grave falta de probidad que vulneró sus derechos constitucionales a la honra, ya que tenía derecho a exigir la solución a su problema. Además, mencionó que su proyecto de parcelación dependía de esta determinación de la superficie, por lo que solicitó que se le ordenare al Ente Fiscal (para los efectos de la modificación del Catastro referido y la autorización del plano elaborado por el perito respectivo) que oficiare al Juzgado de Letras que conocía del asunto en sede judicial, para la entrega urgente de toda la documentación de dicha causa.\n\nPor su parte, el Servicio de Impuestos Internos solicitó el rechazo del recurso, haciendo una breve relación de la tramitación administrativa de las solicitudes de la contribuyente, destacando que ni en el certificado de Dominio Vigente ni en el Plano de la respectiva propiedad, figuraba la superficie del predio; razón por la cual, mediante oficio, se le informó que no era posible dar curso a lo solicitado. Por otra parte, en relación al derecho aplicable, en primer lugar, expuso que el recurso era extemporáneo porque cualquiera actuación -de dicho Ente Fiscal- que pudiese estimarse como lesiva, habría acontecido con bastante anterioridad a la fecha de su interposición, habiendo ocurrido la última comunicación formal con la recurrente el 04 de agosto de 2023; y, en segundo lugar, porque no se estaba en presencia de un derecho indubitado y lo que se pretendía por esta vía, era que se declarare la medida de la superficie de la propiedad (sin perjuicio de poder realizar una nueva solicitud, con la documentación correcta); no siendo el recurso de protección la vía correcta para la solución de la controversia, sino la propia gestión voluntaria de rectificación de superficie promovida -por el mismo recurrente- en el Juzgado de Letras competente. ​\n​\nLa Autoridad Administrativa, por otra parte, alegó la inexistencia de actuaciones ilegales y arbitrarias, dado que no se contaba con la respectiva superficie, y que obró conforme a derecho al rechazar la solicitud de asignación de un nuevo rol de avalúo a la propiedad; enmarcándose, en todo momento, dentro de las facultades que le confiere la ley. En el mismo sentido, agregó que el plano aludido no era antecedente suficiente para determinar la superficie de la parcelación, menos aún considerando la naturaleza cautelar de la acción de protección. ​\n​\nLa Corte de Apelaciones rechazó la acción de protección deducida, porque -conforme al mérito de los antecedentes- quedaba demostrado que el respectivo recurso fue interpuesto transcurrido con creces el plazo que tenía para hacerlo y, en cuanto al fondo, porque se compartía el criterio del Ente Fiscal, en cuanto a que la acción de protección no era la vía idónea para solicitar la modificación del catastro de un bien raíz; como lo era, precisamente, la gestión voluntaria incoada por el contribuyente, sobre Rectificación de Superficie. ​\n​\nSin perjuicio de lo anterior, la Magistratura señaló que la negativa del Servicio recurrido de dar curso a lo solicitado, y no proceder a la asignación de roles, no podía calificarse como ilegal y arbitraria, ya que en el respectivo informe se sostuvo que, tanto en las presentaciones del actor y en la documentación por él allegada,"
+    },
+    {
+      "name": "Oficio N°2643 (31/08/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2643 (31/08/2022)",
+      "document_id": "420f798a-a73e-516c-9dbe-56c0346a6400",
+      "chunk_uuid": "1f8ddcd2-4e61-5964-9e78-bb17aad2b316",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2643-31%2F08%2F2022.pdf&extension=pdf&acc=download&id=73d71ea2-0511-425a-9886-daa698b5c458&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART.8 LETRA H – (ORD. N°2643, DE \n31.08.2022) \n \n \n \n \n \n \n \n \n \n \n \n \n \nAplicación de IVA a las cesiones permanentes sobre derechos de propiedad industrial e \nintelectual. \n \nDe acuerdo con su presentación, la letra h) del artículo 8° de la Ley sobre Impuesto a las Ventas y \nServicios (LIVS) sólo grava las cesiones de derechos de propiedad industrial e intelectual en la \nmedida que posean un carácter temporal limitado en el tiempo. \nEn consecuencia, estima que no podría estar afecta a IVA, por aplicación de la disposición \nseñalada, ninguna forma de cesión permanente, definitiva, indefinida o perpetua, ni enajenaciones \no ventas, derivadas de un título traslaticio de dominio, que recaigan sobre derechos de propiedad \nindustrial e intelectual. \nSin perjuicio de ello, indica que este Servicio ha tenido una opinión diversa – entre otros – en los \nOficios N° 1764 de 2004, N° 5184 de 2005, N° 4.253 de 2005, N° 226 de 2006, N° 4467 de 2006, \nN° 559 de 2007 y N° 3470 de 2009, disponiendo que las leyes especiales que regulan la propiedad \nindustrial e intelectual han fijado límites temporales para la protección de sus derechos, por lo que \ntoda cesión de éstos será siempre temporal si el derecho de protección también lo es, afectándose \nasí con IVA toda operación que recaiga sobre estos derechos. \nLuego, solicita confirmar que las cesiones permanentes sobre derechos de propiedad industrial e \nintelectual no se encuentran gravadas con IVA y consecuentemente, un cambio de criterio. \nAl respecto se informa que no se advierten en su presentación otros elementos de juicio o razones \npara cambiar el criterio vigente y reiteradamente sustentado por este Servicio. \n \n \n \nHERNÁN ANDRÉS FRIGOLETT CÓRDOVA \nDIRECTOR \n \n \nOficio N° 2643, de 31-08-2022 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-22554-2019",
+      "source_type": "jurisprudencia",
+      "source": "ROL-22554-2019",
+      "document_id": "436fd584-9176-55dd-b3b2-798812e74bdc",
+      "chunk_uuid": "38b5acfe-8252-568e-ae49-f201e34d362b",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14842",
+      "content": "La Corte de Apelaciones de Santiago rechazó el Recurso de Protección interpuesto por la contribuyente, en relación con la negativa de levantamiento de anotaciones practicadas por el Servicio. El recurso se basó en la solicitud efectuada por la contribuyente al Servicio, en el sentido de eliminar la anotación 4001 que pesaba sobre él, en el Sistema Integrado de Cumplimiento Tributario, y la negativa del Servicio a dicha solicitud, comunicada a través de un Oficio Secreto. \n\nLa anotación tuvo como antecedente la querella criminal presentada ante el 4° Juzgado de Garantía de Santiago por el Servicio, en contra del representante de la contribuyente, por concepto del delito contenido en el artículo 97 N°4 inciso 2° del Código Tributario. A la fecha de interposición del Recurso de Protección la querella se encontraba en estado de haberse dictado suspensión condicional del procedimiento, por lo que, la contribuyente consideró que correspondía alzar la anotación en comento, a fin de solicitar un convenio de pago de su deuda con la Tesorería General de la República. \n\nPor lo anterior, la contribuyente estimó que la negativa de alzar la anotación vulneró su derecho de propiedad, impidiéndole suscribir el convenio de pago y comenzar a pagar su deuda, la cual ha aumentado en intereses y multas, y privándolo de la posibilidad de solicitar la devolución de los pagos provisionales mensuales por concepto de Impuesto de Primera Categoría, y alzar el embargo sobre sus bienes, lo que claramente constituía una afectación por vía de una acción ilegal y arbitraria al derecho antes señalado.\n\nPor su parte, el Servicio señaló que, la negativa de levantamiento tuvo como fundamento el que, según las instrucciones con que cuenta el ente fiscal, sólo procede la eliminación de los registros informáticos de la anotación relativa a la querella por delitos tributarios en los casos en que la causa se encuentra en estado de haberse dictado sentencia absolutoria firme, sobreseimiento definitivo ejecutoriado, sentencia condenatoria con pena cumplida, salidas alternativas cumplidas y acuerdos reparatorios cumplidos, por lo que, considerando la naturaleza de la suspensión condicional del procedimiento, no correspondía alzar la anotación. Lo anterior porque la suspensión condicional del procedimiento no extingue, por si misma, el proceso penal el que se mantiene pendiente, sino hasta que haya transcurrido el plazo señalado por el Tribunal al efecto.\n\nJunto a lo anterior, el Servicio sostuvo que el Recurso fue presentado extemporáneamente, pues la contribuyente tomó conocimiento de la anotación con anterioridad a la fecha en que se le notificó la negativa de alzarla, por lo que dicha fecha debió haberse considerado para el cómputo del plazo de interposición del recurso. Por todo lo anterior, y considerando que el contribuyente siempre pudo haber pagado las deudas que mantenía con el Fisco de Chile, el Servicio señaló que el recurso era improcedente, ya que la acción del Servicio no pudo ser ilegal ni arbitraria. \n\nLa Corte, por su parte, desestimó la alegación de extemporaneidad del Recurso, por estimar que el mismo se basó en la negativa de alzamiento de la anotación, y no en la anotación por sí sola. En cuanto al fondo del Recurso, la Corte analizó las facultades del Servicio, contenidas en el artículo 2° del D.F.L. N°3 del Ministerio de Hacienda de 1969, en conjunto con el artículo 6 inciso 1° del Código Tributario, en relación con los cuales dicho ente administrativo dictó instrucciones internas respecto de las anotaciones que pueden incorporarse en el RUT del contribuyente, cuando se ejerza la acción penal en su contra.\n\nCon lo anterior, y considerando que no se ha cumplido el plazo de cumplimiento de las condiciones fijadas entre el Ministerio Público y el imputado, por lo que la causa penal todavía pervive y no se ha decretado el sobreseimiento definitivo"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-244.794-2023",
+      "source_type": "jurisprudencia",
+      "source": "ROL-244.794-2023",
+      "document_id": "dbcc0ff4-11ae-5d28-bbbd-f109364c684d",
+      "chunk_uuid": "9847a154-7ac8-5293-a754-9c89c7c135c1",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/19140",
+      "content": "La Corte Suprema confirmó la sentencia dictada por la Corte de Apelaciones de Puerto Montt que  acogió el recurso de protección impetrado por la contribuyente en contra del Servicio de Impuestos  Internos por la infracción a lo dispuesto en el artículo 19  N°  3 de la Constitución Política de la  República que garantiza el derecho al debido proceso. El fallo recurrido había ordenado dejar sin  efecto la Resolución impugnada, inhibirse de seguir conociendo del proceso de invalidación de la  Resolución que dejó sin efecto el doble enrolamiento de superficies de su propiedad, mientras se  sustanciara el reclamo por vulneración de derechos deducido ante el Tribunal Tributario y Aduanero  de esa ciudad, e invalidar todas las actuaciones realizadas en dicho proceso administrativo con  posterioridad a la interposición del mencionado reclamo. ​\n​\nLa recurrente en su acción de protección estimó como ilegal y arbitraria la Resolución emitida por el  Órgano Fiscalizador, mediante la cual manifestó su negativa a inhibirse administrativamente del  procedimiento  invalidatorio  del Acto a través del cual dejó sin efecto el segundo enrolamiento de los  inmuebles, pese a existir un reclamo por vulneración de derechos interpuesto por la contribuyente  ante el tribunal Tributario y Aduanero de Los Lagos.\n\nLa actora señaló que ello contravenía lo dispuesto en el artículo 54 inciso 3° de la Ley  N°  19.880, que  establecía la regla de la inhibición administrativa, disponiendo la incompatibilidad entre las vías de  impugnación administrativa y jurisdiccional. ​\n​\nEl Servicio de Impuestos Internos alegó que no existía una duplicidad en el registro predial de los  inmuebles en cuestión puesto que dichos lotes, por un error del Ente Fiscalizador, no fueron  catastrados, de manera que no se registraron en roles independientes, ni dentro de los cuales la  reclamante señalaba que se encontraban incorporados, lo que significaba que nunca habían sido  objeto del pago de contribuciones. ​\n​\nEn cuanto a la invalidación de la Resolución que otorgaba derechos a la recurrente dejando sin efecto  el supuesto doble enrolamiento, el Servicio manifestó que ello se debió a que, a raíz de una petición  de la contribuyente, se revisaron nuevos antecedentes y se constató la existencia de errores o vicios  manifiestos en la misma, por lo que se procedió a anular de oficio dicho Acto. Agregó, que se debía  llevar adelante el proceso de invalidación de dicha Resolución, respecto de lo cual existía cosa  juzgada, y que no correspondía suspender el procedimiento administrativo ni inhibirse de su  conocimiento, ya que el Tribunal Tributario y Aduanero, al conocer del reclamo por vulneración de  derechos rechazó la orden de no innovar solicitada en relación con el proceso  invalidatorio , de  manera que no existían derechos indubitados en discusión que ameritasen la suspensión de este.\n\nAsimismo, el Ente Fiscal señaló que no hubo vulneración de la garantía del debido proceso, la cual no  se encontraba amparada por la acción de protección, habiéndose respetado cada una de las etapas  procesales y plazos previstos en la ley, para que el actor pudiese ser oído y hacer valer sus  alegaciones. Precisó, que la inhibición se aplicaba cuando se hubiese interpuesto reclamación y  existiese un procedimiento administrativo sobre la misma pretensión, lo que no  los hechos no ocurrió   atendido que los actos impugnados en cada caso, a su juicio, eran distintos. ​\n​\nLa Corte de Apelaciones resolvió el recurso impetrado y estimó, que aparecía de manifiesto que el  recurrido, dado su carácter público, debía cumplir, sin posibilidad de excusa alguna, la preceptiva  legal que rige a los organismos del Estado, y en ese sentido el artículo antes citado  contenía una  norma de carácter imperativo, por lo que su observancia le resultaba obligatoria"
+    },
+    {
+      "name": "Corte de Apelaciones de Puerto Montt: Sentencia ROL-982-2024",
+      "source_type": "jurisprudencia",
+      "source": "ROL-982-2024",
+      "document_id": "196b2c41-82b7-5733-8067-02e5093d967c",
+      "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/20558",
+      "content": "La Corte de Apelaciones de Puerto Montt rechazó la acción de protección que presentó el contribuyente en contra la determinación del impuesto territorial de dos inmuebles de su propiedad efectuada por la X Dirección Regional de Puerto Montt por estimar que dicho cálculo fue erróneo y vulneró las garantías constitucionales del artículo 19 N°s 2 y 24 de la Constitución Política de la República.\n\n\nEl contribuyente expuso en su acción constitucional que era dueño de una parte de dos parcelas ubicadas en la comuna de Puerto Montt, las que fueron parcialmente expropiadas el año 2022. Posteriormente, el recurrente indicó que en el mes de mayo del año 2024 se percató de que el impuesto territorial asociado a los referidos inmuebles experimentó un aumento de un 140% en relación al año anterior el que, a su juicio, fue desmedido y desproporcionado.\n\n\n\nEl contribuyente, sostuvo que el Ente Fiscal no consideró los diversos factores específicos de sus parcelas los cuales debieron influir en la determinación de un impuesto inferior, tales como, que no tenían un acceso a la vía pública y que eran colindantes a un barranco peligroso.\n\n\nEn atención a lo anterior, la recurrente indicó que el cálculo del impuesto territorial fue errado e infringió sus derechos constitucionales de igualdad ante la ley y el derecho de propiedad consagrados en el artículo 19 N°s 2 y 24 de la Constitución.\n\n\n\nPor su parte el Órgano Fiscalizador sostuvo que el año 2023 se desarrolló un proceso de reavalúo de bienes raíces a nivel nacional por el cual los inmuebles efectivamente sufrieron un aumento en su valor y, consecuencialmente, en el impuesto territorial asociado.\n\n\nEl Servicio de Impuestos Internos, además, precisó que a las propiedades se les aplicó una sobretasa del 100% de la contribución neta en virtud del artículo 8 de la Ley N°17.235, que correspondía a aquellos inmuebles no edificados o abandonados ubicados en zonas urbanas.\n\n\n\nFinalmente, el Ente Fiscal argumentó que la acción de protección no era la vía idónea para abordar sus alegaciones. Esto en atención a que el ordenamiento jurídico estableció procedimientos administrativos y jurisdiccionales de lato conocimiento para dicha materia en específico.\n\n\n\nAl respecto, la Corte de Apelaciones de forma preliminar aclaró los requisitos necesarios para acoger una acción de protección siendo estos: 1. Que se hubiera comprobado la existencia de la acción u omisión reprochada; 2. Que se hubiera establecido la ilegalidad o arbitrariedad de esa acción u omisión; 3. Que esta hubiera producido directo e inmediato atentado contra una o más garantías constitucionales que pudieron ser protegidas por la vía de la acción de protección; y, 4. Que la Corte hubiera estado en la situación material y jurídica de poder haber brindar protección.\n\n\n\nA continuación, la Magistratura estableció que la controversia jurídica se concentró en un supuesto error o arbitrariedad por parte del Órgano Fiscal al efectuar el cálculo y en la aplicación de factores de corrección del impuesto territorial que gravó los inmuebles de propiedad del recurrente.\n\n\n\nEn razón de lo anterior el Tribunal Superior determinó que la materia en discusión no era de aquellas que debieron ser dilucidadas por medio de una acción cautelar de urgencia como era la acción de protección que fue establecida en el artículo 20 de la Constitución Política de la República.\n\n\n\nAsimismo, la Corte señaló que el recurrente debió haber empleado los remedios administrativos y jurisdiccionales que estaban previstos por el ordenamiento jurídico para impugnar los actos del Servicio Impuestos Internos en materia de Impuesto Territorial que a su parecer fueron errados.\n\n\n\nAsí, la Magistratura precisó que para este caso concreto el contribuyente dispuso de un procedimiento jurisdiccional especial para haber reclamado de los avalúos que les fueron asignados a sus inmuebles el que estaba regulado en el artículo 124 del Código Tributario.\n\n\n\nEn virtud de lo previamente expuesto, la Corte resolvió que la"
+    },
+    {
+      "name": "Resolución N°128 (31/12/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°128 (31/12/2014)",
+      "document_id": "4cddfecb-d430-5e1e-8aa4-3744c8382a1e",
+      "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso128.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \n \n     SUBDIRECCIÓN DE FISCALIZACIÓN \nDEPARTAMENTO DE ANÁLISIS SELECTIVO \n        DEL CUMPLIMIENTO TRIBUTARIO \n \nESTABLECE FORMULARIO PARA DECLARAR Y \nPAGAR \nEL \nIMPUESTO \nSOBRE \nRENTAS \nACUMULADAS \nY \nRETIROS \nEN \nEXCESO, \nCONFORME A LO ESTABLECIDO EN EL N° 11, \nDEL NUMERAL I), DEL ARTÍCULO TERCERO DE \nLAS DISPOSICIONES TRANSITORIAS DE LA \nLEY N° 20.780 DE 2014. \n  \nSANTIAGO, 31 de diciembre de 2014 \n  \nHoy se ha resuelto lo que sigue:  \n \nRESOLUCIÓN EX. SII N° 128  \n \n \nVISTOS: Las facultades que me confieren los \nartículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. \nN° 7, de 1980, del Ministerio de Hacienda; lo establecido en los artículos 6° letra A) N° 1 y 21 del Código \nTributario, contenido en el artículo 1° del D.L. N° 830, de 1974; el artículo 14 de la Ley sobre Impuesto a la \nRenta, contenida en el artículo 1° del D.L. 824 de 1974, y lo dispuesto en el N° 11, del numeral I), del artículo \ntercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial con fecha 29 de \nseptiembre de 2014; y la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada mediante las \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° 27, de \n25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° 41, de 29 de marzo \nde 2011; N° 10, de 23 de enero de 2013; N° 9, de 22 de enero de 2014, y N° 69, de 21 de julio del 2014; y  \n \n \nCONSIDERANDO:  \n \n1° Que, conforme al N° 1, del N° 11, del numeral I), \ndel artículo tercero de las disposiciones transitorias de la Ley N°20.780, los contribuyentes sujetos al \nimpuesto de primera categoría sobre la base de un balance general, según contabilidad completa, que hayan \niniciado actividades con anterioridad al 1° de enero de 2013, y que al término del año comercial 2014 \nmantengan un saldo de utilidades no retiradas o distribuidas pendientes de tributación con los impuestos \nglobal complementario o adicional, determinadas conforme a lo dispuesto en la letra A), del artículo 14 de la \nLey sobre Impuesto a la Renta, según su texto vigente a esa fecha, podrán optar por pagar a título de \nimpuesto de esa ley, un tributo sustitutivo de los impuestos finales, sobre una parte de dichos saldos de \nutilidades; \n \n2° Que, según el N° 3, del N° 11, del numeral I), del \nartículo tercero de las disposiciones transitorias de la Ley N° 20.780, las empresas, comunidades y \nsociedades que, desde el 1 de enero de 2014 se encuentren conformadas exclusivamente por personas \nnaturales contribuyentes del impuesto global complementario, que hayan iniciado actividades con \nanterioridad al 1 de enero de 2013, y que al término del año comercial 2014 mantengan un saldo de utilidades \nno retiradas o distribuidas pendientes de tributación con el impuesto referido, podrán optar por pagar a título \nde impuesto de la Ley sobre Impuesto a la Renta, un tributo sustitutivo de los impuestos finales, sobre una \nparte de dichos saldos de utilidades; \n \n3"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-77252 - 2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-77252 - 2018",
+      "document_id": "91c373a5-c0af-585e-9736-31ce50e81a19",
+      "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+      "chunk_id": 5,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13600",
+      "content": " constitucional establecida en el artículo 19 N° 24 de la Constitución Política de la República, esto es, la propiedad en sus diversas especies, no puede considerarse que el beneficio tributario que en la especie alega la recurrente, sea de su propiedad. En este sentido, nuestra jurisprudencia ha establecido que la garantía del derecho de propiedad, para ser objeto de protección, debe tener la condición de indubitado y hallarse incorporada al patrimonio del recurrente, de lo contrario constituye sólo una mera expectativa. De esta forma, en el caso de autos, entre los años 2014 y 2017, la recurrente cumplió con los requisitos que le permitieron ser titular del beneficio del Adulto mayor, sin embargo, durante el año 2018, como consecuencia de reevaluó de su propiedad, perdió este beneficio, por no verificarse una de las condiciones establecidas en la ley; en consecuencia, la rebaja que pretende, solo constituye una mera expectativa, sujeta a la comprobación de los requisitos establecidos en la Ley N° 20.732. En relación con la supuesta vulneración de la garantía constitucional, establecida en el N° 22 del artículo 19 de la Constitución Política, hace presente que la recurrente, no explica de qué forma o cómo la actuación de este Servicio, podría afectar la garantía señalada. En este contexto, debemos señalar que, esta supuesta infracción, no es tal, toda vez que, la actuación de esta repartición, tal como ha quedado demostrado se ha ajustado a derecho. \n\nCuarto: Que, en apoyo de sus alegaciones, la recurrida acompañó los siguientes documentos: 1.- Informe Técnico N° 703, de 30.10.2018; 2.- Consulta de antecedentes beneficio adulto mayor, de 31.10.2018; 3.- Copia de las fechas de publicación por Municipalidades de la Región Metropolitana de reavalúo de bienes raíces no agrícolas; 4.- Copia de publicación, diario la Tercera, de 29.04.2018; 5.- Copia de carta de Reavalúo de bienes raíces no agrícolas 2018, enviado en marzo de 2018. \n\nQuinto: Que, previo trámite ordenado por esta Corte, la recurrida complementó su informe señalando que el avalúo total de los inmuebles de GLVXHJKRBX propiedad de la recurrente ascienden a la suma de 118.428.628.- y que el monto contenido en numeral 6° del artículo 1° de la Ley N°20.732, debidamente reajustado a la fecha de hoy, asciende a la suma de $118.688.500, reiterando, adicionalmente, las mismas alegaciones expuestas en el informe original. \n\nSexto: Que, el recurso de protección está establecido a favor de aquel que por causa de actos u omisiones arbitrarias o ilegales sufre privación, perturbación o amenaza en el legítimo ejercicio de algunos de los derechos o garantías constitucionales a que se refiere el artículo 20 de la Carta Fundamental, por lo cual el afectado puede, en tal caso recurrir a la Corte de Apelaciones a fin de que se adopte de inmediato las providencias que fuere necesario para establecer el imperio del derecho y asegurar la debida protección al derecho que se reclama. \n\nSéptimo: Que, la cuestión debatida en la presente acción constitucional, dice relación no sólo con determinar la correcta interpretación del artículo 1° de la Ley N°20.732 y si la recurrida ha conculcado con ello alguna de las garantías constitucionales denunciadas por la recurrente, sino también si el aumento impositivo impuesto a la recurrente, constituye o no un acto ilegal o arbitrario que deba ser restablecido al status quo previo.\n\n Octavo: Que, en relación a la alegación de extemporaneidad, lo cierto es que el arbitrio intentado descansa sobre la base de la supuesta de las garantías de los numerales 22 y 24 del artículo 19 de la Carta Fundamental, hecho que se consumaría de forma"
+    },
+    {
+      "name": "Tribunal Constitucional: Sentencia ROL-10.985-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-10.985-2021",
+      "document_id": "7450b3ca-9522-5b1f-b139-a126c49c5128",
+      "chunk_uuid": "88c83fd9-8af0-590e-86d8-a6e8cb3664ed",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17168",
+      "content": "El Tribunal Constitucional rechazó el recurso de inaplicabilidad por inconstitucionalidad entablado por la contribuyente respecto de la disposición contenida en el artículo del 156 del Código Tributario, que permite impugnar la sentencia de primer grado que pone fin a un procedimiento de reclamo por vulneración de derechos únicamente mediante la interposición de un recurso de apelación excluyendo al recurso de casación en la forma.\nLa contribuyente interpuso un reclamo al considerar que una resolución emitida por el Servicio había conculcado sus derechos establecidos en los numerales 4°, 8° y 18° del artículo 8 bis del Código Tributario, el cual fue rechazado por el Tribunal Tributario y Aduanero de la Región de Coquimbo. Luego, al impugnar la sentencia de primera instancia pronunciada en el procedimiento de vulneración de derechos, estimó que la norma contemplada en el artículo 156 del Código Tributario, que no consideraba como medio de impugnación el recurso de casación en la forma, era inaplicable al vulnerar el debido proceso y las garantías de igualdad ante la ley e igual protección de la ley en el ejercicio de sus derechos, consagradas en los en el artículo 19° N° 2 y 3 incisos primero y sexto de la Constitución.\n\n\nPor su parte el Tribunal Constitucional señaló en primer término que el derecho a un proceso previo, legalmente tramitado, racional y justo, que la Constitución asegura a toda persona contempla la facultad de interponer recursos para revisar la sentencias pronunciadas por tribunales inferiores.\n\n\nLuego, agregó que el reconocimiento del derecho al recurso, como componente del debido proceso legal, no implica que se consagre el derecho a recursos específicos como podría ser el recurso de casación en la forma. Argumento el Tribunal que lo importante era que los justiciables gozaran de garantías efectivas de un procedimiento racional y justo, que aseguren que no quedaran en una situación de indefensión frente a una eventual arbitrariedad en que incurra el juzgador.\n\n\n\nSeñaló el Tribunal que los procedimientos cautelares como el originado a raíz de la presentación de un reclamo por vulneración de derechos, se distinguían de otros por ser breves y de emergencia, ya que el afectado requiere de una resolución urgente y eficaz para el debido resguardo de los derechos que considera conculcados. Luego, agregó el Tribunal que tal característica, se reflejaba en la tramitación de la acción de reclamo por vulneración de derechos del contribuyente por los tiempos acotados que contempla el Código Tributario y porque el recurso de apelación se ve en cuenta y en forma preferente.\n\n\nContinuando su análisis la sentencia expresó que tanto el recurso de casación en la forma como en el fondo, no procedían en los procedimientos cautelares, ya que lo denunciado en ellos era una infracción al orden Constitucional, y su objeto era que las cosas volvieran a su cause normal, esto es que se respetaran las garantías Constitucionales vulneradas. Ello no guardaba relación con los juicios en que procedía el recurso de casación, esto es las reclamaciones en las que se discutían materias tributarias de fondo.\n\n\nLuego, teniendo presente lo razonado anteriormente, concluyo el Tribunal que la norma impugnada por la requirente resultaba coherente con la naturaleza de la acción cautelar, resultando por tanto razonable que la ley limitara los recursos procedentes en contra de la sentencia pronunciada por el Tribunal Tributaria y Aduanero. Por lo demás, sostuvo el fallo que el precepto impugnado reconocía el derecho al recurso, al permitir la interposición de un recurso de apelación, ajustándose así a las bases del debido proceso."
+    },
+    {
+      "name": "Oficio N°1429 (28/05/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1429 (28/05/2015)",
+      "document_id": "bed36729-2b66-5945-93c5-f801028ac986",
+      "chunk_uuid": "1c282c8c-e3bc-5d01-8858-791971081102",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/ventas/ja1429.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a las Ventas y Servicios - 2015\nVENTAS Y SERVICIOS y NUEVO TEXTO y ACTUAL LEY SOBRE IMPUESTO A LAS y ART. 8°, ART.\n2°, N°1 Y 3 ART. 10° y LEY N° 20.780, DE 2014. (ORD. N° 1429, DE 28.05.2015)\nCONSULTA SOBRE APLICACIÓN DE IVA A LA VENTA DE UN INMUEBLE.\nI.- ANTECEDENTES:\nEn la presentación realizada por el contribuyente manifiesta que posee una vivienda adquirida con crédito\nhipotecario y que sus padres fallecidos le dejaron una vivienda que pretende vender, pero tiene dudas al\nrespecto en cuanto a si al vender la propiedad que recibió por herencia debería pagar IVA, y en dicho caso\nquién pagaría el IVA y cómo se descontará ese impuesto. Señala que su padre cuando construyó la casa\npagó IVA por la compra del terreno y la construcción de la casa, ¿deberá volver a pagar el impuesto? Por\núltimo, consulta si necesita las facturas o boletas de la compra del terreno y los materiales que gastó,\nhaciendo presente que la casa es construida en el año 1960 aproximadamente.\nII.- ANÁLISIS.\nSobre el particular debemos señalar que el artículo 8°, del D.L. N° 825, grava con Impuesto al Valor\nAgregado las ventas y los servicios.\nA su vez el artículo 2°, N° 1, del mencionado texto legal, define la venta como: vtoda convención\nindependiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de\nbienes corporales muebles, bienes corporales inmuebles de propiedad de una empresa constructora\nconstruidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella de una cuota\nde dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o\ncontrato que conduzca al mismo fin o que la presente ley equipare como a venta.w\nPor otra parte, el N° 3 del artículo 2° del D.L. N° 825 de 1974 entiende por vendedor, entre otros, v(h) la\nempresa constructora, entendiéndose por tal a cualquier persona natural o jurídica, incluyendo las\ncomunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales\ninmuebles de su propiedad, construidos totalmente por ella o que en parte hayan sido construidos por un\ntercero para ella. Corresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la\nhabitualidadw.\nDentro de los requisitos copulativos exigidos por la Ley sobre Impuesto a las Ventas y Servicios a objeto de\nque se configure el hecho gravado básico de venta, entre otros, se hace indispensable que la convención\nrecaiga sobre bienes corporales inmuebles de propiedad de una empresa constructora, construidos\ntotalmente por ella o que en parte hayan sido construidos por un tercero para ella, o una cuota de dominio\nsobre dichos bienes, o derechos reales constituidos sobre ellos y que la venta sea realizada por un vendedor,\nal tenor de lo señalado en el N° 3 del artículo 2° y del artículo 10°, ambos del D.L. N° 825.\nDicho lo anterior, en el caso consultado por el contribuyente, la venta de la propiedad aludida no se\nencontrará afecta a IVA, ya que no cumple con a lo menos dos de los requisitos mencionados en el párrafo\nprecedente.\nPor otra parte, con fecha 29 de septiembre de 2014 fue publicada en el Diario Oficial la Ley N° 20.780, la cual\neliminó, a contar del 1° de Enero del 2016, el requisito de que los inmuebles sean vde propiedad de una\nempresa constructora construidos totalmente por ella o que en parte hayan sido construidos por un"
+    },
+    {
+      "name": "Resolución N°172 (18/11/2010)",
+      "source_type": "resolucion",
+      "source": "Resolución N°172 (18/11/2010)",
+      "document_id": "16940d43-ff4d-5310-a654-d0230cdf0735",
+      "chunk_uuid": "ef7b7bfd-4cb1-5b37-9f79-e31912d2864a",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2010/reso172.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRESOLUCION EXENTA SII N°172 DEL 18 DE NOVIEMBRE DEL 2010\nMATERIA : AUTORIZA SISTEMA DE DESPACHO DE COMBUSTIBLES DE PROPIEDAD DEL MINISTERIO DE DEFENSA NACIONAL, DEL ESTADO MAYOR\nDE LA DEFENSA NACIONAL, DE LAS FUERZAS ARMADAS, DE CARABINEROS DE CHILE O DE LA POLICÍA DE INVESTIGACIONES, POR PARTE DE\nEMPRESAS PRESTADORAS DE SERVICIOS DE DEPÓSITO Y DISTRIBUCIÓN DE COMBUSTIBLES. REEMPLAZA RESOLUCIÓN EX. SII N° 39, DE 2001.\nHoy se ha resuelto lo que sigue:\nVISTOS:\nLo dispuesto en los artículos 6°, letra A),  N° 1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974, y en los artículos 1° y 7° de la Ley\nOrgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de Hacienda, de 1980; lo dispuesto en el D.L. N° 825, de 1974, sobre\nImpuesto a las Ventas y Servicios y en el D.S. de Hacienda N° 55, de 1977, reglamentario del D.L. N° 825, de 1974.\nCONSIDERANDO:\n1°     Que, mediante Resolución Ex. SII   N° 39, de 14 de septiembre de 2001, este Servicio autorizó el uso de un sistema de despacho de combustibles importados\ncomo pertrechos, de propiedad de las Fuerzas Armadas y de Orden a que se refiere el D.L. N° 480, de 1974, por parte de las empresas prestadoras de servicio de\nalmacenamiento y distribución de combustibles, las cuales deben solicitar autorización a la Dirección Nacional de este Servicio, por intermedio de la Dirección\nRegional bajo cuya jurisdicción tengan domicilio. Dicho sistema de despacho opera, en la actualidad, a través de la emisión de una \"Orden de Entrega de\nCombustible\", dirigida al depositario y distribuidor contratado, a fin de que proceda a surtir los vehículos del propietario del combustible.\n2°     Que, en atención a lo expresado en Oficios Ordinarios N°s 92/1239/3054 y 6920, de fechas 13.05.2009 y 16.10.2009, respectivamente, del Comandante del\nComando Logístico de la Fuerza Aérea de Chile, se plantea la necesidad de incorporar al Sistema de Despacho de Combustibles de propiedad de las Fuerzas\nArmadas, de Orden y Seguridad Pública, las adquisiciones efectuadas con cargo a las cuentas corrientes bancarias y/o de ahorro reguladas en el D.L. N° 1.277,\nque fija el nuevo texto de la Ley N° 16.256, sobre Fondo Rotativo de Abastecimiento, publicado en el D.O. de fecha 17.12.1975, y aquellas adquisiciones de\ncombustible efectuadas bajo régimen general, afectas al pago de impuestos y derechos de aduana.\n3° Que, el desarrollo de nuevas tecnologías de información ha hecho posible la incorporación al sistema de despacho de combustibles de propiedad de las\ninstituciones antes referidas, un sistema electrónico de despacho, mediante el uso de terminales en línea, habilitados en las estaciones distribuidoras y tarjetas\nelectrónicas, nominativas, con clave secreta, que la empresa depositaria entregaría a cada institución, permitiendo un control más eficiente de las operaciones\nefectuadas, tanto para los propietarios del combustible, como para las empresas depositarias y el Servicio de Impuestos Internos, reduciendo considerablemente los\nriesgos y costos de administración de un sistema basado en el uso de documentos representativos de valores, como lo son las Órdenes de Entrega de\nCombustible.\n4°     Que, la compra de combustibles adquiridos con cargo al FORA tiene un tratamiento tribut"
+    },
+    {
+      "name": "Oficio N°1839 (23/06/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1839 (23/06/2016)",
+      "document_id": "963a0b54-6497-5c62-92c4-c5fa3094a716",
+      "chunk_uuid": "2a4e542b-5cb6-56b0-bd46-7c5c1ff88d48",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja1839.htm",
+      "content": " que recae .\nLa regla de la letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, debe entenderse referida a la\ngeneralidad de los bienes raíces, toda vez que la expresión vbienes raícesw de que se sirve dicha norma, y\nque el inciso 1°, del artículo 568 del Código Civil hace análoga a inmueble, se emplea sin otra calificación\nque determine que su alcance deba circunscribirse a bienes inmuebles corporales . Por consiguiente,\nconsiderando que la norma de que se trata no exige que la enajenación deba referirse a bienes inmuebles\ncorporales, y que por disposición del artículo 580 del Código Civil, el usufructo que se ejerce sobre un\ninmueble es un derecho real inmueble , cabe concluir que la cesión del derecho de usufructo constituye, para\nlos efectos de lo dispuesto en la letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, la enajenación de\nbien raíz .\nEn el caso en análisis, resulta aplicable entonces la norma de la letra b), del N°8 del artículo 17 de la LIR,\ntanto a la enajenación de la nuda propiedad como a la enajenación del derecho de usufructo.\nSin perjuicio de lo anterior, dado que la consultante gozaría del carácter de constituyente del derecho de\nusufructo yel que habría constituido por retención, esto es, reservándose el usufructo y cediendo la nuda\npropiedady, sólo podrá considerar como costo tributario de aquel los desembolsos directamente incurridos\nen la constitución misma de tal derecho . Lo anterior, por cuanto es la enajenación de la nuda propiedad, que\nimplica la enajenación del bien en si mismo, la que lleva asociada el valor de adquisición de dicho bien como\ncosto tributario. De este modo, el derecho de usufructo respecto de su constituyente, en caso de no existir los\ndesembolsos aludidos, no tiene valor de costo para efectos tributarios.\nIII.- CONCLUSIÓN.\nEn base a las normas e instrucciones referidas y al análisis efectuado, a continuación se responden las\nconsultas en el mismo orden en que se formulan:\n- Respecto a la consulta N° 1. No es posible determinar en esta instancia si la enajenación del bien raíz,\nentendiendo por tal la enajenación de la nuda propiedad, quedará o no gravada con los impuestos de la LIR,\npor cuanto se desconoce la fecha en que se efectuará aquella, cuestión que determina la norma vigente a\ndicha época y, consecuencialmente, los requisitos que han de concurrir para efectos de gravarla o no con los\nreferidos impuestos. Por lo demás, no se expone en la consulta información alguna que dé cuenta de la\nconcurrencia o no de los requisitos señalados en el apartado precedente, atendidas las vigencias referidas,\nasí por ejemplo, no se indica si el enajenante es habitual o si enajena a parte relacionada o si determina el\nIDPC sobre rentas efectivas, etc.\n\n\nCabe recalcar que, dado que en el año 2013 doña XXXXX transfirió la nuda propiedad del bien raíz,\nreservándose el derecho de usufructo, la enajenación de estos dos derechos debe analizarse en forma\nindependiente para efectos de determinar la existencia o no de un mayor valor y su afectación con los\nimpuestos a la renta.\n- Respecto a las consultas N°s 2 y 3. Por las mismas razones indicadas en la respuesta precedente, no es\nposible determinar en esta instancia el costo tributario de la nuda propiedad en caso que ésta se enajene.\nEn cuanto al derecho de usufructo, por otra parte, atendido que la consultante habría sido la constituyente del\nmismo, sólo podrá considerar como costo tributario de tal derecho, ya sea que lo enajene antes del 1° de\nenero de 2017 o partir de dicha fecha, los"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-77252-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-77252-2018",
+      "document_id": "db56122b-d6a2-5ffc-bfaa-296099ff43d9",
+      "chunk_uuid": "c94cec35-5666-5ac3-ac6e-eef5d04dc189",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/15020",
+      "content": "La Corte de Apelaciones de Santiago acogió el recurso de protección interpuesto por la contribuyente, una profesora jubilada, a causa de la no renovación del beneficio establecido en la Ley N° 20.732, norma que establece un límite en el pago de las contribuciones para los contribuyentes jubilados en situación de vulnerabilidad, lo cual generó un aumentó de las contribuciones de su propiedad ubicada en la comuna de Las Condes.\n\nLa contribuyente alegó en su recurso que el artículo 1 de la Ley N° 20.732, contiene el beneficio consistente en que, los adultos mayores de más de 60 años de edad (en el caso de las mujeres) y de más de 65 (en el caso de los hombres), cuyos ingresos anuales no excedieran de la cantidad equivalente al tramo exento del Impuesto Global Complementario (que para el año 2017 correspondía a $7.609.464), no podrán pagar por concepto de contribuciones un monto superior al 5% de su ingreso anual, debiendo rebajarse el impuesto en cuestión, cuando en razón del avalúo fiscal de la propiedad, el monto de las contribuciones excediese dicho límite, beneficio que a su juicio, debió mantenerse por encontrarse en la hipótesis de la norma. \n\nAsimismo, indicó que un gran porcentaje de adultos mayores eran propietarios de inmuebles donde habitan, los cuales han aumentado su plusvalía a lo largo de los años, situación que ha dejado a los pensionados en una seria amenaza, considerando que las pensiones tienen montos exiguos en relación con sus sueldos en servicio activo, careciendo los contribuyentes de medios para pagar el Impuesto Territorial. En este sentido, a raíz del alza señalada, tuvo que utilizar su línea de crédito para pagar dicha deuda, con la consecuente generación de intereses que irrogaron un perjuicio patrimonial a su persona.\n\nAsí, la ley mencionada contemplaba un mecanismo corrector de esta desigualdad, por tanto al privarle a la contribuyente de este beneficio, se incurrió en una discriminación arbitraria, obligándola a pagar un impuesto mayor al que una persona con sus ingresos debía enterar en arcas fiscales, vulnerando el artículo 19 N°22 de la Carta Fundamental.\n\n\nEl Servicio en su informe, indicó que se envió una carta informativa señalando el reevalúo de sus propiedades. Sobre el tema en cuestión, se indicó que la contribuyente gozó del beneficio desde el segundo semestre del año 2014 hasta el primer semestre de 2018. Luego, a partir del segundo semestre de 2018, la contribuyente dejó de cumplir con el requisito del número 5 del artículo 1°, pues el monto máximo de avalúo del bien raíz debió ser $89.016.37, y el valor actual era de $104.123.592, con lo cual quedó fuera del citado beneficio.\n\nLa Corte acogió el recurso y ordenó al Servicio a rebajar las contribuciones de la contribuyente reestableciendo el imperio del derecho. En este sentido, indicó que el órgano fiscalizador nunca dictó ningún acto administrativo tendiente a informarle sobre la pérdida de la rebaja tributaria respecto de las contribuciones que gravarían su propiedad, considerando que este cambio de estatus jurídico patrimonial, trajo como consecuencia un aumento considerable de la carga impositiva de la contribuyente que, considerando sus exiguos ingresos, importaban una verdadera carga que atentó contra el derecho fundamental de la vida, pues, sin este beneficio, la contribuyente no contaba con los recursos necesarios para proveerse, ni siquiera, de su mantención, así señaló que “la pérdida del beneficio tributario importa un verdadero acto expropiatorio, desde que obliga, tácitamente, a la recurrente, a enajenar su inmueble, producto de la imposibilidad económica de poder asumir el pago de los impuestos territoriales\".\n\nA mayor abundamiento, se analizaron los requisitos del artículo 1° de la ley, en particular, el número 5 referido al límite máximo de avalúo fiscal permit"
+    },
+    {
+      "name": "Oficio N°1440 (24/05/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1440 (24/05/2016)",
+      "document_id": "95c98f1e-0773-5e03-8984-9b814d623055",
+      "chunk_uuid": "6ac40c25-d88d-5db1-9755-4f8b278c3013",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja1440.htm",
+      "content": " contar del 1° de octubre de 1987, se\nhabía modificado el Decreto Ley N° 825, de 1974, incorporando la actividad de la construcción al hecho\ngravado venta, pero restringido exclusivamente a la transferencia de inmuebles de propiedad de una\nempresa constructora, construidos totalmente por ella o en parte por un tercero para ella, de una cuota de\ndominio sobre dichos bienes o derechos reales constituidos sobre ellos, siempre y cuando la empresa\nconstructora tuviera la calidad de vendedor, entendiendo por tal a aquella que se dedique en forma habitual a\nla venta de bienes corporales inmuebles de su propiedad, construidos totalmente por ella o que en parte\nhayan sido construidos por un tercero para ella.\nAhora bien, en el Mensaje Presidencial del Proyecto de Ley, sobre reforma tributaria, respecto a esta\nmodificación, en la letra a) IVA en los inmuebles, del N° 5 del Título III, se establece: vEn primer lugar, como\nlo anunciamos en nuestro programa, terminaremos con la elusión del pago de IVA en la venta de bienes\ninmuebles nuevos.\nPara eso, se gravarán con IVA la venta de inmuebles, cualquiera que sea el vendedor, introduciendo una\nserie de modificaciones a la ley del IVA que están contenidas en el artículo 2° del proyecto (numerales 1, 3, 4,\n5 y 6). Al respecto, es importante recalcar que para que opere este gravamen debe existir habitualidad, es\ndecir, se excluyen las operaciones no habituales. Para venta de inmuebles usados, realizadas por un\nvendedor (habitual), la base imponible será la diferencia entre los precios de venta y compraw.\nConsecuentemente con lo señalado en el mensaje presidencial, la Ley N° 20.780, del 2014, complementada\npor la Ley N° 20.899, del 2016, modificaron los N° 1 y 3 del artículo 2°, del Decreto Ley N° 825, de 1974,\nsobre los conceptos de vVentaw y vVendedorw, específicamente en lo referido a los inmuebles. De su\nanálisis se puede apreciar que se amplía el universo de sujetos del impuesto, incorporando las transferencias\nque hacen otros vendedores habituales de inmuebles nuevos, que no estaban considerados en la norma\nanterior, la cual estaba restringida sólo a aquellos inmuebles de propiedad de una empresa constructora,\nconstruidos totalmente por ella, o en parte por un tercero para ella. Se incorpora también y por consiguiente\nse grava con IVA, la venta de inmuebles usados, realizada por un vendedor habitual de ellos.\nLuego, en opinión de este Servicio, las modificaciones que hacen las leyes N° 20.780 y 20.899, a los N° 1 y 3\ndel artículo 2° del Decreto Ley N° 825, de 1974, consisten en incorporar al hecho gravado venta, en general,\nla venta de inmuebles nuevos o usados, no importando si éstos fueron construidos por el propio vendedor o\n\n\nsi dichos bienes fueron construidos por un tercero y adquiridos para la venta, por quien tiene la calidad de\nvendedor habitual de dichos bienes.\nEn otros términos, lo que se incorpora por las Leyes N° 20.780 y 20.899, a las transferencias de inmuebles,\nnuevos o usados, es el gravamen con IVA de la parte construida del bien -ya que la norma excluye\nexpresamente del hecho gravado a los terrenos incluidos en la operación-, en las distintas etapas de\ncomercialización de los bienes hasta el usuario final, siempre que dichas trasferencias sean realizadas por un\nvendedor habitual de ellos. Así las cosas, para que se configure el hecho gravado con el Impuesto a las\nVentas y servicios, tratándose de venta de inmuebles, la respetiva operación debe recaer sobre un inmueble\nconstruido.\nAhora bien, si respecto de los inmuebles señalados precedentemente, se constituyen derechos reales, su\nconstitución no se encontrará gravada con el Impuesto"
+    },
+    {
+      "name": "Artículo 20",
+      "source_type": "ley",
+      "source": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE",
+      "document_id": "d51603bd-acc0-5c30-bef3-9a19744c8c72",
+      "chunk_uuid": "888c5c30-dbd5-569b-b737-ffac193bf47e",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=242302&idParte=8563489",
+      "content": "Decreto 100 FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE,,Capítulo III DE LOS DERECHOS Y DEBERES CONSTITUCIONALES,Artículo 20|- El que por causa de actos u omisiones CPR Art. 20º arbitrarios o ilegales sufra privación, perturbación o D.O. 24.10.1980 amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º, 2º, 3º inciso quinto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º, 21º, 22º, 23º, 24°, y 25º podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes. Procederá, también, el recurso de protección en el LEY N° 20.050 Art. caso del Nº8º del artículo 19, cuando el derecho a vivir 1° en un medio ambiente libre de contaminación sea afectado N° 11 D.O. por un acto u omisión ilegal imputable a una autoridad o 26.08.2005 persona determinada."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-20883-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-20883-2018",
+      "document_id": "b14ef218-18cd-56bc-98bd-426e84bf3e15",
+      "chunk_uuid": "9a257242-50cb-5dbe-a7e7-fb059335aa69",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16821",
+      "content": " por la sociedad reclamante respecto de inmuebles ubicados al interior de la Zona Franca de Punta Arenas, contratos que tenían un objeto que difería totalmente con la finalidad principal de una zona Franca\n\n\nDado lo anterior, el Excelentísimo Tribunal concluyó que tales rentas omitidas se encontraban afectas al impuesto de primera categoría –artículo 20 N°1 de la Ley sobre Impuesto a la Renta-, por lo que el proceder de la autoridad administrativa, en orden a liquidar dichos tributos, era ajustado a derecho. En esas circunstancias, resolvió que aparecía claro que los jueces del grado habían incurrido en un error de derecho al momento de resolver la controversia sometida a su conocimiento al determinar que las rentas provenientes de los subarrendamientos efectuados por la sociedad reclamante se encontraban exentas del pago de impuestos. Lo anterior, dado que no habían examinado el real sentido y alcance del D.F.L. N° 2, de 2001, sobre Zonas Francas, cuerpo de normas que de acuerdo con una interpretación sistemática de sus preceptos, aludía a que las rentas exentas del pago de tributos, eran aquellas que provenían del depósito, transformación, terminación y comercialización de las mercancías de origen extranjero, cuyo no era el caso de autos. A tal conclusión arribó la Corte Suprema toda vez que se trataba de utilidades provenientes de una actividad inmobiliaria, que no se enmarcaba dentro de aquellas de que podían ser objeto lasmercancías introducidas en los recintos francos."
+    },
+    {
+      "name": "Circular N°45 (07/07/2020)",
+      "source_type": "circular",
+      "source": "Circular N°45 (07/07/2020)",
+      "document_id": "7b90a8ec-8d82-5d62-a565-4fed311384ad",
+      "chunk_uuid": "47586d74-122c-5421-a94d-eff9d1234258",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/normativa_legislacion/circulares/2020/circu45.pdf",
+      "content": " 17.336, de Propiedad \nIntelectual; y de derechos de protección sobre nuevas variedades vegetales, al amparo de \nla ley N° 19.342, que Regula Derechos de Obtentores de Nuevas Variedades Vegetales, \nlas actividades necesarias para la constitución de los derechos respectivos, incluyendo los \nservicios profesionales involucrados en el proceso de obtención de los derechos y \nregistros, informes periciales, defensas ante eventuales oposiciones y costos de \npublicaciones asociadas, podrán ser objeto del beneficio tributario establecido en esta ley, \nen la medida que éstas se deriven de los resultados obtenidos de proyectos y contratos de \nInvestigación y Desarrollo debidamente certificados por la “CORFO”, al amparo de la \npresente ley. \nLas actividades descritas en el inciso precedente podrán ser incorporadas ya sea en la \nsolicitud original de certificación del correspondiente contrato o proyecto, o bien con \nposterioridad, rigiéndose en este último caso por el mismo procedimiento para la \ncertificación de contratos y proyectos de investigación y desarrollo, en cuanto sea \naplicable.” \nb) \nPara los efectos de la Ley N° 20.241, “Investigación y desarrollo” comprende a las \nactividades de investigación, desarrollo o ambas”.  \nLa letra a) del artículo 1° de la Ley N° 20.241 define “investigación” como “la búsqueda \nmetódica que tenga por objeto generar nuevos conocimientos en el ámbito científico o \ntecnológico, la que podrá ser básica o aplicada. \nSe entiende por investigación básica aquella que consiste en trabajos experimentales o \nteóricos que se emprenden principalmente para obtener nuevos conocimientos acerca de \nlos fundamentos de los fenómenos y hechos observables, con prescindencia de si tienen \nuna aplicación o utilización determinada. \nLa investigación aplicada consiste también en trabajos originales realizados para adquirir \nnuevos conocimientos; sin embargo, está dirigida fundamentalmente hacia un objetivo \npráctico específico. Para efectos de esta ley la expresión “investigación” se entenderá \nreferida tanto a la investigación básica como a la investigación aplicada.”. \nc) \n“Desarrollo experimental” o indistintamente “desarrollo” como los “trabajos sistemáticos que \naprovechan los conocimientos existentes obtenidos de la investigación y/o la experiencia, y \nestá dirigido a la producción de nuevos materiales, productos o dispositivos; a la puesta en \nmarcha de nuevos procesos, sistemas y servicios, o a la mejora sustancial de los ya \nexistentes. Asimismo, se comprende el desarrollo de programas informáticos, siempre que \n\n\n5 \n \ndicho desarrollo dé lugar a mayor conocimiento con el objetivo de resolver en forma \nsistemática una incertidumbre científica o tecnológica o permita generar un mejoramiento \nsustancial e innovador en algún proceso, producto y/o servicio.”9  \n2.1.2. Propósito de la modificación \nDe acuerdo con el Mensaje, la norma introducida ha tenido el objetivo de incentivar la innovación, \nmediante una excepción a la calificación como rentas pasivas “a las obtenidas de actividades \nempresariales de desarrollo tecnológico que empresas chilenas emprendan a través de filiales en \nel extranjero.” \nPor lo tanto, la actividad de investigación y desarrollo deberá ser realizada por la entidad \ncontrolada en el extranjero o en el país, utilizando sus propias capacidades o de terceros.  \n2.1.3. Tratamiento tributario \nLas rentas obtenidas producto de las actividades de investigación y desarrollo, definidas conforme \nla letra f) del artículo 1° de la Ley N° 20.241, percibidas o devengadas por entidades controladas \nen el exterior por contribuyentes o patrimonios de afectación con domicilio, residencia o \nconstituidos en Chile, no clasificarán como rentas pasivas conforme el N° 3 de la letra C del \nartículo 41 G y, en consecuencia, no se aplicará respecto de ellas la tributación establecida en el \ncitado artículo 41 G.  \nSu exclusión como rentas pasivas se supedita a la aprobación previa de los proyectos de \ninvestigación y"
+    },
+    {
+      "name": "Artículo 19",
+      "source_type": "ley",
+      "source": "ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA",
+      "document_id": "69381433-0f1b-5ab6-952d-b3f24e1a7b4e",
+      "chunk_uuid": "69c826af-928d-5938-b49b-cd4325f9b78a",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=30620&idParte=8639841",
+      "content": "Ley 19253 ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA,TITULO II DEL RECONOCIMIENTO, PROTECCION Y DESARROLLO DE LAS TIERRAS INDIGENAS,Párrafo 1º De la Protección de las Tierras Indígenas,Artículo 19|- Los indígenas gozarán del derecho a ejercer comunitariamente actividades en los sitios sagrados o ceremoniales, cementerios, canchas de guillatún, apachetas, campos deportivos y otros espacios territoriales de uso cultural o recreativo, que sean de propiedad fiscal. La Comunidad Indígena interesada podrá solicitar la transferencia a título gratuito de los inmuebles referidos en el inciso anterior. Existiendo dos o más Comunidades interesadas, todas ellas tendrán derecho a solicitar la transferencia del inmueble. Mediante resolución expedida a través del organismo público respectivo, se calificarán, determinarán y asignarán los bienes y derechos. En el caso que no se cumpliere o existiere entorpecimiento en el ejercicio de los derechos reconocidos en los incisos anteriores, la Comunidad Indígena afectada tendrá acción de reclamación ante el Juez de Letras competente quien, en única instancia, sin forma de juicio, previa audiencia de los demás interesados, del organismo público respectivo e informe de la Corporación, se pronunciará sobre la acción entablada."
+    },
+    {
+      "name": "Corte de Apelaciones de Concepción: Sentencia ROL-14203-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-14203-2021",
+      "document_id": "f77d0e93-653b-5a77-ae21-1ed47cf5274b",
+      "chunk_uuid": "cb75e0de-36a3-5fd8-b335-979cf6cfecfd",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16806",
+      "content": "La Corte de Apelaciones acogió el recurso de protección interpuesto contra la Dirección Regional Concepción, resolución confirmada por la Corte Suprema con fecha 8 de febrero de 2022.\n\n\nEl contribuyente sostuvo que el acto ilegal y arbitrario que motiva su recurso es el ORD N° 77321361352 de 3 de noviembre de 2021, que negó lugar a su solicitud de invalidar el Giro Folio N° 334118551 de 1 de junio de 2021. Agregó que el 26 de abril de 2021 solicitó al Servicio el pago diferido del impuesto a la renta correspondiente al año tributario 2021, y que según dispone expresamente la Circular 25 del año 2018: “Durante el mes de julio del año tributario correspondiente se emitirá y notificará el giro correspondiente al monto diferido”.\n\n\nEn este caso, el 1 de junio de 2021, un mes antes de la fecha fijada por la norma, el Servicio emitió el Giro Folio 334118551, que no le fue notificado, que fue cargado al sistema y enviado al Servicio de Tesorerías, siendo notificado el requerimiento de pago el 1 de julio de 2021, trabándose embargo sobre un bien raíz de su propiedad. Finalmente, solicitó la invalidación del giro la que fue denegada mediante Ordinario N°77321361352 de 3 de noviembre de 2021 de la Dirección Regional Concepción.A continuación, agregó que la referida resolución denegatoria y la emisión del giro, sin la debida notificación, afectan en forma ilegal y arbitraria el derecho de propiedad sobre un bien raíz que se encuentra embargado por Tesorería, existiendo además un convenio de pago vigente. Todo lo anterior constituye un acto ilegal y arbitrario que perturba el legítimo ejercicio de su derecho de propiedad.\n\n\nEl Servicio comenzó alegando que el recurso es extemporáneo por cuanto se interpuso cinco meses después de haberse notificado por correo electrónico el giro N°334118551 al actor.Luego, indicó que ésta no es la vía adecuada para resolver el conflicto, por cuanto dispuso de la reposición administrativa voluntaria y el reclamo tributario; además existió un reconocimiento tácito al haber suscrito convenio de pago. Luego, alegó falta de legitimación pasiva, por cuanto las actuaciones relativas al convenio de pago son propias de la Tesorería y no del Servicio.Finalmente, el Servicio señaló que no hay actuación ilegal ni arbitraria. El giro se emitió por expresa petición del contribuyente, su monto fue determinado por el mismo y la fecha de emisión establecida en la Circular 25 de 2018 no es un requisito legal a lo que se une que el contribuyente está obligado al pago del impuesto desde que se encuentra legalmente adeudado, o sea, desde fines de abril de 2021.\n\n\nLa Corte precisó que, en esencia, el acto ilegal y arbitrario que denuncia el recurrente es la anticipación del giro Folio N° 334118551, de 1 de junio de 2021, acto inicial que generó una secuencia de actuaciones posteriores, por lo que se desestimará la alegación de extemporaneidad. Luego, agregó que lo mismo ocurre con la alegación de improcedencia dado que la presente acción.\nprocede en los términos del artículo 20 de la Constitución Política sin perjuicio de otras vías de solución, operando como un remedio urgente en casos calificados de amenaza o vulneración de alguno de los derechos que el mismo precepto indica, entre los cuales está el derecho de propiedad. La Corte dio por establecido que el recurrente solicitó autorización para el pago diferido del impuesto a la renta y que, no obstante lo anterior, el Servicio emitió el giro con fecha 1 de junio de 2021, lo notificó mediante correo electrónico el 18 de junio de 2021 y lo remitió a Tesorería con fecha 22 de junio de 2021, la cual lo incluyó en la nómina de deudores morosos iniciando su cobranza.\n\n\nA continuación, la Corte señaló que teniendo como"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-222.918-2023",
+      "source_type": "jurisprudencia",
+      "source": "ROL-222.918-2023",
+      "document_id": "da744e88-bf22-5548-a2cf-ea82219a9a70",
+      "chunk_uuid": "b96a858b-aa04-55b9-b051-1c2fc65acfd9",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18717",
+      "content": "La Corte Suprema rechazó el recurso de apelación interpuesto por la contribuyente en contra de la sentencia dictada por la Corte de Apelaciones de Santiago que declaró inadmisible el recurso de protección deducido por ésta en contra de la XV Dirección Regional Metropolitana Santiago Oriente.\n\nLa recurrente en su acción de protección alegó que la Resolución que resolvió no dar lugar a la solicitud de Revisión de la Actuación Fiscalizadora (RAF) y confirmó la Liquidación y Giro respectivos, vulneraba el derecho de igualdad ante la ley, el derecho a un debito proceso y el derecho de propiedad, asegurados en el artículo 19 N° 2, 3 y 24 de la Carta Fundamental. Lo anterior puesto que, carecía de una mínima\nrazonabilidad y proporción entre los motivos que tuvo el Órgano Fiscal para su dictación y la finalidad que perseguía, por cuanto sólo se limitó a confirmar la Liquidación. Así, ninguno de los supuestos fundamentos de hecho que la Resolución recurrida hizo suyos servían para determinar correctamente la base imponible del Impuesto de Primera Categoría de la sociedad agraviada, y por tal motivo, no existía forma de comprobar el cálculo que hizo el sistema informático del Ente Fiscalizador para calcular el tributo.\n\n\n\nLa Corte de Apelaciones declaró inadmisible la acción de protección y señaló primero, que dicho recurso tenía por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones ilegales o arbitrarias que amenacen, perturben o priven el ejercicio legítimo de alguna de las garantías señaladas taxativamente en el N° 20 de la Constitución Política.\n\nLuego, en segundo lugar, manifestó la Corte que el contenido de la acción intentada excedía las materias que podían ser objeto del mismo atendida su naturaleza cautelar, puesto que la solicitud que se realizó abarcaba aspectos que demostraban que el objeto del recurrente era dejar de aplicar una norma legal, esto era, la parte final del numeral 5° de la letra B del artículo 6 del Código Tributario, y no ejercer una acción de protección en aras de la tutela de las garantías constitucionalmente protegidas. \n\nEl fallo del Tribunal Colegiado fue objeto de un recurso de reposición y apelación en subsidio, habiendo conocido de este último la Corte de Suprema, quien resolvió confirmar la resolución apelada, y reprodujo la sentencia en alzada excepto su fundamento segundo, el cual fue eliminado.\n\nEl Tribunal Superior, en lugar del considerando suprimido indicó, que debía tenerse presente que la contribuyente calificó como arbitraria e ilegal la resolución que confirmó la Liquidación emitida porque estimó que la diferencia de impuestos constatada por la Administración carecía de fundamentos y no contenía hechos gravados ni argumento legal y/o técnico que la sustentara, habiendo actuado el Servicio fuera de toda norma de carácter general que lo habilitara para la determinación de la base imponible del Impuesto de Primera Categoría.\n\nA continuación el Máximo Tribunal advirtió que lo cuestionado en realidad por la actora, era una manifiesta disconformidad con la decisión del Servicio recurrido, el que, en ejercicio de sus facultades rechazó la solicitud de Revisión de la Actuación Fiscalizadora y confirmó la Liquidación objetada. Así las cosas, el conflicto planteado no era de aquellos cuya materia correspondía ser dilucidad por medio de una acción cautelar de emergencia, debiendo la recurrente ejercer respecto del acto impugnado los remedios administrativos o jurisdiccionales previstos en el ordenamiento jurídico para reclamar la decisión que no comparte, razón por la cual la acción constitucional no podía prosperar y debía ser desestimada."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-33642-2015",
+      "source_type": "jurisprudencia",
+      "source": "ROL-33642-2015",
+      "document_id": "fd267852-c533-5f59-a773-62dda797d991",
+      "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1074",
+      "content": "PAGE\n\nLa acción de protección requiere la concurrencia copulativa de cuatro presupuestos: una conducta ilegal o arbitraria, la afectación del legítimo ejercicio de determinados derechos constitucionales, relación de causalidad entre el comportamiento antijurídico y el agravio a la garantía constitucional, y, la posibilidad del órgano jurisdiccional ante el cual se planteó de adoptar medidas de protección o cautela adecuadas, para resguardar el legítimo ejercicio del derecho afectado.\n\nARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA\n\nPROCEDENCIA DE LA ACCIÓN DE PROTECCIÓN\n\nLa Corte Suprema rechazó el recurso de apelación interpuesto por la contribuyente en contra de la sentencia dictada por la Ilustrísima Corte de Apelaciones de Punta Arenas que rechazó el recurso de protección deducido.\n\nEl Tribunal de alzada expresó que de acuerdo al artículo 20 de la Carta Fundamental, la acción o recurso de protección para su configuración requería la concurrencia copulativa de los siguientes presupuestos:\n\n1.Una conducta -por acción u omisión- ilegal o arbitraria;\n\n2.La afectación, expresada en privación, perturbación o amenaza, del legítimo ejercicio referido a determinados derechos esenciales garantizados en la misma;\n\n3.Relación de causalidad entre el comportamiento antijurídico y el agravio a la garantía constitucional, y;\n\n4.Posibilidad del órgano jurisdiccional ante el cual se planteó de adoptar medidas de protección o cautela adecuadas, para resguardar el legítimo ejercicio del derecho afectado.\n\nLos ministros indicaron que la medida cautelar impetrada por la recurrente tuvo por objeto que se dejara sin efecto la clausura de su sucursal, decretada por sentencia ejecutoriada del Tribunal Tributario y Aduanero. Los sentenciadores añadieron que, dicha clausura fue fijada para el día 16 de octubre de 2015, a partir de las 10:00 horas, y se extendió hasta el mismo horario del día siguiente.\n\nConforme a los hechos expuestos, la Corte Suprema concluyó que no se encontraba en condiciones de adoptar las providencias impetradas por la contribuyente como necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado en los términos del artículo 20 de la Constitución Política de la República, como consecuencia de que en la especie no concurrió el presupuesto de procedencia de la acción de protección.\n\nEl texto de la sentencia es el siguiente:\n\n“Santiago, ocho de febrero de dos mil dieciséis.\n\nVistos:\n\nSe reproduce la sentencia en alzada con excepción de sus fundamentos sexto a duodécimo, que se eliminan.\n\nY se tiene en su lugar y además presente:\n\nPrimero: Que según se deduce de lo dispuesto en el artículo 20 de la Carta Fundamental, la denominada acción o recurso de protección requiere para su configuración la concurrencia copulativa de los siguientes presupuestos:\n\na) Una conducta –por acción u omisión- ilegal o arbitraria;\n\nb) La afectación, expresada en privación, perturbación o amenaza, del legítimo ejercicio referido a determinados derechos esenciales garantizados en la misma Constitución y que se indican en el mencionado precepto;\n\nc) Relación de causalidad entre el comportamiento antijurídico y el agravio a la garantía constitucional; y\n\nd) Posibilidad del órgano jurisdiccional ante el cual se plantea de adoptar medidas de protección o cautela adecuadas, para resguardar el legítimo ejercicio del derecho afectado.\n\nSegundo: Que según se desprende de la lectura de la acción constitucional intentada en estos autos, la medida cautelar impetrada por la parte recurrente para la salvaguarda de sus derechos fundamentales tuvo por objeto que se dejara sin efecto la clausura de su sucursal, ubicada en la Estancia Cerro Paine, en el Parque Nacional Torres del Paine, decretada por sentencia ejecutoriada del Tribunal Tributario y Aduanero.\n\nTercero: Que sobre el particular es necesario tener presente que según se desprende del mérito de"
+    },
+    {
+      "name": "Corte de Apelaciones de Temuco: Sentencia ROL-9.624-2020",
+      "source_type": "jurisprudencia",
+      "source": "ROL-9.624-2020",
+      "document_id": "35012a73-49cf-5034-89bf-643513b35094",
+      "chunk_uuid": "529f6ab1-175e-5182-b127-88f315d87230",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17020",
+      "content": "La Corte de Apelaciones de Temuco rechazó el recurso de protección interpuesto por la contribuyente en contra del Servicio de Impuestos Internos y la Tesorería General de la República por vulneración de las garantías constitucionales establecidas en los numerales 2, 20 y 22 del artículo 19 de la Constitución Política de la República.\n\n\n\nLa recurrente señaló que el ente fiscalizador procedió a tasar su propiedad dejándola equivocadamente afecta al pago de contribuciones territoriales y por su parte la Tesorería General de la República procedió a girar el cobro de dicho impuesto territorial correspondiente al segundo semestre del año tributario 2020, vulnerando así las garantías constitucionales mencionadas.\n\nLuego, sostuvo que con fecha 20 de septiembre de 2020 tomó conocimiento de que su propiedad no obstante ser indígena, quedó afecta al pago de contribuciones territoriales, acumulando una deuda por ese concepto.\n\n\nLa contribuyente agregó que en cuanto al derecho, los hechos expuestos vulneraban la garantía constitucional de igualdad ante la ley establecida en el artículo 19 N° 2 de la Constitución Política de la República, por cuanto ella ostentaba la calidad de indígena y celebró un contrato de compraventa con otra persona, también indígena y dicha convención tuvo como objeto transferir el dominio de un predio indígena, todo lo anterior conforme a la Ley Indígena N° 19.253. Sostuvo que según el artículo 12 de dicho cuerpo legal, las tierras indígenas estaban exentas del pago de contribuciones territoriales, norma imperativa que había sido incumplida."
+    },
+    {
+      "name": "Resolución N°69 (21/07/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°69 (21/07/2014)",
+      "document_id": "72b096ac-69b2-5d3d-b751-f9fb02853b68",
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso69.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nSERVICIO DE IMPUESTOS INTERNOS  \nSUBDIRECCIÓN DE FISCALIZACIÓN  \nMODIFICA \nCONTENIDO \nDEL \nFORMULARIO      \nN° \n50 \nSOBRE \nDECLARACIÓN \nY \nPAGO \nSIMULTÁNEO MENSUAL DE IMPUESTOS.  \nSANTIAGO, 21 DE JULIO DE 2014       \nHoy se ha resuelto lo que sigue:  \nRESOLUCIÓN EX. SII Nº 69.-  \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el \nartículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de \noctubre de 1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el \nartículo 1° del Decreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la \nRenta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; la Ley N° 20.657 del Ministerio \nde Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de Febrero de 2013, que \nModifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° 18.892, de 1989 y sus \nmodificaciones; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de \n2014; y \nCONSIDERANDO:  \n1° Que, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° \nde su Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el \ncumplimiento de las obligaciones tributarias de los contribuyentes;  \n2° Que, mediante la Resolución Ex. N° 27, de 27 \nde julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° \n41, de 29 de marzo de 2011; N° 10, de 23 de enero de 2013; y N° 9, de 22 de enero de 2014; \n3° Que, con motivo de la publicación de Ley N° \n20.657 del Ministerio de Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de \nFebrero de 2013, que Modifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° \n18.892, de 1989 y sus modificaciones, se agrega el artículo 43 ter, el que establece un Impuesto \nEspecífico para los titulares de licencias transables de pesca clase A, que deben pagar anualmente \nen el mes de julio, surge la necesidad de adecuar el Formulario 50 de Declaración y Pago \nSimultáneo Mensual de Impuestos; \n4° Que, conforme el artículo 29 del Código \nTributario"
+    },
+    {
+      "name": "Corte de Apelaciones de San Miguel: Sentencia ROL-132-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-132-2021",
+      "document_id": "4f518e74-f510-50ec-883f-6b07f58d0b29",
+      "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17025",
+      "content": "La Corte de Apelaciones de San Miguel rechazó un recurso de protección entablado por la contribuyente sustentado en la vulneración del derecho al debido proceso y de propiedad consignados en el artículo 19 Nº 3 y 24 de la Constitución Política de la República.\n\n\nLa contribuyente fundó su recurso en que había tomado conocimiento que la Tesorería General de la República había procedido al cobro ejecutivo de diferencias de Impuesto determinadas en Liquidaciones que se le practicaron, en circunstancias que tales habían sido materia de un reclamo tributario que se encontraba pendiente de tramitación ante el Tribunal Tributario y Aduanero, razón por la cual, a su juicio, se había vulnerado tanto lo dispuesto en el artículo 24 del Código Tributario, como el derecho al Debido Proceso y de Propiedad, consagrados en los indicados numerales del artículo 19.\n\n\nTanto el Servicio de Impuestos Internos como la Tesorería General de la República, al evacuar el informe ordenado en el proceso originado a raíz de la presentación del referido recurso, plantearon que al proceder al estudio de sus antecedentes, se advirtió que se incurrió en un error al emitir los giros en circunstancias que se encontraba pendiente la tramitación del reclamo en primera instancia. En razón de ello, el Director Regional del Servicio en el ejercicio de la facultad contemplada en el artículo 6° letra B N° 5 del Código Tributario, procedió a dictar una Resolución mediante la cual se invalidaron los Actos Administrativos errados, en tanto la Tesorería General de la República puso termino al cobro de ellos."
+    },
+    {
+      "name": "Resolución N°9 (22/01/2014)",
+      "source_type": "resolucion",
+      "source": "Resolución N°9 (22/01/2014)",
+      "document_id": "f3342d2d-cf8e-5935-899c-0541c7b1ed48",
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/resoluciones/2014/reso9.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nSERVICIO DE IMPUESTOS INTERNOS \nSUBDIRECCIÓN DE FISCALIZACIÓN \nDEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL \n \n \nSUSTITUYE ESTRUCTURA Y CONTENIDO DEL \nFORMULARIO N° 50 SOBRE DECLARACIÓN Y \nPAGO SIMULTÁNEO MENSUAL DE IMPUESTOS.  \n \n \n  \n \nSANTIAGO, 22 de enero de 2014 \n \n \nHoy se ha resuelto lo que sigue: \n \n \nRESOLUCIÓN EX. SII Nº 9.-______/ \n \n \n \nVISTOS: Las facultades contempladas en los \nartículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo \n1° del   D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de \n1980; en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del \nDecreto Ley N° 830, de 1974; las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida \nen el artículo 1° del Decreto Ley N° 824, de 1974, y sus modificaciones contenidas en la Ley \nN°20.630, de 2012; y lo dispuesto en la Resolución Ex. SII N° 27, de 27 de julio de 2001, modificada \nmediante Resoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de \n2005; N° 27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de \n2010; N° 41, de 29 de marzo de 2011; y N° 10, de 23 de enero de 2013; y \n \n \nCONSIDERANDO: \n \n1° \nQue, es un propósito permanente de este \nServicio mejorar el control y fiscalización de los impuestos que, en conformidad con el artículo 1° de \nsu Ley Orgánica, le corresponde practicar a este organismo, y, asimismo, facilitar el cumplimiento de \nlas obligaciones tributarias de los contribuyentes;  \n2° \nQue, mediante la Resolución Ex. N° 27, de \n27 de julio de 2001, se dispuso la creación del Formulario N° 50 de Declaración y Pago Simultáneo \nMensual de Impuestos, actualizándose posteriormente su diseño y estructura mediante \nResoluciones Ex. SII N° 87, de 08 de septiembre de 2004; N° 94, de 23 de septiembre de 2005; N° \n27, de 25 de febrero de 2009; N° 78, de 28 de mayo 2009; N° 144, de 31 de agosto de 2010; N° 41, \nde 29 de marzo de 2011; y N° 10, de 23 de enero de 2013; \n3° \nQue, con motivo de la publicación de la Ley \nN° 20.630, en el Diario Oficial el 27 de septiembre de 2012, que perfecciona la legislación tributaria \ny financia la reforma educacional, modificando, entre otras normas, aquellas que dicen relación con \nlas retenciones de impuestos que deben practicarse a personas sin domicilio ni residencia en Chile, \ncontenidas en el N°4 del artículo 74 de la Ley sobre Impuesto a la Renta, surge la necesidad de \nadecuar el Formulario 50 de Declaración y Pago Simultáneo Mensual de Impuestos;  \n4° \nQue, conforme el artículo 29 del Código \nTributario la presentación de declaraciones con el objeto de determinar la procedencia o liquidación \nde un impuesto, se hará de acuerdo con las normas legales o reglamentarias y con las instrucciones \nque imparta la Dirección de este Servicio, incluyendo toda la información que fuere necesaria;   \n5° \nQue, este Servicio, de acuerdo a lo"
+    },
+    {
+      "name": "Oficio N°2075 (09/08/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°2075 (09/08/2012)",
+      "document_id": "8bc0d7c0-3dac-5cc0-a61b-f466ed85d86f",
+      "chunk_uuid": "53252c20-f117-5b39-b291-77679c5a4b21",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2075.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a las Ventas y Servicios - 2012\nVENTAS Y SERVICIOS y NUEVO TEXTO y ACTUAL LEY SOBRE IMPUESTO A LAS y ART. 2°, ART.\n17° y CIRCULAR N° 26, DE 1987, OFICIOS N°uS 516 DE 1997, 393, DE 1998 Y 1051 DE 2011. (ORD. N°\n2075, DE 09.08.2012)\nTRATAMIENTO TRIBUTARIO FRENTE AL IMPUESTO AL VALOR AGREGADO DE LA VENTA DE\nTERRENOS URBANIZADOS REALIZADO POR UNA SOCIEDAD DE INVERSIONES, ADEMÁS DE LA\nCESIÓN DE DERECHOS DE APROVECHAMIENTO DE AGUAS DE PROPIEDAD DE UNA EMPRESA\nCONSTRUCTORA.\nI.- ANTECEDENTES:\nEl recurrente manifiesta que mediante un crédito hipotecario, compró a la sociedad XXX S.A. una parcela, de\nlas catorce en que se habría subdividido el predio número dos ubicado en el sector de YYY, de la ciudad de\nTTT. Agrega que sería la sociedad vendedora quien habría realizado la urbanización del inmueble.\nEn conjunto con la compra de la parcela, adquirió además derechos de aprovechamiento de agua,\npertenecientes a la sociedad Constructora e Inmobiliaria AAA Ltda., equivalentes a una determinada cantidad\nde acciones del canal xxx, por la suma de 100,14 UF.\nEn el precio total de la compraventa antes señalada se entendieron incluidos:\n- Valor del terreno\n- Valor de los derechos de agua\n- Estanque de gas de 500 litros de capacidad provisto por Xxxx.\n- Calzadas estabilizadas, con sus respectivas soleras.\n- Fosa séptica de 1.500 litros de capacidad\n- Cierros de condominio con la carretera con la que deslinda el condominio, de una cantidad aproximada de\n300 metros (la parte proporcional).\nEn relación a lo anterior, consulta:\n- Dado que la parcela formaba parte de las existencias de la Sociedad XXX S.A., ¿Se encontraría afecta a\nImpuesto al Valor Agregado la respectiva venta?\n- Todos los bienes incluidos en el precio de venta y que corresponden a instalaciones, ¿Deberían estar\ntambién afectos a IVA?\nII.- ANÁLISIS:\nEl Impuesto al Valor Agregado afecta la venta de inmuebles de propiedad de una empresa constructora\nconstruidos totalmente por ella o que en parte hayan sido construidos por un tercero para ellas . La norma se\nrefiere específicamente a construcciones y no a cualquier tipo de inmueble, sino a aquellos que sean de\npropiedad de una empresa constructora.\nPara estos efectos, y conforme a lo dispuesto en el artículo 2° de la Ley sobre Impuesto a las Ventas y\nServicios, se entiende por empresa constructora cualquier persona natural o jurídica, incluyendo las\ncomunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales\ninmuebles de su propiedad, construidos totalmente por ellas o que en parte hayan sido construidos por un\ntercero para ella.\nLa misma norma agrega que corresponderá a este Servicio calificar, a su juicio, la habitualidad.\nEn base a lo anterior, en cuanto a la venta de terrenos urbanizados, este Servicio a través de instrucciones y\nen pronunciamientos anteriores ha señalado que para determinar su afectación con Impuesto al Valor\nAgregado, procede distinguir si la respectiva urbanización se hace por cuenta propia o a través de un tercero.\nSólo en el primer caso la venta queda afecta al Impuesto al Valor Agregado, por cuanto la urbanización, para\nefectos de la aplicación del mencionado impuesto, constituye la construcción de un bien corporal inmueble.\nEn este contexto, cabe tener presente que la urbanización del terreno consiste en proveerlo de ciertos\nelementos a fin de que sean habitables los edificios que se construyan sobre él, lo que se traduce en dotarlo\nde los servicios necesarios, tales"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia RIT-28456-2019",
+      "source_type": "jurisprudencia",
+      "source": "RIT-28456-2019",
+      "document_id": "a3fec65d-dd15-5069-a7d0-b348458b5835",
+      "chunk_uuid": "f96b10f4-4888-569b-8bd7-61ecef965ac8",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14435",
+      "content": "Santiago, dieciocho de abril de dos mil diecinueve.\nVistos y teniendo presente:\n1.- Que el recurso de protección tiene por objeto restablecer el\nimperio del derecho cuando éste ha sido quebrantado por actos u\nomisiones arbitrarias o ilegales que amenazan, perturban o privan del\nejercicio legítimo de alguna de las garantías taxativamente\nnumeradas en el artículo 20 de la Constitución Política de la\nRepública, dejando a salvo las demás acciones legales;\n2.- Que en la presentación efectuada en estos autos, no\naparece que se hayan mencionado hechos que eventualmente\npuedan constituir una vulneración a las garantías constitucionales\nindicadas en el artículo 20 de la Constitución Política de la República,\nrazón por la cual tiene aplicación la norma de inadmisibilidad prevista\nen el inciso segundo del numeral 2° del Auto Acordado de la Excma.\nCorte Suprema sobre Tramitación del Recurso de Protección de\nGarantías Constitucionales.\nY de conformidad, además, con lo dispuesto en el Auto\nAcordado de la Excma. Corte Suprema de sobre tramitación y fallo\ndel recurso de protección, se declara inadmisible el recurso de\nprotección interpuesto en contra de XV Dirección Regional\nMetropolitana Santiago Oriente del Servicio de Impuestos\nInternos.\nArchívese.\nN°Protección-28456-2019.\nPronunciada por la Primera Sala de la Iltma. Corte de Apelaciones\nde Santiago, presidida por la ministro señora Dobra Lusic Nadal e\nintegrada por el ministro señor Leopoldo Llanos Sagristá y por la\nministro señora Elsa Barrientos Guerrero.\nEn Santiago, dieciocho de abril de dos mil diecinueve, se notificó por el estado\ndiario la resolución que antecede."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-147.283-2023",
+      "source_type": "jurisprudencia",
+      "source": "ROL-147.283-2023",
+      "document_id": "0a8c2223-1520-5ee5-bb96-868d6639acad",
+      "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18296",
+      "content": "La Corte Suprema no hizo lugar al recurso de apelación interpuesto por la contribuyente, y confirmó la sentencia dictada por la Corte de Apelaciones de Chillán que rechazó el recurso de protección deducido por ésta, por vulneración de sus garantías constitucionales consagradas en el artículo 19 N° 24 de la Carta Fundamental, en contra de la Dirección Regional Ñuble del Servicio de Impuestos Internos.\n\n\n\n\nLa recurrente alegó ante la Corte de Apelaciones que el Ente Fiscalizador la borró de manera ilegal y arbitraria como propietaria de un bien raíz, registrando como tal a una persona diversa, no obstante poseer título de dominio inscrito en el Conservador de Bienes Raíces respectivo desde 2019, tener un único rol de avalúo fiscal asignado, el pago de sus contribuciones al día y no haber sido subdividido el inmueble.\n\n\n\n\n\n\n\nAgregó la agraviada, que el Servicio le comunicó una duplicidad de inscripciones respecto de dos propiedades con iguales deslindes, habiendo incorporado como dueño de su inmueble a un tercero, con lo que alteró el status quo existente, discriminándola arbitrariamente.\n\n\n\n\n\n\n\nPor su parte, el Servicio de Impuestos Internos indicó que la información del propietario fue modificada en virtud de la actualización del Catastro de Bienes Raíces, en cumplimiento de su obligación legal de mantener actualizados los roles definitivos de los inmuebles del país. Lo anterior, según la información entregada por el Conservador de Bienes Raíces de Chillán en el respectivo Formulario 2890, quien en 2023 informó el dominio de una persona distinta de la actora sobre el predio en cuestión.\n\nEl Órgano Fiscalizador señaló además, que el recurso incoado no era la vía idónea para resolver el asunto puesto que el acto impugnado mediante el cual se puso en conocimiento de la contribuyente la imposibilidad de modificar el catastro de bienes raíces en atención a la duplicidad de inscripciones de dominio vigente para ese inmueble, era de carácter informativo, por lo que una vez subsanado aquello podía volver a ingresar su solicitud. De manera que, la acción intentada no se condecía con el objetivo del recurso de protección que era someter al imperio del derecho las acciones u omisiones ilegales o arbitrarias que importen privación, perturbación o amenaza en el legítimo ejercicio de aquellas garantías constitucionales indicadas en el artículo 20 de la Constitución Política\n\n\nAsimismo, el Servicio arguyó que el hecho de solicitar la recurrente la invalidación del acto administrativo impugnado, y por consiguiente, su incorporación como dueña del inmueble, tenía como consecuencia transgredir el mandato establecido por la Ley de Impuesto Territorial. Agregó, que la pretensión de la actora de que el supuesto dominio de dicho bien raíz quedase asentado definitivamente en su persona era improcedente, toda vez que la información de los roles de avalúo tiene por objeto la identificación de los inmuebles para efectos del pago del impuesto territorial, más no para acreditar el dominio sobre los mismos, razón  por la cual no existía privación alguna de su propiedad.\n\n\nAl respecto la Corte de Apelaciones estimó que la asignación de roles era una potestad exclusiva del Servicio de Impuestos Internos, quien además podía modificarla, si lo estimaba necesario, para efectos de transparentar de mejor manera los predios afectos al pago de contribuciones, no existiendo ningún derecho por parte del propietario del inmueble al rol que eventualmente se le haya asignado.\n\nLa Magistratura manifestó que el cambio de propietario en el catastro se encontraba respaldada en la información remitida por el Conservador de Bienes Raíces de Chillán, por lo que la actuación del Ente Fiscalizador estaba ajustada a derecho, conforme sus competencias y las facultades conferidas por ley.\n\n\nA mayor abundamiento los Sentenciadores resolvieron, que no obstante podían existir superposiciones de terrenos o de roles, ello era un asunto que no era susceptible de resolverse mediante un procedimiento de emergencia como lo era el recurso de protección, sino a través del procedimiento contempl"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-77252 - 2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-77252 - 2018",
+      "document_id": "91c373a5-c0af-585e-9736-31ce50e81a19",
+      "chunk_uuid": "9035d150-6714-5647-8bfe-c2753bbcf7ec",
+      "chunk_id": 10,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13600",
+      "content": " estas consideraciones y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del Recurso de Protección, se decide: \n\nI.- Que, se rechazan, con costas, las alegaciones de extemporaneidad y de improcedencia de la presente acción formulada; \n\nII.- Que, se acoge, con costas, el recurso de protección deducido por doña xxxxx, en contra el Servicio de Impuestos Internos, debiendo la recurrida otorgar el beneficio tributario de rebaja de pago del impuesto territorial que grava a los inmuebles de propiedad de la recurrente, ajustados al porcentaje de los ingresos percibidos por la actora y establecidos en el inciso 1° del artículo 1° de la Ley N°20.732, debiendo ordenar las devoluciones pagadas en exceso que en derecho corresponda, debidamente reajustadas. Regístrese, comuníquese y archívese en su oportunidad. \n\nN°Protección-77.252-2018. GLVXHJKRBX GLVXHJKRBX Pronunciado por la Undécima Sala de la C.A. de Santiago integrada por los Ministros (as) Jorge Luis Zepeda A., Alejandro Rivera M. y Abogado Integrante Oscar Torres Z. Santiago, tres de enero de dos mil diecinueve. En Santiago, a tres de enero de dos mil diecinueve, notifiqué en Secretaría por el Estado Diario la resolución precedente. GLVXHJKRBX Este documento tiene firma electrónica y su original puede ser validado en http://verificadoc.pjud.cl o en la tramitación de la causa. A contar del 12 de agosto de 2018, la hora visualizada corresponde al horario de verano establecido en Chile Continental. Para Chile Insular Occidental, Isla de Pascua e Isla Salas y Gómez restar 2 horas. Para más información consulte http://www.horaoficial.cl."
+    },
+    {
+      "name": "Artículo ÚNICO",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 19.496, QUE ESTABLECE NORMAS SOBRE PROTECCIÓN DE LOS DERECHOS DE LOS CONSUMIDORES",
+      "document_id": "156a8c85-03e8-57a7-afb8-f72e189df4a5",
+      "chunk_uuid": "b54e54a0-95b1-5ff2-9cb9-f02305e28de7",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1160403&idParte=10239805",
+      "content": "Decreto con Fuerza de Ley 3 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 19.496, QUE ESTABLECE NORMAS SOBRE PROTECCIÓN DE LOS DERECHOS DE LOS CONSUMIDORES,,Artículo ÚNICO|- Fíjase el siguiente texto refundido, coordinado y sistematizado de la ley N° 19.496, que Establece normas sobre protección de los derechos de los consumidores:"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-77252 - 2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-77252 - 2018",
+      "document_id": "91c373a5-c0af-585e-9736-31ce50e81a19",
+      "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+      "chunk_id": 4,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13600",
+      "content": " marras, la recurrente gozó del beneficio, desde el segundo semestre del año 2014 hasta el primer semestre de 2018. Refiere que a partir del segundo semestre de 2018, la contribuyente dejo de cumplir con el requisito de la letra e) precedente, toda vez que, para el segundo semestre del año 2018, el monto máximo de avalúo del bien raíz que opta al beneficio es de $89.016.37, excediendo dicho límite, por cuanto, el valor del inmueble al que aspira optar al beneficio, tiene actualmente un valor de avalúo fiscal de $104.123.592. Luego, alega la extemporaneidad del recurso, fundado en que el acto que supuestamente le causaría perturbación en el ejercicio de sus garantías constitucionales, es el Reavalúo Fiscal de su propiedad; del que tuvo GLVXHJKRBX conocimiento cierto, al menos desde el mes de marzo del presente año, en virtud de la carta informativa realizada por este Servicio. No obstante, el proceso de reavalúo llevado a cabo por el Servicio ha sido informado tanto por medio de la página institucional de esta repartición, como por diversos los medios de comunicación a nivel nacional y, las Municipalidades respectivas, procedieron a las publicaciones por avisos del mismo, de acuerdo lo ordena la Ley, destacando que la Municipalidad de las Condes efectuó sus publicaciones en los meses de abril y mayo de 2018. Posteriormente, alega que la acción impetrada no es la vía idónea para conocer del asunto, por cuanto en el proceso de reavalúo de bienes raíces, los propietarios, sus representantes legales y las municipalidades pueden interponer recurso de Reposición Administrativa ante el Servicio de Impuestos Internos y/o reclamar contra los nuevos avalúos, ante los Tribunales Tributarios y Aduaneros, correspondientes a la jurisdicción territorial en la que se ubica el bien raíz, de acuerdo a lo establecido en el Código Tributario, luego de concluida la exhibición de los roles de avalúos en las municipalidades respectivas, citando el artículo 149 de la Ley de Impuesto Territorial (sic). Agrega que existiendo procedimientos establecidos en la ley para impugnar la modificación del avalúo de los bienes raíces, es que la protección se vuelve totalmente improcedente, toda vez que, existen medios específicos, para alcanzar tales fines, siendo de exclusiva responsabilidad de la recurrente el no haberlos ejercido dentro del plazo legal. Añade que el artículo 1° de la Ley N°20.732, en su inciso final, estatuye que: “En todo caso, los contribuyentes podrán reclamar del giro de la cuota de contribuciones que no haya considerado la rebaja el beneficio establecido en este artículo en conformidad a lo dispuesto en los artículos 123 y siguientes del Código Tributario”, refiriéndose al procedimiento general de reclamaciones, regulado en el Título II, del Libro Tercero del Código del ramo. Luego, alega la falta de ilegalidad y arbitrariedad en el actuar del Servicio, por cuanto para que una acción sea arbitraria, ésta deberá emanar de un órgano que haya obrado en contravención de sus facultades legales, o bien, sin facultad alguna para ello. Por su parte, será arbitraria una acción GLVXHJKRBX cuando carezca de fundamentación o no se encuentre debidamente justificada, requisitos cuyo cumplimiento no acontece en el caso de marras. En relación a las garantías constitucionales denunciadas, sostiene que si bien el Recurso de Protección protege la garantía constitucional establecida en el artículo 19 N° 24 de la Constitución Política de la República, esto es, la propiedad en sus diversas especies, no puede considerarse que el beneficio tributario que en la especie alega la recurrente, sea de su propiedad. En este sentido, nuestra jurisprudencia ha establecido que la garantía del derecho de propiedad, para ser objeto de protección, debe tener la condición de indubitado y hallarse incorporada al patrimonio del recurrente, de lo contrario constituye sólo una mera expectativa. De"
+    },
+    {
+      "name": "Oficio N°463 (03/03/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°463 (03/03/2020)",
+      "document_id": "b38d446d-bf68-55d9-8cf7-6e6c9c1c0bd0",
+      "chunk_uuid": "b76bac12-eee0-5da4-9ec3-afad9068db52",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=463-03%2F03%2F2020.pdf&extension=pdf&acc=download&id=3e9a8af1-760b-483a-a1e8-44679f943113&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nVENTAS Y SERVICIOS – NUEVO TEXTO – ART. 8, LETRA M) \n(ORD. N° 463, DE 03-03-2020) \n \n \nIVA que afecta a la venta o enajenación de derechos o una cuota sobre un bien inmueble \ndel activo fijo. \n \n \nSe ha solicitado a esta Dirección Nacional un pronunciamiento sobre si se afecta con IVA la \nventa o enajenación de derechos o una cuota sobre un bien inmueble del activo fijo, realizado \npor un contribuyente que ha tenido derecho al crédito fiscal por su adquisición, en base a lo \ndispuesto en la letra m), del artículo 8°, de la Ley del IVA. \n \nI.-    ANTECEDENTES: \n \n \nSeñala que una de las consultas más frecuentes que recibe en su calidad de asesor, es si la \nenajenación de derechos o una cuota recaída sobre bienes inmuebles que forman parte del activo \nfijo del contribuyente y, bajo condición de haber tenido derecho al crédito fiscal en su \nadquisición, se grava o no con IVA, cuestión respecto de la cual, según indica, no existiría \npronunciamiento de este Servicio. \n \nAgrega que de una primera lectura del hecho gravado especial de la letra m) del artículo 8° del \nD.L. N° 825, podría entenderse que la \"venta de activos fijos\", realizada por contribuyentes, que \npor estar sujetos a las normas del Título II del D.L. N° 825 han tenido derecho al IVA Crédito \nFiscal, no se configura cuando la enajenación o venta se restringe a una cuota o porcentaje de \neste. \n \nLo anterior, ya que la ley habla de venta de bienes \"corporales\" inmuebles que formen parte del \nactivo fijo. Pero no queda claro, si dentro del concepto de venta, se comprende también la cesión \nde derechos o de una cuota sobre dicho bien raíz. \n \nExpresa que aun cuando el Artículo 580 del Código Civil, aplicable supletoriamente al tenor del \nreenvió del Artículo 2 del Código Tributario, en relación con el Artículo 4 del mismo cuerpo \nlegal, reconoce el carácter inmueble de las acciones y derechos que recaigan sobre una \npropiedad raíz; una interpretación gramatical podría llevar a pensar que no se verifica la \nexigencia de recaer sobre un bien corporal inmueble. \n \nEn base a los presupuestos de hecho descritos previamente, solicita confirmar y/o precisar, según \ncorresponda, si la venta o enajenación de derechos o una cuota sobre un bien inmueble del activo \nfijo, realizado por un contribuyente, que, por haber estar sujeto a las disposiciones del Título II, \nde la Ley sobre Impuesto a las Ventas y Servicios, ha tenido derecho al crédito fiscal por su \nadquisición, queda o no comprendido dentro del hecho gravado especial de la letra m), del \nartículo 8°, de la ley precitada. \n \n \n \nII.- ANÁLISIS: \n \nEl artículo 8°, letra m) del Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y \nServicios, modificado por la Ley N° 20.780 dispone: “El impuesto de este Título afecta a las \nventas y servicios. Para estos efectos serán consideradas también como ventas y servicios, según \ncorresponda: \n (…) \n\n\n \nm) La venta de bienes corporales muebles e inmuebles que formen parte del activo inmovilizado \nde la empresa, siempre que, por estar sujeto a las normas de este título, el contribuyente haya \ntenido derecho a crédito fiscal por su adquisición, importación, fabricación o construcción. \n \nSobre el particular, conviene tener presente que el Artículo 8° del D.L. N° 825 establece que el \nimpuesto regulado en el Título II afecta a las ventas y servicios, disponiendo a continuación que \n“para estos efectos serán consideradas también como ventas y servicios, según corresponda” \nprocediendo luego a la enumeración de los distintos hechos gravados"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-77252 - 2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-77252 - 2018",
+      "document_id": "91c373a5-c0af-585e-9736-31ce50e81a19",
+      "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+      "chunk_id": 9,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13600",
+      "content": "icia de la que previamente gozaba. GLVXHJKRBX Por otro lado, el aumento experimentado en el avalúo del inmueble, no se condice con el incremento de reajustabilidad que establece la ley en orden a optar al beneficio tributario, ya que por una parte la recurrente pudo gozar de dicho beneficio y por un acto independiente de su voluntad, pierde dicho beneficio, al determinarse un incremento mayor del avalúo del inmueble, por sobre el incremento que contempla la exención, acto que sólo beneficia al Estado, en tanto acreedor de tributos, en perjuicio del contribuyente, quien no obstante haber sido titular del beneficio pretendido, lo pierde por una causa dependiente, exclusivamente, de la decisión del órgano estatal, hecho que entierra toda la voluntad del constituyente, desnaturalizando la norma benefactora y, de paso, conculcando el derecho a la vida de la recurrente, al privarla de sus ingresos mínimos de manutención y de su derecho de propiedad, al verse expuesta, tácitamente, a un acto expropiatorio de su bien raíz, al no poder asumir el costo del impuesto territorial con sus exiguos ingresos. \n\nDécimo Cuarto: Que, se ha señalado por la doctrina que: “La incorporación de los derechos como criterios de validez material en las Constituciones supone un reto importante desde la perspectiva de la interpretación jurídica. Estos retos pueden ser analizados desde dos puntos de vista: en relación a la influencia de los derechos en la interpretación jurídica en general (es decir, la llamada interpretación y argumentación “desde los derechos”) y en relación a la interpretación de los derechos en particular. Respecto de la primera cuestión, esto implica que los derechos son criterios de validez de los contenidos del sistema, por lo que la atribución de significados que se dé a cualquier enunciado jurídico no podrá transgredir el significado que poseen los derechos. Esto es lo que se denomina la perspectiva de la validez, donde los derechos son un ‘límite a las opciones interpretativas posibles, lo que significa que sólo estarán justificadas y podrán ser utilizadas aquellas reglas cuyo significado literal no es contradictorio con el de los derechos, exigencia ésta que se proyecta, por tanto, en el resultado de cualquier interpretación de un enunciado normativo’” (NÚÑEZ, Constanza, “Una aproximación conceptual al principio pro persona desde la interpretación y argumentación jurídica”, obtenido en línea: GLVXHJKRBX http://perso.unifr.ch/derechopenal/assets/files/obrasportales/op_20180508_01 .pdf En consecuencia, la interpretación dada por el Servicio, lejos de favorecer al contribuyente, no obstante que la norma tiene por objeto dicho fin y por ello le reconoció este derecho de rebaja y que la recurrente no desplegó ningún acto tendiente a perder la franquicia conferida, por un acto de autoridad contrario –aumento del avalúo-, perdió el beneficio, dejando a la recurrente en una situación jurídica desmejorada, perdiendo el status quo anterior, situación que debe ser restablecida, máxime cuando cumple con el requisito del artículo 1° N°6 de la Ley N°20.732, cumplimiento que paradojalmente es negado por la recurrida. \n\nDécimo Quinto: Que, finalmente, al haberse acogido el arbitrio sobre la base de los derechos fundamentales enunciados, se omitirá pronunciamiento sobre la otra garantía del numeral 22 del artículo 19 de la Constitución Política, supuestamente conculcada. Por estas consideraciones y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del Recurso de Protección, se decide: \n\nI.- Que, se rechazan, con costas, las alegaciones de extemporaneidad y de improcedencia de la presente acción formulada; \n\nII.- Que, se acoge, con costas, el recurso de protección deducido por doña xxxxx, en contra el"
+    },
+    {
+      "name": "Corte de Apelaciones de Rancagua: Sentencia ROL-1689-2015",
+      "source_type": "jurisprudencia",
+      "source": "ROL-1689-2015",
+      "document_id": "cd89997b-c8b5-5b62-aae9-c938f1de08b1",
+      "chunk_uuid": "3dfe3bfc-53f3-5b32-b4f2-1ebc57e05e59",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1372",
+      "content": "Existiendo antecedentes que vinculaban al contribuyente al caso PPPP, el Servicio, en pos del interés público, efectuó una fiscalización más acuciosa respecto de las actividades del contribuyente, no impidiéndosele la emisión de boletas, sino solamente las electrónicas, por ,o tanto la actitud del Servicio no revistió arbitrariedad.\n\nCONSTITUCIÓN POLÍTICA DE LA REPÚBLICA – ARTÍCULO 20\n\nRECURSO DE PROTECCIÓN – RESTRICCIÓN DE TIMBRAJE – BLOQUEO DE EMISIÓN DE BOLETAS ELECTRÓNICAS.\n\nLa I. Corte de Apelaciones de Rancagua rechazó un recurso de protección deducido por el contribuyente en contra del Servicio, que bloqueó su timbraje electrónico y retuvo una devolución de impuestos.\n\nEl contribuyente expuso que con fecha 06 de mayo se enteró que su devolución de impuestos estaba retenida por el Servicio por inconsistencias, y que el día 05 de junio tomó conocimiento que dicha medida se debía a que mantenía restricción de timbraje de boletas.\n\nEl recurrente indicó que no mantenía ningún tipo de restricción, excepto la de emisión de boletas electrónicas desde septiembre de 2014, la que sería arbitraria e ilegal, ya que se justificaría solamente en que se le vincula con el denominado caso PPPP.\n\nAgregó que a la fecha no se le ha formalizado en dicha causa e igualmente se le impone la sanción de bloquear su timbraje, y que sólo puede continuar trabajando a través del timbraje de boletas de papel.\n\nAlegó la vulneración de los derechos a la propiedad y a desarrollar una actividad económica lícita, y solicitó que se pusiera fin al bloqueo de emisión de boletas electrónicas y se ordenara la entrega inmediata del dinero correspondiente a su devolución de impuestos.\n\nEl Servicio indicó que la restricción al timbraje se debía a que el recurrente posiblemente estaba involucrado en el denominado caso PPPP, pero que la restricción no involucró la posibilidad de otorgar boletas en papel, cuestión que el contribuyente realizó con posterioridad al bloqueo sin inconvenientes, por lo que no existía afectación al desarrollo económico del recurrente.\n\nRespecto de la alegación de no haberse efectuado la devolución de impuestos solicitada, señaló que posteriormente a la retención se comprobó que éstas no correspondían al caso PPPP, por lo que la devolución sería liberada.\n\nLa Corte expuso que existiendo antecedentes que vinculaban al contribuyente al caso PPPP, el Servicio, en pos del interés público, efectuó una fiscalización más acuciosa respecto de las actividades del contribuyente.\n\nAgregó que el propio recurrente reconoció que no se le impide la emisión de boletas, sino que sólo se le impidió la emisión de boletas electrónicas, y que no negó la existencia de antecedentes que lo vinculaban con hechos que probablemente implicarían infracción a normativa tributaria – caso PPPP -, por lo que la actitud del Servicio no revistió visos de arbitrariedad.\n\nEl texto de la sentencia es el siguiente:\n\n“Rancagua, diez de julio de dos mil quince.\n\nVistos:\n\nA fs.15 compareció SSSS, abogado, con domicilio en calle XXXX 218, oficina 603, Edificio XXXX, Rancagua, deduciendo recurso de protección en contra del Servicio de Impuestos Internos, representado por su Director Regional don Luis Aguirre Pérez, ambos con domicilio en calle Estado N° 154, Rancagua, esgrimiendo los argumentos que a continuación se señalan:\n\nRefiere que con fecha 06 de mayo se enteró que su devolución de impuestos estaba retenida por el Servicio por inconsistencias. El día 05 de junio se agregó a lo anterior que dicha medida se debía a que mantenía restricción de timbraje de boletas, y para su solución debe acercarse a las oficinas del SII.\n\nSeñala que no mantiene ningún tipo de restricción, excepto la de emisión de boletas"
+    },
+    {
+      "name": "Oficio N°963 (11/04/2005)",
+      "source_type": "oficio",
+      "source": "Oficio N°963 (11/04/2005)",
+      "document_id": "e517e8bb-6149-5440-a1cd-25ab1ade2458",
+      "chunk_uuid": "0528519b-8e24-57a4-9135-319300439e59",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja924.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2005\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 13 – CÓDIGO DEL TRABAJO, ART. 126°\nY 178° – OFICIO N° 2.325, DE 2004. (ORD. N° 963, DE 11.04.2005)\nTRATAMIENTO TRIBUTARIO DE INDEMNIZACIÓN POR AÑOS DE SERVICIO PAGADA A UN EX-\nTRABAJADOR CUYA FUENTE ES UN PROTOCOLO DE DERECHOS LABORALES, CUYA\nNATURALEZA ES LA DE UN CONVENIO COLECTIVO, DE ACUERDO A LO DISPUESTO POR EL\nARTÍCULO 178°, DEL CÓDIGO DEL TRABAJO, EN CONCORDANCIA CON LO ESTABLECIDO POR EL\nARTÍCULO 17°, N°13, DE LA LEY DE LA RENTA.\n1.- Por presentación indicada en el antecedente, y basado en las consideraciones de hecho y de derecho\nque expone en su escrito, solicita se declare jurídicamente procedente la exención de impuesto contemplada\nen el artículo 178 del Código del Trabajo, respecto de la suma que le fue pagada por concepto de\nindemnización por años de servicio, contemplada en su finiquito de trabajo de fecha 23 de diciembre de\n2003, suscrito ante notario el día 31 de diciembre del mismo año, entre el recurrente y la empresa\nXXXXXXXX S.A..\nPor las razones que expone solicita, además, que se declare que el descuento por concepto de impuesto\núnico determinado sobre la cantidad pagada por concepto de indemnización por años de servicios\nascendente a la suma de $ 0.000.000.- fue jurídicamente improcedente, y que por tanto, se ordene la\ndevolución de dicho valor, a través del respectivo instrumento de pago a su nombre.\n2.- Sobre el particular, cabe expresar que dentro de los antecedentes aportados, existe una fotocopia de un\nfiniquito de contrato de trabajo, celebrado con fecha 23 de diciembre de 2003, suscrito ante notario entre el\nocurrente y la empresa XXXXXXXX S.A., adjudicataria de los derechos de explotación de las concesiones\nde servicios sanitarios de propiedad de la Empresa YYYYYYYY S.A.\nDe acuerdo a lo que se establece en la Cláusula Primera del referido finiquito, el citado ex-trabajador prestó\nservicios al ex-empleador desde el 19 de Octubre de 1978, hasta el 22 de diciembre de 2003, fecha esta\núltima de la terminación de sus servicios por necesidades de la empresa, consistente en una racionalización\ny reestructuración de la empresa, originada por la adjudicación por parte de XXXXXXXX S.A. del derecho de\nexplotación de las concesiones de servicios sanitarios de propiedad de YYYYYYYY S.A. (Artículo 161 N° 1\ndel Código del Trabajo).\nEn Cláusula Segunda del referido documento, se detallan las sumas pagadas en virtud del finiquito y los\ndescuentos practicados al trabajador, destacándose dentro de sus haberes el pago por concepto de\nindemnización por años de servicio ascendente a la suma de $ 00.000.000; y dentro de los descuentos el\nimpuesto retenido por la indemnización por años de servicio por la suma de $ 0.000.000.-\nEn la parte final de esta misma cláusula se deja expresa constancia:\na) Que el trabajador recibió de parte de YYYYYYYY S.A. a título de anticipo de indemnización por años de\nservicio, con fecha 23 de Diciembre de 2003 la suma de $ 00.000.000-, con motivo del proceso de\ntransferencia de los derechos de explotación que experimentó la empresa el año 2003. Al efecto las partes\nsuscribieron todos y cada uno de los documentos respectivos que ellas reconocen conocer y mantener en su\npoder.\nb) Que con ocasión del proceso de licitación de los derechos de explotación de los servicios sanitarios de\nXXX, de propiedad de YYYYYYYY S.A"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-3498-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-3498-2018",
+      "document_id": "8d9785e9-ae21-54d4-b1a7-233e1545073f",
+      "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13810",
+      "content": "Foja: 237\nDoscientos treinta y siete\nC.A. de Santiago\nSantiago, doce de febrero de dos mil diecinueve.\nA foja 236: téngase presente.\nVistos y teniendo presente:\nQue XXXXXX con fecha 14 de octubre de 2009\ninterpuso reclamo tributario, en contra de las liquidaciones N° 140 y\n41, de fecha 31 de julio de 2009, por concepto de Impuesto de\nPrimera Categoría e impuesto único del artículo 21 de la Ley de\nImpuesto a la Renta correspondiente al año tributario 2006 por un\nmonto de $194.775.676.-, que con intereses y reajustes alcanza a\n$361.510.473 .-. Presentación que fue desechada por sentencia de\nprimera instancia pronunciada por el Director Regional Santiago\nOriente.\nEncontrándose los antecedentes en este Tribunal de Alzada\npara conocer del recurso de apelación deducido por la reclamante,\néste interpuso la excepción perentoria de prescripción de la acción de\ncobo del Fisco, la que se ordenó resolver en la vista de la causa\ncorrespondiente al recurso de apelación.\nEn cuanto a la excepción de prescripción.\n1°.- Que el abogado don José Ignacio Basualto Prieto por la\nparte reclamante, a fojas 211, opuso la excepción perentoria de\nprescripción de la acción de cobro del Fisco, a fin de que se declaren\nprescritos los impuestos contenidos en las liquidaciones reclamadas\nen estos autos.\nRespecto de los hechos reseña que las liquidaciones de autos\nfueron reclamadas por su parte el 14 de octubre de 2009, acción que\nse tuvo por interpuesta el 27 de julio de 2010. El 7 de noviembre de\n2014, se recibió la causa a prueba, rechazándose la reposición\ndeducida en contra de esta interlocutoria el 17 de diciembre del\nmismo año. La sentencia de primer grado se dictó el 28 de\nseptiembre de 2017, deduciéndose recurso de apelación el 8 de\nnoviembre de 2016. El tribunal a quo concedió dicho recurso y ordenó\nremitir los antecedentes el 16 de marzo de 2017, y el expediente fue\nremitido a esta Corte el 21 de marzo de 2018, ingresando a le\nrespectiva secretaría el 22 de marzo de 2018.\nEn definitiva explica que han transcurrido más de 9 años entre\nla presentación de la acción de reclamación y la fecha en que estos\nautos quedaron a disposición de la Corte de Apelaciones, por lo que\nse cumple con creces el plazo de prescripción establecido en el\nartículo 201 del Código Tributario.\nEn cuanto al tema normativo explica que en la especie se ha\nvulnerado su derecho a ser oído en un tiempo razonable, garantía\nreconocida por el artículo 8° de la Convención Americana de\nDerechos Humanos, tesis jurídica que ha sido reconocida por los\ntribunales patrios, tanto por la Excma. Corte Suprema, como por las\nCortes de Apelaciones.\n2°.- Que, por su parte, el Consejo de Defensa del Estado\narguyó que hubo antecedentes omitidos por la reclamante dentro de\nla excepción, agregando algunos que han sido debidamente\nconsignados en el motivo anterior, agregando que el Fisco de Chile\nes el único afectado con la demora en la tramitación y desarrollando\nlatamente, el concepto de lo que ha de entenderse por un plazo de\njuzgamiento razonable.\n3°.- Que esta Sala Tributaria en causa rol 6785-2017, sobre\nLiquidación de Reclamaciones, con fecha 26 de octubre de 2017\nrevocó una sentencia de primera instancia pronunciada por el Director\nRegional Metropolitano, Santiago Oriente, por haberse infringido el\nderecho a ser juzgado dentro de un plazo razonable como garantía\nfundamental del “debido proceso”, por aplicación del artículo 8.1 de la\nConvención"
+    },
+    {
+      "name": "Resolución N°104 (21/12/2015)",
+      "source_type": "resolucion",
+      "source": "Resolución N°104 (21/12/2015)",
+      "document_id": "fdfe160a-0b1c-5954-82ff-dc978fc42a8c",
+      "chunk_uuid": "106b1435-f37c-549c-b393-c4f75c4f3b94",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/resoluciones/2015/reso104.pdf",
+      "content": "ales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado \nfue fijado por el D.F.L N° 1/19.653 del 2000, del Ministerio Secretaría General de la Presidencia; en \nlos artículos 3, 19 y 48 de la Ley N° 19.880, Ley de Bases de los Procedimientos Administrativos que \n\n\n \n \nrigen los actos de los órganos de la administración del Estado; en el artículo 3° letra e) del D.F.L. \nN° 7.912 de 1927, del Ministerio del Interior, vigente de conformidad a lo preceptuado por la Ley N° \n20.502; Resolución Exenta N° 6.793, de 20 de agosto de 2013, que crea Departamento Diario \nOficial; y, la Resolución N° 1.600 de 2008 de Contraloría General de la República, que fija normas \nsobre exención del trámite de toma de razón, el Diario Oficial es la institución oficial del Estado, \nencargada de la publicación de las normas jurídicas que rigen el país.. \n \nSEGUNDO: \nDe acuerdo al artículo 1° de su Ley Orgánica, contenida en el Decreto con Fuerza de Ley N°7, de \nHacienda, de 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicación y fiscalización de \nlos tributos internos, para lo cual y en cumplimiento de las disposiciones pertinentes del Código \nTributario, Decreto Ley N° 830, de 1974, procesa información de los contribuyentes.  \n \nTERCERO: \nEn razón de lo anterior, considerando el principio de colaboración entre organismos públicos \nconsagrado en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases de la \nAdministración del Estado, lo dispuesto en el artículo 20° de la Ley N° 19.628, sobre protección de \nla vida privada o protección de datos de carácter personal y los artículos del 4° al 19°, de la misma \nLey, que imponen limitaciones generales para el procesamiento de la información, el MINISTERIO y \nel SERVICIO han acordado suscribir el presente convenio destinado al intercambio de información, \npara ser utilizada dentro del marco de sus competencias, a fin de contribuir al logro de una gestión \nmás eficiente de las funciones que sus respectivas normas orgánicas les han encargado. \n \nCUARTO: \nEl MINISTERIO y el SERVICIO, para efectos de cumplir con el intercambio de información previsto \nen este convenio, se conectarán ya sea utilizando las redes internet y/o intranet del Estado, o \nalguna otra forma que acuerden ambas partes. El detalle de la información a ser traspasada  entre \nlas partes se especifica en el Anexo ° 1, que se entiende parte integrante del presente convenio. \n \n \nEl intercambio de información y el otorgamiento de servicios objeto de este Convenio, no será \nremunerado. \n \nQUINTO: \nCon el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes \ndesignará un Coordinador. \n \nEl SERVICIO designa como coordinador, para estos efectos, al Jefe del Departamento de Estudios \nEconómicos y Tributarios dependiente de la Subdirección de Estudios.  \n \nEl MINISTERIO designa como coordinador, para estos efectos, al Director del Diario Oficial. \n \nEn el evento de modificarse la designación, se deberá comunicar tal situación formalmente, \nmediante oficio, al jefe superior de la otra institución. \n \nSEXTO:  \n \nRespecto de la información intercambiada: \n \na) \nLas partes declaran que en materia de tratamiento de datos de carácter personal, sujetarán sus \nactuaciones a las disposiciones de la Ley N° 16.628 sobre Protección de la Vida Privada. \nb) \nLas partes se obligan a adoptar medidas de seguridad adecuadas para conservar la propiedad de la \ninformación, que pudiese ser confidencial o personal, libre del acceso de terceros no autorizados. \nEn dicho contexto, tanto el SERVICIO como el MINISTERIO"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-2765-2019",
+      "source_type": "jurisprudencia",
+      "source": "ROL-2765-2019",
+      "document_id": "c5e4bccf-6422-5e21-b6c9-42b2f8fe5d16",
+      "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14421",
+      "content": " del\nbeneficio contemplado en la Ley Nº 20.732, debido a que el\nnuevo avalúo fiscal de su departamento excedía la suma de\n$89.016.375, que corresponde al monto actualizado del\navalúo a que se refiere el artículo 1º, número 5, de la\nprecitada ley, sin considerar la recurrida que la actora\nreúne las exigencias establecidas en el número 6 del mismo\nartículo, motivo por el cual le es igualmente aplicable el\naludido beneficio. Postula, finalmente, que la actuación de\nla recurrida vulnera los derechos y garantías fundamentales\ncontemplados en los numerales 22 y 24 del artículo 19 de la\nConstitución Política de la República.\nTercero: Que, informando la recurrida, alega la\nextemporaneidad del recurso, por cuanto la pérdida del\nbeneficio a que alude la actora se debe a que ésta ya no\ncumple con los requisitos contemplados en la Ley Nº 20.732,\nen razón de haberse incrementado el avalúo fiscal de su\npropiedad, hecho que aconteció a comienzos del año 2018 y\nque fue notificado a la recurrente, mediante publicación\npor avisos realizada por la Municipalidad de Las Condes, en\nlos meses de abril y mayo de dicha anualidad. Por\nconsiguiente, al haberse interpuesto el recurso con fecha\n24 de octubre de 2018, lo ha sido fuera del plazo\nestablecido en el numeral 1 del Auto Acordado de esta Corte\nsobre tramitación y fallo del recurso de protección de\ngarantías constitucionales.\nEn cuanto al fondo, manifiesta que la acción de\nprotección no es la vía idónea para discutir el reavalúo de\nbienes raíces, toda vez que el legislador ha contemplado un\nprocedimiento especial al efecto, que considera tanto la\nreclamación en sede administrativa ante el propio Servicio\nde Impuestos Internos, como el ejercicio de la acción\nespecial a que se refiere el artículo 149 del Código\nTributario ante el Tribunal Tributario y Aduanero\ncompetente. En el mismo sentido discurre el artículo 1º de\nla Ley Nº 20.732, en tanto permite al contribuyente invocar\nel procedimiento general de reclamaciones previsto en el\nartículo 124 del Código Tributario, para impugnar el giro\nde la cuota de contribuciones que no haya considerado la\nrebaja del beneficio establecido en dicho cuerpo normativo.\nDestaca que, en cualquier caso, no existe acción u omisión\nilegal o arbitraria de su parte, pues –según su\ninterpretación- sólo pueden acceder a la rebaja de\ncontribuciones de bienes raíces contemplada en la Ley Nº\n20.732, aquellos contribuyentes que reúnan todos y cada uno\nde los requisitos copulativos previstos en el artículo 1º\nde ese cuerpo legal, cuyo no es el caso de la reclamante,\npues ésta no cumple con la condición exigida en el numeral\n5º, atendido el reavalúo del departamento en que reside en\nla comuna de Las Condes, que excede el monto máximo\nestablecido por el legislador. Por último, sostiene que no\nexiste afectación alguna a los Derechos Fundamentales\ninvocados en el libelo, en atención a que el beneficio\ntributario está sujeto a una evaluación anual de la\nautoridad, por lo que no constituye, a futuro, un derecho\nindubitado, razones todas por las que solicitó el rechazo\ndel recurso.\nCuarto: Que son hechos no controvertidos en el pleito\nlos siguientes:\n1) La actora es propietaria del inmueble ubicado en\ncalle Visviri Nº 1550, departamento 36, comuna de\nLas Condes, Santiago, cuyo rol de avalúo\ncorresponde al 1865-12; así como del\nestacionamiento y bodega ubicados en calle Visviri\nNº 1550, Las Condes, BX 174 y BD 72, rol de avalúo\n1865-135 y 1865-251, respectivamente. Por último,\n"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-77252 - 2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-77252 - 2018",
+      "document_id": "91c373a5-c0af-585e-9736-31ce50e81a19",
+      "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+      "chunk_id": 8,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13600",
+      "content": "e contaba con el beneficio tributario con anterioridad al alza experimentada respecto de su inmueble Rol 1865-12-Las Condes, motivo por el cual, gozaba de esta franquicia ex ante del aumento considerable que afectó a su propiedad y que hizo que, en principio, dicho inmueble no se subsumiera dentro de la hipótesis del numeral 5° de la norma en estudio que exige, que el avalúo fiscal del inmueble en el semestre del cobro del impuesto territorial por el que se hace efectiva la rebaja, no exceda la cantidad actualizada de $89.016.375 y en el caso que el contribuyente tenga más de una propiedad que califique para el beneficio, éste límite se aplicará a la propiedad que tenga el avalúo fiscal de mayor valor. \n\nUndécimo: Que, el Servicio de Impuestos Internos nunca dictó ningún acto administrativo tendiente a informar a la contribuyente sobre la pérdida de la rebaja tributaria respecto del impuesto territorial que grava sus inmuebles, en circunstancias que el cambio de status jurídico patrimonial, importa, en los hechos, un aumento considerable de la carga impositiva de la recurrente, GLVXHJKRBX considerando sus exiguos ingresos que, por cierto, importan una verdadera carga que atenta contra el derecho fundamental de la vida, desde que la actora no contaría con los recursos necesarios para proveerse, ni siquiera, de su mantención. En la práctica, la pérdida del beneficio tributario importa un verdadero acto expropiatorio, desde que obliga, tácitamente, a la recurrente, a enajenar su inmueble, producto de la imposibilidad económica de poder asumir el pago de los impuestos territoriales, sin mermar sus propios gastos de vida. \n\nDuodécimo: Que, precisamente, el legislador tuvo en consideración esta hipótesis en que se encuentra la contribuyente para dictar la ley en estudio, desde que los ingresos de la recurrente permiten subsumirla dentro del segmento de adultos mayores vulnerables y el Estado de Chile debiendo brindarles protección, resultando plenamente aplicables a su respecto las normas de protección dictadas. Ahora bien, la propiedad de mayor valor de la recurrente, corresponde al inmueble donde ésta reside cuyo rol es el 1865-12-Las Condes, cuyo valor es de $104.123.592, monto que si bien excede la limitación establecida en la norma en estudio, lo cierto es que la sumatoria de los inmuebles de la protegida, son menores que la tasación actualizada contenida en el numeral 6°, hipótesis que sí es la atinente a aplicar y no la contenida en el numeral 5°, como equivocadamente lo pretende el Servicio, dado que esta, del tenor de su texto, resulta que es aplicable cuando se trata de un solo inmueble habitacional u otro de esta misma naturaleza.\n\nDécimo Tercero: Que, teniendo en especial consideración la intención del legislador de beneficiar a los adultos mayores propietarios de inmuebles y que se encuentren en una situación de vulnerabilidad, como ocurre en la especie, aunado con la tutela a la garantía de propiedad contenida en el artículo 19 N°24 de la Carta Fundamental, considerada como derecho de propiedad de la recurrente sobre el beneficio tributario de que había sido objeto en años tributarios anteriores y que le fuere reconocido, resulta arbitrario, en primer término que la pérdida de la exención no haya sido motivada en un acto administrativo idóneo que le haya permitido a la contribuyente conocer las razones de la administración para privarla de una franquicia de la que previamente gozaba. GLVXHJKRBX Por otro lado, el aumento experimentado en el avalúo del inmueble, no se condice con el incremento de reajustabilidad que establece la ley en orden a optar al beneficio tributario, ya que por una parte la recurrente pudo gozar de dicho beneficio y por un acto independiente de su voluntad, pierde dicho beneficio, al determinarse un incremento mayor del avalúo del inmueble, por sobre el incremento que contempla la exención, act"
+    },
+    {
+      "name": "Oficio N°5184 (01/12/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°5184 (01/12/2004)",
+      "document_id": "342e63e5-7b1d-5d32-8dad-844a92f4252d",
+      "chunk_uuid": "6d7312e3-0868-5bcb-af93-0647ea5054d6",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja845.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2004\nENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°, N° 5, ART. 59°, N° 2, INCISO FINAL, ART.\n74°, N°4, ART.79° – CÓDIGO TRIBUTARIO, ART. 64° – LEY SOBRE IMPUESTO A LAS VENTAS Y\nSERVICIOS, ART. 8°, LETRA H), ART. 12°, LETRA E), N° 7 – LEY N° 17.336, ART. 3°, N° 16, ART. 10°.\n(ORD. Nº 5.184, DE 01.12.2004)\nSERVICIOS DE ASESORÍA CONSULTORÍA, VINCULADOS AL SUBLICENCIAMIENTO DE PROGRAMAS\nCOMPUTACIONALES – CONJUNTO DE INSTRUCCIONES PARA SER USADAS DIRECTA O\nINDIRECTAMENTE EN UN COMPUTADOR A FIN DE EFECTUAR U OBTENER UN DETERMINADO\nPROCESO O RESULTADO, CONTENIDAS EN UN CASSETTE, CINTA MAGNÉTICA U OTRO SOPORTE\nMATERIAL – PROTECCIÓN LEGAL – DERECHOS DE AUTOR – LA PROTECCIÓN QUE OTORGA EL\nDERECHO DE AUTOR, SE EXTIENDE SÓLO A LA OBRA INSCRITA EN EL REGISTRO DE PROPIEDAD\nINTELECTUAL DEL DEPARTAMENTO DE DERECHOS INTELECTUALES DEPENDIENTE DE LA\nDIRECCIÓN DE BIBLIOTECAS, ARCHIVOS Y MUSEOS – LOS SERVICIOS DE ASESORÍAS Y\nCONSULTORÍAS, SON PROCESOS QUE RESULTAN AJENOS AL DERECHO DE AUTOR QUE\nPROTEGE A LOS PROGRAMAS COMPUTACIONALES O SOFTWARE – PRESTACIONES DE\nCARÁCTER CIVIL INDEPENDIENTES DE LAS RESPECTIVAS LICENCIAS, CONFIGURANDO\nASESORÍAS TÉCNICAS, CLASIFICADAS EN EL N°5, DEL ARTÍCULO 20°, DE LA LEY DE LA RENTA –\nEL PRECIO O REMUNERACIÓN QUE LAS PARTES FIJEN EN LA CESIÓN DE LOS PROGRAMAS\nCOMPUTACIONALES, PUEDE SER IMPUGNADO PARA EFECTOS IMPOSITIVOS POR EL SERVICIO –\nSI LA LICENCIA O SUBLICENCIA OTORGADA DIRECTAMENTE AL CLIENTE NACIONAL POR UNA\nPERSONA SIN RESIDENCIA NI DOMICILIO EN CHILE, ES DE AQUELLAS GRAVADAS CON EL\nIMPUESTO ADICIONAL, CONFORME AL ARTÍCULO 59°, DE LA LEY DE LA RENTA, LA\nREMUNERACIÓN PAGADA POR ESTA CESIÓN DE USO, SE ENCONTRARÁ EXENTA DEL IMPUESTO\nAL VALOR AGREGADO –SUMAS REMESADAS AL EXTERIOR POR IMPORTACIÓN DE SOFTWARE\nDESDE EL EXTRANJERO – SOPORTE FÍSICO E INTELECTUAL – INSTRUCCIONES IMPARTIDAS POR\nEL SERVICIO.\n1.-   Por presentación indicada en el antecedente, solicitan se reconsidere el criterio señalado en el Oficio N°\n4183, del 26 de agosto del 2003, en relación con la afectación con IVA a los servicios de asesorías y\nconsultorías vinculados al sublicenciamiento de programas computacionales, además solicita se\nconfirme  la aplicación del artículo 59 de la Ley sobre Impuesto a la Renta en caso que dichos servicios\nsean prestados al cliente nacional desde el extranjero.\n \n             Señalan, que en razón de una consulta formulada anteriormente por la empresa, el Servicio de\nImpuestos Internos emitió el Oficio N° 4183, del 26 de agosto del 2003, el cual entre otras materias se\npronunció sobre la afectación con IVA a los servicios denominados “XXXXXX”, estimándose en dicha\noportunidad que si estas labores “resultan indispensables para el adecuado funcionamiento de los\nsoftware licenciados o sublicenciados, de manera que sin ellas estos últimos no puedan ser utilizados\npara la finalidad que fueron creados, esta"
+    }
+  ]
+}

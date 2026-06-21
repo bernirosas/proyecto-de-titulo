@@ -1,0 +1,253 @@
+{
+  "query_id": "q009",
+  "query_text": "Obligación del vendedor de saneamiento de la evicción en la compraventa",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:09Z",
+  "judgments": [
+    {
+      "chunk_uuid": "8d14bad4-e718-52ba-9400-dc127d815003",
+      "relevance_grade": 2,
+      "justification": "Este fragmento enumera las causales por las cuales no procede la acción de saneamiento por evicción en una partición."
+    },
+    {
+      "chunk_uuid": "8688b551-21b6-5de6-86b1-7aa362709d0c",
+      "relevance_grade": 2,
+      "justification": "Este artículo establece el plazo de prescripción para la acción de saneamiento por evicción en la compraventa."
+    },
+    {
+      "chunk_uuid": "2dafb986-4bb9-58ef-8ea6-73c179f93f07",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre modificaciones a la Ley sobre Impuesto a la Renta y no sobre saneamiento por evicción."
+    },
+    {
+      "chunk_uuid": "05862f77-17d6-5341-8ddb-e1615c9e8cf8",
+      "relevance_grade": 3,
+      "justification": "Este artículo detalla las obligaciones del vendedor en caso de rescisión por evicción, incluyendo restitución y perjuicios."
+    },
+    {
+      "chunk_uuid": "b59f1b23-848f-5f14-86c5-d9bbf2248849",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la compra de mercaderías a precio de otro y no al saneamiento por evicción."
+    },
+    {
+      "chunk_uuid": "0f6fa7a4-0bc9-52e0-a68b-e0a872da6a3f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre retenciones de impuestos en operaciones de enajenación de acciones, no sobre saneamiento de evicción."
+    },
+    {
+      "chunk_uuid": "e0c16c57-42c3-528b-8aad-b303d7407507",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la responsabilidad del IVA para operadores de plataformas, no en el saneamiento de evicción."
+    },
+    {
+      "chunk_uuid": "3b92b52f-78c4-59f7-bf8f-8d720d1871fa",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute la resciliación de contratos y obligaciones tributarias, pero no el saneamiento de evicción."
+    },
+    {
+      "chunk_uuid": "0d405f65-90b7-5060-a60b-efdd4bfbd527",
+      "relevance_grade": 3,
+      "justification": "Este artículo del Código Civil define la obligación del vendedor de sanear la evicción y sus excepciones."
+    },
+    {
+      "chunk_uuid": "b333d12a-7631-5591-87e7-1ec676436a10",
+      "relevance_grade": 0,
+      "justification": "Esta resolución trata sobre retenciones de IVA en ventas de carne, no sobre saneamiento de evicción."
+    },
+    {
+      "chunk_uuid": "be4371f5-29fe-5ab7-9dbc-44ff30819320",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la acción de saneamiento y su indivisibilidad, abordando directamente la consulta sobre la obligación del vendedor."
+    },
+    {
+      "chunk_uuid": "03824f2d-40ad-5474-af88-7e9074be6428",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre tributación de donaciones y gastos rechazados, no relacionado con el saneamiento en compraventa."
+    },
+    {
+      "chunk_uuid": "09479368-8932-511e-a862-74082df1c389",
+      "relevance_grade": 1,
+      "justification": "Este fragmento, aunque habla de evicción, se refiere a la partición de bienes, no a la compraventa inmobiliaria."
+    },
+    {
+      "chunk_uuid": "cc0c512d-0000-576f-b548-3026f0eaeffe",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la indemnización por incumplimiento en entregas parciales de mercaderías, no el saneamiento por evicción."
+    },
+    {
+      "chunk_uuid": "cd2d0be5-6b56-5207-a45c-cfb94987df49",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre tributación y fusión de empresas, sin relación con el saneamiento en compraventa inmobiliaria."
+    },
+    {
+      "chunk_uuid": "d4c7f8ad-0560-5819-987d-ada692dad13f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere al saneamiento por vicios ocultos, no por evicción, por lo que es marginalmente relevante."
+    },
+    {
+      "chunk_uuid": "4224210e-902c-52f6-8df9-3d371b19a998",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre facturación y operaciones comerciales, no sobre la obligación de saneamiento en compraventa."
+    },
+    {
+      "chunk_uuid": "32c91a3e-e28e-5ad6-a675-e2d6718b95da",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de comisionistas y mandatarios, sin abordar el saneamiento por evicción."
+    },
+    {
+      "chunk_uuid": "9dc2200b-0020-53e9-89b9-a2fe92d57ef3",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la obligación de saneamiento por evicción al aportar un cuerpo cierto en propiedad o usufructo."
+    },
+    {
+      "chunk_uuid": "22e61ff6-005b-5f67-beff-ffa8daa068be",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la vigencia de modificaciones a la Ley de la Renta y la tributación de enajenaciones, no sobre saneamiento."
+    },
+    {
+      "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del IVA en compraventas, no en la obligación de saneamiento."
+    },
+    {
+      "chunk_uuid": "26e48a8b-2354-5fa0-9d86-dcaa3474e187",
+      "relevance_grade": 2,
+      "justification": "Define el saneamiento de la evicción como un elemento de la naturaleza de la compraventa, lo cual es relevante."
+    },
+    {
+      "chunk_uuid": "a270c71c-203e-5bd0-ab28-2385d9a57296",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la acreditación de una compraventa, no sobre la obligación de saneamiento del vendedor."
+    },
+    {
+      "chunk_uuid": "ac4efccf-6401-5ede-a29a-9e02794b5be0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la tributación del IVA para plataformas de intermediación, sin abordar el saneamiento."
+    },
+    {
+      "chunk_uuid": "7fe628d9-cf63-548f-abb1-a1e82dfeb8ff",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define directamente la obligación del vendedor de sanear al comprador las evicciones."
+    },
+    {
+      "chunk_uuid": "fd483c77-baef-5ba1-b14c-5fba763ac6c2",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la deducción de gastos y la carga probatoria del contribuyente, no sobre el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "77499a03-59a9-57f4-981b-3189546cd963",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute temas tributarios y de procedimiento, sin abordar la obligación de saneamiento en compraventas."
+    },
+    {
+      "chunk_uuid": "7a5a28dd-ec9f-5dc6-a454-18238e4df68e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la emisión de facturas y boletas, y la habitualidad en transacciones, no en evicción."
+    },
+    {
+      "chunk_uuid": "8b0365fe-a13d-5221-ba26-fe03a666197e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el cambio de sujeto del IVA en ventas de chatarra, ajeno a la evicción."
+    },
+    {
+      "chunk_uuid": "edadc18c-5322-5524-a0f7-c707af9bbdb4",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define el procedimiento y los requisitos para la citación de evicción en el Código de Procedimiento Civil."
+    },
+    {
+      "chunk_uuid": "fa9c9805-9583-531c-ba1a-cf4d999ccfdd",
+      "relevance_grade": 3,
+      "justification": "Este artículo establece la nulidad de pactos que eximan al vendedor del saneamiento de evicción si hay mala fe."
+    },
+    {
+      "chunk_uuid": "fb126198-9cd4-5ea4-bb44-d2a9a4494ac5",
+      "relevance_grade": 2,
+      "justification": "Este artículo detalla la obligación del comprador de citar al vendedor para la defensa de la cosa vendida."
+    },
+    {
+      "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre el reconocimiento de ingresos y descuentos en compraventas, no sobre saneamiento de evicción."
+    },
+    {
+      "chunk_uuid": "1bb3d511-f17c-5975-877d-67389c9b7448",
+      "relevance_grade": 2,
+      "justification": "Este artículo se refiere al saneamiento de la evicción parcial cuando la parte evicta no es de gran importancia."
+    },
+    {
+      "chunk_uuid": "51b11e36-68c9-52e6-8146-f1b949ef900f",
+      "relevance_grade": 2,
+      "justification": "Este artículo enumera los casos específicos en que cesa la obligación del vendedor de sanear la evicción."
+    },
+    {
+      "chunk_uuid": "60a8756a-f4a4-5435-9104-2665a2310a8f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere al reembolso del vendedor por mejoras, pero no aborda directamente la obligación de saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "ff970b1d-ca7f-5532-b6aa-00f7efcb2804",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre tributación de bienes raíces y tasaciones del SII, no sobre el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "4855af45-954b-50d4-b2ea-5876bdf3dfe6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la fusión de empresas y la renta presunta, sin relación con la evicción."
+    },
+    {
+      "chunk_uuid": "452a70ab-d495-5ad3-a0b0-b45d3dc2c48b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de enajenación de acciones y retenciones, no sobre el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "12949236-79e8-52d5-87ad-549ba497d487",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define y detalla los elementos que componen el saneamiento de evicción a que está obligado el vendedor."
+    },
+    {
+      "chunk_uuid": "e0fce072-c59f-5f6f-a45f-a6e7af2254fb",
+      "relevance_grade": 3,
+      "justification": "El fragmento define la obligación del vendedor de saneamiento de la evicción en la compraventa, estableciendo cuándo no está obligado a indemnizar."
+    },
+    {
+      "chunk_uuid": "4ee257c3-83f5-5f3d-a89a-f4cf14060bd7",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el concepto de 'vendedor' en el contexto tributario, lo cual es tangencial a la consulta principal."
+    },
+    {
+      "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define las obligaciones del vendedor en un contrato de compraventa, pero no aborda el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "266b19b4-e097-5efd-8e56-6f55e9d56b3c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en las obligaciones del urbanizador y las garantías en promesas de compraventa, no en el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "783f45ce-e75d-5318-b432-f393f0659444",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la tributación del IVA en la exportación de fruta y la emisión de facturas, sin relación con el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "f8245601-571f-592b-9e53-2072abc9102b",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda la emisión de facturas de exportación y la aplicación del IVA, sin relación con el saneamiento de la evicción."
+    },
+    {
+      "chunk_uuid": "d5683797-0f78-5d37-93a7-d57f24944739",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la definición de 'vendedor' y 'venta' en el contexto del IVA, tangencialmente relacionado con la compraventa."
+    },
+    {
+      "chunk_uuid": "0d7f90dc-b62d-51b1-80ad-2d459485baa6",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define la obligación del vendedor en caso de evicción en ventas forzadas, abordando parcialmente la consulta."
+    },
+    {
+      "chunk_uuid": "c33da2da-1db0-5ab4-b7f4-1a346988ec7d",
+      "relevance_grade": 3,
+      "justification": "Este fragmento establece las obligaciones generales del vendedor, incluyendo el saneamiento de la cosa vendida, respondiendo directamente a la consulta."
+    }
+  ]
+}

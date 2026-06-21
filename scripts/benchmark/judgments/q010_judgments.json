@@ -1,0 +1,183 @@
+{
+  "query_id": "q010",
+  "query_text": "Inscripción de la compraventa en el Conservador de Bienes Raíces como tradición del dominio del inmueble",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:10Z",
+  "judgments": [
+    {
+      "chunk_uuid": "979d3071-3b32-5f11-b3b7-cd6deafcbe37",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la copropiedad y la inscripción de herencias, tangencialmente relacionado con la tradición del dominio."
+    },
+    {
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que la adquisición y enajenación de bienes raíces se entienden inscritas en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "5c75b362-4c2f-534e-b9d6-14a7272daddd",
+      "relevance_grade": 3,
+      "justification": "Este fragmento confirma que la adquisición y enajenación de bienes raíces se perfeccionan con la inscripción en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+      "relevance_grade": 3,
+      "justification": "Este fragmento establece que la transferencia de dominio de bienes raíces requiere inscripción en el Conservador de Bienes Raíces para consumarse."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre arrendamientos y el pago de impuesto territorial, sin relación directa con la tradición del dominio."
+    },
+    {
+      "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+      "relevance_grade": 2,
+      "justification": "Establece que la fecha de adquisición de un inmueble es la de su inscripción en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "0bf34689-3ef9-5ed1-92a6-e40c943ca251",
+      "relevance_grade": 0,
+      "justification": "Aborda la adquisición de bienes raíces por el Fisco y Municipalidades, pero no la tradición del dominio."
+    },
+    {
+      "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+      "relevance_grade": 3,
+      "justification": "Explica que la inscripción es la tradición del dominio sobre inmuebles, salvo excepciones como prescripción."
+    },
+    {
+      "chunk_uuid": "f622f4d1-cd55-59bb-ae4e-401723dcf66c",
+      "relevance_grade": 2,
+      "justification": "Menciona la fecha de inscripción en el Conservador como fecha de adquisición en casos de tradición."
+    },
+    {
+      "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+      "relevance_grade": 3,
+      "justification": "Afirma que la tradición de inmuebles se efectúa por inscripción en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "f5db6768-3e9f-51e4-a448-5a054fd3af78",
+      "relevance_grade": 2,
+      "justification": "Explica que la tradición de bienes raíces se efectúa mediante la inscripción del título en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+      "relevance_grade": 3,
+      "justification": "Establece que la fecha de adquisición de bienes raíces para efectos tributarios es la inscripción en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "a75d23d7-d688-5937-bf55-62bd76175240",
+      "relevance_grade": 1,
+      "justification": "Menciona la inscripción de bienes decomisados en el Conservador de Bienes Raíces, pero no la compraventa."
+    },
+    {
+      "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+      "relevance_grade": 3,
+      "justification": "Indica que la fecha de adquisición o enajenación de bienes raíces es la de inscripción en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "0cfb800e-00ab-5f06-8deb-2ce88d97f5ef",
+      "relevance_grade": 0,
+      "justification": "Se refiere a tasaciones de bienes raíces y su adquisición, pero no a la inscripción como tradición."
+    },
+    {
+      "chunk_uuid": "c4bef92f-8c47-55bb-98c7-9e0f85b6e78b",
+      "relevance_grade": 2,
+      "justification": "Menciona que la tradición de bienes inmuebles se materializaría con su inscripción en el conservador de bienes raíces."
+    },
+    {
+      "chunk_uuid": "249179f2-315b-574f-bd25-fe92933733fd",
+      "relevance_grade": 2,
+      "justification": "Discute la propiedad de inmuebles según el Registro de Propiedad del Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "relevance_grade": 3,
+      "justification": "Explica que la tradición de bienes raíces se efectúa por la inscripción del título en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "a2c651c2-c2ec-5dba-b4b5-7ca39c477695",
+      "relevance_grade": 3,
+      "justification": "Establece que la adquisición de un bien raíz se produce con la inscripción del título en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "1d25bdd2-4000-54fc-9cec-683eca9e7232",
+      "relevance_grade": 3,
+      "justification": "Indica que la adquisición y enajenación de inmuebles se entienden inscritas en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+      "relevance_grade": 3,
+      "justification": "Explica que la inscripción en el Conservador de Bienes Raíces es la tradición del dominio de bienes raíces."
+    },
+    {
+      "chunk_uuid": "5c3f47c5-7bcd-5372-8f83-4bbe23e61146",
+      "relevance_grade": 2,
+      "justification": "Menciona la inscripción de una compraventa en el Conservador de Bienes Raíces en relación a la calidad del adquirente."
+    },
+    {
+      "chunk_uuid": "a30d90c2-d459-5c35-8d2d-5587b239c0d3",
+      "relevance_grade": 1,
+      "justification": "Resolución Exenta SII N°8655: procedimiento para que Notarías y Conservadores informen al SII las enajenaciones e inscripciones de bienes raíces (Formulario 2890). Menciona inscripción en el Conservador y enajenación, pero aborda el procedimiento administrativo-tributario de captura de datos, no la inscripción como tradición del dominio que pide la consulta. [corregido manualmente: el LLM devolvió parse-error (-1) para este chunk en todas las corridas; grado asignado por revisión humana según escala TREC]"
+    },
+    {
+      "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+      "relevance_grade": 2,
+      "justification": "Establece que la inscripción en el Conservador de Bienes Raíces fija la fecha de adquisición o enajenación."
+    },
+    {
+      "chunk_uuid": "f5132e56-3e70-54a5-8b64-1c28631e3cc5",
+      "relevance_grade": 1,
+      "justification": "Aborda la tributación de la enajenación de bienes raíces, pero no la inscripción como tradición."
+    },
+    {
+      "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+      "relevance_grade": 2,
+      "justification": "Explica que la inscripción en el Conservador de Bienes Raíces es la tradición del inmueble."
+    },
+    {
+      "chunk_uuid": "d17e39e6-272b-5c7e-9dec-8962de381a63",
+      "relevance_grade": 0,
+      "justification": "Se refiere a exenciones de pago de derechos en el Conservador de Bienes Raíces, no a la tradición."
+    },
+    {
+      "chunk_uuid": "99f3c514-836d-50d9-8710-0ea6270cbcf3",
+      "relevance_grade": 0,
+      "justification": "Trata sobre impuestos territoriales y rentas de arrendamiento, no sobre la inscripción como tradición."
+    },
+    {
+      "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+      "relevance_grade": 3,
+      "justification": "Establece que la fecha de inscripción en el Conservador fija la fecha de adquisición/enajenación."
+    },
+    {
+      "chunk_uuid": "8bdbea97-6d53-59c0-ac08-d7019a5398a5",
+      "relevance_grade": 2,
+      "justification": "Detalla inscripciones necesarias para disponer de inmuebles hereditarios, vinculando posesión efectiva y tradición."
+    },
+    {
+      "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+      "relevance_grade": 3,
+      "justification": "Explica que la inscripción en el Conservador de Bienes Raíces es la forma de tradición del dominio de inmuebles."
+    },
+    {
+      "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+      "relevance_grade": 3,
+      "justification": "Confirma que la transferencia de dominio de bienes raíces se efectúa por inscripción en el Conservador, siendo la tradición."
+    },
+    {
+      "chunk_uuid": "4a9333f3-a07b-5eff-9472-b4d3bfa134d7",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define explícitamente que la tradición del dominio de bienes raíces se efectúa mediante la inscripción del título en el Conservador de Bienes Raíces."
+    },
+    {
+      "chunk_uuid": "2036b647-852c-5e5f-8818-728c1a283f55",
+      "relevance_grade": 2,
+      "justification": "Menciona la inscripción del título en el Conservador de Bienes Raíces como modo de hacer tradición del derecho real, aunque en un contexto específico."
+    },
+    {
+      "chunk_uuid": "e1078d07-0cc8-56cc-bf0c-ed9a87c74a57",
+      "relevance_grade": 2,
+      "justification": "Cita el artículo 686 del Código Civil al referirse a la inscripción del título traslaticio de dominio de un inmueble como servicio del Conservador."
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "query_id": "q002",
+  "query_text": "Plazo y forma de dar aviso de desahucio en arriendo de inmueble",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:01Z",
+  "judgments": [
+    {
+      "chunk_uuid": "673cc5ac-754d-5437-b82e-301acd42d77d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute los contratos de arriendo con opción de compra y su tratamiento tributario, pero no aborda el plazo ni la forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "a140cf56-6748-5eb4-b97c-ea93767c058b",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en el IVA de los contratos de arriendo con opción de compra y la venta de inmuebles, sin mencionar el desahucio."
+    },
+    {
+      "chunk_uuid": "4b3af2bd-a81f-5068-9240-c446a64aca90",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre arriendos de establecimientos educacionales y opciones de compra, pero no sobre el desahucio en arriendos generales."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la sustitución de la estructura del Formulario N°50 para declaración y pago de impuestos, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "766edb1e-3268-58b1-9ad6-7ce266a9c023",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla modificaciones en la determinación del capital propio de sociedades y la vigencia de artículos de la LIR, sin abordar el desahucio."
+    },
+    {
+      "chunk_uuid": "9180b7b2-5479-59c9-bd2a-95f84de79cbe",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica cómo reconocer gastos por usufructo y cesión de contratos de arrendamiento, pero no el desahucio."
+    },
+    {
+      "chunk_uuid": "740b7fca-a2e4-53bd-aac4-73c241478ca1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla el aviso de venta de vehículos y término de giro, no relacionado con el desahucio de arriendos de inmuebles."
+    },
+    {
+      "chunk_uuid": "77a65d22-76df-5bf3-a5a3-4c97669f2ad1",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda el crédito por Impuesto Territorial en inmuebles arrendados mientras se venden, sin tratar el desahucio."
+    },
+    {
+      "chunk_uuid": "4171f004-7adf-5447-80ce-7255e72235d3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica el cómputo, vencimiento y prórroga de plazos en materia tributaria, pero no específicamente el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre convenios de coordinación para la aplicación de normas sobre avalúos y regularización de títulos, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "9c4dad97-61e0-5926-8f6a-fd7371e8b392",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en obligaciones tributarias del arrendamiento, no en el plazo o forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "1a9bab31-658c-565c-863c-81f3632d6668",
+      "relevance_grade": 1,
+      "justification": "Este fragmento modifica el artículo 17 del DL 825, pero se centra en arriendo con opción de compra, no en desahucio."
+    },
+    {
+      "chunk_uuid": "d0268d76-ecdd-52d4-b58f-30736bea47d7",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define 'venta' y 'vendedor' en el contexto del IVA, y menciona el arrendamiento como hecho gravado, pero no el desahucio."
+    },
+    {
+      "chunk_uuid": "16da3810-71f6-5858-8899-fa94151d2fa2",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la calidad de 'inmueble usado' para efectos de IVA y menciona el arriendo, pero no el desahucio."
+    },
+    {
+      "chunk_uuid": "cdd29d6e-8cab-5d30-a5cf-b18e7587c227",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre deducciones en arriendo con opción de compra y la aplicación del plazo de tres años, no sobre desahucio."
+    },
+    {
+      "chunk_uuid": "76be3e26-7e03-5dac-9a91-8c7b7791ef14",
+      "relevance_grade": 1,
+      "justification": "Este fragmento analiza el IVA en arrendamiento de inmuebles amoblados y no amoblados, sin abordar el desahucio."
+    },
+    {
+      "chunk_uuid": "27ccd44f-20fa-5c0d-b0fa-72161be6a9d3",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica la emisión de documentos tributarios en arriendo de inmuebles amoblados, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "bb012ee1-e7fa-50c3-b422-5ee5fb392994",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el pago de un desahucio como ingreso no constitutivo de renta en un contexto tributario."
+    },
+    {
+      "chunk_uuid": "b673ceef-bce9-503b-8bc3-0f6100efe9eb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere a arriendo con opción de compra y deducciones de crédito fiscal, sin abordar el desahucio."
+    },
+    {
+      "chunk_uuid": "d12dac24-fc63-52d3-8e3f-b0fec4dbbc0a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda el plazo y trámite del reclamo de indemnizaciones por desahucio, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "70e1fab4-cb27-5d44-8e5b-2a51a78da27e",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de arrendamientos de inmuebles amoblados y los plazos, pero no aborda el aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este documento se refiere a la modificación del Formulario 50 para la declaración y pago de impuestos, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "7b4c0aec-1ccd-54e0-99c2-58af41c34ba6",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica los hechos gravados especiales en arrendamientos, incluyendo inmuebles amoblados, pero no el aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "d6a8e4e9-be9c-5609-b9ff-f4cda023e07f",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre el IVA en contratos de arriendo con opción de compra y la aplicación del artículo 64 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "a7444b1c-5ebb-55fd-8ca2-12f31cf3b98c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la tributación de IVA en contratos de arriendo con opción de compra y leaseback, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "3d4c5b82-c23c-52da-921b-15f137483b78",
+      "relevance_grade": 0,
+      "justification": "Este documento se enfoca en el IVA de contratos de arriendo con opción de compra y la venta de activos fijos, no en el desahucio."
+    },
+    {
+      "chunk_uuid": "4ba27ee3-4799-5226-ba4e-270421cab00c",
+      "relevance_grade": 2,
+      "justification": "Este oficio menciona el desahucio en el contexto de arrendamientos de predios rústicos y duración indefinida, pero no en arriendos urbanos generales."
+    },
+    {
+      "chunk_uuid": "080708ea-4121-531e-8c7a-96561d7c4b85",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la acreditación del pago de impuestos en ventas de inmuebles y la presunción de habitualidad, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "19fab373-dc33-52fe-beb5-9242c1bc36b8",
+      "relevance_grade": 1,
+      "justification": "Este oficio analiza la tributación de IVA en compraventas y arriendos con opción de compra, sin abordar el aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "1a810978-0765-59c7-ada8-8c71195a803a",
+      "relevance_grade": 0,
+      "justification": "Esta resolución se refiere a la declaración de inicio y término de giro para transportistas, sin relación con el desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "d3b6d935-0d90-50a7-a8a4-b578327ad36d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre aspectos tributarios de contratos de arriendo con opción de compra, no sobre el aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "c5bea989-fa12-5b99-b619-71a9cdb09f49",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla plazos para el término de giro de actividades económicas, no para avisos de desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "dfe54e21-2aed-56c0-89da-6a189869c5fd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento analiza la naturaleza tributaria de un contrato de servicios, no el desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "a2fd0749-b6e1-50bc-976e-07d69b72a557",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la impugnación de resoluciones de término de giro y modificaciones administrativas, no al desahucio."
+    },
+    {
+      "chunk_uuid": "265c3da8-130a-5a38-aa31-385c73887ba1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento describe medidas preventivas y de colaboración del SII, no el aviso de desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "8bfdc4bc-058b-56c2-b486-514419b7a0fa",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la notificación de citaciones y la habitualidad en la venta de inmuebles, no sobre el desahucio."
+    },
+    {
+      "chunk_uuid": "8f0b9bbd-5e9f-5c10-aaf0-36fd04b10c35",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la tributación del mayor valor en venta de bienes raíces y el aviso de término de giro, no el desahucio."
+    },
+    {
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a procedimientos de pago de impuestos y uso de internet, sin relación con el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "762d41ab-fb09-590a-af04-caba9e633681",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la obligación del arrendatario al término del contrato por su culpa, incluyendo el pago de renta hasta el desahucio."
+    },
+    {
+      "chunk_uuid": "187f59b6-b789-574b-a147-567526187bcc",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla medios expeditos para avisos del SII y plazos, sin relación con el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "b886d120-4303-55ca-82d0-a14fba19bec8",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define el plazo de un año para el desahucio en arriendos sin tiempo fijo, aplicable a inmuebles."
+    },
+    {
+      "chunk_uuid": "c1a59660-3d86-590b-8741-422d531bc8df",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre el IVA en arriendos con opción de compra, no sobre el plazo de desahucio."
+    },
+    {
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el IVA en la enajenación de inmuebles, no en el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "6cc02c05-7bab-5ab0-9658-0d90ea0c0d9e",
+      "relevance_grade": 2,
+      "justification": "Este artículo establece que la anticipación del desahucio se ajusta al período de pago, pero excluye inmuebles."
+    },
+    {
+      "chunk_uuid": "0617f827-666a-5801-9ab8-cf68b78ef786",
+      "relevance_grade": 0,
+      "justification": "Este documento trata sobre el IVA en contratos de arriendo con opción de compra, no sobre el desahucio."
+    },
+    {
+      "chunk_uuid": "d619efd8-60b4-5b60-8cc9-ffdc16284775",
+      "relevance_grade": 0,
+      "justification": "Este oficio se centra en el IVA de arriendos con opción de compra, no en el plazo de desahucio."
+    },
+    {
+      "chunk_uuid": "1bdebed8-26e9-58e1-a2a4-fdafa1637c16",
+      "relevance_grade": 0,
+      "justification": "Este documento detalla requisitos para acreditar propiedad o arriendo, no el plazo de desahucio."
+    },
+    {
+      "chunk_uuid": "01ee4fab-dcbd-5b28-9939-b2fc024ab5b3",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda rentas de arrendamiento y su tributación, no el plazo de desahucio."
+    },
+    {
+      "chunk_uuid": "74fcf25d-8d58-5cbe-a6ad-ffb0daf285da",
+      "relevance_grade": 0,
+      "justification": "Esta resolución trata sobre la sustitución de formularios tributarios, no sobre el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "c5287b9f-45cc-5828-964e-4ca0dbe3e62d",
+      "relevance_grade": 0,
+      "justification": "Este documento se refiere a avisos de término de giro y prescripción, no al desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "fcc51bfa-e43c-5fd6-979f-5ed0854a8177",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre avisos al Servicio y no sobre desahucio en arriendo de inmuebles."
+    },
+    {
+      "chunk_uuid": "e3113991-3e34-5c57-b9ee-40d97512ebe7",
+      "relevance_grade": 1,
+      "justification": "Este oficio menciona el desahucio de un contrato en el contexto de créditos incobrables, no de arriendos."
+    },
+    {
+      "chunk_uuid": "bf197bec-6da0-51f5-aa65-717e099739a5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla requisitos para acreditar domicilio, incluyendo contratos de arriendo, pero no el desahucio."
+    },
+    {
+      "chunk_uuid": "a33080a1-c544-5b31-9883-e7b7b595c073",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el IVA del arrendamiento de inmuebles, no en el plazo o forma de desahucio."
+    },
+    {
+      "chunk_uuid": "cb1c2d90-0151-5cd2-a560-934cf7fd90e9",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la habitualidad en la venta de inmuebles y el IVA, sin relación con el desahucio."
+    },
+    {
+      "chunk_uuid": "a0518bdc-84ee-5da3-a629-d14047d38aee",
+      "relevance_grade": 0,
+      "justification": "Este fragmento describe la verificación de actividad para inicio de actividades, no el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "47c723df-67a2-578e-bf97-19c1ce7d5d16",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute la aplicación del IVA al arrendamiento de inmuebles, sin abordar el desahucio."
+    },
+    {
+      "chunk_uuid": "fe1e175d-471f-5dbb-a529-3c2953bcdd6d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento analiza la naturaleza del arrendamiento como servicio, sin tratar el desahucio."
+    },
+    {
+      "chunk_uuid": "ed47b8cb-ec3b-5715-a878-64618c3b02a0",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda el IVA en ventas concursales, no el desahucio de arriendos de inmuebles."
+    },
+    {
+      "chunk_uuid": "1bd91d19-09c7-513d-b0ee-37c09886f7b7",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a la aplicación del IVA al arrendamiento de locales comerciales, no al desahucio."
+    },
+    {
+      "chunk_uuid": "e080fbad-177b-54be-8751-4b40e035cf38",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación del IVA en arrendamientos de inmuebles, pero no aborda el plazo ni la forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "72749cc7-d9c1-5d86-bd9e-51582005b9f6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de impuesto territorial para instituciones de beneficencia, sin relación con el aviso de desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "3017d408-58b3-5a66-a473-c29e02f0d29a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de la enajenación de bienes raíces, no en el desahucio de arriendos."
+    },
+    {
+      "chunk_uuid": "dba7fb53-924c-5374-a780-fd261bb6b44b",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica cuándo un arrendamiento de inmueble está afecto a IVA, pero no menciona el plazo ni la forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "628d399c-6bc5-5ac3-a50f-3ec73db5d67e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en arrendamientos, no sobre el plazo o forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "1158b5f3-b4fd-54a0-b960-db044d8c5b82",
+      "relevance_grade": 1,
+      "justification": "Este oficio menciona el aviso de inicio de actividades y la tributación de arriendos, pero no el desahucio."
+    },
+    {
+      "chunk_uuid": "3e05a27e-775d-5ed2-8650-9feb9f77522c",
+      "relevance_grade": 0,
+      "justification": "Este artículo de ley se refiere a infracciones y sanciones en faenas mineras, sin relación con arriendos."
+    },
+    {
+      "chunk_uuid": "38525a50-605f-5b5b-ad6e-6196d330c619",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla procedimientos para devoluciones de IVA y retenciones, no el aviso de desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "f3c33eaf-714d-5d78-84b6-ab9a4635980f",
+      "relevance_grade": 0,
+      "justification": "Esta circular trata sobre el aviso de pérdida o recuperación de cédulas de identidad o RUT, no de arriendos."
+    },
+    {
+      "chunk_uuid": "53d1f3f9-e1be-5a1d-83ae-3b58856ce9f0",
+      "relevance_grade": 0,
+      "justification": "El fragmento trata sobre el plazo para cumplir obligaciones tributarias del término de giro, no sobre desahucio en arriendo."
+    },
+    {
+      "chunk_uuid": "480d049f-06c9-5764-b77f-67170b29591d",
+      "relevance_grade": 0,
+      "justification": "El fragmento detalla el aviso de pérdida y recuperación de cédulas de identidad, sin relación con el desahucio de arriendo."
+    },
+    {
+      "chunk_uuid": "21038bf8-a618-5643-8425-e61256cb3d3f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en arriendos de inmuebles amoblados, no sobre el plazo y forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "bd10827f-5cdb-57c5-bfc0-b0f6f51ab5c4",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la base imponible del IVA y la emisión de boletas en arriendos amoblados, sin abordar el desahucio."
+    },
+    {
+      "chunk_uuid": "ca3516c4-83c7-5b75-ac6c-1bba2a22e2c9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute plazos para reclamaciones tributarias y notificaciones, no el aviso de desahucio en arriendos."
+    },
+    {
+      "chunk_uuid": "e3397ddf-e661-5987-8425-793f956762e6",
+      "relevance_grade": 0,
+      "justification": "La circular detalla procedimientos administrativos para avalúos de bienes raíces, sin relación con el aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "ce8e03b8-d331-5642-9b16-709316417c24",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la acreditación de contratos de arriendo para diversos fines, no al aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "3f7e4a37-0457-5ffd-8b70-109a9299e17b",
+      "relevance_grade": 1,
+      "justification": "El fragmento discute la tributación del arrendamiento de inmuebles, pero no aborda el plazo ni la forma de aviso de desahucio."
+    },
+    {
+      "chunk_uuid": "0552cb62-af00-526f-af39-2f4fa7641e4d",
+      "relevance_grade": 1,
+      "justification": "El fragmento se enfoca en la base imponible del IVA en arrendamientos y la deducción del avalúo fiscal, sin tratar el desahucio."
+    }
+  ]
+}

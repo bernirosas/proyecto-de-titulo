@@ -1,0 +1,293 @@
+{
+  "query_id": "q021",
+  "query_text": "Recurso de protección por afectación al derecho de propiedad sobre inmueble",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:32Z",
+  "judgments": [
+    {
+      "chunk_uuid": "0dcf6104-b50c-5bee-be64-39f1e0fe0689",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la afectación del derecho de propiedad en el contexto de un recurso tributario, abordando la consulta de manera parcial."
+    },
+    {
+      "chunk_uuid": "fbbebdb4-ba1f-5083-9ecb-f3f40501e257",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la tributación de rentas inmobiliarias y la aplicación de impuestos, tangencialmente relacionado con la propiedad."
+    },
+    {
+      "chunk_uuid": "12fccba9-4bfa-5dc2-918c-f7d351e8c3af",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente un recurso de protección por afectación al derecho de propiedad, explicando los fundamentos de la decisión."
+    },
+    {
+      "chunk_uuid": "99f7096a-22e2-5525-87b8-443588e809fa",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la aplicación de beneficios tributarios a inmuebles y su posible pérdida, relacionado con el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "9879c904-fe67-5b83-a4a7-b3a8663fa760",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza un recurso de protección donde se alegó vulneración de derechos, incluyendo el de propiedad, pero se desestimó por falta de legitimación."
+    },
+    {
+      "chunk_uuid": "ffe806a0-782e-52f5-b98d-74012f7b2efa",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un recurso de protección rechazado por demora en la entrega de rol de avalúo, tocando el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de concesiones mineras como inmuebles, pero no aborda recursos de protección sobre propiedad."
+    },
+    {
+      "chunk_uuid": "3646fce4-f5f7-58e0-be33-c94f94895f41",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de arriendos con IVA, sin relación con recursos de protección sobre propiedad."
+    },
+    {
+      "chunk_uuid": "e6ddfd6f-c06c-583c-9df9-8fede34e0520",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a un convenio de intercambio de información tributaria, sin relación con recursos de protección."
+    },
+    {
+      "chunk_uuid": "0cd9bfe9-67fd-5319-8c95-db979070f98d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla un recurso de protección rechazado por modificación de catastro de bienes raíces, afectando la propiedad."
+    },
+    {
+      "chunk_uuid": "1f8ddcd2-4e61-5964-9e78-bb17aad2b316",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la aplicación del IVA a cesiones de propiedad industrial e intelectual, no sobre el derecho de propiedad inmobiliaria."
+    },
+    {
+      "chunk_uuid": "38b5acfe-8252-568e-ae49-f201e34d362b",
+      "relevance_grade": 3,
+      "justification": "Este fragmento describe un recurso de protección donde se alegó vulneración al derecho de propiedad por una anotación tributaria."
+    },
+    {
+      "chunk_uuid": "a26ed49b-4246-5901-8b9f-de29ea1dc828",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el IVA y crédito fiscal en divisiones de sociedades, no en recursos por afectación al derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "7bd9adf2-0028-5eef-a7d5-4a1db87901a1",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla un recurso de protección rechazado por afectación al derecho de propiedad debido a la determinación del impuesto territorial."
+    },
+    {
+      "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+      "relevance_grade": 0,
+      "justification": "Esta resolución trata sobre el impuesto a rentas acumuladas y retiros en exceso, ajena a la consulta sobre derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "e4ca4b2c-997b-510b-9be1-6f32aed54ba7",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el derecho de propiedad y su protección constitucional en el contexto de un recurso de protección."
+    },
+    {
+      "chunk_uuid": "88c83fd9-8af0-590e-86d8-a6e8cb3664ed",
+      "relevance_grade": 1,
+      "justification": "Aborda la vulneración de derechos constitucionales en un procedimiento tributario y la procedencia de recursos, tangencialmente relacionado con la protección de derechos."
+    },
+    {
+      "chunk_uuid": "f8e25210-0131-5ee8-a4df-3f88408859e7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento describe el patrimonio de una corporación y no tiene relación con la consulta sobre recursos de protección inmobiliaria."
+    },
+    {
+      "chunk_uuid": "ef7b7bfd-4cb1-5b37-9f79-e31912d2864a",
+      "relevance_grade": 0,
+      "justification": "Trata sobre un sistema de despacho de combustibles y su regulación tributaria, sin relación con la consulta."
+    },
+    {
+      "chunk_uuid": "2a4e542b-5cb6-56b0-bd46-7c5c1ff88d48",
+      "relevance_grade": 1,
+      "justification": "Este fragmento analiza la tributación de la enajenación de bienes raíces y usufructo, pero no aborda recursos de protección."
+    },
+    {
+      "chunk_uuid": "ef776d93-5d9c-54b8-8c4a-ecce088886e3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre la tributación de inmuebles y la venta de bienes corporales inmuebles."
+    },
+    {
+      "chunk_uuid": "6ac40c25-d88d-5db1-9755-4f8b278c3013",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la modificación de la ley del IVA respecto a la venta de inmuebles nuevos y usados."
+    },
+    {
+      "chunk_uuid": "888c5c30-dbd5-569b-b737-ffac193bf47e",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define el recurso de protección y los derechos que protege, incluyendo el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "9a257242-50cb-5dbe-a7e7-fb059335aa69",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de rentas inmobiliarias en zonas francas, pero no el recurso de protección."
+    },
+    {
+      "chunk_uuid": "47586d74-122c-5421-a94d-eff9d1234258",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre incentivos tributarios para investigación y desarrollo, no sobre el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "69c826af-928d-5938-b49b-cd4325f9b78a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe el derecho de las comunidades indígenas a reclamar ante un juez por entorpecimientos en el ejercicio de sus derechos sobre tierras."
+    },
+    {
+      "chunk_uuid": "d1867896-604c-5185-acce-c069f2cfccf6",
+      "relevance_grade": 1,
+      "justification": "Define 'propiedad abandonada' y 'sitio no edificado', relevantes para la tributación de inmuebles, pero no para recursos de protección."
+    },
+    {
+      "chunk_uuid": "d166aa9d-7176-5e81-b4d3-305775460886",
+      "relevance_grade": 1,
+      "justification": "Explica la aplicación del IVA en ventas de inmuebles por vendedores habituales, tangencialmente relacionado con propiedad."
+    },
+    {
+      "chunk_uuid": "231485ab-0b13-5cbe-8f7a-c73a228e38b7",
+      "relevance_grade": 3,
+      "justification": "Detalla los presupuestos para la procedencia de un recurso de protección, incluyendo la afectación a derechos constitucionales."
+    },
+    {
+      "chunk_uuid": "529f6ab1-175e-5182-b127-88f315d87230",
+      "relevance_grade": 3,
+      "justification": "Describe un caso de recurso de protección rechazado por afectación a garantías constitucionales en materia de contribuciones territoriales."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre modificaciones al Formulario 50 del SII, no sobre recursos de protección."
+    },
+    {
+      "chunk_uuid": "89d4d620-753d-5109-b9ef-7921cf94f8fd",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la inscripción de fideicomisos que afecten inmuebles, tangencialmente relacionado con propiedad."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a sustituciones del Formulario 50 del SII, sin relación con recursos de protección."
+    },
+    {
+      "chunk_uuid": "b54e54a0-95b1-5ff2-9cb9-f02305e28de7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es un índice de la Ley de Protección al Consumidor, no relacionado con el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "dbc93d55-7ab5-5eb3-b3ae-b918c227a33e",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre IVA en divisiones de sociedades constructoras, no sobre recursos de protección de propiedad."
+    },
+    {
+      "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un recurso de protección rechazado por afectación al derecho de propiedad sobre un inmueble."
+    },
+    {
+      "chunk_uuid": "9035d150-6714-5647-8bfe-c2753bbcf7ec",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla el acogimiento de un recurso de protección contra el SII por un beneficio tributario territorial."
+    },
+    {
+      "chunk_uuid": "c7b64d2c-3351-5c73-b5e8-37575a0d8cf1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la improcedencia de un recurso de protección por vía idónea y el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "b76bac12-eee0-5da4-9ec3-afad9068db52",
+      "relevance_grade": 1,
+      "justification": "Este oficio analiza la afectación con IVA de la venta de derechos o cuotas sobre bienes inmuebles del activo fijo."
+    },
+    {
+      "chunk_uuid": "fad8bb0f-b28a-56ba-9d24-62f499cd77c4",
+      "relevance_grade": 2,
+      "justification": "Este fragmento argumenta sobre la pérdida de un beneficio tributario y su impacto en el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "3dfe3bfc-53f3-5b32-b4f2-1ebc57e05e59",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre un recurso de protección que alega vulneración del derecho a la propiedad y a desarrollar una actividad económica lícita."
+    },
+    {
+      "chunk_uuid": "0528519b-8e24-57a4-9135-319300439e59",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de indemnizaciones por años de servicio, no sobre afectación al derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda un reclamo tributario y la vulneración del derecho a ser oído en un tiempo razonable, no directamente el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "106b1435-f37c-549c-b393-c4f75c4f3b94",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre un convenio de intercambio de información entre el Ministerio y el Servicio de Impuestos Internos, sin relación con el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "63af9d81-ed8f-537e-8c17-ced04629c4fd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute un recurso de protección por la pérdida de un beneficio tributario relacionado con el avalúo fiscal de un departamento."
+    },
+    {
+      "chunk_uuid": "09528f4b-bd44-51fa-93ea-15ae650712f3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la pérdida de un beneficio tributario y su impacto en el derecho de propiedad, similar a una expropiación."
+    },
+    {
+      "chunk_uuid": "485740ed-929f-59d3-8cef-1b8fbb58b466",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el pago de impuestos territoriales por parte de cajas de previsión, sin relación con el recurso de protección."
+    },
+    {
+      "chunk_uuid": "29541063-78e3-5a5b-b5e2-add358dfad03",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la incorporación de la actividad de construcción al IVA y los hechos gravados."
+    },
+    {
+      "chunk_uuid": "53252c20-f117-5b39-b291-77679c5a4b21",
+      "relevance_grade": 2,
+      "justification": "Analiza la afectación con IVA de la venta de terrenos urbanizados por una sociedad constructora."
+    },
+    {
+      "chunk_uuid": "1c282c8c-e3bc-5d01-8858-791971081102",
+      "relevance_grade": 2,
+      "justification": "Aborda la consulta sobre la aplicación de IVA a la venta de un inmueble heredado."
+    },
+    {
+      "chunk_uuid": "6d7312e3-0868-5bcb-af93-0647ea5054d6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre servicios de asesoría y consultoría, no sobre derecho de propiedad inmobiliaria."
+    },
+    {
+      "chunk_uuid": "9847a154-7ac8-5293-a754-9c89c7c135c1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre un recurso de protección que afectó el derecho de propiedad y el debido proceso ante el SII."
+    },
+    {
+      "chunk_uuid": "c94cec35-5666-5ac3-ac6e-eef5d04dc189",
+      "relevance_grade": 2,
+      "justification": "El fragmento aborda un recurso de protección por aumento de contribuciones que afectó el derecho de propiedad y la vida."
+    },
+    {
+      "chunk_uuid": "cb75e0de-36a3-5fd8-b335-979cf6cfecfd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla un recurso de protección por embargo de un bien raíz, afectando el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "b96a858b-aa04-55b9-b051-1c2fc65acfd9",
+      "relevance_grade": 2,
+      "justification": "El texto analiza un recurso de protección que alegó vulneración del derecho de propiedad y debido proceso ante el SII."
+    },
+    {
+      "chunk_uuid": "116409fd-5225-5405-a3ec-7f82cbc4c5af",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un recurso de protección rechazado por cobro ejecutivo de impuestos, afectando el derecho de propiedad."
+    },
+    {
+      "chunk_uuid": "f96b10f4-4888-569b-8bd7-61ecef965ac8",
+      "relevance_grade": 2,
+      "justification": "El fragmento define el recurso de protección y explica por qué el caso específico fue declarado inadmisible por falta de hechos vulneratorios."
+    }
+  ]
+}

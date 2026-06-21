@@ -1,0 +1,1198 @@
+{
+  "query_id": "q018",
+  "query_text": "¿Cómo tributa el mayor valor obtenido en la venta de un bien raíz adquirido después del año 2004?",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 48.48707,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 41.907444,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 40.942024,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 39.54023,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 38.222336,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 38.191353,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "dde0bac4-97dd-5873-b8fb-1bdbb07ffad5",
+        "score": 36.40277,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 35.861866,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+        "score": 35.04076,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 35.03841,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 2.276245,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 2.1967163,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+        "score": 2.1082764,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 2.0784912,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "78c21af8-1725-5556-aa9b-f440a2d68ec3",
+        "score": 2.0733643,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 2.0653076,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 2.0333862,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "049dc1c4-73de-5e38-840c-7bfd39b0545f",
+        "score": 1.9816895,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+        "score": 1.973877,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0208a1f3-ca9b-5abb-8c65-b7dae3df658b",
+        "score": 1.9628601,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "8db584ce-d3e3-5527-a5ee-7bb525d68994",
+        "score": 31.0907,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 29.761946,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c379babd-5cf8-58d6-a13e-2a9de02894fe",
+        "score": 29.36889,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 29.347006,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3017d408-58b3-5a66-a473-c29e02f0d29a",
+        "score": 28.749054,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 28.655735,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "27fc274a-c34a-547e-9b61-cd268ad48c9e",
+        "score": 27.56508,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 27.328896,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7f284f3d-7882-56df-88b1-125a8e8f72b9",
+        "score": 27.23236,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+        "score": 27.06984,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 27.072863,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "82a94020-bbc6-5255-bea9-0f5a4897f927",
+        "score": 26.81434,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 26.692799,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 26.371037,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 26.055006,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 26.034271,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "8a7e5759-2a0f-5872-b341-3b97d68ca325",
+        "score": 24.636723,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 24.57782,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 24.28044,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "47357570-c10b-5c91-b820-21a4e8111613",
+        "score": 24.279848,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 1.1258545,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 1.0894775,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 1.069458,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 1.0638428,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 1.0623779,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 1.038269,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 1.0224609,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 1.0194092,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "82a94020-bbc6-5255-bea9-0f5a4897f927",
+        "score": 0.98986816,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "78c21af8-1725-5556-aa9b-f440a2d68ec3",
+        "score": 0.95532227,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 30.965456,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 29.93664,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 29.24996,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 27.091866,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "dde0bac4-97dd-5873-b8fb-1bdbb07ffad5",
+        "score": 26.15858,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "cedf8fae-3d13-54de-9afb-d5e4abdeed54",
+        "score": 26.127571,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 25.784004,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1c2bce0a-7d99-591e-9df4-04ed65251422",
+        "score": 24.824627,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 24.536562,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7f284f3d-7882-56df-88b1-125a8e8f72b9",
+        "score": 24.4346,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 1.4736938,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 1.4014282,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 1.4000244,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 1.3991699,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "78c21af8-1725-5556-aa9b-f440a2d68ec3",
+        "score": 1.307373,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 1.2935181,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 1.2867432,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 1.2741699,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 1.2606201,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "84bb4fe9-84f8-5b27-8bed-394cdb173c2b",
+        "score": 1.2521973,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 26.324219,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 25.90625,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 25.16211,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 24.853516,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 24.800781,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 24.4375,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 23.810547,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "cedf8fae-3d13-54de-9afb-d5e4abdeed54",
+        "score": 23.546875,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 23.128906,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "78c21af8-1725-5556-aa9b-f440a2d68ec3",
+        "score": 23.064453,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.030834914611005692,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.030536130536130537,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.029906956136464335,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.029709507042253523,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+        "score": 0.02819138376017471,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.027777777777777776,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 0.027757078986587184,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 0.027673192771084338,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 0.02761904761904762,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.027071520029266508,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.030536130536130537,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.02900988017658188,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ed5489ed-da92-5e92-8b5f-1723d6f16188",
+        "score": 0.028373015873015873,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+        "score": 0.02819138376017471,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 0.02749266862170088,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "23862b54-5c5b-5388-9d08-ef9049d1adb0",
+        "score": 0.026856524873828405,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ee28457d-cd08-50b4-8791-0dabde4fa2db",
+        "score": 0.026140526140526144,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.025989268947015427,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 0.02505896226415094,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.030090497737556562,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.029709507042253523,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "19488eea-777a-5003-b3a7-d3060f71a150",
+        "score": 0.02803921568627451,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.02803379416282642,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.027118043247075507,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fb90f5a2-8207-53ec-aabd-10220350f59d",
+        "score": 0.027046783625730993,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 0.026515151515151516,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.02649445272396092,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ed5489ed-da92-5e92-8b5f-1723d6f16188",
+        "score": 0.02607709750566893,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "c379babd-5cf8-58d6-a13e-2a9de02894fe",
+        "score": 0.02558175373709354,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.031544957774465976,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.03047794966520434,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.030017921146953404,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.029083245521601686,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 0.02803921568627451,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "19488eea-777a-5003-b3a7-d3060f71a150",
+        "score": 0.027364110201042444,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.02728937728937729,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "8a7e5759-2a0f-5872-b341-3b97d68ca325",
+        "score": 0.026553280111072546,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.02632034632034632,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.032018442622950824,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.03128054740957967,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 0.03055037313432836,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.03047794966520434,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "19488eea-777a-5003-b3a7-d3060f71a150",
+        "score": 0.028404512489927477,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.028371628371628373,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.027777777777777776,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.027432808155699723,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ed5489ed-da92-5e92-8b5f-1723d6f16188",
+        "score": 0.026862026862026864,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 0.02666666666666667,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.030621785881252923,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.029083245521601686,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.028298204527712725,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 0.02797067901234568,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.027912386121341344,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+        "score": 0.027783137179239824,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.027598020555767037,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 0.02749266862170088,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.026597524255603883,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 0.026153846153846153,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.03225806451612903,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.029877369007803793,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.02921395544346364,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.02900988017658188,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "ed5489ed-da92-5e92-8b5f-1723d6f16188",
+        "score": 0.028531243721117136,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.02813852813852814,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.027777777777777776,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+        "score": 0.027212143650499815,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 0.026988636363636364,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ee28457d-cd08-50b4-8791-0dabde4fa2db",
+        "score": 0.025904203323558164,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+        "score": 0.031054405392392875,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+        "score": 0.03009207275993712,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+        "score": 0.029877369007803793,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+        "score": 0.029709507042253523,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+        "score": 0.029513888888888888,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "19488eea-777a-5003-b3a7-d3060f71a150",
+        "score": 0.02821939586645469,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.02813852813852814,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+        "score": 0.02803379416282642,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+        "score": 0.027757078986587184,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+        "score": 0.02666666666666667,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 15.1,
+    "p1_tfidf": 15.0,
+    "p1_splade": 108.0,
+    "p2_bm25": 12.1,
+    "p2_tfidf": 8.3,
+    "p3_bm25": 9.1,
+    "p3_tfidf": 7.8,
+    "baseline_qdrant_bm25": 10.0,
+    "rrf_p1_bm25": 58.0,
+    "rrf_p1_tfidf": 48.2,
+    "rrf_p1_splade": 136.2,
+    "rrf_p2_bm25": 167.1,
+    "rrf_p2_tfidf": 166.3,
+    "rrf_p3_bm25": 63.8,
+    "rrf_p3_tfidf": 66.1,
+    "rrf_baseline_qdrant_bm25": 36.8
+  },
+  "pool": [
+    {
+      "name": "Oficio N°330 (01/02/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°330 (01/02/2022)",
+      "document_id": "dd6fee2f-8fc9-561d-810f-8dd4f63c3f51",
+      "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=330-01%2F02%2F2022.pdf&extension=pdf&acc=download&id=8915c46f-5a0a-4ff8-ac3c-fd18baebb9e5&mediaType=application%2Fpdf",
+      "content": " tales inmuebles poseídos en comunidad. \nDicho mayor valor se determina restando al precio de venta el costo tributario respectivo, conformado \npor el valor de adquisición y los desembolsos incurridos en mejoras que hayan aumentado su valor, \ndebidamente reajustados, y será considerado un ingreso no constitutivo de renta hasta aquella parte del \nmayor valor que no exceda, independiente del número de enajenaciones realizadas o del número de \ninmuebles de propiedad del contribuyente, la suma total equivalente a 8.000 (UF)1. \nAhora bien, conforme con el párrafo final del numeral XVI del artículo tercero transitorio de la Ley N° \n20.780, el mayor valor obtenido en la enajenación de bienes raíces situados en Chile, efectuadas por \npersonas naturales que no sean contribuyentes de IDPC que declaren su renta efectiva, cuando hayan \n \n1 Oficio N° 3341 de 2021.  \n\n\n2 \n \nsido adquiridos antes del 1° de enero de 2004, se sujetará a las disposiciones de la LIR, según su texto \nvigente hasta el 31 de diciembre de 2014. \nEn particular, según la norma vigente al 31 de diciembre de 2014, el mayor valor obtenido en dicha \nenajenación tendrá el tratamiento de un ingreso no renta, en la medida que esta operación no se realice \ncon partes relacionadas, o represente el resultado de negociaciones o actividades realizadas \nhabitualmente por el contribuyente. De lo contrario, el mayor valor quedará afecto al IDPC e IGC o \nadicional2. \nSobre la base de las disposiciones tributarias citadas, se informa que el mayor valor obtenido en la \nenajenación del bien raíz adquirido antes del 1° de enero de 2004 – que sería su caso – se sujeta a la \ntributación de la LIR, según su texto vigente al 31 de diciembre de 2014, indicada en el párrafo anterior. \nAl respecto, sobre la exigencia que la operación no se realice entre partes relacionadas, este Servicio3 \nprecisó que las normas de relación solo consideran participaciones sociales o patrimoniales, pero no \nrelaciones de parentesco. Luego, para estos efectos la venta a sus hijos no se considera una operación \nrealizada entre partes relacionadas. \nEn cuanto a la exigencia que la enajenación sea efectuada por personas naturales que no sean \ncontribuyentes del IDPC que declaren su renta efectiva, este Servicio precisó4 que una persona natural \nque tributa en primera categoría, al arrendar un bien raíz agrícola declarando la renta efectiva \ndeterminada según el respectivo contrato de arrendamiento, cumplía con dicho requisito. \nPor cierto, el cumplimiento de tales requisitos, junto con la habitualidad, son cuestiones de hecho que \ndeben ser acreditadas en las respectivas instancias de fiscalización. \nFinalmente, en lo que respecta a la enajenación del mismo bien raíz efectuada por sus hijos en caso que \n– como señala su segunda alternativa – dicho bien hubiere sido donado previamente por su actual \npropietaria a sus hijos, tal enajenación debe sujetarse al tratamiento tributario que actualmente establece \nla letra b) del N° 8 del artículo 17 de la LIR, sobre el cual este Servicio impartió instrucciones en la \nCircular N° 43 de 2021. \nIII \n CONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que: \n1) \nLa enajenación del bien raíz consultado, en tanto habría sido adquirido con anterioridad al 1° de \nenero de 2004, se sujeta a la tributación vigente en la LIR, según su texto vigente al 31 de \ndiciembre de 2014, en los términos y cumpliendo los requisitos expuestos en el Análisis. \n2) \nLa tributación a la que se encuentra sujeta la enajenación del bien raíz efectuada por sus hijos \ndonatarios, se sujeta a lo dispuesto actualmente en la letra b) del N° 8 del artículo 17 de la LIR"
+    },
+    {
+      "name": "Oficio N°12 (05/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°12 (05/01/2017)",
+      "document_id": "345c07bc-3429-5360-8575-5e7bee101938",
+      "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/renta/ja012.htm",
+      "content": "ajenación de bien raíz.\n  2. La tributación del mayor valor obtenido por su cliente en la cesión del derecho real de usufructo\nconstituido sobre un bien raíz, por el plazo de 13 años, atendido el criterio aludido en el N° 1 precedente, ha\nde regirse por lo dispuesto en la señalada letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, vigente\nhasta el 31 de diciembre de 2016.\nDe este modo, en la medida que el bien raíz no forme parte del activo de una empresa que declare cualquier\nclase de rentas efectivas de la primera categoría sobre la base de un balance general según contabilidad\ncompleta, la enajenación no se efectúe a relacionado y no exista habitualidad en ésta, el mayor valor\nobtenido por su cliente constituye un INR sin límite de monto. Lo anterior, conforme a lo dispuesto en el N° 8,\ndel artículo 17 y en artículo 18, ambos de la LIR.\nA este respecto se hace presente, que la instancia fiscalizadora respectiva podrá verificar la concurrencia de\nlos señalados requisitos encontrándose vigentes los plazos de prescripción del artículo 200 del Código\nTributario. Asimismo, cabe señalar, que de acuerdo a lo preceptuado en el inciso 5°, del N° 8, del artículo 17\nde la LIR, vigente hasta el 31 de diciembre de 2016, este Servicio puede aplicar la facultad de tasar\ndispuesta en el artículo 64 del Código Tributario, cuando el valor de enajenación de un bien raíz, que se\ntransfiera a un contribuyente obligado a llevar contabilidad completa, sea notoriamente superior al valor\ncomercial de los inmuebles de características y ubicación similares en la localidad respectiva, o de los\ncorrientes en plaza considerando las circunstancias en que se realiza la operación, y que conforme a lo\ndispuesto en el artículo 63 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones –norma de\ncontrol de carácter general–, este Servicio también puede investigar si las obligaciones impuestas a las\npartes por cualquier contrato son efectivas, si realmente dichas obligaciones se han cumplido o si lo que una\nparte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del\ncontrato, de lo que recibe en cambio, con el objeto de liquidar y girar el impuesto que corresponda en caso\nde determinar que dichos actos y circunstancias están destinadas a encubrir una donación o un anticipo a\ncuenta de herencia.\n3. Por otra parte, atendido que la cesión del derecho real de usufructo constituido sobre el bien raíz en\ncuestión incluyó una serie de construcciones, mejoras y bienes existentes en aquel, lo que en conjunto\npermite el funcionamiento de una estación de servicio para abastecer combustible, aquella operación se\nencuentra gravada con IVA de acuerdo a lo dispuesto en la letra g), del artículo 8°, de la Ley sobre Impuesto\na las Ventas y Servicios.\n4. Por último, dado que ni el inciso 1°, del artículo 17 de dicho cuerpo legal, ni ninguna otra norma, autorizan\ndeducción alguna a la base imponible tratándose de la cesión del derecho real de usufructo constituido sobre\nbien raíz, aquella estará conformada por el monto de cada cuota mensual, debiendo recargarse sobre dicha\nsuma el porcentaje correspondiente por concepto de IVA.\n   \nFERNANDO BARRAZA LUENGO\nDIRECTOR\n \n   Oficio N° 012, de 05.01.2017\nSubdirección Normativa\nDpto. de Impuestos Directos\n \n \n \n \n\n\n[1] En los términos del  inciso 4°, del N° 8, del artículo 17 de la LIR, vigente hasta el 31 de diciembre de 2016.\n[2] En los términos del artículo 18 de la LIR vigente hasta el 31 de diciembre de 2016.\n"
+    },
+    {
+      "name": "Oficio N°1373 (16/05/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1373 (16/05/2019)",
+      "document_id": "e54be5c9-ea7b-5da9-8265-41204b7d4e21",
+      "chunk_uuid": "82a94020-bbc6-5255-bea9-0f5a4897f927",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1373-16%2F05%2F2019.pdf&extension=pdf&acc=download&id=19149690-0d29-45c9-978f-9d46a64116de&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n1 \n \nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N°1, LETRA A), ART. 17, \nN°8 – LEY N° 20.780, DE 2014. (ORD. N° 1373, DE 16.05.19) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNormas aplicables en la enajenación de un bien raíz adquirido antes del 1° de enero de 2004.  \nSe ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, mediante la \ncual consulta sobre la aplicación, en el caso particular que expone, de la norma del inciso final, del \nnumeral XVI, del artículo tercero de las disposiciones transitorias de la Ley N°20.780 de 2014. \nI.- ANTECEDENTES: \n \n1.- Indica en su presentación que una persona natural, no habitual en la enajenación de bienes \nraíces, propietario de un predio agrícola adquirido e inscrito a su nombre en el Conservador de \nBienes Raíces con anterioridad al 1° de enero del año 2004, lo ha arrendado durante varios años, \ntributando por la renta efectiva determinada según contrato.  \n \nEn el mes de julio del año 2017 habría terminado el contrato de arrendamiento, evaluando la \nalternativa de enajenar el inmueble. La eventual enajenación se efectuaría a su hijo, durante el año \ncomercial 2018. \n \n2.- En razón de lo anteriormente expuesto, solicita confirmar las siguientes afirmaciones: \n \na) El inciso final, del numeral XVI, del artículo tercero de las disposiciones transitorias de la Ley \nN°20.780 de 2014, exige que la persona natural no determine Impuesto de Primera Categoría \n(IDPC) sobre rentas efectivas al momento de la enajenación. En el caso expuesto dicha exigencia \nse cumpliría al haberse finiquitado el contrato de arrendamiento en el mes de junio de 2017 y \nconcretarse la venta durante el año comercial 2018. \n \nb) En el caso que la venta del predio agrícola se concretara durante el mes de noviembre y \ndiciembre del año comercial 2017, igualmente se entendería cumplido el requisito anterior, \nconsiderando que el contrato de arriendo fue finiquitado en el mes de junio de 2017. \n \nc) La norma de relación que regía al 31 de diciembre de 2014, no comprendía la venta del padre \n(vendedor) a su hijo (comprador) como una operación entre partes relacionadas. \n \nd) En el caso expuesto, el mayor valor obtenido constituye un ingreso no renta considerando que la \npersona natural sería no habitual en la enajenación de bienes raíces; adquirió el predio agrícola con \nanterioridad al 1° de enero de 2004; la venta se efectúa a una parte no relacionada; y el enajenante \nes persona natural que no determinaría IDPC sobre rentas efectivas al momento de la enajenación. \n \n \nII.- ANÁLISIS: \n \n1.- El inciso final, del numeral XVI, del artículo tercero de las disposiciones transitorias de la Ley \nN°20.780 de 2014, señala que el mayor valor obtenido en la enajenación de bienes raíces situados \nen Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad adquiridos \nantes del 1° de enero de 2004, por personas naturales que no sean contribuyentes de IDPC que \ndeclaren su renta efectiva, se sujetará a las disposiciones de la Ley sobre Impuesto a la Renta (LIR) \nsegún su texto vigente hasta el 31 de diciembre de 2014. \n \nPor su parte, la letra a), del N°1, del artículo 20 de la LIR, establece que tratándose de \ncontribuyentes que posean o exploten a cualquier título bienes raíces, se gravará la renta efectiva de \ndichos bienes. Por su parte, la letra b) de la misma norma, indica que en el caso de"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-91-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-91-2021",
+      "document_id": "1243404e-33b2-5ade-9522-ba4b59cb68ff",
+      "chunk_uuid": "049dc1c4-73de-5e38-840c-7bfd39b0545f",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17503",
+      "content": "La Corte de Apelaciones de Santiago rechazó el recurso de apelación impetrado por la contribuyente en contra de la sentencia pronunciada por el Segundo Tribunal Tributario y Aduanero de la Región Metropolitana, que había rechazado el reclamo presentado contra una Resolución emitida por la XV Dirección Regional Metropolitana Santiago Oriente que negó lugar parcialmente a la devolución de impuestos solicitada en la declaración anual de Impuesto a la Renta del año tributario 2015.\n\n\nEl Tribunal superior señaló que la controversia consistía en determinar si el mayor valor obtenido en la venta de acciones de una sociedad, efectuada en el año comercial 2009 y que originaba la pérdida de arrastre deducida por la sociedad reclamante en el año tributario 2015, debía tributar con Impuesto de Primera Categoría en carácter de único o bajo el régimen general, según corresponda, de conformidad a los artículos 17 N°8 y 18 de la Ley sobre Impuesto a la Renta, vigentes a la época. La Magistratura agregó que, de acuerdo a lo dispuesto en el citado artículo 17 N° 8, no constituye renta el mayor valor, incluido el reajuste del saldo de precio, obtenido en la enajenación o cesión de acciones de sociedades anónimas, siempre que entre la fecha de adquisición y enajenación haya transcurrido a lo menos un año y sin perjuicio de lo dispuesto en el artículo 18 del citado cuerpo legal.\n\nAsí también, la Corte indicó que la norma dispone que en este caso no constituirá renta sólo aquella parte del mayor valor que se obtenga hasta la concurrencia de la cantidad que resulte de aplicar al valor de adquisición del bien respectivo el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior al de la adquisición y el último día del mes anterior al de la enajenación, todo ello sin perjuicio de lo dispuesto por el ya citado artículo 18 de la Ley sobre Impuesto a la Renta.\nAhora bien, la Magistratura el precepto indicó que tratándose del mayor valor obtenido en enajenaciones que hagan los socios de sociedades de personas o accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, con la empresa o sociedad respectiva o en las que tengan intereses, se aplicará la regla anterior, gravándose en todo caso el mayor valor que exceda del valor de adquisición, reajustado, con los impuestos de Primera Categoría, Global Complementario o Adicional, según corresponda.\n\n\nLuego, la Corte sostuvo que de la norma transcrita puede concluirse que el resultado en la venta de acciones queda afecto a Impuesto de Primera Categoría en carácter de único, cuando entre la fecha de adquisición y enajenación ha transcurrido a lo menos un año, cuando la venta no pueda calificarse de habitual y cuando la enajenación ha sido realizada a un tercero no relacionado. De manera inversa, cuando entre la compra y la venta ha transcurrido menos de un año o si se vende a un relacionado o si la operación califica como habitual, el resultado se grava con Impuesto de Primera Categoría o e Impuesto Global Complementario o Adicional, según corresponda.\n\n\nPor lo tanto, analizados los hechos de la causa, el Tribunal Superior concluyó que entre la compra de las acciones y la venta de las mismas transcurrió más de un año y que a la época de la venta de las acciones la reclamante estaba vinculada patrimonialmente con la sociedad compradora, y por consiguiente debían calificarse como empresas relacionadas. En este contexto, era claro que en la especie se configuraban los supuestos de los incisos segundo y cuarto de la letra a) del N°8 del artículo 17 de la ley del ramo, razón por la cual correspondía aplicar el régimen general de tributación."
+    },
+    {
+      "name": "Oficio N°31 (04/01/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°31 (04/01/2022)",
+      "document_id": "dd52d100-aa95-547b-a41d-e46fd66fd6b9",
+      "chunk_uuid": "47357570-c10b-5c91-b820-21a4e8111613",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=31-04%2F01%2F2022.pdf&extension=pdf&acc=download&id=0dd89b56-86bd-4821-9576-56309beca513&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° 21.210, ART. \nVIGÉSIMO TERCERO TRANS. – LEY N° 20.780, ART. TERCERO TRANS. XVI – \nCIRCULAR N° 37 DE 2009 \n \n(ORD. N° 31 DE 04.01.2022). \n \nDerechos sobre inmuebles adquiridos durante la vigencia de la sociedad conyugal, antes de 2004, \ny enajenados tras su término. \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación del mayor valor obtenido en la \nenajenación de inmuebles adquiridos con anterioridad al 2004, durante la vigencia de la sociedad \nconyugal, luego que esta terminara por el fallecimiento del marido. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, un matrimonio sujeto al régimen patrimonial de sociedad conyugal \nadquirió dos inmuebles en 1993, durante la vigencia de dicho régimen, los cuales pretende enajenar a un \ntercero no relacionado tras fallecer el marido, hecho ocurrido con posterioridad al 2004. \nTras señalar que los derechos deben entenderse adquiridos por el cónyuge sobreviviente al momento en \nque los adquirió la sociedad conyugal, y conforme al inciso final del N° XVI del artículo tercero \ntransitorio de la Ley N° 20.780, solicita confirmar que: \n1) \nEl 50% de los inmuebles, que corresponde al cónyuge sobreviviente por el término de la sociedad \nconyugal, se entiende adquirido con anterioridad al 1 de enero de 2004; \n2) \nEl mayor valor en la enajenación del mencionado 50% no tributará en tanto cumpla los demás \nrequisitos de la letra b) del N° 8 del artículo 17 de la Ley sobre Impuesto a la Renta (LIR), vigente \nal 1 de enero de 2017 [sic]; y, \n3) \nEl restante 50%, adquirido por sucesión por causa de muerte, tributará conforme a las normas que \ncorresponden a los inmuebles adquiridos con posterioridad al 1 de enero de 2004. \nII  \nANÁLISIS \nEl inciso final del N° XVI del artículo tercero transitorio de la Ley N° 20.780, en relación al artículo \nvigésimo tercero transitorio de la Ley N° 21.210, dispone que el mayor valor obtenido en la enajenación \nde inmuebles adquiridos con anterioridad al 1 de enero de 2004 tributará conforme a la letra b) del N° 8 \ndel artículo 17 de la LIR, en su versión vigente hasta el 31 de diciembre de 2014, por lo que la fecha de \nadquisición del bien raíz resulta determinante en el tratamiento tributario de su enajenación1. \nEn el presente caso, supuesto que los inmuebles fueron adquiridos durante la vigencia de la sociedad \nconyugal, el marido se reputa frente a terceros2 – incluyendo al Fisco – dueño de los bienes que \nformaban parte de la sociedad conyugal. \nTras la muerte de uno de los cónyuges se da término al matrimonio y a la sociedad conyugal3, iniciando \nuna comunidad sobre los bienes que pertenecían a ella entre el cónyuge sobreviviente y la sucesión del \ncónyuge fallecido4. \nAl término de la sociedad conyugal se confecciona un inventario y se efectúan deducciones y agregados \na la masa de bienes, luego de los cuales tendrán derecho a la mitad de ellos5. De este modo, únicamente \ntras la partición de la masa de bienes y su adjudicación el cónyuge sobreviviente y los herederos del \ncónyuge fallecido – en el presente caso – se entenderán dueños exclusivos de los bienes, pues con \nanterioridad se tienen únicamente derechos a título universal sobre la masa de bien"
+    },
+    {
+      "name": "Oficio N°2061 (09/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2061 (09/08/2021)",
+      "document_id": "44498985-266a-58bd-8b72-083e2ec91441",
+      "chunk_uuid": "84bb4fe9-84f8-5b27-8bed-394cdb173c2b",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2061-09%2F08%2F2021.pdf&extension=pdf&acc=download&id=ab95c926-6f62-4ab5-a2bd-8a67fdd02ebe&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART. 2 N° 1 Y N° 3 – RENTA – ACTUAL LEY \nSOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – D.S. N° 55 DE 1977, ART. 4 \n \n(ORD. N° 2061 DE 09.08.2021). \n \nImpuestos aplicables en la enajenación de un bien raíz. \nSe ha solicitado a este Servicio un pronunciamiento sobre los impuestos aplicables en la enajenación de \nun bien raíz por parte de una persona natural. \nI \nANTECEDENTES \nDe acuerdo con su presentación, se trata de un pensionado dedicado a la compra y venta de bienes raíces \nque en junio de 2020 adquirió uno con la intención de vivir en él. Sin embargo, por motivos personales \ntuvo que venderlo antes de un año de su adquisición, consultando si aplicaría algún impuesto en la \nenajenación de ese bien raíz. \nII \nANÁLISIS \nLa letra b) del N° 8 del artículo 17 de la Ley sobre Impuesto a la Renta (LIR) establece que no \nconstituye renta la enajenación de bienes raíces situados en Chile, o de derechos o cuotas respecto de \ntales bienes raíces poseídos en comunidad; obtenida por personas naturales, siempre que no se originen \nen la enajenación de bienes asignados a su empresa individual1. El ingreso no renta corresponde a \naquella parte del precio que se obtenga hasta la concurrencia del costo tributario del bien respectivo, \nconformado por el valor de adquisición y los desembolsos incurridos en mejoras que hayan aumentado \nsu valor, debidamente reajustados. \nTambién dispone que no constituye renta la parte del mayor valor que no supere la suma total \nequivalente a 8.000 UF, independiente del número de enajenaciones realizadas o del número de bienes \nraíces de propiedad del contribuyente. Sin embargo, entre otros requisitos, el ingreso no renta hasta por \nla suma de 8.000 UF se aplica siempre que entre la fecha de adquisición y enajenación del bien raíz \ntranscurra un plazo que exceda de un año, sin excepción alguna. \nEn consecuencia, el mayor valor2 obtenido en la enajenación del bien raíz antes de un año de su \nadquisición constituirá renta, quedando afecto al impuesto de primera categoría y a los impuestos finales \n– impuesto global complementario en este caso – en conformidad a las normas generales de la LIR3. \nEn cuanto al IVA, el N° 1°) del artículo 2° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) \ndefine “venta” como toda convención independiente de la designación que le den las partes, que sirva \npara transferir a título oneroso el dominio de, entre otros, bienes corporales inmuebles construidos, de \nuna cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, \nasimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta. Los \nterrenos no se encuentran afectos al impuesto establecido en esa ley. \nPor su parte, el N° 3°) del mismo artículo 2° califica como “vendedor” a cualquier persona natural o \njurídica que se dedique en forma habitual a la venta de bienes corporales inmuebles, entre otros, \nagregando que corresponde a este Servicio calificar la habitualidad. \nCon relación al concepto de “vendedor”, el texto anterior de la LIVS establecía una presunción \nmeramente legal de habitualidad en la venta de inmuebles cuando entre la adquisición o construcción \ndel bien raíz y su enajenación transcurría un plazo inferior a un año. Sin embargo, la Ley N° 21.210 \neliminó dicha presunción de modo que en la actualidad, para determinar si una persona es habitual en \nuna operación de venta, habrá que estarse"
+    },
+    {
+      "name": "Oficio N°1540 (24/05/2023)",
+      "source_type": "oficio",
+      "source": "Oficio N°1540 (24/05/2023)",
+      "document_id": "658d9a8f-e6ec-58d1-8345-498c42d45e96",
+      "chunk_uuid": "c379babd-5cf8-58d6-a13e-2a9de02894fe",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1540-24%2F05%2F2023.pdf&extension=pdf&acc=download&id=cd6afa26-5410-4406-8366-d2e923f07efd&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) Y PÁRRAFO \nSEGUNDO – LEY N° 20.780 DE 2014 – ARTÍCULO TERCERO TRANSITORIO – LEY N° \n21.210 DE 2020 – ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO – CÓDIGO CIVIL – \nART. 1796, ART. 1900, ART. 2312 N° 1 – CIRCULAR N° 43 DE 2020 \n(ORD. N° 1540, DE 24.05.2023) \n \n \nTratamiento tributario del mayor valor obtenido en la enajenación de bienes raíces que \nindica. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario aplicable al \nmayor valor obtenido en la enajenación de inmuebles que fueron terminados de adquirir en distintas \nfechas. \n \nI  \nANTECEDENTES \n \nDe acuerdo con su presentación, y de los antecedentes aportados1, dos cónyuges separados de \nbienes eran copropietarios de varios inmuebles adquiridos antes y después del 1° de enero de 2004 –\ndueños cada uno del 50% de esos bienes–.  \n \nTras agregar que en 2010 se realizó la partición de los bienes poseídos en comunidad, luego de lo \ncual, cada cónyuge quedó como dueño exclusivo de inmuebles específicos, en lo fundamental, \nconsulta sobre el tratamiento tributario del mayor valor obtenido ante la eventual venta a un tercero \nde esos inmuebles respecto de los cuales solo una parte se adquirió después del 1° de enero de 2004 \ny la otra parte se adquirió con anterioridad a esa fecha, estimando que, en este caso corresponde \ncalcular una exención (sic)2 parcial solo aplicable al 50% de cada inmueble. \n \nII \nANÁLISIS \n \nComo primera cuestión, y previo a responder lo consultado, es necesario referir algunos aspectos \ndeslizados en su presentación:  \n \na) Según se desprende de los antecedentes aportados, los cónyuges (separados de bienes), al \nadquirir en partes iguales (en fechas distintas) cada uno de los inmuebles, conformaron respecto \nde dichos inmuebles una copropiedad de cosas singulares, individualmente considerados.  \n \nb) Luego, los cónyuges se enajenaron recíprocamente sus respectivos derechos sobre los inmuebles \na fin de completar el 100% de la propiedad respecto de cada uno de ellos – a través de una \npermuta–. En otras palabras, estrictamente la comunidad respecto de cada inmueble no termina \nen virtud de una singularización de derechos preexistentes sino como consecuencia de reunirse \nlas cuotas en una sola persona, conforme con lo dispuesto en el N° 1 del artículo 2312 del \nCódigo Civil. \n \nEn efecto, aun cuando la escritura pública en que consta el acto mediante el cual los cónyuges \ndieron término a la comunidad se denomina de “adjudicación y liquidación de comunidad”, en \neste caso no existió una división del haber común ni una adjudicación de los bienes3.  \n \nc) En consecuencia, al menos para fines tributarios y sin perjuicio de su validez desde el punto de \nvista civil, así como del tiempo transcurrido desde su celebración4, se entiende que los cónyuges \npermutaron sus respectivos derechos sobre los inmuebles.  \n \nd) Por lo tanto, cada cónyuge enajenó al otro sus respectivos derechos sobre cada inmueble, de \nmodo tal que, para cada inmueble, una parte fue adquirida al comprar en comunidad y la otra al \npermutarse los respectivos derechos.  \n \n \n1 Escritura pública de separación total de bienes y liquidación de sociedad conyugal de fecha 08.07.1997 y escritura pública de \nadjudicación y liquidación de comunidad de fecha 22.07.2010. \n2 No se trata propiamente de una exención, sino más bien de un ingreso no renta en"
+    },
+    {
+      "name": "Oficio N°3492 (30/08/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°3492 (30/08/2000)",
+      "document_id": "e659761f-1ff9-5f02-8bbf-913cfbff8bd1",
+      "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/octubre01.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2000\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, LETRA b),ART. 18.\nAporte y posterior retiro de inmueble a empresa individual – Fecha de adquisición de bien raíz que se debe\nconsiderar para aplicar normas de habitualidad – Normativa aplicable – La operación en análisis sólo tiene\nefecto tributario respecto del valor en que se aportó y retiró el bien raíz.\n1.- Por Ordinario indicado en el antecedente, y con el objeto de finiquitar una situación pendiente relacionada con\nuna citación notificada a un contribuyente persona natural, formula las siguientes consultas:\na) Un contribuyente persona individual que gira en el rubro de agricultura y librería, tributando por ésta última\nactividad en Primera Categoría con renta efectiva determinada a base de contabilidad completa, aporta a su\nactividad un bien raíz, adquirido según escritura pública con fecha 31 de mayo de 1988, efectuando el registro\ncontable respectivo;\nb) En el mes de Febrero de 1996, efectúa el retiro del bien raíz desde su actividad comercial individual de acuerdo a\nsu valor de libro, tributando por dicho retiro con el impuesto Global Complementario, conforme a lo dispuesto en el\nartículo 14 de la Ley de la Renta;\nc) Posteriormente, con fecha 4 de octubre de 1996, vende el bien raíz obteniendo un significativo mayor valor, por\ncuyo monto no tributa, amparándose en que dicho bien a la fecha de la enajenación no formaba parte del activo de\nla empresa, aplicando lo dispuesto en el artículo 17 N° 8 letra b) de la Ley de la Renta.\nEn relación con lo anterior, solicita una interpretación acerca de la fecha que se debe considerar para aplicar las\nnormas de habitualidad que contempla el inciso tercero del artículo 18 de la Ley de la Renta, es decir, si para\ncomputar el plazo de un año debe considerarse la fecha de adquisición del bien raíz según escritura pública o la\nfecha del retiro desde la actividad que declara la renta efectiva en Primera Categoría.\n2.- Sobre el particular, cabe señalar en primer término, que la letra b) del N° 8 del artículo 17° de la Ley de la Renta,\nen concordancia con lo establecido en el inciso primero del artículo 18° de la misma ley, dispone que no constituye\nrenta el mayor valor obtenido en la enajenación no habitual de bienes raíces, excepto respecto de aquellos que\nformen parte del activo de empresas que declaren su renta efectiva en la Primera Categoría.\nPor su parte, el artículo 18° de la citada ley, en su inciso tercero, presume de derecho que existe habitualidad en los\ncasos de subdivisión de terrenos urbanos y en la venta de edificios por piso o departamentos, siempre que la\nenajenación se produzca dentro de los cuatro años siguientes a la adquisición o construcción, en su caso. Agrega la\nreferida norma, que en todos los demás casos, se presumirá la habitualidad cuando entre la adquisición o\nconstrucción del bien raíz y su enajenación transcurra un plazo inferior a un año.\n3.- Ahora bien, respecto del término \"adquisición\" que utiliza la norma legal antes mencionada, cabe señalar, que de\nconformidad a las normas contenidas en el Código Civil, específicamente en su artículo 686, la adquisición de un\nbien raíz se produce cuando el título de transferencia de dominio del inmueble respectivo se encuentre\ndebidamente inscrito a nombre del nuevo adquirente en el Registro del Conservador de Bienes Raíces.\n4.- Aclarado lo anterior, en el caso en consulta, debe entenderse que el bien raíz fue adquirido legalmente en la\nfecha que indica la escritura pública respectiva, esto es, el 31.05.88 e inscrita en el Conservador de Bienes Raíces\ncorrespondiente por su propietario, el"
+    },
+    {
+      "name": "Oficio N°3102 (18/11/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°3102 (18/11/2016)",
+      "document_id": "8871be58-7046-504d-a5cf-685844571c76",
+      "chunk_uuid": "3017d408-58b3-5a66-a473-c29e02f0d29a",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja3102.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2016\nRENTA âĄv ACTUAL LEY SOBRE IMPUESTO A LA âĄv LEY NÂ° 20.780, DE 2014 - CIRCULAR NÂ° 13,\nDE 2014. (OFICIO NÂ° 3102.2016) (Ord. Nº 3102, de 18-11-2016)\nCONSULTA SOBRE LA TRIBUTACIÃvN EN LA ENAJENACIÃvN DE BIENES RAÃpCES.\nSe ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual\nconsulta sobre la tributación en la enajenación de bienes raíces adquiridos antes del 01.01.2004.\nI.-        ANTECEDENTES.\nUn contribuyente y su cónyuge, son dueños en partes iguales de un inmueble no agrícola en la comuna de\nLo Barnechea. Lo adquirieron el año 1999, esto es, con anterioridad al 01.01.2004. Indica que se dispone, en\nlo que queda de este año 2016, como persona natural y bajo el mismo RUT, a dar aviso de inicio de\nactividades como agricultor, contribuyente de primera categoría, en calidad de persona natural.\nA la luz de estos antecedentes, solicita se confirmen las siguientes inquietudes:\na) Por no ser habitual en la enajenación de bienes raíces, el mayor valor que obtenga en la venta a un no\nrelacionado del inmueble, constituye un ingreso no renta, sin importar que la fecha de venta sea o no\nposterior al 01.01.2017.\nb) Bajo los mismos supuestos, de constituirse como empresario individual, contribuyente de primera\ncategoría, y el inmueble en cuestión no sea aportado ni forme parte de los activos de su empresa individual,\nsi lo enajena, el mayor valor que obtenga, para él y su cónyuge, constituye un ingreso no renta.\nII.-       ANÁLISIS.\nRespecto de la enajenación de bienes raíces adquiridos hasta el 31.12.2003, cualquiera sea su fecha de\nenajenación, el inciso final, del numeral XVI, del artículo tercero.- de las disposiciones transitorias de la Ley\nN° 20.780, dispone que el mayor valor se sujetará a las disposiciones de la LIR vigentes hasta el 31.12.14.\nEsto es, en términos generales, constituye ingreso no renta, es decir, no se devenga impuesto a la renta\nsobre el mayor valor obtenido por personas naturales o sociedades de personas formadas exclusivamente\npor personas naturales en la enajenación del bien raíz, en la medida que no se verifique alguna de las\nsiguientes condiciones:\n1) Que la enajenación sea el resultado de negociaciones o actividades realizadas habitualmente por el\nenajenante, circunstancia que no se verifica en esto caso conforme a los antecedentes señalados.\n2) Que los inmuebles formen parte del activo de empresas que declaren su renta efectiva en la primera\ncategoría, según contabilidad completa. En la medida que no incluya en el activo de la empresa que pretende\nconstituir el inmueble o una cuota del mismo, tampoco se verificaría esta circunstancia.\n3) Que la enajenación se efectúe a una empresa o sociedad relacionada con el cedente. Esta relación se\nverifica cuando el enajenante tiene la calidad de socio o accionista de la empresa adquirente y tratándose de\nsociedades anónimas abiertas es dueño del 10% o más de las acciones, o bien, tiene un interés patrimonial o\neconómico en ellas o posee participación indirecta a través de otras sociedades. La consulta no se refiere a\nla existencia de participación societaria o interés patrimonial, por lo que se desconoce si se verifica esta\ncircunstancia.\nLas instrucciones sobre la tributación aplicable a la enajenación de bienes raíces, de acuerdo a las\ndisposiciones vigentes hasta el "
+    },
+    {
+      "name": "Oficio N°2398 (17/10/2011)",
+      "source_type": "oficio",
+      "source": "Oficio N°2398 (17/10/2011)",
+      "document_id": "bcd5c2fb-2cda-5b43-a530-cbaa8c87df85",
+      "chunk_uuid": "78c21af8-1725-5556-aa9b-f440a2d68ec3",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2011/renta/ja2398.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2011\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 17 N°8 LETRA B), 18 Y 41 y CÓDIGO CIVIL,\nART. 47, 675 Y 686 y OFICIO N°1578 DE 1997 Y N°1642 DE 2010 (ORD. N°2398, DE 17.10.2011) (ORD.\nN° 2398, DE 17.10.2011)\nENAJENACIÓN DE BIEN RAÍZ y MAYOR VALOR y NEGOCIACIONES O ACTIVIDADES REALIZADAS\nHABITUALMENTE y TRANSFERENCIA DE DOMINIO y INSCRIPCIÓN EN EL REGISTRO DE\nPROPIEDAD DEL CONSERVADOR DE BIENES RAÍCES y ENTRE LA ADQUISICIÓN Y ENAJENACIÓN\nTRANSCURRE MENOS DE UN AÑO y PRESUNCIÓN SIMPLEMENTE LEGAL DE HABITUALIDAD y\nPRESUNCIÓN PUEDE SER DESVIRTUADA CON ANTECEDENTES FIDEDIGNOS\nSolicita pronunciamiento sobre el tratamiento tributario del mayor valor obtenido en la venta de un bien raíz,\nefectuada por una persona natural.\nI.- ANTECEDENTES.\n1. Antecedentes de hecho.\nIndica que compró un bien raíz en mayo de 2008, y la inscripción del título se habría efectuado en el\nConservador de Bienes Raíces con fecha 28 de enero de 2009. Señala que la venta se habría realizado en\nagosto de 2009, habiéndose inscrito el título en el Conservador de Bienes Raíces el 28 de octubre de 2009.\nAl respecto, consulta si corresponde aplicar impuesto por el mayor valor obtenido en la enajenación de este\nbien raíz.\n2. Antecedentes de derecho.\nDe acuerdo a lo dispuesto por la letra b), del Nº 8, del artículo 17, de la Ley sobre Impuesto a la Renta (LIR),\nen concordancia con lo establecido por el artículo 18 del mismo texto legal, no constituye renta el mayor\nvalor, incluido el reajuste del saldo de precio, obtenido en la enajenación no habitual de bienes raíces,\nexcepto en el caso de aquellos que forman parte del activo de empresas que declaren su renta efectiva en la\nPrimera Categoría. Conforme al mismo artículo 18, el mayor valor obtenido de la enajenación de bienes\nraíces estará afecto a los impuestos de Primera Categoría y Global Complementario o Adicional, según\ncorresponda, cuando la operación represente el resultado de negociaciones o actividades realizadas\nhabitualmente por el contribuyente. Para estos efectos, el inciso 3°, de este artículo, establece que se\npresume que existe habitualidad, cuando entre la adquisición del bien raíz y su enajenación transcurre un\nplazo inferior a un año.\nPor su parte, el inciso 4°, del Nº8, del artículo 17, de la LlR, dispone que tratándose del mayor valor obtenido\nen la enajenación de bienes raíces, a una persona con la cual el enajenante se entienda relacionado, se\ngravará el mayor valor que exceda del valor de adquisición, reajustado, con los impuestos de Primera\nCategoría, Global Complementario o Adicional, según corresponda.\nII.- ANÁLISIS.\nEn cuanto al momento en que se entiende adquirido o enajenado el dominio de un bien raíz para los efectos\nde la aplicación de la presunción de habitualidad establecida en la segunda parte, del inciso 3°, del artículo\n18, de la LlR, cabe señalar que la \"adquisición\" y venajenaciónw, de conformidad con los artículos 675 y\n686 del Código Civil, tienen lugar en este caso cuando el título de transferencia de dominio del inmueble\nrespectivo se encuentre debidamente inscrito a nombre del nuevo adquirente en el Registro de Propiedad del\nConservador de Bienes Raíces."
+    },
+    {
+      "name": "Oficio N°1286 (18/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1286 (18/05/2021)",
+      "document_id": "843d6a26-0a6e-504a-a17a-d3664230ed69",
+      "chunk_uuid": "cedf8fae-3d13-54de-9afb-d5e4abdeed54",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1286-18%2F05%2F2021.pdf&extension=pdf&acc=download&id=8a58376f-2c3a-4d47-a0bc-947dfb51ca99&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°8, LETRA B) – LEY N° \n16.271, ART. 46, LETRA A). (ORD. N° 1286, DE 18.05.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nTributación del mayor valor obtenido en la enajenación de derechos sobre un bien raíz poseído en \ncomunidad a una comunidad indígena. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación del mayor valor obtenido en \nla enajenación de derechos sobre un bien raíz poseído en comunidad a una comunidad indígena. \n \nI        ANTECEDENTES \n \nDe acuerdo con su presentación, a la que solo acompaña copia del certificado de posesión efectiva, \nconsulta cómo tributan los herederos de una “sucesión hereditaria que se constituyó el 01 de marzo de \n2018”, por la venta de un bien raíz efectuada el 17 de enero del 2020 a una comunidad indígena, \nfinanciada por la Corporación Nacional de Desarrollo Indígena (CONADI) de acuerdo con la “ley \nindígena”. \n \nAgrega, sin indicar mayores antecedentes, que se trataría de “recuperación de tierras” y que el bien raíz \nen cuestión fue adquirido por la causante con anterioridad al año 1960. \n \nII       ANÁLISIS \n \nConsiderando que no se acompaña antecedente alguno ni tampoco consta que el bien raíz en cuestión \ncorresponda a una tierra indígena1, a partir de su presentación se asumirá que los herederos \n(comuneros) venden sus derechos de dominio sobre el bien raíz poseído por ellos en comunidad y que \nla venta se rige por el derecho común. \n \nEn ese caso, el mayor valor obtenido en la enajenación de los derechos podría calificar como un ingreso \nno constitutivo de renta de concurrir los requisitos dispuestos en la letra b) del N° 8 del artículo 17 de \nla LIR2, vigente a partir del 1° de enero de 20203, esto es: \n \n1)      Que dichos derechos no hayan sido asignados a la empresa individual de los herederos. \n \n2)      Que la enajenación se haya efectuado a un no relacionado. \n \n3) \nQue entre la fecha de adquisición y enajenación de dichos derechos haya transcurrido un plazo \nque exceda de un año4. \n \nAl respecto, y dado el efecto declarativo que en este caso tiene la adjudicación, se entiende \nque el adjudicatario ha sido dueño del bien adjudicado desde el momento en que se formó la \ncomunidad hereditaria, esto es, desde el fallecimiento del causante, momento en que se apertura \nla sucesión5. \n \nPor lo anterior, los derechos sobre el bien raíz en cuestión habrían sido adquiridos por los \nherederos adjudicatarios con fecha 2 de diciembre de 2017, fecha en la que falleció la causante \nsegún consta en la copia del certificado de posesión efectiva acompañado. \n \n4)      Que el mayor valor determinado, en cabeza de cada heredero no haya excedido de 8.000 UF \no de su saldo, considerando el valor de dicha unidad al término del año comercial 2020. \n \nEl límite señalado deberá ser determinado por heredero, considerando los mayores valores \nobtenidos en las enajenaciones que cumplan con los requisitos establecidos en la letra b) del N° 8 \ndel artículo 17 de la LIR para ser considerados como ingresos no renta. \n \n \n \n \n \n \n \n \n \n \n \n1 La tierra indígena, de acuerdo a lo dispuesto en la Ley N° 19.253, que establece normas sobre protección, fomento y desarrollo de los \nindígenas y crea la Corporación Nacional de Desarrollo Indígena, se regula por nomas especiales en materia sucesoria y de enajenación, entre \notras. \n2 Sustituida por el numeral iii. de la letra d)"
+    },
+    {
+      "name": "Oficio N°1483 (03/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1483 (03/08/2020)",
+      "document_id": "47e70911-5457-540d-a62c-2fe305574f73",
+      "chunk_uuid": "8db584ce-d3e3-5527-a5ee-7bb525d68994",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1483-03%2F08%2F2020.pdf&extension=pdf&acc=download&id=eae410be-e0fe-452f-8422-61d3cacba746&mediaType=application%2Fpdf",
+      "content": " el mayor valor obtenido en la \nenajenación de bienes raíces situados en Chile, efectuada por personas naturales o sociedades de \npersonas formadas exclusivamente por personas naturales, excepto aquellos que formen parte del activo \nde empresas que declaren cualquier clase de rentas efectivas de la Primera Categoría sobre la base de un \nbalance general según contabilidad completa. \nSostiene que lo precedentemente expuesto resultaría plenamente aplicable al caso que se indica, dado \nque el terreno que sería objeto de la venta no se encuentra incluido en la contabilidad del empresario \nindividual, sino que dicha venta la realizaría la persona natural desde su patrimonio personal. \n \n1 Oficio N° 404 de 2019. \n2 El conjunto de operaciones que tiene por finalidad la obtención de los productos de predios agrícolas, incluyendo su elaboración, \nconservación, faenamiento y acondicionamiento, siempre que se trate de bienes de producción propia. \n\n\n2 \n \nTras citar jurisprudencia administrativa3 y judicial4 en apoyo de su planteamiento, solicita confirmar \nque: \n1) \nEn este caso en particular, la enajenación del terreno que realizaría la persona natural, habiendo \nadquirido dicho bien con anterioridad al 1° de enero de 2004, se encuentra afecta a la tributación \nque establecía la letra b), del N° 8, del artículo 17, de la LIR vigente al 31 de diciembre de 2014, \nconsiderándose el eventual mayor valor obtenido de la venta como un ingreso no renta. \n2) \nConfirmar que la eventual enajenación de las construcciones, maquinarias e instalaciones que \ncontiene dicho inmueble, las cuales sí están registradas en la contabilidad del empresario \nindividual, se afectarán con el IDPC de acuerdo al régimen de tributación al cual se encuentre \nsujeto, y con Impuesto al Valor Agregado según corresponda. \nPrecisa que, de vender el terreno, también se enajenan en forma separada al mismo comprador, a un \nprecio equivalente a su valor de mercado, las construcciones, instalaciones y maquinarias que sí se \nmantienen registradas en la contabilidad del empresario individual, la renta de dicha enajenación \ntributará con IDPC de acuerdo al régimen de tributación al cual se encuentre sujeto, y con el Impuesto al \nValor Agregado según corresponda. \nII \nANÁLISIS \nEl inciso final del numeral XVI del artículo tercero transitorio de la Ley N° 20.780 dispone que el \nmayor valor obtenido en la enajenación de bienes raíces situados en Chile, o de derechos o cuotas \nrespecto de tales bienes raíces poseídos en comunidad, adquiridos antes del 1° de enero de 2004 y \nefectuada por los contribuyentes señalados en el inciso primero de dicha norma, esto es, por personas \nnaturales que no sean contribuyentes de IDPC que declaren su renta efectiva, se sujetará a las \ndisposiciones de la LIR según su texto vigente hasta el 31 de diciembre de 2014. \nA su turno, el artículo vigésimo tercero transitorio de la Ley Nº 21.210 dispone que, para los efectos de \nla norma citada anteriormente, se entenderá que las operaciones a que se refiere el inciso tercero del N° \n8 del artículo 17 de la LIR fueron realizadas por contribuyentes que determinaban el impuesto de \nprimera categoría sobre rentas efectivas si, al momento de su enajenación, los bienes formaban parte del \ngiro, actividades o negociaciones de su empresa individual. \nLuego, y atendido que según su presentación, al momento de la enajenación el inmueble no formaría \nparte del giro, actividades o negociaciones de la empresa individual del enajenante, la enajenación en \ncuestión se deberá regir por la letra b) del N° 8 del artículo 17 de la LIR, según su texto vigente al 31 de \ndiciembre de 20145. \nCon todo, calificar si el inmueble no forma parte de la empresa individual al momento de la enajenación \ny, por ende,"
+    },
+    {
+      "name": "Oficio N°1337 (15/07/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1337 (15/07/2020)",
+      "document_id": "fc2e1004-6290-57d4-817f-5ddd2a70b2b9",
+      "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1337-15%2F07%2F2020.pdf&extension=pdf&acc=download&id=dcd34933-9433-4c93-9152-4ca2f83503e0&mediaType=application%2Fpdf",
+      "content": " 8.000 UF. \nPor otra parte, atendido que la fusión de los bienes raíces en uno solo no constituye enajenación, porque \nlos bienes raíces siempre han formado parte del patrimonio del mismo propietario, cabe determinar si la \nenajenación del bien raíz resultante de la fusión, como un todo, obliga a distinguir la conformación del \nmayor valor y su tratamiento tributario, según la época en que los bienes raíces fueron individualmente \nadquiridos antes de la fusión. \nAl respecto, cabe tener presente que la norma transitoria trata del mayor valor obtenido en la \nenajenación “de bienes raíces” situados en Chile, “o de derechos o cuotas respecto de tales bienes raíces \nposeídos en comunidad”. Si bien la consideración a los derechos o cuotas respecto de un bien raíz se \naplica, en principio, a los bienes raíces poseídos en comunidad, nada impide aplicar ese mismo criterio \n(considerar el derecho o cuota de dominio) cuando el bien raíz, como en el presente caso, es el resultado \nde un proceso de fusión de bienes raíces individualmente adquiridos en distinta época, por el mismo \ntitular. \n\n\n2 \n \nA partir de lo anterior, es posible distinguir intelectualmente, del mayor valor obtenido en la \nenajenación del inmueble fusionado, la parte o cuota que corresponda a cada bien raíz individualmente \nadquirido, según su fecha de adquisición para determinar su respectivo tratamiento tributario. \nPor otra parte, para tener parámetros de valoración comparables y determinar la proporción que cada \nuno de los bienes raíces representa en el mayor valor total, se deberá considerar el avalúo fiscal de cada \nuno de los bienes raíces según su avalúo vigente en el semestre anterior al semestre de la fusión. \nDe este modo, y siempre que el enajenante cumpla los requisitos para calificar la parte o cuota del \nmayor valor que corresponda como un ingreso no renta, determinada la proporción correspondiente a \nlos bienes raíces adquiridos antes del 1 de enero de 2004, aplicada al mayor valor determinado en la \nenajenación que realice, será un ingreso no renta sin tope de las 8.000 UF, mientras que la proporción \nrestante, un ingreso no renta afecto al tope referido. \nLo dicho puede ejemplificarse de la siguiente manera: \n \nIII \nCONCLUSION \nPara determinar el tratamiento tributario del mayor valor obtenido en la enajenación de un bien raíz \nresultante de una fusión, cuando algunos de los bienes raíces fusionados fueron adquiridos antes del año \n2004 y otros después, se deberá distinguir según la parte o cuota que, en el mayor valor total, le \ncorresponda a cada bien raíz individualmente considerado, siempre que se cumplan los requisitos para \ncalificar la parte o cuota que corresponda como un ingreso no renta, ya sea en su totalidad o con el tope \nde las 8.000 UF, conforme la legislación aplicable. \nSaluda a usted, \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \nOficio N° 1337 del 15-07-2020 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Oficio N°2230 (22/07/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2230 (22/07/2022)",
+      "document_id": "6a34b6dd-6623-5dd8-ae49-8e9865b1b2dc",
+      "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2230-22%2F07%2F2022.pdf&extension=pdf&acc=download&id=1d0a8ca7-8437-43ff-96bb-6a46266eeca9&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B), ART. 20 N° 5 Y \nART. 34 – LEY N° 20.780, ART. TERCERO TRANS. N° XVI) – OFICIO ORD. N° 281 DE 2021 \n \n(ORD. N° 2230 DE 22.07.2022). \n \nTributación del mayor valor en la enajenación de bienes raíces. \nSe ha consultado a este Servicio cómo tributa el mayor valor obtenido en la enajenación de bienes raíces \npertenecientes a una sociedad acogida al régimen de renta presunta. \nI \nANTECEDENTES \nDe acuerdo con su presentación, la reforma tributaria introducida por la Ley N° 20.780 estableció que \nlas disposiciones de la Ley sobre Impuesto a la Renta (LIR) vigentes al 31 de diciembre de 2014 son \naplicables –para efectos de determinar la tributación del mayor valor al que estarían afectas las \nenajenaciones de bienes raíces efectuadas por personas naturales (sin mencionar a las sociedades de \npersonas)– respecto de bienes raíces adquiridos antes del 1° de enero de 2004. \nDe esta manera, y a pesar de que la LIR vigente al 31 de diciembre de 2014 consideraba como ingreso \nno renta (INR) el mayor valor obtenido en la enajenación de bienes raíces situados en Chile efectuada \npor personas naturales o sociedades de personas formadas exclusivamente por personas naturales, lo \ncierto es que la disposición transitoria de la Ley N° 20.780 solo hizo extensible tal beneficio a las \nenajenaciones efectuadas únicamente por personas naturales, sin referirse a la situación de las \nsociedades de personas formadas exclusivamente por personas naturales. \nAgrega que, mediante el Oficio N° 281 de 2021, este Servicio habría interpretado que el INR para la \nenajenación de bienes raíces adquiridos antes del 1° de enero de 2004 contemplado en la Ley N° 20.780, \naplicaría tanto para personas naturales, que no sean contribuyentes del Impuesto de Primera Categoría \n(IDPC) que declaren su renta efectiva, como también a sociedades de personas constituidas sólo por \npersonas naturales, no obstante que la Ley N° 20.780 no hizo referencia a las sociedades de personas, \nconsultando al respecto: \n1) \nQué impuestos gravan el mayor valor obtenido en la enajenación de bienes raíces por parte de \nsociedades acogidas al régimen de renta presunta, aclarando si se presume la renta de acuerdo con \nlo establecido en el artículo 34 de la LIR o si tales ingresos deben tributar en base a renta efectiva. \n2) \nSi es relevante la fecha de adquisición para efectos de determinar la forma en que tributa la \nenajenación de inmuebles por tales sociedades (en el sentido de si fueron adquiridos antes o \ndespués del 1° de enero de 2004). Lo anterior a propósito de lo señalado en el Oficio N° 281 de \n2021. \nII \nANÁLISIS \nEn relación con la consulta N° 1) del Antecedente, se informa que el mayor valor obtenido por una \nsociedad en la enajenación de un bien raíz no se puede acoger al régimen de renta presunta. Lo anterior, \natendido que las rentas provenientes de las ganancias de capital no son rentas que formen parte del \nreferido régimen1. \nEn efecto, en tales casos2, el mayor valor que se determine se grava con el IDPC e impuesto global \ncomplementario (IGC) o impuesto adicional (IA), según corresponda, por tratarse de rentas clasificadas \nen el N° 5 del artículo 20 de la LIR, independientemente de la fecha en que tales bienes hayan sido \nadquiridos y las personas a quiénes los enajenen. \nEn cuanto a la consulta N° 2) del Anteced"
+    },
+    {
+      "name": "Oficio N°2230 (22/07/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2230 (22/07/2022)",
+      "document_id": "6a34b6dd-6623-5dd8-ae49-8e9865b1b2dc",
+      "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2230-22%2F07%2F2022.pdf&extension=pdf&acc=download&id=1d0a8ca7-8437-43ff-96bb-6a46266eeca9&mediaType=application%2Fpdf",
+      "content": " formen parte del \nreferido régimen1. \nEn efecto, en tales casos2, el mayor valor que se determine se grava con el IDPC e impuesto global \ncomplementario (IGC) o impuesto adicional (IA), según corresponda, por tratarse de rentas clasificadas \nen el N° 5 del artículo 20 de la LIR, independientemente de la fecha en que tales bienes hayan sido \nadquiridos y las personas a quiénes los enajenen. \nEn cuanto a la consulta N° 2) del Antecedente, se informa que el numeral XVI) del artículo tercero de \nlas disposiciones transitorias de la Ley N° 20.7803 contempló una regla especial disponiendo que el \nmayor valor obtenido en la enajenación de bienes raíces situados en Chile o de derechos o cuotas \nrespecto de tales bienes raíces poseídos en comunidad, por personas naturales que no determinen el \nIDPC sobre rentas efectivas, se sujetará a las disposiciones de la LIR según su texto vigente al 31 de \ndiciembre de 2014, siempre que hayan sido adquiridos antes del 1° de enero de 2004, cualquiera sea la \nfecha de su enajenación4. \nDicha norma transitoria se limita exclusivamente a los contribuyentes señalados en su inciso primero: \npersonas naturales que no determinen el IDPC sobre rentas efectivas y siempre que el respectivo bien \nraíz haya sido adquirido con anterioridad al 1° de enero de 2004. Por consiguiente, una sociedad \n \n1 Dicha renta no proviene de la actividad agrícola, minera o de transporte. \n2 Ver Circular N° 44 de 2016. \n3 La Ley N° 20.780, modificada por la Ley N° 20.899, además incluyó un nuevo tratamiento al mayor valor obtenido en la enajenación de \nbienes raíces que regula la letra b) del N° 8 del artículo 17 de la LIR. Este numeral, a su vez, fue modificado por la Ley N° 21.210, \nestableciendo ciertos requisitos para que el mayor valor obtenido en la enajenación de dichos bienes pueda ser considerado un INR. \n4 La Circular N° 43 de 2021, que imparte instrucciones, precisa que la norma transitoria sólo se aplica a personas naturales. \n\n\n2 \n \nacogida al régimen de renta presunta que enajena un bien raíz adquirido con anterioridad al 1° de enero \nde 2004 no cumple las condiciones de la norma transitoria, por tratarse de una persona jurídica y no de \nuna persona natural. \nEn ese contexto, es necesario aclarar que el Oficio N° 281 de 2021 se limita a describir, en lo \nfundamental y al tenor de lo consultado en esa oportunidad, las diversas modificaciones introducidas \nsobre la materia por la Leyes N° 20.780, N° 20.899 y N° 21.210, pero en caso alguno interpreta, ni \npermite interpretar, que el numeral XVI) del artículo tercero transitorio de la Ley N° 20.780 se extienda \na las sociedades de personas. \nAhora bien, el mayor valor obtenido por la sociedad acogida al régimen de renta presunta en la \nenajenación del bien raíz, deberá tributar bajo el régimen general, esto es, con IDPC e IGC o IA, según \ncorresponda. Lo anterior, atendido que dicha renta corresponde a aquellas clasificadas en el N° 5 del \nartículo 20 de la LIR. \nAl respecto, se debe tener presente que dicha sociedad tampoco puede acogerse al INR que contempla la \nletra b) del N° 8 del artículo 17 de la LIR actualmente vigente, por no tratarse de un contribuyente de \nimpuestos finales5. En consecuencia, es irrelevante si el bien raíz fue adquirido antes o después del 1° de \nenero de 2004, ya que el tratamiento tributario es el mismo, es decir, la aplicación del IDPC en base a \nrenta efectiva más los impuestos finales de los respectivos socios. \nIII \nCONCLUSIÓN"
+    },
+    {
+      "name": "Oficio N°1395 (04/04/2003)",
+      "source_type": "oficio",
+      "source": "Oficio N°1395 (04/04/2003)",
+      "document_id": "0d8afdc3-4faf-5d2f-b785-7573151414ff",
+      "chunk_uuid": "ed5489ed-da92-5e92-8b5f-1723d6f16188",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja466.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2003\nLEY SOBRE IMPUESTO A LA RENTA – ARTS. 17 N° 8 Y 18 (ORD. N° 1395, DE 04.04.2003)\nTRIBUTACIÓN DEL MAYOR VALOR OBTENIDO EN LA ENAJENACIÓN DE UN BIEN RAÍZ.\n1.- Por presentación indicada en el antecedente, plantea la situación que se describe más adelante, respecto\nde la cual señala que ha obtenido varias respuestas, solicitando a este organismo se resuelvan las\ncontroversias tributarias derivadas de dicho caso. La situación que formula es la siguiente: Una persona\ncompra con crédito directo un bien raíz (parcela) en $ 5.000.000 en Febrero de 1997 y lo vende en $\n20.000.000 en Junio de 2002. Durante el año 2002 no realizó ninguna otra venta, de ningún tipo. 1ª.\nrespuesta: No paga impuesto según art. 17 N° 8; 2ª. respuesta: Debe actualizar el valor de la compra,\naplicando IPC a los $ 5.000.000. Suponiendo el valor actualizado en $ 6.000.000, paga impuesto sobre $\n14.000.000.\n2.- Sobre el particular, cabe señalar en primer término, que de acuerdo a lo dispuesto por la letra b) del Nº 8\ndel artículo 17 de la Ley de la Renta, en concordancia con lo señalado por el artículo 18 de la misma ley, no\nconstituye renta el mayor valor, incluido el reajuste del saldo de precio, obtenido en la enajenación no\nhabitual de bienes raíces, excepto respecto de aquellos que forman parte del activo de empresas que\ndeclaren su renta efectiva en la Primera Categoría.\nPor su parte, el artículo 18 de la citada ley, dispone en su inciso tercero que se presumirá de derecho que\nexiste habitualidad en los casos de subdivisión de terrenos urbanos o rurales y en la venta de edificios por\npisos o departamentos, siempre que la enajenación se produzca dentro de los cuatro años siguientes a la\nadquisición o construcción, en su caso. Agrega la referida norma, que en todos los demás casos se\npresumirá la habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación\ntranscurra un plazo inferior a un año.\nFinalmente, el inciso cuarto del Nº 8 del artículo 17 de la Ley de la Renta establece que tratándose del mayor\nvalor obtenido en las enajenaciones referidas en las letras a), b), c), d), h), i), j) y k), en las cuales se\ncomprenden los bienes raíces, que hagan los socios de sociedades de personas o accionistas de\nsociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% ó más de\nlas acciones, con la empresa o sociedad respectiva o en las que tengan intereses, se aplicará lo dispuesto\nen el inciso segundo de este número, gravándose en todo caso el mayor valor que exceda del valor de\nadquisición, reajustado, con los impuestos de Primera Categoría, Global Complementario o Adicional, según\ncorresponda.\n3.- De lo establecido por las normas legales antes citadas, se desprende claramente que existen tres\nsituaciones en las cuales el mayor valor obtenido en la enajenación de bienes raíces, queda afecto a la\ntributación general que contempla la Ley de la Renta, a saber: a) cuando la operación represente el\nresultado de negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose de\nderecho que existe habitualidad en las situaciones previstas en la primera parte del inciso tercero del artículo\n18 de la ley señalada anteriormente; b) cuando se trate de la enajenación de bienes raíces que formen parte\ndel activo de empresas que declaren su renta efectiva en la Primera Categoría, bastando para la aplicación\nde esta normativa que los citados bienes integren el activ"
+    },
+    {
+      "name": "Oficio N°2230 (22/07/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2230 (22/07/2022)",
+      "document_id": "6a34b6dd-6623-5dd8-ae49-8e9865b1b2dc",
+      "chunk_uuid": "dde0bac4-97dd-5873-b8fb-1bdbb07ffad5",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2230-22%2F07%2F2022.pdf&extension=pdf&acc=download&id=1d0a8ca7-8437-43ff-96bb-6a46266eeca9&mediaType=application%2Fpdf",
+      "content": "se al INR que contempla la \nletra b) del N° 8 del artículo 17 de la LIR actualmente vigente, por no tratarse de un contribuyente de \nimpuestos finales5. En consecuencia, es irrelevante si el bien raíz fue adquirido antes o después del 1° de \nenero de 2004, ya que el tratamiento tributario es el mismo, es decir, la aplicación del IDPC en base a \nrenta efectiva más los impuestos finales de los respectivos socios. \nIII \nCONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que: \n1) \nEl mayor valor obtenido por una sociedad acogida al régimen de renta presunta en la enajenación \nde un bien raíz deberá tributar bajo el régimen general (IDPC e IGC o IA, según corresponda). \n2) \nEs irrelevante si el bien raíz fue adquirido antes o después del 1° de enero de 2004 porque no es \naplicable el numeral XVI) del artículo tercero transitorio de la Ley N° 20.780. \nSaluda a usted, \n \n \n \n          HERNÁN FRIGOLETT CÓRDOVA \n \n \n \n \n       \n          DIRECTOR  \n \n \n \n \nOficio N° 2230 del 22-07-2022 \nSubdirección Normativa \nDepto. de Impuesto Directos \n \n5 La letra b) del N° 8 del artículo 17 de la LIR limita su aplicación a contribuyentes de IGC o IA. \n"
+    },
+    {
+      "name": "Oficio N°1642 (29/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1642 (29/06/2021)",
+      "document_id": "1ec86ae6-e511-5902-970c-d90e63df3402",
+      "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1642-29%2F06%2F2021.pdf&extension=pdf&acc=download&id=3a026c86-c241-45b1-a000-5f8e747e177d&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° \n21.210, ART. VIGÉSIMO TERCERO TRANSITORIO – LEY N° 20.780, ART. TERCERO \nTRANSITORIO N° IV N° 4 LETRA E) Y N° XVI \n \n(ORD. N° 1642 DE 29.06.2021). \n \nTributación aplicable al mayor valor obtenido en la enajenación de bienes raíces adquiridos antes \ndel año 2004. \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación que afecta al mayor valor \nobtenido por una persona natural que no lleva contabilidad en la enajenación de bienes raíces adquiridos \nantes del 1° de enero de 2004. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, una persona natural que tributa en primera y segunda categoría es \npropietaria de dos bienes raíces agrícolas adquiridos antes del 1° de enero de 2004. Uno lo arrienda, \ndeclarando la renta efectiva determinada según el respectivo contrato de arrendamiento. El otro lo \ndestina a la actividad agrícola y forestal, explotándolo personalmente acogido al régimen de renta \npresunta. \nPor lo anterior, sostiene que dicha persona siempre ha determinado su impuesto de primera categoría sin \nllevar contabilidad completa ni simplificada. \nLuego, consulta si el eventual mayor valor en la enajenación de los bienes raíces se rige por lo dispuesto \nen la Ley sobre Impuesto a la Renta (LIR), según su texto vigente al 31 de diciembre de 2014, de \nconformidad a lo establecido en el artículo tercero de las disposiciones transitorias, numeral XVI, de \nLey Nº 20.780, en concordancia con el artículo vigésimo tercero transitorio de Ley Nº 21.210. \nII  \nANÁLISIS \nComo primera cuestión, cabe precisar que el tratamiento tributario aplicable en la enajenación de bienes \nraíces se determina de acuerdo con la fecha en que estos fueron adquiridos1. \nLuego, conforme con el párrafo final del artículo tercero transitorio, literal XVI, de la Ley N° 20.780, el \nmayor valor obtenido en la enajenación de bienes raíces situados en Chile, efectuadas por personas \nnaturales que no sean contribuyentes del impuesto de primera categoría (IDPC) que declaren su renta \nefectiva, cuando hayan sido adquiridos antes del 1° de enero de 2004, se sujetará a las disposiciones de \nla LIR, según su texto vigente hasta el 31 de diciembre de 2014. \nConforme con el artículo vigésimo tercero transitorio, de la Ley N° 21.210, se entenderá que las \noperaciones fueron realizadas por contribuyentes que determinaban el impuesto de primera categoría \nsobre rentas efectivas si, al momento de su enajenación, los bienes formaban parte del giro, actividades \no negociaciones de su empresa individual. \nEn particular, según la norma vigente al 31 de diciembre de 20142, el mayor valor obtenido en la \nenajenación de bienes raíces tendrá el tratamiento de un ingreso no renta, en la medida que esta \noperación no se realice con partes relacionadas3 o represente el resultado de negociaciones o actividades \nrealizadas habitualmente por el contribuyente4. De lo contrario, el mayor valor quedará afecto con IDPC \ne impuesto global complementario o adicional. \nEn el presente caso, supuesto que el bien raíz de propiedad de la persona natural fue adquirido antes del \n1° de enero de 2004, que no forma parte del giro, actividad o negociaciones de su empresa individual5, \nque no sea enajenado a un relacionado y que no se trate de una actividad realizada habitualmente por el \ncontribuyente, el mayor valor que se obtenga será un ingreso no constitutivo de renta. \n \n1 Se distingue entre el régimen para los bienes adquiridos"
+    },
+    {
+      "name": "Oficio N°105 (10/01/2024)",
+      "source_type": "oficio",
+      "source": "Oficio N°105 (10/01/2024)",
+      "document_id": "d529ded9-e893-5a48-9e65-b0023d18dab1",
+      "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=105-10%2F01%2F2024.pdf&extension=pdf&acc=download&id=0a207289-34c3-4497-9a75-9049d870b3e8&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° 20.780 - \nARTÍCULO TERCERO TRANSITORIO N° XVI- – CONVENIO ENTRE EL REINO DE \nESPAÑA Y LA REPÚBLICA DE CHILE PARA EVITAR LA DOBLE IMPOSICIÓN Y \nPREVENIR LA EVASIÓN FISCAL EN MATERIA DE IMPUESTOS SOBRE LA RENTA Y \nSOBRE EL PATRIMONIO -ART. 13 N°1- \n(ORD. N° 105, DE 10.01.2024) \nTributación del mayor valor obtenido en la enajenación de un bien raíz. \nSe ha consultado a este Servicio cómo tributa el mayor valor en la venta de un bien raíz que pertenece a \ndos personas que adquirieron en años distintos sus derechos sobre el respectivo inmueble.  \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, dos personas naturales son copropietarias de un inmueble situado en \nChile, siendo A residente en Chile y B residente en España. A adquirió el 75% del inmueble en 1991 y B \nadquirió el 25% del inmueble en 2016.  \nTras señalar que, en su opinión, A debería aplicar la Ley sobre Impuesto a la Renta (LIR) vigente en 2014, \nal haber adquirido los derechos sobre el inmueble antes del año 2004 –por lo que no debería tributar por \nla ganancia de capital– en tanto que B, al haber adquirido los derechos después del año 2004, debería \ntributar por el mayor valor en la medida que supere las 8.000 unidades de fomento (UF), consulta:  \n1) Qué ley aplica respecto a los impuestos que gravan la ganancia de capital y, en particular, si A se \nencuentra sujeta al pago de impuestos.  \n2) Si acaso B tiene que hacer de todas maneras una declaración de impuestos en Chile, aunque no sea \nresidente tributario, cuando su ganancia de capital no excede las 8.000 UF.  \nII  \nANÁLISIS  \nTratándose del mayor valor obtenido por personas naturales1 en la enajenación de bienes raíces ubicados \nen Chile, la letra b) del N° 8 del artículo 17 de la LIR contempla un ingreso no renta de hasta 8.000 UF, \nsiempre que se cumplan las condiciones establecidas en la referida disposición2.  \nPor su parte, el inciso final del numeral XVI del artículo tercero transitorio de la Ley N° 20.780 prescribe \nque el mayor valor obtenido en la enajenación de bienes raíces situados en Chile, o de derechos o cuotas \nrespecto de tales bienes raíces poseídos en comunidad, por personas naturales que no determinen el \nimpuesto de primera categoría sobre rentas efectivas, siempre que hayan sido adquiridos antes del 1° de \nenero de 2004, cualquiera sea la fecha de su enajenación, se sujetará a las disposiciones de la LIR, según \nsu texto vigente al 31 de diciembre de 20143.  \nFinalmente, y en lo que interesa, en caso que un porcentaje del inmueble fuere adquirido antes del 1° de \nenero de 2004 y otro después de esa fecha, se debe aplicar a cada parte el tratamiento tributario que le \ncorresponda según la legislación aplicable a la fecha de adquirirse cada parte, cumpliendo los requisitos \nlegales correspondientes4.  \nPor lo anterior, en la medida que A haya adquirido sus derechos sobre el bien raíz antes del 1° de enero \nde 2004 y cumpla las normas vigentes de la LIR según su texto vigente al 31 de diciembre de 2014, todo \nel mayor valor obtenido en la enajenación constituye un ingreso no renta5.  \nEn el caso de B, supuesto que la persona natural es considerada residente en España para los efectos del \nConvenio celebrado entre el Reino de España y la República de Chile para evitar la doble imposición y \nprevenir la evas"
+    },
+    {
+      "name": "Oficio N°1851 (21/07/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1851 (21/07/2021)",
+      "document_id": "51dd4da3-4462-5590-8104-a75f4de3d23f",
+      "chunk_uuid": "19488eea-777a-5003-b3a7-d3060f71a150",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1851-21%2F07%2F2021.pdf&extension=pdf&acc=download&id=302d95dc-c5f3-4159-aae5-7cb46d82a393&mediaType=application%2Fpdf",
+      "content": " el total del mayor valor que se \nobtenga en la enajenación no debe ser informado en el formulario 22, sobre declaración de impuestos \nanuales a la renta. \n \n1 Se distingue entre el régimen para los bienes adquiridos antes del 01.01.2004, para aquellos adquiridos desde el 01.01.2004 y hasta el \n28.09.2014, y para aquellos adquiridos a contar del 29.09.2014. \n2 Conforme con el artículo vigésimo tercero transitorio, de la Ley N° 21.210 se entenderá que las operaciones fueron realizadas por \ncontribuyentes que determinaban el impuesto de primera categoría sobre rentas efectivas, si al momento de su enajenación, los bienes formaban \nparte del giro, actividades o negociaciones de su empresa individual. \n3 Las instrucciones sobre la materia fueron impartidas en la Circular Nº 13, de 2014. \n4 Será una operación entre relacionados cuando la enajenación se hace por los socios de sociedades de personas o accionistas de sociedades \nanónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, con la empresa o sociedad respectiva \no en las que tengan intereses. \n5 Para estos efectos, se presume de derecho que existe habitualidad en los casos de subdivisión de terrenos urbanos o rurales y en la venta de \nedificios por pisos o departamentos, siempre que la enajenación se produzca dentro de los cuatro años siguientes a la adquisición o \nconstrucción en su caso. Asimismo, se presume habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación \ntranscurra un plazo inferior a un año.  \n\n\n2 \n \nIII \nCONCLUSIÓN \nConforme con lo expuesto, el mayor valor obtenido por una persona natural, en la enajenación de bienes \nraíces adquiridos antes del 1° de enero de 2004, deberá sujetarse a las disposiciones de la LIR, conforme \ncon su texto vigente al 31 de diciembre de 2014, en relación con lo dispuesto en el artículo tercero \ntransitorio, literal XVI, de la Ley N° 20.780. \nEn la medida que se cumpla con los requisitos legales, el total del mayor valor obtenido por la persona \nnatural será un ingreso no constitutivo de renta, de modo tal que podrá no ser informado en su \nformulario 22, sobre declaración de impuestos anuales a la renta. \nSaluda a usted, \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \nOficio N° 1851 del 21-07-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Oficio N°1050 (17/04/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1050 (17/04/2019)",
+      "document_id": "aaf3760c-d8b7-5f3e-bd25-331842ff904a",
+      "chunk_uuid": "0208a1f3-ca9b-5abb-8c65-b7dae3df658b",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1050-17%2F04%2F2019.pdf&extension=pdf&acc=download&id=504a28bd-679f-44c6-be10-cdaa28eb6845&mediaType=application%2Fpdf",
+      "content": "allecimiento del causante, ese día es el que debe \nconsiderarse como fecha en que se produce la adquisición de los bienes que se adjudican los herederos en \nla partición pertinente, por lo que en el caso consultado el inmueble habría sido adquirido por los \nherederos en el año 2016. \n \nAtendido los antecedentes entregados en la presentación, puede deducirse que el objeto de la cesión son \nlos derechos en el bien que señala. De lo dicho se sigue que, en la situación descrita, no es la comunidad \nla que vende el bien raíz en cuestión, sino que son los comuneros quienes enajenan los derechos o cuotas \ndel bien raíz que poseen en comunidad. De acuerdo con ello, esto es, que el bien raíz fue adquirido en el \naño 2016 y en consideración a lo que señala, éste será enajenado en vigencia de las actuales normas de la \nLey sobre Impuesto a la Renta (LIR), cobra plena aplicación lo dispuesto en el Nº 8 del artículo 17 de \ndicho texto legal, norma que establece que no constituye renta, las enajenaciones a que se refiere dicho \nnúmero, dentro de las cuales su letra b) se refiere al caso de la enajenación de bienes raíces situados en \nChile, o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, efectuadas por \npersonas naturales, calificación como ingreso no renta que aplica en la medida que se cumpla con las \ncondiciones y requisitos que establece la propia norma para tales efectos.2 \n          \n1 Oficio N° 2.060 de 03.08.1998 \n2 Instrucciones en Circular N° 44, de 12.07.2016. \n\n\n2 \n \n \nConforme a lo señalado precedentemente, en el caso en consulta se trataría de la enajenación de derechos \no cuotas sobre un bien raíz situado en Chile poseído en comunidad; venta efectuada en forma posterior al \n1° de enero de 2017, que efectuarán los herederos comuneros personas naturales domiciliadas o residentes \nen Chile, que tributan en base a las normas de la Segunda Categoría; bien raíz que fue adquirido en el año \n2016, fecha de apertura de la sucesión o fecha en la que se produjo el fallecimiento del causante. En tal \ncaso, atendida la particular situación de contribuyentes de la Segunda Categoría de los enajenantes, de \nacuerdo con lo instruido en la citada Circular, cabe expresar lo siguiente: \n \n El costo tributario para el heredero o cesionario adjudicatario del bien raíz es el que resulte de aplicar \nlas normas de valoración contenidas en los artículo 46, 46 bis y 47 de la Ley N°16.271, sobre \nImpuesto a las Herencias, Asignaciones y Donaciones.3 \n \nEl referido valor se debe reajustar según la variación del IPC entre el último día del mes anterior al de \nla apertura de la sucesión y el mes anterior al de la enajenación. \n \n De acuerdo a lo dispuesto en el párrafo 1°, del numeral ii), de la letra a), del inciso 1°, del N° 8, del \nartículo 17 de la LIR, para determinar, en el caso al que se refiere su consulta, el mayor valor obtenido \nen la enajenación de los derechos o cuotas respecto del bien raíz poseído en comunidad, efectuada por \npersonas naturales sujetas a las normas de la Segunda Categoría, se debe deducir del precio o valor \nasignado a la enajenación, el costo tributario de dichos bienes, determinado en los términos \nprecedentemente indicados. \n \n El mayor valor obtenido en la enajenación de derechos o cuotas respecto del bien raíz poseído en \ncomunidad que indica, por las personas naturales a que se refiere la consulta, queda sujeto al siguiente \ntratamiento tributario:  \n \n1) Ingreso No Renta (INR) hasta el límite de 8.000 UF, siempre que concurran los siguientes \nrequisitos"
+    },
+    {
+      "name": "Oficio N°1050 (17/04/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1050 (17/04/2019)",
+      "document_id": "aaf3760c-d8b7-5f3e-bd25-331842ff904a",
+      "chunk_uuid": "7f284f3d-7882-56df-88b1-125a8e8f72b9",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1050-17%2F04%2F2019.pdf&extension=pdf&acc=download&id=504a28bd-679f-44c6-be10-cdaa28eb6845&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n1 \n \nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA –ART. 17, N°8 – LEY N° 16.271, ART. 46, \nART. 46 BIS, ART. 47.  (ORD. N° 1050, DE 17.04.2019) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMayor valor obtenido en venta de un bien raíz recibido en herencia. \n \nSe ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual \nconsulta sobre el tratamiento tributario del mayor valor obtenido en la venta de los derechos comunitarios \nsobre un bien raíz efectuada en las condiciones que indica. \n \nI.- ANTECEDENTES. \n \nEn su consulta señala textualmente lo siguiente: “un grupo de 6 personas naturales con actividad de \nSegunda Categoría reciben en el año 2018 una herencia, específicamente una casa con un avalúo de \n$200 millones de pesos, la que fue adquirida por el causante (fallecido en el 2016) con anterioridad al \naño 2004, esta será vendida al mes siguiente de inscrita al nombre de los herederos, en $800 millones de \npesos.” \n \nEn relación con la operación señalada, formula las siguientes consultas: \n \n1.- En este caso el mayor valor obtenido en la venta de la casa en $ 800 millones ¿Es un ingreso renta?  \n2.- ¿se debe tributar en el IGC de los herederos?; \n3.- si es así, los herederos ¿deben tributar de acuerdo al porcentaje de participación en la herencia?”. \n \nII.- ANÁLISIS. \n \nAtendido que el tratamiento tributario del mayor valor obtenido en la enajenación de bienes raíces como \nen la enajenación de derechos o cuotas de bienes raíces poseídos en comunidad depende de las \ncaracterísticas y del perfil tributario del enajenante, el presente análisis se desarrolla asumiendo lo \nafirmado por el recurrente en su presentación, esto es, que los seis integrantes de la comunidad hereditaria \nque enajenan sus derechos o cuotas en el bien raíz poseído en comunidad, son personas naturales \nresidentes o domiciliadas en Chile, cuyas otras rentas califican y tributan conforme a las normas de la \nSegunda Categoría de la Ley sobre Impuesto a la Renta. \n \nSobre el particular, cabe señalar en primer lugar, que una comunidad se forma cuando una misma cosa \npertenece a varias personas que pueden ejercer simultáneamente derechos de igual naturaleza jurídica \nsobre ésta. Del mismo modo, procede indicar que, en el caso de una comunidad, el contribuyente no es la \ncomunidad misma, por cuanto ésta carece de personalidad jurídica, sino que el contribuyente es cada \ncomunero en particular, por la proporción de las rentas o ingresos que les correspondan en la comunidad, \nsin que esto se altere cuando los comuneros opten por declarar en conjunto, adoptando la calidad de una \ncomunidad. Ahora bien, en una comunidad hereditaria, ésta se forma cuando con motivo del fallecimiento \nde una persona, sus bienes pasan a pertenecer a varias personas (herederos) que pueden ejercer \nsimultáneamente, como ya se expresó, derechos de igual naturaleza jurídica sobre los bienes de propiedad \nde la persona que fallece. \n \nEn relación con la fecha de adquisición de los bienes por herencia, cabe señalar que conforme a \npronunciamientos emitidos por este Servicio1 sobre la materia, se ha establecido que coincidiendo la \nfecha de la apertura de la sucesión con el día del fallecimiento del causante, ese día es el que debe \nconsiderarse como fecha en que se produce la adquisición de los bienes que se adjudican los herederos en \nla partición pertinente, por lo que en el caso consultado el inmueble habría sido adquirido por los \nherederos en el año 2016. \n \nAtendido los antecedentes entregados en la presentación, puede deducirse que el objeto de la cesión son \nlos derechos en el bien que señala. De lo dicho se sigue que, en la situación descrita,"
+    },
+    {
+      "name": "Oficio N°1051 (23/04/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1051 (23/04/2021)",
+      "document_id": "3feba716-ee81-5edd-86dc-c0c936318aa1",
+      "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1051-23%2F04%2F2021.pdf&extension=pdf&acc=download&id=df1e4a03-d788-43b1-b11a-da2925048a97&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – LEY N° 20.780, ART. 3 TRANSITORIO N° XVI – \nOF. N° 1337 DE 2020 \n(ORD. N° 1051 DE 23.04.2021). \n \nTributación aplicable a la venta de un terreno fusionado que comprende unidades previamente \nadquiridas antes y después del año 2004. \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación aplicable a la venta de un bien \nraíz fusionado que comprende unidades previamente adquiridas antes y después del año 2004. \nI \nANTECEDENTES \n \nDe acuerdo con su presentación, posee dos lotes de terrenos, el primero, adquirido en junio de 2003, y el \nsegundo, en marzo de 2005, los cuales posteriormente fusionó en un solo terreno. \nAl respecto, consulta si el mayor valor producto de una eventual venta del predio fusionado, ya sea en \nsu totalidad o una parte del mismo, está afecto al impuesto a la renta considerando que una parte \n(mayoritaria) fue adquirida con anterioridad al 1° de enero de 2004 y otra parte (minoritaria) fue \nadquirida con posterioridad a esa fecha. \nII \nANÁLISIS \nRespecto de lo consultado, cabe señalar que, mediante Oficio Nº 1337 de 2020, este Servicio se \npronunció acerca de una situación similar, supuesto que el enajenante del terreno sea una persona \nnatural que no determina el impuesto de primera categoría sobre rentas efectivas y cuyo terreno no \nforma parte del giro de su empresa individual. \nEn efecto, el oficio citado resuelve que es posible distinguir intelectualmente, del mayor valor obtenido \nen la enajenación del inmueble fusionado, la parte o cuota que corresponda a cada bien raíz \nindividualmente adquirido, según su fecha de adquisición, para determinar su respectivo tratamiento \ntributario. \nAsimismo precisa que, para tener parámetros de valoración comparables y determinar la proporción que \ncada uno de los bienes raíces representa en el mayor valor total, se debe considerar el avalúo fiscal de \ncada uno de los bienes raíces según su avalúo vigente en el semestre anterior al semestre de la fusión. \nDe este modo, y siempre que el enajenante cumpla los requisitos para calificar la parte o cuota del \nmayor valor que corresponda como un ingreso no renta, determinada la proporción correspondiente a \nlos bienes raíces adquiridos antes del 1 de enero de 2004, aplicada al mayor valor determinado en la \nenajenación que realice, será un ingreso no renta sin tope de las 8.000 UF, mientras que la proporción \nrestante, un ingreso no renta afecto al tope referido. \nCabe agregar que el criterio de proporcionalidad indicado anteriormente, resulta aplicable también en el \ncaso de que la enajenación del terreno fusionado consista en una parte del mismo. \nIII \nCONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que, para determinar el \ntratamiento tributario del mayor valor obtenido en la enajenación de un bien raíz resultante de una \nfusión, cuando algunos de los bienes raíces fusionados fueron adquiridos antes del año 2004 y otros \ndespués, se deberá distinguir según la parte o cuota que, en el mayor valor total, le corresponda a cada \nbien raíz individualmente considerado, siempre que se cumplan los requisitos para calificar la parte o \ncuota que corresponda como un ingreso no renta, ya sea en su totalidad o con el tope de las 8.000 UF, \nconforme la legislación aplicable. \nSaluda a usted, \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \nOficio N° 1051 del 23-04-2021 \nSubdirección Normativa \n\n\n2 \n \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Oficio N°1839 (23/06/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1839 (23/06/2016)",
+      "document_id": "963a0b54-6497-5c62-92c4-c5fa3094a716",
+      "chunk_uuid": "ee28457d-cd08-50b4-8791-0dabde4fa2db",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja1839.htm",
+      "content": " artículo 18, ambos de la Ley sobre Impuesto a la Renta (LIR), vigentes\nhasta el 31 de diciembre de 2016, prescriben en lo pertinente a la situación planteada, que no constituye\nrenta, y en consecuencia, no se encuentra afecto con impuesto alguno de la LIR, el mayor valor obtenido por\npersonas naturales en la enajenación no habitual de bienes raíces situados en Chile, excepto aquellos que\nformen parte del activo de empresas que declaren cualquier clase de rentas efectivas de la primera categoría\n\n\nsobre la base de un balance general con contabilidad completa, y siempre que la enajenación no se efectúe\na una parte relacionada .\nSi no se cumplen los requisitos recién indicados, el total del mayor valor obtenido en la enajenación\nrespectiva, queda gravado de acuerdo al régimen general, esto es, con el Impuesto de Primera Categoría\n(IDPC) e Impuesto Global Complementario (IGC) o Impuesto Adicional (IA), según corresponda. Para\ndeterminar el mayor valor afecto a impuesto se debe deducir del precio o valor asignado a la enajenación, el\ncosto tributario de los referidos bienes, el que corresponde, a su vez, al valor de adquisición de los mismos\ndebidamente reajustado.\nLas instrucciones de este Servicio sobre esta norma, se encuentran contenidas en la Circular N° 13 de 2014,\nla que se encuentra publicada en su página web www.sii.cl.\nA partir del 1° de enero de 2017, la referida norma se sustituye íntegramente de acuerdo a lo dispuesto en la\nletra e), del numeral 8), del artículo 1°, en concordancia con el artículo primero de las disposiciones\ntransitorias, ambos de la Ley N° 20.780 , numeral que fue modificado a su vez por el numeral iv., de la letra\nd., del numeral 1., del artículo 8° de la Ley N° 20.899 , lo que trae consigo, a contar de la fecha señalada, la\nintroducción de una serie de modificaciones a la determinación del mayor valor obtenido en la enajenación de\nbienes raíces y a su tratamiento tributario.\nNo obstante lo anterior, conforme a lo dispuesto en el numeral XVI, del artículo tercero de las disposiciones\ntransitorias de la Ley N° 20.780, modificado por la letra f), del N° 5., del artículo 8° de la Ley N° 20.899, el\nmayor valor obtenido en las enajenaciones de bienes raíces situados en Chile, o de derechos o cuotas\nrespecto de tales bienes poseídos en comunidad, efectuadas por personas naturales que no sean\ncontribuyentes del IDPC que declaren su renta efectiva, cuando hayan sido adquiridos antes del 1° de enero\nde 2004, se sujetará a las disposiciones de la LIR, según su texto vigente hasta el 31 de diciembre de 2014.\nAhora bien, conforme al nuevo N° 8, del artículo 17 de la LIR, a partir del 1° de enero de 2017, no constituye\nrenta, el mayor valor, incluido el reajuste del saldo del precio, obtenido en la enajenación de bienes raíces\nsituados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, efectuada\npor personas naturales que no sean contribuyentes del IDPC que declaren su renta efectiva, sólo por la parte\ndel mayor valor que no exceda de la suma única y total de 8.000 UF, considerando al efecto los mayores\nvalores determinados en la totalidad de las enajenaciones que de los referidos bienes efectúen a partir de la\nfecha de entrada en vigencia de tal norma.\nDe esta manera, en términos generales, el nuevo N° 8, del artículo 17 de la LIR establece los siguientes\nrequisitos copulativos para que el mayor valor obtenido en la enajenación de los señalados bienes sea un\ningreso no constitutivo de renta, hasta agotar el límite único y total de 8.000 UF:\n- Que se trate de bienes ra"
+    },
+    {
+      "name": "Oficio N°116 (13/01/2006)",
+      "source_type": "oficio",
+      "source": "Oficio N°116 (13/01/2006)",
+      "document_id": "18656919-25dd-58bd-a977-5a82be77bf78",
+      "chunk_uuid": "1c2bce0a-7d99-591e-9df4-04ed65251422",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1076.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2006\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°8, LETRA B), ART. 18° – DECRETO LEY\nN° 2.695, DE 1979. (ORD. N° 116, DE 13.01.2006)\nENAJENACIÓN DE INMUEBLE ADQUIRIDO POR PRESCRIPCIÓN EN VIRTUD DEL D.L. N°2.695, DE\n1979 – CÓMPUTO DEL PLAZO DE UN AÑO PARA EFECTOS DE LA PRESUNCIÓN DE HABITUALIDAD\n– OPORTUNIDAD EN QUE SE ENTIENDE ADQUIRIDO EL DOMINIO – PRESUNCIÓN DE\nHABITUALIDAD ESTABLECIDA EN EL INCISO TERCERO DEL ARTÍCULO 18° DE LA LEY SOBRE\nIMPUESTO A LA RENTA – EL MAYOR VALOR OBTENIDO EN LA ENAJENACIÓN DEL INMUEBLE QUE\nSE EFECTÚE DESPUÉS DE CUMPLIRSE EL PLAZO DE UN AÑO DESDE SU ADQUISICIÓN POR LA\nPRESCRIPCIÓN ESPECIAL, NO SE ENCONTRARÍA AFECTO AL IMPUESTO A LA RENTA –\nCONDICIONES.\n1.- Por presentación indicada en el antecedente, señala que está asesorando a un contribuyente persona\nnatural que efectuó una regularización de un bien raíz en virtud del D.L. N° 2.695. Agrega, que la resolución\nen virtud de la cual se acogió dicha solicitud, se inscribió en el Conservador de Bienes Raíces el 20 de enero\nde 2004. En virtud de lo anterior, según lo dispuesto en el artículo 15°, inciso segundo, del D.L. N° 2.965 el\ncontribuyente se hizo dueño del inmueble por prescripción el 20 de enero del 2005.\nExpresa, que para mayor claridad transcribe el artículo 15 inciso segundo del citado Decreto Ley el que\nseñala: “Transcurrido un año completo de posesión inscrita no interrumpida, contado desde la fecha de la\ninscripción del interesado se hará dueño del inmueble por prescripción, la que no se suspenderá en caso\nalguno.”\nAgrega, que a su cliente un tercero le ha hecho una oferta de compra por este bien raíz. Sin embargo, antes\nde contestar dicha oferta, desea confirmar que en este caso el mayor valor que se obtenga por dicha venta\nen un principio estaría afecto al impuesto de Primera Categoría y Global Complementario, no aplicándose el\nartículo 17 N° 8 letra b) de la Ley de la Renta, todo ello en virtud de lo dispuesto en la parte pertinente del\nartículo 18°, inciso tercero de la Ley de la Rentas que señala en su parte pertinente: “Asimismo, en todos los\ndemás casos se presumirá la habitualidad cuando entre la adquisición o construcción del bien raíz y su\nenajenación transcurra un plazo inferior a un año”, concluyendo que dicha presunción de habitualidad se\naplicará sólo si la venta se efectúa antes del 20 de enero del 2006.\n2.- Sobre el particular, en primer término cabe señalar que el Decreto Ley N° 2.695, publicado en el Diario\nOficial de 21.07.1979, fijó normas para regularizar la posesión de la pequeña propiedad raíz y para la\nconstitución del dominio sobre ella, estableciendo en su artículo 1° un sistema especial de adquisición de\ndominio para poseedores materiales de bienes raíces rurales o urbanos, cuyo avalúo fiscal para el pago del\nimpuesto territorial sea inferior a ochocientas o a trescientas ochenta unidades tributarias, respectivamente,\nque carezcan de título inscrito, pudiendo solicitar de la Dirección de Tierras y Bienes Nacionales que se les\nreconozca la calidad de poseedores regulares de dichos bienes a fin de quedar habilitados para adquirir su"
+    },
+    {
+      "name": "Oficio N°1642 (29/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1642 (29/06/2021)",
+      "document_id": "1ec86ae6-e511-5902-970c-d90e63df3402",
+      "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1642-29%2F06%2F2021.pdf&extension=pdf&acc=download&id=3a026c86-c241-45b1-a000-5f8e747e177d&mediaType=application%2Fpdf",
+      "content": " complementario o adicional. \nEn el presente caso, supuesto que el bien raíz de propiedad de la persona natural fue adquirido antes del \n1° de enero de 2004, que no forma parte del giro, actividad o negociaciones de su empresa individual5, \nque no sea enajenado a un relacionado y que no se trate de una actividad realizada habitualmente por el \ncontribuyente, el mayor valor que se obtenga será un ingreso no constitutivo de renta. \n \n1 Se distingue entre el régimen para los bienes adquiridos antes del 01.01.2004, para aquellos adquiridos desde el 01.01.2004 y hasta el \n28.09.2014, y para aquellos adquiridos a contar del 29.09.2014. \n2 Las instrucciones sobre la materia fueron impartidas en la Circular Nº 13 de 2014. \n3 Será una operación entre relacionados cuando la enajenación se hace por los socios de sociedades de personas o accionistas de sociedades \nanónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, con la empresa o sociedad respectiva \no en las que tengan intereses. \n4 Para estos efectos, se presume de derecho que existe habitualidad en los casos de subdivisión de terrenos urbanos o rurales y en la venta de \nedificios por pisos o departamentos, siempre que la enajenación se produzca dentro de los cuatro años siguientes a la adquisición o \nconstrucción en su caso. Asimismo, se presume habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación \ntranscurra un plazo inferior a un año.  \n5 Empresa individual que es una Pyme según la consulta. \n\n\n2 \n \nSi bien no forma parte de lo consultado, se hace presente que el adquirente del inmueble que tributaba \nbajo renta presunta debe considerar y aplicar, si correspondiere, la letra e) del N° 4) del numeral IV del \nartículo tercero de las disposiciones transitorias de la Ley N° 20.7806.  \nIII  \nCONCLUSIÓN \nConforme con lo expuesto precedentemente y respecto de lo consultado se informa que el mayor valor \nobtenido por una persona natural en la enajenación de bienes raíces adquiridos antes del 1° de enero de \n2004, deberá sujetarse a las disposiciones de la LIR, conforme con su texto vigente al 31 de diciembre \nde 2014, en relación con lo dispuesto en el artículo tercero transitorio, literal XVI, de la Ley N° 20.780. \nEn la medida que se cumpla con los requisitos legales indicados en el Análisis, el total del mayor valor \nobtenido por la persona natural será un ingreso no constitutivo de renta, de modo tal que podrá no ser \ninformado en su formulario 22, sobre declaración de impuestos anuales a la renta.  \nSaluda a usted, \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \nOficio N° 1642 del 29-06-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n \n6 Aplicable a las enajenaciones de predios agrícolas en el ejercicio inmediatamente anterior a aquel en que deban operar bajo el régimen de \nrenta efectiva según contabilidad completa o en el primer ejercicio sometido a dicho régimen, y que obliga al adquirente a tributar también bajo \ndicho sistema.  \n"
+    },
+    {
+      "name": "Oficio N°1851 (21/07/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1851 (21/07/2021)",
+      "document_id": "51dd4da3-4462-5590-8104-a75f4de3d23f",
+      "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1851-21%2F07%2F2021.pdf&extension=pdf&acc=download&id=302d95dc-c5f3-4159-aae5-7cb46d82a393&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° \n20.780, ART. TERCERO TRANSITORIO N° XVI – LEY N° 21.210, ART. VIGÉSIMO \nTERCERO TRANSITORIO \n \n(ORD. N° 1851 DE 21.07.2021). \n \nTributación y declaración de la ganancia de capital obtenida por una persona natural. \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario del mayor valor \nobtenido en la enajenación de un bien raíz adquirido antes del 1° de enero de 2004, y la forma de \ndeclararlo. \nI \nANTECEDENTES \nMediante su presentación, solicita se aclare cómo debe tributar una persona natural que desarrolla \nactividades de primera y segunda categoría, sin contabilidad completa, por la venta de un bien raíz, \nadquirido hace más de 30 años, sin un giro que asocie esta actividad. \nAsimismo, solicita se le indique cómo se declara en el formulario 22, la ganancia de capital que supera \nlas 8.000 unidades de fomento, dado que dicho formulario no permitiría ni reconocería una “no renta” \nque supere dicha cifra, aun cuando la ley es clara respecto a la disposición que afectaría a este \ncontribuyente. \nII \nANÁLISIS \nComo primera cuestión, cabe precisar que el tratamiento tributario aplicable en la enajenación de bienes \nraíces se determina de acuerdo con la fecha en que estos fueron adquiridos1. \nLuego, conforme con el párrafo final del artículo tercero transitorio, literal XVI, de la Ley N° 20.780, el \nmayor valor obtenido en la enajenación de bienes raíces situados en Chile, efectuadas por personas \nnaturales que no sean contribuyentes del Impuesto de Primera Categoría (IDPC) que declaren su renta \nefectiva2, cuando hayan sido adquiridos antes del 1° de enero de 2004, se sujetará a las disposiciones de \nla Ley sobre Impuesto a la Renta (LIR), según su texto vigente hasta el 31 de diciembre de 2014.  \nEn particular, según la norma vigente al 31 de diciembre de 20143, el mayor valor obtenido en la \nenajenación de bienes raíces tendrá el tratamiento de un ingreso no renta, en la medida que esta \noperación no se realice con partes relacionadas4, o represente el resultado de negociaciones o \nactividades realizadas habitualmente por el contribuyente5.  \nDe lo contrario, el mayor valor quedará afecto con IDPC e Impuesto Global Complementario o \nAdicional. \nEn el presente caso, bajo el supuesto que el bien raíz de propiedad de la persona natural fue adquirido \nantes del 1° de enero de 2004 (considerando que habría sido adquirido hace más de 30 años), que no \nforma parte del giro, actividad o negociaciones de su empresa individual, que no sea enajenado a un \nrelacionado, y que no se trate de una actividad realizada habitualmente por el contribuyente, el mayor \nvalor que se obtenga será un ingreso no constitutivo de renta. \nPor otra parte, cabe anotar que la normativa vigente al 31 de diciembre de 2014 no establece un tope \npara el ingreso no constitutivo de renta –a diferencia de la normativa actualmente vigente que reconoce \nel ingreso no renta con tope de 8.000 unidades de fomento-; por lo cual, el total del mayor valor que se \nobtenga en la enajenación no debe ser informado en el formulario 22, sobre declaración de impuestos \nanuales a la renta. \n \n1 Se distingue entre el régimen para los bienes adquiridos antes del 01.01.2004, para aquellos adquiridos desde el 01.01.2004 y hasta el \n28.09.2014, y para aquellos adquiridos a contar del 29.09.2014. \n2 Conforme con el artículo vigésimo tercero transitorio,"
+    },
+    {
+      "name": "Oficio N°1439 (03/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1439 (03/06/2021)",
+      "document_id": "a81439a4-2741-5c90-85d2-60d5ca0ee321",
+      "chunk_uuid": "8a7e5759-2a0f-5872-b341-3b97d68ca325",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1439-03%2F06%2F2021.pdf&extension=pdf&acc=download&id=f2d5553e-2ecf-45a9-89fa-b8bf3cf2b99a&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° \n21.210, ART. 23 TRANSITORIO – LEY N° 20.780, ART. 3 TRANSITORIO N° XVI  \n \n(ORD. N° 1439 DE 03.06.2021). \n \nTributación que afecta a la enajenación de bienes raíces adquiridos antes del 2004. \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación que afecta a la enajenación de \nbienes raíces adquiridos antes del 2004. \nI \nANTECEDENTES \nDe acuerdo con su presentación, una persona natural residente en Chile (la “propietaria”), que no lleva \ncontabilidad completa, adquirió por sucesión por causa de muerte en el año 1993, tres inmuebles \nurbanos ubicados en distintas regiones del país. \nExpone que la propietaria ha subdividido los terrenos en lotes para su posterior y eventual venta desde \nhace años y que desde el 2004 los ingresos por ventas han sido irregulares, habiendo años en que ha \nvendido lotes y en otro no. \nAgrega que la propietaria no compró ni adquirió los inmuebles para venderlos y que su único ingreso \npor venta de inmuebles corresponde a las ventas de los lotes a personas no relacionadas. \nInforma que inició la actividad económica bajo el código 022000 (extracción de madera) ante este \nServicio en el año 2006, y que luego dejó de ejercer esa actividad y no tiene rentas de esa actividad \neconómica hace años. Agrega que aquella actividad estaba afecta al impuesto de primera categoría, pero \nla propietaria no estaba obligada a llevar contabilidad completa porque se había acogido al régimen de \nrenta presunta. Complementa señalando que los terrenos no fueron asignados a su empresa individual. \nActualmente la propietaria es pensionada y complementa su ingreso con rentas de arrendamiento de dos \ninmuebles y con los ingresos que de tiempo en tiempo deriva de las ventas de los lotes de los terrenos. \nLuego de citar las disposiciones del artículo tercero transitorio de la Ley N° 20.780 así como las de la \nLey sobre Impuesto a la Renta (LIR) vigente al 31 de diciembre de 2014, solicita confirmar que las \nventas realizadas a terceros no relacionados de los terrenos se regula en la letra b) del N° 8 del artículo \n17 de la LIR, vigente al 31 de diciembre de 2014, es decir, el eventual mayor valor obtenido de la venta \ncorresponde a un ingreso no renta, por aplicación del artículo tercero transitorio de la Ley N° 20.780. \nII \nANÁLISIS \nConforme al numeral XVI del artículo tercero transitorio de la Ley N° 20.780, el mayor valor obtenido \nen las enajenaciones de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes \nraíces poseídos en comunidad, adquiridos antes del 1° de enero de 2004 y efectuadas por personas \nnaturales, que no sean contribuyentes del impuesto de primera categoría (IDPC) que declaren su renta \nefectiva, se sujetará a las disposiciones de la LIR, según su texto vigente hasta el 31 de diciembre de \n2014. \nPor su parte, el artículo vigésimo tercero transitorio de la Ley N° 21.210 estableció que, para aplicar la \nregla del numeral XVI señalado, se entenderá que las operaciones fueron realizadas por contribuyentes \nque determinaban el impuesto de primera categoría sobre rentas efectivas si, al momento de su \nenajenación, los bienes formaban parte del giro, actividades o negociaciones de su empresa individual. \nSegún las disposiciones de la LIR, vigentes al 31 de diciembre de 2014, la letra b) del N° 8 del artículo \n17 dispone en lo esencial que no constituye renta, sin tope, el mayor valor obtenido"
+    },
+    {
+      "name": "Oficio N°1337 (15/07/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1337 (15/07/2020)",
+      "document_id": "fc2e1004-6290-57d4-817f-5ddd2a70b2b9",
+      "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1337-15%2F07%2F2020.pdf&extension=pdf&acc=download&id=dcd34933-9433-4c93-9152-4ca2f83503e0&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 21.210, ART. VIGÉSIMO \nTERCERO TRANSITORIO – LEY N° 20.780, ART. TERCERO TRANSITORIO N° XVI  \n(ORD. N° 1337 DE 15.07.2020). \n \nTratamiento tributario del mayor valor obtenido en la enajenación de bienes raíces fusionados. \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario del mayor valor \nobtenido en enajenación de un bien raíz originado de la fusión de tres bienes raíces. \nI \nANTECEDENTES \nDe acuerdo a los antecedentes, una persona natural sin contabilidad adquirió tres bienes raíces, dos de \nlos cuales fueron adquiridos antes del año 2003 y el tercero después de ese año. \nSe informa que todos los bienes raíces serían fusionados en un solo rol y bajo el mismo dueño, a \npropósito de lo cual formula las siguientes consultas, haciendo presente que el bien raíz se encontraría \nya fusionado: \n1) \n¿Cómo se aplica el ingreso no renta de los bienes adquiridos antes del año 2003 y que pasa con el \nbien adquirido después del año 2003, considerando que ya están fusionados en uno solo \n2) \n¿Qué ocurre con la exención de las 8.000 UF?, ¿estará afecto al beneficio para el caso de la \nadquisición del bien raíz posterior al año 2003? \nII \nANÁLISIS \nComo cuestión previa, es preciso indicar que la fusión de los tres bienes raíces que se pretende llevar a \ncabo implicará necesariamente que la posterior compraventa y enajenación que describe será respecto \nde un solo bien raíz, a saber, el resultante de la fusión, y no de tres bienes raíces distintos, como se \ndesliza en la consulta. \nAclarado lo anterior, cabe señalar que, de acuerdo con el inciso final del numeral XVI del artículo \ntercero transitorio de la Ley N° 20.780, el mayor valor obtenido en la enajenación de bienes raíces \nsituados en Chile, o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, por \npersonas naturales que no determinen el Impuesto de Primera Categoría sobre rentas efectivas, siempre \nque hayan sido adquiridos antes del 1° de enero de 2004, cualquiera sea la fecha de su enajenación, se \nsujetará a las disposiciones de la Ley sobre Impuesto a la Renta (LIR), según su texto vigente al 31 de \ndiciembre de 2014. Por su parte, el artículo vigésimo tercero transitorio de la Ley N° 21.210 estableció \nque, para aplicar la regla del numeral XVI señalado, se entenderá que las operaciones fueron realizadas \npor contribuyentes que determinaban el impuesto de primera categoría sobre rentas efectivas si, al \nmomento de su enajenación, los bienes formaban parte del giro, actividades o negociaciones de su \nempresa individual. \nCabe recordar que, en la LIR vigente al 31 de diciembre de 2014, el mayor valor obtenido en la \nenajenación de bienes raíces podía constituir, bajo ciertas circunstancias, un ingreso no renta, sin topes, \na diferencia de lo que ocurre con la LIR vigente a partir de 2017, en que si se cumplen ciertos requisitos, \nconstituye un ingreso no renta pero con tope de 8.000 UF. \nPor otra parte, atendido que la fusión de los bienes raíces en uno solo no constituye enajenación, porque \nlos bienes raíces siempre han formado parte del patrimonio del mismo propietario, cabe determinar si la \nenajenación del bien raíz resultante de la fusión, como un todo, obliga a distinguir la conformación del \nmayor valor y su tratamiento tributario, según la época en que los bienes raíces fueron individualmente \nadquiridos antes de la fus"
+    },
+    {
+      "name": "Oficio N°2343 (23/08/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°2343 (23/08/2016)",
+      "document_id": "983344a5-a003-53c9-8b49-d11d06d9a0b1",
+      "chunk_uuid": "23862b54-5c5b-5388-9d08-ef9049d1adb0",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja2343.htm",
+      "content": " sobre renta efectiva y\nexcluyendo los casos de enajenaciones entre partes relacionadas, no se gravará el mayor valor proveniente\nde la enajenación de inmuebles si entre la fecha de adquisición y enajenación del inmueble transcurre un\nplazo igual o superior a un año. Con todo, esta liberación sólo se aplica respecto de aquella parte del mayor\nvalor que no exceda de 8.000 Unidades de Fomento, independiente del número de enajenaciones o de\ninmuebles que tenga el contribuyente.\nDe este modo, si el mayor valor obtenido en la enajenación de uno o más inmuebles, en su conjunto, excede\nde la cantidad indicada, el exceso sobre las 8.000 Unidades de Fomento quedará afecto a impuesto en el\naño en que se produzca el exceso. En tal evento, y de acuerdo al nuevo texto del párrafo quinto de la letra b)\ndel N° 8° del artículo 17 de la Ley sobre Impuesto a la Renta, el exceso se gravará en el año en que dicho\nexceso se produzca, en la forma señalada en los numerales iii) y iv) de la letra a) del N° 8°, artículo 17 antes\ncitado, o bien, tratándose de personas naturales con domicilio o residencia en Chile con un impuesto único y\nsustitutivo con tasa 10%, a elección del contribuyente. En este último caso, el impuesto se declarará y pagará\nsobre la base de la renta percibida, de conformidad a lo señalado en los artículos 65, número 1, y 69 de la\nLey sobre Impuesto a la Renta.\nEsto es, se puede:\na) Gravar el mayor valor que se determine con los impuestos global complementario o adicional, según\ncorresponda, sobre la base de la renta percibida o devengada, a elección del contribuyente, de acuerdo al\nnumeral iii), letra a), N° 8°, artículo 17 de la Ley sobre Impuesto a la Renta,\nPor su parte, de acuerdo al numeral iv), para el cálculo del impuesto global complementario, los\ncontribuyentes podrán optar por aplicar las reglas que a continuación indica la misma norma, siempre que\ndeclaren sobre la base de la renta devengada .\nÚ\n\n\nb) Alternativamente, aplicar Impuesto Único de 10%, sobre el monto percibido, tratándose de personas\nnaturales con domicilio o residencia en Chile.\nSin perjuicio que el mayor valor se determina, en general, por la diferencia entre el valor de adquisición y\nenajenación del bien raíz, la norma en comento permite considerar como formando parte del valor de\nadquisición (disminuyendo en consecuencia el mayor valor obtenido en la enajenación) los desembolsos\nincurridos en mejoras que hayan aumentado el valor del bien, en la medida que sean declaradas y\nreajustadas en la forma que indica la ley.\nPor su parte, el artículo tercero transitorio, numeral XVI de la Ley N° 20.780, establece reglas especiales para\ndeterminar el valor de adquisición de inmuebles situados en Chile adquiridos con anterioridad a la fecha de\npublicarse la ley precitada (esto es, antes del 29 de septiembre del año 2014) y enajenados a contar del\n01.01.2017, para el caso de contribuyentes personas naturales que no sean contribuyentes de la primera\ncategoría que declaren renta efectiva.\nLa misma norma transitoria dispone que las enajenaciones efectuadas por los contribuyentes antes indicados\nse sujetarán a las reglas de la Ley sobre Impuesto a la Renta (ingreso no renta) vigentes al 31.12.2014\nrespecto del mayor valor que obtengan en la enajenación de inmuebles situados en Chile que hayan\nadquirido antes del 01.01.2004.\nSe hace presente que este Servicio, a propósito de las modificaciones introducidas por la Ley N° 20.780,\nhasta la fecha ha impartido una serie de instrucciones relacionadas con la tributación en la enajenación de\ninmuebles mediante las Circulares"
+    },
+    {
+      "name": "Oficio N°1364 (22/04/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°1364 (22/04/2022)",
+      "document_id": "9f250748-a75c-5104-962d-d5cd272d7ff3",
+      "chunk_uuid": "fb90f5a2-8207-53ec-aabd-10220350f59d",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1364-22%2F04%2F2022.pdf&extension=pdf&acc=download&id=c97e6f56-cdb7-4d90-a809-90f74fa27f74&mediaType=application%2Fpdf",
+      "content": " que no se trate de una actividad realizada \nhabitualmente por el contribuyente, el mayor valor que se obtenga será un ingreso no constitutivo de \nrenta. \nPara estos efectos, como fecha de adquisición del bien raíz se debe considerar la de la inscripción del \ntítulo en el respectivo registro de propiedad del Conservador de Bienes Raíces4. \n          \n1 Párrafo final del literal XVI, del artículo tercero transitorio de la Ley N° 20.780. \n2 De acuerdo al artículo vigésimo tercero transitorio, de la Ley N° 21.210 se entenderá que las operaciones fueron realizadas por contribuyentes \nque determinaban el impuesto de primera categoría sobre rentas efectivas, si al momento de su enajenación, los bienes formaban parte del giro, \nactividades o negociaciones de su empresa individual. \n3 Los requisitos cuya concurrencia hace aplicable la tributación correspondiente (IDPC e IGC o Adicional), fueron comentados en el Oficio N° \n1851 de 2021. \n4 Oficio N° 1946 de 2015. \n\n\n2 \n \nEn cuanto a la construcción de una casa en el terreno perteneciente a la persona natural consultante, \ndicha edificación pasa al dominio del propietario del terreno conforme a las normas generales del \nCódigo Civil5, constituyendo un inmueble por adherencia que pertenece al dueño de lo principal. Por lo \ntanto, el contribuyente podrá considerar como comprendida en la venta, la totalidad del bien inmueble \nincluyendo la edificación construida. \nLas disposiciones vigentes al 31 de diciembre de 2014 no establecen un tope para el ingreso no \nconstitutivo de renta, por lo cual, el total del mayor valor que se obtenga en la enajenación no quedará \nafecto a tributación. \nIII  \nCONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que el mayor valor \nobtenido por una persona natural en la enajenación de un bien raíz adquirido antes del 1° de enero de \n2004, se sujeta a las disposiciones de la LIR, conforme con su texto vigente al 31 de diciembre de 2014, \nen relación con lo dispuesto en el artículo tercero transitorio, literal XVI, de la Ley N° 20.780. \nLuego, en la medida que se cumplan los requisitos legales, el total del mayor valor obtenido por la \npersona natural en la venta del bien raíz será un ingreso no constitutivo de renta. \nSaluda a usted,  \n \n \nHERNÁN FRIGOLETT CÓRDOVA \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \nOficio N° 1364 del 22-04-2022 \nSubdirección Normativa \nDepto. de Impuestos Directos \n \n          \n5 El artículo 568 del Código Civil dispone que inmuebles o fincas o bienes raíces son las cosas que no pueden transportarse de un lugar a otro; \ncomo las tierras y minas, y las que adhieren permanentemente a ellas, como los edificios. \n"
+    },
+    {
+      "name": "Oficio N°3633 (21/12/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°3633 (21/12/2022)",
+      "document_id": "09321b2b-4597-5ae3-9d04-f8af741bbcd7",
+      "chunk_uuid": "27fc274a-c34a-547e-9b61-cd268ad48c9e",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3633-21%2F12%2F2022.pdf&extension=pdf&acc=download&id=9a5eaccb-298a-4975-82a0-ed2d3efeff79&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B), ART. 20 N° 5 Y ART. \n69 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS – ART. 2 N° 1 Y N° 3 – LEY \nN° 20.780, ART. 3 TRANSITORIO N° XVI – REGLAMENTO DE LA LEY SOBRE \nIMPUESTO A LAS VENTAS Y SERVICIOS, ART. 4 – CIRCULARES N° 37 DE 2020 Y N° \n43 DE 2021 – RESOLUCIÓN EX. N° 9 DE 2014 \n(ORD. N° 3633, DE 21.12.2022). \n \nTributación del mayor valor en la enajenación de bienes raíces. \nDe acuerdo con su presentación, una empresa obtuvo rol único tributario en 2006 y adquirió una \npropiedad en esa fecha, pero nunca hizo iniciación de actividades ni tuvo ningún movimiento o \nactividad económica, consultando como tributa la venta de la referida propiedad efectuada a \nprincipios de este año y los pasos a seguir. \nAl respecto se informa que el mayor valor obtenido por una persona jurídica1 en la enajenación se \ngrava con el impuesto de primera categoría e impuestos finales que corresponda (impuesto global \ncomplementario o impuesto adicional), por tratarse de una renta clasificada en el N° 5 del artículo 20 \nde la Ley sobre Impuesto a la Renta (LIR). \nPor su parte, el mayor valor en la enajenación de bienes raíces corresponde a la diferencia entre su \nprecio o valor de enajenación o cesión y su costo tributario, conformado por el valor de adquisición \ndel bien respectivo, así como por los desembolsos incurridos en mejoras que hayan aumentado su \nvalor, ambos conceptos reajustados2. \nPrecisado lo anterior, y atendido que la renta obtenida en la operación – atendida la descripción \nformulada – constituiría una renta esporádica, los respectivos impuestos se deben declarar dentro del \nmes siguiente al de la obtención de la renta, conforme al artículo 69 de la LIR, utilizando el formulario \n50, cuyo formato y contenido se encuentran en la Resolución Ex. N° 9 de 2014. \nEn cuanto al IVA, de acuerdo al N° 1°) del artículo 2° de la Ley sobre Impuesto a las Ventas y \nServicios, en relación al N° 3°) del mismo artículo, se define “venta”, en lo que interesa a la presente \nconsulta, como toda convención, independiente de la designación que le den las partes, que sirva para \ntransferir a título oneroso el dominio de bienes corporales inmuebles construidos, cuando la venta es \nefectuada por un “vendedor” habitual3. \nLuego, en la medida que se cumpla con los requisitos señalados, la venta consultada se gravará con \nIVA. \n \n \n \n \nRICARDO PIZARRO ALFARO \nDIRECTOR (S) \n \n \n \n \n \nOficio N° 3633, de 21.12.2022 \nSubdirección Normativa \nDepto. de Impuesto Directos \n          \n1 Por tanto, no se aplica la tributación contenida en la letra b) del N° 8 del artículo 17 de la LIR, ni la señalada en el inciso final del N° XVI \ndel artículo tercero de las disposiciones transitorias de la Ley N° 20.780. \n2 Instrucciones en la Circular N° 43 de 2021. \n3 El N° 3°) entiende por “vendedor”, a cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se \ndedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de su propia producción o adquiridos de terceros. \nCorresponderá al Servicio de Impuestos Internos calificar la habitualidad. A su turno, el artículo 4° del Reglamento de la LIVS dispone \nque, para calificar la habitualidad a que se refiere el N"
+    },
+    {
+      "name": "Oficio N°330 (01/02/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°330 (01/02/2022)",
+      "document_id": "dd6fee2f-8fc9-561d-810f-8dd4f63c3f51",
+      "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=330-01%2F02%2F2022.pdf&extension=pdf&acc=download&id=8915c46f-5a0a-4ff8-ac3c-fd18baebb9e5&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° 20.780, ART. \nTERCERO TRANS. N° XVI – CIRCULAR N° 43 DE 2021 \n \n(ORD. N° 330 DE 01.02.2022). \n \nEnajenación de un bien raíz agrícola adquirido en el año 2003. \nSe ha solicitado a este Servicio confirmar criterios que expone sobre la enajenación de un bien raíz \nagrícola adquirido en el año 2003. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, una persona natural, que no se ha constituido como empresaria \nindividual y no tiene sociedades a su nombre, domiciliada y residente en Chile, entrega en arriendo un \nbien raíz agrícola de su propiedad a una empresa chilena. \nEste bien raíz agrícola lo fue adquiriendo por partes a lo largo de los años. La parte del bien raíz \nagrícola que entrega en arriendo, la adquirió antes del 31 de diciembre del año 2003. \nPosteriormente, hace más de 5 años se subdividió parte de dicho bien raíz. La propiedad del bien raíz \nagrícola la tiene como persona natural. Además, no ha iniciado actividades ante el Servicio de \nImpuestos Internos. \nEn el contrato de arrendamiento, en su calidad de arrendadora, declara que es contribuyente del \nimpuesto de primera categoría (IDPC) de la Ley sobre Impuesto a la Renta (LIR) y que tributa sobre la \nbase de renta efectiva sin contabilidad completa, por contrato de arrendamiento. \nAtendido que la empresa a quien arrienda el bien raíz agrícola pondría término al contrato de arriendo, \nla persona natural analiza las siguientes dos alternativas: \na) \nVender una parte del bien raíz agrícola que adquirió antes del año 2004; y, \nb) \nDonar una parte del bien raíz agrícola a sus hijos, para que ellos posteriormente lo puedan vender. \nTras analizar las normas legales y jurisprudencia de este Servicio, solicita confirmar que: \n1) \nEn la medida que el contribuyente mantenga la parte del bien raíz agrícola que adquirió antes del \naño 2004 como persona natural (y no dentro de una sociedad o como empresaria individual), existe \nla posibilidad de que una eventual venta de esa parte no tribute con impuestos en Chile, aun cuando \nla persona natural enajene esa parte del bien raíz agrícola a alguno de sus familiares, debido a la \nnormativa que se le aplicaría a dicha venta. \n2) \nSi los hijos que reciben la donación, después de un año, enajenan el bien raíz, ellos tendrán derecho \na considerar 8.000 unidades de fomento (UF) como ingreso no renta, y por el exceso podrán \ntributar i) con el impuesto global complementario (IGC) sobre base percibida; ii) reliquidando el \nIGC; o, iii) con un impuesto único y sustitutivo de 10%. \nII  \nANÁLISIS \nEl tratamiento tributario de la enajenación de bienes raíces situados en Chile efectuada por personas \nnaturales y que no se encuentren asignados en su empresa individual se contiene en la letra b) del N° 8 \ndel artículo 17 de la LIR. \nEn términos generales, y de acuerdo con dicha norma, se grava el mayor valor obtenido en la \nenajenación del inmueble, o de derechos o cuotas respecto de tales inmuebles poseídos en comunidad. \nDicho mayor valor se determina restando al precio de venta el costo tributario respectivo, conformado \npor el valor de adquisición y los desembolsos incurridos en mejoras que hayan aumentado su valor, \ndebidamente reajustados, y será considerado un ingreso no constitutivo de renta hasta aquella parte del \nmayor valor que no exceda, independiente del número de enajenaciones realizadas o del número de \ninmuebles de propiedad del contribuyente, la suma"
+    },
+    {
+      "name": "Oficio N°1364 (22/04/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°1364 (22/04/2022)",
+      "document_id": "9f250748-a75c-5104-962d-d5cd272d7ff3",
+      "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1364-22%2F04%2F2022.pdf&extension=pdf&acc=download&id=c97e6f56-cdb7-4d90-a809-90f74fa27f74&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 Nº 8 LETRA B), SEGÚN \nTEXTO VIGENTE AL 31.12.2014 – LEY Nº 20.780, ART. TERCERO TRANSITORIO, \nLITERAL XVI \n(ORD. N° 1364 DE 22.04.2022). \nMayor valor obtenido en la enajenación de un terreno adquirido antes del 1° de enero de 2004 y \ndonde se construyó una casa habitación. \nSe ha solicitado a este Servicio un pronunciamiento sobre la situación tributaria del mayor valor \nobtenido en la enajenación de un bien raíz adquirido antes del 1° de enero de 2004, en el que se efectuó \nla construcción de una casa habitación. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, evalúa vender un inmueble de propiedad familiar, el que se compone \nde un terreno con casa. El terreno fue adquirido en junio de 2003 mediante un crédito hipotecario con el \npropósito de construir una casa, cuyo proceso de arquitectura se inició el mismo 2003 y se terminó de \nconstruir en el 2004 con crédito hipotecario. El acta de recepción de la casa construida fue otorgada por \nla municipalidad respectiva el 11 de noviembre del año 2004. \nEl bien raíz no forma parte de la contabilidad como empresario individual, ni genera rentas de primera \ncategoría por arrendamiento. Agrega que su domicilio actual está en el referido bien raíz. \nComo el inmueble se compone de ambas partes, terreno y casa, y el proyecto familiar inició el 2003, \nentiende que la enajenación de éste se rige por la normativa vigente hasta el 31 de diciembre del 2014, \nla cual indica que el mayor valor obtenido en la enajenación tiene el tratamiento de un ingreso no renta, \nen la medida que esta operación no se realice con partes relacionadas. \nTras señalar que el bien raíz, terreno y casa, tienen un solo rol de propiedad, consulta la forma en que \ndebería efectuarse la tributación de este bien raíz en caso de ser vendido. \nII  \nANÁLISIS \nConforme las normas transitorias de la Ley N° 20.7801, la tributación aplicable al mayor valor obtenido \nen la enajenación de bienes raíces situados en Chile, adquiridos antes del 1° de enero de 2004, efectuada \npor personas naturales que no sean contribuyentes del impuesto de primera categoría (IDPC) que \ndeclaren su renta efectiva2, se sujeta a las normas de la LIR, según su texto vigente hasta el 31 de \ndiciembre de 2014. \nDe acuerdo al texto vigente de la LIR al 31 de diciembre de 2014, el mayor valor obtenido en la \nenajenación de bienes raíces tendrá el tratamiento de un ingreso no renta en la medida que la operación \nno se realice con partes relacionadas, o represente el resultado de negociaciones o actividades realizadas \nhabitualmente por el contribuyente. De lo contrario, el mayor valor quedará afecto con IDPC e impuesto \nglobal complementario o adicional3. \nEn el caso consultado, bajo el supuesto que el bien raíz de propiedad de la persona natural fue adquirido \nantes del 1° de enero de 2004, que no forma parte del giro, actividad o negociaciones de su empresa \nindividual, que no sea enajenado a un relacionado, y que no se trate de una actividad realizada \nhabitualmente por el contribuyente, el mayor valor que se obtenga será un ingreso no constitutivo de \nrenta. \nPara estos efectos, como fecha de adquisición del bien raíz se debe considerar la de la inscripción del \ntítulo en el respectivo registro de propiedad del Conservador de Bienes Raíces4. \n          \n1 Párrafo final del literal XVI, del artículo tercero transitorio de la Ley N° 20.780. \n2 De acuerdo al artículo vigésimo ter"
+    }
+  ]
+}

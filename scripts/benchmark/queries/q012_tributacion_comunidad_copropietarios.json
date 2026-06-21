@@ -1,0 +1,5 @@
+{
+  "query_id": "q012",
+  "query_text": "Tributación de la comunidad de copropietarios de un edificio",
+  "notas": "Cubre Copropiedad / propiedad horizontal (situación tributaria de la comunidad de copropietarios de un edificio). Discrimina moderado: las variantes TF-IDF lideran (p3_tfidf 2.60, p2_tfidf 2.50) por sobre las BM25 (~2.40); el baseline_qdrant_bm25 no trae hits útiles en el top-10. Ganadora top-10 mean_grade: p3_tfidf (2.60). Distribución 8/15/4/4 en grados 3/2/1/0 sobre 31 chunks, sin parse errors (-1) ni correcciones manuales."
+}

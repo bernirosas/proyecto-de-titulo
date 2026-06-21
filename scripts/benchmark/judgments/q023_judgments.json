@@ -1,0 +1,348 @@
+{
+  "query_id": "q023",
+  "query_text": "Recurso de apelación en juicio de arrendamiento de inmueble",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:57Z",
+  "judgments": [
+    {
+      "chunk_uuid": "376c2e6e-1730-596f-b4fc-12811b2bec0d",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda el IVA en arrendamientos de inmuebles amoblados, pero no el recurso de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "9180b7b2-5479-59c9-bd2a-95f84de79cbe",
+      "relevance_grade": 1,
+      "justification": "Este oficio trata sobre el reconocimiento de gastos por usufructo y cesión de arrendamiento, no sobre recursos de apelación."
+    },
+    {
+      "chunk_uuid": "daea3fdb-a1c7-5a94-a1ba-5179e512bab5",
+      "relevance_grade": 1,
+      "justification": "Este oficio se enfoca en el IVA para inmuebles arrendados con instalaciones, sin relación con recursos de apelación."
+    },
+    {
+      "chunk_uuid": "f16b7208-5ee9-52c8-a75f-bd41821f06c2",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe la acogida de un recurso de apelación en un juicio tributario relacionado con impuestos territoriales."
+    },
+    {
+      "chunk_uuid": "c73b3587-b734-5a28-ba87-857e37c01d67",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla el rechazo de un recurso de protección, no un recurso de apelación en juicio de arrendamiento."
+    },
+    {
+      "chunk_uuid": "446cc2c1-201f-5251-87ad-6a130bad79b9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el IVA en arrendamientos de inmuebles, no sobre recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+      "relevance_grade": 0,
+      "justification": "Este documento se refiere a impuestos sobre rentas acumuladas y retiros en exceso, no a juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "99f7096a-22e2-5525-87b8-443588e809fa",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda un recurso de casación en materia tributaria relacionada con beneficios de DFL N°2, no un recurso de apelación en juicio de arrendamiento."
+    },
+    {
+      "chunk_uuid": "0be65376-ca91-554a-a4aa-44b53b3dfd8a",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre el IVA en arrendamientos de inmuebles amoblados, no sobre recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "5c56d842-5ae5-5b5f-af17-e49423c59fb1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe una Corte de Apelaciones acogiendo un recurso de apelación en un caso tributario relacionado con la enajenación de un bien raíz."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la modificación de un formulario tributario, no sobre recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "e0f1076a-a4bf-53b1-a759-302ecb6cf843",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe una apelación en un juicio tributario relacionado con un inmueble arrendado, abordando la temática de forma relevante."
+    },
+    {
+      "chunk_uuid": "7d307f33-24b7-513b-9762-ebc3463bf96e",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute una apelación sobre el impuesto a la renta de inmuebles, pero se enfoca en retiros presuntos, no en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "5f3ad6d0-6b75-57af-8519-f71cce5eb90b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre permuta de inmuebles y valorización de activos, no sobre recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "0e3d078f-0ade-5ec8-871f-c9a670c74e20",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la competencia de las Cortes de Apelaciones para conocer recursos de apelación en materia tributaria."
+    },
+    {
+      "chunk_uuid": "bbd63c63-fbd3-5ff4-8909-1e1934170f8c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la inaplicabilidad de un recurso de apelación en un contexto penal, no en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "679fd3b4-e4ed-5a4b-9915-37230a40d770",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la administración de recursos del Poder Judicial y bienes inmuebles, sin relación con recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "b375ddb7-c5c3-559f-874c-a7086fc95265",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la apelabilidad de una resolución que declara caducidad de beneficios DFL N°2 ante el Ministerio de Vivienda y Urbanismo."
+    },
+    {
+      "chunk_uuid": "738a044b-3518-5203-a94d-1df85fd3009d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la resolución de un recurso de apelación en un juicio tributario relacionado con la enajenación de inmuebles."
+    },
+    {
+      "chunk_uuid": "1ce1b13c-882f-5e38-950f-381037ed8a79",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la aplicación de coeficientes de ajuste a inmuebles de conservación histórica, sin relación con recursos de apelación en arrendamientos."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la modificación de un formulario tributario y no aborda los recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "0552cb62-af00-526f-af39-2f4fa7641e4d",
+      "relevance_grade": 1,
+      "justification": "Este oficio se refiere a la tributación del arrendamiento de inmuebles, pero no menciona los recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "00045cfe-6533-59b7-8c42-e4b5b3814834",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe una sentencia donde se acogió un recurso de apelación del SII contra un tribunal tributario, relacionado con bienes raíces."
+    },
+    {
+      "chunk_uuid": "186014ec-770d-5423-81e3-86777fd4d653",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla los recursos de apelación y casación contra sentencias y resoluciones en reclamaciones tributarias, incluyendo plazos y tramitación."
+    },
+    {
+      "chunk_uuid": "4ba2db90-b929-57af-9d99-e781aae07bd1",
+      "relevance_grade": 1,
+      "justification": "Este fragmento describe una sentencia de apelación sobre la tributación de inmuebles y la figura del empresario individual, sin relación con juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "645c7de7-0d45-516e-9736-ef9d962fa96f",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre un recurso de apelación en un contexto de arrendamiento de inmuebles y tributación."
+    },
+    {
+      "chunk_uuid": "4e37ba0b-5e15-5c56-b9bd-0fab525bcc5c",
+      "relevance_grade": 1,
+      "justification": "Aborda un recurso de casación relacionado con exenciones tributarias en zonas francas, tangencialmente relacionado con inmuebles."
+    },
+    {
+      "chunk_uuid": "7076c190-762a-51c6-a00e-f0346236bed9",
+      "relevance_grade": 1,
+      "justification": "Explica el tratamiento tributario de las contribuciones de bienes raíces en operaciones de leasing, no directamente sobre recursos de apelación."
+    },
+    {
+      "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+      "relevance_grade": 2,
+      "justification": "Detalla un recurso de apelación en un reclamo tributario, incluyendo la prescripción y el plazo razonable."
+    },
+    {
+      "chunk_uuid": "88b617b5-f8ae-5964-8e81-1f3626e35a48",
+      "relevance_grade": 2,
+      "justification": "Describe el recurso de hecho como una vía para apelar la denegación de un recurso de apelación."
+    },
+    {
+      "chunk_uuid": "56d5c175-4681-550b-86c4-04c3f198de21",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la interpretación de bienes corporales inmuebles y habitación, no sobre recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "1f368d23-fbca-5754-9ab8-f41af84aeeb7",
+      "relevance_grade": 3,
+      "justification": "Este artículo del Código de Procedimiento Civil especifica que las sentencias que terminan arrendamientos son apelables solo en efecto devolutivo."
+    },
+    {
+      "chunk_uuid": "bed95ee4-9870-59bf-9897-8b0398fff1c7",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el IVA del arrendamiento de inmuebles, no en los recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "bf89d45e-3c29-554c-8c96-267b2a1f1867",
+      "relevance_grade": 1,
+      "justification": "Este artículo del Código Procesal Penal establece el efecto devolutivo general de la apelación, pero no es específico de arrendamientos."
+    },
+    {
+      "chunk_uuid": "44c5e67f-e94c-5fa1-ba87-85c5e22adec7",
+      "relevance_grade": 1,
+      "justification": "Este artículo del Código Procesal Penal define el plazo para interponer apelación, pero no es específico de juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "76be3e26-7e03-5dac-9a91-8c7b7791ef14",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre el IVA en arrendamientos de inmuebles, pero no sobre recursos de apelación."
+    },
+    {
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en procedimientos de pago de impuestos y no aborda recursos de apelación en juicios."
+    },
+    {
+      "chunk_uuid": "aedc54e3-c03a-5ec6-bf51-2eeb397783e2",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el IVA en arrendamientos con opción de compra, sin relación con recursos de apelación."
+    },
+    {
+      "chunk_uuid": "16da3810-71f6-5858-8899-fa94151d2fa2",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la calidad de 'inmueble usado' para efectos de IVA, no recursos de apelación."
+    },
+    {
+      "chunk_uuid": "6927ffa5-8543-538d-9d86-7bdb23639971",
+      "relevance_grade": 3,
+      "justification": "Este fragmento describe los recursos de reposición y apelación contra resoluciones tributarias, incluyendo el efecto devolutivo."
+    },
+    {
+      "chunk_uuid": "5e84eddd-e1dc-510e-8ab9-8d71275fff1b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de un contrato de arriendo con opción de compra sobre inmuebles, no sobre recursos de apelación."
+    },
+    {
+      "chunk_uuid": "136c47bc-caa9-525f-a580-322ba0a6481f",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define ante qué tribunal se debe interponer un recurso de apelación, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "67306808-806b-5aa2-ba36-9035be108178",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica en qué efectos se concede la apelación en juicios criminales, lo cual es tangencialmente relevante."
+    },
+    {
+      "chunk_uuid": "9d597862-dc9f-5aab-ba27-82f52d8a6a94",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la forma de interposición del recurso de apelación, incluyendo fundamentos y peticiones concretas."
+    },
+    {
+      "chunk_uuid": "dba7fb53-924c-5374-a780-fd261bb6b44b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el Impuesto al Valor Agregado en arrendamientos de inmuebles, no el recurso de apelación."
+    },
+    {
+      "chunk_uuid": "02efa5a5-8587-50cd-9d83-956837c3f25c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre un recurso de queja contra una corte de apelaciones por rechazar un recurso de apelación, lo cual es relevante."
+    },
+    {
+      "chunk_uuid": "a46808bf-3753-5c82-91b1-6b80cb79637a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe el rechazo de un recurso de apelación en un contexto tributario, siendo relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "74fcf25d-8d58-5cbe-a6ad-ffb0daf285da",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la modificación de un formulario tributario y no aborda recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a convenios de cooperación y procedimientos de avalúo de bienes raíces, no a recursos de apelación."
+    },
+    {
+      "chunk_uuid": "766edb1e-3268-58b1-9ad6-7ce266a9c023",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la determinación del capital propio de sociedades y no tiene relación con recursos de apelación en arrendamientos."
+    },
+    {
+      "chunk_uuid": "2bfc2834-165f-56f9-9de5-03c5f6adc191",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre un reclamo tributario relacionado con mejoras en inmuebles arrendados, no sobre recursos de apelación en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "77ff170d-6908-5bb1-9963-e186c594c2bd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute un recurso de apelación en un contexto tributario (Ley Arica), no en un juicio de arrendamiento."
+    },
+    {
+      "chunk_uuid": "db50aeef-a4ff-5ee3-bb99-03cec900be4d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento describe los recursos de apelación y casación en procedimientos tributarios, no específicamente en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "5cd87335-c809-5284-845e-09efa1c19489",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente la apelación de sentencias en juicios de arrendamiento, especificando el efecto devolutivo."
+    },
+    {
+      "chunk_uuid": "db62007f-8036-5a5c-8dbf-4f448b36565e",
+      "relevance_grade": 1,
+      "justification": "El fragmento regula la apelación contra sentencias arbitrales, no juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "4fe65f31-f552-5401-af9c-3acced9d764c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe el procedimiento para la restitución de inmuebles arrendados y menciona el lanzamiento, pero no aborda directamente el recurso de apelación."
+    },
+    {
+      "chunk_uuid": "4f32a94b-3ed7-5f41-a65b-a7beade21577",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la procedencia de un recurso de apelación en materia tributaria, incluyendo la aplicación supletoria del CPC, pero no es sobre juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "7eadc195-296c-5feb-88cb-0f96e830ffe0",
+      "relevance_grade": 1,
+      "justification": "Este fragmento analiza la improcedencia de un recurso de apelación en materia tributaria, citando artículos del CPC y Código Tributario, pero no se enfoca en arrendamientos."
+    },
+    {
+      "chunk_uuid": "4112760e-615d-5547-8530-202d801cb028",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla modificaciones al Código de Procedimiento Civil relativas a apelaciones, incluyendo plazos y efectos, pero no se centra en juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "d5603049-7d69-50c4-a1ea-cdfff5f540e5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la procedencia de un recurso de apelación en materia tributaria, discutiendo plazos y notificaciones según el Código Tributario, sin relación con arrendamientos."
+    },
+    {
+      "chunk_uuid": "bdd4cfd7-df2b-5c07-b310-b3fea7ae480a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la inadmisibilidad de un recurso de apelación en un contexto tributario, citando el Código Tributario."
+    },
+    {
+      "chunk_uuid": "68dd4456-4df9-5d93-b7ac-f103d4798363",
+      "relevance_grade": 2,
+      "justification": "Aborda la apelación de resoluciones en materia tributaria, incluyendo la apelación de sentencias que resuelven recursos de aclaración."
+    },
+    {
+      "chunk_uuid": "a9ba1bd4-7bce-5f8d-af2e-afffbc1ca641",
+      "relevance_grade": 1,
+      "justification": "Este fragmento, de la Ley 19886, describe el recurso de apelación contra sentencias definitivas en el Tribunal de Contratación Pública."
+    },
+    {
+      "chunk_uuid": "95ae299a-ae52-5270-b32e-8a6f9d5cc236",
+      "relevance_grade": 2,
+      "justification": "Trata sobre el rechazo de un recurso de apelación en un juicio tributario relacionado con gastos de arriendo de bienes raíces."
+    },
+    {
+      "chunk_uuid": "02526b56-15dc-5f98-8544-7680a28f037f",
+      "relevance_grade": 2,
+      "justification": "Explica la procedencia de la apelación contra resoluciones que aclaran o rectifican fallos en materia tributaria, citando el Código Tributario."
+    },
+    {
+      "chunk_uuid": "21b2f312-d955-5be0-bd9d-bf77351e2d51",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre la apelación en un contexto tributario, similar a un juicio de arrendamiento."
+    },
+    {
+      "chunk_uuid": "45217de6-e72e-5d6f-b836-c2ecc6ec38b2",
+      "relevance_grade": 2,
+      "justification": "Explica los recursos de reposición y apelación, sus plazos y requisitos, aplicables a juicios de arrendamiento."
+    },
+    {
+      "chunk_uuid": "c496212b-58a5-5fd8-ad53-eb861d6e44eb",
+      "relevance_grade": 1,
+      "justification": "Discute el recurso de casación en el fondo en materia tributaria, no directamente el de apelación en arrendamientos."
+    }
+  ]
+}

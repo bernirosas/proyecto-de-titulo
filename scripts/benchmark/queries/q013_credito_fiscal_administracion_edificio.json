@@ -1,0 +1,5 @@
+{
+  "query_id": "q013",
+  "query_text": "Crédito fiscal del IVA en los gastos de administración de un edificio",
+  "notas": "Cubre Copropiedad / propiedad horizontal (gastos de administración del edificio y crédito fiscal IVA). Baja discriminación: BM25, SPLADE y TF-IDF convergen en 1.9-2.2 de top-10 mean_grade. Ganadora top-10 mean_grade: p1_bm25 (2.20). Distribución dominada por el grado 2 (3/35/9/2 en grados 3/2/1/0 sobre 49 chunks). 1 corrección manual: el chunk a6dc5f36 llegó con parse error del juez (-1) y se reclasificó a grado 2 a criterio con la misma rúbrica, por lo que la distribución final no tiene grados -1."
+}

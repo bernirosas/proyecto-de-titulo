@@ -1,0 +1,243 @@
+{
+  "query_id": "q000",
+  "query_text": "Plazo de prescripción para el cobro de impuestos",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:53:58Z",
+  "judgments": [
+    {
+      "chunk_uuid": "33fd5b3e-37cd-5f85-b42d-cb88476cea85",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la prescripción extintiva de impuestos y la acción fiscalizadora fuera de plazos legales."
+    },
+    {
+      "chunk_uuid": "3a5d3983-8873-5122-9220-a9e57abfa6d9",
+      "relevance_grade": 2,
+      "justification": "Explica cómo la notificación de una citación aumenta los plazos de prescripción del artículo 200 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "28f8d85c-90bc-5438-adc8-808f4880f3bf",
+      "relevance_grade": 2,
+      "justification": "Aborda la prescripción de la acción del Fisco para perseguir el pago de impuestos, citando artículos relevantes."
+    },
+    {
+      "chunk_uuid": "0b70fb51-b9e1-5b51-9de1-c601aeafc69f",
+      "relevance_grade": 3,
+      "justification": "Detalla los plazos de prescripción para la acción del Fisco para cobrar impuestos, intereses y sanciones."
+    },
+    {
+      "chunk_uuid": "dccdd01c-738d-5185-a364-9302e7ba310d",
+      "relevance_grade": 3,
+      "justification": "Explica los plazos de prescripción para la facultad de liquidar impuestos y la acción de cobro del Fisco."
+    },
+    {
+      "chunk_uuid": "2ef643c1-1bb5-5d69-87fc-af383e3025fe",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define el plazo de prescripción para el cobro de impuestos, mencionando los plazos de tres o seis años."
+    },
+    {
+      "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+      "relevance_grade": 3,
+      "justification": "Explica que la prescripción extintiva libera al Fisco de la acción de cobro, y que debe ser alegada por el deudor."
+    },
+    {
+      "chunk_uuid": "44024d08-4a16-552f-94ca-f0cb216cef90",
+      "relevance_grade": 2,
+      "justification": "Menciona los plazos de prescripción en el contexto de delitos tributarios, pero no los detalla ni responde directamente la consulta."
+    },
+    {
+      "chunk_uuid": "10393dff-8461-5e55-a7c6-1cdb8e9e598f",
+      "relevance_grade": 2,
+      "justification": "Se refiere a los plazos de prescripción del Código Tributario en el contexto de devoluciones improcedentes, pero no es la respuesta principal."
+    },
+    {
+      "chunk_uuid": "4164a9ad-e49b-5046-90b1-28686f65cb26",
+      "relevance_grade": 3,
+      "justification": "Cita el artículo 2521 del Código Civil sobre prescripción de acciones a favor y en contra del Fisco en tres años."
+    },
+    {
+      "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica las causales de interrupción y suspensión de la prescripción tributaria, incluyendo plazos de 3 y 6 años."
+    },
+    {
+      "chunk_uuid": "3da51d94-d702-58f5-97c9-ff875735adbc",
+      "relevance_grade": 2,
+      "justification": "Analiza la aplicación de plazos de prescripción de 3 años y su ampliación en el contexto del cobro de impuestos a la renta."
+    },
+    {
+      "chunk_uuid": "7cdb5d22-ab03-530a-ab85-45dc725ca815",
+      "relevance_grade": 3,
+      "justification": "Detalla la regla general de prescripción de 3 años para la facultad del Servicio de Impuestos Internos para liquidar y girar impuestos."
+    },
+    {
+      "chunk_uuid": "37eca4d2-5705-5a4c-b297-b67955655637",
+      "relevance_grade": 0,
+      "justification": "Este fragmento, aunque trata sobre prescripción, se enfoca en el Código de Comercio y contratos marítimos, no en impuestos."
+    },
+    {
+      "chunk_uuid": "45820f6d-c6e4-53a8-9680-5038c7cc3a8c",
+      "relevance_grade": 2,
+      "justification": "Explica la contabilización, suspensión y reanudación del plazo de prescripción de 3 años para acciones de cobro del Fisco."
+    },
+    {
+      "chunk_uuid": "35ba1527-cccf-571e-af5c-e58ea0c88a62",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica los plazos de prescripción para el cobro de impuestos y cómo se interrumpen."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la modificación de un formulario para el pago de impuestos, no en plazos de prescripción."
+    },
+    {
+      "chunk_uuid": "b725d18e-e3fa-59db-8db3-252fe1636412",
+      "relevance_grade": 3,
+      "justification": "Este fragmento discute la prescripción de la acción fiscalizadora del SII y los plazos de seis años aplicables."
+    },
+    {
+      "chunk_uuid": "a4985dd5-79b7-5fbd-a072-3723beaf5e33",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda la prescripción de la acción de cobro del Fisco y los plazos de tres años aplicables."
+    },
+    {
+      "chunk_uuid": "0464ac59-64f7-524d-96d6-b86b13170f9a",
+      "relevance_grade": 3,
+      "justification": "Este fragmento analiza la aplicabilidad de plazos de prescripción de tres o seis años según el Código Tributario."
+    },
+    {
+      "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla los plazos de prescripción para el cobro de impuestos a las asignaciones por causa de muerte y donaciones, especificando duraciones y cómputo."
+    },
+    {
+      "chunk_uuid": "3627710b-c417-5aea-86c4-ef51e1d92504",
+      "relevance_grade": 2,
+      "justification": "Analiza la prescripción de la acción fiscalizadora del SII y la renovación de plazos por citación, aplicando el artículo 200 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "8690bf1b-3f47-5e61-a34a-4ac2e64a250e",
+      "relevance_grade": 2,
+      "justification": "Explica el aumento y renovación de plazos de prescripción tributaria, detallando cómo se computan y sus límites máximos."
+    },
+    {
+      "chunk_uuid": "135a4f1b-31d1-58f8-b217-ee5c5ddb536e",
+      "relevance_grade": 2,
+      "justification": "Aborda la prescripción en solicitudes de devolución de impuestos y el plazo para que el Servicio revise diferencias tras término de giro."
+    },
+    {
+      "chunk_uuid": "1bdc38ed-e1e4-54e9-a4c2-489702871bb8",
+      "relevance_grade": 2,
+      "justification": "Detalla la interrupción de la prescripción para el cobro de impuestos, sus efectos y la aplicación de los artículos 200 y 201 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "06f55592-e289-5610-8159-0e661b8e44a1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la prescripción del Impuesto a las Donaciones, citando el artículo 200 del Código Tributario y plazos de seis años."
+    },
+    {
+      "chunk_uuid": "38e6e873-6241-56cf-a863-fbbb37c2f5ba",
+      "relevance_grade": 2,
+      "justification": "Explica la suspensión de la prescripción de acciones de cobro por reclamos tributarios y la ausencia del contribuyente del país."
+    },
+    {
+      "chunk_uuid": "7688246c-2a81-57eb-bf8b-d2a2069ccbc1",
+      "relevance_grade": 2,
+      "justification": "Aborda los plazos máximos para fiscalizar y cobrar tributos, mencionando los artículos 200 y 201 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "d9e640e8-8f2d-515c-9b34-4e20f7a502c7",
+      "relevance_grade": 2,
+      "justification": "Analiza la prescripción extintiva de tres años para el cobro de impuestos, citando los artículos 200 y 201 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "bb9566b5-7604-5431-b989-c2730e24f18e",
+      "relevance_grade": 2,
+      "justification": "Define la suspensión de la prescripción y detalla los requisitos para su aplicación en casos de reclamos tributarios."
+    },
+    {
+      "chunk_uuid": "9980d8e7-5013-5596-88af-bc14801774c9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute los plazos de prescripción para la emisión y cobro de impuestos, citando el Código Tributario."
+    },
+    {
+      "chunk_uuid": "4aa7e82f-7681-5653-bd5f-f45529176a9f",
+      "relevance_grade": 2,
+      "justification": "Aborda la prescripción para solicitudes de devolución y el cobro de impuestos, mencionando artículos relevantes del Código Tributario."
+    },
+    {
+      "chunk_uuid": "e95b2671-71e0-53ae-99f5-78b3dec47d45",
+      "relevance_grade": 2,
+      "justification": "Trata sobre la prescripción y su interrupción en el contexto de liquidaciones de impuestos, citando el Código Tributario."
+    },
+    {
+      "chunk_uuid": "cb7e0599-9045-527f-a384-6b2cf566d34c",
+      "relevance_grade": 2,
+      "justification": "Explica los plazos de prescripción de tres y seis años para liquidar y girar impuestos, según el Código Tributario."
+    },
+    {
+      "chunk_uuid": "d41bf71b-16c2-5f9b-97da-c4926b413905",
+      "relevance_grade": 3,
+      "justification": "Define el plazo de prescripción del Fisco para el cobro de impuestos, intereses y sanciones, citando el Código Tributario."
+    },
+    {
+      "chunk_uuid": "699e1a9d-6164-5f05-bc32-0c9cd18e9062",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el aumento del plazo de prescripción para el cobro de impuestos en situaciones específicas de justificación de inversiones."
+    },
+    {
+      "chunk_uuid": "5d70cbb1-cbc5-527a-ac62-657e724435d5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica cómo la citación del SII aumenta los plazos de prescripción para el cobro de impuestos."
+    },
+    {
+      "chunk_uuid": "2e5437a1-6175-52c1-a113-56773de76af8",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la prescripción de acciones del fisco para el cobro de impuestos y el plazo razonable."
+    },
+    {
+      "chunk_uuid": "439c5086-8fd1-5e18-9b5c-d19dcf815455",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza los plazos de prescripción para liquidar, revisar o girar impuestos y su aumento."
+    },
+    {
+      "chunk_uuid": "92aa62d3-5e50-5fd1-a94c-1f45faec8251",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda los plazos de prescripción para liquidar, revisar o girar impuestos y su posible aumento."
+    },
+    {
+      "chunk_uuid": "4d897d53-7fae-5963-9566-a8a0d21f3b6a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la prescripción de la acción fiscalizadora del SII, mencionando plazos de 3 y 6 años."
+    },
+    {
+      "chunk_uuid": "b5271915-32e6-54ff-9583-dc41f05cd6d9",
+      "relevance_grade": 2,
+      "justification": "Explica que la facultad del SII para revisar y girar impuestos está sujeta a los plazos del artículo 200 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "5122e19f-adc2-5d25-ac9d-f78e9a047a26",
+      "relevance_grade": 2,
+      "justification": "Detalla los plazos ordinario (3 años) y extraordinario (6 años) de prescripción para la acción fiscalizadora del SII."
+    },
+    {
+      "chunk_uuid": "d34d8f6f-6f15-5bc9-b73a-0182fba478dd",
+      "relevance_grade": 2,
+      "justification": "Aborda la prescripción de acciones del fisco para el cobro de liquidaciones, invocando el artículo 200 del Código Tributario."
+    },
+    {
+      "chunk_uuid": "4de64e38-67d1-5970-9395-13ced8dc1fc3",
+      "relevance_grade": 2,
+      "justification": "Explica los plazos ordinario (3 años) y extraordinario (6 años) para la prescripción de la acción de cobro de impuestos."
+    },
+    {
+      "chunk_uuid": "264c05a1-72ac-5367-87f8-6ab2819d9680",
+      "relevance_grade": 2,
+      "justification": "El fragmento detalla los plazos de prescripción para la revisión y cobro de impuestos por parte del Servicio de Impuestos Internos."
+    },
+    {
+      "chunk_uuid": "ba96d973-edc6-5f6d-9977-98cb5abe92aa",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica las causales de interrupción y suspensión de la prescripción para el cobro de impuestos por parte del Fisco."
+    }
+  ]
+}

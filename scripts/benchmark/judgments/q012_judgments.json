@@ -1,0 +1,193 @@
+{
+  "query_id": "q012",
+  "query_text": "Tributación de la comunidad de copropietarios de un edificio",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:12Z",
+  "judgments": [
+    {
+      "chunk_uuid": "30bcd1f0-8fcd-54bb-80e3-3e2a660fb124",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla el procedimiento y requisitos para la presentación de declaraciones juradas por parte de comunidades."
+    },
+    {
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "relevance_grade": 2,
+      "justification": "Describe el procedimiento de emisión de cupón de pago del Formulario N° 50, relevante para la declaración de impuestos."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 2,
+      "justification": "Informa sobre la sustitución de la estructura y contenido del Formulario N° 50 para la declaración y pago de impuestos."
+    },
+    {
+      "chunk_uuid": "1df5e95d-899a-51af-bfd5-d602e3f99e71",
+      "relevance_grade": 1,
+      "justification": "Aborda la contribución a expensas comunes en copropiedad y la distribución de gastos, tangencialmente relacionado con la tributación comunitaria."
+    },
+    {
+      "chunk_uuid": "b529f96f-9e3b-56aa-b2d1-0580cab9925a",
+      "relevance_grade": 3,
+      "justification": "Explica el tratamiento tributario de las rentas de una comunidad, indicando que puede ser contribuyente del IDPC."
+    },
+    {
+      "chunk_uuid": "ab54d626-78e2-59a8-9999-2c8f93fd7082",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que las comunidades no tienen personalidad jurídica y que los comuneros son los contribuyentes por la proporción de las rentas."
+    },
+    {
+      "chunk_uuid": "fdbd31d3-4c30-5b93-9739-133d073f73a0",
+      "relevance_grade": 2,
+      "justification": "Aborda la tributación de una comunidad de edificio en relación a la instalación de máquinas lavadoras, pero se enfoca en el IVA y la emisión de boletas."
+    },
+    {
+      "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento se refiere a la tributación de utilidades acumuladas y retiros en exceso, mencionando comunidades, pero no aborda la tributación general de copropietarios."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este documento trata sobre la modificación de un formulario para la declaración y pago de impuestos, sin relación directa con la tributación de comunidades de copropietarios."
+    },
+    {
+      "chunk_uuid": "a209a54b-29ae-5e9a-bce8-c12c76ec6e47",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla modificaciones a la Ley de Impuesto a la Renta sobre regímenes de tributación y créditos, sin abordar específicamente la tributación de comunidades."
+    },
+    {
+      "chunk_uuid": "32e23b67-a173-5ec7-b42c-4fe5fb97ae41",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda la tributación de las comunidades de copropietarios, incluyendo el IVA y el Impuesto a la Renta."
+    },
+    {
+      "chunk_uuid": "d17a158b-c7ca-5070-895b-dff19d9aa02c",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute la adjudicación de lotes en copropiedad y su tratamiento tributario, pero no la tributación general de la comunidad."
+    },
+    {
+      "chunk_uuid": "4ba09d6a-580d-57ca-a3e8-a92e9ffdbf5f",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica la tributación de las comunidades de copropietarios por arriendo de bienes comunes, incluyendo Impuesto a la Renta y IVA."
+    },
+    {
+      "chunk_uuid": "4676a37f-6133-51a9-a0dd-bb8e1bfe64e4",
+      "relevance_grade": 1,
+      "justification": "Este oficio se enfoca en beneficios tributarios para adquirentes de vivienda nueva y cómo no aplican a comunidades."
+    },
+    {
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "relevance_grade": 0,
+      "justification": "Este documento trata sobre convenios de coordinación para la aplicación de normas de avalúo y regularización de títulos de propiedad."
+    },
+    {
+      "chunk_uuid": "dd685307-c0b1-5b02-bbe6-67acdfbcddc1",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda la tributación de una comunidad de edificio por arriendo de espacios comunes, definiendo su naturaleza jurídica y tratamiento tributario."
+    },
+    {
+      "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+      "relevance_grade": 2,
+      "justification": "Este oficio consulta sobre la tributación con IVA del servicio de administración de edificios, detallando las funciones del administrador."
+    },
+    {
+      "chunk_uuid": "766edb1e-3268-58b1-9ad6-7ce266a9c023",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute modificaciones en la determinación del capital propio de sociedades de personas, no abordando directamente la tributación de comunidades de copropietarios."
+    },
+    {
+      "chunk_uuid": "5281e16a-8d4b-5ba8-ad68-e0f8feef60f4",
+      "relevance_grade": 2,
+      "justification": "Este oficio define qué casos se consideran comunidad para efectos de impuesto a la renta, asimilando su tratamiento tributario al de sociedades de hecho."
+    },
+    {
+      "chunk_uuid": "6ed06538-98a9-521f-a7d5-9c94d198ad2c",
+      "relevance_grade": 2,
+      "justification": "Este oficio determina que el cobro por estacionamiento en bienes comunes de un edificio no está gravado con IVA, abordando un aspecto específico de la comunidad."
+    },
+    {
+      "chunk_uuid": "74fcf25d-8d58-5cbe-a6ad-ffb0daf285da",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la modificación del Formulario 50 para la declaración y pago de impuestos, sin abordar la tributación de comunidades de copropietarios."
+    },
+    {
+      "chunk_uuid": "2354e2e4-f204-5024-ac40-57b959bc3369",
+      "relevance_grade": 2,
+      "justification": "Este oficio explica que las comunidades de edificios no obligadas a iniciar actividades no deben emitir boletas de honorarios por servicios de terceros."
+    },
+    {
+      "chunk_uuid": "eedd130e-22be-5d61-a9fb-36ee8a32807b",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la tributación de condominios, específicamente el IVA por arriendo de espacios comunes y el crédito fiscal."
+    },
+    {
+      "chunk_uuid": "69c0f911-e031-51c3-812a-bcab91cf6c14",
+      "relevance_grade": 3,
+      "justification": "Este oficio detalla que los intereses y multas del fondo de reserva de copropietarios no constituyen renta gravada con impuestos anuales."
+    },
+    {
+      "chunk_uuid": "a6579e3a-be23-5582-978c-a5e37c40178b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento describe un programa de apoyo para la Operación Renta en edificios, sin tratar la tributación de las comunidades de copropietarios."
+    },
+    {
+      "chunk_uuid": "4ff90615-ddd9-57f5-ac02-2f14471736a8",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica detalladamente las obligaciones tributarias de una comunidad de copropietarios que arrienda espacios comunes, actuando como contribuyente de Primera Categoría."
+    },
+    {
+      "chunk_uuid": "af85ee96-9f68-549d-bc35-e16eaac06eb3",
+      "relevance_grade": 2,
+      "justification": "Aborda las obligaciones tributarias de una comunidad de copropietarios que obtiene ingresos del arrendamiento de parte del inmueble común, remitiendo a oficios anteriores."
+    },
+    {
+      "chunk_uuid": "7b21ef36-19ff-5ce5-8e62-02ac368543f5",
+      "relevance_grade": 3,
+      "justification": "Explica que las comunidades de edificios pueden actuar como contribuyentes de Primera Categoría si desarrollan una actividad empresarial, detallando sus obligaciones."
+    },
+    {
+      "chunk_uuid": "7e56ec95-6834-5b0e-bf2e-e324da0b5df9",
+      "relevance_grade": 2,
+      "justification": "Analiza la situación frente al Impuesto al Valor Agregado de comunidades que arriendan máquinas de lavar y secar, confirmando que son contribuyentes de IVA."
+    },
+    {
+      "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+      "relevance_grade": 2,
+      "justification": "Aclara que la distribución de gastos comunes por parte de la administración no constituye un hecho gravado con IVA, y cómo se maneja el IVA soportado."
+    },
+    {
+      "chunk_uuid": "579d2396-70d9-5fe8-a9b6-fecbd3e69a4b",
+      "relevance_grade": 2,
+      "justification": "Este oficio informa que una comunidad de copropietarios que arrienda espacios comunes puede ser contribuyente de Primera Categoría."
+    },
+    {
+      "chunk_uuid": "8b92f691-3d91-513b-8350-c520fe5e37f0",
+      "relevance_grade": 3,
+      "justification": "El fragmento aborda directamente la tributación de ingresos extras percibidos por condominios, incluyendo arriendos y fondos de reserva."
+    },
+    {
+      "chunk_uuid": "dd3ae299-cad8-555f-83c4-1c0e8d0dbca3",
+      "relevance_grade": 2,
+      "justification": "Explica la tributación de intereses de fondos de reserva y el IVA por arriendo de espacios comunes."
+    },
+    {
+      "chunk_uuid": "c39d94e0-75dc-5194-9442-b250bd2ec885",
+      "relevance_grade": 3,
+      "justification": "Detalla cómo una comunidad de edificio que arrienda espacios comunes puede ser contribuyente de Primera Categoría."
+    },
+    {
+      "chunk_uuid": "f4f9624a-0253-55b0-b236-f62f3c086cff",
+      "relevance_grade": 2,
+      "justification": "Aborda la calidad de contribuyente de las comunidades y la responsabilidad solidaria de los comuneros."
+    },
+    {
+      "chunk_uuid": "fee54875-e97b-589d-9b65-6840de9a176c",
+      "relevance_grade": 3,
+      "justification": "Explica la tributación de la comunidad por arriendo de azotea y el sistema de tributación a base de retiros."
+    },
+    {
+      "chunk_uuid": "64183fdb-0c3f-5c74-aa4f-b54fc2bffdca",
+      "relevance_grade": 3,
+      "justification": "Analiza la tributación de una comunidad por arriendo de espacios comunes para antenas de celular."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "query_id": "q008",
+  "query_text": "Rescisión de la compraventa de un bien raíz por lesión enorme y el justo precio",
+  "notas": "Compraventa de bienes raíces. Query MÁS valiosa del set para la tesis. 'lesión enorme' aparece literal en solo 9 chunks del corpus (concepto civil puro, poco cubierto por un corpus tributario). Pool 45 chunks; distribución 5/5/13/22 (sesgada a g0). Discrimina fuertísimo en el eje BM25 vs SPLADE: las tres BM25 ganan con 2.40 mientras SPLADE rinde 1.20 (la mitad) — el término jurídico raro premia el match léxico exacto sobre Código Civil/Comercio y SPLADE deriva al ruido tributario. Ganadora top-10 mean_grade: p1_bm25 (2.40), empatada con p2/p3_bm25 (2.40). 0 correcciones manuales (gemini-2.5-flash-lite). Ver q008_analisis.md."
+}

@@ -1,0 +1,308 @@
+{
+  "query_id": "q008",
+  "query_text": "Rescisión de la compraventa de un bien raíz por lesión enorme y el justo precio",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:08Z",
+  "judgments": [
+    {
+      "chunk_uuid": "1b59d97c-e1ac-51a9-a492-aed60d815417",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la enajenación de bienes raíces, no sobre la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "3cd65119-8aaf-528c-b212-943cbb6635a8",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la resciliación de una compraventa de inmueble y sus efectos tributarios, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "dfb060b4-9c25-5e3d-b544-b3f21c9f9cbd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de la enajenación de bienes raíces y la habitualidad, no en la rescisión por lesión."
+    },
+    {
+      "chunk_uuid": "99204f8e-b600-58c2-9f5f-f141a1683b8c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la tributación de la venta de un bien raíz en el contexto de un leasing, no la rescisión por lesión."
+    },
+    {
+      "chunk_uuid": "1fe12728-2dab-5ff5-bcf6-1754953c0c88",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación del IVA en ventas de artesanías, irrelevante para la consulta sobre rescisión de compraventa."
+    },
+    {
+      "chunk_uuid": "d82edf50-020a-5ba6-afd6-432ef03a7c47",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la rescisión del contrato por pérdida o enajenación de la cosa, pero no la lesión enorme."
+    },
+    {
+      "chunk_uuid": "21754291-d8f0-52ca-8494-35529543035c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el concepto de 'comercio justo' y su tributación, no sobre la lesión enorme en compraventas."
+    },
+    {
+      "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de la cesión de promesas de compraventa, no en la lesión enorme."
+    },
+    {
+      "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la tributación de la cesión de usufructo y no aborda la lesión enorme en compraventas."
+    },
+    {
+      "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+      "relevance_grade": 3,
+      "justification": "Este artículo define el derecho del comprador y vendedor a completar el justo precio o restituir el exceso."
+    },
+    {
+      "chunk_uuid": "ae5e8e4b-007e-5dd6-9522-568e4e0d8610",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la renta presunta de bienes raíces agrícolas y su proporcionalidad temporal, no sobre la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+      "relevance_grade": 3,
+      "justification": "Este fragmento cita directamente el artículo que permite la rescisión de la compraventa por lesión enorme, siendo altamente relevante."
+    },
+    {
+      "chunk_uuid": "c6e718d1-08c3-5755-ac37-87aac5ef125e",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la tributación de la enajenación de bienes raíces y la habitualidad, tangencialmente relacionado con el precio, pero no la lesión enorme."
+    },
+    {
+      "chunk_uuid": "d99fe2b0-2372-5f83-bef2-4ddb6230eeec",
+      "relevance_grade": 0,
+      "justification": "Este documento se enfoca en la emisión de facturas de compra y requisitos tributarios, sin relación con la rescisión por lesión."
+    },
+    {
+      "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda la presunción de habitualidad en la enajenación de bienes raíces y el cómputo de plazos, no la lesión enorme."
+    },
+    {
+      "chunk_uuid": "b911c68b-7b22-5cb1-8497-f4699740fec6",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el precio en la compraventa, pero no aborda la lesión enorme ni el justo precio."
+    },
+    {
+      "chunk_uuid": "d9601601-662a-5480-b07a-591bf22c1c33",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la tributación de la división de sociedades y la tasación de bienes, tangencialmente relacionado con el valor de los bienes."
+    },
+    {
+      "chunk_uuid": "a5267be7-91e7-524b-adfe-8c72384a0f0e",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la tributación de la enajenación de bienes raíces a sociedades, sin relación con la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "26467ad0-4e36-54a3-8014-9f83fbfeae04",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda la tributación de la enajenación habitual y no habitual de bienes raíces, sin relación con la lesión enorme."
+    },
+    {
+      "chunk_uuid": "7cec0fb8-024c-5e24-914b-f5a0a17f68ad",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a la fijación del precio en la compraventa de acciones y su costo tributario, no a la lesión enorme."
+    },
+    {
+      "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la depreciación de bienes raíces en comunidad y no aborda la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "c29e489f-2c52-5e47-8179-15a83602239c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la adquisición de dominio por prescripción y la tributación de la enajenación de bienes raíces, pero no la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "5fad63cf-12cc-5938-bc01-92a1382ff845",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la mercantilidad de comisiones y su tributación, sin relación con la rescisión de compraventa por lesión enorme."
+    },
+    {
+      "chunk_uuid": "f670c198-4c7c-570b-b2df-1014fcb72da4",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda permutas y ventas de bienes fiscales y municipales, pero no la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el reconocimiento de menores ingresos por descuentos en compraventas, no sobre la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "f7afe80b-fd34-56d0-b006-47c2a9db7667",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la limitación de responsabilidad del armador en el comercio marítimo, lo cual es irrelevante para la consulta."
+    },
+    {
+      "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la lesión enorme en la compraventa, tanto para el vendedor como para el comprador, y el concepto de justo precio."
+    },
+    {
+      "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la adquisición y enajenación de bienes raíces y la indemnización por expropiación, pero no la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "cea56810-2e95-58c7-af34-67783fe282db",
+      "relevance_grade": 1,
+      "justification": "Esta jurisprudencia trata sobre impuestos y la adquisición de un bien raíz mediante estipulación a favor de tercero, no sobre rescisión por lesión."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el tratamiento tributario de contratos de arrendamiento de bienes raíces, no en la rescisión de compraventas."
+    },
+    {
+      "chunk_uuid": "6c418c29-68d8-5996-8894-5915d31ce249",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de la enajenación de bienes raíces, pero no aborda la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "5927adaa-8bd4-53fa-97e4-475665c6721a",
+      "relevance_grade": 1,
+      "justification": "Aborda la tributación de la enajenación de bienes raíces y la habitualidad, pero no la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "ec899199-aca2-535c-8056-78aac709e591",
+      "relevance_grade": 1,
+      "justification": "Se enfoca en la tributación de la enajenación de bienes raíces y la habitualidad, sin mencionar la lesión enorme."
+    },
+    {
+      "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+      "relevance_grade": 3,
+      "justification": "Este fragmento menciona explícitamente la rescisión de la venta por lesión enorme y su no aplicabilidad en ciertos casos."
+    },
+    {
+      "chunk_uuid": "fb506268-4d71-5886-96bd-b1d4bada95cc",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el Impuesto al Valor Agregado y el comercio justo, sin relación con la consulta."
+    },
+    {
+      "chunk_uuid": "558dcc6e-df3d-56ea-92e2-649e8fdc617c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define el plazo de expiración de la acción rescisoria por lesión enorme."
+    },
+    {
+      "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la enajenación de bienes raíces, no sobre la rescisión por lesión."
+    },
+    {
+      "chunk_uuid": "f5d25f7e-aaf1-5383-b612-94e9df26b1a5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento establece las exclusiones de la acción rescisoria por lesión enorme, como bienes muebles."
+    },
+    {
+      "chunk_uuid": "fe3692ac-76a9-5a35-8f56-b0b23e61a703",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la imposibilidad de renunciar a la acción rescisoria por lesión enorme."
+    },
+    {
+      "chunk_uuid": "54ea4ae3-c1e4-5e25-b61e-df45680d27d9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de la enajenación de bienes raíces, no en la lesión."
+    },
+    {
+      "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la habitualidad en la venta de bienes raíces y la fecha de adquisición, tangencialmente relacionado con la compraventa."
+    },
+    {
+      "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla un sistema de ahorro para arrendamiento con promesa de compraventa, sin relación con la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+      "relevance_grade": 2,
+      "justification": "Este fragmento establece que no hay rescisión por lesión enorme en contratos mercantiles, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "bccdaac2-7f7d-564c-ad17-6d2621f8c29c",
+      "relevance_grade": 3,
+      "justification": "Este fragmento cita el Código Civil indicando que compete la acción de lesión enorme en casos de compraventa."
+    },
+    {
+      "chunk_uuid": "36955501-3850-509d-9d21-660316f9bf01",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre plazos de habitualidad en la venta de bienes raíces, no sobre la rescisión por lesión."
+    },
+    {
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la interpretación de 'adquisición' y 'enajenación' para efectos tributarios, no en la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "516a27f4-3c32-5b1e-8280-443d4927affa",
+      "relevance_grade": 2,
+      "justification": "Aborda la resciliación de contratos de compraventa de bienes raíces y sus efectos, pero no menciona la lesión enorme."
+    },
+    {
+      "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+      "relevance_grade": 0,
+      "justification": "Trata sobre la compraventa de un bien raíz y la acreditación del pago, pero no aborda la rescisión por lesión enorme."
+    },
+    {
+      "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+      "relevance_grade": 0,
+      "justification": "Discute operaciones de leasing y tasación de inmuebles para efectos tributarios, sin relación con la lesión enorme."
+    },
+    {
+      "chunk_uuid": "8089c3b1-e309-5330-a73f-b8f84cc95633",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda la resciliación de compraventas de inmuebles y sus efectos tributarios, tocando el concepto de incremento patrimonial."
+    },
+    {
+      "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute la aplicación de normas transitorias a la resciliación de compraventas de inmuebles y su fundamento legal."
+    },
+    {
+      "chunk_uuid": "0840c907-f4e2-54f5-a284-a6d1bdafcc99",
+      "relevance_grade": 2,
+      "justification": "Este oficio concluye que la resciliación de un contrato de compraventa de inmueble constituye una nueva enajenación para efectos tributarios."
+    },
+    {
+      "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+      "relevance_grade": 1,
+      "justification": "El texto menciona la resciliación de contratos de promesa de compraventa y su tratamiento tributario, pero no aborda la lesión enorme."
+    },
+    {
+      "chunk_uuid": "764f14bb-c460-5ebb-b5ad-4e3c0f5ddba2",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza la resciliación de contratos de venta de inmuebles con saldo pendiente y sus efectos tributarios, mencionando el Código Civil."
+    },
+    {
+      "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la resciliación de compraventas de bienes raíces y su efecto en el IVA, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+      "relevance_grade": 2,
+      "justification": "Discute la facultad de tasación del SII sobre el precio de compraventa de inmuebles si es notoriamente inferior al valor comercial."
+    },
+    {
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "relevance_grade": 2,
+      "justification": "Explica la adquisición de dominio de bienes raíces mediante inscripción registral, relevante para la tradición y enajenación."
+    },
+    {
+      "chunk_uuid": "b21a81a0-7b2c-5e0a-b04a-1811fa72209c",
+      "relevance_grade": 1,
+      "justification": "Trata sobre los efectos tributarios de la resciliación de un contrato de compraventa de acciones, no de bienes raíces."
+    },
+    {
+      "chunk_uuid": "9c9ac67b-9212-58a9-812e-5815a58128b9",
+      "relevance_grade": 2,
+      "justification": "Explica que la 'resciliación' de la inscripción registral de un inmueble constituye un nuevo acto jurídico traslativo."
+    },
+    {
+      "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+      "relevance_grade": 2,
+      "justification": "El fragmento aborda la resciliación de compraventa de un bien raíz y sus efectos tributarios, pero no la lesión enorme."
+    }
+  ]
+}

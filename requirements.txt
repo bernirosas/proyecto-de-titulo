@@ -1,0 +1,25 @@
+qdrant-client>=1.12
+opensearch-py>=2.7
+tqdm>=4.66
+fastapi>=0.115
+uvicorn[standard]>=0.30
+orjson>=3.10
+
+# preprocesamiento (mismas deps que Vectorizacion/sparse-benchmark)
+scikit-learn>=1.4
+spacy>=3.7
+nltk>=3.9
+bm25s>=0.2
+
+# encoder SPLADE (torch se instala aparte en el Dockerfile, versión CPU)
+transformers>=4.40
+
+# Encoder fastembed para la baseline Qdrant BM25. Se usa en query-time para
+# codificar la consulta con el mismo Snowball Spanish + MurmurHash3 que el
+# cliente aplicó al indexar el corpus en Qdrant.
+fastembed>=0.4
+
+# LLM-as-a-judge (Gemini): se usa solamente desde scripts/benchmark/,
+# pero la dejamos en requirements.txt para que viva en la imagen Docker
+# y `docker compose run --rm` no requiera reinstalarla en cada corrida.
+google-generativeai>=0.8

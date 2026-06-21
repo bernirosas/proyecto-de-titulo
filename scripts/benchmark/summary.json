@@ -1,0 +1,45 @@
+{
+  "queries_evaluadas": 5,
+  "judgments_totales": 324,
+  "judgments_fallidos_parse": 0,
+  "distribucion_de_grados": {
+    "0": 190,
+    "1": 56,
+    "2": 61,
+    "3": 17
+  },
+  "distribucion_porcentual": {
+    "0": 58.6,
+    "1": 17.3,
+    "2": 18.8,
+    "3": 5.2
+  },
+  "porcentaje_relevantes_2_o_3": 24.1,
+  "por_query": {
+    "q001": {
+      "n_judgments": 104,
+      "grade_mean": 0.865,
+      "n_relevantes_2_o_3": 37
+    },
+    "q002": {
+      "n_judgments": 64,
+      "grade_mean": 0.562,
+      "n_relevantes_2_o_3": 7
+    },
+    "q003": {
+      "n_judgments": 56,
+      "grade_mean": 0.375,
+      "n_relevantes_2_o_3": 4
+    },
+    "q004": {
+      "n_judgments": 65,
+      "grade_mean": 0.492,
+      "n_relevantes_2_o_3": 11
+    },
+    "q005": {
+      "n_judgments": 35,
+      "grade_mean": 1.429,
+      "n_relevantes_2_o_3": 19
+    }
+  }
+}

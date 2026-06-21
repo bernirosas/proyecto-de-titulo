@@ -1,0 +1,1283 @@
+{
+  "query_id": "q008",
+  "query_text": "Rescisión de la compraventa de un bien raíz por lesión enorme y el justo precio",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 48.78134,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 37.275723,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+        "score": 33.904602,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 31.719608,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+        "score": 30.914095,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "558dcc6e-df3d-56ea-92e2-649e8fdc617c",
+        "score": 29.36784,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f5d25f7e-aaf1-5383-b612-94e9df26b1a5",
+        "score": 28.864847,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "bccdaac2-7f7d-564c-ad17-6d2621f8c29c",
+        "score": 28.845156,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "fe3692ac-76a9-5a35-8f56-b0b23e61a703",
+        "score": 28.579699,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d82edf50-020a-5ba6-afd6-432ef03a7c47",
+        "score": 23.400366,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 2.079773,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "99204f8e-b600-58c2-9f5f-f141a1683b8c",
+        "score": 1.8625488,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+        "score": 1.8565063,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+        "score": 1.8527222,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+        "score": 1.8496094,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "54ea4ae3-c1e4-5e25-b61e-df45680d27d9",
+        "score": 1.8425293,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+        "score": 1.8378906,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "cea56810-2e95-58c7-af34-67783fe282db",
+        "score": 1.8312988,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 1.809021,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1b59d97c-e1ac-51a9-a492-aed60d815417",
+        "score": 1.7802734,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 19.477987,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "5fad63cf-12cc-5938-bc01-92a1382ff845",
+        "score": 17.957582,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+        "score": 17.400875,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3cd65119-8aaf-528c-b212-943cbb6635a8",
+        "score": 17.261494,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 16.971863,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "f670c198-4c7c-570b-b2df-1014fcb72da4",
+        "score": 16.894938,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "1fe12728-2dab-5ff5-bcf6-1754953c0c88",
+        "score": 16.712011,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "d99fe2b0-2372-5f83-bef2-4ddb6230eeec",
+        "score": 16.70645,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "c29e489f-2c52-5e47-8179-15a83602239c",
+        "score": 16.696653,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d9601601-662a-5480-b07a-591bf22c1c33",
+        "score": 16.419607,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 43.865658,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 34.244225,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 30.179996,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+        "score": 28.514854,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+        "score": 27.326805,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "bccdaac2-7f7d-564c-ad17-6d2621f8c29c",
+        "score": 25.889902,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "558dcc6e-df3d-56ea-92e2-649e8fdc617c",
+        "score": 25.889902,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "f5d25f7e-aaf1-5383-b612-94e9df26b1a5",
+        "score": 25.889902,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "fe3692ac-76a9-5a35-8f56-b0b23e61a703",
+        "score": 25.606632,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d82edf50-020a-5ba6-afd6-432ef03a7c47",
+        "score": 22.611399,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 1.4287109,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 1.1582031,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 0.89624023,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "fb506268-4d71-5886-96bd-b1d4bada95cc",
+        "score": 0.81689453,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "21754291-d8f0-52ca-8494-35529543035c",
+        "score": 0.80908203,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+        "score": 0.7661133,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7cec0fb8-024c-5e24-914b-f5a0a17f68ad",
+        "score": 0.75878906,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+        "score": 0.74560547,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b911c68b-7b22-5cb1-8497-f4699740fec6",
+        "score": 0.7060547,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+        "score": 0.68408203,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 41.7789,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 32.63955,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+        "score": 29.862871,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 28.70752,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "f5d25f7e-aaf1-5383-b612-94e9df26b1a5",
+        "score": 26.66219,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+        "score": 26.64027,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "bccdaac2-7f7d-564c-ad17-6d2621f8c29c",
+        "score": 25.23442,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "558dcc6e-df3d-56ea-92e2-649e8fdc617c",
+        "score": 25.23442,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "fe3692ac-76a9-5a35-8f56-b0b23e61a703",
+        "score": 24.657528,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d82edf50-020a-5ba6-afd6-432ef03a7c47",
+        "score": 21.206976,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 1.5422363,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 1.3232422,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 1.0041504,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+        "score": 0.9433594,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "21754291-d8f0-52ca-8494-35529543035c",
+        "score": 0.9226074,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fb506268-4d71-5886-96bd-b1d4bada95cc",
+        "score": 0.89416504,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ae5e8e4b-007e-5dd6-9522-568e4e0d8610",
+        "score": 0.84472656,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+        "score": 0.8388672,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+        "score": 0.815979,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f5d25f7e-aaf1-5383-b612-94e9df26b1a5",
+        "score": 0.8129883,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 15.300781,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "99204f8e-b600-58c2-9f5f-f141a1683b8c",
+        "score": 15.019531,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+        "score": 14.810547,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "516a27f4-3c32-5b1e-8280-443d4927affa",
+        "score": 14.652344,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+        "score": 14.636719,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+        "score": 14.628906,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+        "score": 14.5859375,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "cea56810-2e95-58c7-af34-67783fe282db",
+        "score": 14.582031,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+        "score": 14.4296875,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 14.4140625,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+        "score": 0.02738970588235294,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+        "score": 0.026767330130404943,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "764f14bb-c460-5ebb-b5ad-4e3c0f5ddba2",
+        "score": 0.026387470207694927,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "516a27f4-3c32-5b1e-8280-443d4927affa",
+        "score": 0.025794938351719664,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+        "score": 0.024695121951219513,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 0.02388888888888889,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0840c907-f4e2-54f5-a284-a6d1bdafcc99",
+        "score": 0.02285930790603688,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+        "score": 0.022431077694235586,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 9
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.023739701159056,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "99204f8e-b600-58c2-9f5f-f141a1683b8c",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+        "score": 0.015625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+        "score": 0.015384615384615385,
+        "rank": 6
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "3cd65119-8aaf-528c-b212-943cbb6635a8",
+        "score": 0.03149801587301587,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "8089c3b1-e309-5330-a73f-b8f84cc95633",
+        "score": 0.02690501986276634,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+        "score": 0.026234567901234566,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "9c9ac67b-9212-58a9-812e-5815a58128b9",
+        "score": 0.02429667519181586,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+        "score": 0.01869812145041503,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+        "score": 0.01639344262295082,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "5fad63cf-12cc-5938-bc01-92a1382ff845",
+        "score": 0.016129032258064516,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+        "score": 0.015873015873015872,
+        "rank": 8
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+        "score": 0.027119252873563218,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+        "score": 0.02454080096356519,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "8089c3b1-e309-5330-a73f-b8f84cc95633",
+        "score": 0.024185517143263623,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+        "score": 0.023369565217391305,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+        "score": 0.020730397422126744,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 0.016129032258064516,
+        "rank": 7
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+        "score": 0.026263297872340427,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+        "score": 0.026234567901234566,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+        "score": 0.025388291517323774,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+        "score": 0.0226010101010101,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.022517394054395953,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "b21a81a0-7b2c-5e0a-b04a-1811fa72209c",
+        "score": 0.022048192771084336,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 0.016129032258064516,
+        "rank": 8
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+        "score": 0.028125,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+        "score": 0.026767330130404943,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "764f14bb-c460-5ebb-b5ad-4e3c0f5ddba2",
+        "score": 0.02664576802507837,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "516a27f4-3c32-5b1e-8280-443d4927affa",
+        "score": 0.025451688923802042,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+        "score": 0.025158227848101268,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 0.02398989898989899,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0840c907-f4e2-54f5-a284-a6d1bdafcc99",
+        "score": 0.023414503612523417,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+        "score": 0.022574508560558024,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.02001194743130227,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+        "score": 0.02928692699490662,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0840c907-f4e2-54f5-a284-a6d1bdafcc99",
+        "score": 0.024502524502524506,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+        "score": 0.024393871783430016,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.021390986044383435,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b21a81a0-7b2c-5e0a-b04a-1811fa72209c",
+        "score": 0.019523809523809527,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+        "score": 0.016129032258064516,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+        "score": 0.015873015873015872,
+        "rank": 8
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "516a27f4-3c32-5b1e-8280-443d4927affa",
+        "score": 0.03055037313432836,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+        "score": 0.029709507042253523,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "764f14bb-c460-5ebb-b5ad-4e3c0f5ddba2",
+        "score": 0.028309409888357256,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+        "score": 0.027425373134328357,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+        "score": 0.026129032258064518,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+        "score": 0.025910931174089068,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+        "score": 0.025332691999358666,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+        "score": 0.025252525252525252,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+        "score": 0.01639344262295082,
+        "rank": 9
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 8.4,
+    "p1_tfidf": 11.7,
+    "p1_splade": 92.8,
+    "p2_bm25": 6.5,
+    "p2_tfidf": 8.4,
+    "p3_bm25": 5.0,
+    "p3_tfidf": 5.4,
+    "baseline_qdrant_bm25": 12.0,
+    "rrf_p1_bm25": 59.0,
+    "rrf_p1_tfidf": 66.8,
+    "rrf_p1_splade": 227.1,
+    "rrf_p2_bm25": 129.9,
+    "rrf_p2_tfidf": 140.6,
+    "rrf_p3_bm25": 65.3,
+    "rrf_p3_tfidf": 59.6,
+    "rrf_baseline_qdrant_bm25": 73.2
+  },
+  "pool": [
+    {
+      "name": "Oficio N°116 (13/01/2006)",
+      "source_type": "oficio",
+      "source": "Oficio N°116 (13/01/2006)",
+      "document_id": "18656919-25dd-58bd-a977-5a82be77bf78",
+      "chunk_uuid": "c29e489f-2c52-5e47-8179-15a83602239c",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1076.htm",
+      "content": "1° un sistema especial de adquisición de\ndominio para poseedores materiales de bienes raíces rurales o urbanos, cuyo avalúo fiscal para el pago del\nimpuesto territorial sea inferior a ochocientas o a trescientas ochenta unidades tributarias, respectivamente,\nque carezcan de título inscrito, pudiendo solicitar de la Dirección de Tierras y Bienes Nacionales que se les\nreconozca la calidad de poseedores regulares de dichos bienes a fin de quedar habilitados para adquirir su\ndominio por prescripción, de acuerdo con el procedimiento establecido en dicho Decreto Ley.\nAhora bien, el artículo 15 del citado texto legal dispone en su inciso 2° y 3° lo siguiente:\n”La resolución del Servicio que acoja la solicitud se considerará como justo título. Una vez practicada su\ninscripción en el Registro del Conservador de Bienes Raíces, el interesado adquirirá la calidad de poseedor\nregular del inmueble para todos los efectos legales, aunque existieren en favor de otras personas\ninscripciones que no hubieran sido materialmente canceladas.\nTranscurrido un año completo de posesión inscrita no interrumpida, contado desde la fecha de la inscripción\ndel interesado se hará dueño del inmueble por prescripción, la que no se suspenderá en caso alguno”.\n3.- Ahora bien, de acuerdo a lo dispuesto por la letra b) del Nº 8 del artículo 17 de la Ley de la Renta, en\nconcordancia con lo señalado por el artículo 18 de la misma ley, no constituye renta el mayor valor, incluido\nel reajuste del saldo de precio, obtenido en la enajenación no habitual de bienes raíces, excepto respecto de\naquellos que forman parte del activo de empresas que declaren su renta efectiva en la Primera Categoría.\nPor su parte, el artículo 18 de la citada ley, dispone en su inciso tercero que se presumirá de derecho que\nexiste habitualidad en los casos de subdivisión de terrenos urbanos o rurales y en la venta de edificios por\npisos o departamentos, siempre que la enajenación se produzca dentro de los cuatro años siguientes a la\nadquisición o construcción, en su caso. Agrega la referida norma, que en todos los demás casos se\npresumirá la habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación\ntranscurra un plazo inferior a un año.\n\n\nFinalmente, el inciso cuarto del Nº 8 del artículo 17 de la Ley de la Renta establece que tratándose del mayor\nvalor obtenido en las enajenaciones referidas en las letras a), b), c), d), h), i), j) y k), en las cuales se\ncomprenden los bienes raíces, que hagan los socios de sociedades de personas o accionistas de\nsociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% o más de\nlas acciones, con la empresa o sociedad respectiva o en las que tengan intereses, se aplicará lo dispuesto\nen el inciso segundo de este número, gravándose en todo caso el mayor valor que exceda del valor de\nadquisición, reajustado, con los impuestos de Primera Categoría, Global Complementario o Adicional, según\ncorresponda.\n4.- De lo establecido por las normas legales antes citadas, se desprende claramente que existen tres\nsituaciones en las cuales el mayor valor obtenido en la enajenación de bienes raíces, queda afecto a la\ntributación general que contempla la Ley de la Renta, a saber: a) cuando la operación represente el\nresultado de negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose que\nexiste habitualidad en las situaciones previstas por el inciso tercero del artículo 18 de la ley, señaladas\nanteriormente; b) cuando se trate de la enajenación de bienes raíces que formen parte del activo de\nempresas que declaren su renta efectiva en la Primera Categoría, bastando para la aplicación de esta\nnormativa que los citados bienes integren"
+    },
+    {
+      "name": "Oficio N°127 (22/01/2013)",
+      "source_type": "oficio",
+      "source": "Oficio N°127 (22/01/2013)",
+      "document_id": "1f9b37a4-b2fe-5420-a710-cabbdb2b6341",
+      "chunk_uuid": "1fe12728-2dab-5ff5-bcf6-1754953c0c88",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2013/ventas/ja127.htm",
+      "content": "uras de compra amparadas por la Res. Ex. N° 551, de 1975,\nsólo procede cuando la venta de bienes de escaso valor unitario es efectuada por personas que no se\ndedican en forma habitual a ello.\nEn cambio, en el caso bajo análisis, los internos que trabajan en el taller artesanal del CET, son personas\nque en ejercicio del derecho que les otorga el Art. 63°, del Decreto N° 943, del Ministerio de Justicia,\nmanufacturan diversas artesanías con materiales propios cuyo objeto es comercializarlas directamente al\npúblico, sin perjuicio del apoyo en la difusión y comercialización que Gendarmería pueda otorgarles,\nconstituyéndose por lo tanto en vendedores habituales de dichos bienes, requisito que otorga a la operación\nel carácter de hecho gravado con Impuesto al Valor Agregado, en conformidad a lo dispuesto en el Art. 2°, N°\n1, del D.L. N° 825. En atención a ello, no resulta aplicable en este caso la Res. Ex. N° 551, de 1975.\nPor otra parte y sin perjuicio de lo anterior, atendiendo a lo difícil que les resulta el cumplimiento de sus\nobligaciones tributarias, en lo que dice relación con la emisión de documentos y pago del Impuesto al Valor\nAgregado, este Servicio presume respecto de los artesanos, que son contribuyentes de difícil fiscalización,\nen la medida que se trate de personas naturales, que por cualquier causa no emitan sus propias facturas de\nventa. En atención a ello, mediante Res. Ex. N° 1496, de 31/12/1976, se dispuso el cambio de sujeto del IVA\nal adquirente, en las transferencias que estos contribuyentes de difícil fiscalización, que no emitan facturas,\n\n\nrealicen a comerciantes o industriales establecidos, a cooperativas o a empresas del Estado, semifiscales o\nde administración autónoma.\nAhora bien, según lo manifestado en antecedentes adjuntos a la presentación del contribuyente, los internos\nartesanos que trabajan en el taller, elaboran los productos y luego los entregan en consignación para su\nventa al CET, quien sólo es el intermediario para comercializarlos al público en general, no existiendo venta\nde productos entre los internos y el CET, de forma tal que aun cuando los internos cumplen los requisitos\npara ser considerados tributariamente contribuyentes de difícil fiscalización no procede tampoco la emisión\nde facturas de compra de aquellas dispuestas en la Res. Ex. N° 1496, por parte del Centro de Educación y\nTrabajo, pues éste no es el adquirente de los productos elaborados por aquellos.\nAsí las cosas, lo que corresponde en este caso es aplicar lo dispuesto en los artículos 22° y 73°, del Decreto\nSupremo de Hacienda N° 55 , de 1977, Reglamento del D.L. N° 825, de 1974, en que se instruye la forma de\noperar cuando se realizan ventas de bienes por cuenta de un tercero.\nDe este modo y tal como señala el mencionado Art. 22°, el mandatario es tributariamente responsable sólo\ndel Impuesto al Valor Agregado correspondiente a la comisión cobrada por efectuar el encargo, siempre que\nexista un cobro por tal concepto. Por su parte, el inciso final del mencionado artículo sindica al mandante\ncomo responsable y sujeto del impuesto respecto del IVA recargado en la venta de los bienes.\nPara tal efecto, esto es que el mandante cumpla con su obligación tributaria, el mandatario debe emitir a su\nmandante, dentro de cada período tributario, a lo menos una liquidación donde se informen las ventas\nefectuadas por su cuenta y el Impuesto al Valor Agregado recargado en dichas operaciones, tal como\ndispone el Art. 73°, del D.S. de Hacienda N° 55.\nPor lo tanto, en el caso bajo análisis, cuando el CET venda al público los productos entregados en\nconsignación por los internos, deberá emitir una boleta o factura propia, según corresponda, registrando en\nella el nombre de su"
+    },
+    {
+      "name": "Oficio N°4176 (17/11/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°4176 (17/11/1999)",
+      "document_id": "c99f770b-1912-5cf3-91f9-29ddaa070bc3",
+      "chunk_uuid": "33d8a8d1-5781-5d67-a534-5cffdb363de1",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.htm",
+      "content": " el precio de la compraventa y por lo tanto si se devenga el impuesto a la renta.\n2.- Sobre el particular, y en relación a la primera consulta formulada en cuanto a la oportunidad\nen que debe entenderse verificada la adquisición y enajenación de un bien raíz, esta\ncircunstancia se da cuando el inmueble respectivo se encuentra inscrito en el Registro de\nPropiedad del Conservador de Bienes Raíces.\n3.- En cuanto a precisar si el pago de una indemnización en el caso de la expropiación de un\nbien raíz constituye la indemnización de un daño emergente, susceptible de calificarse en el\nartículo 17 Nº 1 de la Ley de la Renta, como un ingreso no constitutivo de renta, cabe tener\npresente que la legislación vigente considera como una indemnización el pago destinado a\nresarcir el valor del bien expropiado.\nEn efecto, el artículo 19 Nº 24, inciso tercero, de la Constitución Política del Estado señala que\nel expropiado tendrá siempre derecho a indemnización por el daño patrimonial efectivamente\ncausado. Asimismo, la Ley Orgánica de Procedimiento de Expropiaciones aprobada por el D.L.\n\n\nNº 2.186 de 1978, define en su artículo 38º el concepto de \"indemnización\" como la reparación\ndel daño patrimonial efectivamente causado con la expropiación y que sea una consecuencia\ndirecta e inmediata de la misma.\nDe este modo, la indemnización destinada a resarcir el valor del bien expropiado,\nreemplazándolo por otro de monto equivalente, con el objeto de evitar un menoscabo en el\npatrimonio del expropiado, sin acrecentarlo, constituiría la indemnización de un daño\nemergente. Con todo, en principio dicha indemnización podría comprender el lucro cesante,\npero ello debería constar del propio fallo o resolución que fija la indemnización.\nLo anterior, sin perjuicio de lo dispuesto en el inciso segundo del número 1º del artículo 17 de la\nLey de la Renta, respecto de los bienes incorporados al giro de un negocio, empresa o\nactividad, cuyas rentas efectivas deban tributar con el impuesto de Primera Categoría.\n4.- Finalmente, respecto de la procedencia de la aplicación de la norma contenida en el inciso\ntercero del artículo 18 de la Ley de la Renta al caso de la enajenación de un bien raíz por efecto\nde una expropiación, cuando entre su fecha de adquisición y la fecha de enajenación por\nexpropiación ha transcurrido menos de un año, se estima que la apreciación del concepto de\nhabitualidad que en ella se contiene debe entenderse asociada a la intención, necesidad o\nmotivo que se tuvo al enajenar el bien, lo que hace suponer la existencia de un acto voluntario\ndel vendedor, presupuesto que excluiría de su ámbito de aplicación a las enajenaciones\noriginadas en la expropiación de un inmueble por parte del Estado, en que no concurre el acto\nvoluntario de enajenar el bien, no siendo, en consecuencia, aplicable dicha normativa al caso en\nanálisis.\n \n                                                                                    JAVIER ETCHEBERRY CELHAY\n                                                                                                      DIRECTOR\n  \nOficio Nº 4.176, del 17.11.1999\nSubdirección Normativa\nDepto. Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°1269 (11/06/2013)",
+      "source_type": "oficio",
+      "source": "Oficio N°1269 (11/06/2013)",
+      "document_id": "00e2dce5-00f9-5471-be22-679c3aeb2152",
+      "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2013/renta/ja1269.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2013\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 18°, N°3 y OFICIOS N° 2398, DE 2011 Y N°\n209, DE 2012. (ORD. N° 1269, DE 11.06.2013)\nPRESUNCIÓN DE HABITUALIDAD EN LA ENAJENACIÓN DE UN BIEN RAÍZ, CONFORME A LO\nDISPUESTO EN EL INCISO 3°, DEL ARTÍCULO 18 DE LA LEY SOBRE IMPUESTO A LA RENTA.\nSe ha solicitado un pronunciamiento sobre la aplicación de la presunción de habitualidad en la enajenación\nde bien raíz.\nI.- ANTECEDENTES.\nSeñala que durante el año 2010, participó en una subasta pública en procedimiento de remate de un bien\nraíz, suscribiendo el acta correspondiente, habiendo consignado a orden del mismo Tribunal el saldo de\nprecio dentro del plazo establecido.\nAgrega que en relación a esta materia se ha interpuesto un incidente de nulidad por falta de emplazamiento,\ny posteriormente, se han presentado recursos de apelación, de queja, un recurso de inaplicabilidad por\ninconstitucionalidad y de casación en la forma y fondo, por lo que la propiedad no ha podido ser inscrita a su\nnombre en el Conservador de Bienes Raíces, por razones ajenas a su voluntad.\nIndica que una vez resueltos estos recursos e inscrita la propiedad a su nombre, planea vender el bien raíz,\npor lo que solicita se confirme que desde la fecha del remate de la propiedad y su venta habrá transcurrido\nmás de un año, para los efectos de lo previsto en el artículo 17 N° 8 y 18 de la LIR, aún cuando no haya sido\ninscrito en el Conservador de Bienes Raíces.\nII.- ANÁLISIS.\nEste Servicio a través de varios pronunciamientos emitidos con anterioridad , ha señalado la oportunidad en\nque se entiende adquirido el dominio para los efectos del cómputo de la presunción de habitualidad\nestablecida en la última parte del inciso 3°, del artículo 18° de la LIR, precisando que al no existir en el\nordenamiento jurídico un concepto específico para efectos tributarios, dicha expresión debe entenderse en el\nsentido que le confiere el derecho común.\nPor tanto, para efectos de establecer si entre las fechas de adquisición y enajenación del bien raíz ha\ntranscurrido un plazo inferior a un año, debe considerarse las fechas de inscripciones de los títulos en el\nRegistro de Propiedad del Conservador de Bienes Raíces de que se trate.\nEsta regla también es aplicable al caso en consulta, en que el título de la adquisición del bien raíz, conforme\nse desprende del artículo 497 del Código de Procedimiento Civil, es la escritura definitiva de compraventa,\nsuscrita por el rematante y por el juez como representante legal del vendedor, título que se debe inscribir en\nel respectivo Registro del Conservador de Bienes Raíces.\nIII.- CONCLUSIÓN.\nPara los efectos del cómputo del plazo de un año establecido en el inciso 3°, del artículo 18 de la LIR, se\ndebe considerar la fecha de la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces,\ndel título que da cuenta de la adquisición y posterior enajenación del bien raíz.\nPor consiguiente, en el caso que se analiza, el inicio del cómputo del plazo para la aplicación de la\npresunción legal de habitualidad que establece dicha norma, se cuenta desde la fecha de la referida\ninscripción.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 1269, de 11.06.2013\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Artículo 1888 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "5ef82020-9b0d-504d-8796-dc17aa42d71a",
+      "chunk_uuid": "aafc8923-07ad-5de6-a4d3-d6c49ce31627",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719902",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1888 (DEL ART. 2)|Art. 1888. El contrato de compraventa podrá rescindirse por lesión enorme."
+    },
+    {
+      "name": "Oficio N°1037 (23/04/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1037 (23/04/2021)",
+      "document_id": "2ea67b44-f05c-5026-be2a-17e9154264a6",
+      "chunk_uuid": "8089c3b1-e309-5330-a73f-b8f84cc95633",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1037-23%2F04%2F2021.pdf&extension=pdf&acc=download&id=2c9bdc6c-ea5b-4e11-b081-7536ab319b8e&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 – CÓDIGO CIVIL, ART. 1567 \n(ORD. N° 1037 DE 23.04.2021). \n \nSolicita pronunciamiento sobre el efecto tributario de la resciliación de una compraventa de \ninmueble. \nSe ha solicitado a este Servicio un pronunciamiento sobre el efecto tributario de la resciliación de una \ncompraventa conforme a la Ley sobre Impuesto a la Renta. \nI \nANTECEDENTES \n \nDe acuerdo con su presentación, durante el año comercial 2015 un contribuyente enajenó un inmueble a \nun tercero relacionado1, acordando un precio pagadero en 10 cuotas sucesivas anuales, la primera dentro \ndel plazo que vencía el 31 de diciembre de 2016. \nEl inmueble fue debidamente inscrito a nombre del comprador en el Registro de Propiedad del \nConservador de Bienes Raíces respectivo. \nDurante julio de 2017, sin haber percibido el pago que correspondía al 31 de diciembre de 2016 (ni de \nninguna de las demás cuotas del precio), se acordó resciliar la compraventa. \nMediante un procedimiento de fiscalización se emitieron liquidaciones por los impuestos \ncorrespondientes a las rentas obtenidas en la enajenación del inmueble. Al respecto, el contribuyente \ninterpuso una reposición administrativa voluntaria en contra de dichas liquidaciones, la cual se rechazó2. \nTras citar y analizar la jurisprudencia de este Servicio sobre los efectos tributarios de una resciliación3, \nindica que no habría un incremento patrimonial, toda vez que no se percibió pago alguno del precio, \nhabiéndose retrotraído los efectos de la compraventa con motivo de la resciliación celebrada, por lo que \nno se generó impuesto alguno. \nEn este sentido, considera que el tratamiento a propósito de la Ley sobre Impuesto a las Ventas y \nServicios (en adelante, “LIVS”) debiese ser consistente con el tratamiento de la Ley sobre Impuesto a la \nRenta (LIR), exponiendo que el artículo 21, N° 2, de la LIVS y la Circular N° 26 de 1987 permiten a las \nconstructoras e inmobiliarias disminuir de su débito fiscal las sumas restituidas por contratos de venta o \narrendamiento con opción de compra de inmuebles que quedaron sin efecto por resciliación. \nLuego, solicita se ratificar que: \n1) \nLa resciliación extingue obligaciones no cumplidas, en el caso de la consulta, la totalidad del precio \npactado en la compraventa; \n2) \nAl no haber existido pago de las obligaciones y, por tanto, no existir incremento patrimonial alguno \npara el contribuyente, la resciliación extingue la obligación de pagar impuesto a la renta4; \n3) \nQue, a pesar de la resciliación, no se puede desconocer que con la compraventa hubo un traspaso \ndel predio desde un patrimonio a otro. Por lo tanto, en caso de una futura venta del predio se debe \nconsiderar como fecha de adquisición la fecha del contrato de resciliación5; y, \n4) \nQue la argumentación del fiscalizador en cuanto a que la extinción de la obligación tributaria \nprimitiva producto de la resciliación afecta los derechos del Fisco, se contradice con los Oficios N° \n3284 de 2009 y N° 3005 de 2012, así como con el tratamiento frente a la LIVS y la LIR de las \nresciliaciones que realizan las inmobiliarias y constructoras. \nPara el caso en que no se accediese a lo antes requerido, solicita un pronunciamiento en el sentido de \nque la resciliación efectuada corresponde, realmente, a una resolución, por lo que sus efectos se \nretrotraerían a la situación anterior a la compraventa, de manera que nunca se habría producido hecho \ngravado alguno."
+    },
+    {
+      "name": "Oficio N°1482 (29/03/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°1482 (29/03/2004)",
+      "document_id": "ee1e3e00-419a-5ee1-af36-d71653c45546",
+      "chunk_uuid": "d9601601-662a-5480-b07a-591bf22c1c33",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/otras/ja708.htm",
+      "content": " no existe propiamente una transferencia o transmisión de bienes sino que se\ntrata de una especificación de derechos preexistentes, los cuales -en virtud de la decisión societaria- quedan\nradicados en una entidad jurídica independiente.\n3.- Ahora bien, en relación a la radicación del usufructo de un bien raíz por cinco años en la sociedad\ncontinuadora, adjudicándose la nuda propiedad en la sociedad que surge de la división, este Servicio debe\nhacer presente que el artículo 94° de la Ley de Sociedades Anónimas define la división de una sociedad\ncomo la distribución de su patrimonio entre sí y una o más sociedades anónimas que se constituyan al\nefecto, correspondiéndole a los accionistas de la sociedad dividida, la misma proporción en el capital de\ncada una de las nuevas sociedades que aquella que poseían en la sociedad que se divide.\nPor lo tanto, como en toda división de sociedades, al momento de acordarse la escisión de la sociedad de\nresponsabilidad limitada se fijarán o determinarán los activos y pasivos de la sociedad que se divide, así\ncomo el valor tributario que estos tienen, para posteriormente ser divididos estos activos y pasivos entre las\nsociedades resultantes de la división. Si éstos son registrados al mismo valor tributario que tenían en la\nescindida, les será aplicable a las resultantes de la división el inciso cuarto del artículo 64° del Código\nTributario, que impide a este Servicio ejercer la facultad de tasar establecida en los primeros tres incisos de\ndicho artículo.\n4.- En la especie ocurre que en la sociedad a dividir se encuentra registrado como activo, entre otros, un\nbien raíz, es decir un bien corporal inmueble; y se pretende que luego de la división en la entidad\ncontinuadora se registre un derecho real de usufructo y en la resultante de la división se registre la nuda\npropiedad del citado inmueble.\n\n\nAsí las cosas, en el caso que resulte jurídicamente procedente en el acto de la división constituir un\nusufructo en los términos expuestos, no es posible aplicar a esta figura el artículo 64° inciso cuarto del\nCódigo Tributario porque al momento de la escisión social, el activo registrado a un determinado costo\ntributario es un bien raíz, esencialmente corporal, y no un derecho de nuda propiedad separado del derecho\nde usufructo.\n5.- Atendido lo expuesto precedentemente, el criterio del recurrente que en el caso citado pretende dividir el\nvalor libro tributario del bien entre lo que corresponde al usufructo y a la nuda propiedad según las normas\nde la Ley N°16.271 del Impuesto de Herencia, Asignaciones y Donaciones, será procedente solamente si los\nvalores asignados corresponden a los corrientes en plaza o a los que normalmente se cobran en\nconvenciones de similar naturaleza considerando las circunstancias en las que se realiza la operación, de\nconformidad al artículo 64° inciso tercero del Código Tributario. De lo contrario, este Servicio podrá hacer\nuso de la facultad de tasar contenida en el artículo recién citado.\nJUAN TORO RIVERA\nDIRECTOR\nOficio N° 1.482, de 29.03.2004\nSubdirección Normativa\nDpto. de Técnica Tributaria\n"
+    },
+    {
+      "name": "Artículo 1893 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "b8c4b472-e306-5263-a312-2eea5844acbd",
+      "chunk_uuid": "d82edf50-020a-5ba6-afd6-432ef03a7c47",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719908",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1893 (DEL ART. 2)|Art. 1893. Perdida la cosa en poder del comprador no habrá derecho por una ni por otra parte para la rescisión del contrato. Lo mismo será si el comprador hubiere enajenado la cosa; salvo que la haya vendido por más de lo que había pagado por ella; pues en tal caso podrá el primer vendedor reclamar este exceso, pero sólo hasta concurrencia del justo valor de la cosa, con deducción de una décima parte."
+    },
+    {
+      "name": "Oficio N°2897 (26/11/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°2897 (26/11/2019)",
+      "document_id": "9df4c0fa-ce44-5c01-8fa3-ab9e45fee91a",
+      "chunk_uuid": "7cec0fb8-024c-5e24-914b-f5a0a17f68ad",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2897-26%2F11%2F2019.pdf&extension=pdf&acc=download&id=d3bfe596-8c52-47dd-9ca0-5486916294fb&mediaType=application%2Fpdf",
+      "content": " fijar el precio o valor de la compraventa de acciones, aquella parte \npagada que obedezca a la aplicación de dicho interés, efectivamente deberá ser considerada como parte del \nvalor de adquisición de dichas acciones por la Empresa adquirente. Este sería el caso, de acuerdo al tenor \nde la consulta, que indica que el Tribunal arbitral procedió a fijar el precio considerando el valor de mercado \nde las acciones más una tasa de interés aplicable desde la fecha de la sentencia hasta la suscripción del \ncontrato de compraventa. Es dable entender que dicha forma de determinar el precio, puede presumirse que \nbusca actualizar éste al momento futuro en que las partes suscribirán la compraventa. \n \nIII.- CONCLUSIÓN: \n \nEn el evento de que la fórmula de cálculo del precio de una compraventa de acciones incluya la aplicación \nde una tasa de interés determinada al momento de dicha operación, según señala en su consulta, este interés \nserá parte del precio y en consecuencia, el valor total resultante que pague el adquirente, corresponderá a \nsu costo para fines tributarios.  \n \nSaluda a Ud., \n \n \n \n \n        \n FERNANDO BARRAZA LUENGO          \n          DIRECTOR \n \n \n \nOficio N° 2897 del 26-11-2019 \nSubdirección Normativa \nDepto. de Impuesto Directos \n          \n1 Circular N° 44 de 2016. \n"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia RIT-98-2022",
+      "source_type": "jurisprudencia",
+      "source": "RIT-98-2022",
+      "document_id": "46b7f8e7-7f0c-5247-98f9-1158c41a7c13",
+      "chunk_uuid": "cea56810-2e95-58c7-af34-67783fe282db",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/17237",
+      "content": "La Corte de Apelaciones de Santiago acogió el recurso de apelación interpuesto por la contribuyente en contra de la sentencia de primer grado pronunciada por el Cuarto Tribunal Tributario y Aduanero de la Región Metropolitana, que había rechazado el reclamo entablado en contra de unas Liquidaciones que determinaron diferencias de Impuesto de Primera Categoría y Global Complementario, al gravar con los referidos tributos los fondos empleados en la adquisición de un bien raíz.\n\n\nLa sentencia de segunda instancia rechazó la excepción de prescripción alegada por la reclamante fundada en lo dispuesto en el artículo 200 del Código Tributario y en el artículo 8.1 de la Convención Americana de Derecho humanos dado que no había sido planteada en su oportunidad procesal.\n\n\nRespecto al fondo controvertido, la Magistratura expresó que los padres de la reclamante habían adquirido para su hija un inmueble mediante la estipulación de una cláusula en favor de un tercero de conformidad a lo dispuesto en el artículo 1449 del Código Civil, siendo pagado el precio de la compraventa por los progenitores. Agregó, que posteriormente la contribuyente al aceptar tal estipulación, había adquirido directamente el derecho emanado del contrato de compraventa.\n\n\nLuego, la Corte de Apelaciones manifestó que el propio Servicio de Impuestos Internos reconoció que la contribuyente al contestar la Citación, había acompañado un reconocimiento de deuda en favor de sus padres equivalente al monto del precio de la compraventa, y, además, presentó documentación que daba cuenta de la existencia de un procedimiento voluntario de insinuación de donación. En razón de esto último, los padres expresaron su decisión de donar tal suma de dinero, no siendo relevante la fecha en que se inició la gestión voluntaria.\n\n\nEn consecuencia, el Servicio incurrió en un error al incorporar a la base imponible del impuesto de Primera Categoría y Global Complementario de la contribuyente, un monto equivalente al precio de la compraventa, razón por la cual resultaba procedente revocar el fallo en alzada, acoger el reclamo y disponer la invalidación de las Liquidaciones impugnadas."
+    },
+    {
+      "name": "Artículo 139",
+      "source_type": "ley",
+      "source": "CODIGO DE COMERCIO",
+      "document_id": "70735e4c-7066-56f3-926a-57bc50ad85b6",
+      "chunk_uuid": "b911c68b-7b22-5cb1-8497-f4699740fec6",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1974&idParte=8725367",
+      "content": "Código DE COMERCIO CODIGO DE COMERCIO,Título II DE LA COMPRAVENTA,Artículo 139|Art. 139. No hay compraventa si los contratantes no convienen en el precio o en la manera de determinarlo; pero si la cosa vendida fuere entregada, se presumirá que las partes han aceptado el precio corriente que tenga en el día y lugar en que se hubiere celebrado el contrato. Habiendo diversidad de precios en el mismo día y lugar, el comprador deberá pagar el precio medio. Esta regla es también aplicable al caso en que las partes se refieran al precio que tenga la cosa en un tiempo y lugar diversos del tiempo y lugar del contrato."
+    },
+    {
+      "name": "Oficio N°2658 (19/11/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°2658 (19/11/2020)",
+      "document_id": "65cd19ad-38d1-5615-ae6d-1da9d6c000bb",
+      "chunk_uuid": "3cd65119-8aaf-528c-b212-943cbb6635a8",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2658-19%2F11%2F2020.pdf&extension=pdf&acc=download&id=7dc6718b-8c0a-42ac-9010-83798814f771&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – CÓDIGO \nCIVIL, ART. 1567 \n \n(ORD. N° 2658 DE 19.11.2020). \n \nSolicita pronunciamiento sobre la resciliación de una compraventa de inmueble inscrito. \nSe ha solicitado a este Servicio un pronunciamiento sobre el efecto tributario de la resciliación de una \ncompraventa de inmueble habiéndose efectuado la inscripción a nombre del comprador. \nI \nANTECEDENTES \nDe acuerdo con su presentación, el año 2002 se adquirió un inmueble por sucesión por causa de muerte. \nEl año 2020 la sucesión celebró una compraventa respecto del inmueble con un tercero, inscribiéndose \nen el Registro de Propiedad del Conservador de Bienes Raíces de Santiago, pero sin haberse pagado el \nprecio aún. \nLa compraventa fue celebrada sujeta a una condición suspensiva que, a la fecha de la consulta, no se \nhabría verificado. \nSeñala que las partes de la compraventa consideran la posibilidad de resciliar dicho contrato. Al \nrespecto, opina que el mayor valor obtenido en la operación no estaría afecto a impuestos para la \nsucesión, al haberse adquirido el año 2002. Sin embargo, producto de la resciliación, podría \nconsiderarse que la sucesión adquirió el inmueble el año 2020, debiendo tributar por el mayor valor \nobtenido en la operación. \nConforme lo anterior, consulta si, en caso de resciliar la compraventa, la sucesión deberá pagar \nimpuestos de verificarse una nueva enajenación y, de encontrarse gravado, cuál sería la base imponible \nde dicho impuesto. \nII \nANÁLISIS \nRespecto a la resciliación, y de acuerdo a la doctrina, “la obligación aun no cumplida total o \nparcialmente se extingue por mutuo consentimiento cuando las partes interesadas acuerdan dejarla sin \nefecto”1. \nComo fundamento legal se cita el artículo 1567 del Código Civil, al disponer que “toda obligación \npuede extinguirse por una convención en que las partes interesadas, siendo capaces de disponer \nlibremente de lo suyo, consienten en darla por nula”2. \nMás allá de la impropiedad del legislador (en el mutuo consentimiento las obligaciones no se dan por \n“nulas” sino que se dejan sin efecto) y que las obligaciones se extinguen como consecuencia de quedar \nsin efecto su fuente inmediata (el contrato), para la doctrina, este “modo de extinguir obligaciones sólo \nproduce efectos para el futuro, no afecta al pasado; los efectos que la obligación y el acto que la genera \nhayan alcanzado a producir antes del mutuo disenso quedan a firme, inmutables. Si las partes los \nquisieran hacer desaparecer, deberían ocurrir a una nueva convención, porque en este caso ya no opera \nel mutuo disenso.”3 \nA partir de lo anterior y respecto de sus consecuencias frente a terceros, supuesto que la resciliación sólo \nproduce efectos para el futuro y no afecta al pasado, no puede implicar la afectación de derechos de \nterceros ni de las consecuencias del contrato mientras pervivió. \nUn ejemplo de ello es el rechazo a inscribir una resciliación de una compraventa de un inmueble en el \nConservador de Bienes Raíces, si este fue hipotecado a favor de terceros y no concurriere la voluntad de \neste en alzar el gravamen. Es en este punto que la ficción de retrotraer todo al estado previo a la \ncelebración del acto o contrato pierde su alcance, siendo imposible negar la vida del contrato en el \nperiodo que va desde su celebración hasta la resciliación. El acto existió y surtió sus efectos, de manera \n \n1 Alessandri, Tratado de las obligaciones, Volumen III, modificación y extinción de las obligaciones"
+    },
+    {
+      "name": "Oficio N°12 (05/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°12 (05/01/2017)",
+      "document_id": "345c07bc-3429-5360-8575-5e7bee101938",
+      "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/renta/ja012.htm",
+      "content": "ajenación de bien raíz.\n  2. La tributación del mayor valor obtenido por su cliente en la cesión del derecho real de usufructo\nconstituido sobre un bien raíz, por el plazo de 13 años, atendido el criterio aludido en el N° 1 precedente, ha\nde regirse por lo dispuesto en la señalada letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, vigente\nhasta el 31 de diciembre de 2016.\nDe este modo, en la medida que el bien raíz no forme parte del activo de una empresa que declare cualquier\nclase de rentas efectivas de la primera categoría sobre la base de un balance general según contabilidad\ncompleta, la enajenación no se efectúe a relacionado y no exista habitualidad en ésta, el mayor valor\nobtenido por su cliente constituye un INR sin límite de monto. Lo anterior, conforme a lo dispuesto en el N° 8,\ndel artículo 17 y en artículo 18, ambos de la LIR.\nA este respecto se hace presente, que la instancia fiscalizadora respectiva podrá verificar la concurrencia de\nlos señalados requisitos encontrándose vigentes los plazos de prescripción del artículo 200 del Código\nTributario. Asimismo, cabe señalar, que de acuerdo a lo preceptuado en el inciso 5°, del N° 8, del artículo 17\nde la LIR, vigente hasta el 31 de diciembre de 2016, este Servicio puede aplicar la facultad de tasar\ndispuesta en el artículo 64 del Código Tributario, cuando el valor de enajenación de un bien raíz, que se\ntransfiera a un contribuyente obligado a llevar contabilidad completa, sea notoriamente superior al valor\ncomercial de los inmuebles de características y ubicación similares en la localidad respectiva, o de los\ncorrientes en plaza considerando las circunstancias en que se realiza la operación, y que conforme a lo\ndispuesto en el artículo 63 de la Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones –norma de\ncontrol de carácter general–, este Servicio también puede investigar si las obligaciones impuestas a las\npartes por cualquier contrato son efectivas, si realmente dichas obligaciones se han cumplido o si lo que una\nparte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del\ncontrato, de lo que recibe en cambio, con el objeto de liquidar y girar el impuesto que corresponda en caso\nde determinar que dichos actos y circunstancias están destinadas a encubrir una donación o un anticipo a\ncuenta de herencia.\n3. Por otra parte, atendido que la cesión del derecho real de usufructo constituido sobre el bien raíz en\ncuestión incluyó una serie de construcciones, mejoras y bienes existentes en aquel, lo que en conjunto\npermite el funcionamiento de una estación de servicio para abastecer combustible, aquella operación se\nencuentra gravada con IVA de acuerdo a lo dispuesto en la letra g), del artículo 8°, de la Ley sobre Impuesto\na las Ventas y Servicios.\n4. Por último, dado que ni el inciso 1°, del artículo 17 de dicho cuerpo legal, ni ninguna otra norma, autorizan\ndeducción alguna a la base imponible tratándose de la cesión del derecho real de usufructo constituido sobre\nbien raíz, aquella estará conformada por el monto de cada cuota mensual, debiendo recargarse sobre dicha\nsuma el porcentaje correspondiente por concepto de IVA.\n   \nFERNANDO BARRAZA LUENGO\nDIRECTOR\n \n   Oficio N° 012, de 05.01.2017\nSubdirección Normativa\nDpto. de Impuestos Directos\n \n \n \n \n\n\n[1] En los términos del  inciso 4°, del N° 8, del artículo 17 de la LIR, vigente hasta el 31 de diciembre de 2016.\n[2] En los términos del artículo 18 de la LIR vigente hasta el 31 de diciembre de 2016.\n"
+    },
+    {
+      "name": "Artículo 1890 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "030a4faf-0d60-5f4d-939b-69523e92f09f",
+      "chunk_uuid": "63864c99-5238-5f06-a3bf-6232d7b14711",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719905",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1890 (DEL ART. 2)|Art. 1890. El comprador contra quien se pronuncia la rescisión, podrá a su arbitrio consentir en ella, o completar el justo precio con deducción de una décima parte; y el vendedor en el mismo caso, podrá a su arbitrio consentir en la rescisión, o restituir el exceso del precio recibido sobre el justo precio aumentado en una décima parte. No se deberán intereses o frutos sino desde la fecha de la demanda, ni podrá pedirse cosa alguna en razón de las expensas que haya ocasionado el contrato."
+    },
+    {
+      "name": "Oficio N°2646 (19/11/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°2646 (19/11/2020)",
+      "document_id": "a606f71c-b667-5795-a1ba-5fd79fa646d8",
+      "chunk_uuid": "93ee9e46-ced2-5015-a5ad-777fa6581aea",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2646-19%2F11%2F2020.pdf&extension=pdf&acc=download&id=742b5f0d-6918-4187-821c-2757872ad57e&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° \n20.780, ARTÍCULO TERCERO TRANSITORIO N° XVI – CÓDIGO CIVIL, ART. 1567 \n(ORD. N° 2646 DE 19.11.2020). \n \nAplicación del numeral XVI, del artículo tercero transitorio, de la Ley N° 20.780, a la resciliación \nde un contrato de compraventa de un inmueble. \nSe ha solicitado a esta Dirección Nacional un pronunciamiento sobre la aplicación del numeral XVI, del \nartículo tercero transitorio, de la Ley N° 20.780, a la resciliación de un contrato de compraventa de un \ninmueble. \nI \nANTECEDENTES \nDe acuerdo a su presentación, el año 1998 una persona natural adquirió una propiedad que luego vendió \nel año 2008 a una sociedad anónima, que posteriormente se transformó en una sociedad de \nresponsabilidad limitada. El precio de la compraventa fue de $$$$$, encontrándose en la actualidad \npendiente de pago gran parte de éste. \nAtendido que la sociedad de responsabilidad limitada no cuenta con liquidez para pagar la parte insoluta \ndel precio, las partes habrían acordado resciliar el contrato de compraventa. \nDe efectuarse la resciliación del contrato de compraventa, consulta: \n1. \nSi al retrotraerse al estado en que se encontraban las partes antes del contrato de compraventa \ncelebrado el año 2008, podría entenderse que la persona natural habría adquirido la propiedad \ndel inmueble el año 1998. \n2. \nSi podría tasarse dicha resciliación. \nII \nANÁLISIS \nConforme al numeral XVI, del artículo tercero transitorio, de la Ley N° 20.780, del año 2014, el mayor \nvalor obtenido en las enajenaciones de bienes raíces situados en Chile, o de derechos o cuotas respecto \nde tales bienes raíces poseídos en comunidad, adquiridos antes del 1° de enero de 2004 y efectuadas por \npersonas naturales, que no sean contribuyentes del Impuesto de Primera Categoría (IDPC) que declaren \nsu renta efectiva, se sujetará a las disposiciones de la Ley sobre Impuesto a la Renta (LIR) según su \ntexto vigente hasta el 31 de diciembre de 2014. \nLo anterior, en concreto y cumpliendo los requisitos legales, permite considerar al mayor valor que se \nobtenga en la enajenación de los referidos bienes raíces como un ingreso no renta en su totalidad. \nCon todo, para aplicar la norma citada, el bien raíz, derecho o cuota sobre tal que se enajena debe haber \nsido adquirido antes del 1° de enero de 2004, lo cual implica determinar en el presente caso si, como \nconsecuencia de la resciliación, el bien raíz podría entenderse adquirido antes del 1° de enero de 2004. \nRespecto a la resciliación, su fundamento legal se encuentra en el artículo 1567 del Código Civil, el que \ndispone que “toda obligación puede extinguirse por una convención en que las partes interesadas, siendo \ncapaces de disponer libremente de lo suyo, consienten en darla por nula”1. \nAsimismo, la doctrina ha señalado que “la obligación aun no cumplida total o parcialmente se extingue \npor mutuo consentimiento cuando las partes interesadas acuerdan dejarla sin efecto”2. \nMás allá de la impropiedad del legislador (en el mutuo consentimiento las obligaciones no se dan por \n“nulas” sino que se dejan sin efecto) y que las obligaciones se extinguen como consecuencia de quedar \nsin efecto su fuente inmediata (el contrato), para la doctrina, este “modo de extinguir obligaciones sólo \nproduce efectos para el futuro, no afecta al pasado; los efectos que la obligación y el acto que la genera  \nhayan  alcanzado a producir antes  del  mutuo"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-GR-10-00139-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-10-00139-2013",
+      "document_id": "28d739f7-61bb-506f-923d-c9827181a739",
+      "chunk_uuid": "36ac4f98-adf7-5743-abaa-53acea04c7d1",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/2663",
+      "content": "El Tribunal Tributario y Aduanero de la Región del Bío Bío acogió un reclamo en contra de las\n\nLiquidaciones que determinaron diferencias de impuesto a la renta en un proceso de justificación de inversiones.\n\nEl reclamante sostuvo que el Servicio cuenta con información de acuerdo a la cual habría adquirido un bien raíz por la suma de $90.000.000, con fecha 22 de marzo de 2007. En virtud de esta información, el actor afirma haber sido citado para que acreditará el origen de los fondos con los cuales realizó la inversión y/o desembolso de la compra del inmueble, señalando que a consecuencia de la no respuesta dentro del plazo legal el SII practicó las liquidaciones reclamadas.\n\nEl contribuyente señaló que la información que obra en la base de datos del Servicio de Impuestos Internos, es inexacta, ya que la compra del inmueble objetado se efectuó a plazo. Aduciendo que dicho error proviene de la información errónea que la Notaría y Conservador de Bienes Raíces entregó a través del Formulario 2890, ya que informó que la propiedad enajenada fue pagada al contado cuando en efecto fue comprada en cuotas.\n\nEn este contexto, el actor sostuvo que no debía acreditar el origen ni disponibilidad de fondos en la inversión efectuada ya que la compraventa no fue con pago al contado. Agregó que, para acreditar que en la referida compraventa del bien raíz no hubo inversión alguna, se acompañó en la citación, la respectiva escritura pública, documento por excelencia fidedigno.\n\nA juicio del Tribunal en la realidad se sancionó al contribuyente no por no haber dado respuesta a la Citación dentro de plazo, como señala el acto impugnado, pues consta que lo hizo, pues así lo reconoció expresamente la reclamada, sino que se le reprocha, y sanciona, por haber acompañado una copia simple de la compraventa que diera origen a la actuación que recurre, y no un antecedente original o copia autorizada.\n\nEn definitiva, el Tribunal, habiendo analizado el valor probatoria del documento acompañado en la instancia administrativa, concluyó que el reclamante acreditó plenamente que el precio de la compraventa no fue pagado al contado, sino que se pactó un pago en diez cuotas anuales."
+    },
+    {
+      "name": "Oficio N°2832 (10/06/2003)",
+      "source_type": "oficio",
+      "source": "Oficio N°2832 (10/06/2003)",
+      "document_id": "956b772a-c6e8-5f0f-98e3-a96dcafe43da",
+      "chunk_uuid": "99204f8e-b600-58c2-9f5f-f141a1683b8c",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2003/renta/ja507.htm",
+      "content": " el artículo 31 de la Ley de\nImpuesto a la Renta. Lo anterior, teniendo presente pronunciamientos del Servicio a través de Oficio N°\n3747, del 05.0.1999, en el cual se resuelve consulta sobre una adquisición de terreno bajo la modalidad de\nleasing, el cual formara parte de una construcción.\nc) Las cuotas no serian un gasto necesario para la renta, ya que estaríamos en presencia de un contrato de\nLease Back, que consistió en la venta del bien raíz a Leasing Andino, con el único objetivo de obtener un\nfinanciamiento, por lo tanto, los desembolsos por el arrendamiento, vendría siendo una cancelación de un\npasivo propiamente tal (préstamo), por lo que se afectarían solo cuentas patrimoniales y no cuentas de\nresultados, al considerarlo la empresa como un arriendo propiamente tal.\n2. Sobre el particular, cabe señalar en primer lugar, que de la situación planteada se derivan dos\noperaciones claramente diferenciadas una de otra. La primera de ellas, se trata de la venta de un bien raíz\nde propiedad de la empresa “XXX S.A.” a la Sociedad “Leasing YYY S.A.”, y la segunda, del arrendamiento\ndel mismo inmueble bajo un contrato de leasing por parte de la segunda empresa indicada a la primera\nsociedad señalada; todo ello en los términos expresados en el contrato pertinente celebrado entre las partes.\nEn resumen, en la especie se trata de un contrato de compraventa de un bien inmueble, acompañado o\nasociado a un contrato de arriendo con opción de compra (leasing) recaído sobre el mismo bien raíz.\n3. Respecto de la primera situación, cabe expresar que ella se enmarca en lo dispuesto en la letra b) del N°\n8 del artículo 17 de la Ley de la Renta, en concordancia con lo señalado por el artículo 18 de la misma ley,\nnorma legal que preceptúa que no constituye renta el mayor valor, incluido el reajuste del saldo de precio,\nobtenido en la enajenación no habitual de bienes raíces, excepto respecto de aquellos bienes que forman\nparte del activo de empresas que declaren su renta efectiva en la Primera Categoría.\n\n\nDel análisis de los antecedentes expuestos, se expresa que la entrega del bien raíz por parte de la Sociedad\npropietaria “XXX S.A.” a la Sociedad “Leasing YYY S.A.”, constituye, jurídicamente, un contrato puro y simple\nde compraventa de un inmueble que efectúa una empresa que declara su renta efectiva en la primera\ncategoría determinada mediante contabilidad completa, operación cuyo tratamiento tributario debe regirse\npor lo dispuesto por la norma legal mencionada anteriormente.\nAhora bien, acorde con lo dispuesto por esta norma legal, y atendido la contraexcepción que ella establece\nen su parte final, el mayor valor obtenido en la citada enajenación, equivalente éste a la diferencia existente\nentre el precio de venta pactado y el valor que registra el bien en la contabilidad de la empresa cedente, se\nafecta con los impuestos generales de la Ley de la Renta, esto es, con el impuesto de Primera Categoría y\nGlobal Complementario o Adicional; debiendo aplicarse el impuesto de Primera Categoría sobre la renta\npercibida o devengada, cualquiera de los hechos que ocurra primero.\n4. En relación con la segunda operación en referencia, se debe tener presente en primer término que el\ncontrato de leasing no se encuentra expresamente definido dentro de nuestro ordenamiento jurídico, ni se\nhan establecido normas que lo regulen, salvo en lo relativo al arrendamiento de viviendas con promesa de\ncompraventa, cuyas disposiciones se contienen en la Ley N° 19.281, publicada en el Diario Oficial de 27 de\nDiciembre de 1993, y sus modificaciones posteriores.\nEn general, este tipo de contrato se ha asimilado al contrato de arrendamiento y , en virtud de ello la\nempresa de leasing, como arrendadora, entrega al arrendatario el uso y goce"
+    },
+    {
+      "name": "Circular N°36 (12/08/1985)",
+      "source_type": "circular",
+      "source": "Circular N°36 (12/08/1985)",
+      "document_id": "67326d0a-98f0-5c62-86a1-15f76b0d5883",
+      "chunk_uuid": "d99fe2b0-2372-5f83-bef2-4ddb6230eeec",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/documentos/circulares/1985/circu36a.htm",
+      "content": ".- EMISION DE FACTURAS DE COMPRA.\nLes personas mencionadas en el númers anterior debe- rán emitir, a contar del 1º de Septiembre de 1985, facturne de compra por las adquisiciones que efectúen de los productos señalados en el número 19 de es ta Circular, las que sin perjuicio de lo dispuesto al respecto en el decreto lay N№ 825, de 1974, en el Овсreto de Hacienda Nº 55, de 1977, y en la Resolución de este Servicio No Ex. 1.661., de 1985, deberán reunir los siguientes requisitos:\n6) Emitirse en triplicado, entragándose las copias al vendedor de las as- pecies, quien deberá firmar el original, al que es conservará en poder del adqui- rente para su posterior revisión por el Servicio;\nb) Numerarse en forme correlativa y con eposición del sallo oficial del Servicio de Impuestos Internos en cada documento:\nc) Indicar en forma impresa por la imprenta el nombre del contribuyente emisor o su rezón social, número del Rol Unico Tributario, dirección del esta- blecimiento, comuna o nombre del lugar, según corresponda, giro del negocio, nú- mero telefónico y de casille de Corrвов;\nd) Señalar fecha de emisióng\ne) Indicar nombre completo, domicilio, comuna a nombre del lugar, según corresponda, giro o actividad, número de cédula de identidad y Rol Unico Tribu- tario del vendedor del bien, y cualquier otro antecedente que pernita su mejor identificación;\nIndicar la calidad de factura de compra del documento:\ng) Contener el deteile de los bienes transferidos, el precio unitaria de ellos y el monto de la operación, con indicación del paso bruto y finca con- tenidos:\nh) Señalar separadamente le cantidad que corresponde al Impuesto al Va- lor Agregado que se ha retenidol\n\nLes modificaciones de los requisitos o caracteríati- cas de las facturas de compra dispuestos por normas legales, reglamentarias o por resolución del Servicio, deberán aar observadas al emitirse estas factucan de compra, las cuales se cefirán a aquelles características vigentes a la feche de su emisión. Al respecto, conviena tener presante lo dispuesto en la Resolu- ción Nº Ex. 1.661, de 8 de Julio última, que fija nuevas características de las facturas, facturas de compra y otros documentos, con vigencia obligatorie « con- tar del lº de Enero de 1986, pero a las cuales podrán adaptarse desde ya las fac turas de compra que ordena emitir la Resolución en comentario, conforme la dispo- ne el № 9º de la mancionada Resolución Nº Ex, 1,661,\nProcederá le emisión de estas facturas de compra aún en el caso en que el que transfiere los bienes referidos en el Nº 1 de la presen- te Circuler, ses un particular, no afecte al Impuesto al Vaior Agragado.\nEl no otorgamiento de la facture de compra, en los casos y con los requisitos señalados en asta Circular, hará incurrir al adquiren- te en la infracción contemplada y sancionada en el No 10 del artículo 978 del Có digo Tributario, debiendo, además, pagar los tributos que ha debido retener con los res justes, multas e intereses peneles de rigor.\n5.-RETENCION, DECLARACION Y PAGO DEL IMPUESTO AL VALOR AGREGADO.\nLas personas señaladas en el Nº 3 de esta Circular, sobre las cuales recae el cambio de sujeto establecido por la Resolución en es- tudio, daberán ratener, declerar y pagar el Impuesto al Velor Agregado por todas Ins adqusiciones de oro, metales y minerales caros y productos de tierras raras, en cualquier estado, detallados en al anexo Nº 1 de la Resolución, y, an general, de cualquier mineral o metal cuyo precio de venta por kilógramo saa igual o supe- rior a 1,5 Unidades Tributaries Anuales vigente para el año en que"
+    },
+    {
+      "name": "Oficio N°4176 (17/11/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°4176 (17/11/1999)",
+      "document_id": "c99f770b-1912-5cf3-91f9-29ddaa070bc3",
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/noviembre02.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta -1999\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ARTICULO 17º, Nº 8, ARTICULO 18º,\nINCISO 1º.\n_____________________________________________________________________________\nInterpretación del Servicio de las expresiones \"adquisición\" y \"enajenación\" en\ncompraventa de bienes raíces - Tratamiento en caso de enajenaciones de bienes raíces\npor expropiación - se entienden adquiridos o enajenados los bienes raíces cuando son\ninscritos en el Conservador de Bienes Raíces - Indemnización destinada a resarcir el\nvalor del bien expropiado, sin acrecentarlo constituiría la indemnización de un daño\nemergente - Susceptible de calificarse en el Art. 17º, Nº 1 como ingreso no constitutivo de\nrenta - Enajenación por expropiación no es aplicable Presunción de Habitualidad - No\nconcurre el acto voluntario de enajenar el bien.\n1.- Por intermedio del Ordinario indicado en el antecedente se ha remitido la presentación de un\ncontribuyente, quien expresa que de acuerdo a lo establecido en el artículo 18, inciso primero,\nde la Ley de la Renta, en los casos indicados en las letras a), b), c), d), i) y j) del número 8º del\nartículo 17 de esta misma ley, si tales operaciones representan el resultado de negociaciones o\nactividades realizadas habitualmente por el contribuyente, el mayor valor que se obtenga estará\nafecto a los impuestos de Primera Categoría y Global Complementario o Adicional, según\ncorresponda.\nIndica a continuación, que el inciso tercero de este artículo 18, presume de derecho que existe\nhabitualidad en determinados casos que señala y que en todos los demás casos se presumirá\nhabitualidad \"cuando entre la adquisición o construcción del bien raíz y su enajenación\ntranscurra un plazo inferior a un año\".\nPor lo anterior consulta, cual es la interpretación que da el Servicio a las expresiones\n\"adquisición\" y \"enajenación\" en el caso de compraventa de bienes raíces, y más\nespecíficamente si por \"adquisición\" se entiende que dicho hecho tiene lugar en la fecha del\ncontrato o en la fecha en que se practica la inscripción del dominio a favor del comprador en el\nRegistro de Propiedad del Conservador de Bienes Raíces. Asimismo, si por \"enajenación\" se\nentiende que dicho hecho tiene lugar en la fecha del contrato de venta o en la fecha en que se\npractica la inscripción en el Conservador de Bienes Raíces a nombre del comprador, haciendo\npresente al respecto, que el contrato de compra es un título que habilita para adquirir el dominio,\npero el comprador no lo adquiere por la celebración del contrato sino que por la tradición que se\npractica mediante la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces.\nEn relación con la misma materia, consulta además cual es el tratamiento que da este Servicio\nen el caso de enajenaciones de bienes raíces por efecto de una expropiación, cuando entre la\nfecha de adquisición del bien raíz y la fecha de enajenación por expropiación ha transcurrido\nmenos de un año.\nAl respecto, y no siendo la expropiación una enajenación voluntaria consulta, si se produce de\ntodas maneras el hecho gravado en el caso en que la indemnización por la expropiación sea\nmayor que el precio de la compraventa y por lo tanto si se devenga el impuesto a la renta.\n2.- Sobre el particular, y en relación a la primera consulta formulada en cuanto a la oportunidad\nen que debe entenderse verificada la adquisición y enajenación de un bien raíz, esta\ncircunstancia se da cuando el inmueble respectivo se encuentra inscrito en el Registro de\nPropiedad del Conservador de Bienes Raíces.\n3.- En cuanto a precisar si el pago de una indemnización en el caso de la expro"
+    },
+    {
+      "name": "Artículo 1889 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "1cc53ef4-de5c-5de0-ab98-d180f9b66a1c",
+      "chunk_uuid": "814fb353-3ef9-58a6-a2e5-f1a6fb17882f",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719904",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1889 (DEL ART. 2)|Art. 1889. El vendedor sufre lesión enorme, cuando el precio que recibe es inferior a la mitad del justo precio de la cosa que vende; y el comprador a su vez sufre lesión enorme, cuando el justo precio de la cosa que compra es inferior a la mitad del precio que paga por ella. El justo precio se refiere al tiempo del contrato."
+    },
+    {
+      "name": "Oficio N°2167 (23/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2167 (23/08/2021)",
+      "document_id": "453c0789-fa42-5be0-aa3d-f9f3f12576d3",
+      "chunk_uuid": "0840c907-f4e2-54f5-a284-a6d1bdafcc99",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2167-23%2F08%2F2021.pdf&extension=pdf&acc=download&id=12e11ad6-b99c-4f25-a9c0-983bbec1312d&mediaType=application%2Fpdf",
+      "content": "ó afirme para efectos tributarios y el posterior \nacuerdo tendiente a dejar sin efecto el contrato de compraventa del bien raíz, constituye una nueva \nenajenación desde la empresa a la persona natural. \nIII \nCONCLUSIÓN  \nDe acuerdo a lo expuesto en el Análisis, no se puede desconocer, frente a terceros (incluido el Fisco), la \nenajenación del bien raíz entre la persona natural y la sociedad ocurrida el año 2020, para los efectos de \nla letra b) del N° 8 del artículo 17 de la LIR. Consecuente con ello, no es posible rectificar la \ndeclaración anual de impuestos a la renta, presentada por el vendedor para el año tributario 2021, con el \n \n1 Ver, por ejemplo, Oficio N° 2646 de 2020. \n2 Oficio N° 2646 de 2020 \n3 Abeliuk, Las obligaciones, Tomo II, Capítulo II El mutuo consentimiento, 3ra edición, Editorial Jurídica de Chile, año 1993, pág. 966. \n\n\n2 \n \nobjeto de disminuir la base imponible del impuesto global complementario por el mayor valor obtenido \nen la operación. \nEl acuerdo para dejar sin efecto el contrato de compraventa del bien raíz, el año 2021, constituye una \nnueva enajenación desde la empresa a la persona natural. \nSaluda a usted, \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \n \n \nOficio N° 2167 del 23-08-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Oficio N°1387 (05/06/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°1387 (05/06/2012)",
+      "document_id": "03b0fadb-6208-5846-857b-7a3fb2f621dd",
+      "chunk_uuid": "1b59d97c-e1ac-51a9-a492-aed60d815417",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja1387.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2012\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 17°, N°8, LETRA B), ART. 18°. (ORD. N° 1387,\nDE 05.06.2012)\nTRIBUTACIÓN QUE AFECTA A ENAJENACIÓN DE UN BIEN RAÍZ PERTENECIENTE A UNA SOCIEDAD\nDE PERSONAS, CUYO ÚNICO INGRESO CORRESPONDE A RENTA POR EL ARRENDAMIENTO DE\nDICHO BIEN RAÍZ, POR SUMAS INFERIORES AL 11% DE SU AVALÚO FISCAL.\nI.- ANTECEDENTES.\nA través de su presentación solicita un pronunciamiento de esta Dirección respecto a cuál es la tributación\nque afectaría a la venta de un bien raíz no agrícola por parte de una sociedad de personas, dueña del\ninmueble, que lo entrega en arriendo en un valor que no excede del 11% del avalúo fiscal, por lo que no se\nencuentra afecta al Impuesto de Primera Categoría\nReafirma a continuación, que la sociedad enajenante no ha tenido rentas afectas al Impuesto de Primera\nCategoría y tampoco le afectan las normas de habitualidad del artículo 18 de la Ley sobre Impuesto a la\nRenta (LIR).\nCabe indicar que posteriormente, el recurrente acompañó una fotocopia simple de la escritura pública del\ncontrato de compraventa y usufructo suscrito por la sociedad, al que se refiere en su consulta.\nII.- ANÁLISIS.\nEl Servicio a través de una serie de pronunciamientos publicados en su página web www@sii.cl, se ha\nreferido al tratamiento tributario de la enajenación de bienes raíces, basado en lo que dispone la letra b), del\nNº 8, del artículo 17, de la LIR, en concordancia con otras disposiciones de la LIR, relacionadas con la\nmateria. De igual forma, se ha pronunciado sobre el tratamiento tributario del pago de las contribuciones de\nbienes raíces por parte del arrendatario de un bien raíz.\nIII.- CONCLUSIÓN.\nEl tratamiento tributario de la enajenación de un bien raíz no agrícola, como el de su consulta, ha sido tratado\npor este Servicio por medio de la Jurisprudencia que se indica en el presente oficio. En consecuencia y para\nlos fines de su presentación se sugiere consultarla en nuestra página web www.sii.cl .\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 1387, de 05.06.2012\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°3447 (06/12/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3447 (06/12/2021)",
+      "document_id": "a9acedd9-c001-5f2f-a728-14cdaad8a618",
+      "chunk_uuid": "ae5e8e4b-007e-5dd6-9522-568e4e0d8610",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3447-06%2F12%2F2021.pdf&extension=pdf&acc=download&id=1a6597bc-679a-4b8a-8530-80c7caf86825&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20 Nº 1, LETRA B) Y ART. 34  \n \n(ORD. N° 3447 DE 06.12.2021). \n \n \nAvalúo fiscal de bien raíz agrícola a considerar para determinar renta presunta en caso que \nindica.  \nSe ha solicitado a este Servicio un pronunciamiento sobre la forma de determinar la renta presunta en el \ncaso que un bien raíz agrícola se explote solo en una parte de un ejercicio comercial.  \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, un pequeño agricultor que explotaba un bien raíz con animales en \nengorda, los cuales terminó de vender en su totalidad en mayo 2021, decidió dar en arriendo el bien raíz \nagrícola a un tercero, a contar de julio, decidiendo tributar según contrato conforme al artículo 14, letra \nB), de la Ley sobre Impuesto a la Renta (LIR).  \nLuego, consulta si se puede tributar proporcional por los meses efectivos de explotación agrícola, es \ndecir considerar en este caso 5/12 del avalúo fiscal, o deberá hacer término de giro y a la vez inicio de \nactividades para la actividad de arrendamiento.  \nII  \nANÁLISIS  \nEn respuesta a sus anteriores consultas sobre la materia1, este Servicio resolvió que, en virtud del \nsistema de “presunción” de renta, la propia ley presume de derecho que la renta proveniente de un bien \nraíz agrícola equivale al 10% de su avalúo fiscal, entendiendo al bien raíz como un todo. Vale decir, \nconsiderando el avalúo fiscal total del rol del bien raíz, sin la posibilidad de proporcionalizarlo cuando \nsólo una parte del bien raíz agrícola fuere explotado y la otra fuere entregada en arriendo.  \nLuego, y de acuerdo con dicha jurisprudencia, para determinar la renta presunta de la actividad agrícola \nse debe considerar el total del avalúo fiscal establecido en el rol del bien raíz agrícola que se encuentre \nen explotación, ya sea que dicha explotación corresponda al total o solo a una parte del bien raíz.  \nDistinta es la situación cuando la explotación de un bien raíz agrícola se efectúa solo en un periodo \ndentro de un mismo ejercicio comercial, como informa en su nueva consulta. En tal situación, si bien la \nrenta presunta se determina aplicando el 10% de presunción sobre el total del rol de avalúo del bien raíz, \ndicho resultado debe proporcionalizarce en relación con el tiempo en que el bien raíz, total o \nparcialmente, estuvo efectivamente en explotación.  \nLuego, si el bien raíz agrícola – según describe en su presentación – fue explotado, total o parcialmente, \nsolo entre enero y mayo del 2021, circunstancia que debe ser formalmente acreditada, la renta presunta a \ndeclarar por la explotación del bien raíz agrícola corresponderá a 5/12 de la renta presunta determinada \ndel 10% sobre el total del rol de avalúo del bien raíz. Lo anterior, por cuanto conforme a lo dispuesto en \nel inciso primero del artículo 34 de la LIR, vigente a partir del 1° de enero de 2016, la presunción de \nrenta en el caso de la actividad agrícola aplica respecto de la explotación de dichos bienes raíces.  \nConforme lo anterior, no será necesario hacer término de giro e inicio de actividades para la actividad de \narrendamiento, sin perjuicio de la obligación de dar aviso al Servicio en el formulario 3239, sobre \n“modificación y actualización de la información”, y, en el año tributario 2022, declarar como \ncontribuyente del impuesto de primera categoría la renta presunta que le corresponda por la explotación \ndel bien raíz, conforme al artículo 34 de la LIR y en la proporción ya analizada."
+    },
+    {
+      "name": "Oficio N°2207 (25/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2207 (25/08/2021)",
+      "document_id": "d96a2e4e-07ca-569f-a286-a9a0881ec3a5",
+      "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2207-25%2F08%2F2021.pdf&extension=pdf&acc=download&id=79a27fa5-cf85-4434-b5bb-efb16b9dbe5a&mediaType=application%2Fpdf",
+      "content": " compraventa prometido en la época convenida y/o cumplida que sea la condición prevista. \nPor lo tanto, mientras ello no ocurra las obligaciones del contrato de promesa se encontrarían pendientes, \nsiendo por ende susceptible de dejarse sin efecto por mutuo disenso o resciliación, en los términos \nprevistos en los artículos 1545 y 1567 del Código Civil.  \n  \nPor otra parte, el anticipo del precio de la compraventa efectuado por el promitente comprador no implica \nla celebración del contrato de compraventa prometido, constituyendo sólo un adelanto, que la misma Ley \nsobre Impuesto a la Renta reguló en el artículo 29, disponiendo que “Los ingresos obtenidos con motivo \nde contratos de promesa de venta de inmueble se incluirán en los ingresos brutos del año en que se \nsuscriba el contrato de venta correspondiente.” Como se observa los ingresos recibidos por la Inmobiliaria \ncontra la suscripción de las Promesas como anticipo del precio de las compraventas solo se deberán \nincluir en los ingresos brutos del año en que se suscriba el contrato de compraventa correspondiente.  \n  \nAsimismo, las celebraciones de promesas de compraventa de inmuebles no se encuentran gravadas con \nIVA, incluso en el caso de que el promitente comprador adelante todo o parte del precio al promitente \nvendedor, por ello, la Inmobiliaria no debería emitir una factura de venta con ocasión de la celebración de \nlas Promesas conforme lo establecido en el artículo 55 de la Ley del IVA.   \n  \nFinalmente, los precios o valores de las opciones, compraventas, intereses y comisiones deberán ser \nacordes a los corrientes en plaza o de los que normalmente se cobrarían en convenciones de similar \nnaturaleza3, contando este Servicio con la facultad de fiscalización contenida en el artículo 64 del Código \nTributario, o bien aquella establecida en el artículo 17 N° 8 de la LIR, según corresponda.   \n          \n1 Art. 1554. La promesa de celebrar un contrato no produce obligación alguna; salvo que concurran las circunstancias siguientes:  \n1ª. Que la promesa conste por escrito; 2ª. Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces; 3ª. \nQue la promesa contenga un plazo o condición que fije la época de la celebración del contrato; 4ª. Que en ella se especifique \nde tal manera el contrato prometido, que sólo falten para que sea perfecto, la tradición de la cosa, o las solemnidades que las \nleyes prescriban. Concurriendo estas circunstancias habrá lugar a lo prevenido en el artículo precedente.  \n  \n2 Art. 1553. Si la obligación es de hacer y el deudor se constituye en mora, podrá pedir el acreedor, junto con la indemnización \nde la mora, cualquiera de estas tres cosas, a elección suya: 1ª. Que se apremie al deudor para la ejecución del hecho convenido; \n2ª. Que se le autorice a él mismo para hacerlo ejecutar por un tercero a expensas del deudor; 3ª. Que el deudor le indemnice \nde los perjuicios resultantes de la infracción del contrato.  \n \n3 Considerando específicamente las circunstancias que rodean la operación, en este caso, que se trata de una estructura \nalternativa de financiamiento.   \n\n\n  \nAnálisis de la estructura de financiamiento en el marco de la norma general anti elusiva  \n  \nHabiendo sido analizados los aspectos normativos de la estructura presentada, corresponde determinar, \nen el contexto de la norma general anti elusiva, si ella produce resultados o efectos económicos o jurídicos \nrelevantes, más allá de los meramente tributarios, al respecto se observa que:   \n  \ni) \nUn Fondo constituido de acuerdo con las normas de la LUF, podría –como indica el consultante- dar \ntransparencia en la administración de los recursos, junto con el hecho de que el negocio sería gestionado \npor un administrador profesional.   \n  \nii) \nEl F"
+    },
+    {
+      "name": "Oficio N°3516 (21/09/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°3516 (21/09/1999)",
+      "document_id": "2d622f0b-d43a-5327-8563-bbb44b81aa63",
+      "chunk_uuid": "764f14bb-c460-5ebb-b5ad-4e3c0f5ddba2",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/septiembre01.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta -1999\nRENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 17º Nº 8, LETRA b) Y ART. 18º\nINCISO 3º - ART. 1567 DEL CODIGO CIVIL\n_____________________________________________________________________________\nPresunción de habitualidad establecida en el inciso tercero del artículo 18º de la Ley de la\nRenta en el caso de resciliación de contrato de venta de inmueble con saldo de precio\npendiente, afecto a renta presunta - Autonomía de la voluntad no puede desconocer\nexistencia de contrato - Resciliación de contrato otorgado con efecto retroactivo sólo\npuede alcanzar a derechos y obligaciones pendientes - Alteración o extinción de\nderechos u obligaciones ya consolidados supone nuevo contrato - Contrato de\nresciliación es válido y produjo efecto económico en el patrimonio de las partes - Se\nadquiere un bien raíz cuando éste se inscribe a nombre del nuevo adquirente - La\nresciliación de contrato de compraventa de inmueble con saldo de precio pendiente\ninscrito a nombre del adquirente en el Registro de Propiedad del Conservador de Bienes\nRaíces sólo produce efecto entre las partes - Existe enajenación del bien raíz para efectos\ndel Art. 17º Nº 8 letra b) e inciso tercero del artículo 18º de la Ley de la Renta.\n1.- Se ha recibido en este Servicio su presentación indicada en el antecedente, a través de la\ncual expresa que en su calidad de asesor le ha tocado participar en una operación en que un\ncliente, dueño de un predio agrícola que se encontraba en renta presunta, vendió su propiedad\nel 30 de Junio de 1997 a una empresa inmobiliaria quedando esta última con un saldo de precio\npendiente, el que se debió pagar a más tardar el 30 de Enero de 1998.\nTranscurrido el plazo antes establecido, la empresa inmobiliaria ha señalado su imposibilidad de\npagar el saldo de precio por lo que se les ha ofrecido resciliar el contrato. Esto es, según lo\ndefinido por el artículo 1.567 del Código Civil, una convención en que las partes interesadas\ndejan el contrato como nulo, es decir, ambas partes acuerdan dejar sin efecto el contrato\nrestableciendo la situación a la fecha previa a su celebración. Es decir, para todos los efectos\nlegales, el contrato nunca existió.\nDentro de esta misma negociación, el comprador ha solicitado suscribir una promesa de\ncompraventa con el fin de adquirir la propiedad dentro de un lapso de cinco meses o, en caso\ncontrario pagar una multa.\nPor lo anterior solicita se confirme que al resciliarse el contrato se entenderá para todos los\nefectos legales y, en especial para lo contemplado en el artículo 17 Nº 8 letra b) de la Ley de la\nRenta en relación con el artículo 18 inciso tercero, que su representado adquirió la propiedad en\nla fecha primitiva, es decir en el año 1975, por lo que no se aplica la presunción de habitualidad\nestablecida en el artículo 18, inciso tercero de la Ley de la Renta que en su parte pertinente\nseñala: \"Asimismo en todos los demás casos se presumirá la habitualidad cuando entre la\nadquisición o construcción del bien raíz transcurra un plazo inferior a un año\".\n2.- Sobre el particular, debe tenerse presente, como premisa fundamental, que la autonomía de\nla voluntad se traduce en que los individuos son libres para establecer y regular relaciones\njurídicas, sin intervención del legislador, teniendo como límite que no pueden ir contra ley\nimperativa o prohibitiva, el orden público y las buenas costumbres. Sin perjuicio de lo anterior,\nexiste otra limitación, no expresa y que se deriva de la realidad jurídica que esa autonomía crea\nal expresarse, y que se traduce en un acto jurídico determinado, que no puede ser negado por\nnadie, en cuanto crea una situación jurídica"
+    },
+    {
+      "name": "Oficio N°451 (20/02/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°451 (20/02/2012)",
+      "document_id": "3ed08639-2b55-5045-b355-41ce15e47d93",
+      "chunk_uuid": "7cd5a060-1446-5334-9489-813df965818e",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja451.htm",
+      "content": " al momento en que se cumplen todas y cada una de las modalidades\ny condiciones ya explicadas, lo que formalmente ocurre con la firma y/o notificación de la constancia del\ndescuento promocional. Por ello, es posible que la compraventa se firme en un ejercicio y que el descuento\nse verifique en el siguiente.\nSobre la materia, solicita expresamente aclarar si el menor ingreso se debe reconocer en el momento de la\nfirma de la escritura de compraventa o bien, en el momento en que se hace efectivo el descuento. En su\nopinión el criterio correcto sería reconocer el menor ingreso al momento en que jurídicamente el descuento\nse hace efectivo.\nI. ANÁLISIS.\nEn primer lugar, cabe señalar que este Servicio, mediante Oficio N°4291, de 2006, concluyó que en el caso\nespecífico allí planteado no existía un gasto necesario para producir la renta, sino que un menor precio de\nventa de los inmueble, el que se hacía efectivo a través de un descuento.\nEn efecto, en la situación sobre la cual se pronunció el referido Oficio, la empresa inmobiliaria recurrente\notorgaba a los promitentes compradores que suscribiesen promesas de compraventa, un bono canjeable en\ndinero, a la fecha de suscripción de la compraventa definitiva del inmueble, por el 5% del precio de cada\ndepartamento, debiendo el promitente comprador aplicar dicho dinero, única y exclusivamente al pago del\n5% del precio de la compraventa.\nTal como se indicó, este Servicio estimó que en dicho caso no existía un gasto necesario para producir la\nrenta, ya que el bono antes indicado no implicaba un desembolso efectivo al no realizar el contribuyente una\nadquisición o prestación real.\nAhora bien, en el caso planteado en su presentación, y según aparece de las Bases y Condiciones de la\npromoción acompañadas, la Inmobiliaria otorgará a sus clientes un beneficio consistente en un descuento del\nprecio de la compraventa, el que se verificará mediante la restitución material por parte de la Inmobiliaria al\n\n\npromitente comprador del mismo, dentro del plazo de 30 días, contado desde la fecha en que la Inmobiliaria\nhubiere percibido íntegramente el precio de la compraventa.\nPor su parte, entre los requisitos y condiciones de esta promoción se dispone que al momento de otorgar la\ncorrespondiente promesa de compraventa, el promitente comprador deberá suscribir un pagaré extendido a\nla orden de la Inmobiliaria con vencimiento a la fecha prevista para el otorgamiento de la compraventa\ndefinitiva, por un monto equivalente al total del porcentaje de descuento aplicable. Posteriormente, al\nmomento de otorgarse el contrato de compraventa definitivo, entre la Inmobiliaria y el comprador deberá\nsuscribirse un convenio complementario en el que se dejara constancia que se produce la novación\nconvencional de la obligación de pagar una parte del precio de la compraventa equivalente al monto\nconsignado en el pagaré, de modo que se dará por pagada esta parte del precio, subsistiendo la obligación\nde pago consignada en el pagaré.\nTranscurrido el plazo de 30 días, contado desde la fecha en que la Inmobiliaria hubiere percibido\níntegramente el pago del resto no novado del precio de la compraventa, la Inmobiliaria procederá a restituir el\npagaré al comprador contra la firma de este último de una constancia de haberse hecho efectivo el\ndescuento en el precio de la compraventa.\nDe acuerdo con ello, el precio de la compraventa se devenga en su totalidad, y la obligación de pagar el\nmismo se extingue, una parte mediante el pago efectivo, y la otra (equivalente al descuento) mediante\nnovación. Sin embargo, con posterioridad, la Inmobiliaria hace efectivo el descuento comprometido,\ndevolviendo el pagaré otorgado por dicho monto sin hacer efectivo su cobro.\nPor tanto, aun cuando al momento de otorgarse la compraventa definit"
+    },
+    {
+      "name": "Oficio N°2404 (23/12/2010)",
+      "source_type": "oficio",
+      "source": "Oficio N°2404 (23/12/2010)",
+      "document_id": "b4d02fe9-d4ee-5149-b2e5-5a2186f8e981",
+      "chunk_uuid": "21754291-d8f0-52ca-8494-35529543035c",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2010/renta/ja2404.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2010\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – OFICIO N° 1638, DE 2010. (ORD. N° 2404, DE\n23.12.2010)\nPRIMA DE COMERCIO JUSTO” RECIBIDA POR VENDEDOR CONSTITUYE UN INGRESO TRIBUTABLE\nANTE LOS IMPUESTOS ESTABLECIDOS EN LA LEY SOBRE IMPUESTO A LA RENTA.\nLa Dirección Regional de XXX ha remitido consulta a esta Dirección Nacional, efectuada por un\ncontribuyente que requiere un pronunciamiento sobre el tratamiento tributario aplicable a las “Primas de\nComercio Justo” o “Fairtrade”.\nI.- ANTECEDENTES.\nDe acuerdo a lo señalado por esa Dirección Regional, YYY S.A., de giro comercialización de productos\nagrícolas, y formada por 15 pequeños vitivinicultores, con el objeto de conseguir mejores precios para sus\nproductos, ha postulado al “Certificado de Comercio Justo”, documento que les permite comercializarlos a un\nprecio superior al precio de mercado actual. Este “Precio de Comercio Justo”, está compuesto por un “Precio\nMínimo”, más una “Prima de Comercio Justo”.\nII.- ANÁLISIS.\nEl comercio justo representa una alternativa al comercio convencional, impulsada por diferentes\norganizaciones no gubernamentales, que tienen como fin promover relaciones comerciales voluntarias y\njustas entre productores y consumidores, ofreciendo a los productores, un trato más justo y condiciones\ncomerciales más provechosas, que les permitan mejorar sus condiciones de vida, todo ello basado en\nprincipios que promueven el desarrollo económico, social o ambiental de la organización y sus asociados .\nPara ello, resulta primordial la “Prima de Comercio Justo” que se cobra al consumidor junto con el precio\nmínimo acordado por el producto, ya que dicha prima es utilizada por los productores justamente para\nmejorar la situación de sus comunidades, en ámbitos de la salud, educación, economía, medio ambiente,\netc., ya que son ellos, quienes deciden por sí mismos cuáles son sus principales necesidades. Ahora bien,\npara el consumidor, dicha prima se traduce en un mayor monto a pagar por la adquisición de aquellos\nproductos comercializados por organizaciones que trabajan con este sistema de “Comercio Justo” y que éste\nvoluntariamente decide y acepta pagar atendiendo al compromiso que siente con los objetivos que estas\norganizaciones persiguen.\nIII.- CONCLUSIÓN.\nConsiderando que este Servicio a través del Ord. N°1638, de 2010, ha concluido que la “Prima de Comercio\nJusto” constituye para el comprador parte del precio de los bienes adquiridos, independientemente del\ndestino que su vendedor le dé a ésta, encontrándose gravada con el Impuesto al Valor Agregado, ante las\nobligaciones establecidas en la Ley sobre Impuesto a la Renta, dicho importe representa un ingreso para el\nvendedor, al igual que el “Precio Mínimo”, afecto a la tributación normal establecida en ese texto legal, según\nsea la estructura jurídica del contribuyente.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\nOficio N° 2404, de 23.12.2010\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°4654 (24/11/2005)",
+      "source_type": "oficio",
+      "source": "Oficio N°4654 (24/11/2005)",
+      "document_id": "c0fb7820-56d3-5192-9c51-d216510c317e",
+      "chunk_uuid": "5fad63cf-12cc-5938-bc01-92a1382ff845",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja1056.htm",
+      "content": " en presencia de una “comisión” hay que determinar previamente si la\noperación encomendada es de carácter mercantil.\nRespecto de esta misma materia, debe tenerse presente lo dispuesto en el inciso segundo del Nº 1 del\nartículo 3º del Código de Comercio, interpretado a contrario sensu, disposición legal -que la jurisprudencia de\nlos Tribunales de Justicia ha extendido a todo el derecho comercial-, que presume mercantiles todos los\nactos destinados a complementar accesoriamente las operaciones principales de una empresa comercial,\naunque por su naturaleza pudieren calificarse de civiles.\nPor su parte, en cuanto al segundo requisito que exige dicha norma legal, se informa que este Servicio\nmediante la Resolución Exenta N° 01, de fecha 03.01.2003, modificada por Resolución Exenta N° 17, de\nfecha 02.04.2003, ambos instructivos publicados en el sitio Web que este organismo tiene habilitado en\nInternet, cuya dirección es: www.sii.cl, estableció las condiciones y plazos en que deben informarse al\nServicio las respectivas operaciones en comento.\n4.- Ahora bien, analizados los antecedentes que el recurrente entrega en su escrito, este Servicio concluye\nque en la especie las sumas a remesar al exterior se tratarían de comisiones de aquellas definidas en el\nnúmero precedente, y en la medida que se de cumplimiento a los requisitos que exige dicha norma legal y\nexplicitados anteriormente, estarían exentas del impuesto Adicional y, además, del Impuesto al Valor\nAgregado, conforme a lo dispuesto por el N° 7 de la Letra E) del artículo 12 del D.L. N° 825, de 1974.\n5.- En consecuencia, respondiendo las consultas específicas formuladas, respecto de la primera de ellas se\nseñala que las sumas que se remesen al exterior, estarían exentas de los impuestos antes indicados, por\ntratarse en la especie de comisiones mercantiles propiamente tales, según la definición de este concepto\nentregada precedentemente, y siempre y cuando a su vez dichas operaciones se informen a este Servicio en\nlos términos que se ha establecido en la citada Resolución Exenta N° 01, del año 2003, modificada por la\nResolución Exenta N° 17, del mismo año.\nEn cuanto a los documentos que se deben presentar para acreditar la remesa de tales sumas al exterior, y\npor tratarse de operaciones exentas del Impuesto al Valor Agregado, se expresa que se deben emitir\naquellos documentos a que se refiere la Resolución Exenta N° 6080, de 1999, modificada por las\nResoluciones Exentas N°s. 6444 y 8377, de 1999, publicadas en Internet (www.sii.cl)\nJUAN TORO RIVERA\nDIRECTOR\nOficio N° 4.654 de 24.11.2003.\n\n\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Circular N°129 (30/09/1977)",
+      "source_type": "circular",
+      "source": "Circular N°129 (30/09/1977)",
+      "document_id": "3ae4aec9-62d7-530c-a83a-bf868339ec69",
+      "chunk_uuid": "f670c198-4c7c-570b-b2df-1014fcb72da4",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/documentos/circulares/1977/circu129.pdf",
+      "content": " La compravente un valor más elevado al de dicha tasación.\nPERMUTA\nDL. 1939/77, Articulo 34° Bl. Presidente de la Repúbli 4, a través del Ministerio (со Tierras y Colonización). po drá, en casos calificadoa y ситр11Алдове las exigencias del artículo 30º de este deore to ley, permutar un bien raíz fiscal por un inmueble de otro dueño, Estos bienes deberán ser tang dos por el Servicio de Impues tos Internas, S1: de la: tasación apareciere que existen diferen cias de valores, datos deberán радиree por el Sorvlcio o por la contraparte en la forma que se convenga,\nDL. 1939/77, Artículo 30° - 31 Servicio, interesudo en la compra de un bieri raíz deberá sur autorizado previamente por. el Ministerio del cual deponde,\tDPL. 789/78, Artículo 8° Facultase a las Municipa lidades para permutare biones rafceo, previa tasa ción del Servicio de Impues tos Internos. Ias diferenciaa de valores que pudieran exis tir entre los inmueblas que se permutan, se pagarán con forme lo acuerden las partes.\n\n3\ny el gasto que se origine de imputará al ítem respectivo del Presupuesto del Servicio correspondiente.\nVENTA\nD.L. 1939/77. Artículo 85° El precio de venta do 108 bienes fiscales no podrá ser inferior a su valor comercial, que será fijado por una Comi sión Especial de Enajenacio nes, previa tasación que debe rán practicar separadamente el Servicio de Impuestos Internos y la Dirección de Tierras y Bienee Nacionales. El precio se pagará al contado o en el plazo que se estipule.\tDFL. 789/78, Artículo 15 El precio de venta de los biencs municipales no podrá aer inferior a eu valor comer cial, determinado por la tasa ción previa que deberá practi car el Servicio de Impuestos Internoe. Sin perjuicio de lo anterior, el Alcalde podrá so licitar a la Comisión Especial de Enajenación la fijación del precio de venta del inmueble a transferir, de conformidad a lo establecido en el Art, 85. del D.L. N°1,939, de 1977, у su reglamento.\n6.- DERECHOS SUCESORIOS DEL FISCO.\nDL, 1939/77 Artículo 42°- Los derechos sucesorios del Fisco ве regularán por las normas de la legislación común y por lus espe ciales de este párrafo.\nCualquier persona puede poner en conocimiento del Servicio (Dirección de Tierras y Hienes Nacionales) la existencia de dere chos hereditarios que le correspondan al Fisco, así como de cual quier clase de bienes que, perteneciéndole, no tuviere de ellos conocimiento, o que se encontraren indebidamente en poder de ter ceroa.\nEl denunciante que cumpliere los requisitos que más adelan te se señulan, tendrá derecho a un galardón, equivalente al 30% del valor liquido de los bienes respectivos.\nDL. 1939/77, Artículo 52°. Para establecer el monto de la recom pensa los bienes raíces se considerarán por el avaldo comercial fijado por el Servicio de Impuestos Internos y ouya vigenoia máxi ma no podrá exceder de seis meses, contados desde la fecha del de creto del galardón.\n7.- ARRENDAMIENTO DE BIENES RAICES MUNICIPALES.\nDL. 1289/74, Artículo 43°.- El arrendamiento de bienes raíces mu nicipales requerirá la autorización del Gobernador, La renta nen sual no podrá ser inferior al 10% de un duodécimo de la tasación que practique el Servicio de Impuestos Internos, especialmente al efecto. La tasación se actualizará anualmente,\n6.- ENAJENACION DE TERRENOS FISCALES ADQUIRIDOS GRATUITAMENTE.\nDL, 1939/77, Artículo"
+    },
+    {
+      "name": "Oficio N°855 (01/04/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°855 (01/04/2021)",
+      "document_id": "21d94d6d-8133-5b90-b593-17016e4468cb",
+      "chunk_uuid": "630bfb87-2a15-5cf6-b71e-f43790e5cdd4",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=855-01%2F04%2F2021.pdf&extension=pdf&acc=download&id=1815d85c-df0c-47b2-8226-684416609331&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – LEY SOBRE IMPUESTO A LAS – ART. 2, N° 3 \n– DECRETO SUPREMO N° 55, DE 1977, ART. 4. (ORD. N° 855, DE 01.04.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nIVA en la  resciliación  de  un  contrato  de compraventa de un bien raíz. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre el efecto en IVA en la resciliación de un \ncontrato de compraventa de un bien raíz. \n \nI        ANTECEDENTES \n \nDe acuerdo con su presentación, el año 1996 era dueño de una parcela en la comuna de XXXX, la cual \nvendió en 2003. Indica que las condiciones pactadas en dicha compraventa no se cumplieron, motivo \npor el cual con fecha 28 de diciembre de 2020 rescilió el contrato, quedando la propiedad nuevamente \na su nombre. Manifiesta que actualmente quiere vender nuevamente el bien raíz. \n \nAl respecto, consulta si puede vender ahora la propiedad sin que se le considere vendedor habitual y \npor tanto no tenga que pagar IVA. \n \nII       ANÁLISIS \n \nEn relación con la resciliación o mutuo disenso de un contrato como el que describe en su \npresentación, este Servicio ya se ha pronunciado, indicando que, para efectos tributarios, este modo de \nextinguir obligaciones solo produce efectos para el futuro, de manera que si las partes quisieran \nhacer desaparecer los efectos ya cumplidos del contrato resciliado, deben concurrir a una nueva \nconvención. \n \nEn el caso de los inmuebles, su tradición o entrega (enajenación) se verifica mediante su inscripción en \nel Conservador de Bienes Raíces. De esta manera, una compraventa resciliada con posterioridad a la \ninscripción del inmueble en el Conservador de Bienes Raíces no puede retrotraer los efectos de la \ncompraventa, desconociendo la tradición ya efectuada. En tal caso, este acto jurídico, más que una \nresciliación, constituirá un nuevo título traslaticio del inmueble.1 \n \nDado lo expuesto, la venta que se analiza se estaría verificando dentro de un año contado desde la \nadquisición de la propiedad, no obstante, no se aclara en la presentación si el inmueble a que se refiere \nla consulta es un inmueble construido o es un terreno desprovisto de construcciones, ya que sólo se \ndescribe como una “parcela”. \n \nAl respecto, el Nº 1°) del artículo 2º de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) define \nventa como toda convención independientemente de la designación que le den las partes, que sirva para \ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles \nconstruidos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, \ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta. \n \nComo se aprecia, la ley sólo grava la venta de inmuebles construidos, de manera que si la operación a \nque se refiere la consulta recae sobre un terreno sin construcciones ella no se encontrará afecta a IVA. \n \n \nPor el contrario, si la venta recae sobre un inmueble construido, el Nº 3°) del artículo 2° de la LIVS \ndefine como vendedor a cualquier persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e \ninmuebles, sean ellos de su propia producción o adquiridos de terceros. \n \nEn relación con el concepto de vendedor, el texto anterior de la LIVS establecía una presunción \nmeramente legal de habitualidad en la venta de inmuebles, cuando entre la adquisición o construcción \ndel bien raíz y su enajenación transcurra un plazo inferior a un año."
+    },
+    {
+      "name": "Oficio N°3539 (22/12/2009)",
+      "source_type": "oficio",
+      "source": "Oficio N°3539 (22/12/2009)",
+      "document_id": "b470bdf9-30bb-5b51-a3f3-7c5a4fe0c6bb",
+      "chunk_uuid": "29b23fc2-fbad-5bf3-9c05-e3d540899849",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2009/renta/ja3539.htm",
+      "content": " valor asignado, en la compraventa de bienes raíces,\nsi el fijado en el respectivo contrato es notoriamente inferior al valor comercial de los inmuebles de\ncaracterísticas similares.\nManifiesta que a su juicio, en el caso concreto, el precio asignado en la compraventa de los inmuebles que\nforman parte del “Proyecto Integral XXXX”, no es susceptible de tasación, por cuanto esta convención forma\nparte de la operación de financiamiento, denominada “lease back”, lo que supone considerarla en su\nconjunto con el contrato de arrendamiento con opción de compra, que celebrarán en forma simultánea la\nInmobiliaria y el Banco.\nA mayor abundamiento, indica que el precio asignado al contrato de compraventa, no es notoriamente\ninferior al valor comercial de los inmuebles enajenados, puesto que representa aproximadamente un valor\ninferior a un veinte por ciento, margen que atendiendo a las restricciones de financiamiento que sufre el país,\nse encuentra dentro de los parámetros de mercado para una operación pagada al contado y que la\noperación de financiamiento, se celebra entre dos partes no relacionadas entre sí y en las condiciones\nfinancieras que establece el mercado bancario.\nConforme a lo señalado, solicita confirmar que el precio asignado en la escritura de compraventa, de los\ninmuebles que forman parte del “Proyecto Integral XXXX”, celebrada al amparo de una operación de lease\nback, entre la Inmobiliaria XXXX S.A. y TTTT, no es susceptible de tasación, por no ser aplicable en la\nespecie lo dispuesto en el artículo 64, inciso 6 del Código Tributario.\n2.- Sobre el particular, cabe señalar en primer término que de la situación planteada se derivan dos actos\njurídicos diversos. El primero de ellos corresponde a la compraventa de bienes inmuebles de propiedad de\nInmobiliaria XXXX S.A. al TTTT, y el otro, al arrendamiento de los mismos bajo un contrato de leasing por\n\n\nparte de la segunda empresa indicada a la primera sociedad señalada; todo ello en los términos expresados\nen el contrato pertinente celebrado entre las partes. En resumen, en la especie se trata de un contrato de\ncompraventa de inmuebles, acompañado o asociado a un contrato de arriendo con opción de compra\nrecaído sobre los mismos bienes.\n3.- Respecto del precio o valor asignado en la operación de compraventa del bien inmueble que describe,\nresulta plenamente aplicable lo dispuesto por el inciso 6°, del artículo 64, del Código Tributario que\nestablece: “En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación\nse basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o\nvalor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los\ninmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro\ntrámite previo el impuesto correspondiente. De la tasación y giro sólo podrá reclamarse simultáneamente\ndentro del plazo de 60 días contado desde la fecha de la notificación de este último.”\nDe acuerdo a la norma legal transcrita precedentemente, el Servicio de Impuestos Internos se encuentra\nautorizado para ejercer la facultad de tasación, en aquellos casos en que proceda aplicar impuestos cuya\ndeterminación se basa en el precio o valor de bienes raíces, como ocurre en la compraventa de los bienes\ninmuebles que describe en su consulta.\nAgrega la citada norma, que este Servicio podrá tasar dicho precio o valor, si el fijado en el respectivo acto o\ncontrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación\nsimilares, en la localidad respectiva.\n4.- Por lo tanto, en el caso planteado en su presentación cabe señalar que sí resulta aplicable la facultad de\ntasación que contempla el inciso 6 del artículo 64 del Código Tributario, sin"
+    },
+    {
+      "name": "Oficio N°3516 (21/09/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°3516 (21/09/1999)",
+      "document_id": "2d622f0b-d43a-5327-8563-bbb44b81aa63",
+      "chunk_uuid": "516a27f4-3c32-5b1e-8280-443d4927affa",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/septiembre01.htm",
+      "content": " en que los individuos son libres para establecer y regular relaciones\njurídicas, sin intervención del legislador, teniendo como límite que no pueden ir contra ley\nimperativa o prohibitiva, el orden público y las buenas costumbres. Sin perjuicio de lo anterior,\nexiste otra limitación, no expresa y que se deriva de la realidad jurídica que esa autonomía crea\nal expresarse, y que se traduce en un acto jurídico determinado, que no puede ser negado por\nnadie, en cuanto crea una situación jurídica nueva.\nPrecisamente, en el caso de los actos jurídicos bilaterales esa voluntad libre se expresa en un\ncontrato que, más allá de sus efectos relativos –restringidos a los derechos y obligaciones\ngenerados por dichos acuerdos- crea una nueva realidad, un nuevo status jurídico, la mayor\nparte de las veces de carácter económico, que implica un desplazamiento de bienes de un\npatrimonio a otro, situación que no puede ser desconocida ni por terceros ni por las propias\npartes que participan en él.\nDe este modo, las partes de un contrato son soberanas para estipular acuerdos que modifiquen\no pongan término a las relaciones jurídicas creadas, pero esa autonomía de la voluntad, no\ntiene el poder de mutar la realidad, esto es desconocer la existencia misma del contrato.\n\n\n3.- En el mismo sentido, el mutuo acuerdo de las partes que pone término a un contrato, de\nconformidad al artículo 1.567 del Código Civil, al que los contratantes le han otorgado un efecto\nretroactivo, no puede ser absoluto, toda vez que sólo puede alcanzar a los derechos y\nobligaciones pendientes. La alteración o extinción de los derechos u obligaciones ya\nconsolidados, en realidad supone la celebración de un nuevo contrato, que da lugar a nuevas\nprestaciones mutuas que inciden en restituciones de lo que se hubiere dado o entregado en\nrazón del contrato resciliado.\n4.- Ahora bien, de acuerdo a los antecedentes aportados, el contrato de venta del bien raíz se\nsuscribió el 30 de junio de 1997, adeudándose un saldo del precio por parte del adquirente,\nmotivo por el cual se plantea la posibilidad de resciliar el contrato. De esta forma, no puede\ndesconocerse la celebración de un contrato plenamente válido, que produjo un efecto\neconómico en el patrimonio de las partes, creando un nuevo status jurídico para ellas.\n5.- Por otra parte es procedente aclarar, que la adquisición de un bien raíz se produce cuando el\ninmueble respectivo se encuentre inscrito a nombre del nuevo adquirente, de manera que si se\ncelebra un contrato de compraventa sobre un bien de esta naturaleza, encontrándose pendiente\nalguna obligación que emana del contrato, en este caso el pago de parte del precio, motivo por\nel cual las partes acuerdan celebrar la resciliación del mismo; cabe expresar, que si el inmueble\nfue debidamente inscrito a nombre de la inmobiliaria en el Registro de Propiedad del\nConservador de Bienes Raíces, es improcedente obviar los efectos de esa convención,\ndebiendo considerarse que la resciliación sólo produce efectos entre las partes, sin que\nextienda sus consecuencias ante terceros, por lo cual no podrá desconocerse la existencia de la\nenajenación del bien raíz para los efectos del artículo 17 Nº 8 letra b) de la Ley de la Renta, e\ninciso tercero del artículo 18 del mismo texto legal.\nPor el contrario, si el inmueble objeto de la compraventa no hubiese sido inscrito a nombre de la\nempresa adquirente, jurídicamente no se habría producido la transferencia del dominio,\ndebiendo entenderse que no ha existido la enajenación del mismo, y consecuencialmente en tal\ncaso resultaría que la propiedad habría sido adquirida por su propietario original en la fecha\nprimitiva por Ud. señalada, esto es, en el año 1975.\n \nALFREDO ECHEVERRIA HERRERA\nDIRECTOR SUBROGANTE\n"
+    },
+    {
+      "name": "Oficio N°1530 (07/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1530 (07/08/2020)",
+      "document_id": "e348e2f8-b649-514e-9dfd-a1075203d9e6",
+      "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1530-07%2F08%2F2020.pdf&extension=pdf&acc=download&id=00c6371d-b1b1-42a0-8824-147d68f90471&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – ART. 2 N°s 2 Y 3 Y ART. 23 N° 3 – D.S. N° 55, DE 1977, ART. 4 – \nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 2 N° 2 Y 20 N° 5 – CÓDIGO \nCIVIL, ART. 1554 \n \n(ORD. N° 1530 DE 07.08.2020). \nTratamiento tributario de la cesión a título oneroso de contratos de promesa de compraventa \nsobre inmuebles. \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario de la cesión a título \noneroso de contratos de promesa de compraventa sobre inmuebles, con respecto al Impuesto de Primera \nCategoría (IDPC) y al Impuesto al Valor Agregado (IVA). \nI \nANTECEDENTES \nDe acuerdo con su presentación, una empresa inmobiliaria (la sociedad) de propiedad de un fondo de \ninversión privado y dedicada a la explotación de bienes raíces está evaluando implementar el modelo de \nnegocios que se describe a continuación.  \nLa sociedad se dedicaría a la búsqueda de bienes raíces cuyos propietarios estén interesados en \nvenderlos, celebrando un contrato de promesa de compraventa con el propietario del inmueble conforme \nal artículo 1554 del Código Civil. Dicho contrato establecería que la sociedad puede adquirir el \ninmueble para sí, o para la persona que ésta designe, pagando en el acto, como anticipo, una parte o la \ntotalidad del precio del precio de la compraventa prometida. Además, en dicho contrato se estipularía \nexpresamente la facultad de cederlo a un tercero.  \nEn una segunda etapa, la sociedad buscaría terceros interesados en la compra del inmueble y, previa \ncesión del contrato de promesa de compraventa suscrito entre la sociedad y el propietario, se celebraría \nel contrato de compraventa definitivo entre el propietario del inmueble y el tercero, generándose una \nutilidad en la cesión de dicho contrato.  \nLa sociedad se dedicaría de forma habitual a la cesión de los contratos de promesa de compraventa \nindicados con el fin de generar una rentabilidad. No obstante, la sociedad eventualmente podría adquirir \npara sí un bien inmueble, con la intención de revenderlo y obtener un mayor valor por la diferencia entre \nel precio de compra y de venta.  \nConforme lo expuesto, solicita confirmar el tratamiento tributario que se señala a continuación: \n1) \nDesde la perspectiva de la Ley sobre Impuesto a la Renta (LIR), la utilidad generada en la cesión \ndel contrato de promesa de compraventa se clasifica en el N° 5 del artículo 20 de la LIR, \nconstituyendo la base imponible el mayor valor generado por la diferencia entre el precio de \ncompraventa pagado como anticipo al suscribir el contrato de promesa y el precio de cesión de \ndicho contrato. Por ejemplo, la sociedad celebra un contrato de promesa de compraventa de un \ninmueble y paga como anticipo del precio de compraventa la suma de $ 100. Posteriormente, la \nsociedad cede dicho contrato a un tercero, pagando como precio de la cesión la suma de $ 150. \nProducto de lo anterior se genera para la sociedad una renta de $50 afecta a tributación.  \n2) \nEn lo que concierne al IVA, la celebración del contrato de promesa de compraventa y la posterior \ncesión de dicho contrato no están comprendidos en los hechos gravados de la Ley sobre Impuesto a \nlas Ventas y Servicios (LIVS).  \n3) \nSi la Sociedad adquiere la propiedad del inmueble que ha prometido comprar y posteriormente lo \nvende, calificaría como vendedor habitual, de acuerdo al N° 3 del artículo 2° de la LIVS.  \nII \nANÁLISIS \nSin perjuicio que no se acompañó el contrato de promesa de compraventa señalado en la presentación, \neste Servicio ent"
+    },
+    {
+      "name": "Oficio N°1946 (29/07/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1946 (29/07/2015)",
+      "document_id": "badde882-bdf0-537d-b71d-4844a32e6b09",
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/renta/ja1946.htm",
+      "content": " que ocurrió en julio de 2010;\ny en cambio para los efectos de determinar la presunción de habitualidad en la venta del mismo bien raíz,\neste Servicio consideraría la fecha de inscripción del título en el Conservador de Bienes Raíces, esto es, en\nagosto de 2013, lo que a su juicio sería una incongruencia.\nAcompaña copia de la escritura definitiva de compraventa y adjudicación del bien raíz, de fecha 12 de agosto\nde 2013, y copia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces, de día 21\ndel mismo mes y año.\n3.- Por consiguiente, solicita se ratifique que para la aplicación de la presunción legal de habitualidad que\nestablece la última parte, del inciso 3°, del artículo 18 de la LIR, se debería considerar como fecha de\nadquisición del bien raíz, la de suscripción del acta de remate en pública subasta, evento que ocurrió el 20 de\njulio de 2010 y no la fecha de inscripción de la escritura de venta suscrita, que ocurrió el 21 de agosto de\n2013.\nII.- ANÁLISIS.\n1.- En primer lugar, se debe señalar que tanto el Oficio N°1.269, de 2013, a que se refiere su requerimiento,\ncomo otros sobre el mismo punto, han sido dictados en conformidad a lo establecido en el ordenamiento\njurídico, en el sentido que para la enajenación y adquisición del dominio se exige la concurrencia de dos\nelementos jurídicos, a saber, un título y un modo de adquirir; ya que los contratos como el de compraventa,\nno transfieren el dominio ni ningún otro derecho real, sino que de ellos sólo emanan derechos personales o\nde crédito. En el caso de los bienes raíces, dicha adquisición se efectúa precisamente por la inscripción del\ntítulo en el Registro de Propiedad del Conservador de Bienes Raíces respectivo, acto en virtud del cual se\nlleva a cabo la tradición de los indicados bienes . Por consiguiente, si bien en el caso en consulta se habría\nsuscrito el acta de remate en el mes de julio de 2010, en cuanto al momento en que se entiende adquirido o\n\n\nenajenado el dominio del bien raíz para los efectos de la aplicación de la presunción legal de habitualidad\nestablecida en la segunda parte, del inciso 3°, del artículo 18 de la LlR, la \"adquisición\" y venajenaciónw,\ntiene lugar sólo cuando el título de transferencia de dominio del inmueble respectivo, esto es, la compraventa\ndefinitiva, se encuentre debidamente inscrita a nombre del nuevo adquirente en el Registro de Propiedad del\nConservador de Bienes Raíces.\nPor lo anterior, en una venta forzada, el modo de adquirir el dominio, es decir, la tradición del derecho real de\ndominio sobre el bien raíz, está constituido por la competente inscripción en el Registro de Propiedad del\nConservador de Bienes Raíces, que tiene por título dicha venta, efectuada por el ministerio de la justicia .\n2.- En cuanto a lo expresado en su segunda presentación, cabe señalar que ella se refiere a una materia\ndistinta a la que resuelve el Oficio que solicita sea reconsiderado. Por una parte, alude al artículo 70 de la\nLIR, que dispone que cuando no se acredite el origen de los fondos con los que se han efectuado\ndeterminados gastos, desembolsos o inversiones, se presumirá que corresponden a utilidades afectas a\nImpuesto de Primera Categoría del N°3, del artículo 20, o en la Segunda Categoría conforme al N° 2, del\nartículo 42, según corresponda; y por otro lado, se refiere al inciso 3°, del artículo 18 de la LIR que establece\nla aplicación de una presunción legal de habitualidad en la venta o enajenación de bienes raíces. Dichas\ndisposiciones legales tienen presupuestos diferentes, ya que en el primer caso se debe acreditar la"
+    },
+    {
+      "name": "Oficio N°538 (23/03/2009)",
+      "source_type": "oficio",
+      "source": "Oficio N°538 (23/03/2009)",
+      "document_id": "738d10b7-c5f2-5e8d-8f95-f2202cb57d68",
+      "chunk_uuid": "89188700-3d0c-59e4-b735-290e24e73a72",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2009/renta/ja538.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2009\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°5, ART. 41° – OFICIO N° 3.032, DE 2002.\n(ORD. N° 538, DE 23.03.2009)\nBIEN RAÍZ POSEÍDO EN COMUNIDAD – DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 31°,\nN°5, DE LA LEY SOBRE IMPUESTO A LA RENTA, SE AUTORIZA A DEDUCIR COMO GASTO\nNECESARIO PARA PRODUCIR LA RENTA, EN CUANTO SE RELACIONE CON EL GIRO DEL NEGOCIO,\nUNA CUOTA ANUAL DE DEPRECIACIÓN POR LOS BIENES FÍSICOS DE ACTIVO INMOVILIZADO LOS\nEFECTOS DE LO DISPUESTO EN EL N°5 DEL ARTÍCULO 31°, DE LA LEY DE LA RENTA –\nREQUISITOS – LOS DERECHOS QUE SE POSEEN RESPECTO DE UN BIEN RAÍZ, POSEÍDO EN\nCOMUNIDAD, NO TIENEN EL CARÁCTER DE UN BIEN FÍSICO DEL ACTIVO INMOVILIZADO SINO QUE\nUN DERECHO QUE ES UN BIEN INTANGIBLE, LOS CUALES NO ESTÁN SUJETOS A DEPRECIACIÓN\nNI A AMORTIZACIÓN, YA QUE NO EXISTE NORMA LEGAL QUE AUTORICE DEDUCCIONES\nTRIBUTARIAS POR ESTOS CONCEPTOS.\n1.- Por presentación indicada en el antecedente, señala que dentro de sus clientes se encuentra la situación\nde que tres de ellos, todas personas jurídicas y con giro de inversiones, adquirieron un bien raíz en\ncomunidad para el objeto de destinarlo a sus actividades comerciales como oficinas, de manera que en la\nactualidad el bien raíz se utiliza para los fines señalados.\nLa proporción que corresponde a cada una de las empresas en la comunidad por el bien comprado es de\n40%, 30 % y 30%, y a su vez, cada una de ellas contabilizó en sus registros contables utilizando la cuenta\nDerechos en Bienes Raíces por el valor que corresponde a su proporción y se acogen a las normas de\ncorrección monetaria del articulo 41 de la Ley de la Renta.\nSin embargo, ha surgido la duda de si a estos bienes del activo le son aplicables las normas de\ndepreciaciones establecidas en el artículo 31, N° 5, que para los efectos de la determinación de la renta\nlíquida permite deducir: \"Una cuota anual de depreciación por los bienes físicos del activo inmovilizado a\ncontar de su utilización en la empresa, calculada sobre el valor neto de los bienes a la fecha del balance\nrespectivo, una vez efectuada la revalorización obligatoria que dispone el artículo 41\".\nLo anterior debido a que al ser dueño de una parte del bien, su tenencia se transforma en derechos, que por\nnorma general por tratarse de bienes intangibles no están afectos a depreciaciones, sin embargo, en\nrespuesta a otras consultas específicamente sobre presunción de habitualidad, el Servicio ha señalado \"que\nno siendo el derecho que recae sobre un bien raíz un derecho distinto del de dominio, la cesión que se haga\nde dicho derecho real al cesionario transfiere el dominio del cedente en ese bien produciéndose en la\nespecie la enajenación de un bien raíz (Oficio N° 3.032, de 26.08.2002).\nComo a la enajenación de los derechos se le da el carácter de enajenación de un bien raíz, le surge la duda\nsi para los efectos de las depreciaciones también tiene el carácter de un bien raíz, razón por la cual se\nconsulta si los derechos en bienes raíces están sujetos a las depreciaciones contempladas en el artículo 31.\n2.- Sobre el particular, en primer término procede señalar que el N° 5 del articulo 31 de la Ley de la Renta\nautoriza a deducir como g"
+    },
+    {
+      "name": "Oficio N°3005 (05/11/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°3005 (05/11/2012)",
+      "document_id": "889b8504-16fa-55a2-9b1f-04359aaea376",
+      "chunk_uuid": "b21a81a0-7b2c-5e0a-b04a-1811fa72209c",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja3005.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2012\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 17° y CÓDIGO CIVIL, ART. 1567°. (ORD. N°\n3005, DE 05.11.2012)\nEFECTOS TRIBUTARIOS DE CONVENCIÓN CONSISTENTE EN LA RESTITUCIÓN RECÍPROCA DE LAS\nACCIONES Y DEL PRECIO PAGADO POR ÉSTAS, ACORDADOS EN CONTRATO DE COMPRAVENTA\nANTERIOR.\nSe ha consultado sobre los efectos tributarios de un acto jurídico que califica como resciliación de un contrato\nde compraventa de acciones, en que el precio establecido tiene una parte fija y determinada que se pagó en\nel momento de la firma del contrato, y otra parte variable, determinable y condicional, sujeta a que se\nalcancen determinados niveles de utilidades, cuyo pago se concretaría durante los ejercicios 2011 y 2012.\nI.- ANTECEDENTES.\nSe consulta sobre una sociedad de responsabilidad limitada que determina su renta efectiva mediante\ncontabilidad completa, que procedió a vender, durante el ejercicio comercial 2010, sus acciones en una\nsociedad anónima cerrada cuyo objeto es el desarrollo y comercialización de portales web destinados al\nnegocio inmobiliario. Las acciones vendidas representan aproximadamente el 19% del total de las acciones\nemitidas por la respectiva sociedad, todas ellas debidamente pagadas. El contrato de compraventa de\nacciones estableció un precio que tiene una parte fija y determinada y una parte variable determinable y\ncondicional, que se debía pagar durante los ejercicios 2011 y 2012 si se alcanzan determinados niveles de\nutilidades. La parte fija y determinada del precio ascendente a $xxxxxxx fue completamente pagada en\ndinero efectivo y declarada recibir contra la firma del correspondiente contrato de cesión de acciones,\nquedando pendiente de determinación y pago aquella parte del precio variable y condicional. La vendedora\nno es habitual en la compra y venta de acciones.\nLa parte compradora de las acciones ha manifestado a la vendedora su intención de poner término al\nnegocio común, para lo cual han propuesto a la sociedad vendedora resciliar el contrato de compraventa,\nprocediendo la compradora a restituir las acciones a la vendedora, y esta última, a restituir la cantidad fija del\nprecio de compraventa, ascendente a $xxxxxxxx, a plazo, renunciando a cualquier derecho a cobrar el saldo\nde precio de compraventa variable y condicional.\nEn atención a lo expresado, solicita un pronunciamiento acerca de los efectos tributarios de la restitución de\nlas acciones y del precio pagado por éstas, en los términos planteados en su presentación, y si dicho\nproceder exime a la vendedora de su obligación de pagar el correspondiente Impuesto de Primera Categoría\nen carácter de único establecido en el artículo 17 de la Ley sobre Impuesto a la Renta devengado como\nconsecuencia del pago de la parte fija del precio de compraventa, calculado sobre aquella parte que\ncorresponda al mayor valor obtenido en la venta de las acciones por sobre el valor de adquisición de las\nmismas reajustado de acuerdo a la variación del Índice de Precios al Consumidor, conforme a lo establecido\nen el citado artículo 17.\nII.- ANÁLISIS.\nA través de su jurisprudencia este Servicio ha expresado que la autonomía de la voluntad se traduce en que\nlos individuos son libres para establecer y regular sus relaciones jurídicas, teniendo como límite el que no\npueden ir contra ley imperativa o prohibitiva, el orden público o las buenas costumbres. Sin perjuicio de lo\nanterior, existe otra limitación, no expresa y que se deriva de la realidad jurídica que esa autonomía crea al\nexpresarse, y que se traduce en un acto jurídico determinado, que crea una situación jurídica nueva.\nPrecisamente, en el caso de los actos jurídicos bilaterales esa voluntad libre se puede expresar en un\ncontrato que, más all"
+    },
+    {
+      "name": "Oficio N°2658 (19/11/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°2658 (19/11/2020)",
+      "document_id": "65cd19ad-38d1-5615-ae6d-1da9d6c000bb",
+      "chunk_uuid": "9c9ac67b-9212-58a9-812e-5815a58128b9",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2658-19%2F11%2F2020.pdf&extension=pdf&acc=download&id=7dc6718b-8c0a-42ac-9010-83798814f771&mediaType=application%2Fpdf",
+      "content": " fecha, la enajenación de bienes raíces situados en Chile, efectuada por \npersonas naturales, que no calificara de habitual ni fuera efectuada a un relacionado, quedaba amparada \npor el ingreso no renta establecido en el N° 8 del artículo 17 en concordancia con el artículo 18 de la \nLIR vigente en la época señalada. \nUna vez efectuada la resciliación, al suscribirse un nuevo contrato de compraventa, la sucesión quedará \nafecta a impuesto a la renta, atendido que la fecha de adquisición del inmueble, será, como ya se señaló, \nla fecha en que se hubiere inscrito la resciliación. \nEn relación a la base imponible de esta nueva compraventa, conforme a la LIR vigente en la actualidad, \nesta se determinará según las normas vigentes al momento en que se verifique el incremento \npatrimonial, lo cual ocurrirá desde la percepción del mayor valor obtenido en la enajenación, por \ntratarse en este caso de una renta obtenida por personas naturales en una enajenación de derechos sobre \nun inmueble, de acuerdo al artículo 17 N° 8 letra b), de la LIR, sujetándose únicamente al impuesto \nglobal complementario o Adicional, sobre base percibida, aplicándose el ingreso no renta de hasta 8.000 \nUF establecido en dicha norma. \nPara determinar dicho mayor valor, deberá tomarse en consideración el valor señalado en la declaración \ny pago del Impuesto a las Herencias, Asignaciones y Donaciones, es decir, su avalúo fiscal9, \ndebidamente reajustado. \nIII \nCONCLUSION \nConforme lo expuesto precedentemente se informa que: \n1) La inscripción en el Conservador de Bienes Raíces constituye la tradición o enajenación del \ninmueble en el caso planteado, dando por cumplida la obligación del vendedor. \n2) Conforme lo anterior, si se pretende “resciliar” el título que dio origen a dicha inscripción, más que \nuna resciliación, se verifica un nuevo acto jurídico en que se transfiere el inmueble, de modo que la \n \n4 Abeliuk, obra citada, página 297. \n5 Oficio N° 3516 de 1999. \n6 Artículo 686 del Código Civil. \n7 Oficio N° 1555 de 1997 y Oficio N° 3516 de 1999. \n8 Artículo 17 N° 8 inciso final de la Ley sobre Impuesto a la Renta. \n9 Conforme al artículo 46 letra b) de la Ley N° 16.271, cuyo texto refundido, coordinado y sistematizado se encuentra en el Decreto con Fuerza \nde Ley N° 1 del Ministerio de Justicia, del año 2000. \n\n\n3 \n \nadquisición corresponderá al año en que se efectúe la inscripción de este nuevo acto que el \nconsultante llama “resciliación” en el Conservador de Bienes Raíces competente. \n3) En el caso de la consulta, la nueva enajenación efectuada en forma posterior a la denominada \n“resciliación” se gravará de acuerdo a las reglas de la letra b) del N° 8 del artículo 17 de la LIR y la \nbase imponible del impuesto será el mayor valor obtenido en la enajenación del inmueble, el cual \nse determinará deduciendo del precio de enajenación el costo tributario del bien raíz, \ncorrespondiente al valor señalado en la declaración y pago del Impuesto a las Herencias, \nAsignaciones y Donaciones, es decir, su avalúo fiscal, debidamente reajustado. \nSaluda a usted, \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \n \n \n \nOficio N° 2658 del 19-11-2020 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Circular N°49 (28/08/1998)",
+      "source_type": "circular",
+      "source": "Circular N°49 (28/08/1998)",
+      "document_id": "109f1085-eab2-5759-925f-f5977da2555e",
+      "chunk_uuid": "c075d9be-d1e7-588a-a8e0-71c313fbb7b5",
+      "chunk_id": 8,
+      "url": "http://www.sii.cl/documentos/circulares/1998/circu49.htm",
+      "content": " el Diario Oficial de la Ley Nº\n19.578 (esto es, a partir del 29.07.98), a la referida persona natural con la cual se encuentran\nrelacionados, al valor neto que corresponda al bien para los efectos de la Ley de la Renta. En el\ncaso de contribuyentes que llevan contabilidad completa, dicho valor será equivalente al valor\nneto de libro para fines tributarios por el cual aparece registrado dicho bien en la contabilidad a\nla fecha de la enajenación, sin aplicar ninguna otra actualización ni depreciación. Respecto de los\ncontribuyentes que de acuerdo a las normas anteriores no hayan aplicado normas de\nactualización ni depreciación a dichos bienes, el valor neto de éstos corresponderá al precio de\nadquisición del bien, más las revalorizaciones dispuestas por el artículo 41 Nº 2 de la ley y\nmenos las depreciaciones practicadas conforme a las normas del artículo 31 Nº 5 de la ley del\nramo, ambas normas aplicadas por todo el período que el contribuyente fue propietario de dicho\ninmueble. En estos casos no será aplicable la norma de tasación establecida en el inciso cuarto\ndel artículo 64 del Código Tributario, ni lo previsto en los artículos 1888 y siguientes del Código\nCivil relacionados con la rescisión de la venta por lesión enorme.\n                                   Para que sea aplicable lo anterior, será necesario que la persona natural que\nadquiera el bien raíz, lo hubiere estado ocupando al momento de la publicación en el Diario\nOficial de la Ley Nº 19.578, (esto es, al 29.07.98), como casa habitación permanente, ya sea, en\nsu propio beneficio o de su familia, entendiéndose que la casa está destinada a la habitación\npermanente cuando se trata del lugar de morada habitual de la persona y no de uso u ocupación\nesporádica, como ocurre con las viviendas de descanso. Por su parte, el hecho de habitar\n\n\npermanentemente una casa habitación es una circunstancia que en cada caso deberá acreditarse\ncuando se requiera, puesto que ello depende de situaciones de hecho que deben comprobarse a\ntravés de distintos medios, teniendo presente, en todo caso, que dicha comprobación consiste en\nverificar que las situaciones o circunstancias que sirvan para acreditar la habitación permanente\ndel inmueble, se cumplían a la fecha de publicación de la ley, esto es, al 29 de Julio de 1998.\n                        Saluda a Ud.,\nJAVIER ETCHEBERRY CELHAY\nDIRECTOR\n \n"
+    },
+    {
+      "name": "Oficio N°1638 (16/09/2010)",
+      "source_type": "oficio",
+      "source": "Oficio N°1638 (16/09/2010)",
+      "document_id": "54936df6-a13f-5b07-a099-48021e221087",
+      "chunk_uuid": "fb506268-4d71-5886-96bd-b1d4bada95cc",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2010/ventas/ja1638.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ventas y Servicios - 2010\nVENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°1.\n(ORD. N° 1638, DE 16.09.2010)\nCONSULTA SOBRE IMPUESTO AL VALOR AGREGADO QUE GRAVA A LAS SUMAS PERCIBIDAS POR\nCONCEPTO DE “PRIMA DE COMERCIO JUSTO” – EL COMERCIO JUSTO TIENEN COMO FIN\nPROMOVER RELACIONES COMERCIALES VOLUNTARIAS Y JUSTAS ENTRE PRODUCTORES Y\nCONSUMIDORES, OFRECIENDO A LOS PRODUCTORES, UN TRATO MÁS JUSTO Y CONDICIONES\nCOMERCIALES MÁS PROVECHOSAS, QUE LES PERMITAN MEJORAR SUS CONDICIONES DE VIDA –\nLAS SUMAS PAGADAS POR CONCEPTO DE “PRIMA DE COMERCIO JUSTO” SE ENCUENTRAN\nGRAVADAS CON IMPUESTO AL VALOR AGREGADO, PUES REMUNERAN LA ADQUISICIÓN DE\nBIENES CORPORALES MUEBLES.\nSe ha solicitado a esta Dirección Nacional un pronunciamiento sobre el Impuesto al Valor Agregado, que\ngrava a las sumas percibidas por concepto de “Prima de Comercio Justo”, o prima fairtrade, que la sociedad\nXXX, recibió de parte de la empresa compradora YYY.\nI. ANTECEDENTES:\nXXX es una sociedad conformada por 15 pequeños viticultores, cuyo objeto es conseguir mejores\ncondiciones económicas al momento de la venta de sus productos, lo cual no podrían obtener en forma\nindividual. En vista de ello, han postulado al “Certificado de Comercio Justo”, que les permite comercializar la\nuva a un precio mínimo, superior al precio de mercado actual. Este “Precio de Comercio Justo”, está\ncompuesto por un Precio mínimo más una Prima de Comercio Justo, ambos fijados por kilo de producto.\nDe este modo, cuando los viticultores venden sus productos a la sociedad lo hacen al precio mínimo\nacordado y ésta, a su vez, por la venta a terceros de dichos productos, cobra el Precio Mínimo más la Prima\nde Comercio Justo, los cuales son facturados en forma independiente.\nII. ANALISIS:\nEl comercio justo representa una alternativa al comercio convencional, impulsada por diferentes\norganizaciones no gubernamentales, que tienen como fin promover relaciones comerciales voluntarias y\njustas entre productores y consumidores, ofreciendo a los productores, un trato más justo y condiciones\ncomerciales más provechosas, que les permitan mejorar sus condiciones de vida. Todo ello basado en\nprincipios que promueven el desarrollo económico, social o ambiental de la organización y sus asociados .\nPara ello, resulta primordial la Prima de Comercio Justo que se cobra al consumidor junto con el precio\nmínimo acordado por el producto, ya que dicha prima es utilizada por los productores justamente para\nmejorar la situación de sus comunidades, en ámbitos de la salud, educación, economía, medio ambiente,\netc., ya que son ellos, quienes deciden por sí mismos cuáles son sus principales necesidades.\nAhora bien, para el consumidor, dicha prima se traduce en un mayor monto a pagar por la adquisición de\naquellos productos comercializados por organizaciones que trabajan con este sistema de Comercio Justo y\nque éste voluntariamente decide y acepta pagar atendiendo al compromiso que siente con los objetivos que\nestas organizaciones persiguen.\nIII. CONCLUSION:\nDel análisis precedente se concluye que la Prima de Comercio Justo, constituye para el comprador parte del\nprecio de los bienes adquiridos, independiente del destino que su vendedor le dé a ésta.\nEn atención a ello y considerando el concepto de venta, contenido en el Art. 2°, N° 1, del D.L. N° 825, se\nconcluye que las sumas pagadas por concepto de “Prima de Comercio Justo” se encuentran gravadas con\nImpuesto al Valor Agregado, pues remuneran la adquis"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-44111-2016",
+      "source_type": "jurisprudencia",
+      "source": "ROL-44111-2016",
+      "document_id": "04e07731-9bd9-5c53-b31a-8311f0d8bcc5",
+      "chunk_uuid": "744f6541-45b6-5dd6-b8f2-2c92a04b6953",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1387",
+      "content": "ponde a su principal activo (Fundamento octavo de la sentencia en alzada). SEXTO: Que el leasing es una operación financiera en la cual la empresa de leasing, a petición de su cliente, adquiere del proveedor o fabricante bienes o equipos para dárselos en arrendamiento a éste mediante el pago de una remuneración con opción de compra. El lease-back es una modalidad de leasing, en el cual el cliente mismo hace de proveedor, es decir, el cliente es el propietario del bien, que requiere de capital de trabajo, procedeXPCQDVSQFV\n\n6\n\na vendérselo a la sociedad de leasing pero conservando materialmente el bien, la cual, a su turno y a reglón seguido, se los arrienda con opción de compra afavor del arrendatario y anterior dueño.\n\nEl Capítulo 8-37 “Operaciones de Leasing” de la Recopilación de Normas de la Superintendencia de Bancos, autoriza a los bancos para incluir las operaciones de leasing dentro de su giro, en sus modalidades leasing financiero y lease-back sobre bienes usados. Sin embargo, para estimar que se está frente a esta operación atípica, los contratos que la componen – mandato, compraventa y arrendamiento- deben estar íntimamente coligados o interrelacionados, de manera que reflejen con absoluta claridad que se está frente a este tipo de contrato mercantil moderno, lo que en la especie no ha ocurrido, como han dejado asentado losjueces del mérito (considerando octavo).\n\nSEPTIMO: Que, asimismo, respecto a la alegación efectuada por el contribuyente, en cuanto a que no se daban los requisitos legales para que el Servicio procediera a tasar el inmueble, razonaron que se debe considerar que el precio en que XXXXXXXXXXXXXXX vendió el bien raíz a las instituciones bancarias, fue un elemento que sirvió de base al Servicio para determinar el pago del impuesto a la renta, teniendo lugar dicha facultad en todos aquellos casos que proceda aplicar impuestos, cuya determinación se basa en el precio o valor de bienes raíces, si el fijado en el respectivo contrato fuere notoriamente inferior al valor comercial, cuestión que acontece en este caso, porque como lo dice la sentencia en el motivo 22°, el contrato de compraventa del 12 de febrero de 2009 (fojas 241 y siguientes) asignó como valor de precio de venta del inmueble la suma de $ 22.006.353.294, en circunstancias que el Servicio determinó un valor de tasación comercial superior, por $29.805.928.215, lo que generó una diferencia de $7.799.574.921.\n\nXPCQDVSQFV\n\n7\n\nOCTAVO: Que, en armonía con lo que se lleva expuesto, puede inferirse que la casación de fondo se construye contra los hechos del proceso, establecidos por los sentenciadores del mérito y se intenta justificar como pérdida la originada en la venta de un bien raíz de la contribuyente en un valor significativamente menor al de adquisición, explicando ese detrimento en la existencia de una operación de “lease back” que la sentencia no ha dado por establecida, sino sólo una compraventa pura y simple seguida de un contrato de arrendamiento con opción de compra, hechos que de manera indubitada desprenden los jueces de la instancia de la prueba aportada y que el compareciente pretende alterar, lo que ciertamente por esta vía no puedehacer.\n\nNOVENO: Que un recurso de esta especie está destinado a invalidar una sentencia en los casos expresamente establecidos por la ley, vale decir en la casación se analiza la legalidad de una sentencia, lo que significa que se realiza un escrutinio acerca de la correcta aplicación del derecho pero no del establecimiento de los hechos como soberanamente se han dado por probados, en este caso, la circunstancia de tratarse en la especie, como recién se dijo, de “una compraventa pura y simple seguida de un contrato dearrendamiento con opción de compra”.\n\nDECIMO: Que sobre esta materia el recurso no aporta razonamientos que pudieren hacer variar tal convicción"
+    },
+    {
+      "name": "Artículo 1896 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "c38972d7-2d3f-56c2-b77c-0cc425d88aef",
+      "chunk_uuid": "558dcc6e-df3d-56ea-92e2-649e8fdc617c",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719911",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1896 (DEL ART. 2)|Art. 1896. La acción rescisoria por lesión enorme expira en cuatro años contados desde la fecha del contrato."
+    },
+    {
+      "name": "Oficio N°330 (01/02/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°330 (01/02/2022)",
+      "document_id": "dd6fee2f-8fc9-561d-810f-8dd4f63c3f51",
+      "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=330-01%2F02%2F2022.pdf&extension=pdf&acc=download&id=8915c46f-5a0a-4ff8-ac3c-fd18baebb9e5&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – LEY N° 20.780, ART. \nTERCERO TRANS. N° XVI – CIRCULAR N° 43 DE 2021 \n \n(ORD. N° 330 DE 01.02.2022). \n \nEnajenación de un bien raíz agrícola adquirido en el año 2003. \nSe ha solicitado a este Servicio confirmar criterios que expone sobre la enajenación de un bien raíz \nagrícola adquirido en el año 2003. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, una persona natural, que no se ha constituido como empresaria \nindividual y no tiene sociedades a su nombre, domiciliada y residente en Chile, entrega en arriendo un \nbien raíz agrícola de su propiedad a una empresa chilena. \nEste bien raíz agrícola lo fue adquiriendo por partes a lo largo de los años. La parte del bien raíz \nagrícola que entrega en arriendo, la adquirió antes del 31 de diciembre del año 2003. \nPosteriormente, hace más de 5 años se subdividió parte de dicho bien raíz. La propiedad del bien raíz \nagrícola la tiene como persona natural. Además, no ha iniciado actividades ante el Servicio de \nImpuestos Internos. \nEn el contrato de arrendamiento, en su calidad de arrendadora, declara que es contribuyente del \nimpuesto de primera categoría (IDPC) de la Ley sobre Impuesto a la Renta (LIR) y que tributa sobre la \nbase de renta efectiva sin contabilidad completa, por contrato de arrendamiento. \nAtendido que la empresa a quien arrienda el bien raíz agrícola pondría término al contrato de arriendo, \nla persona natural analiza las siguientes dos alternativas: \na) \nVender una parte del bien raíz agrícola que adquirió antes del año 2004; y, \nb) \nDonar una parte del bien raíz agrícola a sus hijos, para que ellos posteriormente lo puedan vender. \nTras analizar las normas legales y jurisprudencia de este Servicio, solicita confirmar que: \n1) \nEn la medida que el contribuyente mantenga la parte del bien raíz agrícola que adquirió antes del \naño 2004 como persona natural (y no dentro de una sociedad o como empresaria individual), existe \nla posibilidad de que una eventual venta de esa parte no tribute con impuestos en Chile, aun cuando \nla persona natural enajene esa parte del bien raíz agrícola a alguno de sus familiares, debido a la \nnormativa que se le aplicaría a dicha venta. \n2) \nSi los hijos que reciben la donación, después de un año, enajenan el bien raíz, ellos tendrán derecho \na considerar 8.000 unidades de fomento (UF) como ingreso no renta, y por el exceso podrán \ntributar i) con el impuesto global complementario (IGC) sobre base percibida; ii) reliquidando el \nIGC; o, iii) con un impuesto único y sustitutivo de 10%. \nII  \nANÁLISIS \nEl tratamiento tributario de la enajenación de bienes raíces situados en Chile efectuada por personas \nnaturales y que no se encuentren asignados en su empresa individual se contiene en la letra b) del N° 8 \ndel artículo 17 de la LIR. \nEn términos generales, y de acuerdo con dicha norma, se grava el mayor valor obtenido en la \nenajenación del inmueble, o de derechos o cuotas respecto de tales inmuebles poseídos en comunidad. \nDicho mayor valor se determina restando al precio de venta el costo tributario respectivo, conformado \npor el valor de adquisición y los desembolsos incurridos en mejoras que hayan aumentado su valor, \ndebidamente reajustados, y será considerado un ingreso no constitutivo de renta hasta aquella parte del \nmayor valor que no exceda, independiente del número de enajenaciones realizadas o del número de \ninmuebles de propiedad del contribuyente, la suma"
+    },
+    {
+      "name": "Artículo 1891 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "a5e9c734-adfb-501b-9a8d-240a95813829",
+      "chunk_uuid": "f5d25f7e-aaf1-5383-b612-94e9df26b1a5",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719906",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1891 (DEL ART. 2)|Art. 1891. No habrá lugar a la acción rescisoria por lesión enorme en las ventas de bienes muebles, ni en las que se hubieren hecho por el ministerio de la justicia."
+    },
+    {
+      "name": "Artículo 1892 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "fb176560-ca7f-5fb1-abef-89eabba5b269",
+      "chunk_uuid": "fe3692ac-76a9-5a35-8f56-b0b23e61a703",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719907",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1892 (DEL ART. 2)|Art. 1892. Si se estipulare que no podrá intentarse la acción rescisoria por lesión enorme, no valdrá la estipulación; y si por parte del vendedor se expresare la intención de donar el exceso, se tendrá esta cláusula por no escrita."
+    },
+    {
+      "name": "Oficio N°3303 (01/09/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°3303 (01/09/1999)",
+      "document_id": "54967930-7531-5ef8-8daa-2313396aa0ad",
+      "chunk_uuid": "54ea4ae3-c1e4-5e25-b61e-df45680d27d9",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto01.htm",
+      "content": "\na la enajenación de derechos o cuotas sobre bienes raíces; y\nQue el mayor valor que habrá de generarse en el aporte a la sociedad no genera\nimpuesto, aún cuando se realice a menos de un año de la insinuación de la donación.\n2.- Sobre el particular, cabe señalar en primer término que el inciso primero del artículo\n18 de la Ley de la Renta, establece que si determinadas operaciones, entre las que se\nencuentran las enajenaciones de bienes raíces y de derechos o cuotas respecto de\nbienes raíces poseídos en comunidad, representan el resultado de negociaciones o\nactividades realizadas habitualmente por el contribuyente, el mayor valor obtenido\nestará afecto a los impuestos de Primera Categoría y Global Complementario o\nAdicional, según corresponda.\nLa citada norma en su inciso tercero presume de derecho la habitualidad en los casos\nde subdivisión de terrenos urbanos y en la venta de edificios por pisos o departamentos,\nsiempre que la enajenación se produzca dentro de los cuatro años siguientes a la\nadquisición o construcción en su caso, agregando el referido precepto legal, a punto\nseguido, que, asimismo, en todos los demás casos se presume legalmente la\nhabitualidad, cuando entre la adquisición o construcción del bien raíz y su enajenación\ntranscurra un plazo inferior a un año.\n3.- En relación a la primera consulta formulada por el recurrente procede señalar que no\nsiendo el derecho que recae sobre un bien raíz un derecho distinto del de dominio, la\ncesión que se haga de dicho derecho real al cesionario transfiere el dominio del cedente\nen ese bien, produciéndose en la especie la enajenación de un bien raíz .\nDe este modo, el dueño en común de un bien raíz que se desprende de su cuota de\ndominio, de la cual puede disponer libremente, cediéndola a otra u otras personas,\nenajena un bien raíz y en este sentido sería aplicable a dicha enajenación la disposición\nfinal del inciso tercero del artículo 18 de la Ley de la Renta.\n\n\n4.- Ahora bien, para los fines de dar respuesta a la segunda consulta del ocurrente, y a\nobjeto de determinar si la citada norma del inciso tercero del artículo 18 de la Ley de la\nRenta comprende la adquisición de bienes que se produce por sucesión por causa de\nmuerte o por donación, cabe expresar que la apreciación del concepto de habitualidad\nque en ella se contiene debe entenderse asociada a la intención, necesidad o motivo\nque se tuvo al adquirir el bien, lo que hace suponer la existencia de un acto voluntario\ndel adquirente, presupuesto que excluiría de su ámbito de aplicación a aquellas\nadquisiciones cuyo origen sea por el modo de adquirir de la sucesión por causa de\nmuerte.\nEn relación con la adquisición del bien raíz por donación, cabe señalar que este Servicio\nmediante Oficio Nº 1.578, de 17.07.97, publicado en el Boletín del mes de Agosto de\ndicho año, ya se pronunció sobre esta materia, expresando por las razones que se\nindican en el citado documento, que la presunción de habitualidad a que se refiere la\nnorma legal en comento, también es aplicable cuando los bienes raíces sean adquiridos\nsegún la modalidad antes indicada, y se den los presupuestos básicos que señala dicha\nnorma para la aplicación de la presunción que ella establece, que es de carácter\nmeramente legal.\n5.- De acuerdo con lo señalado, y a lo dispuesto en la letra b) del Nº 8, del artículo 17\nde la Ley de la Renta, en concordancia con el inciso tercero del artículo 18, del mismo\ntexto legal, sólo cabe concluir, que el mayor valor que se produzca en el aporte de los\nderechos sobre los bienes raíces, a la sociedad que indica, constituye renta afecta a los\nimpuestos generales de la Ley de la Renta, si dicho aporte"
+    },
+    {
+      "name": "Oficio N°3492 (30/08/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°3492 (30/08/2000)",
+      "document_id": "e659761f-1ff9-5f02-8bbf-913cfbff8bd1",
+      "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/renta/octubre01.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2000\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, LETRA b),ART. 18.\nAporte y posterior retiro de inmueble a empresa individual – Fecha de adquisición de bien raíz que se debe\nconsiderar para aplicar normas de habitualidad – Normativa aplicable – La operación en análisis sólo tiene\nefecto tributario respecto del valor en que se aportó y retiró el bien raíz.\n1.- Por Ordinario indicado en el antecedente, y con el objeto de finiquitar una situación pendiente relacionada con\nuna citación notificada a un contribuyente persona natural, formula las siguientes consultas:\na) Un contribuyente persona individual que gira en el rubro de agricultura y librería, tributando por ésta última\nactividad en Primera Categoría con renta efectiva determinada a base de contabilidad completa, aporta a su\nactividad un bien raíz, adquirido según escritura pública con fecha 31 de mayo de 1988, efectuando el registro\ncontable respectivo;\nb) En el mes de Febrero de 1996, efectúa el retiro del bien raíz desde su actividad comercial individual de acuerdo a\nsu valor de libro, tributando por dicho retiro con el impuesto Global Complementario, conforme a lo dispuesto en el\nartículo 14 de la Ley de la Renta;\nc) Posteriormente, con fecha 4 de octubre de 1996, vende el bien raíz obteniendo un significativo mayor valor, por\ncuyo monto no tributa, amparándose en que dicho bien a la fecha de la enajenación no formaba parte del activo de\nla empresa, aplicando lo dispuesto en el artículo 17 N° 8 letra b) de la Ley de la Renta.\nEn relación con lo anterior, solicita una interpretación acerca de la fecha que se debe considerar para aplicar las\nnormas de habitualidad que contempla el inciso tercero del artículo 18 de la Ley de la Renta, es decir, si para\ncomputar el plazo de un año debe considerarse la fecha de adquisición del bien raíz según escritura pública o la\nfecha del retiro desde la actividad que declara la renta efectiva en Primera Categoría.\n2.- Sobre el particular, cabe señalar en primer término, que la letra b) del N° 8 del artículo 17° de la Ley de la Renta,\nen concordancia con lo establecido en el inciso primero del artículo 18° de la misma ley, dispone que no constituye\nrenta el mayor valor obtenido en la enajenación no habitual de bienes raíces, excepto respecto de aquellos que\nformen parte del activo de empresas que declaren su renta efectiva en la Primera Categoría.\nPor su parte, el artículo 18° de la citada ley, en su inciso tercero, presume de derecho que existe habitualidad en los\ncasos de subdivisión de terrenos urbanos y en la venta de edificios por piso o departamentos, siempre que la\nenajenación se produzca dentro de los cuatro años siguientes a la adquisición o construcción, en su caso. Agrega la\nreferida norma, que en todos los demás casos, se presumirá la habitualidad cuando entre la adquisición o\nconstrucción del bien raíz y su enajenación transcurra un plazo inferior a un año.\n3.- Ahora bien, respecto del término \"adquisición\" que utiliza la norma legal antes mencionada, cabe señalar, que de\nconformidad a las normas contenidas en el Código Civil, específicamente en su artículo 686, la adquisición de un\nbien raíz se produce cuando el título de transferencia de dominio del inmueble respectivo se encuentre\ndebidamente inscrito a nombre del nuevo adquirente en el Registro del Conservador de Bienes Raíces.\n4.- Aclarado lo anterior, en el caso en consulta, debe entenderse que el bien raíz fue adquirido legalmente en la\nfecha que indica la escritura pública respectiva, esto es, el 31.05.88 e inscrita en el Conservador de Bienes Raíces\ncorrespondiente por su propietario, el"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " vivienda, sin perjuicio que durante el periodo en que se concreta dicho ahorro el sistema\nles permita arrendar la vivienda por la cual han suscrito una promesa de compraventa.\n \nEn este orden de ideas, la ley autoriza en su Art. 1°, a las instituciones financieras y cajas de compensación\npara abrir y mantener cuentas de ahorro para el arrendamiento de viviendas con promesa de compraventa,\ncon el objeto de recibir en ellas el ahorro que efectúen sus titulares, a fin de pagar las rentas de\narrendamiento y acumular fondos suficientes para financiar la compra de la vivienda. Sobre este punto, cabe\ndestacar que los titulares de estas cuentas sólo pueden ser personas naturales.\n \nEs así como el Art. 3°, de la mencionada ley dispone que con cargo a los recursos que mensualmente se\naporten a la cuenta, las referidas instituciones pagarán la renta de arrendamiento al arrendador promitente\nvendedor, descontando la comisión que en virtud del Art. 5°, tienen derecho a percibir. El saldo de dicho\naporte formará parte de los recursos destinados a pagar el precio de la compraventa prometida.\n \nUna vez abierta la respectiva cuenta de ahorro en alguna de las instituciones mencionadas, el titular podrá\ncelebrar el respectivo contrato de arrendamiento con promesa de compraventa con las sociedades\ninmobiliarias a que alude el Título II de la Ley N° 19.281, el cual debe celebrarse por escritura pública e\ninscribirse en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces respectivo.\n \nSin perjuicio de lo anterior, el Art. 7°, de la Ley N° 19.281, dispone que los referidos aportes también podrán\nefectuarse directamente en las sociedades inmobiliarias, “caso en el cual la parte del aporte que exceda de la\nrenta de arrendamiento se abonará al precio de la compraventa prometida, en la forma pactada en el referido\ncontrato”.\n \nEstas sociedades inmobiliarias, según el Art. 11° de la Ley N° 19.281, son para efectos de esta ley, todas\naquellas que tengan como objeto la adquisición o construcción de viviendas para darlas en arrendamiento\ncon promesa de compraventa.\n \nPor otra parte, la ley en su Art. 27°, establece la obligación de celebrar el contrato de compraventa prometido,\nes decir, establece la obligación de transferir el bien, una vez cumplida cualquiera de las siguientes\ncircunstancias:\n \n“a) Cuando el saldo de la cuenta en la institución, o el total de los abonos al precio de la compraventa\nprometida, sea igual al precio de venta estipulado en el contrato de arrendamiento con promesa de\ncompraventa.\n \nb)    Cuando se cumpla el plazo convenido para la celebración del contrato prometido y se entere el precio de\ncompraventa. Si, al cumplirse el plazo convenido, por cualquier causa, no se hubiere completado y pagado el\nprecio estipulado, el contrato se prorrogará en el plazo que no exceda al que sea necesario para completar la\nparte del precio no enterada, en tantas cuotas de un monto igual a las estipuladas en el contrato, dentro del\ncual el arrendatario promitente comprador deberá completar el precio bajo sanción de resolución de la\npromesa en caso de incumplimiento.\n \nc)    Cuando opere el seguro de desgravamen por fallecimiento del arrendatario promitente comprador.\n\n\n \n \nDel análisis de las normas legales precedentes se colige entonces que el sistema normado por la Ley N°\n19.281, tiene por finalidad última la transferencia efectiva de un bien corporal inmueble.\n \nPor lo tanto, cuando ello ocurra, se estará en presencia del nuevo hecho gravado “venta”, modificado por el\nArt. 2°, N° 1, letra a), de la Ley N° 20.780 y contenido en el Art. 2°, N° 1, del D.L. N°"
+    },
+    {
+      "name": "Artículo 126",
+      "source_type": "ley",
+      "source": "CODIGO DE COMERCIO",
+      "document_id": "c6f8b79e-aa58-50f4-bfe6-71342fc56b0b",
+      "chunk_uuid": "90b10f30-f3f8-5d70-b12a-c531913c2ec7",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1974&idParte=8725351",
+      "content": "Código DE COMERCIO CODIGO DE COMERCIO,Título I,Artículo 126|Art. 126. No hay rescisión por causa de lesión enorme en los contratos mercantiles."
+    },
+    {
+      "name": "Artículo 1836 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "4281298e-18f4-591d-b516-b9e26d003b82",
+      "chunk_uuid": "bccdaac2-7f7d-564c-ad17-6d2621f8c29c",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719844",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1836 (DEL ART. 2)|Art. 1836. Además de las acciones dadas en dichos artículos compete a los contratantes la de lesión enorme en su caso."
+    },
+    {
+      "name": "Oficio N°2167 (23/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2167 (23/08/2021)",
+      "document_id": "453c0789-fa42-5be0-aa3d-f9f3f12576d3",
+      "chunk_uuid": "0c048db2-0670-580e-8e3b-be7f93d0870e",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2167-23%2F08%2F2021.pdf&extension=pdf&acc=download&id=12e11ad6-b99c-4f25-a9c0-983bbec1312d&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRA B) – CÓDIGO \nCIVIL, ART. 1567 \n \n(ORD. N° 2167 DE 23.08.2021). \n \nEfectos tributarios de la resciliación de venta de bien raíz frente a la Ley sobre Impuesto a la \nRenta. \nSe ha solicitado a este Servicio un pronunciamiento sobre la posibilidad de rectificar la declaración \nanual de impuestos a la renta con motivo de la resciliación de la compraventa de un bien raíz. \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, una persona natural en abril de 2020 vendió una propiedad a una \nempresa relacionada, por lo cual, en la declaración de renta presentada para el año tributario 2021, \ndeclaró el mayor valor generado en la venta del bien raíz afecto a impuesto global complementario \nAgrega que, en mayo del año 2021 se anuló totalmente la compraventa del bien raíz, mediante la \nresciliación correspondiente, restituyéndose el monto total del valor pagado a la empresa compradora. \nConsiderando lo anterior, consulta sobre la posibilidad de rectificar el formulario 22, presentado para el \naño tributario 2021 por el contribuyente vendedor, socio de la empresa compradora, en lo referente a la \nbase imponible del impuesto global complementario, motivada por la anulación de la compra venta de la \npropiedad y sus efectos tributarios. \nII  \nANÁLISIS  \nTal como este Servicio ha resuelto1, la resciliación se funda en el artículo 1567 del Código Civil, al \ndisponer que “toda obligación puede extinguirse por una convención en que las partes interesadas, \nsiendo capaces de disponer libremente de lo suyo, consienten en darla por nula”. \nAsimismo, ha precisado2 que, más allá de la impropiedad del legislador (en el mutuo consentimiento las \nobligaciones no se dan por “nulas” sino que se dejan sin efecto) y que las obligaciones se extinguen \ncomo consecuencia de quedar sin efecto su fuente inmediata (el contrato), para la doctrina, este “modo \nde extinguir obligaciones sólo produce efectos para el futuro, no afecta al pasado; los efectos que la \nobligación y el acto que la genera hayan alcanzado a producir antes del mutuo disenso quedan a firme, \ninmutables. Si las partes los quisieran hacer desaparecer, deberían ocurrir a una nueva convención, \nporque en este caso ya no opera el mutuo disenso.” \nA partir de lo anterior, la doctrina concluye que el mutuo disenso requiere que no estén íntegramente \ncumplidas las obligaciones derivadas del mismo negocio jurídico3. \nLuego, y a partir de su presentación, se desprende que las obligaciones emanadas del contrato de \ncompraventa celebrado en 2020 fueron extinguidas, por lo cual, el posterior acuerdo entre el \ncontribuyente vendedor y la empresa compradora, en orden a dejar sin efecto el contrato de \ncompraventa del bien raíz, no puede considerarse como una resciliación para fines tributarios, aunque \npueda configurar otro acto jurídico. \nConforme a lo anterior, el hecho gravado con el impuesto global complementario, según lo dispuesto en \nla letra b) del N°8 del artículo 17 de la Ley sobre Impuesto a la Renta (LIR), ocurrido con motivo de la \nenajenación del bien raíz en abril del año 2020, quedó afirme para efectos tributarios y el posterior \nacuerdo tendiente a dejar sin efecto el contrato de compraventa del bien raíz, constituye una nueva \nenajenación desde la empresa a la persona natural. \nIII \nCONCLUSIÓN  \nDe acuerdo a lo expuesto en el Análisis, no se puede desconocer, frente a terceros (incluido el Fisco), la \nenajenación del bien raíz entre la persona natural y la sociedad ocurrida el año 2020, para los efectos de \nla letra b) del N"
+    }
+  ]
+}

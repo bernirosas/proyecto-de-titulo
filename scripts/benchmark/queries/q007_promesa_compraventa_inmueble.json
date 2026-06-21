@@ -1,0 +1,5 @@
+{
+  "query_id": "q007",
+  "query_text": "Efectos y tratamiento del contrato de promesa de compraventa de un inmueble",
+  "notas": "Compraventa de bienes raíces (cruza art. 1554 CC con oficios SII sobre anticipos/pies). Pool 35 chunks; distribución 7/15/1/12 (bimodal, casi sin grado 1). Baja discriminación: seis técnicas entre 2.2 y 2.5 en top-10; es la query donde SPLADE más se acerca (2.40) porque el vocabulario de la promesa es estable entre consulta y documento. Ganadora top-10 mean_grade: p3_tfidf (2.50). 0 correcciones manuales (gemini-2.5-flash-lite). Ver q007_analisis.md."
+}

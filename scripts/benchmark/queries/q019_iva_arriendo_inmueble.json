@@ -1,0 +1,5 @@
+{
+  "query_id": "q019",
+  "query_text": "¿En qué casos el arriendo de un inmueble está afecto a IVA?",
+  "notas": "Tributación inmobiliaria — IVA en arriendo de inmuebles (Art. 8 letra g) D.L. 825). Discriminación moderada: técnicas principales en rango 1.900–2.400. Pool grande (57 chunks) por alta cobertura del tema en el corpus. Baseline_qdrant_bm25 rezagado consistentemente (1.100). Ganadora top-10 mean_grade: p2_bm25 (2.400). Sin correcciones manuales."
+}

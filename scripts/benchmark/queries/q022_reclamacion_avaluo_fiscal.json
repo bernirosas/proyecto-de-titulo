@@ -1,0 +1,5 @@
+{
+  "query_id": "q022",
+  "query_text": "Reclamación de avalúo fiscal de bienes raíces ante el SII",
+  "notas": "Cubre sub-área tributaria/administrativa de 'recursos sobre bienes raíces'. Discrimina fuerte entre familias de técnicas: las tres BM25 dominan, las tres TF-IDF colapsan en P@10 = 0 (ningún chunk de grado 3 en top-10), patrón mucho más severo que en q021. Ganadora top-10 mean_grade: p2_bm25 (2.50). 0 correcciones manuales. Observación notable para la tesis: distribución sin grado 0 (62% en grado 2), sugiere posible sesgo permisivo del LLM-as-judge cuando la query toca dominio nuclear del corpus, o bien que las técnicas mantuvieron alto el recall temático. baseline_qdrant_bm25 mejora respecto a q021 (mean@10 = 1.80 vs 0.80), evidencia de variabilidad del baseline entre queries que merece destacarse."
+}

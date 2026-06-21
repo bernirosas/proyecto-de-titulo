@@ -1,0 +1,308 @@
+{
+  "query_id": "q022",
+  "query_text": "Reclamación de avalúo fiscal de bienes raíces ante el SII",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:38Z",
+  "judgments": [
+    {
+      "chunk_uuid": "a124f91e-67ac-5810-9b51-80564d6974bc",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un caso judicial donde se discute la reclamación de avalúo fiscal, abordando argumentos del contribuyente y del SII."
+    },
+    {
+      "chunk_uuid": "c1963037-d4d6-5ad1-87e8-9fa7dfa4f17d",
+      "relevance_grade": 2,
+      "justification": "El fragmento trata sobre un reclamo de avalúo fiscal, analizando las causales y la consideración de factores como zonas de riesgo."
+    },
+    {
+      "chunk_uuid": "33d796cf-96e0-5a0a-b217-70f60c0f5dad",
+      "relevance_grade": 1,
+      "justification": "Esta circular se refiere a rentas presuntas y rebajas de avalúo fiscal, tocando tangencialmente el tema de la consulta."
+    },
+    {
+      "chunk_uuid": "f2b26ec7-f1c2-5035-a6c0-3cd1af59b1bf",
+      "relevance_grade": 2,
+      "justification": "El fragmento narra un caso judicial sobre reclamación de revalúo fiscal, discutiendo la clasificación de bienes raíces y sobretasas."
+    },
+    {
+      "chunk_uuid": "f0d82669-5f9c-5be4-98ea-86ca9c3c95d3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el reclamo y reposición administrativa respecto del giro de sobretasa, mencionando objeciones al avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "bd060eb0-4932-50f4-bae3-2effd884a906",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla los formularios y procedimientos para el cálculo del avalúo fiscal de unidades en condominios."
+    },
+    {
+      "chunk_uuid": "fd8574dc-73e1-5e7e-9545-59c3909c6cad",
+      "relevance_grade": 2,
+      "justification": "Describe cómo se calcula el avalúo fiscal de bienes raíces no agrícolas y las rebajas aplicables."
+    },
+    {
+      "chunk_uuid": "c135c756-cb59-52ee-9e62-11a5c15a7ef4",
+      "relevance_grade": 2,
+      "justification": "Aborda un caso de reclamación de avalúo fiscal, discutiendo la legitimación activa y la competencia del tribunal."
+    },
+    {
+      "chunk_uuid": "7ed6f6b2-50e1-54de-b26f-e31a719fe6ec",
+      "relevance_grade": 2,
+      "justification": "Explica el procedimiento especial para el reclamo de avalúos de bienes raíces y la documentación relevante."
+    },
+    {
+      "chunk_uuid": "0264e854-71a5-5201-b176-fe9d8a28bbb3",
+      "relevance_grade": 2,
+      "justification": "Trata sobre un recurso de inaplicabilidad relacionado con el artículo 149 del Código Tributario y reclamos de avalúo."
+    },
+    {
+      "chunk_uuid": "e99a3548-5d59-56a6-aea0-31cdd9bea5cd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe los certificados de avalúo fiscal y su propósito, pero no el proceso de reclamación."
+    },
+    {
+      "chunk_uuid": "b53a0854-69cb-51cc-a79e-30e93732ecaa",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute las causales para modificar el avalúo fiscal y la facultad del SII, relevante para una reclamación."
+    },
+    {
+      "chunk_uuid": "f361604c-c7bf-5be5-b511-2d8deeb6debb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla los tipos de certificados de avalúo fiscal y la información que contienen, tangencial a la reclamación."
+    },
+    {
+      "chunk_uuid": "278c7e05-0a9a-55f1-b9e0-aeb39e80b129",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en el cálculo del avalúo fiscal en copropiedades, no en el proceso de reclamación."
+    },
+    {
+      "chunk_uuid": "fdea2fd8-afe2-5ffa-a354-e2b55178cdac",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un procedimiento especial para solicitar modificación del avalúo fiscal por siniestros."
+    },
+    {
+      "chunk_uuid": "2e9393af-a872-5e07-a052-41d0998cccf7",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe los tipos de certificados de avalúo fiscal y cómo solicitarlos, pero no aborda el reclamo en sí."
+    },
+    {
+      "chunk_uuid": "2b58d344-c19f-5ec4-815e-e430c9c6f7c0",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica el procedimiento de reclamo de avalúo, los fundamentos legales y los antecedentes necesarios para predios rurales y construcciones."
+    },
+    {
+      "chunk_uuid": "5e25bf07-73ad-5024-88ef-fd1b074251ba",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla la renta presunta de bienes raíces y cómo se calcula el avalúo fiscal, pero no el proceso de reclamo."
+    },
+    {
+      "chunk_uuid": "00045cfe-6533-59b7-8c42-e4b5b3814834",
+      "relevance_grade": 3,
+      "justification": "Este fragmento describe un caso judicial sobre un reclamo de avalúo fiscal y la notificación de resoluciones, abordando aspectos del proceso."
+    },
+    {
+      "chunk_uuid": "aadf1e78-2141-5793-92bb-4cc028b125bc",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la renta presunta de bienes raíces y su cálculo, sin abordar el reclamo de avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "7797ce4c-8f77-56bc-9241-30bb67ad0caf",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define la sobretasa del impuesto territorial calculada sobre el avalúo fiscal total."
+    },
+    {
+      "chunk_uuid": "d10704cf-0176-56b2-b4f7-38b041fcf465",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla cómo se calcula la renta presunta de bienes raíces agrícolas y no agrícolas, basándose en el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "92fbce75-2354-543a-a894-2d0a9dbf22ab",
+      "relevance_grade": 2,
+      "justification": "Este oficio explica el cálculo de la renta presunta y efectiva de bienes raíces, relacionándolo con el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "5fb80237-92bf-5d00-bb7f-f56163810db7",
+      "relevance_grade": 2,
+      "justification": "Esta sentencia aborda un reclamo sobre la aplicación de tablas de clasificación y la justificación de avalúos fiscales por el contribuyente."
+    },
+    {
+      "chunk_uuid": "e64cf312-a122-50e1-9b39-d2fb7a12550f",
+      "relevance_grade": 2,
+      "justification": "Esta sentencia discute la notificación de modificaciones de avalúo fiscal y el procedimiento de reclamo ante el SII."
+    },
+    {
+      "chunk_uuid": "e1bddb9e-8290-583e-8107-ede9943b4724",
+      "relevance_grade": 3,
+      "justification": "Este fragmento describe el procedimiento de reconsideración administrativa y reclamación subsidiaria ante el SII para impugnar el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "f3cb3c51-fd37-55a1-96b1-2282c0232a44",
+      "relevance_grade": 3,
+      "justification": "Explica el proceso de reclamación del avalúo fiscal ante el Tribunal Tributario y la opción de reposición administrativa previa."
+    },
+    {
+      "chunk_uuid": "5c82cf48-cb09-5810-b96c-04acd38a836c",
+      "relevance_grade": 2,
+      "justification": "Detalla el cálculo de rentas presuntas basado en el avalúo fiscal y la posibilidad de rebaja para bienes no agrícolas."
+    },
+    {
+      "chunk_uuid": "bcaf7e40-b76f-5973-8fcf-06a1c5999da7",
+      "relevance_grade": 2,
+      "justification": "Analiza la presentación de solicitudes de modificación de avalúo y los plazos para reclamar ante el SII y tribunales."
+    },
+    {
+      "chunk_uuid": "141ea75a-b552-5e07-9753-048f19663de0",
+      "relevance_grade": 1,
+      "justification": "Explica cómo calcular el avalúo fiscal proporcional para bienes arrendados y su impacto en la renta efectiva y créditos."
+    },
+    {
+      "chunk_uuid": "2cb7502a-0650-5323-84c4-3f13c15314b5",
+      "relevance_grade": 2,
+      "justification": "Explica el cálculo del avalúo fiscal de unidades en condominios y la normativa aplicable, incluyendo el proceso de modificación catastral."
+    },
+    {
+      "chunk_uuid": "137b167d-81ff-581a-a7f1-f58e0fa4580b",
+      "relevance_grade": 3,
+      "justification": "Detalla un caso de reclamo de alza de avalúo fiscal, abordando la falta de fundamentación de las resoluciones del SII."
+    },
+    {
+      "chunk_uuid": "459a1a5b-75ca-5d30-a29d-d850358016d3",
+      "relevance_grade": 2,
+      "justification": "Introduce una sobretasa al impuesto territorial calculada sobre el avalúo fiscal, detallando su base imponible y tasas marginales."
+    },
+    {
+      "chunk_uuid": "59d80031-4b29-52f6-8316-878f4a9e4e1f",
+      "relevance_grade": 2,
+      "justification": "Describe un reclamo sobre la aplicación de sobretasa de impuesto territorial, donde se cuestiona la inclusión de bienes raíces transferidos."
+    },
+    {
+      "chunk_uuid": "ab7b69ca-e9d4-51f4-a9ee-6cd8c54a6300",
+      "relevance_grade": 2,
+      "justification": "Analiza la determinación del avalúo fiscal de un inmueble, cuestionando las metodologías y clasificaciones del SII."
+    },
+    {
+      "chunk_uuid": "9f036869-b46e-5aaa-8a37-e48b5e5730a6",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el avalúo fiscal de bienes raíces y su uso para calcular presunciones de renta."
+    },
+    {
+      "chunk_uuid": "6cf17bae-f3f6-5e87-b923-94b4995b399c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la sobretasa del impuesto territorial calculada sobre el avalúo fiscal total."
+    },
+    {
+      "chunk_uuid": "25ce9a86-820c-5ee3-ab71-93039ba890d5",
+      "relevance_grade": 2,
+      "justification": "Esta resolución fija valores para el reavalúo de bienes raíces no agrícolas, afectando el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "5992805c-3092-5a90-aa89-b573ac543c6b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento establece porcentajes del avalúo fiscal para rentas de bienes raíces agrícolas y no agrícolas."
+    },
+    {
+      "chunk_uuid": "84f3372e-6959-5cea-8d14-4ba81896d88b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe los certificados de avalúo fiscal y su contenido, relevante para trámites."
+    },
+    {
+      "chunk_uuid": "69da59e9-4b17-5f20-b425-9f72a49ff387",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un caso de reclamo de avalúo fiscal ante el SII, detallando los argumentos y la decisión del tribunal."
+    },
+    {
+      "chunk_uuid": "89a368b5-479d-5ec9-968c-07d9ef3e6f75",
+      "relevance_grade": 2,
+      "justification": "Aborda las causales para reclamar un avalúo fiscal, incluyendo la aplicación errónea de tablas y errores de cálculo."
+    },
+    {
+      "chunk_uuid": "3000d563-4adb-5664-a648-308a9f38d05c",
+      "relevance_grade": 2,
+      "justification": "Detalla un caso de reclamo por aumento de avalúo fiscal, mencionando hechos no controvertidos y la recepción de prueba."
+    },
+    {
+      "chunk_uuid": "b30f4200-833e-5ffb-b087-2125e8b87d09",
+      "relevance_grade": 3,
+      "justification": "Este fragmento menciona explícitamente la impugnación del avalúo de un bien raíz utilizando el procedimiento general de reclamación."
+    },
+    {
+      "chunk_uuid": "3cedf506-1003-5b99-800f-218e7559c570",
+      "relevance_grade": 2,
+      "justification": "Explica un caso donde se solicita mantener un coeficiente corrector en el avalúo fiscal, basándose en circulares del SII."
+    },
+    {
+      "chunk_uuid": "209365cd-98d8-507d-a3f2-0f8dabce1a1e",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla el procedimiento y los plazos para reclamar avalúos fiscales de bienes raíces no agrícolas ante el SII."
+    },
+    {
+      "chunk_uuid": "ca53d682-4c14-5e52-a72d-8e348b21a07a",
+      "relevance_grade": 2,
+      "justification": "Describe los certificados de avalúo fiscal, su emisión y tipos, pero no el proceso de reclamación del avalúo."
+    },
+    {
+      "chunk_uuid": "e3333df4-cc30-543a-a6f5-bd05e7c09be1",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la sobretasa del impuesto territorial y la base imponible (avalúo fiscal total), no sobre la reclamación del avalúo."
+    },
+    {
+      "chunk_uuid": "0295bbed-d7c8-592c-93fa-964193d8f26f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la tributación de rentas de bienes raíces no agrícolas y el cálculo del 11% del avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "cbd27c83-b768-5e62-9d90-086bdaf99c1a",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de rentas de bienes raíces no agrícolas y el uso de contribuciones, no la reclamación del avalúo."
+    },
+    {
+      "chunk_uuid": "352e77f0-a545-56f7-9c09-4861dc3b6d3b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla cómo se calculan las rentas de bienes raíces para efectos tributarios, mencionando el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "1f97f06e-8280-51fd-a883-781e5801ca84",
+      "relevance_grade": 2,
+      "justification": "Este oficio explica cómo obtener certificados de avalúo fiscal proporcional para lotes que no cuentan con roles individuales, relevante para donaciones."
+    },
+    {
+      "chunk_uuid": "16cb7b16-7e14-5083-adc2-a6abf5db72f2",
+      "relevance_grade": 2,
+      "justification": "Este documento describe el procedimiento para declarar el avalúo fiscal de unidades en copropiedad inmobiliaria, incluyendo la solicitud de certificados."
+    },
+    {
+      "chunk_uuid": "28cf28c6-abe4-5b6d-968e-6b4dccd74033",
+      "relevance_grade": 3,
+      "justification": "Esta jurisprudencia aborda la reclamación de un avalúo fiscal, discutiendo la fundamentación de las modificaciones por parte del SII."
+    },
+    {
+      "chunk_uuid": "05ee6964-cb32-58b3-b5b9-a123a234b673",
+      "relevance_grade": 2,
+      "justification": "El fragmento detalla cómo declarar rentas de bienes raíces, incluyendo el cálculo basado en el avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "cde79aaa-8761-57c4-89e8-20c4067372b9",
+      "relevance_grade": 2,
+      "justification": "El fragmento explica la tributación de rentas de bienes raíces, mencionando el avalúo fiscal como base de cálculo."
+    },
+    {
+      "chunk_uuid": "c7928be6-4994-5b57-952f-35a933364d5e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe un reclamo contra un nuevo avalúo fiscal, detallando las leyes y procedimientos aplicables."
+    },
+    {
+      "chunk_uuid": "5b145a2b-90d8-5d8c-97ea-786e7dceeb3f",
+      "relevance_grade": 2,
+      "justification": "El texto aborda un reclamo contra el reavalúo de una propiedad, mencionando el Código Tributario y la Ley de Impuesto Territorial."
+    },
+    {
+      "chunk_uuid": "d82e7f72-ba4c-5b96-b0f2-4677142f06b1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la inadmisibilidad de un recurso de apelación contra un reclamo por reavalúo, mencionando el Código Tributario."
+    },
+    {
+      "chunk_uuid": "533d60f3-68c4-5e00-ab3f-20e0049bcdfc",
+      "relevance_grade": 2,
+      "justification": "El fragmento detalla un reclamo por aplicación errónea de avalúo fiscal y menciona el Código Tributario y circulares del SII."
+    }
+  ]
+}

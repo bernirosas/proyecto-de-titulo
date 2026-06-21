@@ -1,0 +1,5 @@
+{
+  "query_id": "q000",
+  "query_text": "Plazo de prescripción para el cobro de impuestos",
+  "notas": "Cruza jurisprudencia y oficios SII. Sirve de query inicial para validar el pipeline de benchmarking de extremo a extremo."
+}

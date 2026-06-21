@@ -1,0 +1,5 @@
+{
+  "query_id": "q017",
+  "query_text": "¿Cómo opera el crédito especial de IVA que tienen las empresas constructoras en la venta de viviendas habitacionales?",
+  "notas": "Tributación inmobiliaria — crédito especial IVA constructoras (Art. 21 D.L. 910). Baja discriminación entre técnicas principales: todas rinden bien (rango 2.400–2.700) porque 'crédito especial constructoras' es terminología exacta en los oficios. Excepción: baseline_qdrant_bm25 rezagado (1.200, 0 chunks grado 3 en top-10). Ganadora top-10 mean_grade: p3_bm25 (2.700). Sin correcciones manuales."
+}

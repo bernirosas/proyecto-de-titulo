@@ -1,0 +1,5 @@
+{
+  "query_id": "q018",
+  "query_text": "¿Cómo tributa el mayor valor obtenido en la venta de un bien raíz adquirido después del año 2004?",
+  "notas": "Tributación inmobiliaria — mayor valor en enajenación de bienes raíces post-2004 (Art. 17 N°8 LIR). Única query donde gana SPLADE sobre BM25: p1_splade (2.500) vs. p1_bm25 (2.100). SPLADE expande 'mayor valor' hacia 'enajenación' y 'Art. 17 N°8', capturando chunks que BM25 no encuentra. Pool pequeño (33 chunks). 2 correcciones manuales por parse error: chunks 3017d408 y 27fc274a corregidos a grado 3 (oficios SII sobre tributación en enajenación de bienes raíces). Ganadora top-10 mean_grade: p1_splade (2.500)."
+}

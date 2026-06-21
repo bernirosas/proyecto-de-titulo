@@ -1,0 +1,1168 @@
+{
+  "query_id": "q005",
+  "query_text": "Arriendo con promesa de compraventa derechos del arrendatario",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 29.358149,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+        "score": 27.755505,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 27.516827,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 26.381588,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 26.306469,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+        "score": 25.52937,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 25.502785,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "18f3e7fb-57df-5e5a-91d5-399c4b373d0a",
+        "score": 24.087063,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 23.496588,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 22.940065,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 1.2282715,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 1.223999,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 1.2229614,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+        "score": 1.2194824,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 1.1931152,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+        "score": 1.1898193,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 1.1746826,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+        "score": 1.1315918,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3080c35c-b889-548c-b1c5-da43f9b2c91e",
+        "score": 1.1274414,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 1.1224365,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 22.291494,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d619efd8-60b4-5b60-8cc9-ffdc16284775",
+        "score": 20.626728,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "27086754-bb8a-57c8-a403-885f27c39701",
+        "score": 19.858887,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "efaaa668-fb54-5b92-be40-c75bbf768027",
+        "score": 19.385471,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+        "score": 19.227015,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "850cff40-8b14-5bd8-9827-734d26c3030e",
+        "score": 19.069826,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 19.05975,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 18.94027,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "701be697-97b3-5a0c-94dc-70456cc240d7",
+        "score": 18.925823,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b7651ffd-85fd-5868-891b-1a276c9003d9",
+        "score": 18.838247,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 28.894592,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+        "score": 27.373638,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 25.672852,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 25.52667,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+        "score": 24.420328,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 24.376747,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "18f3e7fb-57df-5e5a-91d5-399c4b373d0a",
+        "score": 22.923676,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 22.321789,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 22.137417,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 22.034294,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+        "score": 0.88378906,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.87475586,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+        "score": 0.8588867,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3080c35c-b889-548c-b1c5-da43f9b2c91e",
+        "score": 0.85839844,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.8491211,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.8322754,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.7836914,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+        "score": 0.7783203,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.76782227,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 0.7507324,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 27.557426,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+        "score": 25.983307,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 25.095943,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 24.397045,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 24.31972,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+        "score": 23.577103,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 23.210419,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "d71b0157-3143-5757-823c-7dcb972ddcc6",
+        "score": 22.510593,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 22.247156,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 22.098381,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.94470215,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3080c35c-b889-548c-b1c5-da43f9b2c91e",
+        "score": 0.9250488,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+        "score": 0.89746094,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+        "score": 0.89624023,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.8432617,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.8364258,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.82440186,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+        "score": 0.8189697,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4dad6027-ed9c-5510-96b1-5db45fbce45d",
+        "score": 0.8125,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "27086754-bb8a-57c8-a403-885f27c39701",
+        "score": 0.78686523,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 11.839844,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 11.724609,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+        "score": 11.3359375,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 11.1171875,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 10.904297,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 10.65625,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "492319ab-1fef-5a90-8ab1-9a5b389f58d5",
+        "score": 10.607422,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 10.5703125,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 10.511719,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0fcfb942-0378-5d67-aa37-2d9a84f0ead5",
+        "score": 10.3671875,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.03200204813108039,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.031099324975891997,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.030679156908665108,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.030536130536130537,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.029850746268656716,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.029709507042253523,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 0.029571646010002173,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 0.028283227848101264,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+        "score": 0.028006267136701922,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 0.02782608695652174,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.03200204813108039,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.03128054740957967,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.031099324975891997,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.030679156908665108,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.03055037313432836,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.030309988518943745,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 0.02886002886002886,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+        "score": 0.027651515151515153,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+        "score": 0.027313266443701224,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+        "score": 0.02728937728937729,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 0.032266458495966696,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.031054405392392875,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.028021349599695006,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+        "score": 0.027884615384615386,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 0.027364110201042444,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d619efd8-60b4-5b60-8cc9-ffdc16284775",
+        "score": 0.027118043247075507,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "35925668-d7f6-5269-afe4-1a48acd05e93",
+        "score": 0.025793650793650792,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "27086754-bb8a-57c8-a403-885f27c39701",
+        "score": 0.025218810265539238,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.024449182658137884,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+        "score": 0.024448419797257006,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.03128054740957967,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.031099324975891997,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.03055037313432836,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 0.03036576949620428,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.03009207275993712,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.029709507042253523,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.029437229437229435,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 0.028531243721117136,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+        "score": 0.028381642512077296,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+        "score": 0.028205128205128206,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.03131881575727918,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.03128054740957967,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.030776515151515152,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.030090497737556562,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.02946236559139785,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.029418126757516764,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+        "score": 0.029030910609857977,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+        "score": 0.0288981288981289,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+        "score": 0.027984344422700584,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 0.02761904761904762,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.03200204813108039,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.031099324975891997,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.03047794966520434,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 0.03036576949620428,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.030309988518943745,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.03007688828584351,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.028782894736842105,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 0.028283227848101264,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+        "score": 0.02782608695652174,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+        "score": 0.02761904761904762,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.031544957774465976,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.03131881575727918,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.031009615384615385,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.029857397504456328,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.02964254577157803,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.028814262023217248,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+        "score": 0.028782894736842105,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+        "score": 0.02804284323271665,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+        "score": 0.02761904761904762,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+        "score": 0.026625704045058884,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+        "score": 0.03225806451612903,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+        "score": 0.031099324975891997,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+        "score": 0.031099324975891997,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+        "score": 0.031024531024531024,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+        "score": 0.030776515151515152,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+        "score": 0.030309988518943745,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+        "score": 0.02844551282051282,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+        "score": 0.02715098147128967,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+        "score": 0.026838432635534086,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+        "score": 0.026742581090407176,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 13.0,
+    "p1_tfidf": 10.7,
+    "p1_splade": 107.0,
+    "p2_bm25": 8.2,
+    "p2_tfidf": 8.6,
+    "p3_bm25": 7.1,
+    "p3_tfidf": 8.0,
+    "baseline_qdrant_bm25": 10.3,
+    "rrf_p1_bm25": 75.1,
+    "rrf_p1_tfidf": 49.4,
+    "rrf_p1_splade": 143.6,
+    "rrf_p2_bm25": 192.7,
+    "rrf_p2_tfidf": 194.3,
+    "rrf_p3_bm25": 67.0,
+    "rrf_p3_tfidf": 75.2,
+    "rrf_baseline_qdrant_bm25": 39.8
+  },
+  "pool": [
+    {
+      "name": "Oficio N°53 (10/01/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°53 (10/01/2000)",
+      "document_id": "538c1ad7-73e1-55fb-aa97-ec2220479f6a",
+      "chunk_uuid": "850cff40-8b14-5bd8-9827-734d26c3030e",
+      "chunk_id": 0,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1635.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nSERVICIO DE IMPUESTOS INTERNOS \n       SUBDIRECCION NORMATIVA \n      DEPTO. IMPTOS. INDIRECTOS \n  C-603-99 S.D. \n          450-99 S.N.          \n          I.I. 161 /99 \nORD. Nº __53_____/ \nANT.- Presentación del interesado \n \n  \nMAT. Situación tributaria producida por la \ncesión del arriendo y de la opción de \ncompra \nen \nel \ncontrato \nde \narrendamiento de un bien en leasing, \nen materia de IVA. \nSANTIAGO, 10 DE ENERO DE 2000 \nDE : DIRECTOR DEL SERVICIO DE IMPUESTOS INTERNOS \nA   :  SEÑOR LUIS DANIEL PALMA PEÑALOZA \n1.- \nEl señor Luis Daniel Palma Peñaloza, solicita un nuevo estudio de los pronunciamientos \nemitidos por este Servicio acerca de la situación frente al Impuesto al Valor Agregado de \naquellos casos en que opera una sustitución subjetiva en el contrato de arrendamiento de un \nbien mueble entregado en leasing, situación respecto de la cual, esta Dirección Nacional ha \nsostenido que, siendo la normativa tributaria de derecho público, las eventuales \nmodificaciones subjetivas o sustituciones de las partes en el arrendamiento que forma parte \nde la operación denominada leasing, no serían relevantes desde este punto de vista. Así, \nante una cesión de la  calidad de arrendatario o sustitución en ella por parte de un tercero, \nsólo el primitivo arrendatario tendría derecho a beneficiarse con el uso del crédito fiscal IVA, \ndebiendo seguirse emitiendo a éste la correspondiente factura, no obstante las referidas \nmodificaciones convencionales. \n2.- \nSobre el particular, se informa a Ud. que a través del oficio Nº 4639 de fecha 23-12-99, \nemanado de esta superioridad, cuya copia se adjunta, se ha modificado el criterio sustentado \nen el Oficio Nº 1.640, de 19 de Julio de 1998 y se ha establecido que, en el caso de cesión \ndel arrendamiento o de la opción de compra que componen la operación de leasing, el \ncedente debe documentar el pago de la renta de arrendamiento o de la venta final, según \ncorresponda, al cesionario respectivo, lo cual se entiende sin perjuicio de la facultad de tasar \nque le asiste a este Servicio al tenor del inciso tercero del artículo 64 del Código Tributario, \nen caso de que el precio asignado a la cesión sea notoriamente inferior al corriente en plaza \no al que normalmente se cobre en convenciones de similar naturaleza, considerando las \ncircunstancias en que se realiza la operación. \n \nSaluda a Ud., \n \n \n \n \n \n \n \nJAVIER ETCHEBERRY CELHAY \n          DIRECTOR \n \n \n \n \n \n          \nJAS/mcgv.\nDISTRIBUCION:\nSEÑOR\nLUIS DANIEL PALMA PEÑALOZA \nRAFAEL CAÑAS 50 Of. A \nPROVIDENCIA\n- SUBDIRECCION NORMATIVA \n- SECRETARIA DEL DIRECTOR \n- DEPTO. DE IMPTOS INDIRECTOS \n- DEPTO. DE ASESORIA JURIDICA \n- SUBDIRECCION DE FISCALIZACION \n- OFICINA DE PARTES \nXXXXXXXXXXXXXXXXXXXXXX\nXXXXXXXXXXXXXXXX\nXXXXXXXXXXXX\nXXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXX\n"
+    },
+    {
+      "name": "Oficio N°1291 (13/04/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°1291 (13/04/2022)",
+      "document_id": "1740f3b8-1fb6-59ba-9b16-e49553757b3b",
+      "chunk_uuid": "3080c35c-b889-548c-b1c5-da43f9b2c91e",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1291-13%2F04%2F2022.pdf&extension=pdf&acc=download&id=c24ccb7b-9820-4b4b-8c55-a3add8a1837a&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART. 15 Y ART. 55 – LEY DE IMPUESTO \nA LA RENTA – ART. 14 LETRA D N°3, ART. 29, ART.30,  ART.31 N°5 Y 5 BIS – (ORD. \nN° 1291, DE 13.04.2022) \n \n \n \n \n \n \n \n \n \n \n \n \n \nTratamiento tributario aplicable a la enajenación de inmuebles adquiridos mediante un \ncontrato de compraventa definitivo precedido por una promesa. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario aplicable a la \nenajenación de inmuebles adquiridos mediante un contrato de compraventa definitivo, precedido \npor uno de promesa. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, un contribuyente de primera categoría suscribió en julio de 2016 \n(época en la cual tributaba bajo régimen general), un contrato de promesa de compraventa de dos \ninmuebles, en el cual las partes pactaron un precio por el contrato de promesa en sí mismo – que \nlas partes no gravaron con IVA – y uno por la compraventa definitiva – que sí se afectó con IVA. \nEn septiembre del 2017 (mientras la empresa se encontraba acogida el régimen de renta \natribuida), se hizo efectiva la compra de ambas unidades mediante la suscripción del contrato \nprometido, registrando los inmuebles como activos fijos en su contabilidad. \nPor otro lado, en tanto el monto pagado por concepto de promesa de venta otorga un derecho \npersonal para exigir que la contraparte celebre un contrato de venta, la empresa lo registró en su \ncontabilidad como un activo intangible que no ha sido amortizado hasta el día de hoy. \nFinalmente, señala que el contribuyente se trasladó al régimen tributario del N° 3 de la letra D) \ndel artículo 14 de la Ley sobre Impuesto a la Renta (LIR) a partir del 1° de enero de 2020. \nConsiderando lo anterior y tomando en cuenta que el contribuyente pretende enajenar los \ninmuebles referidos, se solicita aclarar: \n1)  Si el precio pagado por la promesa de compraventa puede rebajarse como gasto o debe ser \nconsiderado como costo de los bienes raíces enajenados. \n2) \nLa base imponible de IVA en la enajenación de los inmuebles referidos. \nII  ANÁLISIS \nEn primer término, es importante señalar que en la época de la suscripción de la promesa de \ncompraventa y de la compraventa definitiva, el contribuyente debía tributar sobre la base de renta \nefectiva determinada según contabilidad completa, calculando sus rentas según las normas \ncontenidas en los artículos 29 al 33 de la LIR. \nEn este sentido, frente a las normas de la LIR, el pago realizado por el promitente comprador por \nel contrato de promesa debía ser calificado como un activo intangible. Dicha inversión debía \nactivarse y, al no existir norma legal, que permita su amortización, su recuperación sólo podría \nocurrir mediante la enajenación del derecho o cualquier otro hecho o circunstancia que la haga \nperder la calidad de activo intangible para quien realizó la inversión. \nEn consecuencia, en el momento en que el contribuyente suscribió el contrato de compraventa \ndefinitivo con el prominente vendedor, adquiriendo los inmuebles para sí, el anticipo del precio de \nla compraventa entregado al promitente vendedor al suscribir el contrato de promesa debía pasar a \nformar parte del costo directo de dichos inmuebles y podría haberse deducido como tal al \nenajenarlo, conforme a lo dispuesto en el artículo 30 de la LIR1. \nSin perjuicio de lo anterior, atendido que desde el 1° de enero de 2020 el contribuyente pasó del \nrégimen de renta atribuida al Régimen Pro Pyme general – establecido en el N° 3 de la"
+    },
+    {
+      "name": "Oficio N°1530 (07/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1530 (07/08/2020)",
+      "document_id": "e348e2f8-b649-514e-9dfd-a1075203d9e6",
+      "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1530-07%2F08%2F2020.pdf&extension=pdf&acc=download&id=00c6371d-b1b1-42a0-8824-147d68f90471&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – ART. 2 N°s 2 Y 3 Y ART. 23 N° 3 – D.S. N° 55, DE 1977, ART. 4 – \nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 2 N° 2 Y 20 N° 5 – CÓDIGO \nCIVIL, ART. 1554 \n \n(ORD. N° 1530 DE 07.08.2020). \nTratamiento tributario de la cesión a título oneroso de contratos de promesa de compraventa \nsobre inmuebles. \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario de la cesión a título \noneroso de contratos de promesa de compraventa sobre inmuebles, con respecto al Impuesto de Primera \nCategoría (IDPC) y al Impuesto al Valor Agregado (IVA). \nI \nANTECEDENTES \nDe acuerdo con su presentación, una empresa inmobiliaria (la sociedad) de propiedad de un fondo de \ninversión privado y dedicada a la explotación de bienes raíces está evaluando implementar el modelo de \nnegocios que se describe a continuación.  \nLa sociedad se dedicaría a la búsqueda de bienes raíces cuyos propietarios estén interesados en \nvenderlos, celebrando un contrato de promesa de compraventa con el propietario del inmueble conforme \nal artículo 1554 del Código Civil. Dicho contrato establecería que la sociedad puede adquirir el \ninmueble para sí, o para la persona que ésta designe, pagando en el acto, como anticipo, una parte o la \ntotalidad del precio del precio de la compraventa prometida. Además, en dicho contrato se estipularía \nexpresamente la facultad de cederlo a un tercero.  \nEn una segunda etapa, la sociedad buscaría terceros interesados en la compra del inmueble y, previa \ncesión del contrato de promesa de compraventa suscrito entre la sociedad y el propietario, se celebraría \nel contrato de compraventa definitivo entre el propietario del inmueble y el tercero, generándose una \nutilidad en la cesión de dicho contrato.  \nLa sociedad se dedicaría de forma habitual a la cesión de los contratos de promesa de compraventa \nindicados con el fin de generar una rentabilidad. No obstante, la sociedad eventualmente podría adquirir \npara sí un bien inmueble, con la intención de revenderlo y obtener un mayor valor por la diferencia entre \nel precio de compra y de venta.  \nConforme lo expuesto, solicita confirmar el tratamiento tributario que se señala a continuación: \n1) \nDesde la perspectiva de la Ley sobre Impuesto a la Renta (LIR), la utilidad generada en la cesión \ndel contrato de promesa de compraventa se clasifica en el N° 5 del artículo 20 de la LIR, \nconstituyendo la base imponible el mayor valor generado por la diferencia entre el precio de \ncompraventa pagado como anticipo al suscribir el contrato de promesa y el precio de cesión de \ndicho contrato. Por ejemplo, la sociedad celebra un contrato de promesa de compraventa de un \ninmueble y paga como anticipo del precio de compraventa la suma de $ 100. Posteriormente, la \nsociedad cede dicho contrato a un tercero, pagando como precio de la cesión la suma de $ 150. \nProducto de lo anterior se genera para la sociedad una renta de $50 afecta a tributación.  \n2) \nEn lo que concierne al IVA, la celebración del contrato de promesa de compraventa y la posterior \ncesión de dicho contrato no están comprendidos en los hechos gravados de la Ley sobre Impuesto a \nlas Ventas y Servicios (LIVS).  \n3) \nSi la Sociedad adquiere la propiedad del inmueble que ha prometido comprar y posteriormente lo \nvende, calificaría como vendedor habitual, de acuerdo al N° 3 del artículo 2° de la LIVS.  \nII \nANÁLISIS \nSin perjuicio que no se acompañó el contrato de promesa de compraventa señalado en la presentación, \neste Servicio ent"
+    },
+    {
+      "name": "Oficio N°317 (07/02/2024)",
+      "source_type": "oficio",
+      "source": "Oficio N°317 (07/02/2024)",
+      "document_id": "259b76e0-220b-5774-a819-2426febf649d",
+      "chunk_uuid": "4dad6027-ed9c-5510-96b1-5db45fbce45d",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=317-07%2F02%2F2024.pdf&extension=pdf&acc=download&id=a288264a-833c-45c7-848f-314479d51d79&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – LEY N° 21.631 DE 2023 – CIRCULAR N° 51 DE \n2023 \n(ORD. N° 317, DE 07.02.2024) \nCrédito por compra de viviendas nuevas, Ley N° 21.631. \nDe acuerdo con su presentación, se firmó una promesa de compraventa en mayo de 2022, la cual la \ninmobiliaria accede a anular y realizar un nuevo compromiso de compraventa.  \nTras agregar que aún no cuenta con recepción final otorgada por la municipalidad y, por tanto, no hay \nfecha de entrega de la vivienda, consulta si realizando una nueva promesa de compraventa se estaría \ncumpliendo con los requisitos para acceder al beneficio establecido en la Ley N° 21.631.  \nAl respecto, se informa que, de acuerdo con la Ley N° 21.631, aquellas viviendas que no contaban con \nrecepción final conforme a la fecha de su entrada en vigencia (1° de noviembre de 2023), pueden acceder \nal beneficio siempre que respecto de ellas exista un contrato de promesa de compraventa que conste en \nescritura pública o documento protocolizado suscrito con fecha posterior al 16 de octubre de 2023.  \nSobre la posibilidad de anular la promesa ya efectuada y realizar una nueva, no corresponde a este Servicio \npronunciarse sobre las condiciones contractuales pactadas entre las partes.  \nFinalmente, cabe precisar que, para acceder al beneficio se deben cumplir los demás requisitos exigidos \npor la ley1, entre ellos, que la compraventa se celebre a partir del 1° de noviembre de 2023 y la vivienda \nadquirida se encuentre inscrita a nombre de la persona beneficiaria en el Conservador de Bienes Raíces \nrespectivo al 30 de septiembre de 2024. \n \n \n \n \nSIMÓN RAMIRÉZ GUERRA \nDIRECTOR (S) \n \n \n \nOficio N° 317, del 07.02.2024 \nSubdirección Normativa \nDepto. de Impuestos Directos \n \n1 Ver instrucciones en la Circular N° 51 de 2023. \n"
+    },
+    {
+      "name": "Oficio N°2539 (28/11/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°2539 (28/11/2017)",
+      "document_id": "d4be95e9-7589-5d0b-b13e-b2c31a01ee0d",
+      "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2539.htm",
+      "content": " donde la empresa securitizadora\nadquiere el inmueble, en conjunto con el respectivo contrato de arriendo con promesa de compraventa,\npasando a ocupar el lugar del arrendador y, en consecuencia, obligándose a vender el inmueble una vez que\nse cumplan con las condiciones establecidas en el respectivo contrato de promesa.\nSobre el particular, cabe señalar que el Art. 12°, letra F), del D.L. N° 825, dispone que se encuentra exenta\nde Impuesto al Valor Agregado: “La venta de una vivienda efectuada al beneficiario de un subsidio\nhabitacional otorgado por el Ministerio de Vivienda y Urbanismo, los contratos generales de construcción y\nlos contratos de arriendo con opción de compra, cuando tales ventas, contratos o arriendos con opción de\ncompra hayan sido financiados en definitiva, en todo o parte, por el referido subsidio. Para estos efectos, se\nconsiderará también como beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y\nUrbanismo, a la persona natural o jurídica que adquiera o encargue la construcción de un bien corporal\ninmueble para venderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio\nhabitacional otorgado por dicho Ministerio, siempre que lo anterior conste en el contrato respectivo, debiendo\naplicarse el impuesto al valor agregado en caso contrario. En este caso, si la venta o el contrato de arriendo\ncon opción de compra posteriores no se celebran con beneficiarios de tales subsidios, deberá aplicarse el\nimpuesto al valor agregado conforme a las reglas que corresponda según el caso, sin que proceda la\nexención establecida en el número 11, de la letra E, del artículo 12°; y la venta a un tercero de una vivienda\nentregada en arrendamiento con opción de compra al beneficiario de un subsidio habitacional otorgado por el\nmismo Ministerio, cuando la opción de compra sea financiada, en todo o parte, por el señalado subsidio\".\nDel texto de la norma legal, se desprende que tanto las ventas, como los contratos de construcción y los\ncontratos de arriendo con opción de compra que recaigan sobre una vivienda, se encuentran exentos de IVA,\nsiempre que tales ventas, contratos de construcción o contratos de arriendo con opción de compra sean\nefectuados con un beneficiario de un subsidio habitacional y éstos sean financiados en todo o parte por dicho\nsubsidio.\nDe igual modo, esta exención favorece a las personas naturales o jurídicas, que para efectos de esta\nfranquicia se consideran también beneficiarios de un subsidio habitacional otorgado por el Ministerio de\nVivienda y Urbanismo, cuando adquieran o encarguen la construcción de un bien corporal inmueble para\nvenderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado\npor dicho Ministerio y siempre que ello conste en el contrato respectivo.\nLas instrucciones sobre esta materia se encuentran contenidas en Circular N° 13, de 24/3/2016.\nAhora bien, mediante Ord. N° 222, de 31/1/2017, este Servicio se pronunció sobre diversas consultas\nrelacionadas con los contratos de arrendamiento con promesa de compraventa de bienes corporales\ninmuebles, que conforman los activos securitizados de los distintos patrimonios administrados por una\nsecuritizadora.\nEn el Título II, letra i), del mencionado oficio, se analizaron las normas contenidas en la Ley N° 19.281, sobre\narrendamiento de viviendas con promesa de compraventa, concluyéndose que el sistema allí regulado tiene\npor finalidad última la transferencia efectiva de un bien corporal inmueble, teniendo las sociedades\ninmobiliarias dedicadas a realizar este tipo de operaciones, la calidad de vendedoras respecto de los\ninmuebles entregados en arrendamiento con promesa de compraventa, ya que conforme a lo dispuesto en el\nArt. 11°, de la Ley N° 19.281, estas sociedades tienen como objeto la adquisición o"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+      "chunk_id": 6,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " y Urbanismo y qué ésta haya sido financiada en todo o parte por el referido subsidio.\n \nRespecto de sus consultas sobre si en este caso se encontrarían exentos de IVA los cánones de\narrendamiento o el pago del último aporte, cabe manifestar que tal como se señaló en el párrafo precedente,\nel contrato de arriendo con promesa de compraventa no se encuentra comprendido en el hecho gravado\nespecial establecido en el Art. 8°, letra l), del D.L. N° 825, por lo que para efectos tributarios no puede ser\ntratado como un contrato de arriendo con opción de compra. Por lo tanto y en lo que dice relación con la\naplicación de la exención contenida en el Art. 12°, letra F), a este tipo de contratos, cumplo con informar a\nusted que ésta favorece sólo a la venta del bien inmueble objeto del contrato. En esas circunstancias el\nmonto afecto al tributo, pero liberado del mismo por aplicación de la señalada exención, es aquel\ncorrespondiente al valor de venta del inmueble, lo cual incluye las sumas que se hayan pagado previamente\ny que se imputen a dicho valor a cualquier título.\n \nAl respecto, cabe hacer presente que de acuerdo a lo dispuesto en el Art. 9°, letra f), del D.L. N° 825, en la\nventa de inmuebles el devengo del impuesto se produce en el momento de emitirse la factura y ésta debe\nemitirse en la fecha de suscripción de la escritura de compraventa, por lo que para estos efectos los cánones\nde arrendamiento no tienen incidencia tributaria, en la medida que no remuneren el arrendamiento de un bien\ncorporal inmueble amoblado, que conforme al Art. 8°, letra g), se encuentra gravado con IVA.\n \nResultaría aplicable la exención contenida en la letra F), del artículo 12°, de la Ley de IVA, vigente a contar\ndel 1° de enero de 2016, a los contratos de arriendo con promesa de compraventa celebrados al amparo de\nla Ley N° 19.281, que se hayan celebrado o se celebren, a contar del 1 de enero de 2016?\n \nConforme a lo señalado  en la respuesta a su consulta signada con la letra a), el contrato de arrendamiento\ncon promesa de compraventa, no se encuentra comprendido en el hecho gravado especial contenido en el\nArt. 8°, letra l), del D.L. N° 825, por lo tanto no procede analizar la aplicación de exención alguna a ese tipo\nde contratos. [Ver respuestas a consultas signadas con la letra a) y c)]\n          \nLas consultas signadas con las letras e), f), g), h), i), j), k) y l), se formulan sobre la base que el hecho\nsusceptible de gravarse con IVA es el contrato de arrendamiento con promesa de compraventa, lo cual ya fue\naclarado en el cuerpo de este oficio, señalando que el contrato como tal no se encuentra comprendido en el\nhecho gravado especial contenido en el Art. 8°, letra l), del D.L. N° 825. Al respecto es preciso reiterar que es\nla transferencia del bien inmueble la que se afecta con el tributo en comento como hecho gravado “venta”\ncontenido en el Art. 2°, N°1, del D.L. N° 825. [Ver respuestas a consultas signadas con la letra a) y c)].\n \n\n\n[letra m), de la consulta original] Respecto a la determinación de la base imponible, en relación a la\ndeducción del precio estipulado en el contrato del monto total o la proporción que corresponda del valor de\nadquisición del terreno que se encuentre incluido en la operación, solicita confirmar o resolver lo siguiente:\n \n         [letra n) de la consulta original] Considerando que (i) la inmobiliaria creada al amparo de la Ley N°\n19.281 celebra con el arrendatario promitente comprador el contrato de arrendamiento con promesa de\ncompraventa por un valor “X” y (ii) posteriormente la Securit"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+      "chunk_id": 9,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " reúne los requisitos dispuestos en el Art. 8°, letra l), del D.L. N°\n825, para afectarse con el tributo en comento.\n \nSin embargo, es la transferencia  del bien inmueble que se efectúe en virtud de estos contratos, la que se\nencuentra afecta a IVA, pues se configura a su respecto el hecho gravado “venta”, contenido en el Art. 2°, N°\n1, del D.L. N° 825.\n \nEn este caso el valor de la operación para efectos tributarios es el precio total cobrado por la vivienda, el cual\nincluye también todas las sumas que se hayan pagado previamente y que se imputen a dicho valor a\ncualquier título.\n\n\n \nEn este contexto, el Art. 6° transitorio, de la Ley N° 20.780, dispone en lo pertinente que “Las modificaciones\nintroducidas por el artículo 2° al decreto ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, no se\naplicarán a las ventas y otras transferencias de dominio de inmuebles, que se efectúen en virtud de un acto o\ncontrato cuya celebración se hubiere válidamente prometido con anterioridad a la fecha de entrada en\nvigencia de la presente ley…”.\n \nSobre el particular, la Circular N° 42, de fecha 5/6/2015, en su Título IV, instruye que para los fines de\naplicación de la norma comentada es indispensable que los contratos de promesa que se celebrarán con el\nobjetivo de regular la celebración de uno posterior que tenga por objeto la transferencia del dominio del\nrespectivo inmueble, cumplan con todos los requisitos exigidos por el artículo 1.554, del Código Civil que lo\ndistingue de otros tipos de contratos.\n \nAsimismo, agrega que se requiere que estos contratos sean celebrados ya sea por escritura pública o por\ninstrumento privado protocolizado.\n \nAl respecto, el Art. 1554, del Código Civil establece que “La promesa de celebrar un contrato no produce\nobligación alguna; salvo que concurran las circunstancias siguientes:\n \n1°    Que la promesa conste por escrito;\n2°    Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces;\n3°    Que la promesa contenga un plazo o condición que fije la época de la celebración del contrato;\n4°    Que en ella se especifique de tal manera el contrato prometido, que sólo falten para que sea perfecto, la\ntradición de la cosa, o las solemnidades que las leyes prescriban.\n \nConcurriendo estas circunstancias habrá lugar a lo prevenido en el artículo precedente”.\n \nEn consecuencia, si el contrato de arriendo con promesa de compraventa, fue celebrado por escritura pública\no instrumento privado protocolizado con anterioridad al 1° de Enero de 2016 y reúne los requisitos\nestablecidos en el Art. 1554, del Código Civil, para efectos tributarios, le resulta plenamente aplicable la\nnorma contenida en la primera parte del Art. 6°, transitorio, de la Ley N° 20.780, es decir, no se afectará con\nIVA la venta del inmueble, esto es, el precio total cobrado por la vivienda que para efectos tributarios incluye\ntambién todas las sumas que se hayan pagado previamente y que se imputen a dicho valor a cualquier título.\n \n[letra p), de la consulta original] Respecto de los Contratos con APV celebrados por escritura pública con\nanterioridad al 1° de enero de 2016, y en caso que con posterioridad a dicha fecha el arrendatario promitente\ncomprador decida aportar al Fondo para la Vivienda el saldo insoluto que permita completar el precio de la\nvivienda objeto del contrato de arriendo con promesa de compraventa.\n \n  ¿Dicho pago efectuado por el arrendatario promitente comprador estará amparado en lo dispuesto en el\nartículo 6° transitorio de la Ley de Reforma Tributaria? En otras palabras. ¿el pre-pago,"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "9b67a460-8603-52af-9821-6fdccc5ebcf5",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " Ley N° 19.281 (en adelante los “Contratos”).\n \nLos contratos securitizados son denominados en su totalidad, concordantemente con lo dispuesto en la Ley\nN° 19.281, “Compraventa y arrendamiento con promesa de compraventa”.\n \nAl respecto, los contratos suscritos y securitizados pueden clasificarse en:\n \n\n\nContrato de arrendamiento de vivienda con promesa de compraventa (en adelante los “Contratos Directos”:\n \nSon aquellos que contemplan pagos mensuales denominados “aportes” los que a su vez se componen\nprincipalmente de “renta de arrendamiento” y “pago parcial de precio”.\n \nEl último aporte, que es sustancialmente similar en cuantía a los anteriores se distingue de los otros por ser\naquél en que se cumple con la obligación de pago total del precio[1], y en virtud de la cual nace la obligación\npara la sociedad inmobiliaria de suscribir la respectiva escritura de compraventa del bien raíz respectivo.\n \nContratos de arrendamiento de viviendas con promesa de compraventa bajo el mecanismo de aportes a una\nAdministradora de Fondos para la Vivienda (en adelante “Contratos con AFV”)\n \nSon aquellos que contemplan pagos mensuales denominados “aportes”, los que a su vez se componen de;\nuna “renta de arrendamiento” y de un “ahorro metódico”, que se destina a acumular fondos suficientes para el\npago del precio de compraventa de la vivienda, cuestión que está programada para que ocurra el último mes\ndel contrato suscrito.\n \nMediante el pago del último aporte programado se completa el precio total de la vivienda, momento en que el\nahorro acumulado pasa a ser transferido a la inmobiliaria o a su cesionario legal.\n \nEn la suscripción primitiva de estos contratos son las sociedades inmobiliarias las dueñas de los inmuebles\nobjeto de los respectivos Contratos, que han sido securitizados y cedidos a título oneroso a la sociedad\nSecuritizadora, en conjunto con los inmuebles\n \nActualmente la Securitizadora tiene en cartera, en cuanto cesionario, aproximadamente xxx contratos de\narrendamiento con promesa de compraventa suscritos al amparo de la Ley N° 19.281, de estratos\nsocioeconómicos medio y medio bajo, en que el valor promedio por vivienda es de aproximadamente UFxxx,\npor lo que resulta fundamental tener un entendimiento acabado de la normativa contenida en la Ley de\nReforma Tributaria en esta materia.\n \nFinalmente realiza una serie de consultas que serán transcritas y analizadas en el Título siguiente.\n \nII.-       ANÁLISIS Y CONCLUSIÓN\n \nConsiderando la cantidad de consultas efectuadas se procederá a analizar y responder cada una de ellas en\nel orden en que fueron formuladas:\n \n¿Constituyen los contratos de arriendo con promesa de compraventa celebrados en virtud de la Ley N°\n19.281 un hecho gravado con IVA de acuerdo a la normativa contenida en la Ley N° 20.780, de 29 de\nseptiembre de 2014? Al respecto, ¿Es necesario distinguir la fecha de celebración o suscripción del\nrespectivo contrato de arriendo con promesa de compraventa?\n \n\n\nAl respecto, cabe manifestar que el sistema normado por la Ley N° 19.281, tiene como objetivo ayudar a\nquienes opten por éste, a formar un ahorro suficiente que les permita en un plazo razonable convertirse en\npropietarios de una vivienda, sin perjuicio que durante el periodo en que se concreta dicho ahorro el sistema\nles permita arrendar la vivienda por la cual han suscrito una promesa de compraventa.\n \nEn este orden de ideas, la ley autoriza en su Art. 1°, a las instituciones financieras y cajas de compensación\npara abrir y mantener cuentas de ahorro para el arrendamiento de viviendas con promesa de compraventa,\ncon el objeto de recibir en ellas el ahorro que efectúen sus titulares, a fin"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": "ente comprador.\n\n\n \n \nDel análisis de las normas legales precedentes se colige entonces que el sistema normado por la Ley N°\n19.281, tiene por finalidad última la transferencia efectiva de un bien corporal inmueble.\n \nPor lo tanto, cuando ello ocurra, se estará en presencia del nuevo hecho gravado “venta”, modificado por el\nArt. 2°, N° 1, letra a), de la Ley N° 20.780 y contenido en el Art. 2°, N° 1, del D.L. N° 825, definido en lo\npertinente como “toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de ……………….., bienes corporales inmuebles, excluidos los terrenos,\nde una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo,\ntodo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta”.\n \nRespecto de la calidad de vendedor que tendrían las sociedades inmobiliarias que realizan la venta del\ninmueble, resulta indudable su calificación como tal, toda vez que conforme a lo dispuesto en el Art. 11°, de la\nLey N° 19.281, estas sociedades tienen como objeto la adquisición o construcción de viviendas para\nentregarlas en arrendamiento con promesa de compraventa, promesa que conforme al Art. 27, de la\nmencionada ley tienen obligación de cumplir, es decir, el ánimo que guía a estas sociedades al adquirir los\ninmuebles para suscribir estos contratos es precisamente la transferencia del inmueble.\n \nAhora bien, las sociedades inmobiliarias, en virtud del Art. 17°, de la Ley N° 19.281, pueden enajenar estas\nviviendas arrendadas con promesa de compraventa, siempre que cedan conjuntamente el contrato de\narrendamiento con promesa de compraventa, entre otras, a empresas securitizadoras, las cuales como\ncesionarias del referido contrato tienen iguales obligaciones, derechos y facultades que el cedente,\nencontrándose obligadas a cumplir el contrato de arrendamiento con promesa de compraventa.\n \nDe lo anterior se desprende que al producirse la cesión del contrato en cuestión, la empresa securitizadora\ntoma el lugar jurídico de la inmobiliaria en el referido contrato de arrendamiento con promesa de venta,\nencontrándose obligada, en virtud del Art. 30, de la Ley N° 19.281, a enajenar la vivienda en los términos y\ncondiciones pactados en el referido contrato. Por lo tanto e independientemente que la adquisición de dichos\ninmuebles haya sido con la finalidad de respaldar la emisión de títulos de deuda, en la práctica y como\nconsecuencia de la cesión del referido contrato de arrendamiento con promesa de compraventa, la sociedad\nsecuritizadora adquiere, al ocupar jurídicamente el lugar de la inmobiliaria, la calidad de vendedora respecto\nde dicha operación, para efectos del Art. 2°, N° 3, del D.L. N° 825.\n \nPor lo tanto, la transferencia de inmuebles que realice la sociedad securitizadora en su calidad de cesionaria\nde los contratos de arrendamiento con promesa de compraventa, se encuentra afecta a IVA, de acuerdo al\nArt. 8, en concordancia con el Art. 2°, N° 1, de D.L.  N° 825.\n \nEn este caso, la factura por la venta del inmueble deberá emitirse en la fecha de suscripción de la escritura\nde compraventa por el precio total, incluyendo las sumas pagadas previamente que se imputen al valor de\nventa del inmueble a cualquier título, según lo dispuesto por el Art. 55, del D.L. N° 825, modificado en este\nsentido, por el Art. 2°, N° 10, letra c), de la Ley N° 20.899. Al respecto, cabe tener presente que en este tipo\nde contratos,"
+    },
+    {
+      "name": "Oficio N°222 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°222 (31/01/2017)",
+      "document_id": "b39a7cee-4fe2-547e-a1ee-b2018822d103",
+      "chunk_uuid": "bb456e25-12bc-588d-b226-f42c682b20fa",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja222.htm",
+      "content": " si se considerase que los contratos antes señalados son\nde igual naturaleza que los contratos de arriendo con opción de compra (conocidos como leasing), en donde\nclaramente existe un derecho facultativo para una de las partes.\n \nEl Art. 8°, letra l), de D.L. N° 825, de 1975, dispone que se encuentran gravados con impuesto al valor\nagregado, “Los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles\nrealizados por un vendedor. Para estos efectos, se presumirá que existe habitualidad cuando entre la\nadquisición o construcción del bien raíz y la fecha de celebración del contrato transcurra un plazo igual o\ninferior a un año;”.\n \nAl respecto, se concuerda con lo señalado en su presentación, en cuanto a que los contratos de\narrendamiento de viviendas con promesa de compraventa, regidos por la Ley N° 19.281, no reúnen los\n\n\nrequisitos del hecho gravado contenido en el Art. 8°, letra l), del D.L. N° 825, toda vez que en este tipo de\ncontratos de arrendamiento no existe uno de los elementos de la esencia del hecho gravado antes señalado,\na saber, que el contrato de arrendamiento contenga una opción de comprar, que como se desprende de su\ntenor literal resulta facultativa para quien toma en arrendamiento el inmueble. Por el contrario, en los\ncontratos de arrendamiento con promesa de compraventa, regidos por la Ley N° 19.281, existe un\ncompromiso cierto adquirido por las partes, quienes pueden exigir su cumplimiento forzado, no resultando\noptativo para el arrendatario comprar o no el bien inmueble objeto del contrato.\n \nEn atención a ello se concluye que este tipo de contratos, no se encuentran afectos a IVA, en virtud del Art.\n8°, letra l), del D.L. N° 825.\n \nSin embargo, de acuerdo a lo señalado  en la respuesta a la pregunta anterior, la venta de la vivienda, como\nconsecuencia del cumplimiento del contrato, se encuentra afecta a IVA, conforme a las reglas generales,\ncontenidas en el Art. 8°, en concordancia con el Art. 2°, N°1, del D.L. N° 825.\n \n iii)    La cuota de arrendamiento correspondiente al mes de Diciembre de 2015, que es exigible en el mes de\nenero de 2016, relacionada a un contrato de arriendo con opción de compra de un bien inmueble celebrado\npor un vendedor con anterioridad al 1° de enero de 2016, no se encontrará gravada con IVA, aun cuando\ndicho contrato no conste por escritura pública o instrumento privado protocolizado, pues el elemento que\ndetermina si existe o no un hecho gravado se consuma  en el mes de diciembre de 2015, antes de la entrada\nen vigencia de la nueva disposición contenida en la letra l), de artículo 8°, de la Ley de IVA.\n \nEl Art. 6°, transitorio, de la Ley N° 20.780, en lo que dice relación con lo manifestado en su consulta, fue\nmodificado por el Art. 8°, N° 7, de la Ley N° 20.899, de 8/2/2016. Dicha modificación consistió en no hacer\naplicables los cambios introducidos por el artículo 2° de la Ley N° 20.780 al D.L. N° 825, de 1974 a las cuotas\nde un contrato de arriendo con opción de compra de bienes corporales inmuebles, ni a las transferencias de\ninmuebles que se efectúen en virtud de dichos contratos, en la medida que hayan sido celebrados con\nanterioridad al 1° de enero de 2016 y siempre que éstos se hayan celebrado por escritura pública o\ninstrumento privado protocolizado.\n \nPor lo tanto, un contrato de arriendo con opción de compra, que recaiga sobre bienes corporales inmuebles,\ncelebrado con anterioridad al 1 de enero de 2016 y siempre que éste haya sido efectuado por escritura\npública o instrumento privado protocol"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "75d07c32-e2d6-5502-9222-d1a03fce404e",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " vivienda, sin perjuicio que durante el periodo en que se concreta dicho ahorro el sistema\nles permita arrendar la vivienda por la cual han suscrito una promesa de compraventa.\n \nEn este orden de ideas, la ley autoriza en su Art. 1°, a las instituciones financieras y cajas de compensación\npara abrir y mantener cuentas de ahorro para el arrendamiento de viviendas con promesa de compraventa,\ncon el objeto de recibir en ellas el ahorro que efectúen sus titulares, a fin de pagar las rentas de\narrendamiento y acumular fondos suficientes para financiar la compra de la vivienda. Sobre este punto, cabe\ndestacar que los titulares de estas cuentas sólo pueden ser personas naturales.\n \nEs así como el Art. 3°, de la mencionada ley dispone que con cargo a los recursos que mensualmente se\naporten a la cuenta, las referidas instituciones pagarán la renta de arrendamiento al arrendador promitente\nvendedor, descontando la comisión que en virtud del Art. 5°, tienen derecho a percibir. El saldo de dicho\naporte formará parte de los recursos destinados a pagar el precio de la compraventa prometida.\n \nUna vez abierta la respectiva cuenta de ahorro en alguna de las instituciones mencionadas, el titular podrá\ncelebrar el respectivo contrato de arrendamiento con promesa de compraventa con las sociedades\ninmobiliarias a que alude el Título II de la Ley N° 19.281, el cual debe celebrarse por escritura pública e\ninscribirse en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces respectivo.\n \nSin perjuicio de lo anterior, el Art. 7°, de la Ley N° 19.281, dispone que los referidos aportes también podrán\nefectuarse directamente en las sociedades inmobiliarias, “caso en el cual la parte del aporte que exceda de la\nrenta de arrendamiento se abonará al precio de la compraventa prometida, en la forma pactada en el referido\ncontrato”.\n \nEstas sociedades inmobiliarias, según el Art. 11° de la Ley N° 19.281, son para efectos de esta ley, todas\naquellas que tengan como objeto la adquisición o construcción de viviendas para darlas en arrendamiento\ncon promesa de compraventa.\n \nPor otra parte, la ley en su Art. 27°, establece la obligación de celebrar el contrato de compraventa prometido,\nes decir, establece la obligación de transferir el bien, una vez cumplida cualquiera de las siguientes\ncircunstancias:\n \n“a) Cuando el saldo de la cuenta en la institución, o el total de los abonos al precio de la compraventa\nprometida, sea igual al precio de venta estipulado en el contrato de arrendamiento con promesa de\ncompraventa.\n \nb)    Cuando se cumpla el plazo convenido para la celebración del contrato prometido y se entere el precio de\ncompraventa. Si, al cumplirse el plazo convenido, por cualquier causa, no se hubiere completado y pagado el\nprecio estipulado, el contrato se prorrogará en el plazo que no exceda al que sea necesario para completar la\nparte del precio no enterada, en tantas cuotas de un monto igual a las estipuladas en el contrato, dentro del\ncual el arrendatario promitente comprador deberá completar el precio bajo sanción de resolución de la\npromesa en caso de incumplimiento.\n \nc)    Cuando opere el seguro de desgravamen por fallecimiento del arrendatario promitente comprador.\n\n\n \n \nDel análisis de las normas legales precedentes se colige entonces que el sistema normado por la Ley N°\n19.281, tiene por finalidad última la transferencia efectiva de un bien corporal inmueble.\n \nPor lo tanto, cuando ello ocurra, se estará en presencia del nuevo hecho gravado “venta”, modificado por el\nArt. 2°, N° 1, letra a), de la Ley N° 20.780 y contenido en el Art. 2°, N° 1, del D.L. N°"
+    },
+    {
+      "name": "Oficio N°2716 (23/11/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°2716 (23/11/2020)",
+      "document_id": "81071401-56dc-5454-9daf-db910de43d2e",
+      "chunk_uuid": "0fcfb942-0378-5d67-aa37-2d9a84f0ead5",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2716-23%2F11%2F2020.pdf&extension=pdf&acc=download&id=6644e0a9-fadb-44b2-a4f7-cabca92eaa11&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nVENTAS Y SERVICIOS –NUEVO TEXTO – LEY SOBRE IMPUESTO A LAS – ART. 8, \nLETRA G) Y LETRA L) – ART. 17, ART. 55 – LEY N° 19.281, ART. 7.  \n(ORD. N° 2716, DE 23.11.2020) \n \n \n \n \n \n \n \n \n \n \n \n \n \nConsulta sobre el concepto de “arrendador habitual” en el leasing habitacional. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la figura del “arrendador habitual” en el \ncaso del leasing habitacional y, en su defecto, cómo se determina la habitualidad. \n \nI        ANTECEDENTES \n \nDe acuerdo con su presentación, se solicita determinar si existe la figura del “arrendador habitual” en \nel caso del leasing habitacional y, en dicho caso, cuál sería el criterio para establecer tal “habitualidad”. \n \nEn el caso que no exista la figura del “arrendador habitual”, consulta cómo se determina la \n“habitualidad” en el caso del vendedor. \n \nII       ANÁLISIS \n \nDado que su presentación se refiere genéricamente al denominado “leasing habitacional”, para los \nefectos del presente análisis es necesario considerar que, como este Servicio ha precisado1, debe \ndistinguirse entre los contratos de arrendamiento con promesa de compraventa y los contratos de \narrendamiento con opción de compra. \n \nLos contratos de arrendamiento con promesa de compraventa se rigen por la Ley N° 19.281, que \nestablece normas sobre arrendamiento de viviendas con promesa de compraventa, y tienen como \nrasgo distintivo el carácter imperativo en cuanto a la celebración de la compraventa, contrato cuya \ncelebración no es opcional. Se distinguen en esta figura tres contratos distintos, a saber, un contrato de \narrendamiento, una promesa de compraventa y, finalmente, una vez enterado el precio prometido, el \ncontrato de compraventa por el cual la vivienda se traspasa al arrendatario promitente comprador. \n \nEn la actualidad estos contratos no configuran un hecho especial gravado con IVA, por lo que, para \ndeterminar su afectación con dicho tributo se debe considerar por separado cada uno de los contratos \nque lo componen. \n \nDe este modo, en el caso del arrendamiento, dicho contrato estará gravado sólo si el inmueble se \nencuentra amoblado con bienes suficientes para su uso como habitación, conforme lo dispuesto en la \nletra g) del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS). \n \nPor su parte, atendido que, como se expuso antes, las promesas de venta de bienes corporales \ninmuebles dejaron de ser un hecho gravado especial con IVA, no procede afectarlas con dicho \nimpuesto. Los montos pagados por este concepto antes de celebrarse la compraventa prometida, \npasan a tener la calidad de anticipos respecto de la compraventa del bien inmueble al cual acceden. \n \n \nFinalmente, teniendo presente que el sistema regulado por la Ley N° 19.281 tiene como propósito \núltimo la transferencia efectiva de un bien corporal inmueble, cuando ello ocurra, se estará en \npresencia del hecho gravado “venta”, definido en lo pertinente en el N° 1°) del artículo 2° de la LIVS, \ncomo “toda convención independiente de la designación que le den las partes, que sirva para \ntransferir a título oneroso el dominio de …, bienes corporales inmuebles construidos, de una cuota de \ndominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o \ncontrato que conduzca al mismo fin o que la presente ley equipare a venta”. \n \n \n \n \n \n \n \n \n \n \n \n \n \n1 Oficios N° 222 y N° 223 de 2017. \n\n\n \nEl artículo 17 de la LIVS establece que, en la venta de inmuebles, la base imponible del IVA está \nconstituida por el precio estipulado en el contrato, debiendo"
+    },
+    {
+      "name": "Oficio N°2207 (25/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2207 (25/08/2021)",
+      "document_id": "d96a2e4e-07ca-569f-a286-a9a0881ec3a5",
+      "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2207-25%2F08%2F2021.pdf&extension=pdf&acc=download&id=79a27fa5-cf85-4434-b5bb-efb16b9dbe5a&mediaType=application%2Fpdf",
+      "content": " compraventa prometido en la época convenida y/o cumplida que sea la condición prevista. \nPor lo tanto, mientras ello no ocurra las obligaciones del contrato de promesa se encontrarían pendientes, \nsiendo por ende susceptible de dejarse sin efecto por mutuo disenso o resciliación, en los términos \nprevistos en los artículos 1545 y 1567 del Código Civil.  \n  \nPor otra parte, el anticipo del precio de la compraventa efectuado por el promitente comprador no implica \nla celebración del contrato de compraventa prometido, constituyendo sólo un adelanto, que la misma Ley \nsobre Impuesto a la Renta reguló en el artículo 29, disponiendo que “Los ingresos obtenidos con motivo \nde contratos de promesa de venta de inmueble se incluirán en los ingresos brutos del año en que se \nsuscriba el contrato de venta correspondiente.” Como se observa los ingresos recibidos por la Inmobiliaria \ncontra la suscripción de las Promesas como anticipo del precio de las compraventas solo se deberán \nincluir en los ingresos brutos del año en que se suscriba el contrato de compraventa correspondiente.  \n  \nAsimismo, las celebraciones de promesas de compraventa de inmuebles no se encuentran gravadas con \nIVA, incluso en el caso de que el promitente comprador adelante todo o parte del precio al promitente \nvendedor, por ello, la Inmobiliaria no debería emitir una factura de venta con ocasión de la celebración de \nlas Promesas conforme lo establecido en el artículo 55 de la Ley del IVA.   \n  \nFinalmente, los precios o valores de las opciones, compraventas, intereses y comisiones deberán ser \nacordes a los corrientes en plaza o de los que normalmente se cobrarían en convenciones de similar \nnaturaleza3, contando este Servicio con la facultad de fiscalización contenida en el artículo 64 del Código \nTributario, o bien aquella establecida en el artículo 17 N° 8 de la LIR, según corresponda.   \n          \n1 Art. 1554. La promesa de celebrar un contrato no produce obligación alguna; salvo que concurran las circunstancias siguientes:  \n1ª. Que la promesa conste por escrito; 2ª. Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces; 3ª. \nQue la promesa contenga un plazo o condición que fije la época de la celebración del contrato; 4ª. Que en ella se especifique \nde tal manera el contrato prometido, que sólo falten para que sea perfecto, la tradición de la cosa, o las solemnidades que las \nleyes prescriban. Concurriendo estas circunstancias habrá lugar a lo prevenido en el artículo precedente.  \n  \n2 Art. 1553. Si la obligación es de hacer y el deudor se constituye en mora, podrá pedir el acreedor, junto con la indemnización \nde la mora, cualquiera de estas tres cosas, a elección suya: 1ª. Que se apremie al deudor para la ejecución del hecho convenido; \n2ª. Que se le autorice a él mismo para hacerlo ejecutar por un tercero a expensas del deudor; 3ª. Que el deudor le indemnice \nde los perjuicios resultantes de la infracción del contrato.  \n \n3 Considerando específicamente las circunstancias que rodean la operación, en este caso, que se trata de una estructura \nalternativa de financiamiento.   \n\n\n  \nAnálisis de la estructura de financiamiento en el marco de la norma general anti elusiva  \n  \nHabiendo sido analizados los aspectos normativos de la estructura presentada, corresponde determinar, \nen el contexto de la norma general anti elusiva, si ella produce resultados o efectos económicos o jurídicos \nrelevantes, más allá de los meramente tributarios, al respecto se observa que:   \n  \ni) \nUn Fondo constituido de acuerdo con las normas de la LUF, podría –como indica el consultante- dar \ntransparencia en la administración de los recursos, junto con el hecho de que el negocio sería gestionado \npor un administrador profesional.   \n  \nii) \nEl F"
+    },
+    {
+      "name": "Oficio N°1530 (07/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1530 (07/08/2020)",
+      "document_id": "e348e2f8-b649-514e-9dfd-a1075203d9e6",
+      "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1530-07%2F08%2F2020.pdf&extension=pdf&acc=download&id=00c6371d-b1b1-42a0-8824-147d68f90471&mediaType=application%2Fpdf",
+      "content": " de dicho contrato no están comprendidos en los hechos gravados de la Ley sobre Impuesto a \nlas Ventas y Servicios (LIVS).  \n3) \nSi la Sociedad adquiere la propiedad del inmueble que ha prometido comprar y posteriormente lo \nvende, calificaría como vendedor habitual, de acuerdo al N° 3 del artículo 2° de la LIVS.  \nII \nANÁLISIS \nSin perjuicio que no se acompañó el contrato de promesa de compraventa señalado en la presentación, \neste Servicio entiende que lo cedido es el contrato de promesa mismo, esto es, la cesión de la relación \njurídica completa que emana del contrato de promesa.  \nAl respecto, a partir de lo dispuesto en el artículo 1554 del Código Civil1 y la doctrina, se desprende que \nla promesa es un contrato principal, el cual subsiste por sí mismo sin necesidad de otra convención y \n \n1 Dispone que la promesa de celebrar un contrato no produce obligación alguna; salvo que concurran las circunstancias siguientes:  \n1) Que la promesa conste por escrito;  \n2) Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces;  \n3) Que la promesa contenga un plazo o condición que fije la época de la celebración del contrato;  \n\n\n2 \n \nproduce sus efectos propios, aunque no haya otra convención. La promesa, si bien tiene por objeto el \notorgamiento del contrato definitivo prometido, no se le confunde ni se le asimila con aquel contrato \nque las partes se obligan a otorgar en el futuro2.  \nAsimismo, el contrato de promesa de compraventa y el contrato de compraventa prometido son dos \ncontratos distintos e independientes entre sí, de los cuales derivan diferentes derechos y obligaciones \npara las partes intervinientes. De este modo, en el contrato de promesa, la celebración del contrato \nprometido constituye la obligación principal de ambas partes. Por su parte, la obligación principal del \ncontrato de compraventa para el comprador, es el pago del precio, y para el vendedor, la transferencia \ndel dominio de la cosa vendida3.  \nPrecisado lo anterior y atendido el concepto amplio de renta contenido en el N° 2 del artículo 2° de la \nLIR, y el hecho que la renta derivada de la cesión del contrato de promesa de compraventa no califica \ncomo ingreso no constitutivo de renta del artículo 17 de la LIR ni se encuentra liberada de tributación en \nvirtud de otra ley especial, se clasifica en el N° 5 del artículo 20 de la LIR, quedando afecta a \ntributación con IDPC para la sociedad por la cual se consulta.  \nLuego, la Sociedad cedente, de no encontrarse acogida a un régimen especial para las Pyme4, debe \ntributar sobre la base de renta efectiva determinada según contabilidad completa, calculando la renta \nafecta a IDPC derivada de la cesión del contrato de promesa según las normas contenidas en los \nartículos 29 al 33 de la LIR.  \nEn cuanto al tratamiento tributario que la sociedad cedente debe dar al anticipo que pagó al celebrar el \ncontrato de promesa, cabe señalar que, frente a las normas de la LIR, dicho anticipo pagado es \ncalificado como un activo intangible. Dicha inversión debe activarse y, al no existir norma legal, que \npermita su amortización, su recuperación sólo podrá ocurrir mediante la enajenación o cualquier otro \nhecho o circunstancia que la haga perder la calidad de activo intangible para la empresa que realizó la \ninversión. \nEn consecuencia, en caso que la sociedad suscriba el contrato de compraventa con el prominente \nvendedor adquiriendo el inmueble para sí, el anticipo del precio de la compraventa entregado al \npromitente vendedor al suscribir el contrato de promesa, pasará a formar parte de su costo directo y \npodrá ser deducido como tal al enajenarlo, conforme a lo dispuesto en el artículo 30 de la LIR. \nA su vez, la cesión de dicha promesa haría perder la calidad de activo intangible para la sociedad que \nrealizó"
+    },
+    {
+      "name": "Oficio N°2716 (23/11/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°2716 (23/11/2020)",
+      "document_id": "81071401-56dc-5454-9daf-db910de43d2e",
+      "chunk_uuid": "d619efd8-60b4-5b60-8cc9-ffdc16284775",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2716-23%2F11%2F2020.pdf&extension=pdf&acc=download&id=6644e0a9-fadb-44b2-a4f7-cabca92eaa11&mediaType=application%2Fpdf",
+      "content": "os, de una cuota de \ndominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o \ncontrato que conduzca al mismo fin o que la presente ley equipare a venta”. \n \n \n \n \n \n \n \n \n \n \n \n \n \n1 Oficios N° 222 y N° 223 de 2017. \n\n\n \nEl artículo 17 de la LIVS establece que, en la venta de inmuebles, la base imponible del IVA está \nconstituida por el precio estipulado en el contrato, debiendo deducirse de este precio el monto total o la \nproporción que corresponda, del valor de adquisición del terreno que se encuentre incluido en la \noperación, debidamente reajustado. \n \nPor su parte, el artículo 55 de la LIVS dispone que, tratándose de la venta de bienes inmuebles, la  \nfactura  debe  emitirse  en  la  fecha  de  suscripción  de  la  escritura  de compraventa por el precio \ntotal, incluyendo las sumas pagadas previamente que se imputen al mismo a cualquier título. \n \nSobre la aplicación de esta normativa a los contratos de arriendo con promesa de compraventa, este \nServicio ha resuelto2 que, en este tipo de contratos, dichas sumas corresponderán sólo a aquellas \ndestinadas al pago de la vivienda y no a aquellas cuyo destino  fue  sufragar  los  gastos  de  \narrendamiento  durante  el  período  de  vigencia  del contrato. Por lo tanto, sólo la parte del aporte \nque exceda de la renta de arrendamiento y que se abone al precio de la compraventa prometida, en la \nforma pactada en el referido contrato, según dispone el artículo 7° de la Ley N° 19.281, deberá \nincluirse para efectos tributarios en la facturación por formar parte del precio del inmueble. \n \nEn cuanto al tratamiento tributario de los contratos de arriendo con opción de compra, cabe señalar \nque, conforme al texto vigente de la letra l) del artículo 8° de la LIVS, se gravan como hecho \nespecial los “contratos de arriendo con opción de compra que recaigan sobre bienes corporales \ninmuebles realizados por un vendedor”3. \n \nEn estos contratos, la base imponible del IVA está constituida por el valor de cada cuota incluida \nen el contrato, a las cuales debe rebajarse la parte correspondiente a la utilidad o interés comprendido \nen la operación y la proporción correspondiente al valor de adquisición del terreno que se encuentre \nincluido en la operación. Este valor se calcula sobre la totalidad del contrato, incluido los intereses \n \nSobre la calidad de “vendedor” – que debe tener quien realiza este tipo de operaciones para que se \nconfigure este hecho gravado especial – la Circular N° 13 de 2016 aclara que dicha calidad se refiere \nexclusivamente a la habitualidad con que el contribuyente realiza este tipo de operaciones, que para \nefectos tributarios siempre han sido asimiladas a venta, razón por la cual se usó el concepto \n“vendedor”. \n \nLo anterior porque, independientemente que los contratos de arriendo con opción de compra \nconduzcan o no a la transferencia de bienes corporales inmuebles, dichos contratos siempre llevan \nimplícito, para la parte arrendadora, la posibilidad cierta de transferir el bien. Por lo tanto, se afectarán \ncon el tributo en comento todos aquellos contratos de arriendo con opción de compra que \nrecaigan sobre bienes corporales inmuebles realizados por personas que se dedican en forma habitual a \nrealizar este tipo de operaciones. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2 Oficio N° 223 de 2017 \n3 La evolución reciente de la letra l) del artículo 8° de la LIVS es la siguiente: \n1)   En su versión anterior, gravaba las “promesas de venta de bienes corporales inmuebles de propiedad de una empresa constructora de \nsu giro y los contratos de arriendo con opción de compra que celebren estas empresas respecto de los inmuebles señalados y las \ncomunidades por inmuebles construid"
+    },
+    {
+      "name": "Oficio N°145 (17/01/2024)",
+      "source_type": "oficio",
+      "source": "Oficio N°145 (17/01/2024)",
+      "document_id": "79c299f6-5077-5596-b761-91c7b8b7bad9",
+      "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=145-17%2F01%2F2024.pdf&extension=pdf&acc=download&id=73881b9e-80cc-4d9c-b832-39bf47f19927&mediaType=application%2Fpdf",
+      "content": " correspondiente al 10% del precio de la \ncompraventa. \nEn segundo lugar, si el tercero no ejerce la opción de compra en un leasing nada puede exigir en su \ndesistimiento. Lo anterior ya que las cuotas no son reembolsables, ni siquiera en parte. En el caso \nconsultado, respecto a la suma de dinero que corresponde al anticipo de precio de venta \ndesembolsada en el contexto de la promesa; precisamente por ser anticipos de precio, los mismos \n\n\n2 \n \nserían devueltos en calidad de tales a los promitentes compradores, aplicando por supuesto las \nsanciones de incumplimiento. \nPor último, en el caso consultado no se paga una cuota que tiene su origen en un solo contrato; sino \nque tiene origen en contratos distintos que conviven temporalmente, los anticipos de la Promesa y \nlos pagos del Arrendamiento. \nEl consultante solicita confirmar que el modelo de negocios se ampararía en una razonable opción \nde conductas y alternativas contempladas en la legislación tributaria, no constituyendo, una \nactuación elusiva en los términos de lo dispuesto en los artículos 4° bis, ter y quáter del Código \nTributario; que el modelo de negocios tributaría en un principio según se ha expuesto en la \npresentación; y que, así como está descrito, el modelo de negocios no podría ser recaracterizado \ncomo un leasing. \n \nII. \nANÁLISIS \nAtendido el tenor de la presentación, se verifica que se trata de una consulta no vinculante, de \nacuerdo con lo instruido en el resolutivo 1° de la Resolución Exenta N°112 de 2021, emitida por este \nServicio, por lo que el presente análisis contendrá un pronunciamiento general sobre los efectos \neventualmente elusivos o no de la operación que se llevará a cabo. \nEn primer término, respecto de la tributación aplicable a los contratos descritos, cabe señalar que, \neste Servicio ya se ha pronunciado respecto de la tributación, en materia de IVA, de los contratos de \narrendamiento con promesa de compraventa1, que tienen una naturaleza distinta a los contratos de \narrendamiento con opción de compra o leasing. En efecto, los contratos de arrendamiento con \npromesa de compraventa se rigen por la Ley N° 19.281 y tienen como rasgo distintivo el carácter \nimperativo en cuanto a la celebración de la compraventa, contrato cuya celebración no es opcional. \nLuego, se distinguen en esta figura tres contratos distintos, a saber, un contrato de arrendamiento, \nuna promesa de compraventa y, finalmente, una vez enterado el precio prometido, el contrato de \ncompraventa por el cual la vivienda se traspasa al arrendatario promitente comprador. \nEn el caso del arrendamiento, dicho contrato estará gravado sólo si el inmueble se encuentra \namoblado con bienes suficientes para su uso como habitación, conforme lo dispuesto en la letra g) \ndel artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS). Por lo que, el contrato de \narrendamiento de inmueble no amoblado descrito en su presentación, no se afecta con IVA. \nPor su parte, atendido que las promesas de venta de bienes corporales inmuebles dejaron de ser un \nhecho gravado especial con IVA, no procede afectarlas con dicho impuesto. Los montos pagados \npor este concepto antes de celebrarse la compraventa prometida, pasan a tener la calidad de \nanticipos respecto de la compraventa del bien inmueble al cual acceden. \nAsimismo, teniendo presente que el sistema regulado por la Ley N° 19.281 tiene como propósito \núltimo la transferencia efectiva de un bien corporal inmueble, cuando ello ocurra, se estará en \npresencia del hecho gravado “venta”, definido en lo pertinente en el N° 1°) del artículo 2° de la LIVS. \nEn cuanto a los servicios que tienen por objeto ejecutar prestaciones complementarias señaladas en \nsu consulta, se encontrarán gravados con IVA según lo prescrito"
+    },
+    {
+      "name": "Oficio N°222 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°222 (31/01/2017)",
+      "document_id": "b39a7cee-4fe2-547e-a1ee-b2018822d103",
+      "chunk_uuid": "6aa2656b-e27f-5c53-bcc6-8f2935254425",
+      "chunk_id": 10,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja222.htm",
+      "content": "os de IVA, siempre que tales ventas, contratos de construcción o contratos de arriendo con\nopción de compra sean efectuados con un beneficiario de un subsidio habitacional y éstos sean financiados\nen todo o parte por dicho subsidio.\n \nDe igual modo, esta exención favorece a las personas naturales o jurídicas, que para efectos de esta\nfranquicia se consideran también beneficiarios de un subsidio habitacional otorgado por el Ministerio de\nVivienda y Urbanismo, cuando adquieran o encarguen la construcción de un bien corporal inmueble para\nvenderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado\npor dicho Ministerio y siempre que ello conste en el contrato respectivo.\n \nLas instrucciones sobre estas modificaciones se encuentran contenidas en Circular N° 13, de 24/3/2016.\n \n\n\nRespecto de lo manifestado en su consulta y que dice relación con la parte final de la exención, no\nmodificada por la Ley N° 20.899, cabe manifestar que efectivamente la venta a un tercero de una vivienda\nentregada en arrendamiento con opción de compra a un beneficiario de un subsidio habitacional otorgado por\nel Ministerio de Vivienda y Urbanismo, cuya opción de compra será financiada en todo o parte con el\nmencionado subsidio, se encuentra exenta de Impuesto al Valor Agregado.\n \nAl respecto la Circular N° 42, de 15/6/2015, señala que .” quedará exenta del Impuesto a las Ventas y\nServicios la venta de la vivienda por parte del dueño a un tercero, siempre y cuando quede vigente el\ncontrato de arrendamiento con opción de compra entre el beneficiario del subsidio habitacional y el nuevo\ndueño de la vivienda, en los mismos términos pactados entre el arrendatario y el primitivo arrendador, con\nrelación al financiamiento de la operación a través de un subsidio otorgado por el Estado.\n \nEn cuanto a la situación tributaria del arrendatario de la vivienda, frente al nuevo propietario de ésta, cabe\nmanifestar que, en la medida que el arrendatario de la vivienda, cumpla con los requisitos dispuestos en la\nprimera parte del Art. 12°, letra F), del D.L. N° 825, para que la operación se encuentre exenta de IVA, esto\nes, que sea beneficiario de un subsidio habitacional y que financie la operación en todo o parte con el\nreferido subsidio, tanto las cuotas de arrendamiento con opción de compra como la cuota de opción de\ncompra, se encontrarán exentas del tributo en comento. Ello sin perjuicio del tratamiento tributario que deba\naplicarse a la venta del inmueble efectuada por el propietario original a un tercero, que requiere para quedar\nexenta de IVA, que el contrato de arrendamiento con opción de compra, quede vigente,  entre el beneficiario\ndel subsidio habitacional y el nuevo dueño de la vivienda, en los mismos términos pactados entre el\narrendatario y el primitivo arrendador, con relación al financiamiento de la operación a través de un subsidio\notorgado por el Estado.\n \nPor último, respecto a la parte final de su consulta, cabe manifestar que tal como se señaló en la respuesta a\nla consulta signada con el número ii), los contratos de arriendo con promesa de compraventa no se\nencuentran comprendidos en el hecho gravado especial contenido en el Art. 8°, letra l), del D.L. N° 825. Por\nlo tanto, no le resulta aplicable la parte final de la exención contenida en el Art. 12, letra F), a la venta\nefectuada a un tercero de una vivienda entregada en arriendo con promesa de compraventa, ya que la ley\nfavorece con la liberación del tributo a dicha venta cuando la vivienda transferida se encuentra entregada en\narriendo con opción de compra, contrato de naturaleza jurídica distinta al contrato de arriendo con promesa\nde compraventa.\n \nAhora bien, como ya se ha señalado, la transferencia del bien corporal inmue"
+    },
+    {
+      "name": "Oficio N°2539 (28/11/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°2539 (28/11/2017)",
+      "document_id": "d4be95e9-7589-5d0b-b13e-b2c31a01ee0d",
+      "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+      "chunk_id": 6,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2539.htm",
+      "content": " de viviendas con promesa de compraventa, concluyéndose que el sistema allí regulado tiene\npor finalidad última la transferencia efectiva de un bien corporal inmueble, teniendo las sociedades\ninmobiliarias dedicadas a realizar este tipo de operaciones, la calidad de vendedoras respecto de los\ninmuebles entregados en arrendamiento con promesa de compraventa, ya que conforme a lo dispuesto en el\nArt. 11°, de la Ley N° 19.281, estas sociedades tienen como objeto la adquisición o construcción de viviendas\npara entregarlas en arrendamiento con promesa de compraventa, promesa que conforme al Art. 27°, de la\nmencionada ley tienen obligación de cumplir, es decir, el ánimo que guía a estas sociedades al adquirir los\ninmuebles para suscribir estos contratos es precisamente la transferencia del inmueble.\nAhora bien, dichos inmuebles pueden ser adquiridos por una empresa securitizadora, ya que las sociedades\ninmobiliarias, en virtud del Art. 17°, de la Ley N° 19.281, pueden enajenar las viviendas arrendadas con\npromesa de compraventa a este tipo de empresas, siempre que cedan conjuntamente el contrato de\narrendamiento con promesa de compraventa. En este caso, la empresa securitizadora como cesionaria del\n\n\nreferido contrato tiene iguales obligaciones, derechos y facultades que el cedente, encontrándose obligada a\ncumplir el contrato de arrendamiento con promesa de compraventa en la forma pactada.\nDe lo anterior se desprende que, al producirse la cesión del contrato en cuestión, la empresa securitizadora\ntoma el lugar jurídico de la inmobiliaria, como vendedora, en el referido contrato de arrendamiento con\npromesa de compraventa y en virtud del Art. 30°, de la Ley N° 19.281, se encuentra obligada a vender el\ninmueble adquirido en la forma pactada, a su contraparte en el contrato de arrendamiento con promesa de\ncompraventa.\nSiendo así y habiéndose determinado en Ord. N° 222, de 31/1/2017, que la venta efectuada por la\ninmobiliaria se encuentra gravada con Impuesto al Valor Agregado, cabe dilucidar si procede aplicarle a dicha\noperación, cuando es realizada con la empresa securitizadora, la exención contenida en el Art. 12°, letra F),\nque favorece en lo pertinente, a terceros que por imperio de la ley son considerados beneficiarios de un\nsubsidio habitacional cuando adquieran un bien corporal inmueble para venderlo al beneficiario de un\nsubsidio habitacional otorgado por el MINVU y siempre que ello conste en el contrato respectivo.\nConsiderando la normativa contenida en la Ley N° 19.281, que regula este tipo de operaciones y que obliga a\nlas empresas securitizadoras en los términos descritos en este oficio, es posible concluir que en la práctica\ncuando estas empresas adquieren un inmueble, lo hacen con la obligación de transferirlo finalmente al\nbeneficiario del contrato de arrendamiento con promesa de compraventa, es decir, el requisito exigido por la\nexención en análisis, se cumple en estos casos en forma tácita. Por lo tanto, si este beneficiario adquirente\ndel inmueble resulta además ser beneficiario de un subsidio habitacional, y en el contrato respectivo se\nseñala expresamente que el inmueble fue adquirido para vendérselo a éste, a fin de cumplir con el requisito\nformal que la norma legal exige, resulta plenamente aplicable la franquicia antes señalada.\nEn consecuencia, la venta efectuada por la inmobiliaria a la securitizadora, en esas condiciones, se\nencontrará exenta del Impuesto al Valor Agregado, en virtud del mencionado Art. 12°, letra F), del D.L. N° 825\nFERNANDO BARRAZA LUENGO\nDIRECTOR\nOficio N° 2539, de 28.11.2017\nSubdirección"
+    },
+    {
+      "name": "Oficio N°1692 (02/07/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1692 (02/07/2021)",
+      "document_id": "75483186-4b2c-5bbb-9267-ebf72af427dd",
+      "chunk_uuid": "efaaa668-fb54-5b92-be40-c75bbf768027",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1692-02%2F07%2F2021.pdf&extension=pdf&acc=download&id=f4fdd50d-a38a-4685-b6a7-21e1a1381ea0&mediaType=application%2Fpdf",
+      "content": " \n \n1 Promesa que fija la época de celebración del contrato de compraventa, sujeta a que el arrendatario dé cumplimiento al pago de las rentas de \narrendamiento como única condición. \n\n\n \n \n \n \n3) \nEn subsidio, y en el caso que proceda aplicar la sobretasa y que el sujeto gravado no sea el \narrendatario promitente comprador, se confirme que el sujeto gravado corresponde a cada uno de \nlos patrimonios separados de la securitizadora, no obstante que ésta deba enterar en arcas fiscales \ndicha sobretasa a nombre de cada uno de sus patrimonios separados de acuerdo con lo \ndispuesto en el artículo 132 de la Ley N° 18.045. \n \nEn este último caso solicita, además, se confirme que cada uno de los patrimonios separados \ndeberá realizar el cálculo del avalúo fiscal total sobre el cual se aplicará la sobretasa, \nconsiderando solo los inmuebles que les hayan sido asignados y que continúen en su patrimonio \nal 31 de diciembre del año anterior al que se devenga dicha sobretasa. \n \nII       ANÁLISIS \n \nDe acuerdo al artículo 132 de la Ley N° 18.045, sobre mercado de valores, las sociedades \nsecuritizadoras son sociedades anónimas especiales cuyo objeto exclusivo es la adquisición de los \nactivos a que se refiere el artículo 135 (entre los que se mencionan los bienes y contratos de \narrendamiento con promesa de compraventa de que trata el artículo 17 de la Ley N° 19.281), la \nadquisición de derechos sobre flujos de pago, la emisión de títulos de deuda, de corto o largo plazo, y \nlas demás actividades complementarias o afines que les autorice la Comisión para el Mercado \nFinanciero. \n \nAgrega dicho artículo que cada emisión origina la formación de patrimonios separados del patrimonio \ncomún de la emisora, salvo en el caso de la emisión por línea, en el cual todas las emisiones con cargo a \nla misma integrarán un solo patrimonio separado. \n \nConforme a lo dispuesto en el artículo 137 de la ley en referencia, por otra parte, “los bienes, contratos, \ncréditos y derechos individualizados o determinados en la escritura de otorgamiento del contrato de \nemisión, en las escrituras complementarias, o en las escrituras de colocación, integrarán de pleno \nderecho el activo de éste [del patrimonio separado], desde la fecha de la respectiva escritura en que se \nles individualicen o determinen, de acuerdo con lo dispuesto en el inciso primero de este artículo, con \nexcepción de los bienes raíces y demás bienes cuya propiedad está sujeta a registro, los cuales se \nintegrarán al activo una vez cumplidas las formalidades que establece la ley.”2 \n \nEn cuanto a la naturaleza jurídica de esos patrimonios separados, este Servicio ha señalado3 que “cada \npatrimonio separado constituiría una universalidad jurídica – distinta del patrimonio general de la \nsociedad securitizadora – compuesta por bienes, derechos y obligaciones adscritos a una finalidad \nespecífica, correspondiente en el presente caso al respaldo de los títulos de deuda emitidos y, a su vez, \nla protección de sus tenedores4. En este mismo sentido, se infiere que estos patrimonios separados \ncarecen de autonomía (entendida como la existencia sin necesidad de acceder a una persona \ndeterminada), encontrándose siempre referidos a un titular o propietario determinado que \ncorresponderá a una sociedad securitizadora5.” \n \nComo se aprecia, aunque referidos a un titular o propietario, estos patrimonios separados (i) se forman, \npor mandato legal, por cada emisión de deuda, (ii) integran su activo los bienes raíces individualizados \no determinados en los instrumentos referidos, desde el momento en que se cumplen las formalidades \nque establece la ley, (iii) son distintos del patrimonio general de la sociedad securitizadora, la cual, a su \nturno, (iv) se encarga de"
+    },
+    {
+      "name": "Oficio N°222 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°222 (31/01/2017)",
+      "document_id": "b39a7cee-4fe2-547e-a1ee-b2018822d103",
+      "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja222.htm",
+      "content": " que cedan   conjuntamente el contrato de\narrendamiento con promesa de compraventa, entre otras, a   empresas securitizadoras, las cuales como\ncesionarias del referido contrato tienen iguales obligaciones, derechos y facultades que el cedente,\nencontrándose obligadas a cumplir el contrato de arrendamiento con promesa de compraventa en la forma\npactada.\n \nDe lo anterior se desprende que al producirse la cesión del contrato en cuestión, la empresa securitizadora\ntoma el lugar jurídico de la inmobiliaria en el referido contrato de arrendamiento con promesa de venta,\nencontrándose obligada, en virtud del Art. 30°, de la Ley N° 19.281, a enajenar la vivienda en los términos y\ncondiciones pactados en el referido contrato. Por lo que independientemente que la adquisición de dichos\ninmuebles haya sido con la finalidad de respaldar la emisión de títulos de deuda, en la práctica y como\nconsecuencia de la cesión del referido contrato de arrendamiento con promesa de venta, la sociedad\nsecuritizadora adquiere, al ocupar jurídicamente el lugar de la inmobiliaria, la calidad de vendedora respecto\nde dicha operación, para efectos del Art. 2°, N° 3, del D.L. N° 825.\n \nPor lo tanto, la transferencia de inmuebles que la sociedad securitizadora, en su calidad de cesionaria de los\ncontratos de arrendamiento con promesa de venta, realice al arrendatario promitente comprador, se\nencuentra afecta a IVA, de acuerdo al Art. 8°, inciso primero, en concordancia con el Art. 2°, N° 1, del D.L.  N°\n825.\n \nEn este caso, la factura por la venta del inmueble deberá emitirse en la fecha de suscripción de la escritura\nde compraventa por el precio total del inmueble, comprendiendo en éste las sumas pagadas previamente\nque se imputen al mismo a cualquier título, según lo dispuesto por el Art. 55, del D.L. N° 825, modificado en\neste sentido, por el Art. 2°, N° 10, letra c), de la Ley N° 20.899. Al respecto, cabe tener presente que en este\ntipo de contratos, dichas sumas corresponderán sólo a aquellas destinadas al pago de la vivienda y no a\naquellas cuyo destino fue sufragar los gastos de arrendamiento durante el período de vigencia del contrato.\nPor lo tanto, sólo la parte del aporte que exceda de la renta de arrendamiento y que se abone al precio de la\ncompraventa prometida, en la forma pactada en el referido contrato, según dispone el Art. 7°, de la Ley N°\n19.281, es la que para efectos tributarios deberá incluirse en la facturación por formar parte del precio del\ninmueble.\n \nPara estos efectos será igualmente aplicable la deducción del terreno establecida en el Art. 17, inciso\nsegundo, del D.L. N° 825, respecto de la venta de bienes corporales inmuebles gravadas con IVA.\nii)      Aquellos contratos de arrendamiento de viviendas con promesa de compraventa celebrados al amparo\nde la Ley N° 19.281, no quedarían comprendidos  dentro del nuevo artículo 8°, letra l), de la Ley de IVA, al no\nconcurrir los elementos definidos en el hecho gravado establecido por el legislador; no siendo posible la\naplicación del mismo por analogía, lo que ocurriría si se considerase que los contratos antes señalados son\nde igual naturaleza que los contratos de arriendo con opción de compra (conocidos como leasing), en donde\nclaramente existe un derecho facultativo para una de las partes.\n \nEl Art. 8°, letra l), de D.L. N° 825, de 1975, dispone que se encuentran gravados con impuesto al valor\nagregado, “Los contratos de arriendo con opción de compra que recaigan sobre bienes corporales inmuebles\nrealizados por un vendedor"
+    },
+    {
+      "name": "Oficio N°2605 (07/12/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°2605 (07/12/2017)",
+      "document_id": "bbcab0e8-6bd3-5c10-9a8a-33ce345cc595",
+      "chunk_uuid": "27086754-bb8a-57c8-a403-885f27c39701",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2605.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nï»¿\nRENTA â€“ ACTUAL LEY SOBRE IMPUESTO A LA â€“ OFICIOS NÂ° 2454, DE 2001 Y NÂ° 829, DE 2013.\n(Ord. Nº 2605, de 07-12-2017)\nTRATAMIENTO TRIBUTARIO DEL PRECIO PAGADO POR UN TERCERO A UN ARRENDATARIO POR LA\nCESIÃ“N DE SUS DERECHOS EN UN CONTRATO DE ARRIENDO CON OPCIÃ“N DE COMPRA.\nSe ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual\nconsulta sobre el tratamiento tributario de la suma pagada por la adquisición de la posición contractual del\narrendatario en un contrato de arriendo con opción de compra.\nI.-   ANTECEDENTES.\nSeñala en su presentación, que una sociedad con giro inmobiliario adquirió al arrendatario, mediante cesión\nde derechos, todos los derechos y obligaciones que emanan de un contrato de arrendamiento con opción de\ncompra (contrato leasing) sobre un inmueble. Esta cesión se celebró por escritura pública y concurrieron a su\ncelebración las tres partes interesadas: la empresa arrendataria o cedente, el nuevo arrendatario o cesionario\ny el arrendador.\nConforme a lo anterior, y a lo indicado en los Oficios N°s 2.454 de 2001 y 829 de 2013, consulta sobre el\ntratamiento tributario de la inversión efectuada para la adquisición de la posición contractual del antiguo\narrendatario o cedente.\nII.-  ANÁLISIS.\nEste Servicio, a través de la jurisprudencia que indica en su presentación, analizó y se pronunció sobre las\nmaterias respecto de las cuales consulta, pronunciamientos que se encuentran vigentes.\nIII.- CONCLUSIÓN.\nLas consultas que formula se encuentran resueltas a través de la jurisprudencia de este Servicio[1], que\npuede ser consultada a través de su página web www.sii.cl .\nFERNANDO BARRAZA LUENGO\nDIRECTOR\n                                                                                                    \n \n \nOficio N° 2605, de 07.12.2017\nSubdirección Normativa\nDpto. de Impuestos Directos\n \n[1] Oficios N°s 2.454 de 05.06.2001 y 829 de 23.04.2013\n"
+    },
+    {
+      "name": "Oficio N°222 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°222 (31/01/2017)",
+      "document_id": "b39a7cee-4fe2-547e-a1ee-b2018822d103",
+      "chunk_uuid": "b7651ffd-85fd-5868-891b-1a276c9003d9",
+      "chunk_id": 9,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja222.htm",
+      "content": " con opción de compra, razón por la cual debe entenderse que éstos pueden deducir\nsiempre el valor de adquisición del terreno reajustado, pero en la forma dispuesta expresamente para este\ntipo de contratos en el Art. 17, inciso segundo, la cual fue tratada en la consulta signada con el número vi).\n \nEn conformidad con la letra F), del artículo 12° de la Ley del IVA, vigente a contar del 1° de enero de 2016,\nestarán exentos de IVA los pagos por concepto de rentas de arrendamiento y los referidos a opciones de\ncompra asociados a una vivienda entregada en arriendo con opción de compra, cuando la opción de compra\nsea financiada, en todo o parte, por el señalado subsidio. Estos mismos pagos realizados por este\nbeneficiario al nuevo propietario de la vivienda también se encontrarán exentos de IVA, en caso que la\nvivienda sea vendida por el dueño a un tercero, siempre y cuando quede vigente el contrato de\narrendamiento con opción de compra entre el beneficiario del subsidio habitacional y el nuevo dueño de la\nvivienda, en los mismos términos pactados entre el arrendatario y el primitivo arrendador. Finalmente, la\nventa de la vivienda efectuada por el dueño a un tercero, en los términos precedentemente indicados\ntambién se encontrará exenta de IVA.\n \nLa exención analizada precedentemente también contempla, en los mismos términos antes descritos, a los\ncontratos de arrendamiento de viviendas con promesa de compraventa de la Ley N° 19.281.\n \n \nEl Art. 2°, N° 4, letra e), de la Ley N° 20.889, modificó el texto del Art. 12, letra F), del D.L. N° 825, quedando\néste del siguiente tenor: \"La venta de una vivienda efectuada al beneficiario de un subsidio habitacional\notorgado por el Ministerio de Vivienda y Urbanismo, los contratos generales de construcción y los contratos\nde arriendo con opción de compra, cuando tales ventas, contratos o arriendos con opción de compra hayan\nsido financiados en definitiva, en todo o parte, por el referido subsidio. Para estos efectos, se considerará\ntambién como beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, a\nla persona natural o jurídica que adquiera o encargue la construcción de un bien corporal inmueble para\nvenderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado\npor dicho Ministerio, siempre que lo anterior conste en el contrato respectivo, debiendo aplicarse el impuesto\nal valor agregado en caso contrario. En este caso, si la venta o el contrato de arriendo con opción de compra\nposteriores no se celebran con beneficiarios de tales subsidios, deberá aplicarse el impuesto al valor\nagregado conforme a las reglas que corresponda según el caso, sin que proceda la exención establecida en\nel número 11, de la letra E, del artículo 12°; y la venta a un tercero de una vivienda entregada en\narrendamiento con opción de compra al beneficiario de un subsidio habitacional otorgado por el mismo\nMinisterio, cuando la opción de compra sea financiada, en todo o parte, por el señalado subsidio.\"\n \nCon la modificación de la norma, en los términos antes señalados, tanto las ventas, los contratos de\nconstrucción y los contratos de arriendo con opción de compra que recaigan sobre una vivienda, se\nencuentran exentos de IVA, siempre que tales ventas, contratos de construcción o contratos de arriendo con\nopción de compra sean efectuados con un beneficiario de un subsidio habitacional y éstos sean financiados\nen todo o parte por dicho subsidio.\n \nDe igual modo, esta exención favorece a las personas naturales o jurídicas, que para efectos de esta\nfranquicia se consideran también beneficiarios de un subsidio habitacional otorgado por el Ministerio de\nVivienda y Urbanismo, cuando adquieran o encarguen"
+    },
+    {
+      "name": "Circular N°53 (29/08/1997)",
+      "source_type": "circular",
+      "source": "Circular N°53 (29/08/1997)",
+      "document_id": "2535f629-12d7-5a1b-af20-4c0cb752926f",
+      "chunk_uuid": "35925668-d7f6-5269-afe4-1a48acd05e93",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/circulares/1997/circu53.htm",
+      "content": "amiento, el arrendatario tiene la opción de adquirir dicho bien,\n\n\nconjuntamente con el pago de la última cuota, o bien, restituirlo a su dueño o\narrendador si no se interesa en comprarlo.\nDe acuerdo a lo antes comentado, el contrato en comento, jurídicamente califica como\nun contrato de arrendamiento de bienes, pues concurren en él las condiciones\nestipuladas en el Artículo 1.915 del Código Civil, vale decir, la obligación de una de las\npartes a conceder el goce de una cosa y la\nconsiguiente obligación de la otra de pagar por dicho goce un precio determinado. Por\nsu parte, el Artículo 1.916 del mismo cuerpo legal antes mencionado, establece que\nson susceptible de arrendamiento todas las cosas corporales o incorporales que\npuedan usarse sin consumirse, excepto aquéllas que la Ley prohibe arrendar.\n3) En consecuencia, y conforme a lo expuesto en los números  precedentes, las rentas\nprovenientes de la celebración de un contrato de arrendamiento con opción de compra\nde una vivienda económica, percibidas o devengadas, tanto las obtenidas mediante la\nexplotación del bien mientras éste estuvo dado en arrendamiento como las obtenidas\nen su enajenación, cualquiera que sea la calidad jurídica de la empresa beneficiaria, y\nsiempre y cuando ésta no sea la que construyó la vivienda económica que se arrienda\ncon opción de compra, estarán exentas de todos los impuestos de la Ley de la Renta,\nesto es,\ndel impuesto de Primera Categoría y Global Complementario o Adicional, según\ncorresponda, no existiendo, incluso, la obligación de declarar las mencionadas rentas\nen calidad de exentas en la renta bruta del impuesto Global Complementario, por\ndisposición expresa del inciso cuarto del No. 3 del\nArtículo 54 de la Ley de la Renta. Ello por cuanto las rentas generadas durante el\narrendamiento de la vivienda económica, se comprenden en el primer inciso de la\nnorma modificada y la renta generada en la venta, por su parte, se ampara en el inciso\nagregado por la Ley que se comenta.\nB.- VIGENCIA\nAl no establecer vigencia expresa la Ley 19.506 para la modificación introducida por su\nArtículo 18 al Artículo 15 del DFL No. 2, de 1959, es aplicable en la especie lo\ndispuesto\npor el inciso segundo del Artículo 3 del Código Tributario. En consecuencia, en virtud de\nlo establecido por esta norma legal, la citada modificación rige a contar del 01 de enero\nde\n1998, respecto de las rentas obtenidas por el tipo de contrato a que alude la referida\nmodificación en comento a contar del año comercial 1997.\nJAVIER ETCHEBERRY CELHAY\nDIRECTOR\n \n"
+    },
+    {
+      "name": "Oficio N°222 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°222 (31/01/2017)",
+      "document_id": "b39a7cee-4fe2-547e-a1ee-b2018822d103",
+      "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja222.htm",
+      "content": "mobiliarias, “caso en el cual la parte del aporte que exceda de la\nrenta de arrendamiento se abonará al precio de la compraventa prometida, en la forma pactada en el referido\ncontrato”\nEstas sociedades inmobiliarias, según el Art. 11° de la Ley N° 19.281, son para efectos de esta ley, todas\naquellas que tengan como objeto la adquisición o construcción de viviendas para darlas en arrendamiento\ncon promesa de compraventa.\n \nPor otra parte, la ley en su Art. 27°, establece la obligación de celebrar el contrato de compraventa prometido,\nes decir la obligación de transferir el bien, una vez cumplida cualquiera de las siguientes circunstancias:\na)    Cuando el saldo de la cuenta en la institución, o el total de los abonos al precio de la compraventa\nprometida, sea igual al precio de venta estipulado en el contrato de arrendamiento con promesa de\ncompraventa.\nb)    Cuando se cumpla el plazo convenido para la celebración del contrato prometido y se entere el precio de\ncompraventa. Si, al cumplirse el plazo convenido, por cualquier causa, no se hubiere completado y pagado el\nprecio estipulado, el contrato se prorrogará en el plazo que no exceda al que sea necesario para completar la\nparte del precio no enterada, en tantas cuotas de un monto igual a las estipuladas en el contrato, dentro del\ncual el arrendatario promitente comprador deberá completar el precio bajo sanción de resolución de la\npromesa en caso de incumplimiento.\nc)    Cuando opere el seguro de desgravamen por fallecimiento del arrendatario promitente comprador.\nDel análisis de las normas precedentes se colige entonces que el sistema normado por la Ley N° 19.281,\ntiene por finalidad última la transferencia efectiva de un bien corporal inmueble.\n \nPor lo tanto, cuando ello ocurra, se estará en presencia del nuevo hecho gravado “venta”, modificado por el\nArt. 2°, N° 1, letra a), de la Ley N° 20.780, y contenido en el Art. 2, N° 1, del D.L. N° 825, definido en lo\npertinente como “toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de …, bienes corporales inmuebles, excluidos los terrenos, de una cuota\nde dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o\ncontrato que conduzca al mismo fin o que la presente ley equipare a venta”.\n \nRespecto de la calidad de vendedor que tendrían las sociedades inmobiliarias que realizan la venta del\ninmueble, resulta indudable su calificación como tal, toda vez que conforme a lo dispuesto en el Art. 11°, de la\nLey N° 19.281, estas sociedades tienen como objeto la adquisición o construcción de viviendas para\nentregarlas en arrendamiento con promesa de compraventa, promesa que conforme al Art. 27, de la\nmencionada ley tienen obligación de cumplir, es decir, el ánimo que guía a estas sociedades al adquirir los\ninmuebles para suscribir estos contratos es precisamente la transferencia del inmueble.\n\n\n \nAhora bien, las sociedades inmobiliarias, en virtud del Art. 17°, de la Ley N° 19.281, pueden enajenar estas\nviviendas arrendadas con promesa de compraventa, siempre que cedan   conjuntamente el contrato de\narrendamiento con promesa de compraventa, entre otras, a   empresas securitizadoras, las cuales como\ncesionarias del referido contrato tienen iguales obligaciones, derechos y facultades que el cedente,\nencontrándose obligadas a cumplir el contrato de arrendamiento con promesa de compraventa en la forma\npactada.\n \nDe lo anterior se desprende que al producirse la cesión del contrato en cuestión, la empresa securitizadora\ntoma el lugar jur"
+    },
+    {
+      "name": "Circular N°13 (24/03/2016)",
+      "source_type": "circular",
+      "source": "Circular N°13 (24/03/2016)",
+      "document_id": "f4dde867-4487-5f92-8ff9-880aef0d76a4",
+      "chunk_uuid": "492319ab-1fef-5a90-8ab1-9a5b389f58d5",
+      "chunk_id": 20,
+      "url": "http://www.sii.cl/documentos/circulares/2016/circu13.pdf",
+      "content": "és o utilidad incluido en la cuota:  \n     15 \n \nCálculo de las Deducciones establecidas en el Art. 16, letra i) y Art 17, inciso segundo \n \nArt. 17, inciso segundo: \n \nProporción del terreno 30% en cada cuota \nMonto a rebajar: 30% x Valor cuota = 30 \n \nInterés o utilidad: 15 (en el ejemplo) \n \nTotal a rebajar en esta cuota: 45 \n \nCálculo del IVA correspondiente a esta cuota \n \nMonto de la cuota: 100 \nMenos          45 \n \nBase imponible 55 \nIVA  55 x 19% = 10 \n \nEn el caso que en este tipo de contratos, el arrendatario entregue un anticipo, se \nentenderá que dicho monto corresponde a una cuota más del contrato, para efectos del \ncálculo de la rebaja proporcional del terreno establecida en el Art 17, inciso segundo, del \nD.L. N° 825. Ello implica que dicho monto debe incluirse también en el monto total del \ncontrato, para efectos de este cálculo. \n \nFinalmente, y al igual que lo señalado en el párrafo final del Art. 16, letra i), las rebajas \nefectuadas en virtud de esta norma a la base imponible para la determinación del IVA, en el \ncaso de las operaciones gravadas con este impuesto, no cambian la naturaleza gravada de \nla operación, aun cuando producto de éstas no resulte impuesto a pagar. Ello implica, que \npara efectos tributarios no procede considerar estas operaciones en el cálculo de la \nproporcionalidad establecida en el Art. 23, N° 3, del D.L. N° 825, sino que por el contrario, \nprocede aplicar el Art. 23, N° 1, en virtud del cual, el contribuyente tendrá derecho a crédito \nfiscal por el impuesto soportado en todas las adquisiciones y/o importaciones o bien por la \nutilización de servicios destinados a realizar este tipo de operaciones. \n \n \nARTÍCULO 21, N°2: \n \nEl Art. 21 regula las deducciones que pueden efectuarse al débito fiscal. \n \nAl igual que en otras modificaciones analizadas en esta Circular, el cambio incorporado a \neste artículo consistió únicamente en sustituir la mención a las promesas de venta de bienes \ncorporales inmuebles por “arriendo con opción de compra”, considerando que las \npromesas, a contar del 1° de Enero del año en curso, ya no constituyen hecho gravado con \nel tributo en comento, debido a su exclusión del Art. 8°, letra l), como hecho gravado \nespecial, por la expresión arriendo con opción de compra. \nARTÍCULO 23, N° 1: \n \n\n\n \n \n18\n18\nLa modificación incorporada a este artículo que en su totalidad regula las normas para la \ndeterminación del crédito fiscal, consistió en sustituir la expresión “promesa de venta”, por \n“un contrato de arriendo con opción de compra”. Ello en atención a la eliminación de las \npromesas de venta como hecho gravado especial. \n \nDe tal modo que con la norma modificada el Art. 23°, N° 1, dispone en lo pertinente que \n“dará derecho a crédito el impuesto de este Título recargado en las facturas emitidas con \nocasión de un contrato de venta o un contrato de arriendo con opción de compra de un bien \ncorporal inmueble y de los contratos referidos en la letra e) del Art. 8°”. \n \nCabe tener presente que la disposición transcrita precedentemente debe ser entendida en el \ncontexto general, regulado por el Art. 23°, del D.L. N° 825 que fija los requisitos y \ncondiciones para que un contribuyente tenga derecho a utilizar como crédito fiscal el \nimpuesto soportado en la adquisición o importación de bienes o en la utilización de servicios. \n \nDe modo que el IVA soportado en dichos documentos dará derecho a crédito fiscal, en la \nmedida que se cumplan todos los requisitos establecidos para ello en el Art. "
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "18f3e7fb-57df-5e5a-91d5-399c4b373d0a",
+      "chunk_id": 7,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " en el contrato del monto total o la proporción que corresponda del valor de\nadquisición del terreno que se encuentre incluido en la operación, solicita confirmar o resolver lo siguiente:\n \n         [letra n) de la consulta original] Considerando que (i) la inmobiliaria creada al amparo de la Ley N°\n19.281 celebra con el arrendatario promitente comprador el contrato de arrendamiento con promesa de\ncompraventa por un valor “X” y (ii) posteriormente la Securitizadora adquiere, mediante la securitización, los\ncontratos junto a los respectivos inmuebles sobre los que recaen por un valor “Y”.\n \ni) El valor del terreno que debe ser considerado para efectos de la deducción de la base imponible debe ser\n(a) ¿el contenido implícitamente en el contrato de arrendamiento con promesa de compraventa celebrado por\nla empresa inmobiliaria y el arrendatario promitente comprador? (b) el contenido implícitamente en el\ncontrato de cesión suscrito entre la empresa inmobiliaria creada al amparo de la Ley N° 19.281 y la\nSecuritizadora?; (c) otro, ¿cuál?\n \nLa transferencia de los inmuebles que la sociedad inmobiliaria realiza conjuntamente con la cesión de los\ncontratos de arriendo con promesa de compraventa, conforme al Art. 30, de la Ley N° 19.281, a la Sociedad\nSecuritizadora, se encuentra gravada con IVA conforme a las reglas generales contenidas en el Art. 8°, en\nconcordancia con el Art. 2°, N° 1, del D.L. N° 825.\n \nAl respecto, el Art 17°, inciso segundo, del D.L. N° 825, de 1974, dispone que en el caso de la venta de\nbienes inmuebles gravados con IVA, “podrá deducirse del precio estipulado en el contrato el monto total o la\nproporción que corresponda, del valor de adquisición del terreno que se encuentre incluido en la operación”\n \nPara estos efectos, el referido inciso señala que deberá reajustarse el valor de adquisición del terreno de\nacuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el periodo\ncomprendido entre el mes anterior al de la adquisición y el mes anterior al de la fecha del contrato.\n \nNo obstante, la misma norma establece un tope a la deducción que por concepto de terreno puede\nefectuarse a la operación, señalando que ésta no podrá ser superior al doble del avalúo fiscal determinado\npara los efectos de la Ley N° 17.235, salvo que la fecha de adquisición del mismo haya precedido en no\nmenos de tres años a la fecha en que se celebre el contrato de venta o de promesa de venta, en cuyo caso\nse deducirá el valor efectivo de adquisición reajustado en la forma indicada en el señalado inciso.\n \nDe lo anterior se colige que dicho límite no es aplicable, cuando entre la adquisición del terreno y la fecha de\ncelebración del contrato de venta, exista un plazo de tres años o más, en cuyo caso podrá deducirse el valor\ndel terreno reajustado.\n \nComo se desprende de lo señalado precedentemente, la suma que debe considerarse para efectuar la\ndeducción establecida en el Art. 17°, del D.L. N° 825, es siempre el monto total o la proporción que\ncorresponda del valor al cual el vendedor del inmueble adquirió el terreno incluido en la operación, monto que\ndebe reajustarse conforme a las normas señaladas precedentemente. Una vez establecido este valor y\ndependiendo de la fecha de adquisición del terreno, el contribuyente podrá determinar si puede deducir el\nvalor total o bien debe aplicar el tope del doble del avalúo fiscal, dispuesto en el inciso segundo, del\nmencionado artículo 17°.\n \n\n\nSin perjuicio de lo anterior, este Servicio se encuentra facultado, en aquellos casos en que hayan trans"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2017\nVENTAS Y SERVICIOS âĄv NUEVO TEXTO âĄv ACTUAL LEY SOBRE IMPUESTO A LAS âĄv ART. 2,\nNÂ°Â´S 1 Y 3, ART. 8, LETRAS G) Y L), ART. 12, LETRA F), ART. 17 âĄv LEY NÂ° 20.780, ART. 6\nTRANSITORIO âĄv LEY NÂ° 19.281, ART. 7, ART. 11, ART. 27 âĄv CIRCULAR NÂ° 13, DE 2016 âĄv\nOFICIO NÂ° 1835, DE 2015 (Ord. Nº 223, de 31-01-2017)\nDIVERSAS CONSULTAS SOBRE LAS MODIFICACIONES INCORPORADAS POR LA LEY NÂ° 20.780, AL\nD.L. NÂ° 825, DE 1974, Y CÃvMO AFECTAN ÃlSTAS, ESPECÃpFICAMENTE A LOS CONTRATOS DE\nARRENDAMIENTO CON PROMESA DE COMPRAVENTA DE BIENES CORPORALES INMUEBLES, QUE\nCONFORMAN LOS ACTIVOS SECURITIZADOS DE LOS DISTINTOS PATRIMONIOS ADMINISTRADOS\nPOR UNA SECURITIZADORA.\nSe ha solicitado a esta Dirección Nacional pronunciarse sobre diversas consultas que dicen relación con las\nmodificaciones incorporadas por la Ley N° 20.780, al D.L. N° 825, de 1974, y cómo afectan éstas,\nespecíficamente a los contratos de arrendamiento con promesa de compraventa de bienes corporales\ninmuebles, que conforman los activos securitizados de los distintos patrimonios administrados por una\nSecuritizadora.\n \n \nI.-   ANTECEDENTES:\n          \nXXXX, en representación de Securitizadora TTTT, efectuó una presentación en esa Dirección Regional,\nmediante la cual consulta acerca del tratamiento tributario aplicable a los contratos de arriendo con promesa\nde compraventa regidos por la Ley N° 19.281, publicada en el Diario Oficial el 27 de Diciembre de 1993, que\nestablece normas sobre arrendamiento de viviendas con promesa de compraventa, sin que en su texto legal\nse contenga mención alguna sobre los contratos de arrendamiento con opción de compra.\n \nEn particular, el interesado solicita aclaración respecto de las modificaciones incorporadas por la Ley 20.780\nal D.L. N° 825, respecto de los contratos de arriendo con promesa de compraventa celebrados al amparo de\nla Ley N° 19.281, que recaigan sobre viviendas, considerando especialmente la interpretación administrativa\ncontenida en el Oficio N° 1835, de 14/7/2015.\n \nAl respecto, la securitización consiste básicamente en la adquisición a término de un determinado activo por\nparte de un patrimonio separado, el que es creado por la Securitizadora y financiado por medio de la\ncolocación de bonos de oferta pública en el mercado de capitales nacional.\n \nSeñala que la Securitizadora TTTT ha securitizado, en el pasado y planea seguir haciéndolo en el futuro,\ncontratos de arriendo con promesa de compraventa y los respectivos inmuebles sobre los que versan dichos\ncontratos, suscritos originalmente por sociedades inmobiliarias creadas especialmente al efecto y al amparo\nde la Ley N° 19.281 (en adelante los “Contratos”).\n \nLos contratos securitizados son denominados en su totalidad, concordantemente con lo dispuesto en la Ley\nN° 19.281, “Compraventa y arrendamiento con promesa de compraventa”.\n \nAl respecto, los contratos suscritos y securitizados pueden clasificarse en:\n \n\n\nContrato de arrendamiento de vivienda con promesa de compraventa (en adelante los “Contratos Directos”:\n \nSon aquellos que contem"
+    },
+    {
+      "name": "Oficio N°1288 (24/06/1997)",
+      "source_type": "oficio",
+      "source": "Oficio N°1288 (24/06/1997)",
+      "document_id": "2c2c79a6-b55e-5175-ab85-c86ad757c8c6",
+      "chunk_uuid": "d71b0157-3143-5757-823c-7dcb972ddcc6",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/jul03.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nJURISPRUDENCIA ADMINISTRATIVA JULIO 1997\nRENTA - ACTUAL LEY SOBRE IMPUESTO A LA\nART. 29°\nOPORTUNIDAD EN QUE DEBE SER RECONOCIDO TRIBUTARIAMENTE EL ANTICIPO DEL VALOR DE LA OPCIÓN DE\nCOMPRA PACTADO EN UN CONTRATO DE LEASING. (OF. NO 1.288, DEL 24/06/97. I. DIRECTOS).\n1.- SE HA RECIBIDO EN ESTA DIRECCIÓN SU OFICIO INDICADO EN EL ANTECEDENTE, A TRAVÉS DEL CUAL MANIFIESTA QUE\nUNA EMPRESA DE LEASING HA OPERADO CON TRES TIPOS DE CONTRATOS DE LEASING INMOBILIARIO. DE ACUERDO CON\nUNO DE ESTOS CONTRATOS, EL ARRENDATARIO AL MOMENTO DE LA SUSCRIPCIÓN DEL MISMO, DEBE ENTREGAR AL\nARRENDADOR UNA CANTIDAD PARA UN FONDO DE OPCIÓN DE COMPRA, LA CUAL SE HACE EFECTIVA Y FACTURA AL\nVENCIMIENTO DE LA ÚLTIMA CUOTA.\nEXPRESA A CONTINUACIÓN QUE LA UNIDAD REVISORA TIENE DUDAS RESPECTO DE LA OPORTUNIDAD EN QUE LA EMPRESA\nDE LEASING DEBE EMITIR LA FACTURA POR EL FONDO DE OPCIÓN Y TRIBUTAR POR ELLO, ATENDIDO QUE LA ARRENDATARIA\nENTREGA UNA SUMA DE DINERO POR TAL CONCEPTO AL MOMENTO DE SUSCRIBIR EL CONTRATO, Y QUE DICHA SUMA\nQUEDA REGISTRADA EN UNA CUENTA DE PASIVO DE LA ARRENDADORA, HASTA HACERSE EFECTIVA LA OPCIÓN DE COMPRA.\nFINALMENTE EXPRESA QUE EN SU OPINIÓN, EL ANTICIPO DE LA OPCIÓN DE COMPRA DEBE SER RECONOCIDO\nTRIBUTARIAMENTE AL MOMENTO EN QUE, EJERCIENDO DICHA OPCIÓN, SE SUSCRIBA EL RESPECTIVO CONTRATO DE\nCOMPRAVENTA.\n2.- RESPECTO DE LA SITUACIÓN PLANTEADA, Y DE ACUERDO A LA LECTURA DEL CONTRATO EN CUESTIÓN, CABE SEÑALAR\nQUE EN CONFORMIDAD AL NÚMERO CUATRO DE SU CLÁUSULA DECIMOSEGUNDA, LAS PARTES ACUERDAN QUE LA\nARRENDATARIA SÓLO TENDRÁ DERECHO A SOLICITAR LA DEVOLUCIÓN DEL ANTICIPO DE LA OPCIÓN, EN EL EVENTO QUE\nVENCIDO EL PLAZO DEL CONTRATO Y CUMPLIDAS POR LA ARRENDATARIA TODAS LAS OBLIGACIONES EMANADAS DEL\nMISMO, LA ARRENDATARIA OPTARE POR DEVOLVER LOS BIENES ARRENDADOS.\n3.- TENIENDO PRESENTE QUE EN GENERAL EN LOS CONTRATOS DE ARRENDAMIENTO CON OPCIÓN DE COMPRA, EL\nARRENDADOR SE OBLIGA AL TÉRMINO DE ÉSTE A VENDER EL BIEN MOTIVO DEL ARRIENDO, Y CONSIDERANDO A SU VEZ\nQUE EN EL CASO ESPECÍFICO DE LA CONSULTA, SE TRATA DE UN CONTRATO DE ARRIENDO CON OPCIÓN DE COMPRA DE UN\nINMUEBLE, EL CUAL INCORPORA, ADEMÁS, LA PARTICULARIDAD EN VIRTUD DE LA CUAL EL ARRENDATARIO PAGA AL\nMOMENTO DE LA SUSCRIPCIÓN DEL CONTRATO, UNA PARTE DEL PRECIO DE LA FUTURA VENTA DEL BIEN, CABE EXPRESAR\nQUE EN TAL SITUACIÓN ES PLENAMENTE APLICABLE LA DISPOSICIÓN CONTENIDA EN EL INCISO TERCERO DEL ARTÍCULO 29\nDE LA LEY DE LA RENTA, QUE ESTABLECE QUE LOS INGRESOS OBTENIDOS CON MOTIVO DE CONTRATOS DE PROMESA DE\nVENTA DE INMUEBLE, SE INCLUIRÁN EN LOS INGRESOS BRUTOS DEL AÑO EN QUE SE SUSCRIBA EL CONTRATO DE VENTA\nCORRESPONDIENTE.\n4.- EN CONSECUENCIA, CABE MANIFESTAR QUE ESTA"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " cabe señalar que efectivamente la venta a un tercero de una vivienda\nentregada en arrendamiento con opción de compra a un beneficiario de un subsidio habitacional otorgado por\nel Ministerio de Vivienda y Urbanismo, cuya opción de compra será financiada en todo o parte con el\nmencionado subsidio, se encuentra exenta de Impuesto al Valor Agregado.\n \nAl respecto la Circular N° 42, de 15/6/2015, señala que esta exención se aplica cuando el propietario de una\nvivienda dada en arriendo con opción de compra a un beneficiario de subsidio habitacional otorgado por el\nMinisterio de Vivienda y Urbanismo, cuya opción de compra será financiada en todo o parte con el señalado\nsubsidio, la vende a un tercero, quedando el nuevo adquirente sujeto al gravamen de cumplir el contrato en\nla forma pactada entre el arrendatario y el primitivo arrendador.\n \nPor lo tanto, la venta de la vivienda por parte del dueño a un tercero, se favorecerá con la exención, siempre\ny cuando quede vigente el contrato de arrendamiento con opción de compra entre el beneficiario del subsidio\nhabitacional y el nuevo dueño de la vivienda, en los mismos términos pactados entre el arrendatario y el\nprimitivo arrendador, con relación al financiamiento de la operación a través de un subsidio otorgado por el\nMinisterio de Vivienda y Urbanismo.\n \nNo obstante lo anterior, cabe aclarar que dicha exención no aplica a la venta efectuada a un tercero de una\nvivienda entregada en arriendo con promesa de compraventa, ya que la ley favorece con la liberación del\ntributo a dicha venta cuando la vivienda transferida se encuentra entregada en arriendo con opción de\ncompra, contrato de naturaleza jurídica distinta al contrato de arriendo con promesa de compraventa.\n\n\n \nEn caso de suscribirse un contrato de arriendo con promesa de compraventa al amparo de la Ley N° 19.281\ncon posterioridad al 1° de Enero de 2016, en que el arrendatario promitente comprador es beneficiario de un\nsubsidio habitacional, en los términos de la letra f), del artículo 12, de la Ley de IVA. ¿Estarán exentos de IVA\nlos cánones de arrendamiento?; ¿Estará exento de IVA el pago del último aporte, en virtud del cual nacerá la\nobligación de transferir el dominio del inmueble?\n \nSobre el particular, cabe reiterar lo señalado en la letra a) anterior en el sentido que los contratos de arriendo\ncon promesa de compraventa no se encuentran comprendidos en el  hecho gravado especial contenido en el\nArt. 8°, letra l), del D.L. N° 825. Sin embargo, la transferencia del bien corporal inmueble, se encuentra afecta\na IVA, conforme a las normas generales contenidas en el Art. 8°, en concordancia con el Art. 2°, N° 1, del\nD.L. N° 825, según lo desarrollado en la respuesta a su consulta signada con la letra a). Siendo así, le resulta\nplenamente aplicable a la venta del inmueble efectuada en virtud de dichos contratos, la exención contenida\nen el Art. 12°, letra F), del citado decreto ley, en la medida que se cumplan con los requisitos en ella\nestablecidos, esto es, que la venta sea efectuada al beneficiario de un subsidio habitacional otorgado por el\nMinisterio de Vivienda y Urbanismo y qué ésta haya sido financiada en todo o parte por el referido subsidio.\n \nRespecto de sus consultas sobre si en este caso se encontrarían exentos de IVA los cánones de\narrendamiento o el pago del último aporte, cabe manifestar que tal como se señaló en el párrafo precedente,\nel contrato de arriendo con promesa de compraventa no se encuentra comprendido en el hecho gravado\nespecial establecido en el Art. 8°, letra l), del D.L. N° 825"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "b4b75ad9-96db-5baa-9c23-5c60f47dd9af",
+      "chunk_id": 10,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": ", y en caso que con posterioridad a dicha fecha el arrendatario promitente\ncomprador decida aportar al Fondo para la Vivienda el saldo insoluto que permita completar el precio de la\nvivienda objeto del contrato de arriendo con promesa de compraventa.\n \n  ¿Dicho pago efectuado por el arrendatario promitente comprador estará amparado en lo dispuesto en el\nartículo 6° transitorio de la Ley de Reforma Tributaria? En otras palabras. ¿el pre-pago, que será el último\naporte, estará exento de IVA al amparo de lo dispuesto en la disposición legal mencionada?\n \n\n\nAl respecto, se reitera lo señalado en la respuesta anterior respecto de la aplicación del Art. 6° Transitorio de\nla Ley N° 20.780, reiterando que dicha norma libera de IVA la venta del inmueble siempre que se cumplan las\ncondiciones en ella señaladas.\n \nEn ese orden de ideas, las sumas que se entreguen en forma previa a la venta por parte del promitente\ncomprador a la Administradora del Fondo para la Vivienda no tienen incidencia tributaria en lo que dicen\nrelación con el Impuesto al Valor Agregado, sino hasta el momento en que se produzca la transferencia del\nbien corporal inmueble ya sea por parte de la inmobiliaria o de la securitizadora, en cuyo caso resulta\nplenamente aplicable lo señalado en la letra g) anterior.\n \nConsiderando que, en este tipo de contratos, al completarse el saldo insoluto en la cuenta de “ahorro\nmetódico” la Administradora del Fondo deberá transferir el total de lo ahorrado, precio total estipulado en el\ncontrato de arriendo con promesa de compraventa celebrado al amparo de la Ley N° 19.281, a la inmobiliaria\no a su cesionario legal, Securitizadora en este caso, ¿dicho flujo estará exento de IVA de acuerdo al referido\nartículo 6° transitorio de la Ley de Reforma Tributaria?\n \nConcordante con lo señalado en la letra anterior, la entrega por parte de la Administradora de Fondos para la\nVivienda, del total del monto ahorrado por el promitente comprador, ya sea a la inmobiliaria o a la\nSecuritizadora, no tiene incidencia tributaria sino hasta que se produzca la transferencia del inmueble por\nparte de la inmobiliaria o Securitizadora al arrendatario promitente comprador. Al respecto, no debe olvidarse\nque en la venta de inmuebles el impuesto se devenga, es decir nace la obligación tributaria, según lo\ndispuesto en el Art. 9°, letra f), del D.L. N° 825, en el momento de emitirse la factura y ésta conforme al Art.\n55°, del mismo texto legal, debe emitirse en la fecha de suscripción de la escritura de compraventa por el\nprecio total, incluyendo las sumas pagadas previamente que se imputen al mismo a cualquier título.\n \nPor lo tanto, se reitera lo manifestado en la letra g) de este oficio, respecto de la aplicación del Art. 6°\nTransitorio de la Ley N° 20.780.\n \nFinalmente, respecto de la aclaración solicitada en torno a la interpretación administrativa contenida en Ord.\nN° 1835, de 14/7/2015, cabe hacer notar que ella era sólo aplicable a los contratos de arrendamiento con\nopción de compra y no a los contratos de arrendamiento con promesa de compraventa, como son los\nanalizados en su presentación.\n \nSin perjuicio de lo anterior, el Art. 6°, transitorio, de la Ley N° 20.780, que sirvió de base para emitir el referido\npronunciamiento, fue modificado por el Art. 8°, N° 7, de la Ley N° 20.899, de 8/2/2016. Dicha modificación\nconsistió en no hacer aplicables los cambios introducidos por el artículo 2° de la Ley N° 20.780 al D.L. N°\n825, de 1974 a las cuotas de"
+    },
+    {
+      "name": "Resolución N°118 (10/09/2025)",
+      "source_type": "resolucion",
+      "source": "Resolución N°118 (10/09/2025)",
+      "document_id": "a3c6de04-cd98-5732-a595-e7af1074577f",
+      "chunk_uuid": "701be697-97b3-5a0c-94dc-70456cc240d7",
+      "chunk_id": 21,
+      "url": "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso118.pdf",
+      "content": " arriendo (con fecha de término superior a seis meses a \ncontar de la presentación al Servicio) acreditando de la manera \nindicada en “Propietarios o usufructuarios de la pertenencia minera” \nque quien arrienda es el propietario o usufructuario. \nPertenencia \nminera \nexplotada \na \ncualquier \notro título \nActo jurídico respectivo, acreditando que quien cede los derechos sea \nel propietario, arrendatario o usufructuario. \n \nNo se solicitarán los antecedentes que estén en poder de este Servicio, de acuerdo con lo establecido en el \nartículo 8 bis N°8 del Código Tributario.  \n \n3. Las personas jurídicas y otros entes sin personalidad jurídica que presenten su declaración de inicio de \nactividades después de seis meses contados desde su creación o constitución deberán acreditar su \nvigencia, adjuntando el certificado respectivo, en la medida que corresponda, el cual no podrá tener una \nfecha de emisión mayor a un mes. \n \n4. Las personas naturales, jurídicas y otras organizaciones que declaren alguna actividad, que para su \ndesarrollo requiera el uso y tenencia de algún bien específico como instrumento de trabajo, por ejemplo, \ndiferentes tipos de transporte, explotación de minas o de suelos, deberán adjuntar la documentación que \nacredita posesión del bien o que está autorizado por su propietario para hacer uso de este. \n \n5. Los microempresarios familiares deberán adjuntar el formulario de solicitud de patente para microempresa \nfamiliar de la Ley N° 19.749, autorizado por la municipalidad respectiva. \n \n \n"
+    }
+  ]
+}

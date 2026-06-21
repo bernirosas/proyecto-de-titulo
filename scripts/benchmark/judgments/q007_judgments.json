@@ -1,0 +1,218 @@
+{
+  "query_id": "q007",
+  "query_text": "Efectos y tratamiento del contrato de promesa de compraventa de un inmueble",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:07Z",
+  "judgments": [
+    {
+      "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el contrato de promesa de compraventa en el contexto de arrendamientos con opción de compra y su tratamiento tributario."
+    },
+    {
+      "chunk_uuid": "3080c35c-b889-548c-b1c5-da43f9b2c91e",
+      "relevance_grade": 3,
+      "justification": "Este fragmento analiza el tratamiento tributario de la enajenación de inmuebles adquiridos mediante promesa y compraventa definitiva."
+    },
+    {
+      "chunk_uuid": "0b0ae9e8-a369-59a1-b004-db4a693539cc",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la cesión de contratos de arrendamiento con promesa de compraventa y su afectación a IVA."
+    },
+    {
+      "chunk_uuid": "5fdc65fd-8981-5c09-97a0-b698d3eba130",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona las promesas de venta de bienes inmuebles de empresas constructoras y su afectación al IVA."
+    },
+    {
+      "chunk_uuid": "178588af-e43a-590e-ab33-4fae0a56eb9e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de IVA para embajadas y no aborda la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "8f0cfd17-f9c7-5a47-b796-04759cdeea57",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica los efectos tributarios del contrato de promesa de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "111cf080-5b87-5e05-a8c4-710e2289ee89",
+      "relevance_grade": 2,
+      "justification": "Menciona la promesa de compraventa en el contexto de la adquisición de viviendas económicas y sus beneficios."
+    },
+    {
+      "chunk_uuid": "a4a1575c-e911-525b-8d90-bd2714f237f1",
+      "relevance_grade": 2,
+      "justification": "Aborda el tratamiento tributario del leasing inmobiliario, asimilándolo a promesas de venta para efectos del IVA."
+    },
+    {
+      "chunk_uuid": "11aebf3d-aa80-5f9f-84d8-79d30737daa6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de IVA para embajadas, no sobre promesas de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "abe0e09a-e845-5599-ad3d-b830f8205dcd",
+      "relevance_grade": 3,
+      "justification": "Define el contrato de promesa y sus requisitos legales, relacionándolo con la compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "1fda4e7c-a83b-5cdb-b08d-0eb9e50809f1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre impuestos a rentas acumuladas y retiros en exceso, no sobre la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "a3a19408-87fd-5e7a-9e4f-d252a7d19485",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el cómputo de plazos para el beneficio de ingreso no renta, mencionando la promesa de compraventa tangencialmente."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la modificación de un formulario tributario y no aborda la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "8f1bcbec-6793-536f-9f85-22dc0b34aa41",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre inmunidad fiscal de misiones diplomáticas y remodelación de inmuebles, sin relación con la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "0fcfb942-0378-5d67-aa37-2d9a84f0ead5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento distingue entre arrendamiento con promesa de compraventa y opción de compra, abordando aspectos tributarios de cada uno."
+    },
+    {
+      "chunk_uuid": "600cc3f5-9887-52f9-86fd-4cdf0c60ab64",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona las promesas de venta de bienes corporales inmuebles y su tratamiento tributario."
+    },
+    {
+      "chunk_uuid": "75c1e1fb-9042-59fb-8f06-507d6a2778ea",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la venta de viviendas construidas por empresas constructoras y su exención de IVA."
+    },
+    {
+      "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+      "relevance_grade": 2,
+      "justification": "Este oficio aclara que el contrato de arriendo con promesa de compraventa no es un contrato de arriendo con opción de compra para efectos tributarios."
+    },
+    {
+      "chunk_uuid": "a390ad95-1c1e-531f-9253-68b6c0c0d7de",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en el avalúo fiscal de inmuebles y no aborda directamente los efectos del contrato de promesa."
+    },
+    {
+      "chunk_uuid": "a3c3c3ac-fc1e-5bb4-8f57-d8cc98d7f33b",
+      "relevance_grade": 3,
+      "justification": "Este oficio analiza el tratamiento tributario de la cesión de contratos de promesa de compraventa sobre inmuebles."
+    },
+    {
+      "chunk_uuid": "0d038956-c944-5c81-97c3-95d4770ca96b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de IVA para misiones diplomáticas, no sobre promesas de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la sustitución de un formulario para el pago de impuestos, sin abordar la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "edb63726-3277-55a8-886c-9e566bc8f7ff",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente el tratamiento tributario de los contratos de promesa de compraventa de inmuebles y las cuotas pagadas."
+    },
+    {
+      "chunk_uuid": "12c2267d-63c5-5541-8cb2-1d957a7745d3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la promesa de compraventa en el contexto de arrendamientos con opción de compra y exenciones de IVA."
+    },
+    {
+      "chunk_uuid": "0bf34689-3ef9-5ed1-92a6-e40c943ca251",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre tasaciones de bienes raíces y no sobre los efectos del contrato de promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "cdd77435-09b1-5601-9661-3736813a9065",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones fiscales de locales consulares, no sobre promesas de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "476a3a3a-ab88-5931-834e-fac87b627d72",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el tratamiento tributario de contratos de arrendamiento con promesa de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "05b4beb5-0072-5a7b-8b58-1dd6adb56aee",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la finalidad de la Ley N° 19.281 y la obligación de celebrar la compraventa prometida."
+    },
+    {
+      "chunk_uuid": "40b490e9-a804-5240-bb02-18b0379bb9be",
+      "relevance_grade": 3,
+      "justification": "Este fragmento analiza los alcances tributarios de la cesión de contratos de promesa sobre bienes inmuebles."
+    },
+    {
+      "chunk_uuid": "25f1b7a3-6dc8-5f2c-9738-56f749e64571",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla el tratamiento tributario de la cesión de contratos de arrendamiento con promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "e71dabc1-80f4-5ff0-95a7-0f2df361d33b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de IVA para misiones diplomáticas, no sobre promesas de compraventa de inmuebles."
+    },
+    {
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en procedimientos de pago de impuestos y no aborda la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "f5db6768-3e9f-51e4-a448-5a054fd3af78",
+      "relevance_grade": 2,
+      "justification": "Este fragmento diferencia la promesa de compraventa del contrato prometido y su efecto tributario como no enajenación."
+    },
+    {
+      "chunk_uuid": "182c7e2d-e22f-5422-9d06-e7bd7ed08094",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que la promesa es un contrato principal y analiza la tributación de su cesión."
+    },
+    {
+      "chunk_uuid": "8df3137f-9f34-5e5f-b7e8-2644b13ffcf4",
+      "relevance_grade": 2,
+      "justification": "Este fragmento distingue el arrendamiento con promesa de compraventa y el tratamiento del IVA de los anticipos."
+    },
+    {
+      "chunk_uuid": "8089c3b1-e309-5330-a73f-b8f84cc95633",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la resciliación de una compraventa y sus efectos tributarios, lo cual es adyacente a la promesa de compraventa."
+    },
+    {
+      "chunk_uuid": "673cc5ac-754d-5437-b82e-301acd42d77d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda las promesas de venta en el contexto de leasing habitacional y su tratamiento tributario con IVA."
+    },
+    {
+      "chunk_uuid": "a8bbdee9-ba26-52b7-a4f8-062df3136ee2",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica que los contratos de arrendamiento con promesa de compraventa no están afectos a IVA, detallando su tratamiento."
+    },
+    {
+      "chunk_uuid": "a09e01f0-438c-5cc2-acb1-44b17bcd2f42",
+      "relevance_grade": 2,
+      "justification": "Explica los efectos del contrato de promesa, su posible resciliación y el tratamiento tributario de anticipos y la promesa en sí."
+    },
+    {
+      "chunk_uuid": "9e5739fe-1d7a-5bb2-8fb6-46df684f982f",
+      "relevance_grade": 2,
+      "justification": "Detalla el tratamiento tributario de anticipos y cesiones de promesas, y la afectación o no de IVA."
+    },
+    {
+      "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+      "relevance_grade": 2,
+      "justification": "Aborda la afectación a IVA de la transferencia inmueble y la aplicación de normas transitorias para promesas anteriores."
+    },
+    {
+      "chunk_uuid": "d3b0eacb-e04e-50bf-a93c-f27abfa73f6d",
+      "relevance_grade": 2,
+      "justification": "Concluye sobre la tributación de utilidades por cesión, anticipos y la afectación a IVA de ventas posteriores."
+    }
+  ]
+}

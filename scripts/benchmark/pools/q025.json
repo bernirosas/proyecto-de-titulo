@@ -1,0 +1,998 @@
+{
+  "query_id": "q025",
+  "query_text": "Tercería de dominio sobre inmueble embargado en juicio ejecutivo",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 39.02867,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 32.38233,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 30.695442,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 29.246012,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 28.357895,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 27.664816,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 25.31271,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "5f8a373c-d852-584e-ae9a-47af6c9bee41",
+        "score": 22.832016,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "f408c047-efcd-5323-be63-7ee976ee2ea1",
+        "score": 20.353657,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9fc0f86b-2dc6-59a2-be89-2d7df119796c",
+        "score": 19.699076,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 1.3261719,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 1.1665039,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 1.1135254,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+        "score": 1.0221558,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+        "score": 0.98706055,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "37e1eb4a-5ee7-5237-969f-c614612519be",
+        "score": 0.9658203,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.9645996,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.9399414,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "af67b610-6599-59d5-9244-ff83c21350c7",
+        "score": 0.93725586,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "af3e0e0c-7676-57b2-9154-e26218c30d5a",
+        "score": 0.92907715,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 22.748325,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 22.45945,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 22.27353,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f408c047-efcd-5323-be63-7ee976ee2ea1",
+        "score": 21.29118,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 20.145725,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e41d28e4-1a7c-51a2-a504-717ec9bf2dbc",
+        "score": 20.137447,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+        "score": 20.017637,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "c0455cfb-5e07-58ef-a0d6-efe2f6b939f5",
+        "score": 19.52492,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 19.480566,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f9549ea2-736b-5241-9d7c-39ee60ee3b48",
+        "score": 19.27351,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 45.712646,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 39.12955,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 38.126404,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 36.18213,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 35.345432,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 31.467222,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 26.713125,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 24.193394,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "f5233c59-9d26-530a-bf1c-4e5fdd3fba53",
+        "score": 22.213905,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b26a9ce1-cb4f-5e31-9c0f-4e841add9154",
+        "score": 21.843393,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 1.6049805,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 0.998291,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.95581055,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 0.9394531,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.92944336,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 0.9067383,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 0.8588867,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+        "score": 0.6912842,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4ef99666-e602-5cf6-9621-4b04e6343c14",
+        "score": 0.68652344,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "12916613-4cb9-591a-a6b3-8e646cfa1c18",
+        "score": 0.6816406,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 27.866104,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 25.611536,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 23.549446,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 23.064762,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 20.0476,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 20.00674,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 19.66188,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a0373fd6-1851-5be8-bba3-fae3ca2eac6a",
+        "score": 18.499298,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "f408c047-efcd-5323-be63-7ee976ee2ea1",
+        "score": 18.049572,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 16.695381,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 1.4145508,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 1.2963867,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 1.2050781,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 1.1557617,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 0.9145508,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e019584c-e829-5686-84fd-80c7113f2200",
+        "score": 0.86987305,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7cf944b8-021a-57f6-9890-c72684751348",
+        "score": 0.86279297,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 0.85961914,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "12916613-4cb9-591a-a6b3-8e646cfa1c18",
+        "score": 0.85058594,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b26a9ce1-cb4f-5e31-9c0f-4e841add9154",
+        "score": 0.8364258,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 12.5625,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 11.359375,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 10.921875,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 10.746094,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 10.082031,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 9.886719,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 9.8515625,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "f12cf222-69b4-5a6b-88bc-d1b8b71534c1",
+        "score": 9.785156,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "06d57207-73ef-5832-b241-29d56f4ff743",
+        "score": 9.769531,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7ea21efd-9e23-5d68-9685-ae1da69d04a5",
+        "score": 9.6875,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "650b651c-e64f-54b8-a7b2-3e6f9c9a06ed",
+        "score": 0.0251414204902577,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+        "score": 0.022048192771084336,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 0.01639344262295082,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.016129032258064516,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.015873015873015872,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 0.015625,
+        "rank": 6
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+        "score": 0.027673192771084338,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f408c047-efcd-5323-be63-7ee976ee2ea1",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+        "score": 0.023952954675846242,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+        "score": 0.015625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.015384615384615385,
+        "rank": 6
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+        "score": 0.021572002294893863,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "650b651c-e64f-54b8-a7b2-3e6f9c9a06ed",
+        "score": 0.0238230289279637,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 8.9,
+    "p1_tfidf": 9.9,
+    "p1_splade": 147.3,
+    "p2_bm25": 8.8,
+    "p2_tfidf": 7.9,
+    "p3_bm25": 5.6,
+    "p3_tfidf": 7.5,
+    "baseline_qdrant_bm25": 7.3,
+    "rrf_p1_bm25": 63.9,
+    "rrf_p1_tfidf": 54.2,
+    "rrf_p1_splade": 143.2,
+    "rrf_p2_bm25": 61.4,
+    "rrf_p2_tfidf": 75.2,
+    "rrf_p3_bm25": 62.7,
+    "rrf_p3_tfidf": 57.3,
+    "rrf_baseline_qdrant_bm25": 54.1
+  },
+  "pool": [
+    {
+      "name": "Artículo 467",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "6862435f-aa95-5892-b68d-82fc0c681c9f",
+      "chunk_uuid": "e019584c-e829-5686-84fd-80c7113f2200",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767980",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 467|Art. 467. (489). El ejecutante podrá sólo dentro del plazo de cuatro días que concede el inciso 1° del artículo anterior, desistirse de la demanda ejecutiva, con reserva de su derecho para entablar acción ordinaria sobre los mismos puntos que han sido materia de aquélla. Por el desistimiento perderá el derecho para deducir nueva acción ejecutiva, y quedarán ipso facto sin valor el embargo y demás resoluciones dictadas. Responderá el ejecutante de los perjuicios que se hayan causado con la demanda ejecutiva, salvo lo que se resuelva en el juicio ordinario."
+    },
+    {
+      "name": "Artículo 525",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "55fc3932-c0c5-5d8f-89bf-a2d658eec2cf",
+      "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768030",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 525|Art. 525. (547). Si la tercería es de prelación, seguirá el procedimiento de apremio hasta que quede terminada la realización de los bienes embargados. Verificado el remate, el tribunal mandará consignar su producto hasta que recaiga sentencia firme en la tercería."
+    },
+    {
+      "name": "Oficio N°33 (04/01/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°33 (04/01/2022)",
+      "document_id": "74dc5bc9-35f1-54f2-9841-32114393371f",
+      "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=33-04%2F01%2F2022.pdf&extension=pdf&acc=download&id=a96b4974-4563-4ac0-8f65-eb19ead0aa30&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, Nº 8 LETRA B) Y ART. 20 Nº 5 \n– DFL Nº 2 DE 1959 \n \n(ORD. N° 33 DE 04.01.2022) \n \nEnajenación de un bien raíz acogido al Decreto con Fuerza de Ley N° 2 de 1959, sobre plan \nhabitacional.  \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación del mayor valor obtenido en la \nenajenación de un inmueble acogido al Decreto con Fuerza de Ley N° 2 de 1959, sobre plan \nhabitacional.  \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, en 2013 una persona adquirió el dominio de un departamento ubicado \nen Lo Prado, en virtud de los derechos que le correspondían en calidad de heredero del antiguo dueño y \nmediante la cesión de los derechos que sobre el inmueble correspondían a los demás herederos. Dicho \ndepartamento se encuentra acogido a los beneficios tributarios del Decreto con Fuerza de Ley N° 2 de \n1959, sobre plan habitacional (DFL 2)1.  \nIndica que pretende enajenar el departamento para comprar otro inmueble, consultando:  \n1) \nSi debe pagar impuestos al vender, considerando que con lo obtenido comprará otro inmueble, \ndonde actualmente vive, antes de cumplirse el plazo de 1 año que señala la letra b) del N° 8 del \nartículo 17 de la Ley sobre Impuesto a la Renta (LIR); y,  \n2) \nSi debe declarar como renta el saldo que quede luego de comprar el inmueble, en circunstancias \nde que no sería contribuyente.  \nII  \nANÁLISIS  \nSupuesto que la apertura de la sucesión por causa de muerte se verificó con posterioridad al 1 de enero \nde 20042 y que la totalidad de los derechos sobre el inmueble fueron adquiridos en 20133, conforme la \nlegislación vigente, el mayor valor obtenido en la enajenación de un inmueble efectuada por una \npersona natural que no ha asignado el inmueble a su empresa individual se sujeta a lo dispuesto en la \nletra b) del N° 8 del artículo 17 de la LIR4, en tanto haya transcurrido más de un año entre la adquisición \ny posterior enajenación del inmueble5.  \nEn caso de concurrir los requisitos legales, se considerará ingreso no renta el valor obtenido en la \nenajenación, hasta el monto del costo tributario del inmueble6. Luego, del valor que exceda del costo \ntributario, se considerará ingreso no renta hasta la suma de 8.000 unidades de fomento7.  \nDe esta manera, y en lo relevante para la consulta, solo el exceso sobre las mencionadas 8.000 U.F. \ntributará con Impuesto Global Complementario (IGC) o con un impuesto único y sustitutivo de tasa \n10%, a elección del enajenante, en ambos casos en base a renta percibida8.   \nContra el impuesto determinado conforme al artículo 17 N° 8 de la LIR, se podrá deducir como crédito \nel monto pagado por el enajenante, respecto del inmueble, con motivo del impuesto sobre las \nasignaciones por causa de muerte, en la proporción que corresponda9.  \n          \n1 Cuyo texto definitivo fue fijado mediante Decreto N° 1.101, del Ministerio de Hacienda, de 1960.  \n2 En caso de que la apertura de la sucesión hubiese ocurrido con anterioridad al año 2004, las instrucciones sobre la materia se pueden revisar \nen el apartado 4.6.3.7. del N° 4 del Título II de la Circular N° 43 de 2021. \n3 Tanto los derechos que adquirió por sucesión por causa de muerte como los que adquirió por cesión de los demás herederos \n4 Que se trate de bienes inmue"
+    },
+    {
+      "name": "Artículo 519",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "4bfee370-dff5-53df-a055-551f0dffe489",
+      "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768026",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 519|Art. 519. (541). Se substanciará en la forma establecida para las tercerías de dominio la oposición que se funde en el derecho del comunero sobre la cosa embargada. Se tramitará como incidente la reclamación del ejecutado para que se excluya del embargo alguno de los bienes a que se refiere el artículo 445."
+    },
+    {
+      "name": "Artículo 520",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "30e3731d-a218-58ce-b9db-d1b2e967a70c",
+      "chunk_uuid": "a0373fd6-1851-5be8-bba3-fae3ca2eac6a",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768027",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 520|Art. 520. (542). Podrán también ventilarse conforme al procedimiento de las tercerías los derechos que haga valer el ejecutado invocando una calidad diversa de aquella en que se le ejecuta. Tales serían, por ejemplo, los casos siguientes: 1°. El del heredero a quien se ejecute en este carácter para el pago de las deudas hereditarias o testamentarias de otra persona cuya herencia no haya aceptado; 2°. El de aquél que, sucediendo por derecho de representación, ha repudiado la herencia de la persona a quien representa y es perseguido por el acreedor de ésta; 3°. El del heredero que reclame del embargo de sus bienes propios efectuado por acción de acreedores hereditarios o testamentarios que hayan hecho valer el beneficio de separación de que trata el Título XII del Libro III del Código Civil, y no traten de pagarse del saldo a que se refiere el artículo 1383 del mismo Código. Al mismo procedimiento se sujetará la oposición cuando se deduzca por los acreedores personales del heredero; y 4°. El del heredero beneficiario cuyos bienes personales sean embargados por deudas de la herencia, cuando esté ejerciendo judicialmente alguno de los derechos que conceden los artículos 1261 a 1263 inclusive del Código Civil. El ejecutado podrá, sin embargo, hacer valer su derecho en estos casos por medio de la excepción que corresponda contra la acción ejecutiva, si a ello ha lugar."
+    },
+    {
+      "name": "Circular N°20 (04/04/2014)",
+      "source_type": "circular",
+      "source": "Circular N°20 (04/04/2014)",
+      "document_id": "c4174bc5-5064-5d7e-b72a-7dc8ed0742d0",
+      "chunk_uuid": "37e1eb4a-5ee7-5237-969f-c614612519be",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2014/circu20.pdf",
+      "content": " comparten el \ndominio de un inmueble en porcentajes perfectamente establecidos en el \nTítulo de dominio de éste. \n \nEn estos casos, la Ley 20.732 dispone la proporcionalidad de la siguiente \nforma: el importe anual de impuesto territorial que corresponda al inmueble \nrespectivo se dividirá en función del porcentaje de derechos o cuotas que \ncada uno de los cónyuges tenga en el inmueble referido. La parte de dicho \nimporte anual que corresponda asignar al cónyuge cuyos ingresos no \nsuperen el límite referido, no podrá superar el cinco por ciento de sus \ningresos anuales. Aquella parte que supere dicho monto, deberá ser \nrebajada de la cuota anual de impuesto territorial correspondiente al \ninmueble beneficiado. \n \nEstas mismas reglas de proporcionalidad, se aplican al cónyuge \nsobreviviente que habite el inmueble respectivo, ya sea que lo posea a título \nde usufructuario o de comunero, en conjunto con su hijo o hijos de 24 años \nde edad o mayores, en la medida que cumpla con los requisitos \nprecedentes, sin que sea aplicable la antigüedad de dos años establecida \nen el N° 3 del artículo 1. \n \n \n \n\n\n8. Vigencia de aplicación del beneficio \n \nDe acuerdo a lo establecido en el Artículo Transitorio de la Ley 20.732, el \nbeneficio que se establece en el artículo 1° de dicha ley, se aplicará a las \ncuotas de impuesto territorial que se giren desde el semestre siguiente al de \nsu entrada en vigencia, con todo, si dicha ley tiene vigencia con anterioridad \nal 30 de mayo de 2014, para el impuesto territorial que se devengue el año \n2014, la rebaja establecida en esta ley regirá respecto de la primera y \nsegunda cuota del impuesto territorial de dicho año, considerando la \ninformación que el Servicio de Impuestos Internos obtuvo en la Operación \nRenta 2013. En este caso, y para los efectos de cumplir con el requisito \nestablecido en el número 5 del artículo 1° de esta ley, se considerará el \navalúo fiscal del inmueble vigente al 1° de julio de 2013”. \n \nDel tenor de lo señalado, el beneficio dispuesto para aquellas personas que \ncumplan los requisitos que estable la ley, comenzará a aplicarse a partir de \nlas cuotas 1 y 2 del presente año y así, en lo sucesivo. \n \n ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL. \n \n \n \n \n \n \n \n \n \n \n \n \n \nMICHEL JORRATT DE LUIS \n \nDIRECTOR  \n \n \n \n \n \n \n \n \n \n      Distribución \n- Al Boletín \n- A Internet  \n- Diario Oficial (en extracto) \n"
+    },
+    {
+      "name": "Oficio N°922 (30/04/1997)",
+      "source_type": "oficio",
+      "source": "Oficio N°922 (30/04/1997)",
+      "document_id": "893a7b74-e9ca-5660-8675-4b90a28bdb39",
+      "chunk_uuid": "f9549ea2-736b-5241-9d7c-39ee60ee3b48",
+      "chunk_id": 1,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1531.pdf",
+      "content": "a para su gravamen como tal. \n \n \nEn cuanto a la transferencia de dominio del inmueble, el \nocurrente argumenta que el vendedor actuó, en el evento, como \nempresa constructora, afectándose en consecuencia con el \nimpuesto al valor agregado. \n \n \nA su juicio, la calidad de empresa constructora se la habría \notorgado la habitualidad de su actuación para encomendar la \nconstrucción del inmueble, por administración, con ánimo de \nreventa a su subsidiaria. \n \n3.- El impuesto al valor agregado afecta a las ventas y a los \nservicios. \n \n \nEl artículo 2º del Decreto Ley Nº 825, de 1974, define para \nestos efectos a la venta como una transferencia, a título \noneroso, del dominio de bienes corporales muebles o inmuebles, \nhecho por un vendedor habitual de los respectivos bienes que se \nvende. \n \n \nEs vendedor habitual de bienes corporales muebles quien produce \no adquiere esos bienes con ánimo de venderlos. \n \n \nEs vendedor habitual de bienes corporales inmuebles la empresa \nconstructora propietaria de ellos, que se dedica habitualmente \na venderlos, sea que los haya edificado totalmente por sí \nmisma, o que haya encomendado su construcción, en parte, a un \ntercero, para ella. \n \n4.- En la oportunidad que se consulta, la venta de los bienes \nmuebles que incluyen la maquinaria, equipo, accesorios y \nrepuestos necesarios para elaborar un producto del giro de la \nvendedora, habría sido hecha por una sociedad matriz -que \nargumenta su ánimo de reventa en la adquisición de las \nespecies- a la sociedad subsidiaria constituida por ella misma \npara, precisamente, fabricar ese nuevo producto de su giro. \n \n \nEn esas condiciones, y de acuerdo con lo establecido en el \nartículo 2º del Decreto Ley Nº 825, de 1974, en su Nº 3º), esa \noperación ha de calificarse como habitual y procede, en \nconsecuencia, su gravamen con el impuesto al valor agregado. \n \n \nAl mismo propósito, es menester hacer presente que si la \nsociedad \nmatriz \nhubiera \nobtenido \nreembolso \nde \nremanente \nacumulado de crédito fiscal del IVA soportado al importar los \nbienes que se vende en la ocasión cuestionada, como si se \ntratara de especies que hubieran integrado su propio activo \nfijo, la obtención de esa devolución habría sido improcedente, \ny debería dar lugar a la aplicación de las disposiciones \npertinentes del artículo 27º bis del Decreto Ley Nº 825, de \n1974. \n \n \n \n\n\n \n  \n2 \n \n5.- Por otra parte, el encargo de la edificación de la nueva planta \npara la elaboración del señalado producto -por el sistema de \nadministración- en tiempo muy próximo al de constitución de la \nsociedad subsidiaria, lleva a entender que la sociedad matriz \nhabría actuado en la especie como empresa constructora y, por \nlo tanto, del mismo modo que en el caso de los bienes muebles, \na calificar la venta del bien raíz como una operación habitual \nafecta, por consiguiente, al impuesto al valor agregado. \n \n \nLa misma salvedad hecha respecto de los bienes muebles es \nvaledera en este caso, es decir, la eventual obtención de \nreembolso de remanente acumulado de crédito fiscal del impuesto \nal valor agregado soportado al encomendar la construcción de la \nnueva planta que luego se vendió, habría sido improcedente. \n \n \nSaluda a Ud., \n \n \n \n \n \n \n \n \n \n \n \nJAVIER ETCHEBERRY CELHAY        \n \nDIRECTOR        \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMRR/mvp \nDISTRIBUCION \nAL SEÑOR \nMARIO SILVA POBLETE \nMAC IVER 125, PISO 16º. \nSANTIAGO \n- SUBDIRECCION NORMATIVA \n- SECRETARIA DEL DIRECTOR \n- DEPARTAMENTO IMPTOS. INDIRECTOS \n- DEPARTAMENTO ASESORIA JURIDICA \n- OFICINA DE PARTES. \nXXXXXXXXXXXXX\nXXXXXXX\n"
+    },
+    {
+      "name": "Oficio N°778 (15/03/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°778 (15/03/2019)",
+      "document_id": "22bc1200-6960-5a5e-a371-448f6cc3b8be",
+      "chunk_uuid": "af3e0e0c-7676-57b2-9154-e26218c30d5a",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=778-15%2F03%2F2019.pdf&extension=pdf&acc=download&id=4f2e6d2e-0915-4ddc-ad0d-76f7c35a35fd&mediaType=application%2Fpdf",
+      "content": "uye un acto jurídico que individualmente o en conjunto con la fusión \nposterior, puede ser calificado como abuso o simulación, en los términos dispuestos en los \nartículos 4 ter y 4 quáter, ambos del Código Tributario.  \n \n \nDe calificarse como elusiva la operación anterior, solicita precisar si, tras el proceso de \nfusión, el remanente de Crédito Fiscal IVA acumulado en la sociedad absorbida al momento \nde la fusión, pasará a constituir un IVA irrecuperable que, por tanto, podrá ser traspasado \na costo por la continuadora legal. \nLa consulta es realizada al amparo de lo dispuesto en los artículos 6 letra A) N°1 y 26 bis, ambos del \nCódigo Tributario. Atendido el tenor de la presentación, y lo declarado por la propia consultante, se \ntrata de una consulta no vinculante, de acuerdo a lo instruido en el resolutivo 1° de la Resolución \nExenta N°69 de 2016, emitida por este Servicio.  \nII.   \nANÁLISIS \n \n\n\n2 \n \n \nAntes que todo, cabe señalar que, en el caso particular, el análisis del esquema presentado en el \nmarco de la normativa general anti elusiva descansa sobre un presupuesto previo que se debe \naclarar, cual es, si la venta de una cuota de dominio sobre un inmueble o de derechos incorporales \nque recaigan sobre ellos -que la consultante pretende realizar en forma previa a la fusión- se \nencuentra gravada con IVA y si tras el proceso de fusión, el remanente de crédito fiscal IVA \nacumulado en la sociedad absorbida al momento de la fusión, pasará a constituir un IVA \nirrecuperable que podrá ser traspasado a costo por la continuadora legal.  \n \nLo anterior supone despejar en las instancias de fiscalización correspondientes, si la venta de la \ncuota de dominio sobre el inmueble o de derechos incorporales que recaigan sobre ellos se \nencuentra gravada conforme al hecho gravado general “venta”, definido en el artículo 2 N° 1 de la \nLey sobre Impuesto a las Ventas y Servicios, o, en cambio, conforme alguno de los hechos gravados \nespeciales descritos en el artículo 8° de la misma ley.  \n \nEn el primer caso, entre otros requisitos, habrá de determinarse si la parte que vende la cuota de \ndominio sobre el inmueble o de derechos incorporales que recaigan sobre ellos es un “vendedor”, \nen los términos definidos por el artículo 2° N° 3 de la Ley en comento. Esto es, realizada en forma \nhabitual, circunstancia que corresponde sea calificada, a su juicio exclusivo, por el Servicio. \n  \nSe hace presente que para calificar la habitualidad debe estarse a los parámetros establecidos en el \nartículo 4° del Decreto Supremo N° 55 de 1977, de Hacienda, vale decir, determinar si el ánimo que \nguio al contribuyente al adquirir o construir dichos bienes fue usarlos, consumirlos o destinarlos para \nla reventa y, así, establecer si el contribuyente resulta ser habitual en la venta de los mismos, caso \nen el cual la operación se encontraría gravada con IVA. \n \nEn el segundo caso, como se adelantó, habrá de establecerse si la venta consultada puede gravarse \nconforme alguno de los hechos gravados espaciales, en particular, aquel comprendido en el artículo \n8°, letra m) de la misma ley, que grava -en lo pertinente- la “venta” de bienes corporales muebles e \ninmuebles que formen parte del activo inmovilizado de la empresa, siempre que, el contribuyente \nhaya tenido derecho a crédito fiscal por su adquisición, importación, fabricación o construcción.  \nEn consecuencia, y respecto de la primera consulta, en las respectivas instancias de fiscalización \ncorresponderá determinar si la venta que la Inmobiliaria hará a la Clínica, sea de una cuota de \ndominio sobre un inmueble, o de derechos incorporales que reca"
+    },
+    {
+      "name": "Oficio N°2599 (07/12/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°2599 (07/12/2017)",
+      "document_id": "f809e6e9-524f-59ac-9ff0-ea1b94924da9",
+      "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja2599.htm",
+      "content": " hecho y la posesión de la propiedad, gozando tanto de la calidad\nde señor y dueño del inmueble como de su tenencia.\nEn otras palabras, el banco sólo detentaría un “mero dominio formal para respaldar un especial tipo de\nfinanciamiento inmobiliario”. Agrega que se trata de una excepción permitida y autorizada por el Estado, que\nfue asesorada directamente por la SUBDERE, de lo que concluye que la exención del pago de Impuesto\nTerritorial resulta procedente, porque de lo contrario no se aprobaría esta forma de financiamiento de los\nentes públicos.\nFinalmente solicita que, en uso de sus facultades de interpretación contenidas en el N° 1 de la letra A de\nartículo 6° del Código Tributario, se emita un pronunciamiento señalando que el inmueble en comento se\nencuentra exento del Impuesto Territorial.\nII         ANÁLISIS\n\n\nDe acuerdo al Párrafo I, Letra A, N° 2, del Cuadro Anexo de la Ley N° 17.235, están exentas del 100% del\nImpuesto Territorial, entre otras personas jurídicas, las “Municipalidades, excepto en los casos señalados en\nel artículo 27° de la presente ley. En todo caso, dicho artículo no será aplicable a las propiedades municipales\nen las cuales, por razones inherentes a sus cargos, estén obligados a residir funcionarios municipales.”\nAl respecto, y como primera cuestión, es importante resaltar que, reiterando un criterio ya asentado[1], este\nServicio ha señalado que la exención analizada sólo opera respecto de bienes que sean de “propiedad o\ndominio” de las municipalidades[2].\nPor esa razón, y para un caso similar al presente – inmuebles de propiedad de una municipalidad\ntransferidos en leaseback – este Servicio ha resuelto que “en caso de transferirse el dominio o propiedad del\ninmueble a un tercero en el marco de una operación financiera de leaseback, evidentemente la Municipalidad\npierde la exención, aun cuando el inmueble siga materialmente bajo su poder y continúe destinándose al\ncumplimiento de sus fines propios”.[3]\nCabe señalar que en nada afecta la conclusión anterior el hecho que, como se esgrime en la presentación\nformulada por la I. Municipalidad de XXXXX, el dominio actualmente detentado por el banco sea meramente\ntemporal y en garantía de un préstamo, atendido que, conforme a nuestro sistema legal, el “dominio” del\ninmueble ha sido transferido mediante su correspondiente inscripción en el Registro de Propiedad del\nConservador de Bienes Raíces (artículo 686 del Código Civil), sin que pueda admitirse en este caso la\nposibilidad de dos clases o tipos de dominio simultáneos, uno de hecho y otro de derecho.\nTampoco es relevante el “entendimiento” que hayan tenido las partes ni las cláusulas contractuales respecto\nde normas tributarias de Derecho Público, sin perjuicio que, como este Servicio ha señalado en base al\nartículo 25 de la Ley sobre Impuesto Territorial, si bien los arrendatarios pueden resultar obligados al pago del\nimpuesto, quedan autorizados para deducir la suma respectiva de los cánones de arrendamiento. Luego, las\npartes pueden determinar contractualmente cuál de ellas, y en qué casos, deba soportar económicamente el\nimpuesto[4].\nEn consecuencia, no existiendo nuevos elementos de análisis, no es posible variar el criterio histórico de este\nServicio ni interpretar la exención de modo diverso.\nNo obstante lo anterior, considerando las atribuciones de los Directores Regionales contenidas en el artículo\n6°, Letra B, N° 5, del Código Tributario, los antecedentes de la consulta fueron remitidos al Director Regional\nde la V Dirección Regional Valparaíso, con la finalidad que revisara la situación tributaria del inmueble en\ncomento. Como conclusión del análisis realizado por el Departamento de Avaluaciones competente, se\nemitieron las Resoluciones N° xxxx y N° xxxxx, ambas de 31."
+    },
+    {
+      "name": "Oficio N°492 (09/03/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°492 (09/03/2020)",
+      "document_id": "1494919f-cb6e-5492-9ffb-61c62f7d90da",
+      "chunk_uuid": "af67b610-6599-59d5-9244-ff83c21350c7",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=492-09%2F03%2F2020.pdf&extension=pdf&acc=download&id=90026f93-e0b7-4ec3-a6a1-5c4bcb7f829c&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO –  ART. 2, N° 1 Y N° 3; ART. 8, LETRA M) \n (ORD. N° 492, DE 09-03-2020) \n \n \n \n \n \n \n \n \n \n \n \n \n \nSolicita un pronunciamiento sobre tributación del vendedor en compraventa de inmueble. \n \nSe ha solicitado a esta Dirección Nacional, un pronunciamiento sobre la tributación que pudiera \nafectar a la parte vendedora, en la compraventa de un inmueble ubicado en la comuna de \nSantiago. \nI.-   ANTECEDENTES: \nSeñala que la compraventa del inmueble se efectuará entre las personas jurídicas XXXXX, como \nparte vendedora, y ZZZZZ, como compradora, a nombre de la cual realiza la presentación. \nEl inmueble objeto de la futura compraventa fue adquirido con fecha 16 de septiembre de 1997, \nsegún consta en escritura pública de Compraventa, Mutuo e Hipoteca de la misma fecha, otorgada \nen la YYYYY Notaría de Santiago, registrada en el RRRRR, e inscrito en el Conservador de \nBienes Raíces de Santiago, a fojas SSSSS, del mismo año. \nEl inmueble a la fecha de su adquisición por XXXXX, constaba del terreno y un par de \nconstrucciones destinadas a bodegas. La sociedad luego de la adquisición, construyó edificaciones \nsólidas destinadas a oficinas de la empresa, que subsisten hasta hoy. \nLas construcciones efectuadas por la compradora, posteriores a la fecha de adquisición del \ninmueble, fueron concluidas definitivamente en el año calendario 2005, ejercicio en el que se \nincorporó el inmueble como Activo Fijo Físico de XXXXX, bajo la cuenta contable “Bienes \nRaíces”, registro que incluye el valor de compra del inmueble según la respectiva escritura, más el \nvalor neto de las construcciones levantadas posteriormente. \nLa incorporación contable del inmueble y sus construcciones posteriores se han mantenido en \ncalidad de Activo Fijo Físico, bajo la cuenta denominada “Bienes Raíces”. \nSe solicita dictaminar si se encontraría afecto al Impuesto al Valor Agregado, el valor de la \ncompraventa del inmueble, que se efectuará próximamente entre los contribuyentes \nindividualizados, para cuyos efectos acompaña los antecedentes mencionados en su presentación. \n \nII.- \nANALISIS: \nLa Ley N° 20.780 de 29 de septiembre de 2014, modificó los N°s. 1 y 3 del artículo segundo del \nDecreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, estableciendo que a contar \ndel 1° de enero de 2016, salvo que la naturaleza del texto implique otros significados, se \nentenderá: \n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva \npara transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales \ninmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos \nreales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o \nque la presente ley equipare a venta (…). \n3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e \ninmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio \nde Impuestos Internos calificar la habitualidad (…)”. \nPara fines de calificar la habitualidad, el artículo 4° del D.S. N° 55, de 1997, Reglamento de la \nLey, establece que el Servicio de Impuestos Internos considerará la naturaleza, cantidad y \nfrecuencia con que el vendedor realice las ventas de los bienes"
+    },
+    {
+      "name": "Oficio N°1768 (08/08/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1768 (08/08/2017)",
+      "document_id": "94751db8-928b-5f45-b67f-760ed8ad2fef",
+      "chunk_uuid": "c0455cfb-5e07-58ef-a0d6-efe2f6b939f5",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1768.htm",
+      "content": " no existen pronunciamientos\nanteriores en este sentido, razón por la cual se remiten los antecedentes solicitando un pronunciamiento.\nPor último, hace presente que el contribuyente solicita pronunciamiento respecto de la exención de IVA de las\nventas realizadas a través de los proyectos “Farmacia Popular” y “Óptica Popular” y sin embargo sólo\nacompaña un estudio en derecho realizado para el programa “Óptica Popular” señalando las razones por las\ncuales las ventas de lentes realizadas por la municipalidad se encontrarían exentas del pago del IVA.  Sin\nperjuicio de lo anterior, estima esa Dirección Regional que las circunstancias y el hecho gravado es similar,\npor lo que los argumentos vertidos se aplicarían para ambos proyectos.\n          \nII.-  ANÁLISIS:        \nEl Art. 8°, del D.L. N° 825, de 1974, grava con Impuesto al Valor Agregado, las ventas y los servicios y el Art.\n2°, N° 1, define como venta, en lo pertinente a: “toda convención independiente de la designación que le den\nlas partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles (…) como,\nasimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta” y como\n“vendedor” a cualquiera persona natural o jurídica, inclu­yendo las comunidades y las sociedades de hecho,\nque se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de su\npropia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar, a su\njuicio exclusivo, la habitualidad.\nPor otra parte, el artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios señala que son\ncontribuyentes, para los efectos de dicha Ley, las personas naturales o jurídicas, incluyendo las comunidades\ny las sociedades de hecho, que realicen ventas, que presten servicios o efectúen cualquier otra operación\ngravada con los impuestos establecidos en ella, y el artículo 6° indica: “Los impuestos de la presente Ley\nafectarán también al Fisco, instituciones semi-fiscales, organismo de administración autónoma, municipales y\na las empresas de todos ellos, o en que ellos tengan participación, aun en los casos en que las leyes por que\nse rijan los eximan de toda clase de impuestos o contribuciones, presentes o futuros”.\nComo puede apreciarse, la calidad de vendedor afecto a IVA no se encuentra relacionada con la calidad de\ncomerciante sino con la habitualidad con que una persona realice una determinada operación, lo que se\ntraduce en desentrañar si quien adquirió los bienes lo hizo con el ánimo de revenderlos, para lo cual la ley\nentrega elementos objetivos tendientes a revelar dicha motivación.\nEn efecto, el artículo 4° del D.S. N° 55, del Ministerio de Hacienda, de 1977, Reglamento del IVA, estipula\nque “Para calificar la habitualidad a que se refiere el N° 3 del artículo 2° de la ley, el Servicio considerará la\nnaturaleza, cantidad y frecuencia con que el vendedor realice las ventas de los bienes corporales muebles de\n\n\nque se trate, y con estos antecedentes determinará si el ánimo que guio al contribuyente fue adquirirlos para\nsu uso, consumo o para la reventa”.\nEstablecido el hecho de que la venta de lentes o medicamentos analizada es realizada por un vendedor\nhabitual, corresponde determinar si existe alguna exención que la favorezca.\nSobre el particular, el artículo 13º, Nº 6, del D.L. Nº 825, de 1974, exime del Impuesto al Valor Agregado, por\nlos servicios que presten a terceros, entre otros, al Servicio Médico Nacional de Empleados y al Servicio\nNacional de Salud, los cuales deben entenderse referidos actualmente al Fondo Nacional de Salud y a los\nServicios de Salud, respectivamente, por cuanto éstos últimos organismos han sido declarados\ncontinu"
+    },
+    {
+      "name": "Artículo 527",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "69ca61c5-3760-57fd-9d0f-77a6450a9606",
+      "chunk_uuid": "b26a9ce1-cb4f-5e31-9c0f-4e841add9154",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768032",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 527|Art. 527. (549). Si no teniendo el deudor otros bienes que los embargados, no alcanzan a cubrirse con ellos los créditos del ejecutante y del tercerista, ni se justifica derecho preferente para el pago, se distribuirá el producto de los bienes entre ambos acreedores, proporcionalmente al monto de los créditos ejecutivos que hagan valer."
+    },
+    {
+      "name": "Circular N°43 (09/07/1988)",
+      "source_type": "circular",
+      "source": "Circular N°43 (09/07/1988)",
+      "document_id": "b6fdd931-d268-53a4-9714-1735789953df",
+      "chunk_uuid": "9fc0f86b-2dc6-59a2-be89-2d7df119796c",
+      "chunk_id": 12,
+      "url": "https://www.sii.cl/documentos/circulares/1988/circu43.pdf",
+      "content": " que adolezca la ra convención, dentro de los diez días siguientes a la fecha de no - tificación de la resolución que haya acogido la excepción. Si así no lo hiciere, se tendrá par no presentada la reconvención para todos los efectos, por el solo ministerio de la ley.\n11.3.- Se sustituye el artículo 327, para señalar que dentro del término probatorio deberán las partes solicitar toda diligencia de prueba que no hubieren pedido antes. Esta meteria se analizó en la parte I de asta Circular.\n11.4.- 5e sustituye el inciso primero del artículo 348, para establecer- qua la prueba instrumental solo puede presentarse hasta el venci- miento del término probatorio. Esta modificación está tratada en la parte I de esta Circular.\n11.5.- Se reemplazan los incisos segundo y tercero dei artículo 385, у - se prescribe que la absolución de posiciones sólo puede solici tarse hasta el vancimiento del término probatorio, en prineta instancia y hasta antes de la vista de la causa, en segunda. Este derecho sólo puede ejercerse por dos veces en primera instancia, y una vez en segunda.\n11.6.- Se sustituye el artículo 412 para limitar la oportunidad del re - conocimiento de peritos hasta el vencimiento del término probato- rio.\n11.7.- Las modificaciongs al artículo 431 tienen por objeto establecer - que no será motivo para suspender el curso del juicio, ni obs\ntáculo para la dictación del fallo, el hecho de no haberse de vuelto la prueba rendida fuera del tribunal o al no haberse prac ticado alguna otra diligencia probatoria pendiente.\n11.8,- Se modifica el artículo 432 para concordarlo con la modifica ción del 433, disponiendo que el Tribunal citará a las partes a oir sentencia, existan o nó diligencias pendientes,\n11.9.- Se agraga un inciso segundo al artículo 433, par el cual se esta blece que los plazos determinados para objetar las copias de los instrumentos públicos (art. 342 N№ 3), para alegar su falsedad (art. 346 N№ 3), o para exigir traducción revisada por perito (art. 347), que hubiera comenzado a correr al tiempo de la cita- ción para oir sentencia, continuarán corriendo sin interrupción- y la parte podrá, dentro de ellos, ajercer su derecho a impugna- ción. Esta se tramitará en cuaderno saparado y se fallach en la- sentencia definitiva.\n12.- Juicios especiales.\n12.1.- En el artículo 469, relativo al término probatorio en el juicio- ajecutivo, y dadn que la prueba en estos juicios se cinde del miamo modo que en el juicio ordinario, se sustituye la frase fi- nal \"se alevarán los autos al tribunal para dicter sentencia\" por \"el tribunal citará a las partes para oir sentencia\".\n12.2.- Se modifica el incisa 2º del artículo 491, en al sentido que, en el juicio ejecutivo, las condiciones para la subasta o remate se propondrán por el ejecutante, con citación de la parte contra ria. La oposición que se formule deberá ser resuelta de plano : por el tribunal, consultando la mayor facilidad y el mejor resul tado en la enajenación.\n12.3.- Se reemplazan los artículos 518, 521 y 522, reвpectivamente, le- gislando la tercería de posesión conforma se ha entendido por la jurisprudencia.\nCon ello se quiere dar consagración legal y fijar la tramitación de la tercería de posesión y es pratenda así resol var los problemas que se han plantgado en la práctica y que sol causa fracuente de dilaciones injustificadas en el juicio eje tivo.\n12.4.- En relación a los interdictos o Juicios posesorios sumaring, 50- roemplaza el artículo 56l estableciéndose que, concluída la au - diencia de prueba, el tribunal en el mismo acto citará a las partes para oir sentencia, la que deberá dictar da inmediato o, a lo más, en el plazo de los tres días subsiguientes,\n12.5.- Con respecto"
+    },
+    {
+      "name": "Oficio N°2127 (12/10/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°2127 (12/10/2018)",
+      "document_id": "817b98f2-1c54-5b2c-8f90-7b352ce80c5f",
+      "chunk_uuid": "f12cf222-69b4-5a6b-88bc-d1b8b71534c1",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja2127.htm",
+      "content": "ende sin que medie algún tipo de construcción, ya\nsea en carácter de obras adicionales, complementarias, ampliaciones, terminaciones o remodelaciones, no\nqueda afecto al Impuesto al Valor Agregado, tal es el caso de las inmobiliarias cuando se limitan a comprar y\nvender propiedades o encargar mediante la celebración de uno o más contratos generales de construcción,\nla construcción total de un inmueble para su venta, circunstancia en la cual se habría encontrado el\ncontribuyente en análisis.\nLo expuesto se fundamentaba en que el D.L. N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios,\nen su artículo 2°, N° 1, definía “venta” como “toda convención independiente de la designación que le den las\npartes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales\ninmuebles de propiedad de una empresa constructora construidos totalmente por ella o que en parte\nhayan sido construidos por un tercero para ella, de una cuota de dominio sobre dichos bienes o de\nderechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o\nque la presente ley equipare a venta”; y que, a su vez, definía el concepto de “vendedor” en su artículo 2°, N°\n3, como “cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se\ndedique en forma habitual a la venta de bienes corporales muebles, sean ellos de su propia producción o\nadquiridos de terceros. Asimismo, se considerará \"vendedor\" la empresa constructora, entendiéndose\npor tal a cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho,\n\n\nque se dedique en forma habitual a la venta de bienes corporales inmuebles de su propiedad,\nconstruidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella.\nCorresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad”.\nComo se puede apreciar, en lo fundamental, sólo estaban afectas al Impuesto al Valor Agregado (IVA) las\nventas de bienes corporales inmuebles efectuadas por una “empresa constructora”. Las ventas de inmuebles\nefectuadas por personas que no tuvieran la calidad de empresa constructora, no se encontraban afectas a\nese gravamen, tal como se concluye en el oficio referido precedentemente.\nAhora bien, las Leyes N° 20.780 y 20.899, modificaron el Decreto Ley N° 825, de 1974, sobre Impuesto a las\nVentas y Servicios, respecto de la aplicación del Impuesto al Valor Agregado (IVA) en la enajenación de\ninmuebles.\nAsí, se modificaron los conceptos de “venta” y “vendedor” establecidos en los señalados N° 1 y 3 del artículo\n2° del D.L. N° 825, de 1974, quedando éstos del siguiente tenor:\n“Artículo 2°. - Para efectos de esta Ley, salvo que la naturaleza del texto implique otros significados, se\nentenderá:\n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles,\nexcluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos\nsobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare\na venta (…)\n3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades\nde hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles,\nsean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos\nInternos calificar, a su juicio exclusivo, la habitualidad (…)”.\nComo ha señalado este Servicio[1], con las modificaciones que"
+    },
+    {
+      "name": "Artículo 481",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "9216bd34-8194-5f1d-ab67-28bb49828436",
+      "chunk_uuid": "4ef99666-e602-5cf6-9621-4b04e6343c14",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767991",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 481|Art. 481. (503). Notificada que sea la sentencia de remate, se procederá a la venta de los bienes embargados, de conformidad a los artículos siguientes."
+    },
+    {
+      "name": "Artículo 456",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "5414f2b6-2a0c-54fd-9d94-714c5b635dc6",
+      "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767971",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 456|Art. 456. (478). Puede el acreedor pedir ampliación del embargo en cualquier estado del juicio, siempre que haya justo motivo para temer que los bienes embargados no basten para cubrir la deuda y las costas. El haber recaído el embargo sobre bienes difíciles de realizar, será siempre justo motivo para la ampliación. Lo será también la introducción de cualquier tercería sobre los bienes embargados. Pedida la ampliación después de la sentencia definitiva, no será necesario el pronunciamiento de nueva sentencia para comprender en la realización los bienes agregados al embargo."
+    },
+    {
+      "name": "Artículo 478",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "b2f1c4cd-8e87-588a-a011-e490ba4fc5de",
+      "chunk_uuid": "12916613-4cb9-591a-a6b3-8e646cfa1c18",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767565",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 478|Art. 478. (500). La sentencia recaída en el juicio ejecutivo produce cosa juzgada en el juicio ordinario, tanto respecto del ejecutante como del ejecutado. Con todo, si antes de dictarse sentencia en el juicio ejecutivo, el actor o el procesado piden que se les reserven para el ordinario sus acciones o excepciones, podrá el tribunal declararlo así, existiendo motivos calificados. Siempre se concederá la reserva respecto de las acciones y excepciones que no se refieran a la existencia de la obligación misma que ha sido objeto de la ejecución. En los casos del inciso precedente, la demanda ordinaria deberá interponerse dentro del plazo que señala el artículo 474, bajo pena de no ser admitida después."
+    },
+    {
+      "name": "Artículo 526",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "621db38b-4037-5bb6-a67f-020fcdf09edb",
+      "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768031",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 526|Art. 526. (548). Si se han embargado o se embargan bienes no comprendidos en la tercería, seguirá sin restricción alguna respecto de ellos el procedimiento de apremio."
+    },
+    {
+      "name": "Artículo 174",
+      "source_type": "ley",
+      "source": "CODIGO ORGANICO DE TRIBUNALES",
+      "document_id": "7e4ef1d6-7894-52a9-922a-b75e3ba76c0d",
+      "chunk_uuid": "7ea21efd-9e23-5d68-9685-ae1da69d04a5",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=25563&idParte=9783105",
+      "content": "Código ORGÁNICO DE TRIBUNALES CODIGO ORGANICO DE TRIBUNALES,TITULO VII La Competencia,§ 6. Reglas sobre competencia civil de los tribunales en lo criminal,Artículo 174|Art. 174. Si contra la acción penal se pusieren excepciones de carácter civil concernientes al dominio o a otro derecho real sobre inmuebles, podrá suspenderse el juicio criminal, cuando dichas excepciones aparecieren revestidas de fundamento plausible y de su aceptación, por la sentencia que sobre ellas recaiga, hubiere de desaparecer el delito. El conocimiento de esas excepciones corresponde al tribunal en lo civil."
+    },
+    {
+      "name": "Oficio N°1760 (21/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1760 (21/08/2020)",
+      "document_id": "ef912bd1-1236-5c6e-bf2c-fbb02c4b7175",
+      "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1760-21%2F08%2F2020.pdf&extension=pdf&acc=download&id=13cca0f6-44c9-44ae-bf61-4ccf3fc452a7&mediaType=application%2Fpdf",
+      "content": " de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), \nincorpora dentro del concepto de “venta” toda convención independiente de la designación que le den \nlas partes que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes \ncorporales inmuebles construidos, de una cuota de dominio sobre dichos bienes o de derechos reales \nconstituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la \nmisma ley equipare a venta. A su vez, el artículo 8°, letra m), de la LIVS, grava con IVA, entre otras \nhipótesis, la venta de bienes corporales inmuebles que formen parte del activo inmovilizado de la \nempresa, excluido el valor del terreno, siempre que el contribuyente haya tenido derecho a crédito \nfiscal, en su adquisición o construcción.  \nEn la medida que, de acuerdo a su presentación, la sociedad transferirá a sus socios personas jurídicas el \ninmueble de su propiedad – que forma parte del activo fijo – como pago o distribución de dividendos, \ndicho acto constituirá una venta gravada con IVA de conformidad con la letra m) del artículo 8°, en \nconcordancia con el N° 1, del artículo 2°, ambos de la LIVS, por tratarse de la transferencia de dominio \na título oneroso de un inmueble construido que forma parte del activo fijo de la empresa, respecto del \ncual la empresa tuvo derecho a crédito fiscal en su adquisición. \nIII \nCONCLUSION \nConforme a lo expuesto precedentemente, y respondiendo las consultas planteadas, se informa lo \nsiguiente:  \n1) \nLa transferencia en dominio de un inmueble del activo fijo de una sociedad, efectuada en pago de \ndividendos, se efectúa al valor que acuerden las partes, sin perjuicio de la facultad del Servicio de \ntasar el precio de la operación conforme a lo dispuesto en el artículo 64 del Código Tributario.  \n\n\n3 \n \n2) \nPara acreditar el monto de la enajenación el contribuyente podrá utilizar todos los medios de \nprueba, entre ellos, las tasaciones y publicaciones indicadas en el Análisis.  \n3) \nLa sociedad enajenante deberá rebajar de los registros tributarios de las rentas empresariales que \ncorresponda, regulados en el número 2 de la letra A) del artículo 14 de la LIR, el valor de \nenajenación del activo.  \n4) \nEn el presente caso, la trasferencia de dominio de un inmueble construido que forma parte del \nactivo fijo de la empresa, efectuada en pago de dividendos, se encuentra gravada con IVA de \nconformidad con la letra m) del artículo 8° de la LIVS.   \nSaluda a usted, \n \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \n \n \nOficio N° 1760 del 21-08-2020 \nSubdirección Normativa \nDepto. de Impuesto Indirectos \n"
+    },
+    {
+      "name": "Oficio N°2102 (22/09/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°2102 (22/09/2017)",
+      "document_id": "d2f82e18-1db6-59b8-866c-45e7f1e9b3a4",
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2102.htm",
+      "content": " al Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, respecto de la aplicación\ndel Impuesto al Valor Agregado (IVA) en la enajenación de inmuebles, se modificaron los conceptos de\n“venta” y “vendedor” establecidos en los N° 1 y 3 del artículo 2° del D.L. N° 825, de 1974, quedando éstos del\nsiguiente tenor:\nArtículo 2°. - Para los efectos de esta Ley, salvo que la naturaleza del texto implique otro significado, se\nentenderá:\n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos\nlos terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos,\ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.\n3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de\nhecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de\nsu propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar, a su\njuicio exclusivo, la habitualidad. Para efectos de la venta de inmuebles, se presumirá que existe habitualidad\ncuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo igual o inferior a\n\n\nun año. Con todo no se considerará habitual la enajenación de inmuebles que se efectúe como consecuencia\nde la ejecución de garantías hipotecarias, así como la enajenación posterior de inmuebles adjudicados o\nrecibidos en pago de deudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de\nun plazo determinado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución\njudicial. La transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser\nconsiderada habitual.\nAhora bien, como lo ha señalado este Servicio[1], con las modificaciones que la Ley N° 20.780 hace a los N°\n1 y 3 del artículo 2° del Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, las ventas de\ninmuebles gravadas con IVA, que estaban restringidas exclusivamente a las transferencias de inmuebles de\npropiedad de una empresa constructora construidos por ella, o en parte por un tercero para ella; a contar del\n1° de enero del 2016, se amplían a todas las ventas de inmuebles, sean éstos nuevos o usados, en la\nmedida que sean efectuadas por un vendedor habitual, entendiendo por tal a cualquier persona natural o\njurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta\nde bienes corporales inmuebles, sean ellos de su propia construcción o adquiridos de terceros, con la\nsalvedad referida a las transferencias de terrenos.\nSin perjuicio de lo señalado precedentemente, el artículo séptimo transitorio de la Ley N° 20.780, establece\nuna exención a las ventas de inmuebles que se graven como consecuencia de la modificación que se hace al\nD.L. N° 825, de 1974, norma que fue complementada por la Ley N° 20.899. El referido artículo, en su primera\nparte, establece que se encontrarán exentas del Impuesto al Valor Agregado, las ventas de inmuebles que\ncuenten con el permiso de edificación a que se refiere la Ley General de Urbanismo y Construcción al 01 de\nenero de 2016 y que su venta se realice en el plazo de un año a contar de esa fecha.\nLuego, dando respuesta a su consulta, se encontrará exenta de IVA, la enajenación de inmuebles que se\ngraven como consecuencia de la"
+    },
+    {
+      "name": "Artículo 521",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "fcf2ea0e-1d2f-54fd-9bfd-3001bb272c87",
+      "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767612",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 521|- La tercería de dominio se seguirá en ramo separado con el ejecutante y el ejecutado, por los trámites del juicio ordinario, pero sin escrito de réplica y dúplica. Las tercerías de posesión, de prelación y de pago se tramitarán como incidente. El tercerista tendrá el mismo derecho que el artículo 457 concede al deudor principal."
+    },
+    {
+      "name": "Artículo 453",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "89db5a92-e0e2-5d52-9d5e-f0ae1d7a6400",
+      "chunk_uuid": "e41d28e4-1a7c-51a2-a504-717ec9bf2dbc",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767513",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 453|Art. 453. (475). Si el embargo recae sobre bienes raíces o derechos reales constituidos en ellos, no producirá efecto alguno legal respecto de terceros, sino desde la fecha en que se inscriba en el respectivo registro conservatorio en donde estén situados los inmuebles. El ministro de fe que practique el embargo, requerirá inmediatamente su inscripción y firmará con el conservador respectivo y retirará la diligencia en el plazo de veinticuatro horas."
+    },
+    {
+      "name": "Artículo 454",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "38b378b0-38ea-59f7-a3f0-d0a5917313f1",
+      "chunk_uuid": "f5233c59-9d26-530a-bf1c-4e5fdd3fba53",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767970",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 454|Art. 454. (476). Cuando la cosa embargada se halle en poder de un tercero que se oponga a la entrega alegando el derecho de gozarla a otro título que el de dueño, no se hará alteración en este goce hasta el momento de la enajenación, ejerciendo mientras tanto el depositario sobre la cosa los mismos derechos que ejercía el deudor. Lo cual se entiende sin perjuicio del derecho que corresponda al tenedor de la cosa embargada para seguir gozándola aún después de su enajenación."
+    },
+    {
+      "name": "Artículo 523",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "523338ff-b70f-575d-8e96-01b75b14254e",
+      "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768028",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 523|Art. 523. (545). No se dará curso a la tercería de dominio si no contiene las enunciaciones que indica el artículo 254; ni se suspenderá por su interposición el procedimiento de apremio, salvo que se apoye en instrumento público otorgado con anterioridad a la fecha de la presentación de la demanda ejecutiva. En los demás casos el remate se llevará a cabo, entendiéndose que la subasta recaerá sobre los derechos que el deudor tenga o pretenda tener sobre la cosa embargada. Las resoluciones que se dicten son apelables y la apelación se concederá en el efecto devolutivo."
+    },
+    {
+      "name": "Oficio N°868 (02/04/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°868 (02/04/2019)",
+      "document_id": "ce70593f-02cc-55c0-b699-7827bf7a4944",
+      "chunk_uuid": "06d57207-73ef-5832-b241-29d56f4ff743",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=868-02%2F04%2F2019.pdf&extension=pdf&acc=download&id=125bdc5e-f90f-4861-bfca-07e4f363b75e&mediaType=application%2Fpdf",
+      "content": " referido Decreto Ley. \nEl antiguo texto del D.L. N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, en su \nartículo 2°, N° 1, definía “venta” como “toda convención independiente de la designación que le \nden las partes, que sirva para transferir a título oneroso el dominio de bienes corporales \nmuebles, bienes corporales inmuebles de propiedad de una empresa constructora construidos \ntotalmente por ella o que en parte hayan sido construidos por un tercero para ella, de una cuota \n\n\n2 \n \nde dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, \ntodo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta”; y que, a \nsu vez, definía el concepto de “vendedor” en su artículo 2°, N° 3, como “cualquier persona \nnatural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en \nforma habitual a la venta de bienes corporales muebles, sean ellos de su propia producción o \nadquiridos de terceros. Asimismo, se considerará \"vendedor\" la empresa constructora, \nentendiéndose por tal a cualquier persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales \ninmuebles de su propiedad, construidos totalmente por ella o que en parte hayan sido \nconstruidos por un tercero para ella. Corresponderá al Servicio de Impuestos Internos calificar, a \nsu juicio exclusivo, la habitualidad”. \nComo se puede apreciar, en lo fundamental, sólo estaban afectas al Impuesto al Valor Agregado \n(IVA) las ventas de bienes corporales inmuebles efectuadas por una “empresa constructora”. Las \nventas de inmuebles efectuadas por personas que no tuvieran la calidad de empresa \nconstructora, no se encontraban afectas a ese gravamen, tal como se concluye en el oficio \nreferido precedentemente. \nAhora bien, las Leyes N° 20.780 y 20.899, modificaron el referido Decreto Ley, respecto de la \naplicación del Impuesto al Valor Agregado (IVA) en la enajenación de inmuebles. \nAsí, se modificaron los conceptos de “venta” y “vendedor” establecidos en artículos recién \ncitados, quedando éstos del siguiente tenor: \n“Artículo 2°.- Para efectos de esta Ley, salvo que la naturaleza del texto implique otros \nsignificados, se entenderá: \n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que \nsirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales \ninmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos \nreales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin \no que la presente ley equipare a venta (…) \n3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles \ne inmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al \nServicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad (…)”. \nComo ha señalado este Servicio , con las modificaciones que la Ley N° 20.780 hace a los N° 1 y 3, \ndel artículo 2° en análisis, la aplicación del IVA a las ventas de inmuebles, que estaba restringida \nexclusivamente a las transferencias de inmuebles de propiedad de una empresa constructora \nconstruidos por ella, o en parte por un tercero para ella; a contar del 1° de enero del 2016, se \namplía a todas las ventas de inmuebles, sean éstos nuevos o usados, en la medida que sean \nefectuadas por un vendedor habitual, entendiendo por este último a cualquier persona natural o \njurídica,"
+    },
+    {
+      "name": "Artículo 522",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "4145752e-b241-5403-aab2-b8851137badb",
+      "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767484",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 522|- La interposición de una tercería no suspenderá en caso alguno el procedimiento ejecutivo. El procedimiento de apremio se suspende únicamente en el caso contemplado en el inciso primero del artículo 523 y, tratándose de una tercería de posesión, sólo si se acompañan a ella antecedentes que constituyan a lo menos presunción grave de la posesión que se invoca."
+    },
+    {
+      "name": "Artículo 512",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "e3ee04b1-8018-5606-82be-e40cb10e0bba",
+      "chunk_uuid": "7cf944b8-021a-57f6-9890-c72684751348",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768020",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 512|Art. 512. (534). Si el embargo se ha trabado sobre la especie misma que se demanda, una vez ejecutoriada la sentencia de pago, se ordenará su entrega al ejecutante."
+    },
+    {
+      "name": "Oficio N°2140 (14/07/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2140 (14/07/2022)",
+      "document_id": "f07a5947-e49a-5d79-b765-441b2502a045",
+      "chunk_uuid": "650b651c-e64f-54b8-a7b2-3e6f9c9a06ed",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2140-14%2F07%2F2022.pdf&extension=pdf&acc=download&id=880a874c-1fbc-4a7a-b4f4-6c6e36a3ac05&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 – D.F.L N° 3 DE 1997 DEL \nMINISTERIO DE HACIENDA \n(ORD. N° 2140 DE 14.07.2022). \n \nTributación de rentas de un banco provenientes de la enajenación de un bien raíz. \nSe ha consultado a este Servicio sobre cómo tributa un banco por la enajenación de un inmueble \npreviamente adjudicado en un juicio de cobranza y tramitado contra su deudor. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, un banco se encuentra tramitando un juicio ejecutivo en contra de su \ndeudor, en el que podría adjudicarse un inmueble a un precio inferior a su valor comercial. \nSeñala que la deuda total que se cobra en el juicio asciende a $135.369.304 y que el avalúo fiscal del \ninmueble involucrado es de $75.729.174, valor este último que ha sido utilizado para establecer la postura \nmínima para la subasta del inmueble. \nAgrega que el mismo banco acreedor tasó la propiedad en UF 30.000 a determinada fecha. En consecuencia, \nsi el banco acreedor llegara a adjudicarse el inmueble en el valor de avalúo fiscal, el deudor seguiría \ndebiéndole, pero además el banco aseguraría un segundo negocio que sería la venta posterior del inmueble \na su valor comercial. De esta forma, el banco generaría una utilidad proveniente de la venta del inmueble, \nque es muy superior a la deuda e intereses que pagó el deudor. \nPor lo anterior, consulta lo siguiente: \n1) Cómo tributaría el banco por la utilidad que generaría en la operación descrita en la consulta. \n2) Si es que la fuente de la utilidad del banco es el giro ordinario del artículo 69 de la ley general de bancos \no no. \n3) Si es que hay enriquecimiento sin causa por parte del banco en la adquisición de la utilidad derivada de \nla posterior venta del bien raíz, pensando que el capital y los intereses de la deuda se extinguieron en \nvirtud de haber recibido el inmueble en pago. \n4) Si es que hay donación respecto de la utilidad o si el banco debe restituirla al deudor. \nII  \nANÁLISIS \nSupuesto que la consulta dice relación con un procedimiento judicial de cobranza de una deuda hipotecaria, \nse informa que este Servicio ya se ha pronunciado sobre similares materias1, precisando que, al enajenarse \nun bien raíz en pública subasta o adjudicarse al banco, y de haberse provisionado y/o castigado la deuda, el \nbanco debe reversar dicho gasto y reconocer el ingreso en la determinación de la renta líquida imponible. \nDicho lo anterior, y respecto de la consulta N° 1) del Antecedente, si el banco se adjudica el inmueble en \nel remate judicial y lo enajena con posterioridad2, el banco deberá tributar por el mayor valor obtenido en \nla venta del referido inmueble, deduciendo el costo tributario de la operación que, para estos efectos, \ncorresponderá al valor en que se adjudicó el bien raíz subastado. \nRespecto de sus consultas N° 2) y N° 3) del Antecedente, se informa que, de acuerdo a la ley3, no compete \nal Director de este Servicio absolver consultas sobre la aplicación e interpretación de las normas que no son \nde carácter tributario, como ocurre con el artículo 69 de la Ley General de Bancos, ni pronunciarse sobre \nun eventual enriquecimiento sin causa.  \nFinalmente, respecto a su consulta N° 4) del Antecedente, se informa que en la adjudicación de un bien raíz \npor parte del banco acreedor en el contexto de un remate judicial, ha operado una venta forzada en que la \npropiedad – a través de la inscripción – ha sido transferida desde el deudor (representado por el juez) al \nbanco adjud"
+    },
+    {
+      "name": "Artículo 450",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "8760ae67-594e-588c-af5d-33ce122b9d87",
+      "chunk_uuid": "f408c047-efcd-5323-be63-7ee976ee2ea1",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767610",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 450|- El embargo se entenderá hecho por la entrega real o simbólica de los bienes al depositario que se designe, aunque éste deje la especie en poder del mismo deudor. A falta de depositario designado por el juez, hará las veces de tal el propio deudor hasta tanto se designe un depositario distinto. El ministro de fe que practique el embargo deberá levantar un acta de la diligencia, la que señalará el lugar y hora en que éste se trabó, contendrá la expresión individual y detallada de los bienes embargados e indicará si fue necesario o no el auxilio de la fuerza pública para efectuarlo y de haberlo sido, la identificación del o de los funcionarios que intervinieron en la diligencia. Asimismo, dejará constancia de toda alegación que haga un tercero invocando la calidad de dueño o poseedor del bien embargado. Tratándose del embargo de bienes muebles, el acta deberá indicar su especie, calidad y estado de conservación y todo otro antecedente o especificación necesarios para su debida singularización, tales como, marca, número de fábrica y de serie, colores y dimensiones aproximadas, según ello sea posible. En el embargo de bienes inmuebles, éstos se individualizarán por su ubicación y los datos de la respectiva inscripción de dominio. El acta deberá ser suscrita por el ministro de fe que practicó la diligencia y por el depositario, acreedor o deudor que concurra al acto y que desee firmar. Sin que ello afecte la validez del embargo, el ministro de fe deberá enviar carta certificada al ejecutado comunicándole el hecho del embargo, dentro de los dos días siguientes de la fecha de la diligencia o del día en que se reabran las oficinas de correo, si ésta se hubiere efectuado en domingo o festivo. El ministro de fe deberá dejar constancia en el proceso del cumplimiento de esta obligación, en los términos del artículo 46. Toda infracción a las normas de este artículo hará responsable al ministro de fe de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales."
+    },
+    {
+      "name": "Oficio N°1440 (24/05/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1440 (24/05/2016)",
+      "document_id": "95c98f1e-0773-5e03-8984-9b814d623055",
+      "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja1440.htm",
+      "content": " son tratados como\ninmuebles susceptibles de hipoteca.\nII.- ANALISIS\nEl artículo 1° del Código de Minería consagra el derecho de las personas a constituir concesiones de\nexploración y explotación de las sustancias de los yacimientos mineros, los cuales declara de dominio\nabsoluto del Estado.\nPor otra parte, en conformidad con lo dispuesto en el artículo 2° de dicho Código, una concesión minera y\nque es un derecho real e inmueble que, como se ha dicho, puede ser de exploración o explotación y es\nsusceptible, en general, de todo acto o contrato, y se rige por las mismas leyes civiles que los demás\ninmuebles, salvo en lo que contraríe disposiciones de la ley orgánica constitucional sobre la materia (Ley N°\n18.097) o del propio Código de Minería. El inciso segundo de ese mismo artículo, se encarga de precisar que\nvpertenenciaw, es otra denominación de la concesión minera de explotación.\nComo se señala en la presentación, las concesiones mineras son un derecho real sobre un bien inmueble,\npor lo que se hace necesario determinar si las modificaciones introducidas por la Ley N° 20.780 sobre\n\n\nReforma Tributaria y N° 20.899 de Simplificación, a los conceptos de venta y vendedor, afectan las\ntransferencias de este tipo de inmuebles.\nSobre el particular, con las señaladas modificaciones, el texto de los N° 1 y 3 del artículo 2°, del Decreto Ley\nN° 825, de 1974, ha quedado del siguiente tenor:\nArtículo 2° Para los efectos de esta ley, salvo que la naturaleza del texto implique otro significado, se\nentenderá:\nv1°) Por vventaw, toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos\nlos terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos,\ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.\n3°) Por vvendedorw cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de\nhecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles.\nCorresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Para efectos\nde la venta de inmuebles, se presumirá que existe habitualidad cuando entre la adquisición o construcción\ndel bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo no se considerará\nhabitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías\nhipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y\nsiempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los\ndemás casos de ventas forzadas en pública subasta autorizadas por resolución judicial. La transferencia de\ninmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada habitual.\nSe considerará también vvendedorw al productor, fabricante o vendedor habitual de bienes corporales\ninmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos\nproductivosw.\nCabe señalar, que mediante la Ley N° 18.630 de 1987, con vigencia a contar del 1° de octubre de 1987, se\nhabía modificado el Decreto Ley N° 825, de 1974, incorporando la actividad de la construcción al hecho\ngravado venta, pero restringido exclusivamente a la transferencia de inmuebles de propiedad de una\nempresa constructora, construidos totalmente por ella o en parte por un tercero para ella, de una cuota de\ndominio sobre dichos bienes o derechos reales constituidos sobre ellos, siempre y cuando la empresa\nconstructora tuviera la calidad de vendedor"
+    },
+    {
+      "name": "Artículo 518",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "8c0c657c-2b9a-5e48-a682-75941cd75feb",
+      "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767482",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 518|- En el juicio ejecutivo sólo son admisibles las tercerías cuando el reclamante pretende: 1°. Dominio de los bienes embargados; 2°. Posesión de los bienes embargados; 3°. Derecho para ser pagado preferentemente; o 4°. Derecho para concurrir en el pago a falta de otros bienes. En el primer caso la tercería se llama de dominio, en el segundo de posesión, en el tercero de prelación y en el cuarto de pago."
+    },
+    {
+      "name": "Artículo 511",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "752de307-b26d-54bc-b5d0-fc7ad21d0901",
+      "chunk_uuid": "5f8a373c-d852-584e-ae9a-47af6c9bee41",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768019",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 511|Art. 511. (533). Practicada la liquidación a que se refiere el artículo precedente, se ordenará hacer pago al acreedor con el dinero embargado o con el que resulte de la realización de los bienes de otra clase comprendidos en la ejecución. Si la ejecución fuere en moneda extranjera, el tribunal pondrá a disposición del depositario los fondos embargados en moneda diferente a la adeudada sobre los cuales hubiere recaído el embargo y los provenientes de la realización de bienes del ejecutado en cantidad suficiente, a fin de que, por intermedio de un Banco de la plaza, se conviertan en la moneda extranjera que corresponda. Esta diligencia podrá también ser cometida al secretario."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+# Configuración compartida para herramientas de calidad de código.
+# La usan tanto el desarrollo local como el CI de GitHub Actions
+# (.github/workflows/ci.yml).
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+# El CI solo chequea estos directorios; mantenemos la lista alineada
+# con los argumentos del workflow.
+src = ["src", "scripts"]
+
+[tool.ruff.lint]
+# Selección razonable para un proyecto pequeño: errores de sintaxis y
+# estilo (E, W, F), orden de imports (I), bugs comunes (B), y migraciones
+# de sintaxis vieja a moderna (UP).
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes (variables sin usar, imports sin usar, ...)
+    "I",   # isort (orden de imports)
+    "B",   # flake8-bugbear (anti-patrones comunes)
+    "UP",  # pyupgrade (sintaxis vieja → moderna)
+]
+ignore = [
+    "E501",  # line too long: lo maneja black por largo, no ruff
+    "B008",  # function call in default argument: típico en FastAPI con Depends/Field
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Los scripts pueden hacer imports al inicio después de manipular sys.path.
+"scripts/**/*.py" = ["E402"]
+# src/highlight.py requiere un orden específico: `preprocess_adapter` debe
+# cargarse antes que `preprocessors` para configurar sys.path. Si ruff
+# reordena los imports, vuelve el ModuleNotFoundError al levantar la API.
+"src/highlight.py" = ["E402", "I001"]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+# Excluímos lo que no es código nuestro.
+extend-exclude = '''
+/(
+    \.git
+  | \.venv
+  | __pycache__
+  | Vectorizacion
+  | hunspell
+  | vectors
+)/
+'''
+
+[tool.pytest.ini_options]
+# El proyecto no usa src-layout: sus paquetes están en la raíz (`src/`,
+# `scripts/`). Los agregamos al pythonpath para que los tests puedan
+# importarlos sin trucos. `scripts/benchmark/` se incluye para poder
+# testear funciones puras de judge_pool.py e ingest_judgments.py.
+pythonpath = [".", "scripts", "scripts/benchmark"]
+testpaths = ["tests"]
+addopts = [
+    "-v",
+    "--strict-markers",
+    "--strict-config",
+    # Coverage activo por defecto. Las exclusiones viven en
+    # [tool.coverage.run].omit más abajo.
+    "--cov=src",
+    "--cov=scripts",
+    "--cov-report=term-missing",
+]
+
+[tool.coverage.run]
+# Fuentes a medir.
+source = ["src", "scripts"]
+
+# Excluímos del cálculo de cobertura el código que no es unit-testeable
+# por construcción. La validación de estos módulos se realiza con corridas
+# integrales contra los servicios reales (OpenSearch, Qdrant, modelo
+# SPLADE) y, eventualmente, con métricas de retrieval (NDCG@k, MRR, P@k)
+# sobre el conjunto de evaluación.
+omit = [
+    # Scripts de integración: orquestan Qdrant + OpenSearch + filesystem.
+    "scripts/ingest.py",
+    "scripts/ingest_with_vectors.py",
+    "scripts/create_index.py",
+    # Encoder SPLADE: requiere descargar y cargar el modelo (~270 MB) y
+    # torch. Su lógica es la inferencia estándar del paper de SPLADE; la
+    # validación efectiva es que los vectores indexados y los pesos de
+    # consulta produzcan ranking coherente sobre el corpus real.
+    "src/splade_encoder.py",
+    # Encoder fastembed para la baseline Qdrant BM25: misma justificación
+    # que SPLADE. Descarga modelos ONNX en runtime y solo orquesta la
+    # llamada a la librería de Qdrant. La validación efectiva es que las
+    # queries devuelvan hits no vacíos contra el corpus indexado.
+    "src/baseline_qdrant_encoder.py",
+    # Solo declara el mapping del índice como constante.
+    "src/schema.py",
+    # Paquetes vacíos.
+    "src/__init__.py",
+    "tests/*",
+    # Scripts del pipeline de benchmarking: la mayor parte talkea a
+    # OpenSearch o a Gemini. Lo unit-testeable (build_summary,
+    # _strip_markdown_fences) se cubre en tests/test_benchmark_helpers.py;
+    # el resto del flujo se valida ejecutando los scripts end-to-end
+    # contra los servicios reales.
+    "scripts/benchmark/*",
+]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false
+precision = 1
+# Si la cobertura del backend cae bajo este umbral, el CI falla. El valor
+# refleja deliberadamente una suite de tests pequeña pero con poder real
+# de detección, no inflada con tests tautológicos. Da margen para refactors
+# que introduzcan código nuevo sin test inmediato, pero detecta regresiones
+# grandes.
+fail_under = 70

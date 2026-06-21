@@ -1,0 +1,293 @@
+{
+  "query_id": "q027",
+  "query_text": "Vicios redhibitorios en compraventa de bienes raíces: plazos y efectos",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:56:19Z",
+  "judgments": [
+    {
+      "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de la enajenación de bienes raíces fusionados, tangencialmente relacionado con la compraventa."
+    },
+    {
+      "chunk_uuid": "cb1c2d90-0151-5cd2-a560-934cf7fd90e9",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la habitualidad en la venta de inmuebles y exenciones del IVA, sin abordar vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "da51c65b-f61a-507f-8666-db878ec614fb",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la resciliación de servicios y notas de crédito, no relacionado con vicios redhibitorios en compraventa."
+    },
+    {
+      "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+      "relevance_grade": 1,
+      "justification": "Este oficio analiza la tributación de la enajenación de bienes raíces por sociedades extranjeras y el concepto de habitualidad."
+    },
+    {
+      "chunk_uuid": "93258ed4-9bee-587c-a5fc-fe31499fdd84",
+      "relevance_grade": 0,
+      "justification": "Este fragmento legal se enfoca en el alzamiento de hipotecas y gravámenes, sin relación con vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "e28aba96-faff-5ffa-a855-711e991fe2a2",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute plazos y límites de UF en la tributación de enajenaciones de bienes raíces, tangencialmente relacionado con compraventas."
+    },
+    {
+      "chunk_uuid": "f63c237a-cac4-594f-9426-afd256c21d6e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la declaración jurada de bienes raíces para fines tributarios, sin abordar vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la tributación de arrendamientos y el pago de contribuciones, no sobre vicios en compraventa."
+    },
+    {
+      "chunk_uuid": "a3c6db46-1a30-5a70-a3e6-856877415a14",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla el costo tributario en la enajenación de bienes raíces, sin relación con vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "d6be3455-987d-5f60-bbab-e5a1d654a41b",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la acción redhibitoria y los vicios ocultos en la compraventa, respondiendo directamente a la consulta."
+    },
+    {
+      "chunk_uuid": "a9f868b4-ada3-5420-901d-296b518626d5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de rentas provenientes de bienes raíces, no sobre vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "8f116b6d-10cd-5fb5-9a55-5fab63ae4d8c",
+      "relevance_grade": 3,
+      "justification": "Define los vicios redhibitorios y sus características esenciales, respondiendo directamente a la consulta."
+    },
+    {
+      "chunk_uuid": "0cfb800e-00ab-5f06-8deb-2ce88d97f5ef",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tasación de bienes raíces y el impuesto territorial, no en vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "42ab4839-c813-5f68-a060-fa9e42ecf2d5",
+      "relevance_grade": 2,
+      "justification": "Aborda la acción redhibitoria y sus excepciones, complementando la definición de vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación del mayor valor en la enajenación de bienes raíces, no sobre vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la interpretación de 'adquisición' y 'enajenación' en compraventas de bienes raíces, pero no aborda vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "5f13586c-b7d3-597f-886b-18fa17f9d546",
+      "relevance_grade": 2,
+      "justification": "Este artículo del Código Civil se refiere a la acción redhibitoria y la rebaja del precio, lo cual es relevante para los efectos de los vicios."
+    },
+    {
+      "chunk_uuid": "0bf34689-3ef9-5ed1-92a6-e40c943ca251",
+      "relevance_grade": 0,
+      "justification": "Esta circular trata sobre tasaciones de bienes raíces y adquisición por el Fisco o Municipalidades, sin relación con vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "fc7ae8a6-0909-584f-b0a9-3f9528a9fbd4",
+      "relevance_grade": 0,
+      "justification": "Esta resolución se enfoca en la tasación fiscal y el proceso para solicitarla, no en vicios redhibitorios en compraventas."
+    },
+    {
+      "chunk_uuid": "89e542d4-667d-594e-90b6-eb896e578333",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda la presunción de habitualidad en la enajenación de bienes raíces, no los vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "a13b5809-5662-5b28-b9ff-44739621dea2",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de bienes raíces agrícolas en litigio, no sobre vicios redhibitorios en compraventa."
+    },
+    {
+      "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la tributación del mayor valor en la enajenación de bienes raíces fusionados, no vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "c419a2c9-7a7d-5510-bd7d-3f5189dfc432",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del arrendamiento de bienes raíces, no en vicios redhibitorios de compraventa."
+    },
+    {
+      "chunk_uuid": "7538719c-610e-5fe1-af17-e28a332e895c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la rebaja tributaria por créditos hipotecarios en promesas de compraventa, no vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "06f8bfb0-f81c-51df-b953-9cfa17122e56",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la admisibilidad probatoria en materia tributaria, no sobre vicios redhibitorios en compraventa."
+    },
+    {
+      "chunk_uuid": "8089c3b1-e309-5330-a73f-b8f84cc95633",
+      "relevance_grade": 1,
+      "justification": "Este oficio discute la resciliación de una compraventa y sus efectos tributarios, pero no aborda vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "9d40c05d-1e97-51f7-a309-fceb503843f7",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre concesiones municipales de estacionamientos subterráneos y su régimen tributario, sin relación con vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "64da18af-f3dc-5698-8a5f-480ce9cbdfdd",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el tratamiento tributario de la enajenación de bienes raíces y la habitualidad, no en vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "b93f3e9a-9203-5b79-8e89-66df7dab4978",
+      "relevance_grade": 1,
+      "justification": "Este artículo del Código Civil permite pactar vicios redhibitorios, tocando tangencialmente el tema de la consulta."
+    },
+    {
+      "chunk_uuid": "2e13d6ee-e1b3-5dbe-bde3-b7b359c0c791",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a la habitualidad en la enajenación de inmuebles y el IVA, sin abordar vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "4d9c13dd-6c74-501f-8b89-05487da7510e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la determinación del mayor valor en la enajenación de bienes raíces y los plazos para ciertos beneficios tributarios."
+    },
+    {
+      "chunk_uuid": "8b01231f-ed02-5b81-80d9-ba6152eb998c",
+      "relevance_grade": 2,
+      "justification": "Aborda la habitualidad en la venta de bienes raíces y los plazos para determinar el tratamiento tributario del mayor valor."
+    },
+    {
+      "chunk_uuid": "12fdb04c-6f19-5e89-a78c-49205ee2a0ac",
+      "relevance_grade": 2,
+      "justification": "Explica cómo determinar el costo tributario de bienes raíces, incluyendo el valor de adquisición y mejoras, según la fecha de adquisición."
+    },
+    {
+      "chunk_uuid": "26467ad0-4e36-54a3-8014-9f83fbfeae04",
+      "relevance_grade": 2,
+      "justification": "Detalla la tributación del mayor valor en la enajenación de bienes raíces, distinguiendo entre habitual y no habitual."
+    },
+    {
+      "chunk_uuid": "fd2c0cd9-fac2-5236-99f6-c3c2fe2b43bb",
+      "relevance_grade": 1,
+      "justification": "Se enfoca en la tributación de bienes raíces agrícolas, distinguiendo entre renta efectiva y renta presunta."
+    },
+    {
+      "chunk_uuid": "0994bf46-4803-5527-8d99-bdbbb12d9808",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define la obligación de saneamiento, que incluye responder por los vicios redhibitorios en la compraventa."
+    },
+    {
+      "chunk_uuid": "c4c19096-d69a-588b-8152-d21fb4401626",
+      "relevance_grade": 3,
+      "justification": "Este fragmento establece los plazos para la acción redhibitoria en bienes raíces, que es un aspecto clave de la consulta."
+    },
+    {
+      "chunk_uuid": "7ce683ec-8bbc-5289-a156-cf0679747f40",
+      "relevance_grade": 1,
+      "justification": "Este fragmento, aunque trata sobre tributación, menciona plazos de adquisición y enajenación de bienes raíces, tangencialmente relacionado."
+    },
+    {
+      "chunk_uuid": "3f1cd2b6-0df7-5499-acad-344d68023ad2",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla el cómputo de plazos para la enajenación de bienes raíces, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "247f6f54-5255-5f42-9f82-798afe46471e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la acción redhibitoria cuando se venden varias cosas juntas, lo cual es un aspecto específico de la consulta."
+    },
+    {
+      "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el cómputo de plazos para la enajenación de bienes raíces, relevante para la consulta sobre plazos en compraventa."
+    },
+    {
+      "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+      "relevance_grade": 2,
+      "justification": "Aborda la presunción de habitualidad y el cómputo de plazos en la enajenación de bienes raíces, tocando aspectos de la consulta."
+    },
+    {
+      "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+      "relevance_grade": 2,
+      "justification": "Explica las situaciones que afectan la tributación del mayor valor en enajenación de bienes raíces y criterios de habitualidad."
+    },
+    {
+      "chunk_uuid": "85ae9cba-f5a0-5b4f-be3a-04b5776acad4",
+      "relevance_grade": 2,
+      "justification": "Detalla el reajuste del costo tributario y la determinación del mayor valor en la enajenación de bienes raíces."
+    },
+    {
+      "chunk_uuid": "a0150df4-f665-5eda-87c0-58b51fe36505",
+      "relevance_grade": 2,
+      "justification": "Se refiere a las disposiciones aplicables a la enajenación de bienes raíces y el costo tributario deducible."
+    },
+    {
+      "chunk_uuid": "d66a5c1c-c3d4-5672-8838-cf1b1301cb4f",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define los vicios redhibitorios y sus efectos en la compraventa, abordando directamente la consulta."
+    },
+    {
+      "chunk_uuid": "232ca177-4e48-5979-81e6-91f28e335961",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute plazos relacionados con la compraventa de bienes raíces, pero no aborda los vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "c6e718d1-08c3-5755-ac37-87aac5ef125e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de bienes raíces y plazos de habitualidad, sin relación con vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "6de1b541-628e-5d76-abcc-af35fd37f971",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la habitualidad en la enajenación de bienes raíces y los plazos, tangencialmente relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "87e979c1-e88e-5adb-b070-a3d70ae642e8",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda directamente los plazos para la presunción de habitualidad y el cómputo del año entre adquisición y enajenación de inmuebles."
+    },
+    {
+      "chunk_uuid": "4d09f613-f8a8-5490-922c-1bae213e2e72",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla plazos de adquisición y enajenación para diferentes tipos de bienes raíces, relacionado con la consulta."
+    },
+    {
+      "chunk_uuid": "6067b2c4-1b41-5d02-aa2c-f343222ce935",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define las obligaciones del vendedor en caso de vicios ocultos, incluyendo restitución, rebaja de precio e indemnización de perjuicios."
+    },
+    {
+      "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+      "relevance_grade": 1,
+      "justification": "Este oficio se centra en la interpretación de plazos para efectos tributarios, no aborda directamente los vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la tradición de inmuebles y la inscripción en el Conservador, sin relación con vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "6a5c4d35-a6ca-5b8d-be67-d8d2663df3d1",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la resciliación y resolución de contratos de compraventa, pero no los vicios redhibitorios."
+    },
+    {
+      "chunk_uuid": "d2b0462b-1c4e-5d34-8f7e-82bd14f7b625",
+      "relevance_grade": 2,
+      "justification": "Este fragmento establece plazos de prescripción para acciones por defectos en la construcción, no vicios redhibitorios en compraventa general."
+    },
+    {
+      "chunk_uuid": "47d53402-9cdc-5261-bb1f-650c594dbc9e",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute plazos para la deducción de IVA en resciliaciones de compraventa de inmuebles, lo cual es relevante para los efectos de los vicios redhibitorios."
+    }
+  ]
+}

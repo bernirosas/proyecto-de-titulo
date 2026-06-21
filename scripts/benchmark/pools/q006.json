@@ -1,0 +1,1238 @@
+{
+  "query_id": "q006",
+  "query_text": "Requisitos y solemnidades de la escritura pública en la compraventa de bienes raíces",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "7538719c-610e-5fe1-af17-e28a332e895c",
+        "score": 25.234041,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 25.079243,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 25.063208,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0184cdb2-71b2-50bc-a457-58532f4e93c7",
+        "score": 23.603735,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 23.371994,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d3018d7c-f75c-553d-9ff5-01b89ced015a",
+        "score": 22.933184,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 22.784252,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 22.780111,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+        "score": 22.735174,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "94146c7e-e595-588c-b2e4-631a93b111b1",
+        "score": 22.650305,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+        "score": 2.1349487,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+        "score": 2.1037598,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 2.0930176,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+        "score": 2.057129,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 2.0368042,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "cfe0d7c8-ae39-522a-b99a-ca7df6e20d79",
+        "score": 2.0238647,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "5bee4091-701e-528e-9a3e-5cc21e211e41",
+        "score": 2.0200195,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+        "score": 2.0130005,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "c8855817-9974-5ee8-9105-3cac501d0b34",
+        "score": 2.0107422,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+        "score": 2.0063477,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "5f7b3e0d-8a4c-5693-ba6e-9806e963f679",
+        "score": 26.462152,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 24.744911,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 24.572794,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 23.995832,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "d8702cb9-b00c-540f-aae6-3283ec70d43a",
+        "score": 22.824902,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "c162c481-547d-581e-9f70-77c58e2aa59f",
+        "score": 22.632582,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 22.178215,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "726aad0e-145c-59cd-88d7-591baf71b782",
+        "score": 21.932375,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4af40f72-1d04-5afb-8f33-4136c49fca35",
+        "score": 21.696253,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1b8ceeeb-fcee-51f3-a86f-49a8f22ddfe5",
+        "score": 21.628885,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 25.727364,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 24.931395,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 24.741768,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7538719c-610e-5fe1-af17-e28a332e895c",
+        "score": 23.75402,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 23.156437,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5f7b3e0d-8a4c-5693-ba6e-9806e963f679",
+        "score": 23.010511,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f269980d-ff15-5b00-a96f-21afdc2235b8",
+        "score": 23.010511,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "d8702cb9-b00c-540f-aae6-3283ec70d43a",
+        "score": 22.177868,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 21.17327,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d3018d7c-f75c-553d-9ff5-01b89ced015a",
+        "score": 21.04644,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 0.9359741,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "6029a465-fe74-55fa-a99f-aca6e0070f09",
+        "score": 0.9140625,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+        "score": 0.8779297,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.87579346,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+        "score": 0.86053467,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+        "score": 0.85913086,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+        "score": 0.8579712,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.83203125,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.8276367,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d36385cd-4713-5e7a-a18a-ce15b42f1600",
+        "score": 0.8232422,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 25.093239,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 23.079166,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 22.62611,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "7538719c-610e-5fe1-af17-e28a332e895c",
+        "score": 21.876509,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 21.693106,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 21.41769,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "abe0e09a-e845-5599-ad3d-b830f8205dcd",
+        "score": 20.838223,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "5f7b3e0d-8a4c-5693-ba6e-9806e963f679",
+        "score": 20.72798,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "f269980d-ff15-5b00-a96f-21afdc2235b8",
+        "score": 20.72798,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "0184cdb2-71b2-50bc-a457-58532f4e93c7",
+        "score": 20.090256,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "6029a465-fe74-55fa-a99f-aca6e0070f09",
+        "score": 1.09375,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.9589844,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d36385cd-4713-5e7a-a18a-ce15b42f1600",
+        "score": 0.94970703,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f63c237a-cac4-594f-9426-afd256c21d6e",
+        "score": 0.9116211,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+        "score": 0.86035156,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 0.85668945,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0184cdb2-71b2-50bc-a457-58532f4e93c7",
+        "score": 0.8512573,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.84588623,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 0.8444824,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+        "score": 0.83929443,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 13.988281,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 13.677734,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 13.623047,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 13.417969,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 13.28125,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0184cdb2-71b2-50bc-a457-58532f4e93c7",
+        "score": 13.105469,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "d3018d7c-f75c-553d-9ff5-01b89ced015a",
+        "score": 13.027344,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "07756b54-1988-58c5-b0da-e48c7accd70b",
+        "score": 12.964844,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "94146c7e-e595-588c-b2e4-631a93b111b1",
+        "score": 12.859375,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "4dad6027-ed9c-5510-96b1-5db45fbce45d",
+        "score": 12.839844,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03177805800756621,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.030834914611005692,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 0.02900988017658188,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b4e6b89d-36f2-5b52-92e6-139f4c110fe8",
+        "score": 0.026356857985087564,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "7e1807a2-758e-5253-8cac-79e911701df5",
+        "score": 0.026333907056798625,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.02581612258494337,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 0.025793650793650792,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "87f36fcd-b663-5fb0-9108-6bd9bf3cf565",
+        "score": 0.024350649350649352,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "bba74564-912e-5b08-b209-651eb8d241d9",
+        "score": 0.02233220666344761,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.02854251012145749,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03225806451612903,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 0.031746031746031744,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 0.03125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.02889344262295082,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 0.025320462098433298,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d8702cb9-b00c-540f-aae6-3283ec70d43a",
+        "score": 0.024643874643874644,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.02379619260918253,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "bba74564-912e-5b08-b209-651eb8d241d9",
+        "score": 0.01878969654199012,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "5f7b3e0d-8a4c-5693-ba6e-9806e963f679",
+        "score": 0.01639344262295082,
+        "rank": 9
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 0.03036576949620428,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03028233151183971,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 0.02803379416282642,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 0.027417840375586856,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "fa1e85a5-2a32-563c-b06a-9b589e39372c",
+        "score": 0.02594183740912095,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.025657894736842105,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b4e6b89d-36f2-5b52-92e6-139f4c110fe8",
+        "score": 0.02485334979932078,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "d8702cb9-b00c-540f-aae6-3283ec70d43a",
+        "score": 0.023965141612200435,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.031099324975891997,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.030621785881252923,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.028782894736842105,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "6029a465-fe74-55fa-a99f-aca6e0070f09",
+        "score": 0.02623004235907462,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 0.024099883855981417,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "fa1e85a5-2a32-563c-b06a-9b589e39372c",
+        "score": 0.023796791443850267,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a2819a1b-5eff-538d-8a69-d1ee74ce3f31",
+        "score": 0.02003205128205128,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+        "score": 0.01639344262295082,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+        "score": 0.015873015873015872,
+        "rank": 9
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 0.031024531024531024,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03028233151183971,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 0.02803379416282642,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 0.027071520029266508,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.025657894736842105,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4e6b89d-36f2-5b52-92e6-139f4c110fe8",
+        "score": 0.024706420619185605,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7e1807a2-758e-5253-8cac-79e911701df5",
+        "score": 0.024386724386724387,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "fa1e85a5-2a32-563c-b06a-9b589e39372c",
+        "score": 0.023796791443850267,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.030017921146953404,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 0.028693528693528692,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.02786377708978328,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6029a465-fe74-55fa-a99f-aca6e0070f09",
+        "score": 0.02649445272396092,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 0.02541827541827542,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 0.024185517143263623,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a2819a1b-5eff-538d-8a69-d1ee74ce3f31",
+        "score": 0.021243291592128802,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d36385cd-4713-5e7a-a18a-ce15b42f1600",
+        "score": 0.015873015873015872,
+        "rank": 9
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+        "score": 0.03225806451612903,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+        "score": 0.032018442622950824,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+        "score": 0.03125763125763126,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+        "score": 0.028958333333333336,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+        "score": 0.028169014084507043,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+        "score": 0.027777777777777776,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+        "score": 0.02667140825035562,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b4e6b89d-36f2-5b52-92e6-139f4c110fe8",
+        "score": 0.024706420619185605,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "fa1e85a5-2a32-563c-b06a-9b589e39372c",
+        "score": 0.024509803921568627,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "bba74564-912e-5b08-b209-651eb8d241d9",
+        "score": 0.02233220666344761,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 18.5,
+    "p1_tfidf": 15.3,
+    "p1_splade": 103.9,
+    "p2_bm25": 12.2,
+    "p2_tfidf": 10.4,
+    "p3_bm25": 7.4,
+    "p3_tfidf": 7.2,
+    "baseline_qdrant_bm25": 12.3,
+    "rrf_p1_bm25": 76.3,
+    "rrf_p1_tfidf": 59.2,
+    "rrf_p1_splade": 165.1,
+    "rrf_p2_bm25": 155.5,
+    "rrf_p2_tfidf": 163.2,
+    "rrf_p3_bm25": 69.6,
+    "rrf_p3_tfidf": 70.4,
+    "rrf_baseline_qdrant_bm25": 41.0
+  },
+  "pool": [
+    {
+      "name": "Oficio N°371 (13/02/2025)",
+      "source_type": "oficio",
+      "source": "Oficio N°371 (13/02/2025)",
+      "document_id": "cf01581c-b7a1-53f0-b59a-beac88f0dfbd",
+      "chunk_uuid": "94146c7e-e595-588c-b2e4-631a93b111b1",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=0371-14%2F02%2F2025.pdf&extension=pdf&acc=download&id=5514ff5a-2935-450d-9fd6-3dfbfdd560df&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 23 N° 1, ART. 55 – \n(ORD. N° 0371, DE 14.02.2025) \n \n \n \n \n \n \n \n \n \n \n \n \n \nMomento en que se genera el derecho a crédito fiscal en la compra de inmuebles. \nDe acuerdo con su presentación, consulta cuál es la fecha en que se genera el IVA crédito fiscal por \nla adquisición de bienes raíces, esto es, si debe considerarse la fecha de la escritura pública de \ncompraventa o a la fecha de inscripción del inmueble en el conservador de bienes raíces. \nAl respecto se tiene presente que, de acuerdo con el N° 1 del artículo 23 de la Ley sobre Impuesto \na las Ventas y Servicios (LIVS), los contribuyentes afectos al pago del IVA tendrán derecho a un \ncrédito fiscal contra el débito fiscal determinado por el mismo período tributario, cuyo crédito será \nel equivalente al IVA recargado en las facturas que acrediten sus adquisiciones. \nLuego, el IVA soportado en la compra del inmueble sólo otorga derecho a crédito fiscal a quienes \ndetenten la calidad de contribuyentes del mismo impuesto (es decir, quienes realizan operaciones \ngravadas con IVA), y cuyo crédito será el equivalente al que conste en facturas de adquisición. \nPor su lado, la parte final del inciso segundo del artículo 55 de la LIVS dispone que, en el caso de \nla venta de bienes inmuebles, la factura deberá emitirse en la fecha de suscripción de la escritura de \ncompraventa por el precio total, incluyendo las sumas pagadas previamente que se imputen al \nmismo a cualquier título. \nPor tanto, el período en que se tiene derecho al IVA crédito fiscal en la venta de inmuebles, es aquel \nen que se emite la factura respectiva, lo cual debe ocurrir al momento de suscripción de la escritura \nde compraventa. \n \n \n \nSIMON RAMÍREZ GUERRA \nDIRECTOR (S) \n \n  \n \nOficio N° 0371, de 14.02.2025 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n"
+    },
+    {
+      "name": "Oficio N°1158 (19/06/2025)",
+      "source_type": "oficio",
+      "source": "Oficio N°1158 (19/06/2025)",
+      "document_id": "7139aa12-8547-5dc6-bae1-6fe2aa8d09a7",
+      "chunk_uuid": "0184cdb2-71b2-50bc-a457-58532f4e93c7",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1158-19%2F06%2F2025.pdf&extension=pdf&acc=download&id=3efeda21-35ae-4a51-922f-7f941551d4dd&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – LEY N° 21.631 – CIRCULAR N° 51 DE 2023 – \nRESOLUCIÓN EX. N° 135 DE 2023 \n(ORD. N° 1158, DE 19.06.2025). \n__________________________________________________________________________ \nBeneficio tributario establecido en la Ley N° 21.631. \n \nDe acuerdo con su presentación, tras señalar que una persona natural adquirió un inmueble \nhabitacional con garantía hipotecaria, en cuya escritura pública no se señaló que el adquirente se \nacogía al beneficio contemplado en la Ley N° 21.631, ni se incorporaron las menciones que ordena \nel artículo único de la citada ley, consulta cómo acceder al beneficio tributario si la escritura no \ncontiene la mención específica a la Ley N° 21.631, si es posible subsanar dicha omisión y qué \ndocumentos presentar durante la operación renta para solicitar este beneficio tributario en caso de ser \nregularizada la omisión indicada. \n \nAl respecto se informa que el artículo único de la Ley N° 21.6311 estableció un beneficio tributario \ntransitorio y extraordinario para la adquisición de viviendas nuevas con destino habitacional, que \npermite imputar un crédito en contra del impuesto a la renta que afecta a las personas naturales con \nresidencia o domicilio en Chile, equivalente a los dividendos efectivamente pagados por el crédito \ncon garantía hipotecaria suscrito en su adquisición. \n \nPara estos efectos el inciso séptimo del artículo único de la referida ley dispuso que el crédito podrá \nser utilizado respecto de una sola vivienda adquirida2 con crédito con garantía hipotecaria, debiendo \ndejarse constancia en la respectiva escritura de compraventa que el contribuyente no se encuentra \nactualmente utilizando el beneficio y que la compraventa cumple con los requisitos establecidos para \nsu procedencia. \n \nPor lo anterior, los contribuyentes debían dejar constancia –en la respectiva escritura de compraventa– \nque no se encuentran utilizando el crédito en comento y que la compraventa cumple los requisitos \nestablecidos en la Ley N° 21.631, incorporando una leyenda en los términos que se indica en la \nCircular N° 51 de 20233. \n \nDe esta forma, si la escritura respectiva no contiene la mención que prescribe la ley, el contribuyente \nno puede hacer uso del beneficio tributario en comento. \n \nCon todo, las partes que suscribieron el contrato de compraventa pueden modificar la escritura pública \npara efectos de agregar la mención que ordena la Ley N° 21.6314, siempre que se cumpla con los \nrequisitos de la norma5. Efectuada la modificación, el comprador podrá utilizar el crédito tributario \nen comento6, en la medida que se cumplan las instrucciones y requisitos legales para su procedencia. \nLo anterior, siempre que además la institución financiera que otorgó el crédito con garantía \nhipotecaria presente la declaración jurada 1957 sobre dividendos pagados con créditos con garantía \nhipotecaria relacionados con el beneficio tributario de la Ley N° 21.631, que ordena la Resolución \nEx. N° 135 de 2023.  \n \nFinalmente, se informa que los contribuyentes no deben adjuntar documentos tributarios al presentar \nsu declaración de impuesto a la renta, sino en el respectivo procedimiento para fiscalizar el \ncumplimiento de los requisitos establecidos en la Ley N° 21.631. \n \n \nJAVIER ETCHEBERRY CELHAY \nDIRECTOR \n \nOficio N° 1158, de 19.06.2025 \nSubdirección Normativa \nDepto. de Impuesto Directos \n \n1 Las instrucciones sobre la materia se encuentran contenidas en la Circular N° 51 de 2023. \n2 Se entenderá por fecha de adquisición la fecha de la inscripción del respectivo título en el Registro de Propiedad del Conservador de \nBienes Raíces. \n3 Ver apartado 1.2.3. de la Circular N° 51 de 2023."
+    },
+    {
+      "name": "Oficio N°2511 (08/07/2005)",
+      "source_type": "oficio",
+      "source": "Oficio N°2511 (08/07/2005)",
+      "document_id": "1b538e97-6b84-515f-a76d-4ed5a292641b",
+      "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2005/renta/ja984.htm",
+      "content": " un plazo inferior a un año.\nFinalmente, el inciso cuarto del Nº 8 del artículo 17 de la Ley de la Renta establece que tratándose del mayor\nvalor obtenido en las enajenaciones referidas en las letras a), b), c), d), h), i), j) y k), en las cuales se\ncomprenden los bienes raíces, que hagan los socios de sociedades de personas o accionistas de\nsociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% ó más de\nlas acciones, con la empresa o sociedad respectiva o en las que tengan intereses, se aplicará lo dispuesto\nen el inciso segundo de este número, gravándose en todo caso el mayor valor que exceda del valor de\nadquisición, reajustado, con los impuestos de Primera Categoría, Global Complementario o Adicional, según\ncorresponda.\n3.- De lo establecido por las normas legales antes citadas, se desprende claramente que existen tres\nsituaciones en las cuales el mayor valor obtenido en la enajenación de bienes raíces, queda afecto a la\ntributación general que contempla la Ley de la Renta, a saber: a) cuando la operación represente el\nresultado de negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose que\nexiste habitualidad en las situaciones previstas por el inciso tercero del artículo 18 de la ley, señaladas\nanteriormente; b) cuando se trate de la enajenación de bienes raíces que formen parte del activo de\nempresas que declaren su renta efectiva en la Primera Categoría, bastando para la aplicación de esta\nnormativa que los citados bienes integren el activo de la empresa, sin entrar a precisar el ítem o cuenta a\n\n\nque corresponden dichos bienes, y que las mencionadas empresas declaren su renta efectiva en la Primera\nCategoría, ya sea que estén obligadas a dicha base de declaración o hayan optado por tal modalidad; y c)\ncuando la enajenación de los citados bienes se efectúe a una empresa o sociedad con la cual el cedente se\nencuentre relacionado en los términos previstos en el inciso cuarto del Nº 8 del artículo 17 de la ley del ramo\ncomentado anteriormente.\n4.- De acuerdo a lo antes señalado, uno de los requisitos para establecer la tributación que afecta al mayor\nvalor obtenido en la enajenación de bienes raíces, es si la operación es calificada de habitual o no,\nconsiderándose para estos efectos, según lo prescrito en el inciso segundo del artículo 18 de la Ley de la\nRenta, el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de los referidos\nbienes, correspondiendo al contribuyente probar lo contrario.\nAhora bien, este Servicio mediante Suplemento 6(11)-18, de fecha 23.10.1967, entregó ciertos elementos de\njuicio de tipo general que deben tenerse presente para concluir si existe o no habitualidad en la enajenación\nde los citados bienes, estableciendo en dichas instrucciones lo siguiente:\na) Si la única actividad del contribuyente resulta ser la inversión en bienes raíces, cabría considerar que su\nactividad o giro habitual es de carácter rentístico.\nb) Sin perjuicio de lo anterior, deberá precisarse si la compraventa de los bienes raíces está presente en su\nobjeto social como giro de la empresa, porque de ser así esta actividad tendría el carácter de habitual.\nc) De no concurrir la circunstancia mencionada en la letra que antecede, deberá analizarse los siguientes\nfactores para apreciar si las operaciones de compraventa de bienes raíces son habituales:\nc.1) Si en un mismo ejercicio comercial, se producen compras y ventas de bienes raíces, pues la\nhabitualidad no podría apreciarse por las solas compras o por las solas ventas.\nc.2) Lapso que ha mediado entre la fecha de venta de los citados bienes y la de su adquisición. Este hecho\nayud"
+    },
+    {
+      "name": "Oficio N°779 (20/04/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°779 (20/04/2018)",
+      "document_id": "c638534a-773e-5b3c-aab2-fb497b1761b6",
+      "chunk_uuid": "235df7fe-2344-5cf1-b790-85371525be31",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja779.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nï»¿\nCÃ“DIGO TRIBUTARIO â€“ ACTUAL TEXTO â€“ ART. 13, ART. 6, LETRA A, NÂ°1 â€“ CIRCULAR NÂ°\n48, DE 1997. (Ord. Nº 779, de 20-04-2018)\nCONSULTA SOBRE NACIMIENTO DE OBLIGACIÃ“N TRIBUTARIA EN CASO QUE INDICA Y DOMICILIO\nPARA EFECTO DE NOTIFICACIONES.\nSe ha recibido en este Servicio su presentación solicitando un pronunciamiento relativo al momento en que\nnace la obligación tributaria del vendedor de un bien, materializado por escritura pública, y la fijación del\ndomicilio para efecto de las notificaciones que emanen del Servicio.\nI ANTECEDENTES\nDe acuerdo a su presentación, la venta, cesión y transferencia de bienes tangibles o intangibles, como\nbienes raíces, vehículos motorizados, derechos sociales, acciones, concesiones públicas, marítimas,\nderechos de aguas, pertenencias minerías, entre otros, tiene dos etapas bien definidas para perfeccionar,\nlegalmente, su traspaso al nuevo dueño o propietario: \na) La fecha de la escritura celebrada ante un notario público competente; y,\nb) La fecha de su inscripción en el Registro o Conservador correspondiente donde se perfecciona (y certifica)\n[sic] el cambio de dueño o propietario del bien, materia de la compraventa. \nTras algunas consideraciones, consulta cuándo nace la obligación tributaria (declaración de Impuesto a la\nRenta) del vendedor: si a partir de la fecha de la escritura pública o, por el contrario, de la fecha de su\ninscripción en el Registro correspondiente. \nPor otra parte, señala que, no obstante que los clientes de servicios profesionales fijan como domicilio la\noficina de los profesionales que los atienden, ya sea en los escritos o mandatos otorgados para el\ncumplimiento de sus encargos, este Servicio tendría la práctica de remitir las notificaciones de actuaciones o\nresoluciones a cualquiera de los domicilios a que se refiere el artículo 13 del Código Tributario,\ndesconsiderando el domicilio informado por el cliente, dejándolo en indefensión por falta de emplazamiento. \nAgrega que existen sentencias de diversos tribunales donde se confirmaría la tesis de la falta de\nemplazamiento por haberse notificado al contribuyente o apoderado en domicilio distinto al fijado en una\npresentación. Al respecto, solicita se aclare o fije un criterio sobre la correcta aplicación de la norma. \nII ANÁLISIS\nRespecto de la primera consulta, no obstante su extensión y precisiones técnicas que exige, puede\ninformarse en términos muy generales que nuestro sistema legal descansa en la dualidad título-modo de\nadquirir , de suerte que para entrar en posesión y adquirir el dominio de bienes se requiere la tradición o\nentrega de los mismos (artículo 670 del Código Civil), antecedida de un título traslaticio de dominio que la\nampare (artículo 675 del Código Civil). \nRespecto del título, la regla general en nuestro sistema es que los contratos – que usualmente sirven de\ntítulo traslaticio de dominio – se perfeccionen por el mero consentimiento de las partes (artículo 1443 del\nCódigo Civil). Según enseña Abeliuk, y como “nuestro Código se inspira en esta doctrina, la regla general es\nque todo contrato sea consensual, a menos que una disposición especial lo deje sujeto a formalidad a falta\nde ella, el contrato es consensual. De ahí que los más frecuentes e importantes contratos lo sean:\ncompraventa de cosas muebles, arrendamiento, fianza, transacción, sociedad civil, mandato, etc.”  Conforme\nlo anterior, excepcionalmente se requiere una solemnidad, como en la compraventa de bienes raíces, que no\nse reputan perfectas ante la ley mientras no sea otorgada la escritura pública (art"
+    },
+    {
+      "name": "Circular N°47 (15/09/2017)",
+      "source_type": "circular",
+      "source": "Circular N°47 (15/09/2017)",
+      "document_id": "a9d33448-288d-5803-a7c4-e476f67863e1",
+      "chunk_uuid": "7e1807a2-758e-5253-8cac-79e911701df5",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/normativa_legislacion/circulares/2017/circu47.pdf",
+      "content": " según corresponda. \n \n6.        Verificación de Rol de Avalúo Asignado. \n \nLos Notarios, al otorgar una escritura pública de compraventa de un inmueble y, por su \nparte, los Conservadores de Bienes Raíces, al inscribir en el registro de propiedades un \nSaneamiento de Títulos, siempre deberá exigir la exhibición de uno de los siguientes \ndocumentos para acreditar el número de rol de avalúo \n \n\n\nSituación \nDocumento \npara \nser \npresentado al notario y/o conservador de \nbienes raíces \nPredios sin número de rol asignado \nCertificado de Asignación de Roles de Avalúo \no Autorización Especial cuando sea procedente \nPredios con número de rol asignado en \nproceso de inclusión (predio transferido y aún \nno incluido en los roles de avalúos) \nCertificado de Avalúo Fiscal provisional. \n \nPredios con numero de rol asignado vigente \nen los roles de avalúos y contribuciones \n(predio incluido en los roles de avalúo) \nCertificado de Avalúo Fiscal Simple (con datos \ndel propietario registrados en el SII y pago del \nImpuesto del Impuesto Territorial cuando \ncorresponda). \n \n7. \n Vigencia.  \n \nEsta Circular entrará en vigencia desde el momento de su publicación en extracto en el \nDiario Oficial, fecha desde la cual se derogan las Circulares N°s 5 del 09.01.1998, 11, de \n10.02.1997 y 60, de 18.10.1996. \n \nANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO \n \n \n \n \n \n \n \n \n \n \n          VÍCTOR VILLALÓN MÉNDEZ \n          DIRECTOR (S) \n \n \n \n \n \n \n \n \n \nDistribución: \n- \nAl boletín \n- \nInternet \n- \nOficina de Gestión Normativa \n- \nAl Diario Oficial en extracto \n"
+    },
+    {
+      "name": "Oficio N°1693 (29/05/2002)",
+      "source_type": "oficio",
+      "source": "Oficio N°1693 (29/05/2002)",
+      "document_id": "d663ad73-1e24-5879-a0b2-7116df9acde8",
+      "chunk_uuid": "2afc9fcd-fd86-5755-adfd-0bc547e49538",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja294.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2002\nLEY SOBRE IMPUESTO A LA RENTA – ARTS. 17 N° 8 LETRA B), 60, 65, 69 Y 74 N°4 (ORD. N° 1693, DE\n29.05.2002)\nTRIBUTACIÓN QUE AFECTA A ENAJENACIÓN DE UN BIEN RAÍZ AGRÍCOLA PERTENECIENTE A\nSOCIEDAD EXTRANJERA QUE TIENE COMO GIRO LA COMPRAVENTA DE BIENES RAÍCES.\n1.- Por presentación indicada en el antecedente, señala que una sociedad desea adquirir un bien raíz\nagrícola, siendo el actual propietario de éste una sociedad extranjera, que lo adquirió hace siete años y no\nha sido explotado y que no lleva contabilidad en Chile, agregando, que según los estatutos sociales de la\nempresa extranjera, éstos establecen la compraventa de bienes raíces, como una de las actividades de su\ngiro.\nPor lo anterior, expresa que su representada es la obligada a retener los impuestos, deseando conocer si la\nsociedad extranjera, para este Servicio, es o no habitual en esta transacción en Chile y, en el caso de serlo,\ncual sería la tributación.\n2.- Sobre el particular, cabe señalar en primer término, que de acuerdo a lo dispuesto por la letra b) del Nº 8\ndel artículo 17 de la Ley de la Renta, en concordancia con lo señalado por el artículo 18 de la misma ley, no\nconstituye renta el mayor valor, incluido el reajuste del saldo de precio, obtenido en la enajenación no\nhabitual de bienes raíces, excepto respecto de aquellos que forman parte del activo de empresas que\ndeclaren su renta efectiva en la Primera Categoría. El artículo 18 antes mencionado, dispone en su inciso\nprimero, que en los casos de las operaciones que indica dicha norma, dentro de las cuales se comprende la\ncesión de bienes raíces, si tales operaciones representan el resultado de negociaciones o actividades\nrealizadas habitualmente por el contribuyente, el mayor valor que se obtenga estará afecto a los impuestos\nde Primera Categoría y Global Complementario o Adicional, según corresponda, agregando en su inciso\nsegundo, que cuando el Servicio determine que las operaciones antes referidas son habituales,\nconsiderando el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de que se trate,\ncorresponderá al contribuyente probar lo contrario.\nAhora bien, este Servicio mediante el Suplemento 6(11)-18, de fecha 23.10.1967, entregó ciertos elementos\nde juicio de tipo general que deben tenerse presente para concluir si existe o no habitualidad en la\nenajenación de los citados bienes, estableciendo en resumen en dichas instrucciones lo siguiente:\na) Si la única actividad del contribuyente resulta ser la inversión en bienes raíces, cabría considerar que su\nactividad o giro habitual es de carácter rentística;\nb) Sin perjuicio de lo anterior, debería precisarse si la compraventa de los bienes está presente en su objeto\nsocial como giro de la empresa, ya que de ser así, esta actividad tendría el carácter de habitual; y\nc) De no concurrir las circunstancias antes mencionadas, deberá analizarse una serie de otros factores que\nse indican en el citado instructivo para apreciar si las operaciones de compraventa de bienes raíces son\nhabituales o no.\n3.- Ahora bien, en el caso específico de la consulta planteada, y atendido a lo establecido en la instrucción\nantes mencionada, en cuanto a que la circunstancia de consignar en los estatutos de la sociedad vendedora,\nla compraventa de bienes raíces, como una de las actividades de su giro, debe entenderse que existe\nhabitualidad, pues las operaciones expresamente comprendidas en el giro u objeto social de una empresa\nson obviamente habituales respecto de ella, ya que al realizarlas se está cumpl"
+    },
+    {
+      "name": "Circular N°42 (05/06/2015)",
+      "source_type": "circular",
+      "source": "Circular N°42 (05/06/2015)",
+      "document_id": "72aed392-bcbe-5107-9c8f-9e467922a800",
+      "chunk_uuid": "bba74564-912e-5b08-b209-651eb8d241d9",
+      "chunk_id": 23,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu42.pdf",
+      "content": "uto. \n15   Este valor incluye el costo del inmueble menos el Impuesto al Valor Agregado incluido en la adquisición, el \nvalor del terreno (deducido sólo para efectos de presentar el valor del terreno en la facturación) y más el \nmargen de comercialización. \n\n\n \n22\nlos requisitos exigidos por el artículo 1.554 del Código Civil que lo distingue de otros tipos \nde contratos.  \n \nAdemás, se requiere que sean celebrados ya sea por escritura pública o por instrumento \nprivado protocolizado. En primer caso, se debe cumplir con lo dispuesto en los artículos \n1.699 del Código Civil y 403 y siguientes del Código Orgánico de Tribunales. Respecto de \nla segunda forma de celebración, los instrumentos privados deben protocolizarse al tenor \nde lo dispuesto en el artículo 415 del Código Orgánico de Tribunales. \n \nPor último, los contratos de promesa de venta de inmuebles celebrados deben también \ncumplir con lo señalado en el artículo 138 bis de la Ley General de Urbanismo y \nConstrucciones en el sentido que las personas naturales o jurídicas que tengan por giro \nla actividad inmobiliaria o aquellos que construyan o encarguen construir bienes raíces \ndestinados a viviendas locales comerciales u oficinas, que no cuenten con recepción \ndefinitiva y que celebren contratos de promesa de compraventa en los cuales el \npromitente comprador entregue todo o parte del precio del bien raíz, deberán otorgarlos \nmediante instrumentos privados autorizados ante notario y caucionarlos mediante póliza \nde seguro o boleta bancaria, aceptada por el promitente comprador. \n \nRespecto de la cesión de promesas de compraventa suscritas con anterioridad al 1° de \nenero de 2016, efectuada con posterioridad a dicha fecha, este Servicio podrá hacer uso \nde sus facultades fiscalizadoras a objeto de verificar que tales actos no tengan como \núnico objeto obtener la liberación del pago de IVA respecto de contratos de venta de \ninmuebles suscritos con posterioridad al 1° de enero de 2016, teniendo presente lo \ndispuesto por los nuevos artículos cuarto bis a quinquies del Código Tributario.  \n \nb) Transferencias de dominio de inmuebles que se efectúen en virtud de un contrato de \narrendamiento con opción de compra celebrado con anterioridad al 1 de enero de \n2016, en un contrato que se haya celebrado por escritura pública o instrumento \nprivado protocolizado. \n \nLos contratos de arrendamiento con opción de compra, deben ser celebrados ya sea por \nescritura pública o por instrumento privado protocolizado. En el caso del primero debe \ncumplir con lo dispuesto en los artículos 1.699 del Código Civil y 403 y siguientes del \nCódigo Orgánico de Tribunales. Respecto de la segunda forma de celebración, ella debe \npracticarse al tenor de lo dispuesto en el artículo 415 del Código Orgánico de Tribunales. \n \n \nIV.2. Artículo 7 transitorio. \n \nEl artículo 7° transitorio de la Ley N° 20.780 señala que: “Estarán exentas del impuesto al \nvalor agregado las ventas de bienes corporales inmuebles que se graven como \nconsecuencia de la modificación que se introduce en el artículo 2 del decreto ley N° 825, \nde 1974, a través de la letra a) del numeral 1 del artículo 2° de la presente ley, siempre \nque dichos bienes cuenten, al 1 de enero de 2016, con el permiso de edificación a que se \nrefiere la Ley General de Urbanismo y Construcciones, y las ventas respectivas se \nefectúen dentro del plazo de un año contado desde la fecha a que se refiere el numeral 1 \ndel artículo quinto transitorio”. \n \nPara que proceda la exención se requiere la concurrencia de dos requisitos copulativos, a \nsaber: \n \na) Contar con el permiso de edificación a que alude la Ley General de Urbanismo y \nConstrucciones al 1° de enero de 2016. \n \nSobre el particular, el inciso primero del artículo"
+    },
+    {
+      "name": "Circular N°49 (14/07/2016)",
+      "source_type": "circular",
+      "source": "Circular N°49 (14/07/2016)",
+      "document_id": "b3457fa8-ecc6-5cf6-89a7-66c4abd406e6",
+      "chunk_uuid": "1b8ceeeb-fcee-51f3-a86f-49a8f22ddfe5",
+      "chunk_id": 28,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2016/circu49.pdf",
+      "content": "eros, socios o accionistas hayan acordado repartir las \nutilidades de la empresa. Para que proceda esta forma de atribuir la renta, deben cumplirse los \nsiguientes requisitos copulativos: \n \n(a) Que exista un acuerdo expreso. \n \nEl acuerdo sobre la forma en que se efectuará el reparto de utilidades debe constar expresamente en \nel contrato social o en los estatutos de la sociedad, según corresponda, y en el caso de comunidades \nen una escritura pública que se otorgue al efecto. Tratándose de sociedades, se deberán cumplir las \nsolemnidades legales exigidas para la validez de este tipo de cláusulas contractuales o estatutarias. \n \nLa norma establece que el acuerdo debe versar sobre la forma en que se efectuará el reparto de \nutilidades, y por tanto, dicho acuerdo puede consistir en una definición de proporciones previamente \nestablecidas o determinadas, o bien, en una definición de proporciones determinables sobre criterios \nexpresados en dicho acuerdo.  \n \nSi bien la Ley no establece un criterio o referencia para que se acuerden las participaciones y las \npartes pueden hacerlo siguiendo su plena voluntad, resulta necesario concluir que tales acuerdos \ndeberían seguir criterios razonables en función de las actividades desarrolladas, los riesgos asumidos \ny los activos comprometidos en la empresa o entidad por el respectivo socio, accionista, o comunero \nsegún corresponda. Este Servicio, en virtud de lo dispuesto en los artículos 4 bis y siguientes del \nCódigo Tributario, podrá verificar que la forma en que los comuneros, socios o accionistas han \nacordado repartir sus utilidades, tiene o no por objeto eludir el pago de los impuestos IDPC, IGC o IA, \nmediante la simulación o abuso de las formas jurídicas, conforme se establece en las normas legales \nseñaladas, con las consecuencias y sanciones allí establecidas. \n \nSe hace presente que para poder aplicar esta regla de atribución en un año comercial determinado, \ndeberá haberse cumplido este requisito con anterioridad al término del mismo. \n \n(b) Que se haya informado a este Servicio, en la forma y plazo que establezca mediante resolución. \n \nSegún la referida norma legal, el contribuyente deberá haber informado al Servicio sobre el acuerdo \nrespecto de la forma de repartir las utilidades en la empresa, siendo aplicable lo dispuesto en el N° 6, \nde la letra A), del artículo 14 de la LIR. De acuerdo con esta última norma, tal información deberá ser \npresentada en la forma y plazo que este Servicio establecerá mediante resolución. \n \nA diferencia del requisito anterior, su cumplimiento se verificará con posterioridad a la fecha en que \ndeben atribuirse las rentas, pero con anterioridad a la fecha en que deben presentarse las \ndeclaraciones anuales de impuesto a la renta.  \n \nCabe señalar que la omisión de cualquiera de los dos requisitos señalados precedentemente, trae \ncomo consecuencia la imposibilidad de aplicar esta regla de atribución, debiendo en tal caso aplicarse \nla regla de atribución residual establecida en el numeral ii.2.- siguiente.  \n \n          \n27 Según lo dispuesto en la letra b), del N° 3, de la letra A), del artículo 14 de la LIR. \n\n\n22 \n \nEn caso que la información a que se refiere esta letra (b) se proporcione a este Servicio fuera del \nplazo legal que el Servicio fijará mediante Resolución, el contribuyente podrá aplicar dicha regla, pero \nsólo a partir del ejercicio comercial al que corresponda la fecha en que se dé cumplimiento a este \nrequisito. De esta manera, en el ejercicio en que no se hubiere proporcionado dicha información \ndeberá aplicarse la regla residual señalada en el numeral ii.2.- siguiente.  \n \nSe hace presente además que, una vez cumplidos los requisitos anteriores, el contribuyente sólo \npodrá aplicar esta regla de atribución, la que solamente podrá ser modificada mediante un nuevo \nacuerdo sobre la materia que cumpla con los mismos requisitos antes indicados.  \n \nii.2.- Regla residual de"
+    },
+    {
+      "name": "Oficio N°1420 (21/04/2006)",
+      "source_type": "oficio",
+      "source": "Oficio N°1420 (21/04/2006)",
+      "document_id": "e854328f-34fc-5c2a-9639-58df200ef9af",
+      "chunk_uuid": "16ad6e45-c39e-55ce-ba1e-c817d262fbb9",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2006/renta/ja1420.htm",
+      "content": " y demás derechos reales, y aún\npersonales, se exige la concurrencia de dos elementos jurídicos: un título y un modo de adquirir, y la\ntransferencia del dominio de los bienes raíces se efectúa por la inscripción del título en el Registro del\nConservador, forma en que se realiza la tradición de inmuebles según lo establecido en el artículo 686 del\nCódigo Civil, se informa a Ud. que tratándose de la compraventa de un bien inmueble, como es el caso\nplanteado, la enajenación a que se refiere la disposición legal indicada, debe entenderse precisamente\nefectuada por la inscripción del título (escritura pública del contrato de compraventa) en el Registro del\nConservador de Bienes Raíces.\nRICARDO ESCOBAR CALDERON\nDIRECTOR\nOficio N° 1420, de 21.04.2006\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Circular N°21 (09/03/1998)",
+      "source_type": "circular",
+      "source": "Circular N°21 (09/03/1998)",
+      "document_id": "c1f3e1e7-b35f-5ef0-90a7-f72e3ce5ea07",
+      "chunk_uuid": "f63c237a-cac4-594f-9426-afd256c21d6e",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/documentos/circulares/1998/circu21.pdf",
+      "content": " dicho contrato \nsocial, procederá informar el nombre del notario y Nº de repertorio de ser procedente.\n4.-\nFormulario 1815 Declaración Jurada Anual sobre Nómina de Bienes Raíces destinado al \ngiro o actividad comercial.\n4.1.- Sólo procede informar sobre aquellos bienes raíces destinados al giro o actividad comercial, \nde contribuyentes del Impuesto a la Renta de Primera Categoría, cuyas contribuciones dan \nderecho a que el contribuyente las rebaje como crédito contra el Impuesto a la Renta de Primera \nCategoría y/o  rebaja en el Impuesto Global Complementario o Adicional.\nAclarada por la Circular Nº 35, del 16 de junio de 1998 \n\n\n2\n        \n4.2.- Se informan los bienes raíces existentes al 31.12.97;  por la tanto por los bienes raíces \nvendidos durante el año 1997, no existe obligación de informar, sin perjuicio de que los \ncontribuyentes pueden hacer uso del crédito contra el Impuesto a la Renta de Primera Categoría \ny de la rebaja en la Renta Bruta del Impuesto Global Complementario o Adicional, según \ncorresponda,  por  el Impuesto Territorial pagado hasta que dejo de ser utilizado en su \nactividad.\n        \n4.3.- No procede informar sobre bienes raíces exentos de contribuciones.\n        \n4.4.- Procede que se informen los bienes raíces que se utilizan en una  parte  como  casa  \nhabitación  y  la  otra en la actividad, debiendo informarse como Monto Impuesto \nTerritorial pagado al 31.12,  la parte que corresponda a la proporción utilizada en la actividad.\n     \n   4.5.- Las personas naturales que entregan en arrendamiento bienes raíces agrícolas o no agrícolas, \nno se encuentran obligadas a presentar esta declaración por los bienes raíces que destinan \na este fin, sin embargo, cuando posean otros bienes raíces por los cuales se encuentran \nobligadas a presentar esta declaración, podrán incluir en ella los  bienes raíces destinados al \narrendamiento.\n  \n        \n4.6.- Los contribuyentes arrendatarios de bienes raíces no tienen la calidad de usufructuario, por \nlo que no les corresponde presentar esta declaración por los bienes que explotan en tal  \ncalidad.\n        \n4.7.- En el caso de los bienes poseídos en comunidad, procede indicar en la columna N° de RUT \ndel Propietario cuando es diferente del declarante, el N° de RUT de la comunidad,  señalando \nen la última columna de este formulario, el porcentaje de propiedad que le corresponda al \ndeclarante comunero, en el bien. Respecto del monto pagado por contribuciones durante 1997, \ndeberá indicarse sólo la proporción que le corresponda. Si la comunidad no posee N° de RUT \nno se registrará número alguno.\n       \n4.8.-\nEn la columna Destino, procederá indicar el que corresponda de acuerdo al uso que se de \nal bien, utilizando para ello la clasificación indicada al reverso del formulario. Así por ejemplo, \nsi un bien raíz clasificado como habitacional para los efectos del Impuesto Territorial,  se \nentrega en arrendamiento para ser utilizado como oficina, procederá que se informe como \ndestino del bien “ O “ ( Oficina ) y no “ H “ ( Habitación).\n       \n4.9.-\nNo procede informar respecto de aquellos bienes raíces adquiridos para la venta, como \ntampoco respecto de los terrenos adquiridos para el mismo efecto o para la construcción y su \nposterior venta, pues las contribuciones de bienes raíces pagadas por dichos bienes no dan \nderecho a la rebaja contra el Impuesto a la Renta de Primera Categoría. \n       \n4.10.- En la columna Monto Impuesto Territorial pagado al 31.12, procede informar el monto de \nlas contribuciones efectivamente pagadas durante el año 1997, debidamente actualizadas \nconforme a los factores de actualización publicados por este Servicio y sin importar"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Maule: Sentencia RIT-GR-07-00039-2012",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-07-00039-2012",
+      "document_id": "acf6fcaa-5263-5898-8409-64c1aff7ac38",
+      "chunk_uuid": "c162c481-547d-581e-9f70-77c58e2aa59f",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1251",
+      "content": " o copia autorizada del Testamento. –Escrituras Públicas de Compraventa de Bienes Raíces. –Comprobantes, certificados u otros documentos que acrediten rescates de Fondos Mutuos. –Certificados de Retiros y/o Dividendos percibidos de Empresas. –Certificados de Rentas Art. 42 N° 1 y/o N° 2 de la Ley sobre Impuesto a la Renta (Sueldos, Honorarios). –Cualquier otro que conduzca al mismo fin”.\n\nAsimismo, añade quela Citación expresa que “También deberá acompañar, todo instrumento público o privado que acredite el pago oportuno del impuesto de timbres y estampillas, el traspaso de los fondos, la capacidad económica del prestamista y los demás documentos que prueben que con esas rentas ingresadas a su patrimonio solventó las inversiones. Si los préstamos o créditos estuvieran pagados o se hubiere amortizado una parte de ellos, sírvase justificar el origen de los fondos con que se efectuaron ellos, para lo cual deberá presentar, además, los respectivos recibos de pago o de abono”.\n\nDice que, transcurrido el plazo legal para contestar la Citación y dado que la contribuyente no dio respuesta y no aportó ningún antecedente de los solicitados, se procedió a emitir las Liquidaciones Nos. 367 a 371, todas de fecha 06.06.2012, por no acreditar el origen de los fondos con que se efectuaron las inversiones, determinándose diferencias de impuestos de Primera Categoría y Global Complementario, por la suma de $121.047.172.-\n\nPosteriormente, señala que la reclamante presentó, con fecha 04.07.2012, solicitud de Revisión de la Actuación Fiscalizadora, en Formulario N° 3314, la cual fue acogida parcialmente mediante la Resolución Ex. N° 15818, de fecha 23.08.2012, que anula las Liquidaciones Nos. 369, 370 y 371, confirma la N° 367 y modifica la N° 368.\n\nPor otra parte, alega la improcedencia del reclamo interpuesto, en primer lugar, debido a que la reclamante no presentó la documentación tributaria requerida por el S.I.I. tanto en la Notificación N° 281, de fecha 27.10.2011 como en la Citación N° 22, de fecha 08.03.2012. Se fundamenta en que el S.I.I. dio cumplimiento a lo dispuesto en los artículos 63 y 64 del Código Tributario y artículo 70 inciso 2° del Decreto Ley N° 824, de 31.12.1974, indicando que las liquidaciones reclamadas han sido emitidas conforme a los presupuestos legales establecidos y en base a los antecedentes que se tenían al momento de su emisión, toda vez que la reclamante no dio cumplimiento a lo dispuesto en el artículo 21 del Código Tributario.\n\nSeñala que, no obstante lo anterior, la reclamante al solicitar la Revisión de la Actuación Fiscalizadora (R.A.F.), con fecha 04.07.2012, aportando parte de los antecedentes solicitados y que nunca acompañó, fueron anuladas 2 liquidaciones en forma íntegra, confirmándose las dos restantes (una en forma parcial). Al respecto, hace presente que la misma contribuyente en su reclamación tributaria reconoce haber presentado documentación parcializada de sus documentos y además indica que la información aportada al Servicio, para justificar la adquisición de una propiedad en Talca, era errada.\n\nAduce que la reclamante pretende presentar nuevos antecedentes en esta instancia, como cartolas de movimientos de fondos mutuos y que, además, solicitó la emisión de oficios para obtener más documentación, con la finalidad de desvirtuar la validez de las liquidaciones de autos, lo cual claramente constituiría una acción destinada a lograr la evasión del proceso de fiscalización, agregando que la reclamante no ha justificado su omisión e incumplimiento al respecto, por lo que se hace aplicable lo dispuesto en el artículo 132 inciso 11° del Código Tributario, no procediendo que el Tribunal"
+    },
+    {
+      "name": "Oficio N°3622 (02/08/2004)",
+      "source_type": "oficio",
+      "source": "Oficio N°3622 (02/08/2004)",
+      "document_id": "c8abbf62-19b9-5e82-9433-2bddd68ba420",
+      "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2004/renta/ja786.htm",
+      "content": "a del valor de\nadquisición, reajustado, con los impuestos de Primera Categoría, Global Complementario o Adicional, según\ncorresponda.\nDe lo establecido por las normas legales antes citadas, se desprende claramente que existen tres\nsituaciones en las cuales el mayor valor obtenido en la enajenación de bienes raíces, queda afecto a la\ntributación general que contempla la Ley de la Renta, a saber: a) cuando la operación represente el\nresultado de negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose que\nexiste habitualidad en las situaciones previstas por el inciso tercero del artículo 18 de la ley, señalada\nanteriormente; b) cuando se trate de la enajenación de bienes raíces que formen parte del activo de\nempresas que declaren su renta efectiva en la Primera Categoría, bastando para la aplicación de esta\nnormativa que los citados bienes integren el activo de la empresa, sin entrar a precisar el ítem o cuenta a\nque corresponden dichos bienes, y que las mencionadas empresas declaren su renta efectiva en la Primera\nCategoría, ya sea que estén obligadas a dicha base de declaración o hayan optado por tal modalidad; y c)\ncuando la enajenación de los citados bienes se efectúe a una empresa o sociedad con la cual el cedente se\nencuentre relacionado en los términos previstos en el inciso cuarto del Nº 8 del artículo 17 de la ley del ramo,\ncomentado anteriormente.\nDe acuerdo a lo antes señalado, uno de los requisitos para establecer la tributación que afecta al mayor\nvalor obtenido en la enajenación de bienes raíces, es si la operación es calificada de habitual o no,\nconsiderándose para estos efectos, según lo prescrito en el inciso segundo del artículo 18 de la Ley de la\nRenta, el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de los referidos\nbienes, correspondiendo al contribuyente probar lo contrario.\nAhora bien, este Servicio mediante Suplemento 6(11)-18, de fecha 23.10.1967, entregó ciertos elementos de\njuicio de tipo general que deben tenerse presente para concluir si existe o no habitualidad en la enajenación\nde los citados bienes, estableciendo en dichas instrucciones lo siguiente:\na) Si la única actividad del contribuyente resulta ser la inversión en bienes raíces, cabría considerar que su\nactividad o giro habitual es de carácter rentístico.\nb) Sin perjuicio de lo anterior, deberá precisarse si la compraventa de los bienes raíces está presente en su\nobjeto social como giro de la empresa, porque de ser así esta actividad tendría el carácter de habitual.\nc) De no concurrir la circunstancia mencionada en la letra que antecede, deberá analizarse los siguientes\nfactores para apreciar si las operaciones de compraventa de bienes raíces son habituales:\nc.1) Si en un mismo ejercicio comercial, se producen compras y ventas de bienes raíces, pues la\nhabitualidad no podría apreciarse por las solas compras o por las solas ventas.\nc.2) Lapso que ha mediado entre la fecha de venta de los citados bienes y la de su adquisición. Este hecho\nayudará a concluir si la compra fue para fines rentísticos o para su reventa.\nc.3) Si entre la fecha de adquisición y la de enajenación de los bienes, se produjo una valorización mayor\nque el precio obtenido en la enajenación de dicho tipo de bienes. Ello podría ilustrar que al comprar los\ncitados bienes, no habría ocurrido la intención de hacerlo para su reventa, desde luego que el contribuyente\nno aprovechó la oportunidad de obtener un mayor beneficio.\nc.4) Necesidad o motivo que tuvo el contribuyente para adquirir tales bienes, pues procedería establecer si la\ninversión se hizo únicamente para obtener una renta de ella o un provecho en la venta de los mismos. Si el"
+    },
+    {
+      "name": "Artículo 403",
+      "source_type": "ley",
+      "source": "CODIGO ORGANICO DE TRIBUNALES",
+      "document_id": "f4a4807d-b2c7-5c35-819e-bd3fac89de87",
+      "chunk_uuid": "6029a465-fe74-55fa-a99f-aca6e0070f09",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=25563&idParte=9783365",
+      "content": "Código ORGÁNICO DE TRIBUNALES CODIGO ORGANICO DE TRIBUNALES,TITULO XI Los Auxiliares de la Administración de Justicia,2). De las escrituras públicas,Artículo 403|Art. 403. Escritura pública es el instrumento público o auténtico otorgado con las solemnidades que fija esta ley, por el competente notario, e incorporado en su protocolo o registro público."
+    },
+    {
+      "name": "Artículo 659",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "3ce014d6-1af6-5a92-a515-44370292d36e",
+      "chunk_uuid": "d8702cb9-b00c-540f-aae6-3283ec70d43a",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768149",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título IX DE LOS JUICIOS SOBRE PARTICION DE BIENES,Artículo 659|Art. 659. (816). En las enajenaciones que se efectúen por conducto del partidor se considerará a éste representante legal de los vendedores, y en tal carácter suscribirá los instrumentos que, con motivo de dichas enajenaciones, haya necesidad de otorgar. Podrá también autorizar al comprador o adjudicatario o a un tercero para que por sí solo suscriba la inscripción de la transferencia en el conservador respectivo. Todo acuerdo de las partes o resolución del partidor que contenga adjudicación de bienes raíces se reducirá a escritura pública, y sin esta solemnidad no podrá efectuarse su inscripción en el conservador."
+    },
+    {
+      "name": "Circular N°43 (05/07/2021)",
+      "source_type": "circular",
+      "source": "Circular N°43 (05/07/2021)",
+      "document_id": "68545bf9-c1fd-5ded-9ee1-b2552b1c62ac",
+      "chunk_uuid": "284859d5-14f5-5ad5-ae2a-87fe275aed38",
+      "chunk_id": 24,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2021/circu43.pdf",
+      "content": "6, estableciendo cambios respecto \nde la tributación en la enajenación de bienes raíces situados en Chile, o de derechos o cuotas \nrespecto de tales bienes poseídos en comunidad, manteniendo en lo esencial el régimen tributario \ny la forma de determinación del costo tributario.  \n4.6.2. \nBienes contemplados en la letra b) \nDebe tratarse de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes \nraíces poseídos en comunidad. \nEn consecuencia, las enajenaciones de inmuebles situados en el extranjero no se gravarán \nconforme esta letra b), sino que con el IDPC e IGC o IA, según corresponda, por tratarse de rentas \nclasificadas en el N° 5 del artículo 20, en atención a lo dispuesto en el artículo 41 B. \n4.6.3. \nDeterminación de la tributación aplicable en las enajenaciones de la letra b) del N° 8 \n4.6.3.1. Precio o valor de la enajenación \nLa norma establece que, para determinar la tributación aplicable en las enajenaciones de bienes a \nque se refiere la letra b) deberán aplicarse las disposiciones de los literales ii)37 y iii)38 de la letra a) \ndel N° 8 del artículo 17, en lo que fueren pertinentes.  \nPor tanto, la determinación del resultado tributable en la enajenación de los bienes raíces se origina \nen la diferencia entre su precio o valor de enajenación o cesión y su costo tributario. \nPara ello, corresponderá considerar primeramente el precio o valor de la enajenación, el cual \nconsiste en la valorización económica del bien raíz que se enajena y que las partes libremente han \n          \n34 Números 7 y 8, del numeral I, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780.  \n35 Artículo décimo sexto transitorio de la Ley. \n36 Literal iii, de la letra d) del N° 9 del artículo segundo de la Ley. \n37 Norma que regula la determinación del mayor valor, previa deducción del costo tributario. \n38 Norma que regula la compensación de resultados de enajenaciones de la misma especie. \n\n\n21 \n \nacordado en la respectiva convención. Lo anterior, sin perjuicio de las facultades de tasación con \nque cuenta este Servicio, conforme al artículo 64 del Código Tributario y al párrafo cuarto del N° 8 \ndel artículo 17.  \n4.6.3.2. Fecha de adquisición y de enajenación \nDispone el párrafo quinto del N° 8 del artículo 17 que, tratándose de enajenaciones de bienes raíces \nsituados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, \nefectuadas por los contribuyentes a quienes les resulta aplicable esta disposición, se entenderá por \nfecha de adquisición o de enajenación la fecha de la inscripción respectiva. \nEn consecuencia, habiendo operado la tradición como modo de adquirir el dominio, ya sea respecto \ndel enajenante o del nuevo adquirente, deberá estarse a la fecha de la inscripción del respectivo \ntítulo en el Registro de Propiedad del Conservador de Bienes Raíces (CBR), por cuanto dicha \ninscripción es la forma en que se lleva a cabo la tradición de los bienes raíces y por tanto fija la \nfecha de adquisición o de enajenación, según corresponda39. \nSi el enajenante adquirió el dominio de los bienes por sucesión por causa de muerte, para efectos \ndel cómputo de los plazos deberá estarse a la fecha de la apertura de la sucesión la que, de acuerdo \ncon el artículo 955 del Código Civil, corresponde al momento de la muerte del causante. \n4.6.3.3. Costo tributario \na) \nValor de adquisición \nEl literal i) de la letra b) del N° 8 del artículo 17 dispone que el costo tributario en la enajen"
+    },
+    {
+      "name": "Oficio N°3400 (09/09/1999)",
+      "source_type": "oficio",
+      "source": "Oficio N°3400 (09/09/1999)",
+      "document_id": "9ad16238-d6db-5e46-98a5-1ce694f54d8d",
+      "chunk_uuid": "4af40f72-1d04-5afb-8f33-4136c49fca35",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1999/renta/agosto04.htm",
+      "content": " y prueba de sociedades a través de\nescritura pública inscrita y publicada - Requisitos de publicación: Art. 5º, Ley 18.046 - Fecha de\ndisolución de una sociedad luego de la fusión por incorporación a otra: Data de la escritura pública a\nque se redujo el acuerdo de fusión - Plazo para poner en conocimiento del S.I.I. información a que se\nrefiere inc. Final del Art. 68 del C. Tributario: Corre a contar de la fecha de publicación del extracto\nrespectivo (Resolución Nº Ex. 5.791, de 20.11.97).\n1.- Por Oficio Ordinario indicado en el antecedente se solicita pronunciamiento acerca de la fecha desde la\ncual se debe contar el plazo que tiene una empresa absorbida por otra S.A., para que la empresa disuelta\nsolicite la devolución del impuesto relacionado con el pago provisional por utilidades absorbidas.\nAl efecto, en la consulta referida se hace presente que de acuerdo a los antecedentes del caso en cuestión,\nel 28 de Noviembre de 1997 se redujo a escritura pública el acta de la Junta General de Accionistas de \"X1\nS.A.\", celebrada en esa misma fecha, acta en la cual se aprobó la fusión por incorporación de \"X2 S.A.\" Y\n\"X3 S.A.\", desapareciendo las dos primeras al ser absorbidas por esta última que subsiste, y en la que se\nexpresa que la fusión se produce a contar del 1º de Enero de 1997. Extracto de la escritura pública fue\ninscrito en el Registro de Comercio del Conservador de Bienes Raíces de Santiago y se publicó en el Diario\nOficial.\n2.- Sobre el particular, cabe recordar, en lo que interesa, que el inciso segundo del Nº 3 del artículo 31 de la\nLey sobre Impuesto a la Renta dispone, que: \"...En el caso que las pérdidas absorban total o parcialmente las\nutilidades no retiradas o distribuidas, el impuesto de Primera Categoría pagado sobre dichas utilidades se\nconsiderará como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad\nabsorbida, y se le aplicarán las normas de reajustabilidad, imputación o devolución que señalan los artículos\n93º a 97º de la presente ley.\"\nPor su parte, el artículo 97º de la ley citada al referirse a la devolución de los saldos de pagos provisionales\nestablece en su inciso cuarto, que: \" En caso que el contribuyente dejare de estar afecto a impuesto por\ntérmino de su giro o actividades y no existiere otro impuesto al cual imputar el respectivo saldo a favor,\n\n\ndeberá solicitarse su devolución al Servicio de Impuestos Internos, en cuyo caso el reajuste se calculará en\nla forma señalada en el inciso tercero, pero sólo hasta el último día del mes anterior al de devolución.\".\n3.- Ahora bien, la oportunidad que tiene el contribuyente que pone fin a sus actividades, para solicitar la\ndevolución al Servicio Impuestos Internos del saldo a su favor de los pagos provisionales, no es otra que\naquella en que el contribuyente, con ocasión de su término de giro, en cumplimiento de lo dispuesto en el\nartículo 69º del Código Tributario, presenta al Servicio –junto al aviso respectivo cuando corresponda- el\nbalance final de actividades o los antecedentes pertinentes, toda vez que éstos determinarán su resultado\ntributario, que arrojará en definitiva el impuesto a pagar o en su defecto los saldos generados en su favor.\nCabe señalar que este es el criterio de la Dirección Nacional sobre la materia, y que se encuentra implícito en\nla Circular Nº 66, de 1998, que: \"Imparte instrucciones referentes al procedimiento de Término de Giro e\nimplementa nuevo formulario \"Aviso y Declaración por Término de Giro\". En efecto, en este formulario\ndenominado \"AVISO Y DECLARACION POR TERMINO DE GIRO\", el contribuyente que pone fin a sus\nactividades: a) da aviso de término de giro,"
+    },
+    {
+      "name": "Oficio N°317 (07/02/2024)",
+      "source_type": "oficio",
+      "source": "Oficio N°317 (07/02/2024)",
+      "document_id": "259b76e0-220b-5774-a819-2426febf649d",
+      "chunk_uuid": "4dad6027-ed9c-5510-96b1-5db45fbce45d",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=317-07%2F02%2F2024.pdf&extension=pdf&acc=download&id=a288264a-833c-45c7-848f-314479d51d79&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – LEY N° 21.631 DE 2023 – CIRCULAR N° 51 DE \n2023 \n(ORD. N° 317, DE 07.02.2024) \nCrédito por compra de viviendas nuevas, Ley N° 21.631. \nDe acuerdo con su presentación, se firmó una promesa de compraventa en mayo de 2022, la cual la \ninmobiliaria accede a anular y realizar un nuevo compromiso de compraventa.  \nTras agregar que aún no cuenta con recepción final otorgada por la municipalidad y, por tanto, no hay \nfecha de entrega de la vivienda, consulta si realizando una nueva promesa de compraventa se estaría \ncumpliendo con los requisitos para acceder al beneficio establecido en la Ley N° 21.631.  \nAl respecto, se informa que, de acuerdo con la Ley N° 21.631, aquellas viviendas que no contaban con \nrecepción final conforme a la fecha de su entrada en vigencia (1° de noviembre de 2023), pueden acceder \nal beneficio siempre que respecto de ellas exista un contrato de promesa de compraventa que conste en \nescritura pública o documento protocolizado suscrito con fecha posterior al 16 de octubre de 2023.  \nSobre la posibilidad de anular la promesa ya efectuada y realizar una nueva, no corresponde a este Servicio \npronunciarse sobre las condiciones contractuales pactadas entre las partes.  \nFinalmente, cabe precisar que, para acceder al beneficio se deben cumplir los demás requisitos exigidos \npor la ley1, entre ellos, que la compraventa se celebre a partir del 1° de noviembre de 2023 y la vivienda \nadquirida se encuentre inscrita a nombre de la persona beneficiaria en el Conservador de Bienes Raíces \nrespectivo al 30 de septiembre de 2024. \n \n \n \n \nSIMÓN RAMIRÉZ GUERRA \nDIRECTOR (S) \n \n \n \nOficio N° 317, del 07.02.2024 \nSubdirección Normativa \nDepto. de Impuestos Directos \n \n1 Ver instrucciones en la Circular N° 51 de 2023. \n"
+    },
+    {
+      "name": "Artículo 497",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "4b39a560-c1ac-5e8b-b428-c1fee3d2cb17",
+      "chunk_uuid": "b4e6b89d-36f2-5b52-92e6-139f4c110fe8",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8768005",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título I DEL JUICIO EJECUTIVO EN LAS OBLIGACIONES DE DAR,Artículo 497|Art. 497. (519). Para los efectos de la inscripción, no admitirá el conservador sino la escritura definitiva de compraventa. Dicha escritura será subscrita por el rematante y por el juez, como representante legal del vendedor, y se entenderá autorizado el primero para requerir y firmar por sí solo la inscripción en el Conservador, aun sin mención expresa de esta facultad. Sin perjuicio de lo anterior, dicha escritura también podrá ser otorgada por el notario a través de documento electrónico, empleando medios tecnológicos que permitan su suscripción por el rematante y el juez, como representante legal del vendedor, siempre que el sistema electrónico permita garantizar debidamente la identidad de los mismos, así como la autenticidad de los datos asociados a la firma electrónica, tales como fecha y hora de suscripción. En ese caso, el juez y el rematante deberán suscribir la escritura mediante firma electrónica avanzada. A su vez, el notario deberá rubricarla mediante firma electrónica avanzada. Con todo, si el adjudicatario no contare con firma electrónica avanzada, el notario deberá firmar la escritura a su solicitud de conformidad al inciso anterior, dejando constancia en ella que la suscribe por sí y a requerimiento del adjudicatario. Estampada que sea la firma electrónica avanzada del notario en los términos referidos, se entenderá suscrita por el adjudicatario para todos los efectos legales. La escritura pública electrónica será inscrita por el Conservador de Bienes Raíces respectivo, de conformidad a lo dispuesto en el Título IV del Reglamento del Registro Conservatorio de Bienes Raíces. Los documentos que se insertaren a la escritura, de conformidad con el inciso tercero del artículo 495, serán agregados al final de un protocolo electrónico que tendrá el notario para estos efectos."
+    },
+    {
+      "name": "Oficio N°2625 (14/12/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°2625 (14/12/2018)",
+      "document_id": "67730004-b64a-5673-9e81-08741076d173",
+      "chunk_uuid": "abe0e09a-e845-5599-ad3d-b830f8205dcd",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja2625.htm",
+      "content": " cualquiera de las 4 alternativas que el legislador estableció, a\nelección del mismo contribuyente.\n \nDe las alternativas que la norma menciona, el consultante hace referencia a la indicada en el literal d) del N°\n6 del título IV del artículo tercero transitorio de la Ley 20.780, esto es, “el valor comercial del predio,\nincluyendo los bienes que contempla la ley N° 17.235, determinado por un ingeniero agrónomo, forestal o\ncivil, con, a lo menos, diez años de título profesional” , aprobado y certificado por una firma auditora con las\ncaracterísticas que la misma norma indica.\n \nPara acceder a dicha alternativa, el inciso segundo de la misma norma establece que deberá efectuarse la\ntasación dentro del primer ejercicio en que el contribuyente ingrese al régimen de renta efectiva, debiendo\ncomunicarlo a la Dirección Regional de este Servicio que corresponda a la firma auditora o tasadora.\n\n\n \nConsiderando la regla de contabilización del literal a) del N° 1 del título IV del artículo tercero transitorio de la\nLey 20.780, la diferencia entre el valor del inmueble registrado en el balance inicial y la tasación comercial del\nmismo, se tratará como ingreso diferido, a menos que la enajenación del inmueble se realice luego de que el\ncontribuyente lleve 3 años bajo el régimen de renta efectiva, en cuyo caso, dicha diferencia será considerada\ningreso no renta.\n \nPues bien, las consultas sobre este beneficio en particular tienen relación con una promesa de compraventa\nque podría ser celebrada antes de cumplir los 3 años indicados en el párrafo anterior, y cuyo adquirente\ndefinitivo podría ser una entidad relacionada, así como el hecho de incluir en la compraventa las plantaciones\nque se encuentren en el inmueble.\n \na.- En relación con el contrato de promesa, este contrato se encuentra regulado en el artículo 1554 del\nCódigo Civil, el cual se ha definido por la doctrina como “aquel por el cual las partes se obligan a celebrar un\ncontrato determinado en cierto plazo o en el evento de cierta condición” . Asimismo, el citado artículo\ndetermina los requisitos que deben concurrir copulativamente para poder calificar un contrato como promesa.\n \nSe trata de un contrato nominado, solemne, bilateral y oneroso, que crea una obligación de hacer,\nconsistente en la celebración de un contrato, sometido a modalidad, sea esta un plazo o una condición que\nse encuentran pendientes .\n \nEn relación al caso que se consulta, la promesa de una compraventa futura es válida, en tanto se dé estricto\ncumplimiento a los requisitos que señala el artículo 1554 del Código Civil. Sobre la transmisibilidad de los\nrequisitos del contrato prometido al contrato de promesa, en caso de que el primero sea un contrato real o,\ncomo en el caso que se consulta, solemne, situaciones que el numeral 4° del mencionado art. 1554 prevé ,\nse ha definido que ésta es improcedente . \n \nPor otra parte, el contrato que se pretende prometer es el de compraventa, regulado en los artículos 1793 y\nsiguientes, entendiéndose por tal que “es un contrato en que una de las partes se obliga a dar una cosa y la\notra a pagarla en dinero”. \n \nLa doctrina y jurisprudencia mayoritaria entienden que la compraventa no obliga a la enajenación del bien\nobjeto de la misma, sino a su “posesión pacífica y tranquila” , sino que se producirá a propósito de la\ntradición, en este caso, del inmueble.\n \nDe conformidad con lo dispuesto en los artículos 670, 686 y siguientes del Código Civil, la tradición de los\nbienes raíces, en tanto modo de adquirir el dominio, se efectuará mediante la “inscripción del título” en el\nRegistro de Propiedad del Conservador de Bienes Raíces de la comuna en que el inmueble se ubique.\n \nDe esta manera, la promesa de un contrato, en tanto de cumplimiento con los requisitos legales para"
+    },
+    {
+      "name": "Oficio N°1946 (29/07/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1946 (29/07/2015)",
+      "document_id": "badde882-bdf0-537d-b71d-4844a32e6b09",
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/renta/ja1946.htm",
+      "content": " que ocurrió en julio de 2010;\ny en cambio para los efectos de determinar la presunción de habitualidad en la venta del mismo bien raíz,\neste Servicio consideraría la fecha de inscripción del título en el Conservador de Bienes Raíces, esto es, en\nagosto de 2013, lo que a su juicio sería una incongruencia.\nAcompaña copia de la escritura definitiva de compraventa y adjudicación del bien raíz, de fecha 12 de agosto\nde 2013, y copia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces, de día 21\ndel mismo mes y año.\n3.- Por consiguiente, solicita se ratifique que para la aplicación de la presunción legal de habitualidad que\nestablece la última parte, del inciso 3°, del artículo 18 de la LIR, se debería considerar como fecha de\nadquisición del bien raíz, la de suscripción del acta de remate en pública subasta, evento que ocurrió el 20 de\njulio de 2010 y no la fecha de inscripción de la escritura de venta suscrita, que ocurrió el 21 de agosto de\n2013.\nII.- ANÁLISIS.\n1.- En primer lugar, se debe señalar que tanto el Oficio N°1.269, de 2013, a que se refiere su requerimiento,\ncomo otros sobre el mismo punto, han sido dictados en conformidad a lo establecido en el ordenamiento\njurídico, en el sentido que para la enajenación y adquisición del dominio se exige la concurrencia de dos\nelementos jurídicos, a saber, un título y un modo de adquirir; ya que los contratos como el de compraventa,\nno transfieren el dominio ni ningún otro derecho real, sino que de ellos sólo emanan derechos personales o\nde crédito. En el caso de los bienes raíces, dicha adquisición se efectúa precisamente por la inscripción del\ntítulo en el Registro de Propiedad del Conservador de Bienes Raíces respectivo, acto en virtud del cual se\nlleva a cabo la tradición de los indicados bienes . Por consiguiente, si bien en el caso en consulta se habría\nsuscrito el acta de remate en el mes de julio de 2010, en cuanto al momento en que se entiende adquirido o\n\n\nenajenado el dominio del bien raíz para los efectos de la aplicación de la presunción legal de habitualidad\nestablecida en la segunda parte, del inciso 3°, del artículo 18 de la LlR, la \"adquisición\" y venajenaciónw,\ntiene lugar sólo cuando el título de transferencia de dominio del inmueble respectivo, esto es, la compraventa\ndefinitiva, se encuentre debidamente inscrita a nombre del nuevo adquirente en el Registro de Propiedad del\nConservador de Bienes Raíces.\nPor lo anterior, en una venta forzada, el modo de adquirir el dominio, es decir, la tradición del derecho real de\ndominio sobre el bien raíz, está constituido por la competente inscripción en el Registro de Propiedad del\nConservador de Bienes Raíces, que tiene por título dicha venta, efectuada por el ministerio de la justicia .\n2.- En cuanto a lo expresado en su segunda presentación, cabe señalar que ella se refiere a una materia\ndistinta a la que resuelve el Oficio que solicita sea reconsiderado. Por una parte, alude al artículo 70 de la\nLIR, que dispone que cuando no se acredite el origen de los fondos con los que se han efectuado\ndeterminados gastos, desembolsos o inversiones, se presumirá que corresponden a utilidades afectas a\nImpuesto de Primera Categoría del N°3, del artículo 20, o en la Segunda Categoría conforme al N° 2, del\nartículo 42, según corresponda; y por otro lado, se refiere al inciso 3°, del artículo 18 de la LIR que establece\nla aplicación de una presunción legal de habitualidad en la venta o enajenación de bienes raíces. Dichas\ndisposiciones legales tienen presupuestos diferentes, ya que en el primer caso se debe acreditar la"
+    },
+    {
+      "name": "Circular N°81 (09/11/2001)",
+      "source_type": "circular",
+      "source": "Circular N°81 (09/11/2001)",
+      "document_id": "683d464a-e8a8-57f6-8349-809a8fcb7cd8",
+      "chunk_uuid": "726aad0e-145c-59cd-88d7-591baf71b782",
+      "chunk_id": 9,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu81.htm",
+      "content": "ia.\nLas escrituras públicas en las que conste la adquisición de bienes inmuebles, pagados total o parcialmente\ncon recursos provenientes de donaciones acogidas a la Ley N° 19.712, deberán expresar esta circunstancia.\nEn todo caso, el proyecto no podrá contemplar el financiamiento, en todo o en parte, de programas de\ncompeticiones o espectáculos realizados por organizaciones deportivas sobre la base de la participación de\ndeportistas profesionales. Asimismo, los donatarios no podrán ser personas jurídicas que persigan fines de\nlucro.\n\n\nLos bienes corporales muebles adquiridos con donaciones recibidas para un proyecto no podrán ser\nenajenados sino después de dos años contados desde la fecha de su adquisición. Los inmuebles sólo\npodrán ser enajenados después de cinco años contados desde igual fecha. El producto de la enajenación de\nunos y otros sólo podrá destinarse a otros proyectos del donatario. En el caso de los inmuebles, el dinero\nque se obtenga por su enajenación deberá destinarse a la adquisición de otro u otros bienes raíces, los\ncuales igualmente sólo estarán destinados al cumplimiento de las actividades del donatario. Estos últimos\ninmuebles también estarán sujetos a las obligaciones anteriores; y\n1.3) Los proyectos deberán contener una descripción de las actividades, adquisiciones y gastos que ellos\ninvolucren.\nEl donatario deberá suscribir con el donante un convenio de ejecución del proyecto con las especificaciones\ny formalidades que señale la Dirección Regional del Instituto Nacional del Deportes de Chile que\ncorresponda.\nLa Dirección Regional respectiva, realizará o encargará un seguimiento anual del proyecto sobre la base de\nlas cláusulas del convenio y emitirá un informe de resultados logrados, el que remitirá al Servicio de\nImpuestos Internos, al donante y al donatario, dentro de los tres primeros meses de cada año.\nEn el evento que se suspendiere definitivamente por cualquier causa la realización del proyecto y hubieren\nrecursos disponibles no utilizados, el donante podrá elegir otro proyecto del registro especial a que se refiere\nel artículo 68 de la Ley N° 19.712, o bien, destinar estos recursos a la Cuota Regional de la Región\nrespectiva.\nH) Donaciones que deben administrarse mediante una Comisión de Confianza\nh.1) Donaciones que el donante puede efectuar bajo la condición que se administren bajo una\nComisión de Confianza\nDe acuerdo a lo dispuesto por el artículo 67 de la Ley N° 19.712, el donante podrá efectuar donaciones bajo\nla condición de que tales recursos sean entregados en Comisión de Confianza a una institución bancaria\nestablecida en Chile, para que ésta administre e invierta los fondos destinados al financiamiento, total o\nparcial, de los gastos de infraestructura o equipamiento de un proyecto debidamente seleccionado, de\nconformidad con las disposiciones contenidas en la mencionada ley.\nh.2) Organizaciones Deportivas que han sido favorecidas con el subsidio para el Deporte\nEn el caso de donaciones destinadas a financiar gastos operacionales de organizaciones deportivas que\nhubieren sido favorecidas con el Subsidio para el Deporte, o bien, gastos operacionales de organizaciones\ndeportivas cuyos proyectos concursables hubieren sido seleccionados de conformidad a la Ley N° 19.712,\nlos recursos deberán obligatoriamente ser encargados en Comisión de Confianza a una institución bancaria\nestablecida en Chile. En estos casos, las donaciones deberán ser efectuadas por escritura pública, en la que\nse especificarán las condiciones y oportunidades de erogación y disposición de los recursos donados o\ncomprometidos y el destino de los mismos.\nh.3) Fecha en que se entienden perfeccionadas las donaciones entregadas en Comisión de Confianza\nLas donaciones que se entreguen en Comisión de Confianza no se entenderán perfeccionadas sino una vez\nque se utilicen en la ejecución del proyecto al cual fueron destinadas, sin perjuicio de lo cual el contribuyente\npodrá acogerse a los"
+    },
+    {
+      "name": "Oficio N°1233 (05/06/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1233 (05/06/2017)",
+      "document_id": "b01517ff-1492-5941-b007-f01a51c67ba7",
+      "chunk_uuid": "eadcc3c7-b1d3-52b7-b1d9-17798a4c84eb",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1233.htm",
+      "content": " ventas o servicios que se\nefectúen por medio de instrumentos públicos o privados firmados ante notario.\nConsiderando que las ventas de bienes raíces, en cuanto contratos solemnes requieren ser celebrados\nmediante escritura pública por disposición expresa del artículo 1801, inciso segundo, del Código Civil, no\nresulta obligatoria la emisión del documento tributario en análisis en las ventas de inmuebles, únicamente en\nla medida que concurran los requisitos legales para que la operación no se grave con el Impuesto a las\nVentas y Servicios o quede exenta del mismo, compartiendo esta Dirección Nacional el criterio expuesto por\nesa Dirección Regional.\nIII. CONCLUSIÓN\nNo resulta obligatoria la emisión de Facturas de Ventas y Servicios No Afectos o Exentos de IVA, dispuestas\npor la Resolución Exenta N° 6080, de 1999, respecto de las ventas de bienes raíces efectuadas por escritura\npública, solemnidad exigida por el artículo 1801 del Código Civil, únicamente en la medida que concurran los\nrequisitos legales para que la operación no se grave con el Impuesto a las Ventas y Servicios o quede exenta\ndel mismo. En caso contrario, tratándose de una operación gravada con dicho impuesto, corresponderá la\nemisión de la correspondiente factura afecta en conformidad a las reglas generales del D.L. N° 825, de 1974.\n\n\nCabe hacer presente que lo anterior debe entenderse sin perjuicio de que, en uso de las atribuciones\ndispuestas en los artículos 52° del D.L. N° 825, de 1974, y 88° del Código Tributario, este Servicio, en lo\nsucesivo, modifique la referida Resolución Exenta N° 6080, de 1999, o bien disponga por otro medio\nobligaciones análogas respecto de contribuyentes que realicen este tipo de operaciones, si se estima\nconveniente para el mejor resguardo del interés fiscal.\nEn este sentido, cabe hacer presente que la Resolución Exenta N° 16, de 2017, dispuso que toda persona\nnatural o jurídica, incluyendo las comunidades y las sociedades de hecho, que efectúen ventas de bienes\ncorporales inmuebles, entre otras operaciones, sean ellos de su propia producción o adquiridos de terceros,\nen aquellos casos en que éstas no se afecten con el Impuesto a las Ventas y Servicios, o bien se encuentren\nexpresamente exentas, deberán presentar al notario o demás ministros de fe actuantes, al momento de la\nsuscripción del referido contrato, la “Declaración Jurada Artículo 75 del Código Tributario”, dejando\nconstancia en forma expresa en ésta, de la circunstancia que no hace aplicable el ya mencionado impuesto y\nsu fundamento.\n  \nFERNANDO BARRAZA LUENGO\nDIRECTOR\n \nOficio 1233, de 05.06.2017\nSubdirección Normativa\nDpto. de Impuestos Indirectos\n"
+    },
+    {
+      "name": "Oficio N°1337 (15/07/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1337 (15/07/2020)",
+      "document_id": "fc2e1004-6290-57d4-817f-5ddd2a70b2b9",
+      "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1337-15%2F07%2F2020.pdf&extension=pdf&acc=download&id=dcd34933-9433-4c93-9152-4ca2f83503e0&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 21.210, ART. VIGÉSIMO \nTERCERO TRANSITORIO – LEY N° 20.780, ART. TERCERO TRANSITORIO N° XVI  \n(ORD. N° 1337 DE 15.07.2020). \n \nTratamiento tributario del mayor valor obtenido en la enajenación de bienes raíces fusionados. \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario del mayor valor \nobtenido en enajenación de un bien raíz originado de la fusión de tres bienes raíces. \nI \nANTECEDENTES \nDe acuerdo a los antecedentes, una persona natural sin contabilidad adquirió tres bienes raíces, dos de \nlos cuales fueron adquiridos antes del año 2003 y el tercero después de ese año. \nSe informa que todos los bienes raíces serían fusionados en un solo rol y bajo el mismo dueño, a \npropósito de lo cual formula las siguientes consultas, haciendo presente que el bien raíz se encontraría \nya fusionado: \n1) \n¿Cómo se aplica el ingreso no renta de los bienes adquiridos antes del año 2003 y que pasa con el \nbien adquirido después del año 2003, considerando que ya están fusionados en uno solo \n2) \n¿Qué ocurre con la exención de las 8.000 UF?, ¿estará afecto al beneficio para el caso de la \nadquisición del bien raíz posterior al año 2003? \nII \nANÁLISIS \nComo cuestión previa, es preciso indicar que la fusión de los tres bienes raíces que se pretende llevar a \ncabo implicará necesariamente que la posterior compraventa y enajenación que describe será respecto \nde un solo bien raíz, a saber, el resultante de la fusión, y no de tres bienes raíces distintos, como se \ndesliza en la consulta. \nAclarado lo anterior, cabe señalar que, de acuerdo con el inciso final del numeral XVI del artículo \ntercero transitorio de la Ley N° 20.780, el mayor valor obtenido en la enajenación de bienes raíces \nsituados en Chile, o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, por \npersonas naturales que no determinen el Impuesto de Primera Categoría sobre rentas efectivas, siempre \nque hayan sido adquiridos antes del 1° de enero de 2004, cualquiera sea la fecha de su enajenación, se \nsujetará a las disposiciones de la Ley sobre Impuesto a la Renta (LIR), según su texto vigente al 31 de \ndiciembre de 2014. Por su parte, el artículo vigésimo tercero transitorio de la Ley N° 21.210 estableció \nque, para aplicar la regla del numeral XVI señalado, se entenderá que las operaciones fueron realizadas \npor contribuyentes que determinaban el impuesto de primera categoría sobre rentas efectivas si, al \nmomento de su enajenación, los bienes formaban parte del giro, actividades o negociaciones de su \nempresa individual. \nCabe recordar que, en la LIR vigente al 31 de diciembre de 2014, el mayor valor obtenido en la \nenajenación de bienes raíces podía constituir, bajo ciertas circunstancias, un ingreso no renta, sin topes, \na diferencia de lo que ocurre con la LIR vigente a partir de 2017, en que si se cumplen ciertos requisitos, \nconstituye un ingreso no renta pero con tope de 8.000 UF. \nPor otra parte, atendido que la fusión de los bienes raíces en uno solo no constituye enajenación, porque \nlos bienes raíces siempre han formado parte del patrimonio del mismo propietario, cabe determinar si la \nenajenación del bien raíz resultante de la fusión, como un todo, obliga a distinguir la conformación del \nmayor valor y su tratamiento tributario, según la época en que los bienes raíces fueron individualmente \nadquiridos antes de la fus"
+    },
+    {
+      "name": "Artículo 1801 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "fa4cc0d9-b3ae-565f-a3f0-60a876fc1cd1",
+      "chunk_uuid": "87f36fcd-b663-5fb0-9108-6bd9bf3cf565",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719804",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXIII DE LA COMPRAVENTA,Artículo 1801 (DEL ART. 2)|Art. 1801. La venta se reputa perfecta desde que las partes han convenido en la cosa y en el precio; salvas las excepciones siguientes. La venta de los bienes raíces, servidumbre y censos, y la de una sucesión hereditaria, no se reputan perfectas ante la ley, mientras no se ha otorgado escritura pública. Los frutos y flores pendientes, los árboles cuya madera se vende, los materiales de un edificio que va a derribarse, los materiales que naturalmente adhieren al suelo, como piedras y sustancias minerales de toda clase, no están sujetos a esta excepción."
+    },
+    {
+      "name": "Oficio N°1337 (15/07/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1337 (15/07/2020)",
+      "document_id": "fc2e1004-6290-57d4-817f-5ddd2a70b2b9",
+      "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1337-15%2F07%2F2020.pdf&extension=pdf&acc=download&id=dcd34933-9433-4c93-9152-4ca2f83503e0&mediaType=application%2Fpdf",
+      "content": " 8.000 UF. \nPor otra parte, atendido que la fusión de los bienes raíces en uno solo no constituye enajenación, porque \nlos bienes raíces siempre han formado parte del patrimonio del mismo propietario, cabe determinar si la \nenajenación del bien raíz resultante de la fusión, como un todo, obliga a distinguir la conformación del \nmayor valor y su tratamiento tributario, según la época en que los bienes raíces fueron individualmente \nadquiridos antes de la fusión. \nAl respecto, cabe tener presente que la norma transitoria trata del mayor valor obtenido en la \nenajenación “de bienes raíces” situados en Chile, “o de derechos o cuotas respecto de tales bienes raíces \nposeídos en comunidad”. Si bien la consideración a los derechos o cuotas respecto de un bien raíz se \naplica, en principio, a los bienes raíces poseídos en comunidad, nada impide aplicar ese mismo criterio \n(considerar el derecho o cuota de dominio) cuando el bien raíz, como en el presente caso, es el resultado \nde un proceso de fusión de bienes raíces individualmente adquiridos en distinta época, por el mismo \ntitular. \n\n\n2 \n \nA partir de lo anterior, es posible distinguir intelectualmente, del mayor valor obtenido en la \nenajenación del inmueble fusionado, la parte o cuota que corresponda a cada bien raíz individualmente \nadquirido, según su fecha de adquisición para determinar su respectivo tratamiento tributario. \nPor otra parte, para tener parámetros de valoración comparables y determinar la proporción que cada \nuno de los bienes raíces representa en el mayor valor total, se deberá considerar el avalúo fiscal de cada \nuno de los bienes raíces según su avalúo vigente en el semestre anterior al semestre de la fusión. \nDe este modo, y siempre que el enajenante cumpla los requisitos para calificar la parte o cuota del \nmayor valor que corresponda como un ingreso no renta, determinada la proporción correspondiente a \nlos bienes raíces adquiridos antes del 1 de enero de 2004, aplicada al mayor valor determinado en la \nenajenación que realice, será un ingreso no renta sin tope de las 8.000 UF, mientras que la proporción \nrestante, un ingreso no renta afecto al tope referido. \nLo dicho puede ejemplificarse de la siguiente manera: \n \nIII \nCONCLUSION \nPara determinar el tratamiento tributario del mayor valor obtenido en la enajenación de un bien raíz \nresultante de una fusión, cuando algunos de los bienes raíces fusionados fueron adquiridos antes del año \n2004 y otros después, se deberá distinguir según la parte o cuota que, en el mayor valor total, le \ncorresponda a cada bien raíz individualmente considerado, siempre que se cumplan los requisitos para \ncalificar la parte o cuota que corresponda como un ingreso no renta, ya sea en su totalidad o con el tope \nde las 8.000 UF, conforme la legislación aplicable. \nSaluda a usted, \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \nOficio N° 1337 del 15-07-2020 \nSubdirección Normativa \nDepto. de Impuesto Directos \n"
+    },
+    {
+      "name": "Circular N°68 (07/11/1997)",
+      "source_type": "circular",
+      "source": "Circular N°68 (07/11/1997)",
+      "document_id": "77822b10-41a0-506b-8a24-3c2c2b079c96",
+      "chunk_uuid": "5f7b3e0d-8a4c-5693-ba6e-9806e963f679",
+      "chunk_id": 7,
+      "url": "https://www.sii.cl/documentos/circulares/1997/circu68.pdf",
+      "content": "enticidad, \nincluso, en la etapa de reclamo, podrá valerse de la prueba testimonial; ello porque en \neste caso no se trata de demostrar la verdad o existencia de una obligación, sino el \nhecho material de ser auténtico el documento. \nCon todo, debemos plantear que la prueba de la simulación normalmente será \nindirecta, sobre la base de indicios o conjeturas (presunciones) toda vez que es este \ntipo de prueba la que verdaderamente puede dilucidar la existencia de una simulación. \nSituaciones especiales relacionadas con la prueba instrumental. \nA.-  Falta de instrumento público en los actos que es exigido como solemnidad. \nCuando se omite un instrumento público exigido por vía de solemnidad, como ocurre con la \ncompraventa de bienes raíces, el acto o contrato no llega a perfeccionarse porque le falta uno \nde sus requisitos de existencia, y no puede probarse lo que no existe o es inútil la prueba en \nactos que son absolutamente nulos (Artículo 1701 inciso 1 Código Civil). Ni siquiera la \nconfesión judicial tiene valor para acreditar la existencia de un acto o contrato cuya \nsolemnidad es el instrumento público, si éste se ha omitido. \nB.-  Conversión del instrumento público nulo en privado. \nCuando el instrumento público no es exigido por vía de solemnidad y es defectuoso por \nincompetencia del funcionario que lo autoriza o por otra falta en la forma, la ley le da valor \nde instrumento privado si está firmado por las partes (Código Civil, artículo 1701 inciso 2). \nPara que el instrumento público valga como privado debe, entonces, reunir los siguientes \nrequisitos: \n1.-  Debe ser nulo por incompetencia del funcionario autorizante o por adolecer de vicios \nen la forma (Ejemplo: falta de autorización por parte del notario). \n2.-  Debe referirse a actos o contratos en que la ley no requiere como solemnidad el \ninstrumento público (Ejemplo: contrato de mutuo de dinero). \n3.-  Debe estar firmado por las partes. \nConvertido en instrumento privado, al documento público que llena los requisitos señalados, \nse le aplican las reglas del instrumento privado, especialmente en lo relacionado con su valor \nprobatorio. \nC.-  Instrumentos públicos otorgados en el extranjero. \nLa forma o solemnidades externas de un instrumento público se determinan por la ley del \npaís en que haya sido otorgado, pero su autenticidad, consistente en el hecho de haber sido \nrealmente otorgado y autorizado por las personas y de la manera que en dichos instrumentos \nse exprese, se prueba según las normas establecidas para esos efectos en el Código de \nProcedimiento Civil. \nEn este último sentido, los instrumentos públicos otorgados fuera de Chile deberán \npresentarse debidamente legalizados, y se entenderá que lo están cuando en ellos conste el \ncarácter público y la verdad de las firmas de las personas que los han autorizado, atestiguadas \nambas circunstancias por los funcionarios que, según las leyes o la práctica de cada país, \ndeban acreditarlas. El procedimiento para legalizar un instrumento otorgado en el extranjero \nse encuentra regulado en los artículos 345 y siguientes del Código de Procedimiento Civil, y \nartículo 420 del Código Orgánico de Tribunales. \nUna vez legalizados, los instrumentos públicos otorgados en país extranjero tienen el mismo \nvalor probatorio que los otorgados en Chile. \n\n\nDejada sin efecto\nCabe advertir que los instrumentos privados otorgados en el extranjero no están sometidos \nal trámite de la legalización, sin perjuicio de lo cual, los artículos 108 y 109 del Reglamento \nConsular aprobado por Decreto Supremo No. 172, de 23 de marzo de 1977, contemplan la \nposibilidad de autenticarlos, trámite que resulta equivalente a una autorización notarial de \nlas firmas. \nD.-  Fecha cierta del instrumento privado respecto de terceros. \nExisten algunas situaciones previstas en los art"
+    },
+    {
+      "name": "Oficio N°209 (27/01/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°209 (27/01/2012)",
+      "document_id": "0c6d875f-7598-5291-958a-c24829cfbe67",
+      "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja0209.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2012\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y ART. 17°, N°8, ART. 18° y CÓDIGO CIVIL, ART. 686.\n(ORD. N° 0209, DE 27.01.2012)\nANÁLISIS SOBRE LA PRESUNCIÓN LEGAL DE HABITUALIDAD EN LA ENAJENACIÓN DE UN BIEN\nRAÍZ y FECHA INICIAL A CONSIDERAR PARA EL CÓMPUTO DEL PLAZO DE UN AÑO y FECHA DE\nLA INSCRIPCIÓN EN EL REGISTRO DE PROPIEDAD DEL CONSERVADOR DE BIENES RAÍCES, DEL\nTÍTULO QUE DA CUENTA DE LA COMPRA Y POSTERIOR VENTA DEL BIEN RAÍZ.\nI.- ANTECEDENTES.\nUna persona natural, celebró un contrato de compraventa de un bien raíz el xx de mayo de 2007,\npracticándose la inscripción en el Registro de Propiedad del Conservador de Bienes Raíces respectivo el xx\nde octubre del mismo año. Por otra parte, el xx de julio de 2008, ahora como vendedor, suscribió la escritura\npública de venta del mismo bien con fecha xx de julio de 2008, título que habría sido inscrito en el Registro\nde Propiedad con fecha xx de agosto del mismo año.\nAdicionalmente, luego de referirse a lo dispuesto en la parte final, del inciso 3°, del artículo 18, de la LIR,\ndescribe una serie de circunstancias previas y concurrentes a las operaciones señaladas precedentemente,\npara finalizar solicitando un pronunciamiento de este Servicio sobre cuál es el hecho a considerar para los\nefectos para computar los plazos establecidos en la citada disposición legal, y si, en la situación descrita,\nexiste o no habitualidad en la enajenación del bien raíz a que se refiere.\nII.- ANÁLISIS.\nTal como este Servicio ha sostenido con anterioridad de conformidad con las disposiciones de la LIR, existen\ntres casos en los cuales el mayor valor obtenido en la enajenación de bienes raíces queda afecto a la\ntributación general que contempla dicho texto legal, a saber: a) cuando la operación represente el resultado\nde negociaciones o actividades realizadas habitualmente por el contribuyente, presumiéndose que existe\nhabitualidad en las situaciones previstas en el inciso 3°, del artículo 18, de la LIR; b) cuando se trate de la\nenajenación de bienes raíces que formen parte del activo de empresas que declaren su renta efectiva en la\nPrimera Categoría; y c) cuando la enajenación de tales bienes se efectúe a una empresa o sociedad con la\ncual el cedente se encuentre relacionado en los términos del inciso 4°, del Nº 8, del artículo 17, de la LIR.\nAhora bien, respecto de la interpretación del concepto de enajenación que emplea el artículo 18, de la LIR,\neste Servicio ha sostenido que no existiendo en el ordenamiento jurídico un concepto específico para efectos\ntributarios, dicha expresión debe entenderse en el sentido que le confiere el derecho común. Agrega dicha\njurisprudencia que en nuestra legislación, para la transferencia del dominio y demás derechos reales, y aún\npersonales, se exige la concurrencia de dos elementos jurídicos, a saber; un título y un modo de adquirir, y la\ntransferencia del dominio de los bienes raíces se efectúa por la inscripción del título en el Registro de\nPropiedad del Conservador de Bienes Raíces respectivo, forma en que se lleva a cabo la tradición de los\nbienes inmuebles, según lo establecido en el artículo 686 del Código Civil. Por ello, tratándose de la\ncompraventa de un bien inmueble, la enajenación a que se refiere el artículo 18, de la LIR, debe entenderse\nprecisamente efectuada por la inscripción del título en el citado Registro.\nIII.- CONCLUS"
+    },
+    {
+      "name": "Oficio N°3024 (02/08/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°3024 (02/08/2000)",
+      "document_id": "3376ef59-b7a1-55e6-a2c5-8a14d1978ee6",
+      "chunk_uuid": "a2819a1b-5eff-538d-8a69-d1ee74ce3f31",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2000/otras/septiembre11.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nEmisión de escritura complementaria para efecto de acogerse al beneficio tributario -\nInstrucciones Circular N° 46, del año 1999 - Adquirente de la vivienda deberá dejar\nconstancia expresa en escritura respectiva que se acoge a beneficio tributario - De no\ncumplirse condición contribuyente no está facultado para hacer uso de rebaja tributaria -\nPara que escritura complementaria surta efecto frente a terceros para hacer uso del\nbeneficio tributario - Debe tratarse de una contraescritura pública cuyo contenido se tome\nrazón al margen de la escritura matriz (art. 1.707, Código Civil).\n1.- Por Ordinario indicado en el antecedente, señala que se ha recibido en esa Dirección Regional\nun escrito, que solicita un pronunciamiento acerca de la procedencia de emisión de una escritura\ncomplementaria tendiente a solucionar omisión en escritura de mutuo hipotecario, de inserción de\ncláusula que faculta al mutuario a acogerse al beneficio establecido en el artículo 1° de la Ley N°\n19.622/99.\n2.- Sobre el particular, cabe expresar en primer término, que el inciso tercero del artículo 1º de la\nLey Nº 19.622, de 1999, establece que para la procedencia del beneficio establecido en el inciso\nprimero de dicho artículo, el adquirente de la vivienda deberá dejar constancia, en la escritura\nrespectiva, de que se acoge al citado beneficio.\n3.- Por su parte, las instrucciones impartidas por esta Dirección Nacional a través de la Circular\nNº 46, de 1999, han establecido respecto de esta materia, que de conformidad a lo dispuesto en el\ninciso final del artículo 1º de la Ley Nº 19.622, para la procedencia del beneficio en comento, los\ncontribuyentes deberán dejar constancia expresa en la escritura pública respectiva que se acogen a\ndicha franquicia, consignando en el citado instrumento público una leyenda de un tenor similar a\nla siguiente: \"La vivienda que se adquiere, se construye o autoconstruye, o se compromete a\nadquirir, según corresponda, singularizada en el presente instrumento público, se acoge a los\nbeneficios tributarios a que se refiere la Ley Nº 19.622, publicada en el Diario Oficial de 29 de\njulio de 1999 por cumplir con las condiciones y requisitos que exige dicho texto legal.\"\n4.- Como se puede apreciar tanto de la norma legal señalada como de las instrucciones referidas,\naparece claro que la constancia expresa que se exige de incorporar en la escritura respectiva en\ncuanto a acogerse al beneficio tributario, es una condición a cumplir para los fines de poder\nimpetrar la franquicia impositiva. Por lo tanto, al no cumplirse con esta condición, el\ncontribuyente no se encuentra facultado para poder hacer uso de la rebaja tributaria dispuesta por\nla Ley Nº 19.622.\n5.- Ahora bien, en cuanto a la posibilidad de aceptar alguna rectificación o complementación de la\nescritura hecha con las mismas formalidades de la escritura original, es pertinente señalar lo\ndispuesto por el artículo Nº 1.707 del Código Civil, esto es, que las escrituras privadas hechas por\nlos contratantes para alterar lo pactado en escritura pública, no producirán efecto contra terceros.\nAgrega dicha disposición, que tampoco lo producirán las contraescrituras públicas, cuando no se\nha tomado razón de su contenido al margen de la escritura matriz cuyas disposiciones se alteran\nen la contraescritura, y del traslado en cuya virtud ha obrado el tercero.\n6.- De lo antes señalado, se concluye que para que dicha escritura complementaria surta efecto\nfrente a terceros (en este caso el Fisco) para los fines de hacer uso del beneficio tributario\nestablecido en la Ley Nº 19.622, debe tratarse de una contraescritura pública de cuyo contenido se\ntome raz"
+    },
+    {
+      "name": "Oficio N°1540 (24/05/2023)",
+      "source_type": "oficio",
+      "source": "Oficio N°1540 (24/05/2023)",
+      "document_id": "658d9a8f-e6ec-58d1-8345-498c42d45e96",
+      "chunk_uuid": "07756b54-1988-58c5-b0da-e48c7accd70b",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1540-24%2F05%2F2023.pdf&extension=pdf&acc=download&id=cd6afa26-5410-4406-8366-d2e923f07efd&mediaType=application%2Fpdf",
+      "content": "ó al otro sus respectivos derechos sobre cada inmueble, de \nmodo tal que, para cada inmueble, una parte fue adquirida al comprar en comunidad y la otra al \npermutarse los respectivos derechos.  \n \n \n1 Escritura pública de separación total de bienes y liquidación de sociedad conyugal de fecha 08.07.1997 y escritura pública de \nadjudicación y liquidación de comunidad de fecha 22.07.2010. \n2 No se trata propiamente de una exención, sino más bien de un ingreso no renta en los términos del artículo 17 de la LIR. \n3 En este sentido, si bien los documentos aportados utilizan el término “adjudicación”, estrictamente los cónyuges no recibieron bienes \ndeterminados en pago de sus cuotas, sino un porcentaje de derechos del otro cónyuge, motivo por el cual la fecha de adquisición de los \nbienes no se retrotrae a la fecha en que se formó la comunidad –como ocurre en el caso de una adjudicación con efectos declarativos–, \nsino a la fecha en que efectivamente se enajenaron los derechos. \n4 Conforme con el artículo 1796 del Código Civil, la compraventa entre cónyuges no separados judicialmente es nula. Esta regla, por \nremisión del artículo 1900 del mismo cuerpo normativo, es aplicable a la permuta. \n\n\n2 \n \nPrecisado lo anterior, y ahora respecto del tratamiento tributario del mayor valor obtenido al \nenajenar cada cónyuge sus respectivos inmuebles, se tiene presente lo siguiente:  \n \n(i) Conforme con el inciso final del numeral XVI del artículo tercero transitorio de la Ley N° \n20.780, el mayor valor obtenido en la enajenación de bienes raíces situados en Chile, o de \nderechos o cuotas respecto de tales bienes raíces poseídos en comunidad, por personas \nnaturales que no determinen el impuesto de primera categoría sobre rentas efectivas, siempre \nque hayan sido adquiridos antes del 1° de enero de 2004, cualquiera sea la fecha de su \nenajenación, se sujetará a las disposiciones de la Ley sobre Impuesto a la Renta (LIR), según \nsu texto vigente al 31 de diciembre de 2014.  \n \nPor su parte, el artículo vigésimo tercero transitorio de la Ley N° 21.210 estableció que, para \naplicar la regla del numeral XVI señalado, se entenderá que las operaciones fueron realizadas \npor contribuyentes que determinaban el impuesto de primera categoría sobre rentas efectivas si, \nal momento de su enajenación, los bienes formaban parte del giro, actividades o negociaciones \nde su empresa individual.  \n \n(ii) Cabe recordar que en la LIR vigente al 31 de diciembre de 2014 el mayor valor obtenido en la \nenajenación de bienes raíces podía constituir, bajo ciertas circunstancias, un ingreso no renta, \nsin topes, a diferencia de lo que ocurre con la LIR vigente a partir de 2017, en que, si se \ncumplen ciertos requisitos, constituye un ingreso no renta, pero con tope de 8.000 UF.  \n \n(iii) Ahora bien, la norma transitoria referida en los párrafos anteriores trata del mayor valor \nobtenido en la enajenación “de bienes raíces” situados en Chile, “o de derechos o cuotas \nrespecto de tales bienes raíces poseídos en comunidad”. Si bien la consideración a los derechos \no cuotas respecto de un bien raíz se aplica, en principio, a los bienes raíces poseídos en \ncomunidad, nada impide aplicar ese mismo criterio (considerar el derecho o cuota de dominio) \ncuando el bien raíz, como en el presente caso, es adquirido en partes y, por lo tanto, en fechas \ndistintas, pero por el mismo titular.  \n \nA partir de lo anterior, el tratamiento tributario del mayor valor obtenido en la enajenación del \ninmueble se determina distinguiendo la fecha en que fueron adquiridos los derechos sobre el \nrespectivo inmueble:  \n \n1) Si los derechos fueron adquiridos antes del 1"
+    },
+    {
+      "name": "Artículo 3",
+      "source_type": "ley",
+      "source": "LEY SOBRE SOCIEDADES ANONIMAS",
+      "document_id": "e0c4267e-d9d3-559b-be63-effaa6c01c34",
+      "chunk_uuid": "d36385cd-4713-5e7a-a18a-ce15b42f1600",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=29473&idParte=8637076",
+      "content": "Ley 18046 LEY SOBRE SOCIEDADES ANONIMAS,TITULO I De la sociedad y su Constitución,Artículo 3|Art. 3° La sociedad anónima se forma, existe y prueba por escritura pública inscrita y publicada en los términos del artículo 5°. El cumplimiento oportuno de la inscripción y publicación producirá efectos retroactivos a la fecha de la escritura. Las actas de las juntas de accionistas en que se acuerde modificar los estatutos sociales o disolver la sociedad, serán reducidas a escritura pública con las solemnidades indicadas en el inciso anterior. No se admitirá prueba de ninguna especie contra el tenor de las escrituras otorgadas en cumplimiento de los incisos anteriores, ni aun para justificar la existencia de pactos no expresados en ellas."
+    },
+    {
+      "name": "Oficio N°1884 (17/06/2002)",
+      "source_type": "oficio",
+      "source": "Oficio N°1884 (17/06/2002)",
+      "document_id": "08d6c013-647c-5256-9ca7-f727e403a7d2",
+      "chunk_uuid": "7538719c-610e-5fe1-af17-e28a332e895c",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja305.htm",
+      "content": "ada con los créditos a que se refiere este artículo, por los medios,\nforma y plazos que dicho Servicio determine.\"\n3.- De lo anterior, se desprende que el beneficio se concede según el criterio seguido por el legislador, de\nacuerdo al “destino“ del crédito con garantía hipotecaria, lo que configura la franquicia, sin importar el\nmomento en que la vivienda sea efectivamente adquirida. A lo más, el momento de la adquisición, tal como\nlo expresa el inciso 3° del artículo en análisis, importa para “hacer efectiva“ la rebaja tributaria. En otras\npalabras, si el promitente comprador no adquiere la vivienda sino transcurrido cierto plazo o condición, sin\nperjuicio de celebrar el correspondiente contrato definitivo de compraventa y su respectiva inscripción, a lo\nmás, no podrá hacer efectiva la rebaja tributaria en tanto no se cumpla el plazo o condición ni se inscriba el\ntítulo respectivo en el Registro de Propiedad del Conservador de Bienes Raíces.\nDe este modo, en los casos donde existan intereses efectivamente pagados durante el año calendario al que\ncorresponde la renta, devengados en créditos con garantía hipotecaria que se hubieren destinado a adquirir\nviviendas, pero en que las viviendas no hayan sido efectivamente adquiridas, no gozan de la rebaja tributaria\nhasta que éstas sean efectivamente adquiridas.\n4.- De lo antes expuesto, se advierte que no existe contradicción alguna entre esta interpretación y lo\ndispuesto en el artículo 55 bis de la Ley de la Renta, pues lo relevante no es la adquisición de la vivienda,\nsino el “destino“ conferido al crédito, siendo claro que en virtud del contrato de promesa de compraventa el\npromitente comprador no adquiere vivienda alguna, pero desde un punto de vista finalista es evidente que\ncelebra este contrato a fin o con el objeto de adquirir en un tiempo posterior la vivienda.\nPor lo demás, la doctrina está de acuerdo unánimemente en que el contrato de promesa de compraventa se\ncelebra cada vez que los contratantes no pueden o no quieren celebrar inmediatamente el contrato definitivo\nde compraventa, pero si celebrarlo en un tiempo posterior. La destinación que el promitente comprador dará\nal crédito, esto es, para adquirir una vivienda en una época posterior, queda de manifiesto por el solo\ncumplimiento de los requisitos señalados en el artículo 1.554 del Código Civil, en especial , “ que en ella se\nespecifique de tal manera el contrato prometido (compraventa), que sólo falten para que sea perfecto la\ntradición de la cosa (inscripción de la vivienda en el Registro de Propiedad) o las solemnidades que las leyes\nprescriban (escritura pública de compraventa)”.\n\n\n5.- Por último, en caso de fracasar el negocio prometido, ningún perjuicio se sigue en términos impositivos,\npues el promitente comprador jamás adquirirá la vivienda, y en consecuencia, jamás podrá rebajar el crédito\nen los términos exigidos por el inciso tercero del artículo 55 bis de las Ley de la Renta, pues en tal caso los\nintereses efectivamente pagados durante el año calendario al que corresponde la renta, devengados en\ncréditos con garantía hipotecaria que se hubieren destinado a adquirir viviendas nunca podrán ser\nrebajados, desde el momento en que nunca se verificó el contrato definitivo de compraventa ni su inscripción\nen el Registro de Propiedad del Conservador de Bienes Raíces.\n6.- En consecuencia, por las razones expuestas en los números precedentes, se concluye que es posible\naceptar los contratos de promesa de compraventa de viviendas y los créditos con garantía hipotecaria\ndestinados a la adquisición futura de dichas viviendas, para el sólo efecto que los contribuyentes aprovechen\nde contratar sus créditos a las actuales tasas de interés, sin perjuicio de lo cual sólo podrán hacer efectiva\ndicha rebaja del artículo 55 bis de la ley del ramo"
+    },
+    {
+      "name": "Circular N°24 (23/05/2024)",
+      "source_type": "circular",
+      "source": "Circular N°24 (23/05/2024)",
+      "document_id": "2b5185cd-ef97-5517-b915-49e703f50fbf",
+      "chunk_uuid": "ad686a0e-429e-54ca-9431-7530da4fa59a",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2024/circu24.pdf",
+      "content": "deban realizar, salvo que dicha intervención estuviere especialmente prevista por la ley o \nreglamento. \n \nDe esta forma, los únicos casos en que podría exigirse que en el otorgamiento del \ndocumento presentado hubiere tenido participación un Notario en calidad de tal, son \naquellos en que tal imposición proviene de una disposición expresa o explícita de la ley o \nreglamento en ese sentido. Por Ej., en el caso de los actos y/o contratos que se indican a \ncontinuación, cuya solemnidad consiste en su otorgamiento por escritura pública, lo que se \ncumple precisamente a través de la respectiva intervención notarial, a saber: \n \n• Inscripciones de derechos de dominio de usufructo, de uso, y de habitación (artículo \n697 Código Civil) \n• Tradición de los derechos de servidumbre (artículo 698 Código Civil)  \n• Compraventa de bienes raíces (artículo 1801 Código Civil) \n• Compraventa de servidumbres y sucesiones hereditarias (artículo 1801 Código Civil)  \n• Donaciones de bienes raíces, entre vivos (artículo 1400 Código Civil)  \n• Constitución de censos (artículo 2027 Código Civil)  \n• Hipotecas que se constituyen sobre los bienes inmuebles (artículo 2409 Código Civil) \n• Para la firma de contratos de renta vitalicia (artículo 2269 Código Civil) \n• Constitución de sociedades comerciales, anónimas, en comanditas por acciones o \nsociedades de responsabilidad limitada, en los casos que aquel trámite no se ajustó a \nlas facilidades a que se refiere la Ley N° 20.659.2 \n• Cualquier otro acto o contrato que deba necesariamente otorgarse por escritura \npública. \n \n \n1 Debe recordarse que la normativa procedimental contenida en la Ley N° 19.880 es supletoria en todos los \ntrámites ejecutados por o ante los órganos de la Administración del Estado que carezcan de una normativa \nadministrativa especial aplicable al efecto. \n2 La Ley N° 20.659, de 2013, simplificó el régimen de constitución, modificación y disolución de sociedades \ncomerciales, a través del Registro Electrónico de sociedades que lleva el Ministerio de Economía. \n \n\n\n3 \n \n2. GLOSARIO \nPara los efectos de este instructivo se entenderá por: \nInstrumentos públicos: aquellos que son autorizados con las solemnidades legales por el \ncompetente funcionario (inciso primero del artículo 1699 del Código Civil). \nInstrumentos privados: todos los demás, que no son autorizados por un funcionario \npúblico competente (interpretación a contrario sensu del inciso primero del artículo 1699 del \nCódigo Civil). \n \nFirma electrónica: cualquier sonido, símbolo o proceso electrónico, que permite al receptor \nde un documento electrónico identificar al menos formalmente a su autor (letra f) del artículo \n2° de la Ley N° 19.799). \n \nFirma electrónica avanzada: aquella certificada por un prestador acreditado, que ha sido \ncreada usando medios que el titular mantiene bajo su exclusivo control, de manera que se \nvincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección \nposterior de cualquier modificación, verificando la identidad del titular e impidiendo que \ndesconozca la integridad del documento y su autoría (letra g) del artículo 2° de la Ley N° \n19.799). \n \nFirma ológrafa: la que está escrita por la mano de su mismo autor; autógrafo (Diccionario \nde la Real Academia de la Lengua Española). \n \nAutorización de firma: actuación notarial por la cual el ministro de fe autoriza las firmas \nque se estampen en documentos privados, sea en su presencia o cuya autenticidad conste, \nen la que darán fe del conocimiento o de la identidad de los firmantes y dejarán constancia \nde la fecha en que se firman (Artículos 401 N° 10 y 425, ambos del Código Orgánico de \nTribunales). \n \nFecha electrónica: conjunto de datos"
+    },
+    {
+      "name": "Circular N°8 (07/02/2000)",
+      "source_type": "circular",
+      "source": "Circular N°8 (07/02/2000)",
+      "document_id": "8b9ecd34-5e56-514d-b711-f5322c1566b8",
+      "chunk_uuid": "f269980d-ff15-5b00-a96f-21afdc2235b8",
+      "chunk_id": 9,
+      "url": "https://www.sii.cl/documentos/circulares/2000/circu08.pdf",
+      "content": " que concurran además, otros indicios que denoten, por ejemplo, el pago opor-\ntuno del impuesto de timbres y estampillas, el traspaso de los fondos, la capacidad económica del \nprestamista, etc. \n \n \nHemos adelantado que se hará mención especial sobre el valor probatorio de los llamados \ndocumentos oficiales y privados que no dan cuenta de un acto o contrato y/o no se encuentran \nfirmados. \n \n \nLos documentos oficiales, que podemos definir como aquellos que para satisfacer necesi-\ndades públicas se expiden o firman por un funcionario público en su carácter de tal ( no se \"auto-\nrizan\" ), además de estar amparados por la presunción de verdad de toda declaración, se encuen-\ntran  revestidos por la presunción de legitimidad de los actos del Estado, razón por la cual, atento \na su naturaleza y circunstancias específicas, pueden bastarse a sí mismo para probar el hecho o \nacto de que dan cuenta. \n \n \nPor su parte, el valor probatorio de los documentos que no testimonian un acto o contrato \ny/o no se encuentran firmados, debe asimilarse al de los instrumentos privados en su acepción \nrestringida ( originan una presunción ), con la prevención de que en principio sólo sirven para \ndemostrar hechos, y sólo sumados a otros antecedentes pueden contribuir a establecer la prueba.  \n \n \n \n \nAutenticidad material de un documento \n \n \nSin perjuicio de lo dicho en relación con el valor probatorio de los distintos tipos de ins-\ntrumentos, y por estar vinculado de manera estrecha con el tema, debe analizarse el problema de \nla autenticidad material de los mismos. \n \n \nLa persona que exhibe un instrumento público  no necesita probar que es auténtico, toda \nvez que ello se presume por la circunstancia de haber intervenido en su otorgamiento un funcio-\nnario público. Luego, si el Servicio pretende impugnarlo, debe probar su falsedad. \n \n \nEn cambio, si un contribuyente acompaña un  instrumento privado, que el Servicio por \nalgún motivo fundado estima que puede ser falsificado, corresponderá probar la autenticidad del \ndocumento a la persona que lo hace valer.  \n \n \nSituaciones especiales relacionadas con la prueba instrumental: \n \n\n\n \n11\n \n- Falta de instrumento público en los actos que es exigido como solemnidad. \n \n \nCuando se omite un instrumento público exigido por vía de solemnidad, como ocurre con \nla compraventa de bienes raíces,  el acto  o contrato no llega a perfeccionarse porque le falta uno \nde sus requisitos de existencia, y no puede probarse lo que no existe o es inútil la prueba en actos \nque son absolutamente nulos (Artículo 1701 inciso 1º Código Civil). Ni siquiera la confesión \njudicial tiene valor para acreditar la existencia de un acto o contrato cuya solemnidad es el instru-\nmento público, si éste se ha omitido. \n \n \n- Conversión del instrumento público nulo en privado. \n  \n \nCuando el instrumento público no es exigido por vía de solemnidad y es defectuoso por \nincompetencia del funcionario que lo autoriza o por otra falta en la forma, la ley le da valor de \ninstrumento privado si está firmado por las partes (Código Civil, artículo 1701 inciso 2º). \n \n \nPara que el instrumento público valga como privado debe, entonces, reunir los siguientes \nrequisitos: \n \n \n1.- Debe ser nulo por incompetencia del funcionario autorizante o por adolecer de vicios \nen la forma ( Ejemplo: falta de autorización por parte del notario ).  \n \n \n2.- Debe referirse a actos o contratos en que la ley no requiere como solemnidad el instru-\nmento público ( Ejemplo: contrato de mutuo de dinero ). \n \n \n3.- Debe estar firmado por las partes. \n \n \nConvertido en instrumento privado, al documento público que llena los requisitos señala-\ndos, se le aplican las reglas del instrumento privado, especialmente en lo relacionado con su valor \nprobatorio. \n \n \n- Instrumentos públicos otorgados en el extranjero. \n  \n \nLa forma o solemnidades extern"
+    },
+    {
+      "name": "Oficio N°3420 (29/12/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°3420 (29/12/2016)",
+      "document_id": "55536d87-ec3f-5ab1-8b74-69769a5fe283",
+      "chunk_uuid": "d3018d7c-f75c-553d-9ff5-01b89ced015a",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja3420.htm",
+      "content": "otorgado mediante escritura pública de fecha xxx, que suscribió, como parte compradora, con el BBBB,\nrespecto del local N° xx, ubicado en ZZZ, y del departamento N° xx, del segundo piso del edificio ubicado\nZZZ, contrato que fue el resultado del ejercicio de la opción de compra estipulada en un contrato de leasing.\nSeñala que solicita lo anterior, con el objeto de dar cumplimiento a la declaración de los bienes adquiridos\nque conforman su activo, a realizarse durante el año 2015, dispuesta por la Ley N° 20.780, debiendo tributar\npor las ganancias de capital que excedan las 8.000 UF, para lo cual deberá considerar como costo de los\nbienes raíces adquiridos desde el xxx, el valor de adquisición reajustado, más las mejoras que forman parte\nde aquellos. Adjunta, entre otros antecedentes, los mismos que se individualizaron en el párrafo precedente y\ncopia simple de inscripción en el Registro de Propiedad, del Conservador de Bienes Raíces de xxx, a fojas\nxxxx N° xxxx, de fecha xxxx, del local N°xx, ubicado en ZZZ, comuna de Xxx, a nombre de Importadora\nTTTTT\nII.-       ANÁLISIS.\nCabe hacer presente, que si bien las consultas referidas precedentemente sólo dicen relación con la Ley N°\n20.780, sobre reforma tributaria, publicada en el Diario Oficial de fecha 29 de septiembre de 2014, dado que\nésta fue modificada por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona\notras disposiciones legales tributarias, publicada en el Diario Oficial de fecha 8 de febrero de 2016, el\npresente análisis se efectuará también considerando las modificaciones introducidas por este último cuerpo\nlegal a la Ley N° 20.780, de ser pertinente.\nAsimismo, se debe hacer presente, según consta expresamente en el contrato de arrendamiento otorgado\nmediante escritura pública de fecha xxx, ante el Notario Público Titular don YYY, entre el Banco BBBB e\nImportadora TTTTT, como arrendador y arrendatario, respectivamente, cuya copia simple se acompaña, que\nlos bienes raíces dados en arrendamiento fueron el local N° xx, ubicado en ZZZ, y el departamento N° xx, del\n\n\nsegundo piso del edificio ubicado en ZZZ, los que el arrendatario debía destinar a la explotación de sus\npropias actividades comerciales y que este último, al término del señalado contrato, podría optar por comprar\nlos bienes raíces arrendados, cuyo precio sería una cantidad equivalente a la última renta estipulada,\ncompraventa que se perfeccionaría mediante el otorgamiento y suscripción de la respectiva escritura pública.\nAclarado lo anterior, y ya que tanto las consultas realizadas por doña XXXX como por Importadora TTTTT\ndicen relación con la compraventa de los señalados bienes raíces por parte de esta última sociedad,\nproducto de haber ejercido la opción de compra estipulada en el referido contrato de arrendamiento, el\nanálisis pertinente a las mismas se realizará en forma conjunta.\n1)         En cuanto a la determinación del valor de adquisición de bienes raíces cuyo título traslaticio\nde dominio es la compraventa derivada del ejercicio de la opción de compra estipulada en un contrato\nde arrendamiento (leasing).\nEl contrato de leasing no está expresamente definido dentro del ordenamiento jurídico chileno, ni se han\nestablecido normas que lo regulen.[1]\nAl respecto, este Servicio ha sostenido que, dadas las características de dicho contrato, el leasing es\njurídicamente un contrato de arrendamiento de bienes, pues concurren en él las condiciones dispuestas en el\nartículo 1915 y en el inciso 1° del 1916, ambos del Código Civil[2].\nDe esta forma, las cuotas correspondientes a un contrato de leasing, calificado tributariamente como un\ncontrato de arrendamiento, como se dijo, en la medida que incidan en la generación de"
+    },
+    {
+      "name": "Oficio N°1343 (17/07/2025)",
+      "source_type": "oficio",
+      "source": "Oficio N°1343 (17/07/2025)",
+      "document_id": "7e01dd9d-4a74-5ea7-8d89-3a82e718039c",
+      "chunk_uuid": "5d10a4f2-dfa9-5f32-ae11-f03386b83931",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1343-17%2F07%2F2025.pdf&extension=pdf&acc=download&id=cd7ec164-8ea6-4d6e-8ff6-66e2390cc73a&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nLEY N° 20.993 – ART. CUARTO TRANSITORIO, N° 2, LETRA B) – CÓDIGO CIVIL, \nART. 1801, INCISO SEGUNDO.  (OFICIO Nº 1343, DE 17.07.2025) \n \nVenta de bienes raíces en conformidad con lo dispuesto en la letra B) del N° 2 del artículo \ncuarto transitorio de la Ley N° 20.993. \n \nDe acuerdo con su presentación, consulta si la expresión “año en que se efectúe la venta” \nempleada en los numerales i y ii de la letra B) del N° 2 del artículo cuarto transitorio de la \nLey N° 20.9931, debe interpretarse como el año en que se firma la escritura pública de \ncompraventa ante notario o el año en que se inscribe dicho acto en el Conservador de Bienes Raíces. \nAl efecto se informa que, atendido el tenor literal de la expresión que indica2 y considerando que, \nconforme con la legislación nacional, la compraventa de bienes raíces no se reputa perfecta mientras \nno sea otorgada la respectiva escritura pública3, debe entenderse que el “año en que se efectúe la \nventa”, para los efectos de las disposiciones citadas, corresponde al año en que se otorga la escritura \npública de compraventa. \n \n \n \n \n \nJAVIER ETCHEBERRY CELHAY \nDIRECTOR \n \n \nOficio N° 1343, de 17.07.2025 \nSubdirección Normativa \nDepto. de Técnica Tributaria \n \n \n \n1 Que modifica diversos cuerpos legales para facilitar el funcionamiento del sistema escolar. \n2 Que se contiene en el primer párrafo de los señalados numerales i. y ii. A este respecto, cabe precisar que el N° 2 del artículo cuarto \ntransitorio de la Ley N° 20.993, establece el tratamiento tributario de la venta de los bienes raíces donde funcionan los establecimientos \neducacionales que indica, noma que para efectos de determinar el mayor valor en dicha venta establece que el enajenante podrá optar \nentre dos alternativas de valor de adquisición. En el caso de optar por la tasación (letra B)), los referidos numerales establecen el valor a \nconsiderar, disponiendo, respectivamente: \n“El valor comercial, acreditado al 1 de enero del año en que se efectúe la venta, tratándose de inmuebles adquiridos de acuerdo a las \ndisposiciones del artículo sexto transitorio de la ley Nº 20.845, determinado por un perito tasador, ingeniero civil o ingeniero comercial, con, \na lo menos, diez años de título profesional, valor que deberá reajustarse de acuerdo a la variación del Índice de Precios al \nConsumidor entre el mes de diciembre del año anterior a la venta y el mes anterior a la venta. Dicho valor deberá ser aprobado y \ncertificado por una firma auditora registrada en la Superintendencia de Bancos e Instituciones Financieras o por una sociedad tasadora de \nactivos.” \n“El valor de tasación, acreditado al 1 de enero del año en que se efectúe la venta, determinado conforme a las reglas establecidas en el \nartículo octavo transitorio y siguientes del párrafo segundo de la ley Nº 20.845, tratándose de los inmuebles vendidos con créditos \ngarantizados por la Corporación de Fomento de la Producción.” \n3 Artículo 1801, inciso segundo, del Código Civil. \n"
+    },
+    {
+      "name": "Oficio N°223 (31/01/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°223 (31/01/2017)",
+      "document_id": "3f208e91-4690-5098-83ec-204b1957cb39",
+      "chunk_uuid": "5afac166-833b-5041-8833-dd0cef46bcb4",
+      "chunk_id": 9,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja223.htm",
+      "content": " reúne los requisitos dispuestos en el Art. 8°, letra l), del D.L. N°\n825, para afectarse con el tributo en comento.\n \nSin embargo, es la transferencia  del bien inmueble que se efectúe en virtud de estos contratos, la que se\nencuentra afecta a IVA, pues se configura a su respecto el hecho gravado “venta”, contenido en el Art. 2°, N°\n1, del D.L. N° 825.\n \nEn este caso el valor de la operación para efectos tributarios es el precio total cobrado por la vivienda, el cual\nincluye también todas las sumas que se hayan pagado previamente y que se imputen a dicho valor a\ncualquier título.\n\n\n \nEn este contexto, el Art. 6° transitorio, de la Ley N° 20.780, dispone en lo pertinente que “Las modificaciones\nintroducidas por el artículo 2° al decreto ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, no se\naplicarán a las ventas y otras transferencias de dominio de inmuebles, que se efectúen en virtud de un acto o\ncontrato cuya celebración se hubiere válidamente prometido con anterioridad a la fecha de entrada en\nvigencia de la presente ley…”.\n \nSobre el particular, la Circular N° 42, de fecha 5/6/2015, en su Título IV, instruye que para los fines de\naplicación de la norma comentada es indispensable que los contratos de promesa que se celebrarán con el\nobjetivo de regular la celebración de uno posterior que tenga por objeto la transferencia del dominio del\nrespectivo inmueble, cumplan con todos los requisitos exigidos por el artículo 1.554, del Código Civil que lo\ndistingue de otros tipos de contratos.\n \nAsimismo, agrega que se requiere que estos contratos sean celebrados ya sea por escritura pública o por\ninstrumento privado protocolizado.\n \nAl respecto, el Art. 1554, del Código Civil establece que “La promesa de celebrar un contrato no produce\nobligación alguna; salvo que concurran las circunstancias siguientes:\n \n1°    Que la promesa conste por escrito;\n2°    Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces;\n3°    Que la promesa contenga un plazo o condición que fije la época de la celebración del contrato;\n4°    Que en ella se especifique de tal manera el contrato prometido, que sólo falten para que sea perfecto, la\ntradición de la cosa, o las solemnidades que las leyes prescriban.\n \nConcurriendo estas circunstancias habrá lugar a lo prevenido en el artículo precedente”.\n \nEn consecuencia, si el contrato de arriendo con promesa de compraventa, fue celebrado por escritura pública\no instrumento privado protocolizado con anterioridad al 1° de Enero de 2016 y reúne los requisitos\nestablecidos en el Art. 1554, del Código Civil, para efectos tributarios, le resulta plenamente aplicable la\nnorma contenida en la primera parte del Art. 6°, transitorio, de la Ley N° 20.780, es decir, no se afectará con\nIVA la venta del inmueble, esto es, el precio total cobrado por la vivienda que para efectos tributarios incluye\ntambién todas las sumas que se hayan pagado previamente y que se imputen a dicho valor a cualquier título.\n \n[letra p), de la consulta original] Respecto de los Contratos con APV celebrados por escritura pública con\nanterioridad al 1° de enero de 2016, y en caso que con posterioridad a dicha fecha el arrendatario promitente\ncomprador decida aportar al Fondo para la Vivienda el saldo insoluto que permita completar el precio de la\nvivienda objeto del contrato de arriendo con promesa de compraventa.\n \n  ¿Dicho pago efectuado por el arrendatario promitente comprador estará amparado en lo dispuesto en el\nartículo 6° transitorio de la Ley de Reforma Tributaria? En otras palabras. ¿el pre-pago,"
+    },
+    {
+      "name": "Oficio N°1046 (04/05/2011)",
+      "source_type": "oficio",
+      "source": "Oficio N°1046 (04/05/2011)",
+      "document_id": "9272e423-bed1-52bb-b3d3-bc18615e060d",
+      "chunk_uuid": "cfe0d7c8-ae39-522a-b99a-ca7df6e20d79",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2011/renta/ja1046.htm",
+      "content": "terior. De acuerdo a lo indicado en su presentación, en esta segunda etapa de fusiones existe la\nparticularidad que las sociedades absorbidas determinarán como resultado tributario del ejercicio de término\nde giro, una pérdida tributaria, la cual se imputará a las utilidades tributables acumuladas, las cuales\ncorresponden a las utilidades tributables recibidas como reinversión producto de la primera etapa de\nfusiones, generándose para las sociedades absorbidas que se disuelven, el derecho a solicitar la devolución\ndel saldo a favor del PPUA.\nEn tal situación, el Servicio de Tesorerías procederá a la devolución al contribuyente, del saldo que resulte a\nsu favor, en los términos del artículo 97 de la LIR, sin perjuicio del ejercicio de las facultades de fiscalización\ncon que cuenta este Servicio.\nConforme a lo anterior, al producirse la fusión caracterizada por la transmisión integra del patrimonio de una\no más sociedades que se disuelven a la sociedad absorbente, ésta, vale decir la subsistente sucede, por\ndisposición de la Ley, a la o a las sociedades extintas en el conjunto de sus derechos y facultades que en\ndichos patrimonios se radicaban, con excepción de aquellos que se califiquen como de carácter\npersonalísimos, según ha señalado con anterioridad este Servicio.\nEn relación con la sucesión de las dos etapas del proceso de reorganización que expone y el breve plazo\nque transcurre entre una y otra, cabe considerar que el inciso 1°, del artículo 3º, de la Ley Nº 18.046, sobre\nSociedades Anónimas, dispone que la sociedad anónima se forma, existe y prueba por escritura pública\ninscrita y publicada en los términos del artículo 5º, de la mencionada ley, esto es, un extracto de la escritura\nsocial, autorizado por el notario respectivo, deberá inscribirse en el registro de comercio correspondiente al\ndomicilio de la sociedad y publicarse por una vez en el Diario Oficial, trámites que deberán efectuarse dentro\ndel plazo de 60 días contados desde la fecha de la escritura social, agregando que el cumplimiento oportuno\nde la inscripción y publicación producirá efectos retroactivos a la fecha de la escritura.\nPor su parte, el inciso 2°, del mencionado artículo 3º establece que las actas de las juntas generales de\naccionistas en que se acuerde modificar los estatutos sociales o disolver la sociedad serán reducidas a\nescritura pública con las solemnidades indicadas en el inciso primero.\nDe la interpretación armónica de los incisos citados, se concluye que la disolución de una sociedad, que\nsigue al proceso de fusión, se debe aplicar, también, la retroactividad dispuesta en la parte final del inciso 1°,\ndel artículo 3º de Ley sobre Sociedades Anónimas, es decir, debe considerarse como fecha de disolución de\nla empresa absorbida la data de la escritura pública a que se redujo el acuerdo de fusión.\nPor lo tanto, si se ha cumplido en forma oportuna con la inscripción y publicación del extracto de la escritura\npública a que se redujo el acuerdo de fusión, la data de dicha escritura es la fecha desde la cual se tiene por\ndisuelta, respecto de terceros, la sociedad absorbida.\nÓ\n\n\nIII.- CONCLUSIÓN.\nEn consideración a la normativa vigente sobre las fusiones de sociedades, la sociedad absorbente en la\nsegunda etapa del proceso de reorganización, tiene la calidad de sucesora a título universal de las\nsociedades disueltas, en todos los bienes, derechos y obligaciones, haciéndose dueña de todo el patrimonio\nde las sociedades fusionadas. Es decir, por el sólo ministerio de la Ley, reemplaza a éstas en todas sus\nrelaciones activas y pasivas, en razón de lo cual debe entenderse investida de la capacidad para percibir las\ndevoluciones de impuestos que éstas hayan solicitado oportunamente.\nEn el proceso de reorganización que expone en su presentación, el plazo de 15 días hábiles para informar a\neste Servicio de"
+    },
+    {
+      "name": "Circular N°43 (05/07/2021)",
+      "source_type": "circular",
+      "source": "Circular N°43 (05/07/2021)",
+      "document_id": "68545bf9-c1fd-5ded-9ee1-b2552b1c62ac",
+      "chunk_uuid": "5bee4091-701e-528e-9a3e-5cc21e211e41",
+      "chunk_id": 29,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2021/circu43.pdf",
+      "content": "quidar su IGC, sin perjuicio de no resultar aplicable el \nINR ni la opción del IUS, conforme se señala en las letras a) y b) precedentes.  \n4.6.3.6. Crédito por impuesto sobre las asignaciones por causa de muerte de la Ley N° 16.271 \nLa norma sobre la utilización como crédito del impuesto a las asignaciones por causa de muerte \ncontra los impuestos aplicables en la enajenación de bienes raíces adquiridos por causa de muerte \nno tuvo modificaciones de fondo y únicamente fue reubicada dentro del literal vi) de la letra b) del \nN° 8 del artículo 17.  \n          \n46 Ver letra b) del apartado 3.5.3.5. de esta circular. \n \n\n\n25 \n \nPor tanto, son aplicables las instrucciones que al respecto fueron dictadas por este Servicio \nmediante la Circular N° 44 de 201647. \n4.6.3.7. Armonización con la LIR vigente hasta el 31 de diciembre de 2019 \na) \nTributación de los contribuyentes que enajenen bienes raíces, o derechos o cuotas \nrespecto de tales bienes raíces poseídos en comunidad, adquiridos hasta el 31 de \ndiciembre de 2003, cualquiera sea la fecha de su enajenación \nDe acuerdo al inciso final del N° XVI del artículo tercero de las disposiciones transitorias de la Ley \nN° 20.780, el mayor valor obtenido en la enajenación de bienes raíces situados en Chile o de \nderechos o cuotas respecto de tales bienes raíces poseídos en comunidad, por personas naturales \nque no determinen el IDPC sobre rentas efectivas, siempre que hayan sido adquiridos antes del 1° \nde enero de 2004, cualquiera sea la fecha de su enajenación, se sujetará a las disposiciones de la \nLIR, según su texto vigente al 31 de diciembre de 2014, resultando aplicables las instrucciones \ndictadas con anterioridad por este Servicio sobre la materia, considerando la referida vigencia, entre \nellas, la Circular N° 13 de 2014, en todo aquello que fuere procedente.  \nPara entender cuándo una persona natural determina el IDPC sobre rentas efectivas en el caso de \nenajenaciones de bienes raíces de acuerdo con el inciso final del N° XVI del artículo tercero de las \ndisposiciones transitorias de la Ley N° 20.780, la Ley48 interpretó que ello ocurre si al momento de \nla enajenación del bien, este formaba parte del giro, actividades o negociaciones de su empresa \nindividual. En consecuencia, calificar si el inmueble no forma parte de la empresa individual al \nmomento de la enajenación y, por ende, la procedencia de la tributación indicada es una cuestión \nde hecho entregada a la respectiva instancia de fiscalización. \nb) \nOpciones de costo tributario en la enajenación de bienes raíces adquiridos desde el 1° de \nenero de 2004 hasta el 28 de septiembre de 2014 \nDe acuerdo con el N° XVI del artículo tercero transitorio de la Ley N° 20.780, el enajenante de bienes \nraíces dispone de opciones de costo tributario cuando los hubiere adquirido con anterioridad al 29 \nde septiembre de 2014, fecha de entrada en vigencia de la Ley N° 20.780, sin perjuicio de lo indicado \nen la letra a) anterior. \nNo obstante las modificaciones dispuestas por la Ley, las enajenaciones que se realicen a partir del \n1° de enero de 2020 igualmente podrán considerar, para la determinación de su costo tributario, lo \ndispuesto en el referido N° XVI del artículo tercero transitorio de la Ley N° 20.780, en la medida que \nhubieren cumplido con las exigencias que correspondan para acogerse a dicho derecho.49 \nAl igual que en el caso de la letra a) anterior, deberá considerarse que las operaciones a que se \nrefiere el párrafo tercero del N° 8° del artículo 17 de la LIR vigentes al 31 de"
+    },
+    {
+      "name": "Circular N°68 (02/10/2001)",
+      "source_type": "circular",
+      "source": "Circular N°68 (02/10/2001)",
+      "document_id": "ad7eae4c-0f34-54da-96a8-cbf94f2f9ed8",
+      "chunk_uuid": "c8855817-9974-5ee8-9105-3cac501d0b34",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu68.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nCIRCULAR N°68 DEL 02 DE OCTUBRE DEL 2001\nMATERIA : INSTRUCCIONES SOBRE MODIFICACIONES INTRODUCIDAS A LA LETRA F) DEL N° 1\nDEL ARTÍCULO 20 Y N° 3 DEL ARTÍCULO 39 DE LA LEY DE LA RENTA POR LA LEY N° 19.738, DEL\nAÑO 2001, POR LAS QUE SE TIENE DERECHO AL CRÉDITO DE LAS CONTRIBUCIONES DE BIENES\nRAÍCES DEL IMPUESTO DE PRIMERA CATEGORÍA.\nI.- INTRODUCCION\n1) La Ley N° 19.738, publicada en el Diario Oficial de fecha 19 de junio del año 2001, mediante el N° 2 de la\nletra d) y letra h) de su artículo 2°, modificó la letra f) del N° 1 del artículo 20 y N° 3 del artículo 39 de la Ley\nde la Renta, con el fin de establecer qué contribuyentes de los N°s. 3, 4 y 5 del artículo 20 de la ley del ramo\nserán los que tendrán derecho al crédito por contribuciones de bienes raíces en contra del impuesto de\nPrimera Categoría.\n2) La presente Circular tiene por objeto establecer, considerando las modificaciones antes indicadas, qué\ncontribuyentes de la Primera Categoría, en virtud de las normas de la Ley de la Renta, serán los que tendrán\nderecho al crédito por contribuciones de bienes raíces en contra del impuesto de dicha categoría, señalando,\nal mismo tiempo, las condiciones en que operará la referida franquicia tributaria.\nII.- DISPOSICIONES LEGALES ACTUALIZADAS DE LA LEY DE LA RENTA QUE REGULAN EL\nCREDITO POR CONTRIBUCIONES DE BIENES RAICES\n1) Las normas de la Ley de la Renta, que regulan actualmente el crédito por contribuciones de bienes raíces\nson del siguiente tenor, indicándose aquellas que fueron modificadas en negrita y en forma subrayada:\n\"Artículo 20º.- Establécese un impuesto de 15% que podrá ser imputado a los impuestos global\ncomplementario y adicional de acuerdo con las normas de los artículos 56, Nº 3 y 63. Este impuesto se\ndeterminará, recaudará y pagará sobre:\n1º.- La renta de los bienes raíces en conformidad a las normas siguientes:\na) Tratándose de contribuyentes que posean o exploten a cualquier título bienes raíces agrícolas se gravará\nla renta efectiva de dichos bienes, sin perjuicio de lo dispuesto en la letra b) de este número.\nDel monto del impuesto de esta categoría podrá rebajarse el impuesto territorial pagado por el período al\ncual corresponde la declaración de renta. Sólo tendrá derecho a esta rebaja el propietario o usufructuario. Si\nel monto de la rebaja contemplada en este inciso excediera del impuesto aplicable a las rentas de esta\ncategoría, dicho excedente no podrá imputarse a otro impuesto ni solicitarse su devolución.\nLa cantidad cuya deducción se autoriza en el inciso anterior se reajustará de acuerdo con el porcentaje de\nvariación experimentado por el índice de precios al consumidor en el período comprendido entre el último día\ndel mes anterior a la fecha de pago de la contribución y el último día del mes anterior al de cierre del\nejercicio respectivo;\nb) Los contribuyentes propietarios o usufructuarios de bienes raíces agrícolas, que no sean sociedades\nanónimas y que cumplan los requisitos que se indican más adelante, pagarán el impuesto de esta categoría\nsobre la base de la renta de dichos predios agrícolas, la que se presume de derecho es igual al 10% del\navalúo fiscal de los predios. Cuando la explotación se haga a cualquier otro título se presume de derecho\nque la renta es igual al 4% del avalúo fiscal de dichos predios. Para los fines de estas presunciones se\n"
+    },
+    {
+      "name": "Circular N°51 (04/12/2023)",
+      "source_type": "circular",
+      "source": "Circular N°51 (04/12/2023)",
+      "document_id": "7349ba10-2516-5629-a9da-d48c3fc49120",
+      "chunk_uuid": "a6235301-2da3-5928-be4e-60b3b4589fe6",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2023/circu51.pdf",
+      "content": " cuanto si el contribuyente no resulte afecto a \nimpuestos, podrá, de todas formas, solicitar la devolución de éste. https://www.bcn.cl/historiadelaley/nc/historia-de-la-ley/8233/ \n\n\n2 \n \n \n1.2.3. Se debe tratar de una vivienda nueva; es decir, requiere que sea la primera venta efectuada \nsobre ella, y cumpla copulativamente los siguientes requisitos: \na) Respecto de la vivienda: \n(i) La vivienda se encuentre construida y con recepción final conforme otorgada por la \nrespectiva municipalidad, a más tardar el 1° de noviembre de 2023.  \n(ii) También podrán acceder al crédito aquellas viviendas que no cuenten con recepción \nfinal conforme, a la fecha de vigencia de la ley, siempre que respecto de ellas exista un \ncontrato de promesa de compraventa que conste en escritura pública o documento \nprotocolizado suscrito con fecha posterior al 16 de octubre de 2023. En este caso, podrá \nigualmente acceder al beneficio en la medida que se cumplan los demás requisitos.  \nb) Respecto de compraventa e inscripción de la vivienda: \n(i) La escritura pública de compraventa se celebre a partir del 1° de noviembre de 2023, y  \n(ii) La vivienda adquirida se encuentre inscrita a nombre de la persona beneficiaria, en el \nConservador de Bienes Raíces respectivo al 30 de septiembre de 20242.  \n(iii) Si se trata de la compra de una vivienda efectuada por un beneficiario de un subsidio \nhabitacional otorgado por el Ministerio de Vivienda y Urbanismo, sólo será necesario \nque la respectiva escritura de compraventa se haya suscrito entre el 1° de noviembre \nde 2023 y el 30 de septiembre de 20243. \nEl crédito podrá ser utilizado respecto de una sola vivienda. En caso que el contribuyente haya \nadquirido una o más viviendas susceptibles de acceder al presente crédito podrá acogerse a este \nrespecto de solo una de ellas, pudiendo elegir la que estime a su discreción. \nPara estos efectos, se deberá dejar constancia en la respectiva escritura de compraventa que el \ncontribuyente no se encuentra actualmente utilizando el crédito y que la compraventa cumple con los \nrequisitos establecidos en la Ley, consignando una leyenda del siguiente tenor o similar: \n“Se deja constancia que el (la) Sr. (Sra.)................................., RUT. ......................., individualizado (a) \nen la cláusula........... de esta escritura pública, declara, bajo su responsabilidad para todos los efectos \nlegales, que no se encuentra actualmente utilizando el beneficio del crédito tributario por concepto de \ndividendos a que se refiere la Ley N° 21.631.” \n1.3. Contribuyentes que tienen derecho al crédito \nDe acuerdo con lo dispuesto en el inciso primero del artículo único de la Ley, los contribuyentes que \ntienen derecho al crédito son las personas naturales con residencia o domicilio en Chile que adquieran \nuna vivienda que cumpla con las características y condiciones señaladas en el apartado 1.2. anterior.  \nLo anterior es independiente del tipo de rentas que se perciba y cualquiera sea el impuesto a la renta \nque afecte al beneficiario, pudiendo tratarse de un contribuyente cuyas rentas estén clasificadas en la \nprimera o segunda categoría, o bien afecto a otros impuestos que establece la LIR, como por ejemplo \nel impuesto único por retiro de ahorro previsional voluntario (APV), impuesto único talleres artesanales \no impuesto único de 10% por enajenación o rescate de acciones de una sociedad anónima con \npresencia bursátil, de cuotas de fondos de inversión y fondos mutuos. \n \n2 Atendido que la señala “2. Que la compraventa se celebre a partir de la fecha de entrada en vigencia de la presente ley y la vivienda \nadquirida se encuentre inscrita a nombre de la persona beneficiaria en el Conservador de Bienes Raíces respectivo antes del 1 de octubre \nde 2024"
+    },
+    {
+      "name": "Oficio N°779 (20/04/2018)",
+      "source_type": "oficio",
+      "source": "Oficio N°779 (20/04/2018)",
+      "document_id": "c638534a-773e-5b3c-aab2-fb497b1761b6",
+      "chunk_uuid": "0c982e7c-02ff-5921-b629-62fcca42563b",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja779.htm",
+      "content": " sea consensual, a menos que una disposición especial lo deje sujeto a formalidad a falta\nde ella, el contrato es consensual. De ahí que los más frecuentes e importantes contratos lo sean:\ncompraventa de cosas muebles, arrendamiento, fianza, transacción, sociedad civil, mandato, etc.”  Conforme\nlo anterior, excepcionalmente se requiere una solemnidad, como en la compraventa de bienes raíces, que no\nse reputan perfectas ante la ley mientras no sea otorgada la escritura pública (artículo 1801, inciso segundo,\ndel Código Civil). \nPor otra parte, y respecto del modo de adquirir “tradición”, ésta se perfecciona en general mediante la\nentrega material de la cosa tradida. Sin embargo, en el caso de los bienes raíces (y otros casos\nexpresamente señalados por ley), la entrega se efectúa mediante la competente inscripción del título –\ntraslaticio de dominio – en el registro de propiedad del Conservador de Bienes Raíces (artículo 686 del\nCódigo Civil). De esta manera, “mientras la inscripción no se verifica, un contrato puede ser perfecto, puede\nproducir obligaciones y derechos entre las partes, pero no transfiere el dominio u otro derecho real. Mientras\nno se inscribe la escritura de venta del bien raíz, éste permanece en el patrimonio del vendedor”. \n\n\nConforme lo expuesto, no es correcto sostener que la escritura pública y la competente inscripción de\ndominio en el Registro de Propiedad del Conservador de Bienes Raíces sea la forma de perfeccionar todo\ntítulo traslaticio de dominio y efectuar la tradición de bienes “tangibles o intangibles”, como parece\ndesprenderse de su presentación; sin considerar que nuestro Código Civil tampoco reconoce la distinción\nentre bienes “tangibles e intangibles”, sino aquella entre bienes “corporales” e “incorporales” (artículo 565 del\nCódigo Civil). \nLo anterior es relevante atendido que, conforme la estructura de la Ley sobre Impuesto a la Renta, se puede\ngravar tanto la renta “percibida” como devengada” (además de la atribuida), siendo devengada “aquélla sobre\nla cual se tiene un título o derecho, independientemente de su actual exigibilidad y que constituye un crédito\npara su titular”.\nEn el caso particular del impuesto cedular por categorías, y conforme lo dispuesto en el artículo 19 de la Ley\nsobre Impuesto a la Renta, las normas del Título II se aplican a “todas las rentas percibidas o devengadas.”\nLuego, en la medida que el hecho gravado sea la “renta” y ésta pueda estar meramente “devengada”, la\nobligación tributaria – sin perjuicio de su cumplimiento – nace cuando se tenga título o derecho a la renta;\nesto es, cuando se perfeccione el acto o contrato a partir del cual nacen derechos (créditos) y obligaciones,\nindependientemente de su exigibilidad. Siguiendo con el ejemplo, si se trata de un contrato (título traslaticio\nde dominio) de carácter solemne que recaiga sobre bienes inmuebles, la obligación tributaria nacerá cuando\nse perfeccione la respectiva escritura pública. \nSin perjuicio de lo dispuesto en el artículo 19 de la Ley sobre Impuesto a la Renta, en ciertos casos la misma\nley establece reglas diversas, como en la tributación del mayor valor en la enajenación de bienes inmuebles\nobtenido por ciertos contribuyentes , cuando dicho mayor valor excede el límite de 8.000 UF. En estos casos,\nla renta proveniente de la enajenación de los bienes inmuebles se grava sobre base percibida o devengada,\na elección del contribuyente. Esto quiere decir que, perfeccionado el título y no obstante encontrarse\npendiente la entrega (esto es, la tradición o enajenación del inmueble mediante la competente inscripción en\nel registro conservatorio), el contribuyente puede optar por tributar sobre base “devengada”, en los términos\nestablecidos por la ley. \nLa misma opción,"
+    },
+    {
+      "name": "Circular N°76 (22/12/1997)",
+      "source_type": "circular",
+      "source": "Circular N°76 (22/12/1997)",
+      "document_id": "fc92c61a-d5cf-5431-97a2-4d820ceee7f2",
+      "chunk_uuid": "fa1e85a5-2a32-563c-b06a-9b589e39372c",
+      "chunk_id": 3,
+      "url": "https://www.sii.cl/documentos/circulares/1997/circu76.pdf",
+      "content": "alle o Nombre del Predio. \nSe debe registrar el nombre completo de la calle o camino o bien el nombre del predio \ncuando así corresponda. \nTratándose de subdivisiones, siempre se debe registrar la dirección indicada en el \nCertificado de Asignación de Roles emitido por el SII, que haya sido exhibido para la \nacreditación del número de rol de avalúo. \nNúmero. \nSe debe registrar el número domiciliario o letra, asignado a la propiedad por la \nMunicipalidad. \nDepartamento. \nSe debe registrar el número o letra del departamento. \nLC/BX/BD. \nSe debe registrar, debajo del recuadro correspondiente, el número de local, box o \nbodega. \nPoblación, Villa o Lugar. \nSe debe registrar el nombre de la población, villa o lugar donde se encuentra la \npropiedad enajenada. \nSi se trata de una propiedad agrícola, en lo posible se registrará el nombre de la \nlocalidad o sector de ubicación. \nFecha de la Escritura. \nSe debe registrar la fecha en que ha sido extendida en Notaría la escritura de \ntransferencia del Bien Raíz enajenado. \nNúmero de Repertorio. \nSe debe registrar el número de repertorio asignado a la escritura en la Notaría. \nCódigo de la Naturaleza de la Escritura. \nSe debe registrar el código correspondiente a la naturaleza de la escritura de acuerdo a \nla siguiente tabla: \n          CODIGO          \n       NATURALEZA \n          1          \nCOMPRAVENTA \n          2          \nINSCRIPCION ESPECIAL DE HERENCIA \n          3          \nOTRA \nMonto de Enajenación. \nSe debe registrar una \"X\" indicando el tipo de moneda en que se va a informar el monto \nde enajenación, ya sea \"$\" ó \"UF\". \nSi el monto de enajenación se expresa en \"UF\", éste deberá ser registrado hasta con dos \ndecimales. \nDejada sin efecto\n\n\n5 \n \nSi en la escritura no se registra el monto de enajenación, en el F-2.890 se deberá indicar \nmonto de enajenación cero (\"0\"). \nCuando en una escritura se transfiera más de una propiedad por un monto global, éste \nse deberá registrar en el F-2.890 correspondiente a la propiedad de mayor valor, \nindicando en el resto de los F-2.890, monto de enajenación cero (\"0\"). \nPago al Contado. \nSe debe registrar el monto pagado hasta la fecha en que se otorgue la escritura pública \nen la Notaría. \nSi se trata de compraventas con subsidio habitacional, el monto del subsidio se deberá \nincluir como pago al contado. \n \nPago Primer Año. \nSe entenderá por primer año el período comprendido entre la fecha en que se otorgue \nla escritura pública en Notaría y el 31 de diciembre del mismo año. \nEste campo se deberá llenar sólo cuando la operación de compraventa no incluya \ncrédito o mutuo hipotecario. \nPago Segundo Año. \nSe entenderá por segundo año, el año calendario siguiente al de otorgamiento de la \nescritura pública en la Notaría. \nEste campo se deberá llenar sólo cuando la operación de compraventa no incluya \ncrédito o mutuo hipotecario. \nMeses \nSe debe registrar el número original de meses plazo para pagar totalmente la deuda. \nEste campo sólo se debe llenar cuando la operación de compraventa incluya crédito o \nmutuo hipotecario. \nNOTAS: \n \nCuando se trate de compraventas con crédito o mutuo hipotecario, siempre se deberán \nllenar los siguientes campos de información: \n-  Monto de enajenación, \n-  Pago al contado, donde se incluirá todo lo que haya sido pagado con anterioridad a \nla fecha en que se otorgue la escritura, además del subsidio habitacional si \ncorresponde, \n-  Meses plazo, es decir, el número de meses en que debe ser cancelado el crédito o \nmutuo hipotecario, por ejemplo, si se trata de un crédito o mutuo a 12 años plazo, \nse registrará en este campo de información el número \"144\". \nCuando se trate de compraventas sin crédito o mutuo hipotecario, siempre"
+    }
+  ]
+}

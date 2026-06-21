@@ -1,0 +1,5 @@
+{
+  "query_id": "q020",
+  "query_text": "¿Puede deducirse como gasto tributario el impuesto territorial pagado por un inmueble destinado al giro de la empresa?",
+  "notas": "Tributación inmobiliaria — impuesto territorial como gasto deducible (Art. 31 LIR). Query más discriminante del conjunto: diferencia de 2.500 puntos entre ganadora (p2_bm25 = 2.700) y peor técnica (baseline = 0.200). SPLADE falla gravemente: top-5 [0,2,0,0,3], expande 'gasto tributario' hacia donaciones y depreciación que son irrelevantes. Baseline_qdrant_bm25 colapsa (0.200 mean). Alto porcentaje de grado 0 (38%) esperado: la query cruza dos dominios específicos. Ganadora top-10 mean_grade: p2_bm25 (2.700). Sin correcciones manuales."
+}

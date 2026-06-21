@@ -1,0 +1,423 @@
+{
+  "query_id": "q001",
+  "query_text": "Obligaciones del arrendador de mantener el inmueble en condiciones habitables",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:00Z",
+  "judgments": [
+    {
+      "chunk_uuid": "7cea2d58-6d8e-5cf6-9a3f-2a02af757186",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de préstamos y arriendos de acciones, no sobre obligaciones del arrendador de mantener inmuebles."
+    },
+    {
+      "chunk_uuid": "a66ddaea-efce-5133-b94c-46d3711b111d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el tratamiento tributario de arriendos con opción de compra, no las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "7b4c0aec-1ccd-54e0-99c2-58af41c34ba6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en el IVA de arrendamientos de inmuebles amoblados o con instalaciones, no en la habitabilidad."
+    },
+    {
+      "chunk_uuid": "e8e40d1f-557a-53a4-b8a5-266eb9de6fbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el arrendamiento de un data center y el suministro eléctrico, no las obligaciones generales de habitabilidad."
+    },
+    {
+      "chunk_uuid": "56bb3597-e192-5044-bbc0-cc40a502ebf9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de IVA en arriendos con opción de compra financiados con subsidios habitacionales."
+    },
+    {
+      "chunk_uuid": "76be3e26-7e03-5dac-9a91-8c7b7791ef14",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere al IVA en arrendamiento de hoteles y la recuperación de crédito fiscal, no a la habitabilidad."
+    },
+    {
+      "chunk_uuid": "cd15e5a5-5b96-5913-b988-131b9249f0a1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el IVA en arrendamiento de inmuebles con instalaciones para actividad industrial, no la habitabilidad."
+    },
+    {
+      "chunk_uuid": "2187e5d9-218c-5e8f-9576-9f46c9e098a6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la determinación del costo tributario en la enajenación de inmuebles bajo condición suspensiva."
+    },
+    {
+      "chunk_uuid": "d77fb69a-12d5-5e6f-9f9e-eecfda88ec1a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla modificaciones al IVA sobre ventas y arriendos con opción de compra, no sobre habitabilidad."
+    },
+    {
+      "chunk_uuid": "080708ea-4121-531e-8c7a-96561d7c4b85",
+      "relevance_grade": 0,
+      "justification": "Este fragmento explica la acreditación del pago de IVA en ventas de inmuebles y la presunción de habitualidad."
+    },
+    {
+      "chunk_uuid": "0be65376-ca91-554a-a4aa-44b53b3dfd8a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del IVA en arrendamientos de inmuebles amoblados, no en las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "0760b6b3-f46c-5cdf-b297-9add716e4f79",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla los requisitos para deducir gastos necesarios para producir renta, no las obligaciones del arrendador sobre habitabilidad."
+    },
+    {
+      "chunk_uuid": "aedc54e3-c03a-5ec6-bf51-2eeb397783e2",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación del IVA en arrendamientos con opción de compra y de inmuebles amoblados, no sobre la habitabilidad."
+    },
+    {
+      "chunk_uuid": "8a87f3b2-8cfc-500a-b223-e7281a026ed9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el tratamiento tributario del impuesto territorial en arrendamientos con opción de compra, no la obligación de habitabilidad."
+    },
+    {
+      "chunk_uuid": "02f234c4-5648-5901-8a59-0a2b22800fe4",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la tributación del arrendador de inmuebles amoblados, no en su obligación de mantener la habitabilidad."
+    },
+    {
+      "chunk_uuid": "66fdde03-5c92-5372-8939-6b2c09920ad9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento analiza la aplicación del IVA a arrendamientos de inmuebles amoblados o con instalaciones, no la obligación de habitabilidad."
+    },
+    {
+      "chunk_uuid": "30ea44ac-cf32-5042-a427-b0133db47699",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de las reparaciones y mejoras efectuadas por el arrendatario, no las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "cb1c2d90-0151-5cd2-a560-934cf7fd90e9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del IVA en ventas de inmuebles y el concepto de vendedor habitual, no en la habitabilidad."
+    },
+    {
+      "chunk_uuid": "f8795ecd-de07-5565-8163-8b499e573c83",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el crédito por impuesto territorial para el arrendador en contratos de leasing, no la obligación de mantener la habitabilidad."
+    },
+    {
+      "chunk_uuid": "c8412ac2-0328-5533-9037-fd1f7d4a9bd6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la presunción de habitualidad en la venta de inmuebles y su tributación con IVA, no la obligación de habitabilidad."
+    },
+    {
+      "chunk_uuid": "0552cb62-af00-526f-af39-2f4fa7641e4d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la deducción del 11% del avalúo fiscal para arrendadores, no en las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "cfbae878-5fde-5346-a662-064ac54c0891",
+      "relevance_grade": 0,
+      "justification": "Este texto discute la tributación del IVA en arrendamientos y ventas, sin abordar las obligaciones de mantenimiento del arrendador."
+    },
+    {
+      "chunk_uuid": "60189850-5fb7-5571-be5f-b29ae119e2fe",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones del impuesto territorial para bienes raíces habitacionales, no sobre las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "c99a3e6e-c608-5308-be96-4e58471852bf",
+      "relevance_grade": 0,
+      "justification": "El fragmento legal se refiere exclusivamente a la tributación del Impuesto al Valor Agregado (IVA) y el Impuesto a la Renta en la cesión de un programa televisivo. No contiene ninguna disposición ni mención relacionada con las obligaciones del arrendador de mantener un inmueble en condiciones habitables, que es el tema de la consulta."
+    },
+    {
+      "chunk_uuid": "fbcd8a1a-8c18-5aa2-ad94-44fd926b9023",
+      "relevance_grade": 0,
+      "justification": "Este fragmento analiza la tributación del IVA en arrendamiento de inmuebles para estudiantes, no las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "bb5d06b7-dcfb-5536-8399-d6417ed82cbf",
+      "relevance_grade": 0,
+      "justification": "Este texto aborda la tributación del IVA en arrendamientos de terrenos y construcciones, no las obligaciones de mantenimiento."
+    },
+    {
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento explica las modificaciones al IVA en la enajenación de inmuebles, sin relación con las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "f9432518-c1ae-5a6f-8c4d-f6965366e279",
+      "relevance_grade": 0,
+      "justification": "Este oficio compara el arrendamiento de inmuebles con el de simuladores para efectos del IVA, sin tratar habitabilidad."
+    },
+    {
+      "chunk_uuid": "1eae4573-9c7b-5205-98b2-0e79d269ccfc",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la enajenación de derechos de arrendador por fondos de inversión, no sobre obligaciones de mantenimiento."
+    },
+    {
+      "chunk_uuid": "a5ad1c7e-ff24-584b-b45c-d3d84440073e",
+      "relevance_grade": 0,
+      "justification": "Este texto se refiere a beneficios tributarios en contratos de construcción de viviendas, no a obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "7479fa95-aa5d-5895-8a08-6ff0f3492f12",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de enajenaciones de inmuebles y no sobre las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "ef527286-9508-5641-a23c-53db2c14d97a",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el IVA en arrendamientos de inmuebles amoblados y la facturación, tangencialmente relacionado con el arrendador."
+    },
+    {
+      "chunk_uuid": "376c2e6e-1730-596f-b4fc-12811b2bec0d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la aplicación del IVA al arrendamiento de inmuebles amoblados, tocando aspectos del contrato de arrendamiento."
+    },
+    {
+      "chunk_uuid": "2bfc2834-165f-56f9-9de5-03c5f6adc191",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre devoluciones de IVA por mejoras en inmuebles arrendados, no sobre obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "7d17d9dc-cd2a-5623-b592-e294480a37e1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en exenciones de impuesto territorial para bienes raíces de beneficencia, no en obligaciones de arrendador."
+    },
+    {
+      "chunk_uuid": "bed95ee4-9870-59bf-9897-8b0398fff1c7",
+      "relevance_grade": 1,
+      "justification": "Este fragmento analiza la aplicación del IVA al arrendamiento de inmuebles, pero no aborda las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "75e0d195-1e45-5bee-a23b-ffcdec07239a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la calificación de servicios de alojamiento turístico y no las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "dba7fb53-924c-5374-a780-fd261bb6b44b",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la aplicación del IVA a arrendamientos de inmuebles amoblados, sin abordar la habitabilidad."
+    },
+    {
+      "chunk_uuid": "8bdc47f3-0902-5b93-8bb9-88febac2d9f7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla el tratamiento tributario de reparaciones y mejoras en inmuebles arrendados, no la habitabilidad."
+    },
+    {
+      "chunk_uuid": "d8bc44b9-0bb8-57f9-9fe2-7b6383da293b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la trazabilidad de bienes usados y límites de transacciones, sin relación con el tema."
+    },
+    {
+      "chunk_uuid": "d0268d76-ecdd-52d4-b58f-30736bea47d7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del arrendamiento y no en las obligaciones del arrendador sobre habitabilidad."
+    },
+    {
+      "chunk_uuid": "e9e81f3b-2f10-59a8-9029-8b76e99f25ae",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el arrendamiento de bienes muebles e inmuebles y su tributación, pero no las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "146567fc-6f3c-5bd5-8017-e5c43b7bfbec",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación del IVA en arrendamientos, no sobre las obligaciones de mantenimiento del arrendador."
+    },
+    {
+      "chunk_uuid": "bd10827f-5cdb-57c5-bfc0-b0f6f51ab5c4",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la base imponible del IVA en arrendamientos amoblados, sin abordar la habitabilidad del inmueble."
+    },
+    {
+      "chunk_uuid": "e4ab6610-dc07-5048-ac8d-e81891e629be",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la clasificación de gastos (reparaciones vs. mejoras) para fines tributarios, no las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "7fe5c955-5315-5a38-90de-df5286e6e9e8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la tributación de arrendamientos con opción de compra, no las obligaciones de mantenimiento del arrendador."
+    },
+    {
+      "chunk_uuid": "3b4eaf61-e322-5728-bb92-0698f0b21f17",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el crédito fiscal en arrendamientos amoblados, no sobre las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "42952bf9-9568-546b-9695-4c84e7608ddf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a una disputa tributaria sobre tasación de inmuebles, sin relación con las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "37e1eb4a-5ee7-5237-969f-c614612519be",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre beneficios tributarios del impuesto territorial para cónyuges, no sobre obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "d09e2958-a05c-5a64-a332-262d21078d2c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento explica la tributación del IVA en arrendamientos amoblados, sin abordar las obligaciones de mantenimiento del arrendador."
+    },
+    {
+      "chunk_uuid": "7283a589-d40c-5554-8e08-fd689bed8b75",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en el IVA del arrendamiento y gastos, no en las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "9454296f-8919-57ca-a493-ccd6ecb717e3",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la obligación del arrendador de mantener la cosa arrendada en buen estado y las reparaciones necesarias."
+    },
+    {
+      "chunk_uuid": "4489d485-f92e-5663-96be-2b81b7148d0d",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la aplicación de IVA en arrendamientos de centros comerciales, no sobre las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "06608d65-3447-5c78-a1b2-b5ab1c1ca710",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla aspectos tributarios de la minería, completamente ajeno a la consulta sobre arrendamientos."
+    },
+    {
+      "chunk_uuid": "869ab593-7519-5045-b21b-dbf4b77345e9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la tributación minera y no tiene relación con las obligaciones de un arrendador."
+    },
+    {
+      "chunk_uuid": "7ea07984-50d9-5885-9c05-918348c504ea",
+      "relevance_grade": 0,
+      "justification": "Este fragmento explica operaciones financieras con cobre y no aborda el tema de arrendamientos."
+    },
+    {
+      "chunk_uuid": "180cfe9d-75ac-55a9-acb7-0297d8c10e76",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre tributación minera y no tiene relación con las obligaciones de un arrendador."
+    },
+    {
+      "chunk_uuid": "178bb857-05e8-5983-ba98-34dc2a26348e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación minera y no aborda las obligaciones de un arrendador."
+    },
+    {
+      "chunk_uuid": "4432cb7c-d62a-5c46-82d9-6eee0776609b",
+      "relevance_grade": 0,
+      "justification": "El fragmento legal proporcionado se refiere al Código de Comercio y a plazos de prescripción de acciones derivadas de obligaciones no especificadas. No tiene relación alguna con las obligaciones del arrendador de mantener un inmueble en condiciones habitables, las cuales se rigen por el Código Civil y la Ley de Arrendamiento Urbano."
+    },
+    {
+      "chunk_uuid": "108f3034-7873-5294-8ac3-fca8a5484f6a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la exportación de chatarra de cobre y no a las obligaciones de un arrendador."
+    },
+    {
+      "chunk_uuid": "5f45c3cb-61f6-57da-81c8-15d25628fce2",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre impuestos a la minería y no tiene relación con las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "1f416937-c0ae-5d57-bc94-c9872a181092",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a un convenio de intercambio de información entre la Comisión Chilena del Cobre y el SII, sin relación con el tema."
+    },
+    {
+      "chunk_uuid": "1b95ffa8-2528-52db-a9fc-f14135fc0da5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el impuesto único a pequeños mineros artesanales y no se relaciona con el tema de arrendamientos."
+    },
+    {
+      "chunk_uuid": "ce6132b9-cbdc-586b-b060-bb7ece775d2e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de impuesto territorial para recintos deportivos y no sobre obligaciones de mantenimiento del arrendador."
+    },
+    {
+      "chunk_uuid": "4e09c887-771f-5642-b75f-2b012f6ff01c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento define términos relacionados con la producción y distribución de agua potable y recolección de aguas servidas."
+    },
+    {
+      "chunk_uuid": "efb77777-bc8f-5bd7-a142-a2584e00aaf4",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la necesidad de mantener un bien raíz en condiciones de ser arrendado, lo cual es tangencial al tema."
+    },
+    {
+      "chunk_uuid": "955e216a-c40f-59e6-8426-7a6e7a303196",
+      "relevance_grade": 0,
+      "justification": "Este fragmento describe parámetros de servicios web del SII relacionados con avalúos y verificadores de contribuyentes."
+    },
+    {
+      "chunk_uuid": "75866e19-e4cf-5d5d-9a50-32a9e33bf215",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute si un inmueble está 'amoblado' para efectos de IVA en arrendamientos comerciales, tocando la condición del inmueble."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre las obligaciones tributarias del arrendador y arrendatario, no sobre el mantenimiento del inmueble."
+    },
+    {
+      "chunk_uuid": "56f69910-5a67-5486-b253-df55becf884f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en las implicaciones tributarias de arrendar derechos sociales, no en las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "3b72ec98-afd2-57e6-bb90-07a18350bcc1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla obligaciones de partes en un convenio de intercambio de información, sin relación con arrendamientos."
+    },
+    {
+      "chunk_uuid": "4a850095-1a06-595f-8ced-3a797d52d562",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda aspectos tributarios de arrendamiento de derechos sociales, no las obligaciones de mantenimiento del inmueble."
+    },
+    {
+      "chunk_uuid": "01322ef8-d843-5e18-8260-03aaa1436b72",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación del impuesto territorial pagado por el arrendatario, no en las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "35827dec-122c-5765-aff7-de0a2d24ffdf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la documentación tributaria en arrendamientos habitacionales, no sobre las obligaciones de mantenimiento del arrendador."
+    },
+    {
+      "chunk_uuid": "47d81b2c-b2d9-5b24-b0f3-07852d3051cd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la obligación de emitir facturas en arriendos de inmuebles amoblados, no las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "805ad7dc-2180-5f5b-a947-a942a1507dac",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la tributación de mejoras realizadas por el arrendatario, no las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "c2590511-b996-5947-8fc7-7399a108316a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la tributación del IVA en arrendamientos de inmuebles, no en las obligaciones de habitabilidad del arrendador."
+    },
+    {
+      "chunk_uuid": "3a3a7e53-f7d6-5b2c-9972-fe9cf93f4844",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute las mejoras útiles introducidas por el arrendatario y su tributación, no las obligaciones del arrendador."
+    },
+    {
+      "chunk_uuid": "ea574688-abe4-52ae-997d-d7fd3e2875c6",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el contrato de arrendamiento y las obligaciones de dar y hacer, pero no aborda la habitabilidad."
+    },
+    {
+      "chunk_uuid": "a3f8c5d7-bb91-52b7-a598-58836a5fb843",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la aplicación del IVA a contratos de arrendamiento, no sobre las obligaciones de habitabilidad."
+    },
+    {
+      "chunk_uuid": "439475f2-abc0-5832-b88f-70576513e9e0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el tratamiento tributario de arrendamientos amoblados y servicios hoteleros, no la habitabilidad del inmueble."
+    },
+    {
+      "chunk_uuid": "3775072e-756a-57d8-a27e-bf7448afdcb6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en las mejoras útiles y su tributación, no en la obligación del arrendador de mantener la habitabilidad."
+    },
+    {
+      "chunk_uuid": "0fcfb942-0378-5d67-aa37-2d9a84f0ead5",
+      "relevance_grade": 1,
+      "justification": "El fragmento aborda el concepto de arrendador habitual y la tributación del arrendamiento, pero no las obligaciones de mantener el inmueble."
+    }
+  ]
+}

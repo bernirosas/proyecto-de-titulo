@@ -1,0 +1,1183 @@
+{
+  "query_id": "q026",
+  "query_text": "Acción reivindicatoria sobre inmueble: legitimación activa y prueba del dominio",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+        "score": 29.163708,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+        "score": 25.980936,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 23.380238,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0a58a148-889a-5903-92db-abb8f6da63ed",
+        "score": 22.5681,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "c135c756-cb59-52ee-9e62-11a5c15a7ef4",
+        "score": 22.446539,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9879c904-fe67-5b83-a4a7-b3a8663fa760",
+        "score": 22.340643,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7e2b2fe0-2385-502d-98f1-3b7515280562",
+        "score": 19.408052,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "8ed703ca-8303-59e7-8f67-f44f8b174018",
+        "score": 19.133696,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "b76a937b-c89c-53a7-aa8e-ca6307fbc7c1",
+        "score": 18.995382,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a6d1c80e-31b7-562d-8a2e-e623df3dc925",
+        "score": 18.6319,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "f0dca2d2-f476-5f6a-b5ef-dfff993dc1ae",
+        "score": 0.67126465,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dc15a26b-4622-50a4-abb6-8ca73adb92ea",
+        "score": 0.65649414,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.654541,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+        "score": 0.6374512,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+        "score": 0.62524414,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "ed6918ba-8b42-50af-867b-311bbd443a8f",
+        "score": 0.62524414,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+        "score": 0.6220703,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "66a71ba2-8d6d-51d7-9045-8f66a8f249b0",
+        "score": 0.62176514,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "44ecf5b8-5074-5198-96c3-88ec8877f1ba",
+        "score": 0.62145996,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "1fd7ae5c-5570-5593-9180-54519413aa5f",
+        "score": 0.61499023,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "f69c955a-e042-5dfc-8a57-67ab54d02795",
+        "score": 20.126505,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "e59facef-c07c-5cad-80b7-388864fa633d",
+        "score": 19.282614,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "17373162-6dac-57c5-a514-5180eaf77fdd",
+        "score": 19.123764,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "66f9ea7d-1cc1-5c5b-8d38-582f538fae03",
+        "score": 19.071232,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b76a937b-c89c-53a7-aa8e-ca6307fbc7c1",
+        "score": 19.034883,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3398b2fc-42be-5e27-a5b0-fad30f792449",
+        "score": 19.025177,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+        "score": 18.824404,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "0a7a9ace-b177-54e9-b298-c3d62f157ddb",
+        "score": 18.704247,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+        "score": 18.638985,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "92649d1b-e158-50b6-92ee-d7a0b1875823",
+        "score": 18.499489,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+        "score": 21.089224,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 20.18438,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b76a937b-c89c-53a7-aa8e-ca6307fbc7c1",
+        "score": 19.705267,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0a58a148-889a-5903-92db-abb8f6da63ed",
+        "score": 18.816153,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+        "score": 18.228466,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 18.112465,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "57740769-2ee8-5c3b-9837-af74b547c615",
+        "score": 17.865831,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "c135c756-cb59-52ee-9e62-11a5c15a7ef4",
+        "score": 16.633625,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "8ed703ca-8303-59e7-8f67-f44f8b174018",
+        "score": 15.456088,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+        "score": 15.23559,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.9107666,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "31090eed-313b-58fa-96f2-69ea040d4542",
+        "score": 0.6767578,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "44ecf5b8-5074-5198-96c3-88ec8877f1ba",
+        "score": 0.66796875,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+        "score": 0.6567383,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+        "score": 0.6369629,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+        "score": 0.6292114,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+        "score": 0.62646484,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "5a9c0353-1434-5e75-8979-f25305213205",
+        "score": 0.62402344,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3667ed56-9c85-5f66-af25-24c841fbdf10",
+        "score": 0.61572266,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "af67b610-6599-59d5-9244-ff83c21350c7",
+        "score": 0.6140137,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 20.420221,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "57740769-2ee8-5c3b-9837-af74b547c615",
+        "score": 17.763649,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 15.9411125,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 15.794223,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+        "score": 15.354698,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+        "score": 15.177153,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "7c9f0057-e765-55a3-b433-ffd1472cb977",
+        "score": 15.121354,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1beb80e6-379f-583c-adc2-af60445cc17a",
+        "score": 15.089912,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "08928b27-7acd-5092-8182-ac8bbc74e6cc",
+        "score": 14.744427,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f8992d6a-ef7e-522a-87cd-4d20e89b537c",
+        "score": 14.649302,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.8790283,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a6c1c50a-1cc3-5fe7-a192-fd638dd2e5b5",
+        "score": 0.7546387,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+        "score": 0.7458496,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "367b4942-8bbd-561b-a51c-9765ff37c965",
+        "score": 0.7385254,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "31090eed-313b-58fa-96f2-69ea040d4542",
+        "score": 0.7089844,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+        "score": 0.6885376,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "ed6918ba-8b42-50af-867b-311bbd443a8f",
+        "score": 0.6855469,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "44ecf5b8-5074-5198-96c3-88ec8877f1ba",
+        "score": 0.68359375,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d0268d76-ecdd-52d4-b58f-30736bea47d7",
+        "score": 0.6816406,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "319aad84-63c0-53b2-b28f-d2a6eb2b3837",
+        "score": 0.6798096,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "66a71ba2-8d6d-51d7-9045-8f66a8f249b0",
+        "score": 7.6953125,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 7.53125,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+        "score": 7.4335938,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 7.3476562,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+        "score": 7.28125,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+        "score": 7.1367188,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+        "score": 7.1015625,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "ed6918ba-8b42-50af-867b-311bbd443a8f",
+        "score": 6.9726562,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "36d9d3d4-9764-5170-a0bc-61ddb16f549d",
+        "score": 6.9140625,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "9d88e20a-1742-5357-afa2-8784fa83360e",
+        "score": 6.8789062,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0a58a148-889a-5903-92db-abb8f6da63ed",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "c135c756-cb59-52ee-9e62-11a5c15a7ef4",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "f0dca2d2-f476-5f6a-b5ef-dfff993dc1ae",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dc15a26b-4622-50a4-abb6-8ca73adb92ea",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "0860404f-3bc2-57bd-be13-1a31873138af",
+        "score": 0.02220873786407767,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "f69c955a-e042-5dfc-8a57-67ab54d02795",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "e59facef-c07c-5cad-80b7-388864fa633d",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "17373162-6dac-57c5-a514-5180eaf77fdd",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "66f9ea7d-1cc1-5c5b-8d38-582f538fae03",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b76a937b-c89c-53a7-aa8e-ca6307fbc7c1",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "0a58a148-889a-5903-92db-abb8f6da63ed",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "4b368588-1b02-5ce6-a44a-5c0dfa8e33f1",
+        "score": 0.024705882352941175,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "31090eed-313b-58fa-96f2-69ea040d4542",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "44ecf5b8-5074-5198-96c3-88ec8877f1ba",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+        "score": 0.015625,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+        "score": 0.015384615384615385,
+        "rank": 6
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "0860404f-3bc2-57bd-be13-1a31873138af",
+        "score": 0.02348901098901099,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 0.01639344262295082,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "57740769-2ee8-5c3b-9837-af74b547c615",
+        "score": 0.016129032258064516,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.015873015873015872,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+        "score": 0.015625,
+        "rank": 5
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "a6c1c50a-1cc3-5fe7-a192-fd638dd2e5b5",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "367b4942-8bbd-561b-a51c-9765ff37c965",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "31090eed-313b-58fa-96f2-69ea040d4542",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "66a71ba2-8d6d-51d7-9045-8f66a8f249b0",
+        "score": 0.01639344262295082,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+        "score": 0.016129032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+        "score": 0.015873015873015872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+        "score": 0.015625,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+        "score": 0.015384615384615385,
+        "rank": 5
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 11.8,
+    "p1_tfidf": 10.3,
+    "p1_splade": 78.4,
+    "p2_bm25": 9.1,
+    "p2_tfidf": 10.8,
+    "p3_bm25": 9.3,
+    "p3_tfidf": 11.6,
+    "baseline_qdrant_bm25": 10.0,
+    "rrf_p1_bm25": 57.4,
+    "rrf_p1_tfidf": 47.6,
+    "rrf_p1_splade": 154.7,
+    "rrf_p2_bm25": 121.1,
+    "rrf_p2_tfidf": 119.4,
+    "rrf_p3_bm25": 120.2,
+    "rrf_p3_tfidf": 65.6,
+    "rrf_baseline_qdrant_bm25": 69.6
+  },
+  "pool": [
+    {
+      "name": "Circular N°12 (17/02/2021)",
+      "source_type": "circular",
+      "source": "Circular N°12 (17/02/2021)",
+      "document_id": "ce434d4f-3ff0-5554-b10d-59d2a50bb008",
+      "chunk_uuid": "a6d1c80e-31b7-562d-8a2e-e623df3dc925",
+      "chunk_id": 15,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2021/circu12.pdf",
+      "content": " Tercero de este Código, o  \nii) \nDeducir un “recurso de resguardo por vulneración de derechos” ante el correspondiente Director Regional \no ante el Director, según corresponda, cuyos plazos, requisitos y procedimiento se detallan a \ncontinuación. \nCabe señalar que no existe impedimento legal para recurrir mediante recurso de resguardo por vulneración o \nmediante el reclamo por vulneración de derechos ante el TTA, en la forma que dispone la ley. \n \n2.1. \nRequisitos formales del recurso de resguardo: Deberá interponerse por escrito, privilegiando los medios \nelectrónicos, y además señalar al menos:  \na) \nMención de la Autoridad ante quien se entabla. \nb) \nIndividualización del contribuyente, (nombre, actividad u oficio, Rut, dirección). Si actúa representado, \nindividualización del mandatario, (nombre, actividad u oficio, Rut, dirección), y naturaleza de la \nrepresentación.  \nc) \nForma de notificación (ya sea correo electrónico, aviso en el portal MiSii, o carta certificada). \nd) \nIdentificar la Unidad, Área, Departamento o Subdirección del Servicio que haya tenido participación en la \neventual vulneración (fiscalización, avaluaciones, jurídica, asistencia al contribuyente, administración etc.). \ne) \nAntecedentes de hecho (exposición clara y concisa del hecho que configura el acto u omisión que vulnera \nalguno de los derechos del contribuyente, con indicación precisa de la fecha de su ocurrencia). \nf) \nSeñalar el o los derechos que han sido vulnerados. \ng) \nDocumentos y antecedentes fundantes del recurso. \nh) \nIndicación de todos los medios probatorios de que piensa valerse. \ni) \nPeticiones concretas y firma del contribuyente o representante. \nLos contribuyentes podrán actuar sin patrocinio de abogado. \n2.2. \nObjeto del recurso: Será procedente para restablecer el libre ejercicio de cualquiera de los derechos \nestablecidos en el artículo 8 bis del CT o dejar sin efecto la actuación realizada u ordenar la realización de alguna \nactuación con el objeto de cumplirlos. \n2.3. \nLegitimación activa: El sujeto activo para interponer el recurso será el contribuyente que considere que sus \nderechos se hubieren vulnerado, quién podrá actuar personalmente o representado. \n2.4. \nOportunidad: Deberá interponerse en el término legal de 10 días hábiles administrativos desde el acto u omisión \nque vulnera alguno de los derechos del contribuyente. \n2.5. \nDe la prueba: El contribuyente puede hacer uso de cualquier medio establecido en la ley capaz de producir \nprueba.  \n2.6. \nDe los plazos y horarios: Los plazos de días para dar tramitación a un recurso de resguardo se computan de \nlunes a viernes (se excluye sábados, domingos y festivos) de acuerdo a lo dispuesto en el inciso segundo del \nartículo 10 del CT.  \nEl horario para presentar un recurso de resguardo corresponde al de atención de público. Sin perjuicio de ello, el \ncontribuyente podrá presentarlo electrónicamente en la página web del Servicio, o materialmente en el domicilio \ndel ministro de fe habilitado para dicho efecto, hasta las 24:00 horas del último día. \n2.7. \nExpediente electrónico: Los antecedentes aportados por los contribuyentes, las actuaciones del Servicio y la \nresolución que lo falle se ingresarán a un expediente electrónico al que podrá ingresar el contribuyente en \ncualquier momento a través de la página web del Servicio. \n2.8. \nAutoridad ante quien se entabla: El Director Regional, Subdirector de Fiscalización y Director de Grandes \nContribuyentes4, conocerán de todos los recursos originados en una acción u omisión que constituyan una \neventual vulneración de los derechos de los contribuyentes, realizado por cualquier funcionario de su \ndependencia.  \nPor su parte, el Director conocerá de todos los recursos de"
+    },
+    {
+      "name": "Circular N°92 (20/09/1974)",
+      "source_type": "circular",
+      "source": "Circular N°92 (20/09/1974)",
+      "document_id": "90c61295-3520-5db6-8f19-32baf71fa522",
+      "chunk_uuid": "66f9ea7d-1cc1-5c5b-8d38-582f538fae03",
+      "chunk_id": 6,
+      "url": "https://www.sii.cl/documentos/circulares/1974/circu92.pdf",
+      "content": " motivo se transfiere el dominio de un bien raíz o de cuotas so-bre el mismo (artículo 11º, Nº 13º).\n(d) Téngase en cuenta que la radicación de dominio de -bienes inmuebles o de cuotas sobre los mismos, provenientes de ad-judicaciones efectuadas en liquidaciones de sociedades civiles o -comerciales, o de la disolución de sociedades por reunirse en una -sola mano todas las acciones o derechos, a menos que el inmueble -o la cuota respectiva se radique en el dominio de la persona que -efectuó el aporte, sigue afecta al impuesto de 8%.\nLa norma anterior (Ley Nº 16.272, artículo 1º, Nº8, inciso 6º) es igual a la actual (artículo 2º, Nº1, inciso tercero del Decreto Ley en estudio).\nLas instrucciones para su aplicación se contienen en la Circular Nº 151, de 20 de Diciembre de 1972, página 4.\n(e) En conformidad a lo dispuesto por el artículo 41º del Decreto Ley en comento, y atendida la historia fidedigna de su es-tablecimiento, debe estimarse derogado el impuesto adicional sobre los actos gravados en el artículo 1º, Nº8, de la Ley Nº 16.272, -que se mantendría mientras no entraran a regir los nuevos avalúos provenientes de la retasación que debe efectuar el Servicio, de -acuerdo al artículo 3º de la Ley Nº 17.235, y que estableció el De-creto Ley Nº 61, de 26 de Octubre de 1973, con tasa de 4%, rebaja-da al 2% por el artículo 13º del Decreto Ley Nº 296, de 30 de Ene-ro de 1974.\nF.2.2 Artículo 2º, Nº 2), inciso primero :\nCheques girados y pagaderos en el país, tasa fija de F 50.- Cheques girados en el país para ser pagados en el exte-rior, tasa fija de F 800.-\nCOMENTARIO :\nEn conformidad a lo dispuesto por el artículo 23º, Nº 6 del Decreto Ley en estudio, los impuestos que devenguen los documentos emitidos por las instituciones bancarias o que se trami-ten ante ellas, deberán enterarse en arcas fiscales dentro del mes siguiente a aquél en que fue emitido o se admitió a tramitación.\nComo el tributo que afecta a los cheques ha sido -alzado, el cobro de la diferencia producida deberán hacerla efecti-vo los bancos respecto de los cheques que están en poder de sus -clientes.\nPara tal efecto, tomarán como referencia el número del primer cheque llegado al banco con fecha de giro correspondien-te al día de vigencia del alza respectiva, cargando en cuenta de-\n9\nlos cuentacorrentistas dicha diferencia por cada uno de los che-ques que falten por girar del total de estos formularios que com-pongan el o los talonarios existentes en poder de cada uno de -ellos.\nF.2.3 Artículo 2º, Nº 2, inciso segundo :\nLos protestos de cheques por falta de fondos o por cuenta cerrada cuando el cierre de la cuenta se hubiere producido con posterioridad al giro del cheque, estarán afectos a un impues-to de 1% del monto del cheque, con un mínimo de F 1.300.- y un -máximo de dos sueldos vitales mensuales del Departamento de San-tiago.\nCOMENTARIO:\n(a) La norma es, en sustancia, idéntica a la anterior - (Ley Nº 16.272, artículo 10 A)\n(b) Sujeto de este impuesto es el girador, pero, primer -responsable de su pago, el banco librado, debiéndose dejar constancia de su monto en cada acta de protesto. El banco librado sólo podrá cobrar el valor del tributo al girador, estando facultado para car-garlo en su cuenta (artículo 17º, Nº 1).\n(c) El impuesto deberá ser enterado por el banco librado -por ingresos mensuales de dinero en Tesorería (artículo 26, Nº"
+    },
+    {
+      "name": "Resolución N°65 (18/07/2017)",
+      "source_type": "resolucion",
+      "source": "Resolución N°65 (18/07/2017)",
+      "document_id": "2712ae52-a888-5629-a58f-f04b2e1b00af",
+      "chunk_uuid": "92aa8b2b-dfab-5a28-8074-fcbd734c5e46",
+      "chunk_id": 39,
+      "url": "http://www.sii.cl/normativa_legislacion/resoluciones/2017/reso65.pdf",
+      "content": " respectivas \ncompetencias, a desarrollar acciones conjuntas con la finalidad de facilitar la coordinación, tanto a \nnivel central como regional, en lo que dice relación con: \na) \nLa aplicación práctica de lo establecido en las resoluciones Exentas N°4.553, de fecha 30 \nde septiembre de 1996 y N° 6.181 de fecha 9 de diciembre de 1997 de “El Servicio”; que \ndetermina la primera de ellas la obligatoriedad de solicitar ante el Departamento Regional de \nAvaluaciones de “El Servicio” correspondiente un “certificado de Asignación de roles de \nAvalúo en Trámite” cuando en los casos de saneamiento o transferencias a título gratuito, \nlos bienes raíces sean parte de un inmueble mayor extensión, estableciendo la segunda de \nellas, un procedimiento de traspaso de la información de carácter legal relativa a las \ntransferencias de los bienes raíces dese las Notarías y los Conservadores de bienes raíces \nhacia “El Servicio”. \n \nb) \nLa aplicación práctica del D.L. N°2.695, de 1979 y de la Ley 19.455 (25.05.96), en lo relativo \na información que debe ser proporcionada por “El Servicio”, para efectos de la regularización \nde la posesión de la pequeña propiedad raíz gestionada por “El Ministerio”. \nSEGUNDO: “El Ministerio” realiza en las distintas regiones del país programas o proyectos masivos \nde regularización de títulos de dominio a personas de escasos recursos, de conformidad al artículo \n38 del D.L. 1939 de 1977, cuando se trate de inmuebles fiscales y de acuerdo al D.L. N°2.695 de \n1979, cuando se trate de propiedades particulares con título imperfectos. En este último caso, “El \nMinisterio”, dispone para la ejecución de estos proyectos, de un registro nacional y de Nóminas \nRegionales de empresas contratistas, cuya reglamentación está contenida en el D.S. N°13, de fecha \n17 de octubre de 1996. \nTERCERO: Con el fin de optimizar el cumplimiento de lo establecido en las disposiciones señaladas \nen la cláusula primera, por el presente documento se establece un Convenio de Cooperación y \nCoordinación sobre la base de las siguientes consideraciones: \n1. Relativas a la letra a) de la cláusula Primera del presente Convenio: \na) Las Secretarias Regionales Ministeriales de “El Ministerio” o las empresas contratistas \nautorizadas por éste tendrán una comunicación directa con los respectivos departamentos de \nAvaluaciones de “El Servicio”, con el fin de retirar o presentar los formularios correspondientes o \nresolver cualquier situación o inconveniente de identificación de predios y sus respectivos \nnúmeros de Rol de Avalúo. \n \n\n\nb) La solicitud de Certificado (Formulario 2892) de “Asignación de Roles de Avalúo en Trámite”, que \nserá tramitada y presentada por las empresas contratistas a que se refiere la cláusula Segunda, \no por la Secretaría Regional Ministerial en los casos de ejecución directa de “El Ministerio”, se \nacompañará con dos copias de planos con croquis de ubicación, en lo posible a escala, incluidos \npuntos de referencia. \n \nEn los casos de saneamientos de títulos múltiples, es decir, cuando en un mismo predio de mayor \nextensión se realiza el saneamiento de más de un lote, el Solicitante podrá llenar un solo \nFormulario 2892, debiendo indicar en el bloque destinado a nombre de Propietario/Beneficiario: \n“Se adjunta nómina” y una “X” en el bloque destinado al R.U.T.  Esta nómina contendrá el nombre \ny R.U.T. de los beneficiarios, con su respectiva dirección, debiendo adjuntar un plano a escala \ndel conjunto además de las dos copias de plano mencionadas en el párrafo anterior. \n \nc) En los planos con sistema de ortofotos o fotografías aéreas será necesario acompañar una \nfotocopia de la misma, con indicación de su número y año de vuelo. \n \nd) En el plano de saneamiento de propiedades"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Antofagasta: Sentencia RIT-GR-03-00012-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-03-00012-2013",
+      "document_id": "e6bbd7df-d0df-5fe4-a23e-14453de4c1fc",
+      "chunk_uuid": "0a58a148-889a-5903-92db-abb8f6da63ed",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/32",
+      "content": "El Tribunal Tributario y Aduanero de la Región de Antofagasta rechazó un reclamo en contra de la Resolución que deniega la devolución de impuesto solicitado por el contribuyente, en su declaración Anual de Impuesto a la Renta\n\nEl reclamante sostuvo que mediante formulario 22 se solicitó una devolución ascendente a\n\n$67.828.099, la cual se conformaba por $58.801.106.- por concepto de Pagos Provisionales Mensuales (PPM), y $9.026.993.- por concepto de Crédito por Gastos de Capacitación (SENCE). Con fecha 24 de mayo de 2010, se autorizó la devolución parcial de $13.538.784.-, quedando pendiente la devolución de un saldo ascendente a $ 54.289.315. Posteriormente, mediante Resolución N° 1033, se denegó el saldo de la devolución solicitada, principalmente por el uso del crédito SENCE.\n\nPor su parte el Servicio indicó que: (i) Hipermercado Calama Ltda. no acompaño los documentos necesarios para acreditar la devolución solicitada, no obstante haber sido requerida al efecto; (ii) la sociedad Hipermercado Calama Ltda. fue disuelta, motivo por lo cual la reclamación interpuesta por Administradora de supermercados Híper Ltda. (Sociedad absorbente) es improcedente por el carácter de personalísimos de los créditos solicitados.\n\nEl Tribunal sostuvo que la discusión se ha trabado respecto de (i) la existencia de vicios de nulidad del acto reclamado; (ii) la procedencia de la devolución del saldo a factor, y (iii) la legitimación activa de la sociedad Administradora de Supermercados Híper Limitada para los efectos de reclamar la resolución emitida.\n\nEn definitiva, en relación a la legitimación activa, el Tribunal concluyó que en autos no existían elementos de convicción que acrediten que las fusiones efectivamente se produjeron, por cuanto no se acompañaron pruebas sobre la inscripción del extracto en el registro de comercio respectivo, como tampoco de la publicación de dicho extracto en el Diario Oficial. Por tanto, y no obstante reconocer que la legislación tributaria solo requiere de un interés actual comprometido para tener legitimación activa, determinó que la reclamante no se encontraba legitimada para reclamar.\n\nEn atención a lo anterior, el sentenciador desestimó el reclamo sin pronunciarse sobre el resto de los asuntos controvertidos."
+    },
+    {
+      "name": "Oficio N°1510 (11/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1510 (11/06/2021)",
+      "document_id": "8ade31d6-e805-5199-844f-69d817ba4766",
+      "chunk_uuid": "e59facef-c07c-5cad-80b7-388864fa633d",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1510-11%2F06%2F2021.pdf&extension=pdf&acc=download&id=e96f4296-18df-4f59-853b-2299a3a830b4&mediaType=application%2Fpdf",
+      "content": " de \ndominio a nombre del contribuyente, atendido que los inmuebles se encuentran radicados, por el \nsolo ministerio de la ley, desde la fecha de la escritura respectiva cuando se cumplen las demás \nexigencias legales de la respectiva fusión o división. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2 Oficio Ordinario N° 878, del 05.04. 2016 \n3 Esta información puede ser proporcionada al SII, a través de la página web Sii.cl, en el Menús Servicios Online, \"Actualización de \nInformación\", opción “Informar reorganizaciones empresariales”. \n4 La Resolución N°7, de 2021, considera el ingreso de solicitudes administrativas, en el Menús Servicios Online, “Avalúos y contribuciones \nde Bienes Raíces\", “Solicitudes y Declaraciones”, “Solicitudes de Bienes Raíces”. \n5 Circular N° 28, del 2020, que dispone en el punto 1.1.1 que el contribuyente es quien “a cuyo nombre se encuentre inscrito el título de \ndominio en el Registro de Propiedad del Conservador de Bienes Raíces respectivo, al día 31 de diciembre referido”. \n \n \n \n\n\n \n \n \n3.  De este modo, se considerará como contribuyente de la Sobretasa del artículo 7° bis de la Ley \n17.235 a la persona, sociedad o entidad, en cuyo patrimonio se radiquen los bienes raíces tras la \nfusión o división, quien podrá rebajar el Impuesto a la Sobretasa 7° bis pagado, en calidad de \ncosto o gasto de la renta bruta del Impuesto de Primera Categoría de la Ley de la Renta, \ncuando proceda. \n \nFinalmente, y a propósito de lo consultado, es necesario precisar que este Servicio podrá \nconsiderar como contribuyente de la sobretasa a una persona o entidad distinta del propietario \ninscrito en el Registro de Propiedad del respectivo Conservador de Bienes Raíces, por mandato o \nefecto de otra disposición legal, pero no en base a un mero contrato o acuerdo entre partes, en \ncuyo caso se atenderá al propietario inscrito. \n \n \n \n \n \n \n \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR \n \n \n \n \n \n \n \nOficio N° 1510, de 11.06.2021 \nSubdirección de Avaluaciones \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+      "name": "Artículo 1689 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "1f774f39-d378-5f84-849b-2f1a26c53114",
+      "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719648",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XX DE LA NULIDAD Y LA RESCISION,Artículo 1689 (DEL ART. 2)|Art. 1689. La nulidad judicialmente pronunciada da acción reivindicatoria contra terceros poseedores; sin perjuicio de las excepciones legales."
+    },
+    {
+      "name": "Oficio N°3012 (26/10/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3012 (26/10/2021)",
+      "document_id": "bd8bff32-0a45-5b16-bd74-8d165f9ed7d4",
+      "chunk_uuid": "75a7ac56-7474-5448-a536-a31f692cbc78",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3012-26%2F10%2F2021.pdf&extension=pdf&acc=download&id=ada9aeab-78f2-476f-853d-0da6e87a1aec&mediaType=application%2Fpdf",
+      "content": " renta el mayor valor obtenido en la enajenación de inmuebles que no \nexceda de 8.000 UF1.  \nDicho beneficio es improcedente cuando no ha transcurrido más de un año entre la adquisición y la \nenajenación del inmueble2.  \nLa fecha en que se entiende adquirido o nuevamente enajenado un inmueble corresponde a la fecha de \ninscripción de la compraventa en el Registro de propiedad del conservador de bienes raíces a nombre de \nquien enajena o del nuevo adquirente, según corresponda3.  \n \n1 Independiente del número de enajenaciones realizadas o del número de bienes raíces de propiedad del contribuyente. \n2 Número iv) de la letra b) del N° 8 del artículo 17 de la LIR. \n3 Párrafo final del N° 8 del artículo 17 de la LIR. \n\n\n2 \n \nEn dicho sentido, la fecha de la escritura pública en que conste la promesa o la compraventa es \nirrelevante para efectos de lo dispuesto en la letra b) del N° 8 del artículo 17 de la LIR.  \nEsta limitación temporal es de carácter objetivo puesto que atiende solo al transcurso del tiempo, sin \ndepender, por ejemplo, del ánimo con el cual se haya adquirido el inmueble.  \nSi bien no se consulta directamente, se hace presente que el mayor valor obtenido en la enajenación del \ninmueble, efectuada antes de un año contado desde su adquisición, se afectará con impuesto de primera \ncategoría e impuestos global complementario o impuesto adicional, según corresponda4. \nIII  \nCONCLUSIÓN \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que:  \n1) La fecha que se considera para el cómputo de al menos un año entre la adquisición y la enajenación \ndel inmueble es aquella en que se efectuó la inscripción de dominio en el Registro de Propiedad del \nConservador de Bienes Raíces a nombre del adquirente;  \n2) Si entre la inscripción de dominio a nombre del enajenante y la inscripción de dominio a nombre \ndel nuevo adquirente no ha transcurrido al menos un año, no será procedente considerar como \ningreso no renta hasta 8.000 U.F. del mayor valor obtenido en la enajenación;  \n3) La LIR no considera el ánimo con que el enajenante del inmueble lo adquirió ni establece métodos \npara acreditar dicho ánimo, y  \n4) La fecha de inscripción del inmueble a nombre del adquirente determina la fecha de adquisición, \npor lo que no es procedente considerar la fecha del contrato de promesa de compraventa para \nefectos de determinar su tributación. \nSaluda a usted, \n \n \n          RICARDO PIZARRO ALFARO \n \n \n \n \n       \n       \n \n DIRECTOR (S) \n \n \n \n \n \nOficio N° 3012 del 26-10-2021 \nSubdirección Normativa \nDepto. de Impuesto Directos \n \n4 Circular N° 43 de 2021, página 24. \n"
+    },
+    {
+      "name": "Artículo 2231 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "cf646001-0e03-5e9a-8373-367e370d4854",
+      "chunk_uuid": "7c9f0057-e765-55a3-b433-ffd1472cb977",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720280",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXXII DEL DEPOSITO Y DEL SECUESTRO,Artículo 2231 (DEL ART. 2)|Art. 2231. Si los herederos, no teniendo noticias del depósito, han vendido la cosa depositada, el depositante (no pudiendo o no queriendo hacer uso de la acción reivindicatoria o siendo ésta ineficaz) podrá exigirles que le restituyan lo que hayan recibido por dicha cosa, o que le cedan las acciones que en virtud de la enajenación les competan."
+    },
+    {
+      "name": "Oficio N°406 (21/02/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°406 (21/02/2017)",
+      "document_id": "16703e14-3936-57a9-a4e5-1468f1ce2ce5",
+      "chunk_uuid": "1fd7ae5c-5570-5593-9180-54519413aa5f",
+      "chunk_id": 5,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja406.htm",
+      "content": " totalidad del mayor valor deberán tributar con\nel IGC o el Impuesto Adicional (IA), según corresponda, sobre la base de la renta percibida o devengada, a\nelección del enajenante. En el evento que este último sea una persona natural domiciliada o residente en\nChile podrá reliquidar el IGC considerando el período de años comerciales en que los bienes raíces que\nenajena han estado en su poder, con un límite de diez años, o reemplazar dicho impuesto por el Impuesto\nÚnico Sustitutivo (IUS) de tasa 10%, siempre que hubiere optado por tributar sobre la base de la renta\ndevengada, en el primer caso, o sobre la base de la renta percibida, en el segundo.\nc)    Si la enajenación se efectúa a un no relacionado, pero antes de transcurridos los plazos indicados en la\nletra a) precedente, la totalidad del mayor valor obtenido tributará con el IGC o IA, según corresponda, sobre\nla base de la renta percibida o devengada, a elección del enajenante, resultando aplicable la reliquidación del\nIGC, en los términos señalados.\nd)    Finalmente, si la enajenación se efectúa a un relacionado, la totalidad del mayor valor obtenido tributará\ncon el IGC o IA, según corresponda, sobre la base de la renta percibida o devengada, lo que ocurra primero.\n Las instrucciones de este Servicio sobre lo dispuesto en la letra b), del inciso 1°, del N° 8, del artículo 17 de\nla LIR, vigente a partir del 1° de enero de 2017, y lo dispuesto en el numeral XVI del artículo tercero de las\ndisposiciones transitorias de la Ley N° 20.780 fueron impartidas mediante Circular N° 44 de 2016.\n III.- CONCLUSION:\nLa transferencia del inmueble construido por su cliente, se encontrará gravada con IVA, en la eventualidad\nque para su construcción se haya celebrado un contrato general de construcción por administración, en cuyo\ncaso quien construye tiene la calidad de empresa constructora, no importando la oportunidad en que dicha\nventa se realice, siéndole aplicable todas las obligaciones que establece el Decreto Ley N° 825, de 1974, por\ncuanto para este tipo de empresas las normas sobre registro, declaración y pago del IVA no han sufrido\nmodificaciones.\n Si la construcción del inmueble se hizo mediante un contrato general de construcción por suma alzada, a\ncontar del 1° de enero del 2016 la venta del inmueble que realice su cliente se encontrará gravada con IVA, a\nmenos que le hubiese sido aplicable la exención contenida en la primera parte del artículo séptimo transitorio\nde  la Ley N° 20,780,  esto es, que el inmueble cuente al 1° de enero del 2016, con el permiso de edificación\na que se refiere la Ley General de Urbanismo y Construcciones, y la venta respectiva se efectúe dentro del\nplazo de un año, a contar del 1° de enero del 2016, o la segunda parte de dicha norma, si se tratase de un\ninmueble nuevo y se cumplan los demás requisitos allí señalados.\nSi la enajenación del inmueble se realizara con posterioridad al 1° de enero del 2017, dicha venta se\nencontraría gravada con IVA y para fines del pago del impuesto, se deberá determinar la base imponible de la\noperación, de conformidad con las normas del inciso 2° del artículo 17° del D.L. N° 825, de 1974 y sobre ella\naplicar la tasa del impuesto, lo que constituirá el débito fiscal.\nDe conformidad a lo dispuesto en el artículo 8° Transitorio de la Ley N° 20.780, modificado por la Ley N°\n20.899 del 2016, se podrá hacer uso del crédito fiscal soportado en la construcción del inmueble, según las\nnormas del artículo 23° y siguientes del D.L. N°"
+    },
+    {
+      "name": "Oficio N°2414 (09/09/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2414 (09/09/2021)",
+      "document_id": "229e099d-70c5-5e0f-b825-d53063059b6c",
+      "chunk_uuid": "dc15a26b-4622-50a4-abb6-8ca73adb92ea",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2414-09%2F09%2F2021.pdf&extension=pdf&acc=download&id=5c313d36-629d-4ad1-8e72-d3d465b9ebf0&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17 N° 8 LETRAS B) Y F)  \n \n(ORD. N° 2414 DE 09.09.2021). \n \nTratamiento tributario de la enajenación de una cuota de un inmueble adquirido por sucesión por \ncausa de muerte. \nSe ha solicitado a este Servicio un pronunciamiento sobre los efectos tributarios de la enajenación de \nuna cuota sobre un inmueble ubicado en Chile, adquirido por una persona natural mediante sucesión por \ncausa de muerte. \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, una persona adquirió, por sucesión por causa de muerte, el 50% de un \ninmueble ubicado en Chile, de uso habitacional, el cual será eventualmente enajenado. \nAgrega que pagó al fisco con motivo de la tramitación de la posesión efectiva del mencionado 50% del \ninmueble un porcentaje de su avalúo fiscal. \nII  \nANÁLISIS  \nPara los efectos del presente Análisis se asumirá que el pago al fisco, equivalente a un porcentaje del \navalúo fiscal del inmueble, corresponde al Impuesto a las Herencias, Asignaciones y Donaciones, \ncontenido en la Ley N° 16.271 (en adelante, para el presente caso, “Impuesto de Herencia”), y también \nque la persona natural no ha asignado el 50% del inmueble a su empresa individual, en caso de tener \nuna. \nSupuesto lo anterior, siendo el enajenante a una persona natural que no ha asignado la cuota del \ninmueble a su empresa individual, la eventual renta que se obtenga en la enajenación del 50% del \ninmueble se sujetará a las siguientes reglas: \n1) \nTributará conforme a la letra b) del N° 8 del artículo 17 de la Ley sobre Impuesto a la Renta (LIR). \nLuego, el mayor valor se determinará disminuyendo del precio o valor asignado al 50% del \ninmueble su costo tributario1. \n2) \nEl costo tributario corresponde por regla general, al valor de adquisición, así como los desembolsos \nen mejoras que hayan aumentado su valor2. \nCon todo, como en la especie el inmueble habría sido adquirido mediante sucesión por causa de \nmuerte, la letra f) del N° 8 del artículo 17 de la LIR prescribe que su valor de adquisición \ncorresponde al que se haya indicado para la determinación del Impuesto de Herencia3. \n3) \nPor otra parte, no constituye renta el mayor valor obtenido hasta la suma de 8.000 unidades de \nfomento (UF)4, calculado respecto de la totalidad de enajenaciones de inmuebles, cuotas o derechos \nsobre estos, efectuados por el mismo contribuyente5. El mayor valor que exceda de las 8.000 UF \nindicadas precedentemente se grava con IGC o IA, en base a renta percibida. \n4) \nDel impuesto calculado se podrá deducir como crédito una parte del Impuesto de Herencia \nefectivamente pagado. El monto del crédito corresponderá a la suma equivalente que resulte de \naplicar al valor efectivamente pagado por el asignatario, la proporción que se determine entre el \nvalor del bien raíz respectivo que se haya considerado para el cálculo del impuesto (en este caso, el \n50% del valor del inmueble ya que la asignación fue por el 50% del inmueble) y el valor líquido \ndel total de las asignaciones que correspondieron al enajenante de acuerdo a la ley6. \nPara facilitar su comprensión, lo expuesto se explica con los siguientes ejemplos: \n \n1 Reajustado de acuerdo a la variación del índice de precios al consumidor entre el mes anterior a la adquisición o aporte, y el mes anterior al de \nsu enajenación.  \n2 Reajustados de acuerdo a la variación del índice de precios al consumidor entre el mes anterior al de la adquisición o mejora,"
+    },
+    {
+      "name": "Circular N°46 (04/09/2008)",
+      "source_type": "circular",
+      "source": "Circular N°46 (04/09/2008)",
+      "document_id": "39c600d8-6fdb-5c48-b990-f4883b85d06e",
+      "chunk_uuid": "319aad84-63c0-53b2-b28f-d2a6eb2b3837",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/documentos/circulares/2008/circu46.htm",
+      "content": " establezcan las obligaciones o limitaciones que nazcan para los accionistas que\nquebranten dichos límites, según sea el caso. En su defecto, dichas estipulaciones se\ntendrán por no escritas.\nEl estatuto también podrá establecer que bajo determinadas circunstancias se pueda exigir\nla venta de las acciones a todos o parte de los accionistas, sea a favor de otro accionista, de\nla sociedad o de terceros.\nEn caso de existir tales normas, el estatuto deberá contener disposiciones que regulen los\nefectos y establezcan las obligaciones y derechos que nazcan para los accionistas. En su\ndefecto, dichas estipulaciones se tendrán asimismo por no escritas”.\n“Artículo 436.- Las acciones pueden ser ordinarias o preferidas. El estatuto social deberá\nestablecer en forma precisa las cargas, obligaciones, privilegios o derechos especiales que\nafecten o de que gocen una o más series de acciones. No es de la esencia de las\npreferencias su vinculación a una o más limitaciones en los derechos de que pudieran gozar\nlas demás acciones”.  \n“Artículo 437.- Cada accionista dispondrá de un voto por cada acción que posea o\nrepresente. Sin embargo, el estatuto podrá contemplar series de acciones sin derecho a\nvoto, con derecho a voto limitado o a más de un voto por acción; en cuyo caso, deberán\ndeterminar la forma de computar dichas acciones para el cálculo de los quórum”.  \n“Artículo 438.- La sociedad podrá adquirir y poseer acciones de su propia emisión, salvo en\ncuanto esté prohibido por el estatuto social. Con todo, las acciones de propia emisión que se\nencuentren bajo el dominio de la sociedad, no se computarán para la constitución del\nquórum en las asambleas de accionistas o aprobar modificaciones del estatuto social, y no\ntendrán derecho a voto, dividendo o preferencia en la suscripción de aumentos de capital.  \nLas acciones adquiridas por la sociedad deberán enajenarse dentro del plazo que\nestablezca el estatuto.\nSi éste nada señalare al respecto, deberán enajenarse en el plazo de un año a contar de su\nadquisición. Si dentro del plazo establecido, las acciones no se enajenan, el capital quedará\nreducido de pleno derecho y las acciones se eliminarán del registro.”  \n“Artículo 439.- La sociedad podrá emitir acciones de pago, que se ofrecerán al precio que\ndeterminen libremente los accionistas o quien fuere delegado al efecto por ellos. No será\nobligatorio que dicha oferta se realice preferentemente a los accionistas.\nSin embargo, el estatuto social podrá establecer que las opciones para suscribir acciones de\naumento de capital de la sociedad o de valores convertibles en acciones de la sociedad, o\nde cualesquiera otros valores que confieran derechos futuros sobre éstas, sean de pago o\nliberadas, deban ser ofrecidos, a lo menos por una vez, preferentemente a los accionistas, a\nprorrata de las acciones que posean.  \nMientras estuviere pendiente una emisión de bonos convertibles en acciones, deberá\npermanecer vigente un margen no suscrito del aumento de capital por la cantidad de\nacciones que sea necesaria para cumplir con la opción, cuando ésta sea exigible conforme\na las condiciones de la emisión de los bonos respectivos.”  \n\n\n“Artículo 440.- Todo acuerdo de reducción de capital deberá ser adoptado por la mayoría\nestablecida en el estatuto. En silencio de éste, se requerirá el voto conforme de la\nunanimidad de los accionistas.\nNo podrá procederse al reparto o devolución de capital o a la adquisición de acciones con\nque dicha disminución pretenda llevarse a efecto, sino desde que quede perfeccionada la\nmodificación estatutaria”.  \n“Artículo 441.- Las diferencias que ocurran entre los accionistas, los accionistas y la\nsociedad o sus administradores o liquidadores, y la sociedad y sus administradores o\nliquidadores, deberán ser"
+    },
+    {
+      "name": "Oficio N°3739 (16/10/2002)",
+      "source_type": "oficio",
+      "source": "Oficio N°3739 (16/10/2002)",
+      "document_id": "4431c585-a6c2-5d53-90f6-e44e63ea1afb",
+      "chunk_uuid": "3398b2fc-42be-5e27-a5b0-fad30f792449",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2002/renta/ja380.htm",
+      "content": " o Adicional sólo en el caso que no se pruebe la\nefectividad, condiciones y monto de la respectiva participación, considerando como renta imponible propia la\nque determine en este caso para todos los efectos que dispone la ley tributaria; agregándose en el N° 6 que,\nen cambio, si se prueba la efectividad, condiciones y monto de la respectiva participación, tanto el gestor\ncomo el partícipe asumirán todas las referidas obligaciones tributarias en forma separada, respecto del\nresultado que se determine por la asociación o encargo fiduciario que corresponda.\n3.- De acuerdo a lo indicado en el número precedente, y en conformidad a la definición del Contrato en\nreferencia que establece el Código de Comercio, se desprende que debe ser convenido exclusivamente por\nquienes sean calificados de comerciantes, y tener como objetivo la realización de actos que se tipifiquen\ncomo mercantiles, conforme a lo establecido en el artículo 3º del texto legal antes mencionado, circunstancia\nque este Servicio la ha reiterado a través de varios pronunciamientos emitidos sobre la materia.\n4.- Por otra parte, la definición de comerciante se encuentra establecida en el artículo 7° del Código de\nComercio, preceptuando lo siguiente: “Son comerciantes los que, teniendo capacidad para contratar, hacen\ndel comercio su profesión habitual.”\n\n\nDe acuerdo a la definición precedente, es plenamente factible que un comerciante no sea una persona\nnatural sino que una persona jurídica, como sucede en el caso en consulta. Así lo han sostenido diversos\nautores, entre los cuales merecen destacarse, Julio Olavarría Avila en su Manual de Derecho Comercial, 2\nEdición, año 1956, Editorial Jurídica de Chile, Página 252, y Ricardo Sandoval López, en su obra Manual de\nDerecho Comercial, Tomo I, Editorial Jurídica, 4 Edición, año 1997, Página 148.\n5.- Ahora bien, en el caso planteado, debe concluirse que es plenamente factible la validez de este tipo de\nacuerdo entre personas jurídicas, siempre y cuando su objeto consista en la realización de negocios\nmercantiles.\nRespecto de lo anterior, debe hacerse presente que según lo establecido en el artículo 509 del Código de\nComercio, la participación es esencialmente privada, no constituye una persona jurídica, y carece de razón\nsocial, patrimonio colectivo y domicilio.\nConforme a lo antes expuesto, en el caso propuesto coexistirán dos entidades totalmente independientes\njurídica y tributariamente. Una, conformada por la sociedad de responsabilidad limitada, la cual cuenta con\npersonalidad jurídica, patrimonio y domicilio propio, reglamentada por el Título VII del Libro II del Código de\nComercio y la Ley 3.918, y la Asociación, que no constituye una persona jurídica, reglamentada en el mismo\nTítulo VII del Libro II del referido Código y por el artículo 28 del Código Tributario, disposición esta última a\nque se hace referencia en el número 2 precedente.\n6.- En consecuencia, y basado en lo anteriormente expuesto, se responden las consultas formuladas,\nexpresándose al respecto lo siguiente :\na) En relación a la primera de ellas, se señala que efectivamente las sociedades (B) pueden celebrar con la\nsociedad (A) una Asociación o Cuentas en Participación, siempre y cuando se de cumplimiento a lo\ndispuesto por el artículo 507 del Código de Comercio, esto es, que las partes contratantes sean calificadas\nde comerciantes y tener como objetivo principal la realización de actos que se califiquen de mercantiles en\nlos términos establecidos por el artículo 3° de dicho Código.\nb) En cuanto a la segunda consulta es preciso distinguir previamente lo siguiente :\nb.1) Si se prueba la efectividad, condiciones y monto de la respectiva participación; y\nb.2) Si no se prueba la efectividad, condiciones y monto de la respectiva participación.\nc) En el primer caso, de acuerdo a las instrucciones contenidas en la citada Circular N° 29"
+    },
+    {
+      "name": "Oficio N°2102 (22/09/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°2102 (22/09/2017)",
+      "document_id": "d2f82e18-1db6-59b8-866c-45e7f1e9b3a4",
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2102.htm",
+      "content": " al Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, respecto de la aplicación\ndel Impuesto al Valor Agregado (IVA) en la enajenación de inmuebles, se modificaron los conceptos de\n“venta” y “vendedor” establecidos en los N° 1 y 3 del artículo 2° del D.L. N° 825, de 1974, quedando éstos del\nsiguiente tenor:\nArtículo 2°. - Para los efectos de esta Ley, salvo que la naturaleza del texto implique otro significado, se\nentenderá:\n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos\nlos terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos,\ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.\n3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de\nhecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles, sean ellos de\nsu propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar, a su\njuicio exclusivo, la habitualidad. Para efectos de la venta de inmuebles, se presumirá que existe habitualidad\ncuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo igual o inferior a\n\n\nun año. Con todo no se considerará habitual la enajenación de inmuebles que se efectúe como consecuencia\nde la ejecución de garantías hipotecarias, así como la enajenación posterior de inmuebles adjudicados o\nrecibidos en pago de deudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de\nun plazo determinado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución\njudicial. La transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser\nconsiderada habitual.\nAhora bien, como lo ha señalado este Servicio[1], con las modificaciones que la Ley N° 20.780 hace a los N°\n1 y 3 del artículo 2° del Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, las ventas de\ninmuebles gravadas con IVA, que estaban restringidas exclusivamente a las transferencias de inmuebles de\npropiedad de una empresa constructora construidos por ella, o en parte por un tercero para ella; a contar del\n1° de enero del 2016, se amplían a todas las ventas de inmuebles, sean éstos nuevos o usados, en la\nmedida que sean efectuadas por un vendedor habitual, entendiendo por tal a cualquier persona natural o\njurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta\nde bienes corporales inmuebles, sean ellos de su propia construcción o adquiridos de terceros, con la\nsalvedad referida a las transferencias de terrenos.\nSin perjuicio de lo señalado precedentemente, el artículo séptimo transitorio de la Ley N° 20.780, establece\nuna exención a las ventas de inmuebles que se graven como consecuencia de la modificación que se hace al\nD.L. N° 825, de 1974, norma que fue complementada por la Ley N° 20.899. El referido artículo, en su primera\nparte, establece que se encontrarán exentas del Impuesto al Valor Agregado, las ventas de inmuebles que\ncuenten con el permiso de edificación a que se refiere la Ley General de Urbanismo y Construcción al 01 de\nenero de 2016 y que su venta se realice en el plazo de un año a contar de esa fecha.\nLuego, dando respuesta a su consulta, se encontrará exenta de IVA, la enajenación de inmuebles que se\ngraven como consecuencia de la"
+    },
+    {
+      "name": "Artículo 58",
+      "source_type": "ley",
+      "source": "ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA",
+      "document_id": "22f88c81-615d-5ce2-a62f-ab34a0777b35",
+      "chunk_uuid": "57740769-2ee8-5c3b-9837-af74b547c615",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=30620&idParte=8639899",
+      "content": "Ley 19253 ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA,TITULO VII NORMAS ESPECIALES DE LOS PROCEDIMIENTOS JUDICIALES,Párrafo 2º De la Conciliación y del Procedimiento Judicial en los Conflictos de Tierras,Artículo 58|- Las normas de este título se aplicarán también a los juicios reivindicatorios o de restitución en que los indígenas figuren como demandantes o demandados. En caso de controversia acerca del dominio emanado de un título de merced o de comisario vigente, éstos prevalecerán sobre cualquier otro, excepto en los casos siguientes: 1.- Cuando el ocupante exhiba un título definitivo que emane del Estado, posterior al 4 de diciembre de 1866 y de fecha anterior al de merced. 2.- Cuando el ocupante exhiba un título de dominio particular de fecha anterior al de merced aprobado de conformidad con la ley de Constitución de la Propiedad Austral."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Coquimbo: Sentencia RIT-AB-06-000011-2012",
+      "source_type": "jurisprudencia",
+      "source": "RIT-AB-06-000011-2012",
+      "document_id": "b43a05b6-6616-543d-a069-418ee189c78e",
+      "chunk_uuid": "31090eed-313b-58fa-96f2-69ea040d4542",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/2772",
+      "content": "Para entender que existe prohibición de edificar respecto de un inmueble, la misma debe importar una limitación al dominio que impida de forma absoluta construir en el inmueble."
+    },
+    {
+      "name": "Oficio N°3590 (31/12/2009)",
+      "source_type": "oficio",
+      "source": "Oficio N°3590 (31/12/2009)",
+      "document_id": "aacbf74c-4dac-54e2-bdaa-41da74186a1b",
+      "chunk_uuid": "a6c1c50a-1cc3-5fe7-a192-fd638dd2e5b5",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2009/renta/ja3590.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley Renta - 2009\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 424° – LEY N° 18.046,\nSOBRE SOCIEDADES ANÓNIMAS, ART. 94°, ART. 95°, ART. 100°. (ORD. N° 3.590, DE 31.12.2009)\nTRATAMIENTO TRIBUTARIO APLICABLE A LA DIVISIÓN DE UNA SOCIEDAD POR ACCIONES – LA\nSOCIEDAD POR ACCIONES, ES UNA PERSONA JURÍDICA CREADA POR UNA O MÁS PERSONAS\nMEDIANTE \nUN ACTO \nDE \nCONSTITUCIÓN, \nCUYA \nPARTICIPACIÓN \nEN \nEL \nCAPITAL \nES\nREPRESENTADA POR ACCIONES – LE RESULTAN APLICABLES LAS NORMAS CONTENIDAS EN EL\nCÓDIGO DE COMERCIO, Y LA LEY N° 18.046, RESPECTO DE LAS SOCIEDADES ANÓNIMAS\nCERRADAS.\n1.- Por presentación indicada en el antecedente, plantea la situación de una sociedad por acciones (SpA1)\ncuyos accionistas son tres sociedades de responsabilidad limitada (SRL1, SRL2 y SRL3), en proporciones\nde 50%, 30% y 20%, respectivamente; todas las que tienen controladoras jurídica y patrimonialmente\nindependientes. Agrega que SpA1 posee exclusivamente una serie de inmuebles urbanos, la mayoría de los\ncuales se encuentran entregados en arrendamiento, y prácticamente no tiene pasivos.\nExplica que los accionistas de SpA1 han decidido desarrollar las actividades inmobiliarias del caso, en forma\nindependiente. Para este fin, sobre la base de una estimación económica de los activos de SpA1 realizada\npor un perito y aprobada por sus accionistas, éstos han acordado dividirla en tres sociedades por acciones\n(SpA1, SpA2 y SpA3), asignando a cada una un grupo de inmuebles representativo del 50%; 30% y 20% del\ntotal, respectivamente. Los estatutos y particularmente el objeto de las tres sociedades serán idénticos, esto\nes, el actual de SpA1.\nSeñala además, que para efectos legales y financieros, la división se efectuará considerando los inmuebles\nde acuerdo al valor contable de los mismos, de manera tal que el patrimonio contable de SpA1, en el\nproceso de división, se distribuirá en proporciones distintas al 50%, 30% y 20%, respectivamente; de tal\nmodo que legal y financieramente, un 42% del patrimonio de SpA1, aproximadamente, quedará radicado en\nella, un 32%, aproximadamente se asignará a SpA2, y un 26% aproximadamente a SpA3.\nPor otra parte, continúa, en el mismo acto de la división, considerando la valoración económica del\npatrimonio de cada sociedad -50%, 30% y 20% del total-, en armonía con la finalidad perseguida por los\naccionistas y sobre la base de lo establecido en el artículo 100 de la Ley N°18.046, en consonancia con el\nartículo 424 del Código de Comercio; SRL2 y SRL3 dejarán de ser accionistas de SpA1, cuyo único\naccionista pasará a ser SRL1. Lo mismo ocurrirá con SpA2, de la cual dejarán de ser accionistas SRL1 y\nSRL3; y con SpA3, de la cual dejarán de ser accionistas SRL1 y SRL2. Como resultado, cada sociedad por\nacciones quedará con un solo accionista (SRL1; SRL2 y SRL3, respectivamente).\nEn el escenario antes descrito, solicita se confirme que, en la medida que tanto en SpA1 como en SpA2 y\nSpA3 se mantenga registrado el valor tributario que tenían los activos y pasivos de SpA1, de acuerdo al\nartículo 64, inciso cuarto, del Código Tributario, no es"
+    },
+    {
+      "name": "Corte de Apelaciones de Iquique: Sentencia ROL-54-2014",
+      "source_type": "jurisprudencia",
+      "source": "ROL-54-2014",
+      "document_id": "965a5314-38e5-5981-a50f-9cb294d58a5d",
+      "chunk_uuid": "c135c756-cb59-52ee-9e62-11a5c15a7ef4",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/4705",
+      "content": "La Corte de Apelaciones de Iquique revocó la sentencia de primer grado, en cuanto esta ordenaba que a contar del primer semestre del 2014, el SII debía rebajar el valor de la construcción en un 20% aplicado sobre dicho valor actualizado al 1° de enero del 2014, por ser improcedente.\n\nEl Servicio de Impuestos Internos como parte apelante expresó que existen los siguientes errores de derecho:\n\na) Falta de legitimación activa del reclamante puesto que se han acogido dos reclamos separados de dos personas distintas sobre un mismo rol de avalúo;\n\nb) La decisión del Tribunal de rebajar un 20% de la tasación fiscal adolece de ultrapetita, porque dicho asunto no fue puesto en conocimiento del Juez Tributario y Aduanero y se trata de hechos que sucedieron con posterioridad a la dictación del decreto “autos para fallo”, por lo que tal rebaja no se fundó en norma legal ni sustento técnico alguno.\n\nLa parte reclamante adhirió al recurso de apelación solicitando la revocación de la sentencia que hace lugar parcialmente a su reclamación de avalúo de bienes raíces reiterando su pretensión de rebaja de la tasación de la construcción.\n\nRespecto a esta adhesión a la apelación, la Corte declara que carece de competencia para conocer de las resoluciones que dicte un TTA sobre cuestiones propias del reclamo de avalúos en la medida que se fundamentan en los numerales del artículo 149 del Código Tributario por la especialidad de la materia que tiene una reglamentación propia y de carácter técnico además de existir un Tribunal Especial de Alzada.\n\nEn relación a la falta de legitimación activa del reclamante alegada por el SII, la Corte comparte las conclusiones del Tribunal a quo en orden a que el reclamante se encuentra legítima y legalmente facultado para reclamar del avalúo, por tener la calidad de contribuyente y un interés actual comprometido.\n\nLa Corte determinó que la decisión del Juez Tributario, en cuanto ordena rebajar el avalúo fiscal de un 20% sobre el valor de tasación fiscal del predio, basado en los daños ocasionados por los sismos de abril de 2014, no fue asunto sometido a su conocimiento, ni debatido en el juicio, porque su ocurrencia fue posterior al procedimiento de avalúo practicado; que la causa, por haber finalizado las etapas de discusión y de prueba, se encontraba en estado de fallarse con anterioridad a esa fecha, por lo que no era la oportunidad procesal para proceder a citar a las partes a fin de que informaran sobre una cuestión que no era materia del juicio."
+    },
+    {
+      "name": "Circular N°92 (20/09/1974)",
+      "source_type": "circular",
+      "source": "Circular N°92 (20/09/1974)",
+      "document_id": "90c61295-3520-5db6-8f19-32baf71fa522",
+      "chunk_uuid": "92649d1b-e158-50b6-92ee-d7a0b1875823",
+      "chunk_id": 5,
+      "url": "https://www.sii.cl/documentos/circulares/1974/circu92.pdf",
+      "content": " los mismos, excepto aportes a sociedades, donaciones y expro-piaciones, tasa de 8%.\nEste impuesto se aplicará además al comunero que por acto entre vivos se adjudique o adquiera nuevas cuo-tas de un bien raíz común, en la parte correspondiente a la mayor cuota adjudicada o adquirida.\nSe devengará también el impuesto de este número en el caso de radicación del dominio de bienes inmuebles o de cuotas sobre los mismos, provenientes de adjudica-ciones efectuadas en liquidaciones de sociedades civiles o comerciales, o de la disolución de sociedades por reu-nirse en una sola mano todas las acciones o derechos, a menos que el inmueble o la cuota respectiva se radique -en el dominio de la persona que efectuó el aporte.\nCOMENTARIO:\n(a) La norma actual es idéntica a la anterior (art. 1º, Nº 8º, de la Ley Nº 16.272), salvo en lo que se refiere a los in-cisos 2º, 4º letras a) y b), y 5º de la disposición anterior, que no aparecen en la actual.\nSolo deja de existir la exención real -total que beneficiaba a inmuebles que hiciera el Fisco o la Cor-poración de Reforma Agraria de conformidad con la Ley Nº13.900,-de 24 de Diciembre de 1959.\nAdemás, las exenciones contenidas en -las letras a) y b) del inciso 4º del Nº 8º del artículo 1º, que ha-cían inaplicable la tasa de 8% a aquellas adjudicaciones o adqui-siciones de nuevas cuotas de un bien raíz común, hechas por un co-munero, en la parte correspondiente a la mayor cuota adjudicada o -adquirida, si tal adjudicación o adquisición se realizaban en :\n- Partición de herencia y a favor de uno o más herederos del causante o de uno o más herederos de éstos, o\n- Liquidación de sociedad conyugal y a favor de cualquie-ra de los cónyuges o de uno o más de sus herederos.\nPor ello, toda adjudicación o adquisición de nuevas cuotas se halla afecta a la tasa de 8%, en la parte correspondien-te a la mayor cuota adjudicada o adquirida.\n(b) La base imponible, en estos casos, es el valor del -contrato con mínimo del avalúo vigente y sin perjuicio de la fa-cultad del Servicio de Impuestos Internos para tasar el inmueble o cuota que corresponda, en conformidad a las normas del Código -Tributario (artículo 11º, Nº 3º).\nSi se trata de permutas de bienes raíces entre sí, o -de bienes raíces por otros de distinta naturaleza, el impuesto se determinará en relación al bien o bienes que estén afectos a -un impuesto (no a una tasa, sino a la tasa que corresponda apli-cada sobre la base imponible respectiva) resultante más alto -\n8\n(c) En razón a la naturaleza del hecho gravado en si -ti-tulos traslaticios de dominio de bienes corporales inmuebles o de cuotas sobre los mismos, se encuentran afectos al tributo de 8% los siguientes:\n- Entrega de bienes raíces en dominio al gestor o admi-nistrador de una asociación o cuentas en participación (artículo 11º, Nº 2º);\n- Renta vitalicia cuyo precio consistiere en inmuebles (artículo 11, Nº 11º), y\n- Transacciones, conciliaciones o avenimientos, con cu-yo motivo se transfiere el dominio de un bien raíz o de cuotas so-bre el mismo (artículo 11º, Nº 13º).\n(d) Téngase en cuenta que la radicación de dominio de -bienes inmuebles o de cuotas sobre los mismos, provenientes de ad-judicaciones efectuadas en liquidaciones de sociedades civiles o -comerciales, o de la disolución de sociedades por reunirse en una -sola mano todas las acciones o derechos, a menos que el inmueble -o la cuota respect"
+    },
+    {
+      "name": "Artículo 8 (DEL ART. PRIMERO)",
+      "source_type": "ley",
+      "source": "SOBRE ACCESO A LA INFORMACIÓN PÚBLICA",
+      "document_id": "2667534d-d06c-5660-b7ae-c8e4411b232e",
+      "chunk_uuid": "f0dca2d2-f476-5f6a-b5ef-dfff993dc1ae",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=276363&idParte=8564033",
+      "content": "Ley 20285 SOBRE ACCESO A LA INFORMACIÓN PÚBLICA,TITULO III De la Transparencia Activa,Artículo 8 (DEL ART. PRIMERO)|Artículo 8°.- Cualquier persona podrá presentar un reclamo ante el Consejo si alguno de los organismos de la Administración no informa lo prescrito en el artículo anterior. Esta acción estará sometida al mismo procedimiento que la acción regulada en los artículos 24 y siguientes."
+    },
+    {
+      "name": "Oficio N°3369 (17/11/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°3369 (17/11/2022)",
+      "document_id": "1f14d4ec-b469-53ff-9823-5d44a777e012",
+      "chunk_uuid": "0a7a9ace-b177-54e9-b298-c3d62f157ddb",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3369-17%2F11%2F2022.pdf&extension=pdf&acc=download&id=4a34057e-e5ae-4f84-9c59-cfd0733d2cc5&mediaType=application%2Fpdf",
+      "content": "icio N° 3705 de 2021 \n3  Ver Oficios N° 2010 de 2017 y N° 2708 de 2020 \n4  Norma contenida en el párrafo 4º del Título V del Libro Segundo, “De la accesión de las cosas muebles a inmuebles” del Código \nCivil. \n\n\n2 \n \ndel dueño del terreno, otorgándole a este último un derecho de opción entre hacerse dueño de lo \nedificado previo pago de las respectivas indemnizaciones, o de obligar al que edificó a pagarle el \njusto precio del terreno con los intereses legales por el tiempo que lo haya tenido en su poder. \n \nPor su parte, el inciso segundo de la misma norma trata la construcción en sitio ajeno “a ciencia y \npaciencia” del dueño del terreno, disponiendo que éste se encuentra obligado para recobrar el \nterreno, a pagar el valor de la edificación. \n \nAl respecto, la doctrina mayoritaria5 ha entendido que quien edifica en suelo ajeno, sin mediar \ncontrato, mantiene el dominio de lo construido hasta que se le pague su valor, y sólo una vez \nacaecido aquello, el dueño del terreno se transforma en propietario de la construcción. \n \nLuego, supuesto que el contribuyente construyó por error en suelo ajeno sin conocimiento del \nlegítimo dueño, no habiendo pagado este último el correspondiente valor de la edificación, y por \nesa razón la compraventa recaería únicamente sobre el terreno, en principio, la operación no se \nencontrará afecta a IVA conforme a lo dispuesto en el N° 1°) del artículo 2° de la LIVS. \n \nCon todo, es importante señalar que los supuestos descritos como los antecedentes señalados en \nsu presentación, en especial, aquellos referidos a la propiedad de la construcción, deberán ser \nacreditados fehacientemente en las instancias de fiscalización correspondientes. \n \nDe esta manera, si en definitiva no es posible acreditar el dominio del edificio sobre el suelo \najeno, el objeto de la venta recae sobre un inmueble construido, y siempre que ella fuera realizada \npor un vendedor habitual6, concurrirían en la especie todos los elementos del hecho gravado \n“venta”, encontrándose por este motivo la operación afecta a IVA. \n \nIII  CONCLUSIÓN \n \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que: \n \n1)  No corresponde a este Servicio emitir un pronunciamiento acerca del valor que debe utilizar \nel contribuyente en la venta del inmueble, por cuanto aquello no dice relación con materias \ntributarias de su competencia. \n2)  Sin perjuicio de lo señalado, y para fines tributarios, en la medida en que el contribuyente \nhaya edificado por error en terreno ajeno sin conocimiento del dueño, no habiendo pagado \neste último el valor de la construcción conforme al artículo 669 del Código Civil; y siendo \nobjeto de la compraventa únicamente el terreno, la operación no se encontraría afecta a IVA \nde acuerdo con N° 1°) del artículo 2° de la LIVS. \n \nLo anterior deberá ser acreditado fehacientemente en las instancias de fiscalización \ncorrespondientes. De no acreditarse, el objeto de la venta recae sobre un inmueble \nconstruido, y siempre que ella fuera realizada por un vendedor habitual, concurrirían en la \nespecie todos los elementos del hecho gravado “venta”, encontrándose por este motivo la \noperación afecta a IVA. \n \n \n \n \n \n          \n5  Por ejemplo, Ramos Pazos, René (1985). \"Edificación en Sitio Ajeno sin Previo Contrato: En torno al artículo 669 del Código \nCivil\". Revista de Derecho Universidad de Concepción. N° 178. Concepción; Domínguez Águila, Ramón (1995). \"Precario. \nConstrucción en Suelo Ajeno. Accesión\". Revista de Derecho Universidad de Concepción. N° 198. Concepción \n6  Conforme al conforme al N° 3°) del artículo 2° de la LIVS. \n\n\n3 \n \nHERNÁ"
+    },
+    {
+      "name": "Oficio N°492 (09/03/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°492 (09/03/2020)",
+      "document_id": "1494919f-cb6e-5492-9ffb-61c62f7d90da",
+      "chunk_uuid": "af67b610-6599-59d5-9244-ff83c21350c7",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=492-09%2F03%2F2020.pdf&extension=pdf&acc=download&id=90026f93-e0b7-4ec3-a6a1-5c4bcb7f829c&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO –  ART. 2, N° 1 Y N° 3; ART. 8, LETRA M) \n (ORD. N° 492, DE 09-03-2020) \n \n \n \n \n \n \n \n \n \n \n \n \n \nSolicita un pronunciamiento sobre tributación del vendedor en compraventa de inmueble. \n \nSe ha solicitado a esta Dirección Nacional, un pronunciamiento sobre la tributación que pudiera \nafectar a la parte vendedora, en la compraventa de un inmueble ubicado en la comuna de \nSantiago. \nI.-   ANTECEDENTES: \nSeñala que la compraventa del inmueble se efectuará entre las personas jurídicas XXXXX, como \nparte vendedora, y ZZZZZ, como compradora, a nombre de la cual realiza la presentación. \nEl inmueble objeto de la futura compraventa fue adquirido con fecha 16 de septiembre de 1997, \nsegún consta en escritura pública de Compraventa, Mutuo e Hipoteca de la misma fecha, otorgada \nen la YYYYY Notaría de Santiago, registrada en el RRRRR, e inscrito en el Conservador de \nBienes Raíces de Santiago, a fojas SSSSS, del mismo año. \nEl inmueble a la fecha de su adquisición por XXXXX, constaba del terreno y un par de \nconstrucciones destinadas a bodegas. La sociedad luego de la adquisición, construyó edificaciones \nsólidas destinadas a oficinas de la empresa, que subsisten hasta hoy. \nLas construcciones efectuadas por la compradora, posteriores a la fecha de adquisición del \ninmueble, fueron concluidas definitivamente en el año calendario 2005, ejercicio en el que se \nincorporó el inmueble como Activo Fijo Físico de XXXXX, bajo la cuenta contable “Bienes \nRaíces”, registro que incluye el valor de compra del inmueble según la respectiva escritura, más el \nvalor neto de las construcciones levantadas posteriormente. \nLa incorporación contable del inmueble y sus construcciones posteriores se han mantenido en \ncalidad de Activo Fijo Físico, bajo la cuenta denominada “Bienes Raíces”. \nSe solicita dictaminar si se encontraría afecto al Impuesto al Valor Agregado, el valor de la \ncompraventa del inmueble, que se efectuará próximamente entre los contribuyentes \nindividualizados, para cuyos efectos acompaña los antecedentes mencionados en su presentación. \n \nII.- \nANALISIS: \nLa Ley N° 20.780 de 29 de septiembre de 2014, modificó los N°s. 1 y 3 del artículo segundo del \nDecreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, estableciendo que a contar \ndel 1° de enero de 2016, salvo que la naturaleza del texto implique otros significados, se \nentenderá: \n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva \npara transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales \ninmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos \nreales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o \nque la presente ley equipare a venta (…). \n3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e \ninmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio \nde Impuestos Internos calificar la habitualidad (…)”. \nPara fines de calificar la habitualidad, el artículo 4° del D.S. N° 55, de 1997, Reglamento de la \nLey, establece que el Servicio de Impuestos Internos considerará la naturaleza, cantidad y \nfrecuencia con que el vendedor realice las ventas de los bienes"
+    },
+    {
+      "name": "Corte de Apelaciones de La Serena: Sentencia ROL-27-2014",
+      "source_type": "jurisprudencia",
+      "source": "ROL-27-2014",
+      "document_id": "e6c80207-aacf-517a-8be9-407852c959be",
+      "chunk_uuid": "f2d5ac32-dace-5c03-9d03-35a84d89de21",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1160",
+      "content": "La prescripción extintiva corría en favor del deudor, en este caso el contribuyente, quien sólo podía oponerla por vía de acción a través del ejercicio de la reclamación que era la herramienta con que contaba para restarle eficacia al acto administrativo, consistente a la liquidación, quedándole vedado interponerla en segunda instancia, atribuyéndose implícitamente la calidad de demandado, por lo que carecía, entonces, el contribuyente, de legitimación procesal activa para oponer por vía de excepción la prescripción extintiva alegada en segunda instancia.\n\nARTÍCULO 136 CÓDIGO TRIBUTARIO- ARTÍCULO 310 CÓDIGO DE PROCEDIMIENTO CIVIL-ARTÍCULO 200 CÓDIGO TRIBUTARIO.\n\nPRESCRIPCIÓN DE LA ACCIÓN FISCALIZADORA – ARTÍCULO 200 DEL CÓDIGO TRIBUTARIO – PRESCRIPCIÓN EXTINTIVA – LEGITIMACIÓN ACTIVA\n\nLa Corte de Apelaciones de La Serena confirmó la sentencia dictada por el Tribunal Tributario y Aduanero de la Región de Coquimbo que rechazó el reclamo tributario.\n\nEl recurrente fundamentó el recurso en que el tribunal al resolver la cuestión controvertida, habría incurrido en el vicio de extrapetita, al fundar su decisión en una alegación extemporánea efectuada por parte del Servicio y opuso excepción de prescripción extintiva de la acción fiscalizadora.\n\nLa Corte señaló que la alegación reseñada, había formado parte de la cuestión controvertida, y había quedado comprendida en el único punto fijado por el tribunal, sobre el cual se ventilaría la prueba. Por consiguiente, el reclamante, había quedado en condiciones de rendir prueba al respecto, lo que así no hizo.\n\nAsí, la Corte indicó que si el contribuyente estimaba que la acción fiscalizadora efectuada por el Servicio se encontraba prescrita, debió alegarlo junto a las demás alegaciones efectuadas en su escrito de reclamo, cuestión que no hizo, quedándole vedado interponerla en segunda instancia, atribuyéndose implícitamente la calidad de demandado en la relación procesal, no obstante que, en la misma impugnara o se defendiera de la pretensión fiscal, ya que tal impugnación o defensa la efectuaba - no como sujeto pasivo de la relación procesal - sino que como sujeto activo de la misma, quien se alza accionando a través de la reclamación respectiva en contra de la pretensión de la entidad fiscalizadora. Carecía entonces el contribuyente, de legitimación procesal activa para oponer por vía de excepción la prescripción extintiva alegada en esa instancia.\n\nAdemás, señaló que en materia tributaria la prescripción extintiva sólo podía alegarse por vía de acción, y no como excepción, ya que de conformidad a lo dispuesto en el artículo 136 del Código Tributario, el Juez Tributario y Aduanero se encontraba facultado para actuar de oficio en relación a la prescripción extintiva, al señalar que éste dispondría en el fallo la anulación o eliminación de los rubros del acto reclamado que correspondían a revisiones efectuadas fuera de los plazos de prescripción. Es decir, en materia tributaria, al contrario de la regla general contenida en el Código Civil, la prescripción extintiva podía y debía ser declarada de oficio por el juez, aun cuando no hubiera sido alegada por aquel a quien la ley le había entregado su ejercicio.\n\nSin perjuicio de lo precedentemente expuesto, en este caso se aplicó por el Servicio de Impuestos Internos el plazo extraordinario teniendo presente que el contribuyente reclamante no presentó la declaración anual de impuesto a la renta correspondiente al año cuestionado estando obligado a hacerlo.\n\nEl texto de la sentencia es el siguiente:\n\n“La Serena, doce de enero de dos mil quince.\n\nVISTOS:\n\nSe reproduce el fallo en alzada.\n\nY TENIENDO ADEMÁS PRESENTE:\n\nPRIMERO:"
+    },
+    {
+      "name": "Oficio N°143 (21/01/2026)",
+      "source_type": "oficio",
+      "source": "Oficio N°143 (21/01/2026)",
+      "document_id": "8844a1de-cff7-5aa8-8c84-9ae4252697ee",
+      "chunk_uuid": "367b4942-8bbd-561b-a51c-9765ff37c965",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=143-21%2F01%2F2026.pdf&extension=pdf&acc=download&id=88537e8d-c234-4d1e-b596-ede099582890&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nCÓDIGO TRIBUTARIO – ART. 64 INCISOS DÉCIMO, UNDÉCIMO Y DÉCIMO CUARTO \n– CIRCULAR N° 23 DE 2025 \n(ORD. N° 143, DE 21.01.2026) \n \n \nFacultad de tasación respecto del aporte de acciones de sociedad chilena. \n \nDe acuerdo con su presentación1, la sociedad XX es una empresa constituida en Chile, con filiales en \nel país y en el extranjero, cuyos accionistas evalúan una reorganización empresarial que les permita \ncrear una sociedad holding (HH), que opere exclusivamente como sociedad matriz del grupo en \nChile y, a través de la cual, mantengan el control de sus negocios en Chile y en el extranjero. \n \nComo primer paso, los accionistas aportarán sus acciones en XX a HH, que se constituiría para estos \nefectos en Chile, de acuerdo con las normas de reorganización establecidas en el artículo 64 del \nCódigo Tributario. Luego XX se dividiría en dos sociedades, asignando a la nueva sociedad que se \ncrearía al efecto las filiales que mantiene en el extranjero. \n \nAtendida la dispersión de accionistas de XX y para que todos concurran como accionistas de HH, se \nevalúa que, a la época de la constitución de esta, se emitan tantas acciones como aquellas en que se \ndivide el capital social de XX, permitiendo que cada accionista aporte 1 acción de XX a cambio de 1 \nacción de HH. Los accionistas podrán suscribir y pagar las acciones de la forma indicada a la época \nde la constitución de HH, o con posterioridad, pero tratándose siempre de las mismas acciones \nemitidas en su constitución y manteniendo la relación 1:1. \n \nAgrega que los accionistas de XX valorizarán sus acciones en dicha sociedad en un monto tal que \npermita a cada uno de ellos adquirir una acción de HH por una acción de XX, de modo que los \naccionistas mantengan en HH la misma participación en el capital social que actualmente mantienen \nen XX. Lo anterior, sin perjuicio de mantener registrado el costo tributario de las acciones de XX en \nHH. \n \nTras describir el propósito de la reorganización del grupo empresarial y citar la normativa aplicable, \nsolicita confirmar que los aportes de las acciones en XX a HH, con las características planteadas, no \nserán tasables conforme con el artículo 64 del Código Tributario, en tanto que la reorganización \ndescrita obedece a una legítima razón de negocios. \n \nAl respecto se informa que, conforme establecen los incisos décimo y undécimo del artículo 64 del \nCódigo Tributario, no se aplicará la facultad de tasación respecto de cualquier tipo de \nreorganizaciones empresariales, tales como, la conversión del empresario individual o el aporte de \nactivos de cualquier clase, realizados por personas naturales o jurídicas, asignados dentro del \nterritorio nacional, en la medida que dichas reorganizaciones obedezcan a una legítima razón de \nnegocios2, y siempre que se mantenga el costo tributario de los activos en la sociedad que recibe el \naporte y no se originen flujos efectivos de dinero para el aportante. \n \nA partir de lo anterior, y en lo que interesa a la presente consulta, se desprende que:  \n \n1) El aporte de activos se considera una forma de reorganización empresarial, cumpliendo los demás \nrequisitos legales.  \n \n2) En particular, tratándose del aporte de activos, es fundamental que la sociedad receptora \nmantenga el costo tributario de los activos y que además no existan flujos efectivos de dinero para \nlos aportantes.  \n \nSobre lo anterior, este Servicio instruyó que las modificaciones efectuadas al artículo 64 del \nCódigo Tributario no excluyen la facultad de tasar cuando los contribuyentes “realizan aportes” a \nvalores distintos a los tributarios y que, así como en las fusiones y divisiones, los activos deberán \n \n1 Con fecha 17.11.2025 acompaña presentación complementaria,"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de la Araucanía: Sentencia RIT-GR-08-00009-2012",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-08-00009-2012",
+      "document_id": "5c7fd4c3-f5de-5031-ae4d-537b2ce85eac",
+      "chunk_uuid": "44ecf5b8-5074-5198-96c3-88ec8877f1ba",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/2829",
+      "content": "- El Tribunal Tributario y Aduanero de Temuco acogió un recurso de reposición interpuesto por el contribuyente en contra de la resolución que ordenó anular todo lo obrado en la causa, retrotrayéndola al estado de recibir la prueba. En este juicio el tribunal de alzada modificó un punto de prueba fijado en la resolución que recibió la causa a prueba por parte del tribunal.\n\n- El órgano jurisdiccional consideró que la modificación al auto de prueba realizada por el tribunal de alzada estableció que la prueba debía encaminarse a acreditar que la liquidación reclamada se notificó dentro de los plazos de prescripción del artículo 200 del Código Tributario.\n\n- En atención a lo anteriormente expuesto, el juez consideró que la prueba documental rendida por las partes no se afectaba por la modificación efectuada por el tribunal de apelación; en cambio, la prueba testimonial prestada era incompatible con el nuevo punto de prueba.\n\n- Por tanto, dicha magistratura dejó sin efecto la resolución recurrida y ordenó abrir un término especial de prueba para rendir la prueba testimonial, disponiendo la plena validez de la restante prueba producida en autos."
+    },
+    {
+      "name": "Oficio N°382 (14/02/2025)",
+      "source_type": "oficio",
+      "source": "Oficio N°382 (14/02/2025)",
+      "document_id": "e199a841-f069-5b4b-9206-610bc58775e4",
+      "chunk_uuid": "f8992d6a-ef7e-522a-87cd-4d20e89b537c",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=382-14%2F02%2F2025.pdf&extension=pdf&acc=download&id=07396de4-dbae-4cef-9c1c-fa6f0ee2e9ca&mediaType=application%2Fpdf",
+      "content": "ponible de los \nimpuestos en las circunstancias que señala, se establece en el inciso décimo de dicho artículo que no se \naplicará la facultad de tasación respecto de cualquier tipo de reorganizaciones empresariales, tales como, la \nconversión del empresario individual o el aporte de activos de cualquier clase, realizados por personas \nnaturales o jurídicas, asignados dentro del territorio nacional, en la medida que dichas reorganizaciones \nobedezcan a una legítima razón de negocios; luego, el inciso undécimo establece como requisitos \ncopulativos para que el Servicio de Impuestos Internos esté inhibido de tasar, que se mantenga el costo \ntributario de los activos en la sociedad que recibe el aporte y que no se originen flujos efectivos de dinero \npara el aportante. \nEn cuanto al cumplimiento de los requisitos establecidos en el inciso undécimo, cabe señalar, que se indica \nen la presentación que el aporte del inmueble por parte de Inversiones SpA a Agrícola SpA se realizará a \nvalor tributario registrándose por la sociedad receptora a dicho valor y; que no se generarán flujos efectivos \nde dinero para el aportante. \nRespecto de la legitima razón de negocios, el inciso décimo cuarto del artículo 64 del Código Tributario \ndispone que se entenderá por tal, entre otras, aquella que tenga por finalidad mejorar o facilitar las \ncondiciones del negocio, así como obtener ventajas competitivas; financiamiento; la eliminación o \nmitigación de costos o riesgos; aumentar la capacidad productiva o de presencia en el mercado; optimizar \nla administración o cualquier otra finalidad similar a las anteriormente señaladas y que, en cualquier caso, \nsea distinta a la meramente tributaria.  \nSegún se desprende, no se trata de una definición taxativa, pero que otorga certeza a los contribuyentes al \nentregar algunos parámetros o lineamientos para calificar cuándo una reorganización empresarial obedece \n \n1 El presente análisis se efectúa en base al artículo 64 del Código Tributario actualmente vigente, norma que fue modificada mediante la Ley N° \n21.713. \n\n\na una legítima razón de negocios, correspondiendo al contribuyente acreditarlo con todos los medios \nprobatorios pertinentes. \nLuego, a partir de lo expuesto, se evidencia que la existencia de una legítima razón de negocios es una \ncircunstancia de hecho, la cual deberá ser verificada en el correspondiente procedimiento de fiscalización, \ninstancia en la cual deberá analizarse el conjunto de actos o contratos que conforman la reorganización \npretendida, y no solo el aporte en cuestión, y que de concluirse que no existe tal legítima razón de negocios, \nse ejercería la facultad de tasación, que, en este caso, correspondería al aporte del inmueble por parte de \nInversiones SpA. \nSin perjuicio de lo señalado en los párrafos anteriores, y teniendo en consideración lo dispuesto en el inciso \ndécimo cuarto del artículo 64 del Código Tributario, los resultados o finalidades que se obtengan mediante \nel establecimiento de una sociedad como holding, separación de la participación accionaria por cada socio \ny la separación del negocio agrícola de las inversiones financieras, podrían calificar, en principio, como una \nlegítima razón de negocios, la cual deberá ser, en todo caso, verificada en la correspondiente instancia de \nfiscalización. \n(ii) \nDisminución de capital y retiro de accionistas de Agrícola SpA \nLa devolución del capital aportado por cada hermano junto con las utilidades que a cada uno les \ncorrespondan, deberá sujetarse al tratamiento tributario contemplado en los artículos 17 N° 7 y 14 de la LIR. \n(iii) \nDivisión \nComo se indicó en el antecedente, Inversiones SpA se dividirá en 5 sociedades por acciones que serán \nidénticas entre sí tanto en sus activos, pasivos y patrimonio.  \nDesde el punto de vista normativo, cabe advertir que este Servicio ha señal"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-244-2017",
+      "source_type": "jurisprudencia",
+      "source": "ROL-244-2017",
+      "document_id": "24b61d09-14f7-5b66-a28d-b781e38d6ada",
+      "chunk_uuid": "0860404f-3bc2-57bd-be13-1a31873138af",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13543",
+      "content": " desvirtuar los razonamientos efectuados en primer grado para rechazar el reclamo deducido…” y que “ no es efectivo que la sentencia haya invertido la carga de la prueba como aduce el reclamante, pues tal como impone el artículo 21 del Código Tributario, es al contribuyente a quien le corresponde probar la verdad de sus afirmaciones, en este caso que el monto de las pérdidas producto de la enajenación de las acciones de XXXXXXXXXXX S.A, que en su oportunidad adquirió por compra, por aporte en dominio y por aumento de capital, al ser insuficiente la prueba rendida para acreditar que las vendió a un valor comercial, o hubo una legítima razón de negocio para estimar que su pérdida fue tributaria y no meramente financiera”.\n\nCuarto: Que para decidir el conflicto, entonces, los jueces de la instancia asentaron como presupuesto de hecho que la reclamante no probó que el precio de venta de las acciones que dan motivo -en lo que interesa- a la pérdida que se declara sea un valor comercial o de mercado, lo que impidió acreditar la procedencia de la misma.\n\n\nQuinto: Que, considerando el presupuesto fáctico antes reseñado, los sentenciadores de alzada confirmaron lo resuelto por el a quo que, a su vez, ratificó lo obrado por el Servicio de Impuestos Internos, ya que la sociedad reclamante no acreditó cumplir los requisitos para tener derecho a la devolución por impuesto de primera categoría pagado sobre las utilidades que han resultado absorbidas por las pérdidas tributarias del año 2012 al no justificar el resultado negativo que declara.\n\n\nSexto: Que el argumento de fondo tenido en cuenta para desestimar el reclamo formulado consiste en dar aplicación al mandato contenido en el artículo 21 del Código Tributario que entrega al contribuyente la carga de la prueba respecto de la verdad de sus declaraciones, aspecto que en la especie no se tuvo por satisfecho.\n\n\nSéptimo: Que, en función de lo expresado, cabe señalar que el primer capítulo de impugnación no puede prosperar por cuanto no es acertado que lo decidido quebrante las reglas de interpretación de los artículos 19 inciso primero y 23 del Código Civil en relación con el artículo 31 N° 3 de la Ley sobre Impuesto a la Renta, toda vez que la sentencia no ignora el derecho del contribuyente a solicitar la devolución del pago provisional por utilidades absorbidas al margen de lo previsto en la ley. Por el contrario, la negativa se ampara precisamente en la falta de acreditación del supuesto de hecho que justifica tal devolución, esto es, la existencia de una pérdida que en el caso en análisis no está justificada -en lo que dice relación con el resultado negativo producido a consecuencia de la enajenación de acciones- al no demostrarse que la operación se hizo a un valor comercial o de mercado, lo que -a diferencia de lo que sostiene el recurrente- sustenta jurídicamente la decisión que en definitiva se adopta.\nDe esta manera, no se demuestra el error de derecho que se denuncia, conclusión que se ve reforzada por la omisión en que incurre el libelo respecto del presunto yerro cometido al aplicar normativa no pertinente en la determinación de los valores cuestionados y cuya entidad resulta determinante en el resultado tributario pretendido, toda vez que la referencia genérica a la ley aplicable a la época fiscalizada, en oposición a la vigente a la data del aporte y/o adquisición de tales valores no satisface el estándar de fundamentación de un recurso como el deducido.\n\n\nOctavo: Que, en cuanto al segundo capítulo de impugnación, cabe señalar que se advierte que el recurso se construye sobre la base de sostener que los jueces del fondo no dan por acreditados los hechos funcionales a la\nreclamación para desconocer el derecho de su parte a la devolución al omitir la valoración de la prueba rendida, para lo cual resulta pertinente recordar que el recurso de casación en el fondo tiene por objeto velar por la correcta interpretación y aplicación de las normas llamadas a dirimir la controversia, con el objeto de que este tribunal pueda cumplir"
+    },
+    {
+      "name": "Circular N°2 (02/01/1998)",
+      "source_type": "circular",
+      "source": "Circular N°2 (02/01/1998)",
+      "document_id": "520a5fda-bdee-51a2-b5d0-a29f51a8670f",
+      "chunk_uuid": "3667ed56-9c85-5f66-af25-24c841fbdf10",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/circulares/1998/circu02.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome > Circulares 1998\nCIRCULAR Nº 2, DEL 02 DE ENERO DE 1998\nMATERIA: EFECTO TRIBUTARIO DE LA DISOLUCION DE UNA SOCIEDAD\nANONIMA POR REUNIRSE EN MANOS DE UNA SOLA PERSONA EL 100% DE LAS\nACCIONES.\n1.- Se han recibido en esta Dirección Nacional algunas consultas relacionadas con los efectos\ntributarios que se derivarían de la causal de disolución de una sociedad anónima, contenida en el\nNo. 2 del Artículo 103 de la Ley 18.046, cuando se reúnen en manos de una sola persona todas\nlas acciones de una sociedad anónima.\n2.- Ahora bien, por estar en relación las materias en comento con disposiciones legales\ncontenidas en la Ley 18.046, sobre Sociedades Anónimas, se procedió a efectuar una consulta a\nla Superintendencia de Valores y Seguros, en cuanto a que precisara los efectos jurídicos que\nfluyen de la disposición legal mencionada en el número anterior, en especial respecto de la\ncalidad del título jurídico, mediante el cual el comprador del cien por ciento de las acciones\nadquiere los activos de la sociedad anónima que se disuelve.\n3.- La citada Superintendencia en respuesta a lo consultado mediante Ordinario No. 5.592, de\nfecha 29 de noviembre de 1996, informó lo siguiente:\n\"Se ha recibido en esta Superintendencia el día 17 de julio de 1996, su oficio mediante el cual\nsolicita un pronunciamiento de este Servicio en orden a precisar la calidad del título jurídico\nmediante el cual el comprador del 100% de las acciones de una Sociedad Anónima, adquiere los\nactivos de ésta.\nAl respecto, cabe señalar que los Artículos 103, No. 2, 107, 108 y 110 de la Ley de Sociedades\nAnónimas, que tratan esta materia, no se pronuncian respecto al título de adquisición de los\nactivos de la sociedad que se disuelve por parte de quien llega a ser propietario del 100% de sus\nacciones; sólo se limitan a contemplar en este caso una excepción a la liquidación de la sociedad,\npor ser innecesaria en razón de existir un solo y mismo interesado en los bienes de la sociedad\ndisuelta.\nEsta excepción a la liquidación, que es de orden eminentemente práctico, no significa que se\nproduzca en el adquirente de la totalidad de las acciones una singularización o adjudicación de\ndominio de los activos sociales, ya que con anterioridad a la disolución de la sociedad, dicho\nadquirente no tenía con sus consocios la calidad de copropietario de aquéllos, sino que los socios\nsólo eran titulares de derechos sociales respecto de la dueña de tales activos: La sociedad.\nAsí lo confirman el Artículo 380 del Código de Comercio, que señala que los acreedores\npersonales de un socio no podrán embargar durante la sociedad el aporte que éste hubiere\nintroducido y el Artículo 2.084 del Código Civil, que radica los riesgos de la cosa aportada en\npropiedad a la sociedad, en esta última.\nSostener lo contrario y aceptar que, respecto del citado comprador, se ha producido una especie\nde adjudicación o singularización del dominio de los referidos activos, implicaría necesariamente\nque su actual dueño era copropietario de los activos sociales, situación que sería contradictoria,\nentre otras, con las normas del derecho societario precedentemente citadas.\nEn efecto, como consecuencia de la disolución de la sociedad por la reunión del 100% de sus\nacciones en poder de un solo titular, éste entra en el dominio de todos los activos que pertenecían\na la sociedad disuelta, los que adquiere entonces por la enajenación de los mismos, que se deriva\ncomo consecuencia de la disolución de la sociedad por el solo ministerio de la Ley, con lo que se\nextinguen las acciones y los consecuentes derechos sociales.\nPor lo tanto, respecto de la situación planteada en su oficio, cabe concluir que por"
+    },
+    {
+      "name": "Oficio N°463 (03/03/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°463 (03/03/2020)",
+      "document_id": "b38d446d-bf68-55d9-8cf7-6e6c9c1c0bd0",
+      "chunk_uuid": "36d9d3d4-9764-5170-a0bc-61ddb16f549d",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=463-03%2F03%2F2020.pdf&extension=pdf&acc=download&id=3e9a8af1-760b-483a-a1e8-44679f943113&mediaType=application%2Fpdf",
+      "content": "eto a las normas de este título, el contribuyente haya \ntenido derecho a crédito fiscal por su adquisición, importación, fabricación o construcción. \n \nSobre el particular, conviene tener presente que el Artículo 8° del D.L. N° 825 establece que el \nimpuesto regulado en el Título II afecta a las ventas y servicios, disponiendo a continuación que \n“para estos efectos serán consideradas también como ventas y servicios, según corresponda” \nprocediendo luego a la enumeración de los distintos hechos gravados especiales. Así, el hecho \ngravado especial establecido en la letra m) de la señalada disposición debe ser asimilado a una \nventa. \n \nPor su parte, el artículo 2°, N° 1 del D.L. N° 825, de 1974, señala que, para los efectos de esta \nley, salvo que la naturaleza del texto implique otro significado, se entenderá: \n \n    1°) Por “venta”, toda convención independiente de la designación que le den las partes, que \nsirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales \ninmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos \nreales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin \no que la presente ley equipare a venta. \n \nNo obstante, el hecho gravado especial contenido en la letra m), del artículo 8° del D.L. N° 825, \nde 1974, recae sobre una convención en particular, esto es, la venta de bienes corporales muebles \ne inmuebles por lo que no lo configuran las otras hipótesis contenidas en el hecho gravado \ngeneral de venta. \n \nPor lo expuesto, y restringiendo la definición de “venta” sobre la cual recae el hecho gravado \nespecial citado, no se encuentra gravada la transferencia a título oneroso del dominio de \nderechos reales constituidos sobre un bien corporal inmueble perteneciente al activo fijo, como \ntampoco de una cuota de dominio sobre dichos bienes, ya que en estos casos no se verifica la \ntransferencia total de un bien corporal mueble o inmueble perteneciente al activo fijo. \n \n \nIII.- CONCLUSIÓN: \n \nLa venta de una cuota de dominio o de derechos reales construidos sobre un bien del activo fijo \nno se encuentra gravada con Impuesto al Valor Agregado conforme al hecho gravado especial \ncontenido en la letra m), del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios, aun \ncuando en su adquisición se haya tenido derecho a crédito fiscal. \n \n \n \n \n \n \n \n \n \n \n \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR  \n \nOficio N° 0463, de 03-03-2020 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n\n\n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+      "name": "Artículo 903 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "81aaf10f-b6f6-5c82-9d15-543f7ffac630",
+      "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718791",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 903 (DEL ART. 2)|Art. 903. La acción reivindicatoria se extiende al embargo, en manos de tercero, de lo que por éste se deba como precio o permuta al poseedor que enajenó la cosa."
+    },
+    {
+      "name": "Circular N°4 (15/01/2015)",
+      "source_type": "circular",
+      "source": "Circular N°4 (15/01/2015)",
+      "document_id": "6a6304f7-5823-5483-bf7f-841132175f6a",
+      "chunk_uuid": "f69c955a-e042-5dfc-8a57-67ab54d02795",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/documentos/circulares/2015/circu4.pdf",
+      "content": " de \ndominio vigente, otorgado por el Conservador de Bienes Raíces \nrespectivo, de una data no mayor de 30 días.  \n \n4.2. \nDocumentos \nque \nacrediten \nque \nel \ninmueble \nestá \nbajo \nadministración (adjuntar en los casos señalados en los puntos 3.1.1. y \n3.1.2. de la presente circular) \n \nRespecto de los inmuebles bajo la administración del Comité Olímpico \nde Chile o de alguna Federación Deportiva Nacional, en los casos \nseñalados en los puntos 3.1.1. y 3.1.2. de la presente circular, se \ndeberá acompañar copia del contrato de arriendo, de concesión o \nsimilar que acredite dicha circunstancia. \n \n4.3. \nInforme fundado del Instituto Nacional de Deportes (adjuntar en el \ncaso señalado en el punto 3.1.3. de la presente circular) \n \nLa ley exige para estos fines, un informe fundado del Instituto Nacional \nde Deportes, el que debe tener una antigüedad máxima de un año al \nmomento en que se solicita la aplicación de la exención, y debe dar \ncuenta de lo siguiente: \n \n-  la identificación del inmueble por el cual se está dando constancia \nen el Informe; \n \n-  la identificación de la organización deportiva propietaria del \ninmueble, la cual, a su vez, deberá acreditar la vigencia de su \npersonalidad jurídica; \n \n\n\n-  que el destino del inmueble es la práctica de actividades deportivas \no recreacionales. \n \n4.4. \nConvenio que permita el uso gratuito de las instalaciones de un \nrecinto \ndeportivo \na \ncolegios \nmunicipales \no \nparticulares \nsubvencionados \n(adjuntar en el caso señalado en el punto 3.2. de \nla presente circular) \n \nEl convenio acompañado, debe cumplir las siguientes condiciones: \n \n-  Debe estar suscrito por el propietario del recinto deportivo de \ncarácter particular y uno o más colegios municipalizados o \nparticulares \nsubvencionados \n(artículo \n1 \ndel \nReglamento), \ndebidamente individualizados en el convenio. \n \nIndividualizar el recinto deportivo y las instalaciones deportivas con \nque cuenta, según el informe técnico que para tal efecto realice el \nInstituto Nacional de Deporte (artículo 3, letra b) del Reglamento). \n \n-  Indicar la fecha de suscripción del convenio, la cual debe ser \nanterior al inicio del año escolar (artículo 3 del Reglamento). \n \nLos convenios se extienden por todo el año escolar y se renuevan \nautomáticamente por periodos anuales, a menos que las partes \nmanifiesten la intención de no renovarlos mediante notificación a la \notra parte por carta certificada con al menos 60 días de anticipación \nrespecto a la fecha de término del convenio o algunas de sus \nprorrogas (artículo 10 del Reglamento). \n \nLos convenios y sus modificaciones deben constar por escrito en \ncuatro ejemplares iguales y con la fecha de suscripción. Estos \nejemplares deben ser refrendados por el Departamento Provincial \nde Educación correspondiente (artículo 11 del Reglamento). \n \nEl convenio debe ser refrendado una vez firmado y cada vez que \nsea modificado. Dicho convenio servirá para aplicar la exención en \nlo sucesivo, sin necesidad de refrendarlo año a año, mientras se \nmantenga vigente o no sea modificado. \n \nConsiderando que los trámites para refrendar el convenio pueden \nfinalizar después de iniciado el año escolar, la exención podrá \notorgarse durante el año en que se ejecuta el convenio, de manera \nretroactiva y antes del término del año, cuando se haya verificado el \ncumplimiento de los demás requisitos. \n \n-  Indicar el uso de las instalaciones deportivas del recinto, por la \ncantidad de horas cronológicas que corresponda conforme a la \ntabla del artículo 4 del Reglamento. Para los fines de determinar la \nconcurrencia de este requisito se debe tener presente que el \nnúmero"
+    },
+    {
+      "name": "Oficio N°496 (09/03/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°496 (09/03/2020)",
+      "document_id": "7b110af8-22ac-505a-8467-c025d635d801",
+      "chunk_uuid": "17373162-6dac-57c5-a514-5180eaf77fdd",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=496-09%2F03%2F2020.pdf&extension=pdf&acc=download&id=093fdb02-8ecc-4f86-b7e8-13db9e5784b1&mediaType=application%2Fpdf",
+      "content": " en reiterados Oficios2 ha \nseñalado que carece de competencias para impartir normas contables sobre la forma en que los \ncontribuyentes deben contabilizar sus operaciones, puesto que tal materia está radicada en los organismos \ntécnicos que tienen facultades para ello, sin perjuicio de lo dispuesto por el artículo 16 y siguientes del \nCódigo Tributario, relacionados con normas contables.  \n \nNo obstante ello, de revestir las “oportunidades de negocios” las características propias de un activo, \nespecialmente la capacidad de generar recursos futuros, su valor o precio de adquisición podrá deducirse \nen la determinación de la Renta Líquida Imponible al momento de su posterior enajenación, o cualquier \notro hecho o circunstancia que lo haga perder la calidad de un activo intangible para la empresa que \nrealizó la inversión. \n \n3.- En lo concerniente al IVA, cabe considerar que el artículo 8°, del D.L. N° 825, de 1974, grava con \nIVA las ventas y los servicios, además de ciertas operaciones que se asimilan a éstas, según corresponda. \n \nEl N° 1, del artículo 2°, define “venta” como “toda convención independiente de la designación que le \nden las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes \ncorporales inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos \nreales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la \npresente ley equipare a venta”. \n \nA su vez, el N° 2, del artículo 2°, define “servicio” como la “acción o prestación que una persona realiza \npara otra y por la cual percibe un interés, prima comisión o cualquier forma de remuneración, siempre \nque provenga del ejercicio de las actividades comprendidas en los N° 3 y 4, del artículo 20°, de la Ley \nsobre Impuesto a la Renta”. \n \nConforme señala el contribuyente, la operación que pretende efectuar consistiría en la venta o \ntransferencia de sus “oportunidades de negocios” compuesto por “actividades comerciales” que \ncomprenderían principalmente listas de clientes, gestiones, estrategias de ventas, mercado y perfil, entre \notros.  \n \nDe lo anterior es posible inferir que la referida transferencia de las “oportunidades de negocios” recaería, \nen principio, únicamente en elementos que, si bien poseen relevancia y valor económico, son de carácter \ninmaterial, lo que excluiría la aplicación del hecho gravado básico “venta”. Con todo, teniendo presente \nque la descripción hecha por el contribuyente no es acabada ni taxativa, se debe considerar que lo señalado \npodría variar si la operación final comprendiera alguna forma bienes corporales muebles o inmuebles. \n \nPor otra parte, en la medida que la operación consista y se agote efectivamente en la mera transferencia \nde “oportunidades de negocios” no cabría aplicar el hecho gravado “servicio”. \n \nA su turno, el artículo 86, de la Ley Nº 19.039, define “secreto empresarial” como “todo conocimiento \nsobre productos o procedimientos industriales, cuyo mantenimiento en reserva proporciona a su \nposeedor una mejora, avance o ventaja competitiva”.  \n \nCabe considerar que la Ley de Propiedad Industrial, en su origen, no contenía disposiciones que dieran \nprotección a los secretos empresariales, siendo incorporados por las modificaciones introducidas por la \nLey N° 19.996. \n \nLa letra h), del artículo 8°, del D.L. N° 825, de 1974, grava con IVA “El arrendamiento, \nsubarrendamiento o cualquier otra forma de cesión del uso o goce temporal de marcas, patentes de \ninvención, procedimientos o fórmulas industriales y otras prestaciones similares”. \n \nA los secretos empresariales, atendida su protección expresa por parte de la Ley de Propiedad Industrial \ny el objeto en que recaen (productos del intelecto y"
+    },
+    {
+      "name": "Oficio N°1760 (21/08/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°1760 (21/08/2020)",
+      "document_id": "ef912bd1-1236-5c6e-bf2c-fbb02c4b7175",
+      "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1760-21%2F08%2F2020.pdf&extension=pdf&acc=download&id=13cca0f6-44c9-44ae-bf61-4ccf3fc452a7&mediaType=application%2Fpdf",
+      "content": " de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), \nincorpora dentro del concepto de “venta” toda convención independiente de la designación que le den \nlas partes que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes \ncorporales inmuebles construidos, de una cuota de dominio sobre dichos bienes o de derechos reales \nconstituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la \nmisma ley equipare a venta. A su vez, el artículo 8°, letra m), de la LIVS, grava con IVA, entre otras \nhipótesis, la venta de bienes corporales inmuebles que formen parte del activo inmovilizado de la \nempresa, excluido el valor del terreno, siempre que el contribuyente haya tenido derecho a crédito \nfiscal, en su adquisición o construcción.  \nEn la medida que, de acuerdo a su presentación, la sociedad transferirá a sus socios personas jurídicas el \ninmueble de su propiedad – que forma parte del activo fijo – como pago o distribución de dividendos, \ndicho acto constituirá una venta gravada con IVA de conformidad con la letra m) del artículo 8°, en \nconcordancia con el N° 1, del artículo 2°, ambos de la LIVS, por tratarse de la transferencia de dominio \na título oneroso de un inmueble construido que forma parte del activo fijo de la empresa, respecto del \ncual la empresa tuvo derecho a crédito fiscal en su adquisición. \nIII \nCONCLUSION \nConforme a lo expuesto precedentemente, y respondiendo las consultas planteadas, se informa lo \nsiguiente:  \n1) \nLa transferencia en dominio de un inmueble del activo fijo de una sociedad, efectuada en pago de \ndividendos, se efectúa al valor que acuerden las partes, sin perjuicio de la facultad del Servicio de \ntasar el precio de la operación conforme a lo dispuesto en el artículo 64 del Código Tributario.  \n\n\n3 \n \n2) \nPara acreditar el monto de la enajenación el contribuyente podrá utilizar todos los medios de \nprueba, entre ellos, las tasaciones y publicaciones indicadas en el Análisis.  \n3) \nLa sociedad enajenante deberá rebajar de los registros tributarios de las rentas empresariales que \ncorresponda, regulados en el número 2 de la letra A) del artículo 14 de la LIR, el valor de \nenajenación del activo.  \n4) \nEn el presente caso, la trasferencia de dominio de un inmueble construido que forma parte del \nactivo fijo de la empresa, efectuada en pago de dividendos, se encuentra gravada con IVA de \nconformidad con la letra m) del artículo 8° de la LIVS.   \nSaluda a usted, \n \n \n \n \n          FERNANDO BARRAZA LUENGO \n \n \n \n \n       \n       \n \n DIRECTOR \n \n \n \n \n \nOficio N° 1760 del 21-08-2020 \nSubdirección Normativa \nDepto. de Impuesto Indirectos \n"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Libertador General Bernardo O`Higgins: Sentencia RIT-GR-19-00006-2013",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-19-00006-2013",
+      "document_id": "cf04dab4-b31e-595d-912a-f2d4632d61c9",
+      "chunk_uuid": "4b368588-1b02-5ce6-a44a-5c0dfa8e33f1",
+      "chunk_id": 20,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1134",
+      "content": " ella no se acogerá tal solicitud, quedándole al reclamante exponer la situación ante quien corresponda de ser pertinente. Sobre el particular, resulta útil consignar que la reclamante no solicitó la incorporación de algún hecho relativo a esta materia en la interlocutoria de prueba respectiva, sin que tampoco produjera o aportara prueba al efecto.\n\nVIGÉSIMO TERCERO: Que, al no haberse aportado prueba alguna al proceso, y al estar impedido este sentenciador de concluir un “Non liquet” como lo hacían los jueces de antaño, toma relevancia el principio de la carga de la prueba, que conforme a la doctrina se refiere a la determinación de cuál de las partes en un proceso tiene interés jurídico en la prueba de un hecho para no perjudicarse con los efectos que acarrea que éste no se haya probado; o como lo define el connotado tratadista internacional don Hernando Devis Echandía, en su obra “Compendio de la Prueba Judicial, anotado y concordado por Adolfo Alvarado Velloso”, Tomo I, Rubinzal – Culzoni Editores, en la cual expone, que la carga de la prueba es una noción procesal, que contiene la regla de juicio por medio de la cual se le indica al juez cómo debe fallar cuando no encuentra en el proceso pruebas que le den certeza sobre los hechos que deben fundamentar su decisión, e indirectamente establecer a cuál de las partes le interesa la prueba de tales hechos, para evitar las consecuencias desfavorables a ella o favorables a la otro parte. Que en este orden de ideas, afortunadamente nuestra legislación, tanto común, como especial en materia tributaria, contiene normas que nos permiten resolver el problema de la carga de la prueba, es decir, normas que nos permiten establecer a cuál de las partes en el juicio se le deben asignar las consecuencias desfavorables ante la falta de prueba de los hechos que en él se ventilan. Es así, como el Código Civil en su artículo 1.698 contiene la regla general del derecho común, al establecer que incumbe probar las obligaciones o su extinción al que alega aquéllas o ésta. Por su parte en el artículo 17 del Código Tributario, se establece que toda persona que deba acreditar la renta efectiva, lo hará mediante contabilidad fidedigna, salvo norma en contrario; y a su turno en el artículo 21 del mismo cuerpo legal se dispone, que corresponde al contribuyente probar con los documentos, libros de contabilidad u otros medios que la ley establezca, en cuanto sean necesarios u obligatorios para él, la verdad de sus declaraciones o la naturaleza de los antecedentes y monto de las operaciones que deban servir para el cálculo del impuesto. Asimismo, y en lo pertinente, en el inciso segundo se dispone, que para obtener que se anule o modifique una liquidación o reliquidación, el contribuyente deberá desvirtuar con pruebas suficientes las impugnaciones del Servicio, en conformidad a las normas pertinentes del Libro Tercero, que trata del Procedimiento General de Reclamaciones.\n\nVIGÉSIMO CUARTO: Que, teniendo con consideración lo expuesto en el considerando anterior y en las normas transcritas, el Tribunal puede concluir, que ya sea en sede administrativa o jurisdiccional, corresponde y pesa sobre el contribuyente el acreditar la veracidad de sus declaraciones, o en su caso, desvirtuar las actuaciones del Servicio, de lo que se sigue, que la carga de la prueba reside en quien ha efectuado las declaraciones respectivas o en quien alega que el actuar del Servicio es incorrecto o improcedente recurriendo para ello, en este último caso, al procedimiento general de reclamaciones contemplado en el artículo 123 y siguientes del Código Tributario, como justamente sucede en la especie. Que, en consecuencia, en el caso de autos resulta indudable que la carga de la prueba reside en el actor, por lo que frente a hechos no acreditados, será él, el que deba soportar las consecuencias desfavorables de la falta de prueba. Que, por lo demás, ha sido"
+    },
+    {
+      "name": "Oficio N°1440 (24/05/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1440 (24/05/2016)",
+      "document_id": "95c98f1e-0773-5e03-8984-9b814d623055",
+      "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja1440.htm",
+      "content": " son tratados como\ninmuebles susceptibles de hipoteca.\nII.- ANALISIS\nEl artículo 1° del Código de Minería consagra el derecho de las personas a constituir concesiones de\nexploración y explotación de las sustancias de los yacimientos mineros, los cuales declara de dominio\nabsoluto del Estado.\nPor otra parte, en conformidad con lo dispuesto en el artículo 2° de dicho Código, una concesión minera y\nque es un derecho real e inmueble que, como se ha dicho, puede ser de exploración o explotación y es\nsusceptible, en general, de todo acto o contrato, y se rige por las mismas leyes civiles que los demás\ninmuebles, salvo en lo que contraríe disposiciones de la ley orgánica constitucional sobre la materia (Ley N°\n18.097) o del propio Código de Minería. El inciso segundo de ese mismo artículo, se encarga de precisar que\nvpertenenciaw, es otra denominación de la concesión minera de explotación.\nComo se señala en la presentación, las concesiones mineras son un derecho real sobre un bien inmueble,\npor lo que se hace necesario determinar si las modificaciones introducidas por la Ley N° 20.780 sobre\n\n\nReforma Tributaria y N° 20.899 de Simplificación, a los conceptos de venta y vendedor, afectan las\ntransferencias de este tipo de inmuebles.\nSobre el particular, con las señaladas modificaciones, el texto de los N° 1 y 3 del artículo 2°, del Decreto Ley\nN° 825, de 1974, ha quedado del siguiente tenor:\nArtículo 2° Para los efectos de esta ley, salvo que la naturaleza del texto implique otro significado, se\nentenderá:\nv1°) Por vventaw, toda convención independiente de la designación que le den las partes, que sirva para\ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos\nlos terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos,\ncomo, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.\n3°) Por vvendedorw cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de\nhecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles.\nCorresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Para efectos\nde la venta de inmuebles, se presumirá que existe habitualidad cuando entre la adquisición o construcción\ndel bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo no se considerará\nhabitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías\nhipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y\nsiempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los\ndemás casos de ventas forzadas en pública subasta autorizadas por resolución judicial. La transferencia de\ninmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada habitual.\nSe considerará también vvendedorw al productor, fabricante o vendedor habitual de bienes corporales\ninmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos\nproductivosw.\nCabe señalar, que mediante la Ley N° 18.630 de 1987, con vigencia a contar del 1° de octubre de 1987, se\nhabía modificado el Decreto Ley N° 825, de 1974, incorporando la actividad de la construcción al hecho\ngravado venta, pero restringido exclusivamente a la transferencia de inmuebles de propiedad de una\nempresa constructora, construidos totalmente por ella o en parte por un tercero para ella, de una cuota de\ndominio sobre dichos bienes o derechos reales constituidos sobre ellos, siempre y cuando la empresa\nconstructora tuviera la calidad de vendedor"
+    },
+    {
+      "name": "Circular N°37 (20/05/2020)",
+      "source_type": "circular",
+      "source": "Circular N°37 (20/05/2020)",
+      "document_id": "4162abf2-f779-5596-8fab-87aeaed66b9d",
+      "chunk_uuid": "d0268d76-ecdd-52d4-b58f-30736bea47d7",
+      "chunk_id": 6,
+      "url": "http://www.sii.cl/normativa_legislacion/circulares/2020/circu37.pdf",
+      "content": " NORMAS LEGALES ACTUALIZADAS \n \nCon las modificaciones señaladas precedentemente, el texto actualizado de las normas del Decreto \nLey N° 825, de 1974, que fueron modificadas por la Ley de Modernización, cuya modificación se \ndestaca en forma subrayada y que se instruyen en la presente circular, es el siguiente: \n \nArtículo 2°. - Para los efectos de esta ley, salvo que la naturaleza del texto implique otro significado, \nse entenderá: \n \n1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva para \ntransferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles \nconstruidos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre \nellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare \na venta. Los terrenos no se encontrarán afectos al impuesto establecido en esta ley.2 \n \n3°) Por “vendedor” cualquier persona natural o jurídica, incluyendo las comunidades y las \nsociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e \ninmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio \nde Impuestos Internos calificar la habitualidad. ( …) Con todo, no se considerará habitual la \nenajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías \nhipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de \ndeudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo \ndeterminado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución \njudicial (…). \n \nSe considera también “vendedor” al productor, fabricante o vendedor habitual de bienes corporales \ninmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus \nprocesos productivos. \n \n(…) \n \nArtículo 8°- El impuesto de este Título afecta a las ventas y servicios. Para estos efectos serán \nconsideradas también como ventas y servicios, según corresponda: \n \n(…) \n \ng) El arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce \ntemporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o \nmaquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de \nestablecimientos de comercio. \n \nPara calificar que se trata de un inmueble amoblado o un inmueble con instalaciones o maquinarias \nque permitan el ejercicio de alguna actividad comercial o industrial se deberá tener presente que los \nbienes muebles o las instalaciones y maquinarias sean suficientes para su uso para habitación u \noficina, o para el ejercicio de la actividad industrial o comercial, respectivamente. Para estos efectos, \nel Servicio, mediante resolución, determinará los criterios generales y situaciones que configurarán \neste hecho gravado.3 \n \n(…) \n \n \n \n \n2El artículo tercero N° 1 de la ley incorporó las siguientes modificaciones al artículo 2°del DL 825. \na) Modificó el número 1°) en el siguiente sentido: \na. \nReemplazó la frase “inmuebles, excluidos los terrenos” por “inmuebles construidos”. \nb. Agregó, a continuación del punto final que pasa a ser seguido, la siguiente frase: “Los terrenos no se encontrarán afectos al \nimpuesto establecido en esta Ley.”. \nb) (…) \nc) Modificó el párrafo primero del número 3°) eliminando las siguientes frases: “Para efectos de la venta de inmuebles, se presumirá \nque existe habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo igual o inferior \na un año.” , “La transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada \nhabitual.” y \", a su juicio exclusivo,\""
+    },
+    {
+      "name": "Oficio N°496 (08/03/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°496 (08/03/2017)",
+      "document_id": "672dc5f5-19e1-57a4-a12f-36ad25fc0e0e",
+      "chunk_uuid": "2a0b9e64-bcf2-5e95-ac94-33af359887d1",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2017/ventas/ja496.htm",
+      "content": " permiso de\nurbanización, al 1° de enero de 2016, se encuentran exentan de IVA, en la medida que dichas ventas hayan\nquedado gravadas con Impuesto al Valor Agregado, como consecuencia de la modificación que se introdujo\nen el artículo 2° del decreto ley N° 825, de 1974, a través de la letra a), del numeral 1, del artículo 2° de la\npresente ley.\n \nArtículo 2° (D.L. N° 825): Grava con IVA todas las ventas de inmuebles nuevos o usados, cuando sean\nefectuados por un vendedor habitual.\n \nSobre este punto, solicita confirmar, en lo que dice relación con la presunción de habitualidad establecida en\nel Art. 2°, N° 3, del D.L. N° 825, que en los casos en que entre la fecha de la correspondiente inscripción del\ndominio del vendedor y la fecha de celebración de la compraventa sobre un inmueble, haya transcurrido\nmenos de un año, no corresponde al Notario autorizante de la escritura exigir la emisión y exhibición de\nfactura alguna, por cuanto aún no se da ni se puede dar el supuesto establecido por la Ley y el Servicio de\nImpuestos Internos para que se origine la presunción de habitualidad, que es que se haya practicado la\ninscripción del dominio a nombre del comprador y que ésta se haya efectuado en un plazo igual o inferior a\nun año contado desde la fecha de la inscripción del dominio de su vendedor.\n \nArgumenta lo anterior en base a lo instruido en Circular N° 42, de 5/6/2015, en virtud de la cual entiende que\npara que concurra la presunción legal de habitualidad debe haber transcurrido un plazo igual o inferior a un\n\n\naño, contado desde la fecha de la inscripción del dominio del vendedor y la fecha de la inscripción del\ndominio del comprador. Es decir, en tanto el comprador no inscriba el dominio del inmueble a su nombre en\nel Registro de Propiedad correspondiente, no es posible determinar la presunción de habitualidad y menos\nha podido generarse u originarse el Impuesto al Valor Agregado. Es decir, sólo una vez que el comprador\ninscriba el inmueble a su nombre y en la medida que lo haga en un plazo igual o inferior a un año contado\ndesde la fecha de la inscripción del dominio de su vendedor, concurrirá la presunción de habitualidad y sólo\nen ese momento podrá determinarse si la compraventa estuvo o no afecta a IVA.\n \nEn consecuencia, estima que en los casos como el descrito, el Notario debe simplemente autorizar la\nescritura de compraventa, sin que sea necesario que se le exhiba factura alguna, ya que sólo en la medida\nque el dominio a nombre del comprador se inscriba dentro del plazo antes señalado, podría devengarse el\nIVA correspondiente, situación que ocurriría con posterioridad a la fecha en que el Notario haya autorizado la\ncompraventa, y que le es absolutamente ajena, por cuanto la escritura ya habría salido de su ámbito de\nacción y se encontraría fuera de su competencia.\n \nAl respecto, cabe manifestar que el Art. 8°, en concordancia con el Artículo 2°, del D.L. N° 825, grava con\nImpuesto al Valor Agregado, las ventas y los servicios.\n \nA su vez, el Art. 2°, N° 1, del citado texto legal, define venta como: “toda convención independiente de la\ndesignación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales\nmuebles, bienes corporales inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes\no de derechos reales constituidos sobre ellos, como asimismo todo acto o contrato que conduzca al mismo\nfin o que la presente ley equipare a venta”.\n \nPor su parte, el Art. 2°, N° 3, del D.L N° 825, define como vendedor a “cualquiera persona natural o jurídica,\n"
+    },
+    {
+      "name": "Primer Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-GR-15-00145-2019",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-15-00145-2019",
+      "document_id": "b0644436-b98e-5eb6-9926-5e316f6154dd",
+      "chunk_uuid": "08928b27-7acd-5092-8182-ac8bbc74e6cc",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/19380",
+      "content": "El Primer Tribunal Tributario  y Aduanero de la Región Metropolitana denegó el reclamo interpuesto  en contra de una Liquidación emitida por la XIX Dirección Regional Metropolitana Santiago Norte que  determinó diferencias de Impuesto Global Complementario respecto del Año Tributario 2016, por  justificación de inversiones. ​\n\n \nEl contribuyente indicó que realizó inversiones en fondos mutuos y que era socio de una inmobiliaria,  cuyo giro era la explotación de bienes inmuebles y que percibió ingresos originados por el 50% de la  venta realizada de dos inmuebles que fueron aportados en dominio hace 30 años al momento de  constituirse esa inmobiliaria en el año 1985. Por lo anterior, el reclamante arguyó que, al ser  aportados al nacer la sociedad, no constituían parte de su giro habitual; sino que se consideran parte  de su activo fijo; y lo percibido producto de la venta constituían ingresos no renta. ​\n\n\n\nAsimismo, el contribuyente interpuso la excepción de prescripción, puesto que la notificación del acto  reclamado fue realizada más allá del plazo ordinario contemplado para la acción fiscalizadora. Lo  anterior, ya que no hubo un aumento en los plazos de prescripción porque  de acuerdo al  inciso cuarto  del artículo 63 e inciso cuarto del artículo 200, ambos del Código Tributario, al ser citado justificó  plenamente el origen de los fondos de las inversiones cuestionadas. Además, tampoco se trató de un  plazo de prescripción extraordinario, por no encontrarse en el supuesto de no declarante o  declaración maliciosamente falsa. Finalmente, mencionó que no correspondió ampliar el plazo de  prescripción en seis meses, conforme al inciso cuarto del artículo 70 de la Ley sobre Impuesto a la  Renta, por cuanto no pagó con esos fondos las inversiones.\n\nFinalmente, el contribuyente en  subsidio,  expuso que existió un error respecto al agregado del acto  reclamado, puesto que la Citación estaba fundada en inversiones en fondos mutuos, y la Liquidación  se emitió por concepto de retiros no declarados provenientes de la inmobiliaria. Por ese motivo, solo  debió extenderse el plazo en seis meses respecto de las operaciones relativas a los fondos mutuos,  vulnerándose el principio de confianza legítima, por no haber congruencia entre lo citado y liquidado.  ​\n\n\n\nPor su parte, el Servicio de Impuestos Internos señaló que aumentó correctamente el plazo  establecido en el inciso primero del citado artículo 200 por el término de seis meses  en razón de  lo  dispuesto en el inciso 4° del artículo 70 de la Ley sobre Impuesto a la Renta, ya que el contribuyente  probó en la instancia administrativa el origen de los fondos, pero no acreditó haber cumplido con los  impuestos que hubiese correspondido aplicar sobre tales cantidades. Además, el Órgano Fiscal  expuso que la excepción de prescripción fue procesalmente improcedente atendido que  es un medio  de impugnación en virtud de la cual el demandado puede oponerse a una acción, pero en este caso  estaba contenido en el reclamo. ​\n\n\n\nDel mismo modo, el Ente Fiscalizador advirtió que el acto reclamado fue fundado y motivado, ya que  la Liquidación expresó argumentos de hecho y  derecho suficientes . Por otro lado, constató que el  contribuyente omitió la venta de bienes raíces no agrícolas en su declaración de Impuesto a la Renta  del Año Tributario 2016, período cuestionado en la Citación, por ende, no todas las inversiones  citadas y cuestionadas estaban justificadas como señaló el actor.   ​\n\n\n\nPor último, el Ente Fiscal indicó que a través de la Citación se justificaron las inversiones, sin  embargo, no acreditó el cumplimiento de obligaciones tributarias de éstas y no existió vulneración a la  confianza legítima, dado que se actuó dentro de los plazos de prescripción, habiendo"
+    },
+    {
+      "name": "Artículo 2",
+      "source_type": "ley",
+      "source": "APRUEBA REGLAMENTO DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS",
+      "document_id": "15032df5-202a-5f19-858f-40ddd748b486",
+      "chunk_uuid": "9d88e20a-1742-5357-afa2-8784fa83360e",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=8355&idParte=8515689",
+      "content": "Decreto 55 APRUEBA REGLAMENTO DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS,TITULO I Generalidades,Artículo 2|Para los efectos del presente Reglamento se entenderá por: a) La Ley: la Ley sobre Impuesto a las Ventas y Servicios; b) Servicio: el Servicio de Impuestos Internos; c) Dirección: la Dirección Nacional de Impuestos Internos; d) Dirección Regional: La Dirección Regional respectiva; e) Director Regional: el Director Regional respectivo; f) Eliminado. g) Eliminado. h) Eliminado. i) Funcionarios: los funcionarios que tengan el carácter de ministros de fe, de acuerdo con el artículo 86° del Código Tributario; j) Tesorería: la Tesorería Provincial o Comunal respectiva; k) Venta: toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles o inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la ley equipare a venta; l) Vendedor: cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles o inmuebles, sean ellos de su propia producción o adquiridos de terceros. Corresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Se considera también \"vendedor\" al productor, fabricante o vendedor habitual de bienes corporales inmuebles, que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos productivos. m) Servicio: la acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N.°s 3° y 4° del artículo 20° de la Ley sobre Impuesto a la Renta; n) Prestador de servicios: cualquier persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que preste servicios en forma habitual o esporádica; o) Período Tributario: un mes calendario, salvo que la ley, o la Dirección Nacional de Impuestos Internos señale otro diferente, y p) Contribuyente: la persona natural o jurídica, incluyendo las comunidades y sociedades de hecho, que realicen ventas, que presten servicios o efectúen cualquier otra operación gravada con los impuestos establecidos en la ley, salvo los casos en que ella o las normas generales que imparta la Dirección Nacional del Servicio de Impuestos Internos, a su juicio exclusivo, determinen que el tributo afecta al adquirente, beneficiario del servicio o personas que deban soportar el recargo o inclusión del impuesto."
+    },
+    {
+      "name": "Artículo 893 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "a51309c1-2683-558f-a460-fda045fdbf6a",
+      "chunk_uuid": "b229b492-f3a3-53cd-99f1-8a5d8347b528",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718779",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XII DE LA REIVINDICACIÓN,Artículo 893 (DEL ART. 2)|Art. 893. La acción reivindicatoria o de dominio corresponde al que tiene la propiedad plena o nuda, absoluta o fiduciaria de la cosa."
+    },
+    {
+      "name": "Oficio N°886 (21/03/2023)",
+      "source_type": "oficio",
+      "source": "Oficio N°886 (21/03/2023)",
+      "document_id": "8a56c731-de3b-54f3-be48-bdcfb41c8fe3",
+      "chunk_uuid": "499c8294-8a6f-5f5c-9d64-a5500d60bacf",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=886-21%2F03%2F2023.pdf&extension=pdf&acc=download&id=eff755a3-e154-4c68-8239-4d5a144becc7&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 2 N° 1, ART.8 \nLETRA C, LETRA M (ORD. N° 886, DE 21.03.2023) \n \n \n \n \n \n \n \n \n \n \n \n \n \nIVA en la adjudicación de inmuebles con motivo de la liquidación de una sociedad. \n \nDe acuerdo con su presentación, en 2018 se constituye una SpA con objeto social de inversiones e \ninmobiliaria y con un capital social formado por aporte en dominio que hizo el único accionista de \n4 inmuebles (un departamento, un estacionamiento, una bodega y una casa). No obtuvo RUT ni \ninició actividades y al momento del aporte de los inmuebles a la sociedad, no se pagó IVA. \nAgrega que pretende disolver y liquidar la SpA, adjudicando los inmuebles al accionista que sigue \nsiendo el mismo, consultando 1) si la transferencia de dominio por adjudicación de los inmuebles \nde la SpA está afecta al pago de IVA, en caso afirmativo, 2) si debe obtener RUT antes de pagar \nel impuesto en el formulario 29 o podría pagarse sin RUT. \nAl respecto se informa que, conforme la letra c) del artículo 8° de la Ley sobre Impuesto a las \nVentas y Servicios (LIVS) se consideran “venta”, para efectos del IVA, las adjudicaciones de \nbienes corporales muebles e inmuebles de su giro, realizadas en liquidaciones de sociedades \nciviles y comerciales, sociedades de hecho y comunidades, salvo las comunidades hereditarias y \nprovenientes de la disolución de la sociedad conyugal1. \nPor su parte, la letra m) del mismo artículo 8° grava con IVA la venta de bienes corporales \nmuebles e inmuebles que formen parte del activo inmovilizado de la empresa, siempre que el \ncontribuyente haya tenido derecho a crédito fiscal por su adquisición, importación, fabricación o \nconstrucción. \nLuego, si, de acuerdo a la consulta, el ánimo al aportar los bienes inmuebles individualizados al \nmomento de constituir la sociedad fue su explotación, destinándolos al arriendo, los señalados \ninmuebles pasaron a formar parte de su activo inmovilizado. No obstante, esta situación \nconstituye una cuestión de hecho que queda entregada a las instancias de fiscalización respectivas. \nPor tanto, la adjudicación de bienes corporales muebles e inmuebles pertenecientes al activo \ninmovilizado de la empresa no se encuentra gravada conforme a la letra m) del artículo 8° de la \nLIVS, porque dicha operación no constituye “venta”, ni aún por remisión al concepto de “venta” \ncontenido en el N° 1°) del artículo 2° de la misma ley2. \nAtendido lo expuesto precedentemente, es innecesario referirse a la segunda consulta. \nSe hace presente que el análisis precedente sólo está referido al IVA, de modo que los efectos de \nla operación señalada frente al impuesto a la renta podrán ser determinados en las respectivas \ninstancias de fiscalización. \n \n \n \nHERNÁN FRIGOLETT CÓRDOVA \nDIRECTOR \n \n \nOficio N° 886, de 21.03.2023 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n          \n1  Oficios N° 1850 de 2018 y N° 496 de 2017. \n2  Oficio 567 de 1997. \n"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-147.283-2023",
+      "source_type": "jurisprudencia",
+      "source": "ROL-147.283-2023",
+      "document_id": "0a8c2223-1520-5ee5-bb96-868d6639acad",
+      "chunk_uuid": "94a678fe-32c5-5d12-a8fb-0224dfd540d9",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18296",
+      "content": "La Corte Suprema no hizo lugar al recurso de apelación interpuesto por la contribuyente, y confirmó la sentencia dictada por la Corte de Apelaciones de Chillán que rechazó el recurso de protección deducido por ésta, por vulneración de sus garantías constitucionales consagradas en el artículo 19 N° 24 de la Carta Fundamental, en contra de la Dirección Regional Ñuble del Servicio de Impuestos Internos.\n\n\n\n\nLa recurrente alegó ante la Corte de Apelaciones que el Ente Fiscalizador la borró de manera ilegal y arbitraria como propietaria de un bien raíz, registrando como tal a una persona diversa, no obstante poseer título de dominio inscrito en el Conservador de Bienes Raíces respectivo desde 2019, tener un único rol de avalúo fiscal asignado, el pago de sus contribuciones al día y no haber sido subdividido el inmueble.\n\n\n\n\n\n\n\nAgregó la agraviada, que el Servicio le comunicó una duplicidad de inscripciones respecto de dos propiedades con iguales deslindes, habiendo incorporado como dueño de su inmueble a un tercero, con lo que alteró el status quo existente, discriminándola arbitrariamente.\n\n\n\n\n\n\n\nPor su parte, el Servicio de Impuestos Internos indicó que la información del propietario fue modificada en virtud de la actualización del Catastro de Bienes Raíces, en cumplimiento de su obligación legal de mantener actualizados los roles definitivos de los inmuebles del país. Lo anterior, según la información entregada por el Conservador de Bienes Raíces de Chillán en el respectivo Formulario 2890, quien en 2023 informó el dominio de una persona distinta de la actora sobre el predio en cuestión.\n\nEl Órgano Fiscalizador señaló además, que el recurso incoado no era la vía idónea para resolver el asunto puesto que el acto impugnado mediante el cual se puso en conocimiento de la contribuyente la imposibilidad de modificar el catastro de bienes raíces en atención a la duplicidad de inscripciones de dominio vigente para ese inmueble, era de carácter informativo, por lo que una vez subsanado aquello podía volver a ingresar su solicitud. De manera que, la acción intentada no se condecía con el objetivo del recurso de protección que era someter al imperio del derecho las acciones u omisiones ilegales o arbitrarias que importen privación, perturbación o amenaza en el legítimo ejercicio de aquellas garantías constitucionales indicadas en el artículo 20 de la Constitución Política\n\n\nAsimismo, el Servicio arguyó que el hecho de solicitar la recurrente la invalidación del acto administrativo impugnado, y por consiguiente, su incorporación como dueña del inmueble, tenía como consecuencia transgredir el mandato establecido por la Ley de Impuesto Territorial. Agregó, que la pretensión de la actora de que el supuesto dominio de dicho bien raíz quedase asentado definitivamente en su persona era improcedente, toda vez que la información de los roles de avalúo tiene por objeto la identificación de los inmuebles para efectos del pago del impuesto territorial, más no para acreditar el dominio sobre los mismos, razón  por la cual no existía privación alguna de su propiedad.\n\n\nAl respecto la Corte de Apelaciones estimó que la asignación de roles era una potestad exclusiva del Servicio de Impuestos Internos, quien además podía modificarla, si lo estimaba necesario, para efectos de transparentar de mejor manera los predios afectos al pago de contribuciones, no existiendo ningún derecho por parte del propietario del inmueble al rol que eventualmente se le haya asignado.\n\nLa Magistratura manifestó que el cambio de propietario en el catastro se encontraba respaldada en la información remitida por el Conservador de Bienes Raíces de Chillán, por lo que la actuación del Ente Fiscalizador estaba ajustada a derecho, conforme sus competencias y las facultades conferidas por ley.\n\n\nA mayor abundamiento los Sentenciadores resolvieron, que no obstante podían existir superposiciones de terrenos o de roles, ello era un asunto que no era susceptible de resolverse mediante un procedimiento de emergencia como lo era el recurso de protección, sino a través del procedimiento contempl"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-5832-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-5832-2021",
+      "document_id": "ab1ad171-2fff-592e-9039-31ae0af67683",
+      "chunk_uuid": "9879c904-fe67-5b83-a4a7-b3a8663fa760",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/16847",
+      "content": "La Corte de Apelación de Santiago desestimó el recurso de protección interpuesto por representantes del Colegio de Contadores en contra del Servicio de Impuestos Internos (SII) y el Estado de Chile, por estimar que los recurrentes carecían de legitimación activa y no existir una vulneración actual de los derechos constitucionales alegados.\n\nLa parte recurrente acusó la vulneración del derecho a la vida e integridad física y psíquica, a la  libertad laboral, a desarrollar actividades económicas y a la propiedad, de los contadores y  contribuyentes, a consecuencia de diversas acciones y omisiones de los recurridos en el contexto de  la primera operación renta en que se aplicaron las modificaciones introducidas por la Ley  N°  21.210  sobre Modernización Tributaria, considerando, especialmente, la situación de emergencia sanitaria  vigente a la época.\n\nAl respecto, la recurrente alegó supuestas dificultades para el ejercicio de la profesión de contador a consecuencia de la excesiva extensión de las instrucciones del Suplemento Tributario de la Operación Renta AT 2021, al atraso en la emisión del mismo comparado a años anteriores, desperfectos en las plataformas informáticas a las que acceden los contribuyentes y el retraso de la declaración de la profesión de contador como actividad esencial.\n\nPor su parte, el SII señaló ante el tribunal que los recurrentes carecían de legitimidad activa por no haber indicado en el recurso de forma individualizada quienes serían los eventuales afectados.\n\nAsimismo, alegó la falta de oportunidad del recurso, en consideración a que el Ministerio de Hacienda y el SII implementaron oportunamente medidas destinadas flexibilizar las fechas de declaración y devolución de impuestos. Por último, la autoridad administrativa alegó que no existió una acción arbitraria o ilegal de su parte toda vez que no se acreditó que la dictación de las instrucciones referidas hubieren ocasionado un perjuicio a los recurrentes, así como tampoco que las plataformas informáticas del SII hayan impedido a los contribuyentes cumplir sus obligaciones.\n\nLa Corte compartió las aseveraciones del SII en relación a que los recurrentes carecían de legitimidad activa, ya que el recurso no identificaba en forma precisa las personas vulneradas en sus derechos en cuyo nombre actuaban.\n\nAl respecto, la Corte hizo presente que el recurso de protección no es una acción popular, sino que es una acción dirigida a proteger a un lesionado concreto, específico, individualizado, víctima de un acto u omisión ilegal o arbitraria.\n\nPor último, el tribunal declaró no existir una vulneración actual de los derechos alegados, toda vez que, a la fecha de la dictación de la sentencia, los plazos ampliados de la Operación Renta del AT  2021 habían concluido."
+    },
+    {
+      "name": "Oficio N°885 (24/04/1997)",
+      "source_type": "oficio",
+      "source": "Oficio N°885 (24/04/1997)",
+      "document_id": "2b21bd8a-9a32-5f30-b1ca-3e3302df3f38",
+      "chunk_uuid": "5a9c0353-1434-5e75-8979-f25305213205",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1997/renta/may06.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nJURISPRUDENCIA ADMINISTRATIVA MAYO 1997\nRENTA - ACTUAL LEY SOBRE IMPUESTO A LA\nART. 17° NO. 8 Y 18°.\nCALIDAD DE NO HABITUAL DE LA ENAJENACIÓN DE ACCIONES EFECTUADAS POR UNA EMPRESA\nCUYO CAPITAL LE PERTENECE EN MÁS DE UN 50% DE LA SOCIEDAD EMISORA DE LAS ACCIONES.\n(OF. NO 885, DEL 24/04/97. I. DIRECTOS).\n1.- SE HA RECIBIDO EN ESTE SERVICIO SU PRESENTACIÓN INDICADA EN EL ANTECEDENTE, A TRAVÉS\nDE LA CUAL EXPONE LO SIGUIENTE:\nA) EN EL MES DE MAYO DE 1995, LOS ACCIONISTAS DE LA SOCIEDAD \"A\", \"B\" Y \"C\"; APORTARON EL\n100% DE SUS ACCIONES EN LA COMPAÑÍA \"D\", EN PAGO DE UN AUMENTO DE CAPITAL EN LA COMPAÑÍA \"E\",\nASCENDENTE A US$ 193.769.392.\nB) POR EFECTO DE DICHO APORTE, LA EMPRESA RECURRENTE REUNIÓ EN SU PODER EL 100% DE LAS ACCIONES DE COMPAÑÍA \"D\", LA QUE SE\nDISOLVIÓ POR EL SOLO MINISTERIO DE LA LEY, RADICÁNDOSE EN LA COMPAÑÍA \"E\", LA TOTALIDAD DE LOS ACTIVOS Y PASIVOS DE LA SOCIEDAD\nABSORBIDA, ACTIVOS QUE SEGÚN DETALLE QUE INDICA EN SU ESCRITO, ASCIENDEN A LA SUMA DE US$ 8.723.563.\nRESPECTO DE LA SITUACIÓN DESCRITA, EXPRESA QUE ES PLENAMENTE APLICABLE LO\nDICTAMINADO POR ESTE SERVICIO A TRAVÉS DEL OFICIO NO. 1.843, DE 26.06.96, EN CUANTO A QUE EL\nVALOR EN EL CUAL CORRESPONDE REGISTRAR LOS ACTIVOS DE LA SOCIEDAD QUE SE DISUELVE EN\nLOS REGISTROS CONTABLES DE LA SOCIEDAD ABSORBENTE, ES EL VALOR DE ADQUISICIÓN DE LAS\nRESPECTIVAS ACCIONES.\nFINALMENTE SEÑALA, QUE EN LA SITUACIÓN DESCRITA, POR APLICACIÓN DE LO DISPUESTO EN EL\nREFERIDO OFICIO, LA DIFERENCIA DE US$ 185.045.829 DETERMINADA ENTRE EL VALOR DEL AUMENTO\nDE CAPITAL, QUE CORRESPONDE AL VALOR DE ADQUISICIÓN DE LAS ACCIONES (DE LA COMPAÑÍA\n\"D\" Y EL VALOR DE LOS ACTIVOS DE LA MISMA; DEBE FORMAR PARTE DE LOS ACTIVOS NO\nMONETARIOS DE ESTA COMPAÑÍA, SUJETÁNDOSE AL TRATAMIENTO TRIBUTARIO QUE AFECTA AL\nRESPECTIVO ACTIVO AL CUAL ACCEDE O SE INCORPORA. 2.- SOBRE EL PARTICULAR, CABE SEÑALAR\nPRIMERAMENTE, QUE EN EL CASO DE LA FUSIÓN POR ABSORCIÓN DE UNA SOCIEDAD ANÓNIMA,\nESTO ES, EN EL EVENTO EN QUE LA PROPIEDAD DEL 100% DE LAS ACCIONES DE UNA SOCIEDAD\nANÓNIMA SE REÚNA EN MANOS DE OTRA SOCIEDAD, ESTE SERVICIO EFECTIVAMENTE HA\nEXPRESADO EN EL DOCUMENTO QUE INDICA EN SU PRESENTACIÓN, QUE EL VALOR EN EL CUAL\nCORRESPONDE REGISTRAR LOS ACTIVOS DE LA SOCIEDAD QUE SE DISUELVE EN LOS REGISTROS\nCONTABLES D E LA SOCIEDAD ABSORBENTE O RECEPTORA DE ESTOS, ES PRECISAMENTE EL DE\nADQUISICIÓN DE LAS RESPECTIVAS ACCIONES, DISTRIBUYÉNDOSE PROPORCIONALMENTE EL PRECIO\nDE ADQUISICIÓN DE LA TOTALIDAD DE LAS ACCIONES, ENTRE TODOS LOS ACTIVOS NO MONETARIOS\nTRASPASADOS O ADQUIRIDOS PRODUCTO DE LA FUSIÓN, ENTENDIÉNDOSE POR ESTOS ÚLTIMOS\nPARA DICHOS EFECTOS A"
+    },
+    {
+      "name": "Tribunal Constitucional: Sentencia ROL-6.136-2019",
+      "source_type": "jurisprudencia",
+      "source": "ROL-6.136-2019",
+      "document_id": "f03719d2-6c94-5315-88c7-93a71e0fc6c5",
+      "chunk_uuid": "7e2b2fe0-2385-502d-98f1-3b7515280562",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/15840",
+      "content": "El Tribunal Constitucional acogió el recurso de inaplicabilidad por inconstitucionalidad entablado por el Servicio de Impuestos I nternos respecto de los artículos 5 º inciso segundo y 10 inciso segundo de la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado, contenida en el artículo primero de la Ley N 20 285 sobre Acceso a la Información Pública.\n\nEl recurso fue interpuesto con el objeto que surta efectos sobre un recurso de queja impetrado por el Servicio en contra de los Ministros de la Corte de Apelaciones de Santiago que rechazaron por razones de forma un reclamo de ilegalidad Este último se entabló en contra de la decisión adoptada por el Consejo para la Transparencia respecto a un amparo presentado por el solicitante que ordenaba al organismo fiscalizador a dar acceso a la información, la que antes había sido denegada.\n\nEl recurso de inaplicabilidad se sustentó en que con la aplicación de los preceptos reprochados se infringen los artículos 6 7 8 19 números 2 3 5 y 26 todas normas de la Constitución Política de la República.\n\n\nEl Consejo para la Transparencia esgrime que el requerimiento es inadmisible toda vez que la requirente no tiene legitimación activa para presentar la acción constitucional considerando la especial naturaleza de los derechos que se dicen afectados y su titularidad En segundo lugar que no existiría gestión pendiente en la que haya de incidir la inaplicabilidad por inconstitucionalidad impetrada pues el recurso de queja que sirve de base a los presentes autos constitucionales se encuentra en acuerdo. \n\n\nEn cuanto a la alegación relativa a la falta de legitimación para presentar la acción de inaplicabilidad, el Tribunal la descarta, toda vez que en los términos planteados, tal falta resulta ajena a la cuestión principal planteada. Ello, dado que como determina la Constitución, la acción de autos puede ser incoada por quien tenga la calidad de parte en la gestión pendiente, requisito que la requirente satisface en la especie y que fuere controlado en la fase procesal respectiva - admisibilidad - compartiendo el Sentenciador lo resuelto al efecto por una de sus salas.\nRespecto al segundo planteamiento del Consejo, el Resolutor indicó que una de las Salas de esa Magistratura estimó que había gestión pendiente en la que pudiere incidir la inaplicabilidad, al momento de declarar admisible el requerimiento, descartando la concurrencia de la causal del Nº 3, del artículo 84, de la Ley Orgánica Constitucional de este Tribunal.\nEl Tribunal indicó que la Constitución consagra que los funcionarios, al igual que el resto de las personas, sean titulares de los derechos fundamentales que ella asegura. Agregó, que, conforme a la Carta Fundamental, son públicos sólo ciertos aspectos de la actuación administrativa: los actos y resoluciones, sus fundamentos y los procedimientos que utilicen.\nPor otra parte, el Sentenciador señaló que para que estemos en presencia de un acto administrativo producido por medios electrónicos, no basta el solo hecho de que un documento sea electrónico, sino que es necesaria, además, la existencia una firma electrónica. Dicha firma debe ser certificada, mediante firma electrónica simple o avanzada.\nAdemás, el Tribunal advirtió que el carácter reservado o secreto de un asunto no es algo en sí mismo perverso, reprochable o susceptible de sospecha. La Constitución contempla la posibilidad de que la ley directamente o la Administración, sobre la base de ciertas causales legales específicas, declare algo como secreto o reservado, esto no va contra la Constitución.\nEn razón de lo señalado, el Sentenciador resolvió acoger el recurso entablado en atención que los correos son efectivamente una comunicación privada, siendo condición esencial que se llevan a cabo por canales cerrados, así la inviolabilidad no tiene que ver con el contenido de la misma, ni el número de destinatarios. Por lo que, los correos electrónicos se enmar"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Tarapacá: Sentencia RIT-GR-02-00019-2023",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-02-00019-2023",
+      "document_id": "e23515e8-a995-5e3a-b7be-bf770bb02eb3",
+      "chunk_uuid": "b76a937b-c89c-53a7-aa8e-ca6307fbc7c1",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/19382",
+      "content": " a las cuatro cuotas que la notificación indicaba. Por  ello, y teniendo presente la norma del artículo 7 bis  N°  4 inciso cuarto del citado cuerpo legal, que  señalaba que el “El contribuyente podrá reclamar de la sobretasa, sus fundamentos y su giro”,  procedía rechazar dicha alegación por cuanto se había impugnado expresamente la sobretasa. ​\n​\nA continuación, el Juez dio por establecido que todos los inmuebles considerados para el cálculo de la  base imponible de la Sobretasa eran de propiedad del tercero que administraba la Zona Franca.  Asimismo, agregó que tenidos a la vista los Autos RUC 15-9-0001059-9, seguidos entre las mismas  partes en el proceso de  reavalúo  del año 2015 respecto de uno de los roles considerados para efectos  de la aplicación de la Sobretasa, el Servicio había sostenido la “falta de legitimación activa” del  reclamante por no ser contribuyente del Impuesto Territorial ni dueño de los inmuebles, mientras que  en el proceso de autos había sostenido lo contrario, vulnerando el principio de la lógica tradicional de  la “no contradicción”. ​\n​\nLuego, el Tribunal señaló que por aplicación de las normas del artículo 132 del Código Tributario, no  se podía, por un impedimento lógico, aceptar la tesis del Servicio, de que la reclamante era “dueña”  de los roles en controversia, si el mismo había dicho en el referido proceso, que “no lo era”.  Agregó,  que no era un hecho discutido que la contribuyente carecía de inscripción de dominio en el Registro  de Propiedad del Conservador de Bienes Raíces, no era poseedora inscrita, y no podía ni siquiera  presumirse dueña de los inmuebles comprendidos en los roles en conformidad a las normas del  Código Civil y Reglamento del Conservador de Bienes Raíces. Además, mencionó en esta parte, que  el propio  N°  4 del artículo 7 bis, estableció que la sobretasa se devengaría “considerando los bienes  raíces inscritos en el Conservador de Bienes Raíces a nombre del contribuyente”, acogiendo el  reclamo."
+    },
+    {
+      "name": "Oficio N°33 (04/01/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°33 (04/01/2022)",
+      "document_id": "74dc5bc9-35f1-54f2-9841-32114393371f",
+      "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=33-04%2F01%2F2022.pdf&extension=pdf&acc=download&id=a96b4974-4563-4ac0-8f65-eb19ead0aa30&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, Nº 8 LETRA B) Y ART. 20 Nº 5 \n– DFL Nº 2 DE 1959 \n \n(ORD. N° 33 DE 04.01.2022) \n \nEnajenación de un bien raíz acogido al Decreto con Fuerza de Ley N° 2 de 1959, sobre plan \nhabitacional.  \nSe ha solicitado a este Servicio un pronunciamiento sobre la tributación del mayor valor obtenido en la \nenajenación de un inmueble acogido al Decreto con Fuerza de Ley N° 2 de 1959, sobre plan \nhabitacional.  \nI  \nANTECEDENTES  \nDe acuerdo con su presentación, en 2013 una persona adquirió el dominio de un departamento ubicado \nen Lo Prado, en virtud de los derechos que le correspondían en calidad de heredero del antiguo dueño y \nmediante la cesión de los derechos que sobre el inmueble correspondían a los demás herederos. Dicho \ndepartamento se encuentra acogido a los beneficios tributarios del Decreto con Fuerza de Ley N° 2 de \n1959, sobre plan habitacional (DFL 2)1.  \nIndica que pretende enajenar el departamento para comprar otro inmueble, consultando:  \n1) \nSi debe pagar impuestos al vender, considerando que con lo obtenido comprará otro inmueble, \ndonde actualmente vive, antes de cumplirse el plazo de 1 año que señala la letra b) del N° 8 del \nartículo 17 de la Ley sobre Impuesto a la Renta (LIR); y,  \n2) \nSi debe declarar como renta el saldo que quede luego de comprar el inmueble, en circunstancias \nde que no sería contribuyente.  \nII  \nANÁLISIS  \nSupuesto que la apertura de la sucesión por causa de muerte se verificó con posterioridad al 1 de enero \nde 20042 y que la totalidad de los derechos sobre el inmueble fueron adquiridos en 20133, conforme la \nlegislación vigente, el mayor valor obtenido en la enajenación de un inmueble efectuada por una \npersona natural que no ha asignado el inmueble a su empresa individual se sujeta a lo dispuesto en la \nletra b) del N° 8 del artículo 17 de la LIR4, en tanto haya transcurrido más de un año entre la adquisición \ny posterior enajenación del inmueble5.  \nEn caso de concurrir los requisitos legales, se considerará ingreso no renta el valor obtenido en la \nenajenación, hasta el monto del costo tributario del inmueble6. Luego, del valor que exceda del costo \ntributario, se considerará ingreso no renta hasta la suma de 8.000 unidades de fomento7.  \nDe esta manera, y en lo relevante para la consulta, solo el exceso sobre las mencionadas 8.000 U.F. \ntributará con Impuesto Global Complementario (IGC) o con un impuesto único y sustitutivo de tasa \n10%, a elección del enajenante, en ambos casos en base a renta percibida8.   \nContra el impuesto determinado conforme al artículo 17 N° 8 de la LIR, se podrá deducir como crédito \nel monto pagado por el enajenante, respecto del inmueble, con motivo del impuesto sobre las \nasignaciones por causa de muerte, en la proporción que corresponda9.  \n          \n1 Cuyo texto definitivo fue fijado mediante Decreto N° 1.101, del Ministerio de Hacienda, de 1960.  \n2 En caso de que la apertura de la sucesión hubiese ocurrido con anterioridad al año 2004, las instrucciones sobre la materia se pueden revisar \nen el apartado 4.6.3.7. del N° 4 del Título II de la Circular N° 43 de 2021. \n3 Tanto los derechos que adquirió por sucesión por causa de muerte como los que adquirió por cesión de los demás herederos \n4 Que se trate de bienes inmue"
+    },
+    {
+      "name": "Artículo 580 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "e9c13e00-0649-5314-b456-28c3edad803c",
+      "chunk_uuid": "ed6918ba-8b42-50af-867b-311bbd443a8f",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718438",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título I DE LAS VARIAS CLASES DE BIENES,Artículo 580 (DEL ART. 2)|Art. 580. Los derechos y acciones se reputan bienes muebles o inmuebles, según lo sea la cosa en que han de ejercerse, o que se debe. Así el derecho de usufructo sobre un inmueble, es inmueble. Así la acción del comprador para que se le entregue la finca comprada, es inmueble; y la acción del que ha prestado dinero, para que se le pague, es mueble."
+    },
+    {
+      "name": "Oficio N°2972 (04/11/1998)",
+      "source_type": "oficio",
+      "source": "Oficio N°2972 (04/11/1998)",
+      "document_id": "c420b192-d67e-5049-8a1c-c579b85b599f",
+      "chunk_uuid": "66a71ba2-8d6d-51d7-9045-8f66a8f249b0",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1998/renta/nov06.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome| Ley Renta - 1998\nRENTA - ACTUAL LEY SOBRE IMPUESTO A LA - ART. 20°, N°5\nCesión del derecho de usufructo sobre un inmueble - Tributación aplicable, oficio\nN° 485, de 1997 - Expresión \"bienes raíces\" se refiere a la generalidad de los\nbienes raíces - Usufructo que se ejerce sobre un inmueble es un derecho real\ninmueble - Usufructo sobre una acción no es lo mismo que la acción - Venta de\nderecho de usufructo constituido sobre un bosque - No le es aplicable norma de\nla letra b) del N° 8 del Art. 17, de la ley de la Renta - La madera y los frutos de los\nárboles no son inmuebles - Muebles por anticipación - Incremento patrimonial\nproducido con motivo de la venta del bosque - Ingreso clasificado en el N° 5 del\nArt. 20, de la Ley de la Renta.\n1.- Se requiere un pronunciamiento en relación a lo siguiente:\na) Si a través del Oficio Nº 485, de 1997, se estaría cambiando de criterio en relación a\nla tributación de la cesión del usufructo, tal como se señalaba en el Oficio Nº 21 del\n04.01.96, o en el caso de la cesión del usufructo de las acciones no le es aplicable lo\ndispuesto en el artículo 580 del Código Civil en el sentido que los derechos y acciones\nse reputan muebles o inmuebles, según sea la cosa en que han de ejercerse o que se\ndebe; y\nb) Si en el caso de la utilidad obtenida en la venta del usufructo del bosque de pino, es\naplicable el Oficio Nº 485 de 1997, a que hace mención el recurrente, o bien, si la\nutilidad obtenida sería una renta del Nº 5 del artículo 20 de la ley del ramo, tal como se\ngravó en las respectivas liquidaciones.\n2.- Sobre el particular, en primer término cabe señalar, que el Oficio Nº 485, de 1997,\nque determinó la tributación aplicable a la cesión del derecho de usufructo sobre un\ninmueble, encuentra su fundamento en que la expresión \"bienes raíces\" a que se refiere\nla letra b) del Nº 8 del artículo 17 de la Ley de la Renta, debe entenderse referida a la\ngeneralidad de los bienes raíces, toda vez que esta expresión, el Código Civil la hace\nanáloga a la de \"inmueble\", y la emplea sin otra calificación que determine que su\nalcance deba circunscribirse a la transferencia de dominio de una especie de bien\ninmueble, como lo son los bienes corporales. Por lo tanto, teniendo presente que la\nnorma de la letra b) del Nº 8 del artículo 17 de la Ley de la Renta, no exige que la\nenajenación deba referirse a un bien corporal, y que por disposición del legislador el\nusufructo que se ejerce sobre un inmueble es un derecho real inmueble, se concluye\nque la cesión del derecho de usufructo constituye para los efectos de lo dispuesto en la\nnorma legal antes mencionada una enajenación de bienes raíces.\n3.- Distinta es la situación respecto de la enajenación del usufructo sobre acciones, en\nque no existen elementos en la legislación que permitan establecer que el usufructo\nsobre una acción sea lo mismo que la acción, como sucede con el usufructo sobre\nbienes raíces, sin que, por lo tanto, proceda hacer extensivo el criterio aludido en el\nOficio Nº 485 antes citado; quedando afecto a los impuestos generales de la ley del\nramo el mayor valor obtenido en la cesión del derecho de usufructo sobre acciones,\nteniendo plena validez lo dictaminado por Oficio, en cuanto a que la renta obtenida de la\noperación en comento, atendido el"
+    },
+    {
+      "name": "Circular N°70 (31/12/2014)",
+      "source_type": "circular",
+      "source": "Circular N°70 (31/12/2014)",
+      "document_id": "78803365-9044-5e66-a1cb-dde73ee4f443",
+      "chunk_uuid": "d8c9a4d2-5fb7-57fb-a787-fa3141b972ad",
+      "chunk_id": 68,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu70.pdf",
+      "content": "otas respecto de tales bienes raíces poseídos en comunidad, la enajenación \ndebe ser realizada habiendo transcurrido un plazo igual o superior a un año contado desde su \nadquisición. \n  \nii) \nCómputo de los plazos señalados. Fecha de adquisición o de enajenación. \n \nDado que se trata bienes raíces o de derechos o cuotas sobre éstos, los que también se reputan \ncomo inmuebles, atendido lo dispuesto en el artículo 580 del Código Civil51, para efectos de computar \nlos plazos referidos en la letra anterior, habiendo operado la tradición como modo de adquirir el \ndominio, ya sea respecto del enajenante o del nuevo adquirente, deberá estarse a la fecha de la \ninscripción del respectivo título en el Registro de Propiedad del Conservador de Bienes Raíces \n(CBR), por cuanto dicha inscripción es precisamente la forma en que se lleva a cabo la tradición de \nlos bienes raíces y la que fija, por tanto, la fecha de adquisición o de enajenación, según \ncorresponda. En virtud de los artículos 21 a 31 y del artículo 65 del Reglamento del Registro \nConservatorio de Bienes Raíces, la fecha de inscripción corresponde a la fecha en que el respectivo \ntítulo sea anotado en el Repertorio del CBR, para su inscripción, por estricto orden cronológico de \nllegada.  \n \nSi el enajenante adquirió el dominio de los bienes por sucesión por causa de muerte, para efectos del \ncómputo de los plazos deberá estarse a la fecha de la apertura de la sucesión, la que de acuerdo al \nartículo 955 del Código Civil, corresponde al momento de la muerte del causante, ya que en virtud de \ndicho hecho jurídico los bienes del difunto pasan a sus sucesores. Cabe precisar, que en el caso que \nfallezca el dueño de los bienes raíces o de los derechos o cuotas sobre tales bienes raíces, no se \nproducirá un mayor valor en los términos referidos, toda vez que se produce una transmisión del \ndominio y no una transferencia de éste.   \n \nSin embargo, si la convención que sirve de título para transferir el dominio, esto es, para enajenar, se \ncelebra en cumplimiento de cualquier otro acto o contrato que tenga por objeto suscribir, \nprecisamente, dicha convención, los plazos señalados se computarán desde la fecha de celebración \nde dicho acto o contrato, de acuerdo a lo dispuesto en el inciso 3°, de la letra b), del N° 8, del artículo \n17 de la LIR. Por ejemplo, si un terreno urbano adquirido con fecha 1° de diciembre de 2014, ya que \nen dicha fecha se inscribió la respectiva compraventa en el Registro de Propiedad del CBR, se \nsubdivide y respecto de uno de los lotes resultantes se celebra un contrato de promesa de \ncompraventa con fecha 20 de noviembre de 2018, compraventa que se suscribe con fecha 2 de enero \nde 2019 y se inscribe en el Registro de Propiedad del CBR con fecha 15 de febrero de 2019, para \nefectos de computar el plazo de que se trata, que en este caso debe ser igual o inferior a 4 años, \ndeberá considerarse el plazo transcurrido entre el 1° de diciembre de 2014 (fecha de inscripción de la \n          \n51 Dispone el artículo 580 del Código Civil: \n“Los derechos y acciones se reputan bienes muebles o inmuebles, según lo sea la cosa en que han de ejercerse, o que se \ndebe. Así el derecho de usufructo sobre un inmueble, es inmueble. Así la acción del comprador para que se le entregue la \nfinca comprada, es inmueble; y la acción del que ha prestado dinero, para que se le pague, es mueble.”. \n \n\n\n50 \n \ncompraventa en el CBR) y el 20 de noviembre de 2018 (fecha de celebración"
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región del Biobío: Sentencia RIT-GR-10-00089-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-10-00089-2018",
+      "document_id": "21d09a69-51c7-5b35-a4c2-9ccb121b190d",
+      "chunk_uuid": "1f9455ff-2f5f-5b72-a270-f0b69a76c597",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14959",
+      "content": "El Tribunal Tributario y Aduanero de la Región de Ñuble y del Bíobío, acogió el reclamo interpuesto por la contribuyente en contra de la resolución Exenta, emitida por VIII Dirección Regional del Servicio de Impuestos Internos, que no da lugar a la exención de Impuesto Territorial solicitada. La contribuyente señaló que, cumpliendo con las normas del Ministerio de Educación, impartía educación especial correspondiente a nivel pre escolar, básica y laboral, y que por ello solicitó la exención del Impuesto Territorial, la cual le fue negada por estimar el Servicio que el reconocimiento que invocaba lo habilitaba para impartir educación especial nivel laboral diurna, especialidad no contemplada en la descripción de la exención solicitada, la cual favorecía a los niveles de educación pre-básica, básica y media. En ese sentido, la contribuyente indicó que, en conformidad con la Ley N° 17.235 sobre Impuesto Territorial que contiene el beneficio bajo estudio, la Ley N° 20.422 referida a la Ley de Educación, señala que la educación especial es una modalidad del sistema educativo que desarrolla su acción de manera transversal en los distintos niveles educativos, tanto en establecimientos de educación regular como en los  establecimientos de educación. Por lo anterior, solicitó que se dejase sin efecto la Resolución impugnada, acogiendo la exención solicitada.\n\n\n\nPor su parte, el Servicio alegó la falta de legitimación activa de la Corporación reclamante, por aparecer dicha propiedad a nombre de una persona natural en sus registros. En cuanto a la exención solicitada, el Servicio indicó que, para aplicar lo establecido en el artículo 2 de la Ley N° 17.235 la contribuyente debía acreditar el reconocimiento del Ministerio de Educación, y el uso exclusivo destinado a la educación, requiriendo además que el inmueble fuese ocupado por alguno de los establecimientos de educación señalados en la norma, lo que no se cumplió. Lo anterior porque, a juicio del Servicio, la norma en comento no incluía a los establecimientos que impartían enseñanza especial nivel laboral diurna. En cuanto a la legitimación activa para reclamar, el Tribunal concluyó que, por aplicación de lo dispuesto en los artículos 17 y 25 de la Ley N° 17.235, la Corporación reclamante era responsable del pago de las contribuciones del inmueble objeto de estudio, por su calidad de arrendataria del mismo, y que por lo demás, al tratar el tema del reclamo, la Ley hace alusión a “los contribuyentes que se consideren perjudicados”, por lo que era la arrendataria quien se encontraba legalmente habilitada para solicitar la exención en comento, y para reclamar de la resolución que rechazó su solicitud, contando con la legitimidad activa en los autos.\n\nEn cuanto al fondo del asunto, el Tribunal analizó la aplicación de la exención, la cual, según lo dispuesto en el artículo 2 de la Ley N° 17.235, correspondía a los bienes raíces que cumplieran la condición de ser establecimientos educacionales, municipales, particulares y particulares subvencionados, de educación pre-básica, básica y media, reconocidos por el Ministerio de Educación, señalando además que el artículo 23 de la Ley N° 20.370 definió a la educación especial o diferencial como “la modalidad del sistema educativo que desarrolla su acción de manera transversal en los distintos niveles, tanto en los establecimientos de educación regular como especial…”, lo que se condecía con lo dispuesto en los artículos 35 y 38 de la Ley N° 20.422, de “normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad”. \n\nPor lo anterior, el Tribunal concluyó que la contribuyente tenía el carácter de establecimiento educacional de enseñanza básica, independiente de la modalidad en que ésta se llevara a cabo, esto es, ejerciendo la educación especial, nivel laboral diurna, por lo que le correspondía contar con la exención solicitada."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Los Ríos: Sentencia RIT-GR-11-00004-2023",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-11-00004-2023",
+      "document_id": "b0276522-48b7-5ddc-b324-bbb2710d8eff",
+      "chunk_uuid": "8ed703ca-8303-59e7-8f67-f44f8b174018",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18721",
+      "content": "El Tribunal Tributario y Aduanero de la Región de los Ríos rechazó el reclamo interpuesto en contra de dos Resoluciones emitidas por la XVII Dirección Regional de Valdivia en que l a primera, declaró como no fidedignas las facturas de un proveedor de una sociedad de la que el contribuyente ya no era accionista, y la segunda, asignó el monto de una nueva base imponible del Régimen Pro Pyme Transparente a la misma sociedad.\n\n\nEn ese contexto, el reclamante alegó la existencia de vicios en la notificación de las Resoluciones reclamadas, toda vez que fue notificado de\nellas en circunstancias que carecía de capacidad legal para representar a la sociedad, ya que en ese momento ya había cedido todas sus acciones a otra persona.\n\n\nPor su parte, en primer lugar, el Servicio de Impuestos Internos, analizando los requisitos del reclamo, indicó que, de acuerdo al artículo 124\ndel Código Tributario, el reclamante no cumplió con la exigencia de tener un interés actual. Ello, debido a que el mismo alegó que ya no era accionista en la sociedad pues se enajenó su participación en ella.\n\n\nAdemás, el Ente Fiscal señaló que tampoco tuvo un interés comprometido, puesto que no tuvo relación con dicha sociedad, por lo que no le fueron oponibles los efectos de los Actos reclamados. Asimismo, mencionó que tampoco se encontró comprometido el patrimonio personal del reclamante en relación con la acción de cobro del fisco, por los mismos motivos ya expuestos.\n\nEn segundo lugar, explicó que el contribuyente tampoco tuvo legitimación activa, debido a que era una persona natural que sostuvo no tener\nrelación alguna con la sociedad. Agregó, que no invocó representación ni legal ni convencional o poderes suficientes que lo hayan habilitado a impugnar la falta de emplazamiento.\n\n\n\nA mayor abundamiento, el Órgano Fiscalizador concluyó que el reclamante podría haber interpuesto excepciones, defensas o tercerías tendientes a desvirtuar las acciones de cobro dirigidas en su contra y no lo hizo.\n\nEn tercer lugar, el Servicio argumentó que el Procedimiento General de Reclamaciones no resultó ser idóneo para conocer del reclamo, puesto que el contribuyente solo se refirió y reclamó en contra del acto de notificación de las Resoluciones, pero no respecto al fondo, y en ese sentido, no efectuó alegación respecto de las Liquidaciones emitidas, ni menos solicitó dejarlas sin efecto.\n\n\n\nAsimismo, argumentó que si el contribuyente estimó que existió una vulneración de derechos, debió haber optado por ese procedimiento y así haberlo reclamado, sin embargo, no se refirió respecto a ese punto.\n\n\nPor último, en cuanto a los vicios en la notificación, el Ente Fiscal sostuvo que las Resoluciones reclamadas fueron válidas porque cumplieron con todos los requisitos de validez que exige la ley y alegó que lo que ocurrió fue que, tanto la sociedad como el reclamante, incumplieron su obligación legal de informar cambios sociales conforme al artículo 68 del Código Tributario.\n\n\n\nEl Sentenciador por su parte estableció que el contribuyente tuvo un interés actual, que lo hablitó para accionar ante el Tribunal, al haber sido notificado de las actuaciones reclamadas en calidad de representante legal de una sociedad. Además, el propio acto reclamado indicó al reclamante como único accionista y representante legal de la sociedad y esto fue ratificado por el testigo del Ente Fiscal. Así, también fue requerido por la Tesorería Regional en calidad de representante legal de la sociedad mencionada.\n\nPor otro lado, el Juez señaló que el reclamante tuvo legitimación activa para interponer el reclamo, ya que fue notificado de las aciones que reclamó en calidad de representante legal de la sociedad. Se indicó tanto en la notificación como en la Resolución reclamada que el actor era el representantelegal, por ende, el mismo Ente Fiscalizador le otorgó esa calidad.\n\nEn el mismo sentido, el Tribunal estableció que el procedimiento resultó idóneo, ya que si bien la impug"
+    },
+    {
+      "name": "Artículo 1266 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "0067a290-6d29-53f1-81d7-646c9ccb15ce",
+      "chunk_uuid": "1beb80e6-379f-583c-adc2-af60445cc17a",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719188",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título VII DE LA APERTURA DE LA SUCESION Y DE SU ACEPTACION, REPUDIACION E INVENTARIO,Artículo 1266 (DEL ART. 2)|Art. 1266. A la restitución de los frutos y al abono de mejoras en la petición de herencia, se aplicarán las mismas reglas que en la acción reivindicatoria."
+    }
+  ]
+}

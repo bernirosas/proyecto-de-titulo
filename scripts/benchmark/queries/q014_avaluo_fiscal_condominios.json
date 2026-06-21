@@ -1,0 +1,5 @@
+{
+  "query_id": "q014",
+  "query_text": "Avalúo fiscal y reavalúo de condominios acogidos a la ley de copropiedad inmobiliaria",
+  "notas": "Cubre Copropiedad / propiedad horizontal (avalúo fiscal y reavalúo de condominios). Discriminación nula: seis técnicas empatan en 2.00 de top-10 mean_grade. El juez no asignó ningún grado 3 (0/17/2/6 en grados 3/2/1/0 sobre 25 chunks), por lo que P@k = 0 en todas las técnicas. Ganadora nominal top-10 mean_grade: p1_bm25 (2.00), pero la query aporta cobertura del área de avalúo más que señal discriminante. Sin parse errors (-1) ni correcciones manuales."
+}

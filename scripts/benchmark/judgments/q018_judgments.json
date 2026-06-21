@@ -1,0 +1,198 @@
+{
+  "query_id": "q018",
+  "query_text": "¿Cómo tributa el mayor valor obtenido en la venta de un bien raíz adquirido después del año 2004?",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:19Z",
+  "judgments": [
+    {
+      "chunk_uuid": "1c2bce0a-7d99-591e-9df4-04ed65251422",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute la tributación del mayor valor en la venta de un bien raíz adquirido por prescripción, tocando la habitualidad."
+    },
+    {
+      "chunk_uuid": "ebb775f1-b01d-547a-956d-383992c591ee",
+      "relevance_grade": 3,
+      "justification": "Explica la tributación del mayor valor en bienes raíces adquiridos antes de 2004, bajo la ley vigente hasta 2014."
+    },
+    {
+      "chunk_uuid": "78c21af8-1725-5556-aa9b-f440a2d68ec3",
+      "relevance_grade": 2,
+      "justification": "Analiza la tributación del mayor valor en la venta de un bien raíz, considerando la habitualidad y plazos de adquisición."
+    },
+    {
+      "chunk_uuid": "3017d408-58b3-5a66-a473-c29e02f0d29a",
+      "relevance_grade": 3,
+      "justification": "Oficio N°3102/2016 sobre consulta específica de tributación en enajenación de bienes raíces, directamente relevante para la query. [corregido manualmente: PARSE_ERROR — chunk trata tributación del mayor valor en enajenación de bienes raíces]"
+    },
+    {
+      "chunk_uuid": "cedf8fae-3d13-54de-9afb-d5e4abdeed54",
+      "relevance_grade": 2,
+      "justification": "Trata la tributación del mayor valor en la enajenación de derechos sobre un bien raíz, con requisitos específicos."
+    },
+    {
+      "chunk_uuid": "049dc1c4-73de-5e38-840c-7bfd39b0545f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la tributación del mayor valor en la venta de acciones, no de bienes raíces."
+    },
+    {
+      "chunk_uuid": "82a94020-bbc6-5255-bea9-0f5a4897f927",
+      "relevance_grade": 2,
+      "justification": "Aborda la tributación de bienes raíces adquiridos antes de 2004, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "c379babd-5cf8-58d6-a13e-2a9de02894fe",
+      "relevance_grade": 2,
+      "justification": "Analiza la tributación de inmuebles adquiridos antes y después de 2004, tocando la consulta."
+    },
+    {
+      "chunk_uuid": "2cb83ed7-5d9c-522d-bcb8-3e2c4bdea4b2",
+      "relevance_grade": 2,
+      "justification": "Explica la tributación del mayor valor en la venta de bienes raíces, considerando la habitualidad."
+    },
+    {
+      "chunk_uuid": "8db584ce-d3e3-5527-a5ee-7bb525d68994",
+      "relevance_grade": 2,
+      "justification": "Trata sobre el mayor valor en la enajenación de bienes raíces adquiridos antes de 2004."
+    },
+    {
+      "chunk_uuid": "7cefffec-0f13-5002-af36-9bc897448a55",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la tributación del mayor valor en la enajenación de bienes raíces, pero se enfoca en el usufructo y la normativa hasta 2016."
+    },
+    {
+      "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+      "relevance_grade": 3,
+      "justification": "Explica la tributación del mayor valor en bienes raíces adquiridos antes de 2004, mencionando la LIR vigente hasta 2014 y el concepto de ingreso no renta."
+    },
+    {
+      "chunk_uuid": "306f7e99-92de-5c48-b2fd-9267fcee61a3",
+      "relevance_grade": 2,
+      "justification": "Aborda la tributación del mayor valor en enajenación de bienes raíces por sociedades, diferenciando la aplicación de la normativa pre y post 2004."
+    },
+    {
+      "chunk_uuid": "c6e718d1-08c3-5755-ac37-87aac5ef125e",
+      "relevance_grade": 2,
+      "justification": "Distingue entre enajenación habitual y no habitual de bienes raíces, y cómo tributa el mayor valor obtenido en cada caso."
+    },
+    {
+      "chunk_uuid": "47357570-c10b-5c91-b820-21a4e8111613",
+      "relevance_grade": 2,
+      "justification": "Analiza la tributación del mayor valor en inmuebles adquiridos antes de 2004, considerando la sociedad conyugal y su término."
+    },
+    {
+      "chunk_uuid": "dde0bac4-97dd-5873-b8fb-1bdbb07ffad5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica que la fecha de adquisición del bien raíz es irrelevante para contribuyentes acogidos a renta presunta."
+    },
+    {
+      "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+      "relevance_grade": 2,
+      "justification": "Aborda cómo distinguir el mayor valor en bienes raíces fusionados adquiridos en distintas épocas, aplicando el tratamiento tributario correspondiente."
+    },
+    {
+      "chunk_uuid": "3c1a08f4-53c6-586b-b655-ab58c763cfe0",
+      "relevance_grade": 3,
+      "justification": "Explica que se debe aplicar el tratamiento tributario correspondiente a cada parte del inmueble según su fecha de adquisición."
+    },
+    {
+      "chunk_uuid": "26467ad0-4e36-54a3-8014-9f83fbfeae04",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la habitualidad y si el mayor valor constituye renta, no en la fecha de adquisición."
+    },
+    {
+      "chunk_uuid": "0208a1f3-ca9b-5abb-8c65-b7dae3df658b",
+      "relevance_grade": 2,
+      "justification": "Se refiere a la enajenación de derechos en comunidad y su tributación, mencionando la fecha de adquisición como relevante."
+    },
+    {
+      "chunk_uuid": "7f284f3d-7882-56df-88b1-125a8e8f72b9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la tributación del mayor valor en la venta de un bien raíz heredado, adquirido antes de 2004, pero no responde directamente a la consulta general."
+    },
+    {
+      "chunk_uuid": "6e57ba7e-976f-503a-9268-3058d2b2da4e",
+      "relevance_grade": 2,
+      "justification": "Explica cómo tributa el mayor valor en la venta de un terreno fusionado, con partes adquiridas antes y después de 2004, distinguiendo su tratamiento."
+    },
+    {
+      "chunk_uuid": "27fc274a-c34a-547e-9b61-cd268ad48c9e",
+      "relevance_grade": 3,
+      "justification": "Oficio N°3633/2022 cita Art. 17 N°8 Ley de la Renta y Ley 20.780 (reforma 2014) junto con circulares sobre tributación del mayor valor en enajenación de bienes raíces, directamente relevante. [corregido manualmente: PARSE_ERROR — chunk cubre el régimen tributario post-2004 del Art. 17 N°8 LIR]"
+    },
+    {
+      "chunk_uuid": "925811d4-10f8-5dbb-a3bd-2a8996935660",
+      "relevance_grade": 3,
+      "justification": "Indica que el mayor valor obtenido en la venta de un bien raíz adquirido antes de 2004 es un ingreso no constitutivo de renta."
+    },
+    {
+      "chunk_uuid": "dfb97857-40d7-5a54-8721-5804529e07e5",
+      "relevance_grade": 3,
+      "justification": "Explica que el mayor valor en la venta de un bien raíz adquirido antes de 2004 por persona natural es ingreso no renta sin tope."
+    },
+    {
+      "chunk_uuid": "fc406245-112b-59e9-859e-4618cdc9fac9",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el mayor valor en la aportación de un bien raíz a una sociedad, no su venta directa."
+    },
+    {
+      "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+      "relevance_grade": 2,
+      "justification": "Aborda el tratamiento tributario del mayor valor en la enajenación de bienes raíces fusionados, incluyendo aquellos adquiridos después de 2004."
+    },
+    {
+      "chunk_uuid": "84bb4fe9-84f8-5b27-8bed-394cdb173c2b",
+      "relevance_grade": 2,
+      "justification": "Explica la tributación del mayor valor en la enajenación de un bien raíz, incluyendo el plazo de un año y el límite de 8.000 UF."
+    },
+    {
+      "chunk_uuid": "42ee0795-8378-515d-8713-e95bba498ef6",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la depreciación acelerada y presunciones de retiro, no en la tributación del mayor valor de venta."
+    },
+    {
+      "chunk_uuid": "3ce40b8c-ab83-560b-aa93-effc52c7109b",
+      "relevance_grade": 2,
+      "justification": "Detalla cómo tributa el mayor valor de bienes raíces adquiridos antes de 2004 y el tratamiento para sociedades."
+    },
+    {
+      "chunk_uuid": "8a7e5759-2a0f-5872-b341-3b97d68ca325",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de bienes raíces adquiridos antes de 2004, pero la consulta es sobre bienes adquiridos después de 2004."
+    },
+    {
+      "chunk_uuid": "ddfd11d8-07cb-58e0-a2e0-c9c24ab8ef22",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en bienes raíces adquiridos antes de 2004, no en aquellos adquiridos después, como pregunta la consulta."
+    },
+    {
+      "chunk_uuid": "36cd6484-130d-5eb2-ab5c-5330bc5a0ddb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre bienes raíces adquiridos antes de 2004, lo cual no responde directamente a la consulta sobre bienes adquiridos después de 2004."
+    },
+    {
+      "chunk_uuid": "ed5489ed-da92-5e92-8b5f-1723d6f16188",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la tributación del mayor valor en la venta de bienes raíces, mencionando la no tributación en casos de enajenación no habitual."
+    },
+    {
+      "chunk_uuid": "19488eea-777a-5003-b3a7-d3060f71a150",
+      "relevance_grade": 3,
+      "justification": "Este oficio distingue regímenes según fecha de adquisición y señala que el mayor valor obtenido por persona natural no es renta si se cumplen requisitos."
+    },
+    {
+      "chunk_uuid": "ee28457d-cd08-50b4-8791-0dabde4fa2db",
+      "relevance_grade": 3,
+      "justification": "Explica que el mayor valor en enajenación no habitual de bienes raíces no es renta, salvo excepciones, y detalla el régimen tributario aplicable."
+    },
+    {
+      "chunk_uuid": "23862b54-5c5b-5388-9d08-ef9049d1adb0",
+      "relevance_grade": 3,
+      "justification": "Detalla la tributación del mayor valor en enajenación de inmuebles, incluyendo el límite de 8.000 UF y opciones de tributación para personas naturales."
+    },
+    {
+      "chunk_uuid": "fb90f5a2-8207-53ec-aabd-10220350f59d",
+      "relevance_grade": 3,
+      "justification": "Indica que el mayor valor obtenido por persona natural en venta de bien raíz adquirido antes de 2004 es ingreso no constitutivo de renta si se cumplen requisitos."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "query_id": "q030",
+  "query_text": "Indemnización de mejoras al poseedor de buena fe en juicio reivindicatorio",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:57:00Z",
+  "judgments": [
+    {
+      "chunk_uuid": "7eabfd5a-3be7-5477-92b7-8e746b275633",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define la obligación del vendedor de buena fe al vender una especie debida, pero no aborda la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la buena fe en materia tributaria y su impacto en la aplicación de impuestos, pero no sobre mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "9f2b4ed5-698b-5b2f-aec1-e5c461ebded6",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la responsabilidad del poseedor de buena fe por deterioros de la cosa, lo cual es adyacente a la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "59770fbb-d302-5f7d-ae7a-23796e5c15cb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el alcance de la acción reivindicatoria, pero no trata específicamente la indemnización de mejoras al poseedor."
+    },
+    {
+      "chunk_uuid": "65a523ba-4938-5f28-a7a2-d223afbfdecb",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre indemnizaciones por años de servicio y su tratamiento tributario, no relacionado con mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "e090223f-9045-5bdb-b913-637983378acd",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la mala fe en la reivindicación, pero no la indemnización de mejoras al poseedor de buena fe."
+    },
+    {
+      "chunk_uuid": "710f1856-bf7d-567d-9f64-5ff9e9b5a306",
+      "relevance_grade": 2,
+      "justification": "Define y clasifica las mejoras útiles que aumentan el valor de los bienes raíces, relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "ad5ada7e-2697-5a14-950e-7d22dff1852e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre procedimientos tributarios y no aborda la indemnización de mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "7c08f6b8-9208-5106-a065-3df3d994b79b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en indemnizaciones laborales y su tributación, no en mejoras de bienes raíces en juicios."
+    },
+    {
+      "chunk_uuid": "5ad279d7-2c98-5141-bce9-535055b6ec55",
+      "relevance_grade": 2,
+      "justification": "Explica qué mejoras forman parte del valor de adquisición y sus requisitos, siendo relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "4c27272d-6348-56c0-95a9-00dc9822425d",
+      "relevance_grade": 2,
+      "justification": "Define la buena fe, concepto clave para la indemnización al poseedor de buena fe en un juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "b82eda09-cf3f-5285-8117-002ede227dbf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre modificaciones al Formulario 50 del SII, sin relación con la consulta."
+    },
+    {
+      "chunk_uuid": "baa231f4-e454-5456-b36a-f582ffa1e66d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre modificaciones al Formulario 50 del SII, sin relación con la consulta."
+    },
+    {
+      "chunk_uuid": "aba87070-0045-5f31-b84d-99a9625f60a7",
+      "relevance_grade": 0,
+      "justification": "Aborda indemnizaciones laborales y su tributación, no la indemnización de mejoras al poseedor de buena fe."
+    },
+    {
+      "chunk_uuid": "7d79c820-c435-5714-81d9-86a2111dff73",
+      "relevance_grade": 2,
+      "justification": "Define la responsabilidad del poseedor de buena fe por deterioros o pérdidas de la cosa recibida indebidamente."
+    },
+    {
+      "chunk_uuid": "3f690a61-77ff-5903-878b-d5a87e539652",
+      "relevance_grade": 1,
+      "justification": "Este artículo trata sobre la acción reivindicatoria en el contexto de herencias, pero no aborda directamente la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "465a3452-f3e3-52f4-afa2-12d8b7e97240",
+      "relevance_grade": 2,
+      "justification": "Este artículo menciona la indemnización de mejoras para un tercer poseedor desposeído, pero en el contexto de hipotecas, no de reivindicación."
+    },
+    {
+      "chunk_uuid": "14af4e0c-0562-5934-8912-a3fd6fcce0ee",
+      "relevance_grade": 2,
+      "justification": "Este artículo define las obligaciones del poseedor de mala fe y buena fe respecto a los frutos, pero no a las mejoras."
+    },
+    {
+      "chunk_uuid": "3690bc69-ad7f-52fa-9efe-a3b099319cbe",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de indemnizaciones y no tiene relación con la indemnización de mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "39289aa6-131a-58c1-bb3c-e6d7ef945407",
+      "relevance_grade": 3,
+      "justification": "Este artículo aborda directamente la indemnización de mejoras útiles al poseedor de buena fe vencido en juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "016a19d5-8800-5482-8db9-10e1f416f810",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute el tratamiento tributario de indemnizaciones por término de contrato, pero no aborda la indemnización al poseedor de buena fe en juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "0528519b-8e24-57a4-9135-319300439e59",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre indemnizaciones por años de servicio y su tratamiento tributario, no sobre mejoras en juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "477bb601-069b-5f97-88d0-ce0c2507e89a",
+      "relevance_grade": 1,
+      "justification": "Este artículo del Código Civil se refiere a la reivindicación de bienes muebles contra terceros poseedores de buena fe, pero no a mejoras."
+    },
+    {
+      "chunk_uuid": "9e366a8a-b50e-5fe2-9030-c9cd63350795",
+      "relevance_grade": 2,
+      "justification": "Este artículo del Código Civil define la buena o mala fe del poseedor respecto a frutos y expensas, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "490db28f-4ff3-5f73-9157-aadd890fdf78",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute indemnizaciones laborales y su tratamiento tributario, sin relación con mejoras en juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "6a973f85-6857-5275-abc6-0a9081ddd7d3",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de indemnizaciones voluntarias, no sobre mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "bcbcb476-9835-5369-a572-5e0fcccb1ec1",
+      "relevance_grade": 2,
+      "justification": "Este artículo menciona la acción reivindicatoria contra terceros poseedores tras una nulidad judicial."
+    },
+    {
+      "chunk_uuid": "9a9591d6-dc3a-5f3d-8ab4-2a2709d0d713",
+      "relevance_grade": 2,
+      "justification": "Define la posesión regular e irregular, incluyendo la buena fe, relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "34dcf8ef-f74e-523b-8678-4e206b35a0ee",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la tributación de indemnizaciones laborales, no en mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "66e85edd-759f-543a-b45f-f4cca56c7a2f",
+      "relevance_grade": 2,
+      "justification": "Este artículo regula la acción reivindicatoria contra poseedores de mala fe y sus obligaciones."
+    },
+    {
+      "chunk_uuid": "d2ce0056-0203-5632-9b48-a6be788da395",
+      "relevance_grade": 1,
+      "justification": "Este artículo regula la restitución de la cosa por el poseedor vencido en juicio reivindicatorio, pero no aborda la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "4f2ff359-be12-56da-bb76-c87eb7abd895",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de indemnizaciones laborales, no sobre mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "a52ec4b7-2cf4-52a3-ac08-5c345e2d6443",
+      "relevance_grade": 3,
+      "justification": "Este artículo establece el derecho del dueño del terreno a hacer suya la edificación o pagar su valor, remitiendo a las indemnizaciones por poseedores de buena o mala fe."
+    },
+    {
+      "chunk_uuid": "187adf91-adbf-50dd-82a0-6a972fc40fea",
+      "relevance_grade": 2,
+      "justification": "Este artículo define las mejoras voluptuarias y establece que el propietario no está obligado a pagarlas al poseedor."
+    },
+    {
+      "chunk_uuid": "3cda22ef-f4c7-5874-ba3a-818472299e48",
+      "relevance_grade": 2,
+      "justification": "Este artículo regula las mejoras útiles para el poseedor de mala fe, pero no las del poseedor de buena fe."
+    },
+    {
+      "chunk_uuid": "f99287aa-d36a-50c1-aa0d-eb4908cc5d43",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute indemnizaciones por gastos rechazados, pero no aborda la indemnización al poseedor de buena fe en juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "0ddbf22d-6da1-51b6-8d2d-d1fdf19bc640",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la buena fe en relación al cobro retroactivo de impuesto territorial, pero no trata la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "20feebc2-9492-5264-a2cc-40021e275c54",
+      "relevance_grade": 1,
+      "justification": "Este fragmento alude a la buena fe del contribuyente y su interpretación de normas, pero no a la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "5bedb9c4-0e37-500e-b651-686bce6a0031",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la buena fe procesal y la presentación de documentos, sin abordar la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "af26b368-55a9-5107-9d12-51174357ea44",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la presunción de buena fe del contribuyente, pero no la indemnización de mejoras en juicio reivindicatorio."
+    },
+    {
+      "chunk_uuid": "a01c65c9-9e02-5434-9e2e-9ff1a9dc944d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la buena fe procesal y las costas, pero no aborda la indemnización de mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "181953f4-32f1-5b5d-af8c-994893c92602",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la buena fe del contribuyente en materia tributaria, pero no se relaciona con la indemnización de mejoras en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "3775072e-756a-57d8-a27e-bf7448afdcb6",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre mejoras realizadas por el arrendatario que benefician al arrendador sin indemnización, tangencialmente relacionado con mejoras."
+    },
+    {
+      "chunk_uuid": "295753da-fdb9-5cc2-b750-99bbdfec295f",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la buena fe tributaria y su aplicación a devoluciones de IVA, sin relación con la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "205f46c1-38f6-54c7-a139-9dadab33327b",
+      "relevance_grade": 1,
+      "justification": "Este fragmento diferencia reparaciones y mejoras útiles para efectos tributarios, pero no aborda la indemnización en juicios reivindicatorios."
+    },
+    {
+      "chunk_uuid": "b099f7b6-fe8b-5ae5-8d34-b6e94b9ec395",
+      "relevance_grade": 1,
+      "justification": "El fragmento discute la buena fe procesal y la presentación de documentos en un juicio, pero no aborda la indemnización de mejoras."
+    },
+    {
+      "chunk_uuid": "9a34ae06-c7b7-5dbd-8912-fbe394d14fa5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en el principio de buena fe en materia tributaria y no en la indemnización de mejoras en juicios reivindicatorios."
+    }
+  ]
+}

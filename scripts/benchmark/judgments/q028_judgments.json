@@ -1,0 +1,323 @@
+{
+  "query_id": "q028",
+  "query_text": "Prescripción adquisitiva extraordinaria sobre bienes raíces",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:56:38Z",
+  "judgments": [
+    {
+      "chunk_uuid": "d5c8be37-479c-5dad-a659-6c126eddb6fd",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define y explica los requisitos para la prescripción adquisitiva extraordinaria de bienes raíces según el Código Civil."
+    },
+    {
+      "chunk_uuid": "21a3350d-e12f-512f-ac87-678dda533284",
+      "relevance_grade": 2,
+      "justification": "Este artículo del Código Civil establece la regla general de la extinción de acciones por prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "f63c237a-cac4-594f-9426-afd256c21d6e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la declaración anual de bienes raíces y no aborda la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "5adfff1f-54ab-54bb-abb8-9cea4b8972a5",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la aplicación de plazos de prescripción extraordinarios en materia tributaria, no en prescripción adquisitiva de bienes raíces."
+    },
+    {
+      "chunk_uuid": "64da18af-f3dc-5698-8a5f-480ce9cbdfdd",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere al tratamiento tributario de la enajenación de bienes raíces, no a la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "2e062501-482a-551c-8d59-5cea647e71ea",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre el usufructo de bienes raíces y su tratamiento tributario, no sobre prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "a13b5809-5662-5b28-b9ff-44739621dea2",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la tributación de la enajenación de bienes raíces agrícolas en litigio, no en prescripción."
+    },
+    {
+      "chunk_uuid": "c42c0197-61d6-5f16-a902-cc8d00a68383",
+      "relevance_grade": 0,
+      "justification": "Este documento explica la corrección monetaria y su aplicación a activos y pasivos de empresas, sin relación con prescripción."
+    },
+    {
+      "chunk_uuid": "bd64ec4f-f88c-5486-b2d7-fb8a42a24781",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda la prescripción en un contexto tributario, mencionando plazos de prescripción adquisitiva extraordinaria."
+    },
+    {
+      "chunk_uuid": "26467ad0-4e36-54a3-8014-9f83fbfeae04",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la habitualidad en la enajenación de bienes raíces y su tributación, no sobre prescripción."
+    },
+    {
+      "chunk_uuid": "5e25bf07-73ad-5024-88ef-fd1b074251ba",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre rentas presuntas de bienes raíces y su tributación, no sobre prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "a57eb588-0d65-5595-9b05-7a9234b1a7ff",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda el tratamiento tributario del mayor valor en la enajenación de bienes raíces fusionados, no la prescripción."
+    },
+    {
+      "chunk_uuid": "dbec8ddf-a5e7-5ef3-9b74-dd9d2009a84e",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la tributación del mayor valor en la enajenación de bienes raíces, no en la prescripción."
+    },
+    {
+      "chunk_uuid": "5927adaa-8bd4-53fa-97e4-475665c6721a",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute la habitualidad en la enajenación de bienes raíces para efectos tributarios, no la prescripción."
+    },
+    {
+      "chunk_uuid": "a3c6db46-1a30-5a70-a3e6-856877415a14",
+      "relevance_grade": 0,
+      "justification": "Esta circular detalla el costo tributario en la enajenación de bienes raíces, sin relación con la prescripción."
+    },
+    {
+      "chunk_uuid": "029c4708-a93f-598f-b44f-7b637806a824",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la inscripción de adjudicaciones de bienes raíces y su efecto declarativo, tangencialmente relacionado con la propiedad."
+    },
+    {
+      "chunk_uuid": "c6e718d1-08c3-5755-ac37-87aac5ef125e",
+      "relevance_grade": 1,
+      "justification": "Este fragmento aborda la tributación de la enajenación de bienes raíces, incluyendo presunciones de habitualidad, pero no la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "8b01231f-ed02-5b81-80d9-ba6152eb998c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre el tratamiento tributario de la venta de bienes raíces y la habitualidad, sin abordar la prescripción."
+    },
+    {
+      "chunk_uuid": "c8cdd6e1-fdca-5f60-bcf3-2c418325ddaf",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere a la condonación de intereses y multas, y la prescripción de tributos sobre bienes raíces, no la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "7ce683ec-8bbc-5289-a156-cf0679747f40",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla la tributación del mayor valor en la enajenación de bienes raíces, incluyendo plazos de adquisición, pero no la prescripción."
+    },
+    {
+      "chunk_uuid": "3cd65119-8aaf-528c-b212-943cbb6635a8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la resciliación de compraventas y sus efectos tributarios, no sobre prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "42f24141-19fe-597b-8df4-5ebd8a2badd9",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en la tributación de rentas agrícolas y la opción entre renta presunta y efectiva, sin abordar la prescripción."
+    },
+    {
+      "chunk_uuid": "86ebcd66-53b6-5007-9c60-0c8bb9b76ebd",
+      "relevance_grade": 0,
+      "justification": "El fragmento discute la tributación del mayor valor en enajenación de bienes raíces y la habitualidad, no la prescripción."
+    },
+    {
+      "chunk_uuid": "fd2c0cd9-fac2-5236-99f6-c3c2fe2b43bb",
+      "relevance_grade": 0,
+      "justification": "Esta circular detalla la tributación de bienes raíces agrícolas y la renta presunta, sin relación con la prescripción."
+    },
+    {
+      "chunk_uuid": "cbd27c83-b768-5e62-9d90-086bdaf99c1a",
+      "relevance_grade": 0,
+      "justification": "El oficio aborda la tributación de rentas de bienes raíces no agrícolas y el uso de créditos por contribuciones, no la prescripción."
+    },
+    {
+      "chunk_uuid": "d10704cf-0176-56b2-b4f7-38b041fcf465",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre rentas presuntas de bienes raíces, no sobre prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "1b2978c4-4586-5633-b6d9-a9aca986cccf",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a declaraciones juradas extraordinarias y regularización de bienes, sin relación con la prescripción."
+    },
+    {
+      "chunk_uuid": "688a37c5-e05a-5ffd-b4a8-3b34cb44f8f8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla rentas presuntas de bienes raíces, no la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda el tratamiento tributario de arrendamientos y el impuesto territorial, no la prescripción."
+    },
+    {
+      "chunk_uuid": "a9f868b4-ada3-5420-901d-296b518626d5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la renta presunta y efectiva de bienes raíces, sin relación con la prescripción."
+    },
+    {
+      "chunk_uuid": "a0ec1ade-a709-52db-8386-0445ef261924",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define la prescripción adquisitiva y la clasifica en ordinaria y extraordinaria, abordando directamente la consulta."
+    },
+    {
+      "chunk_uuid": "787c2c51-12fd-5ffd-9e0b-7b8e9062ac06",
+      "relevance_grade": 2,
+      "justification": "Menciona que los bienes nacionales de uso público no están afectos a prescripción adquisitiva por particulares."
+    },
+    {
+      "chunk_uuid": "e3023a12-30fe-501a-af7f-265252b3be99",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de bienes raíces y su enajenación, no sobre la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "ca5bed3b-e118-596e-b024-5ac7aaeb1249",
+      "relevance_grade": 2,
+      "justification": "Discute la prescripción adquisitiva extraordinaria en el contexto de plazos y derechos fundamentales, aunque enfocado en materia tributaria."
+    },
+    {
+      "chunk_uuid": "9f98101b-3ed7-518f-b7a2-faa58d0f8324",
+      "relevance_grade": 2,
+      "justification": "Aborda la prescripción en materia tributaria y la suspensión de plazos, mencionando la prescripción adquisitiva extraordinaria."
+    },
+    {
+      "chunk_uuid": "d34d8f6f-6f15-5bc9-b73a-0182fba478dd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la prescripción en el contexto tributario y su relación con plazos razonables."
+    },
+    {
+      "chunk_uuid": "12fdb04c-6f19-5e89-a78c-49205ee2a0ac",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en el costo tributario de bienes raíces y su adquisición, no en prescripción."
+    },
+    {
+      "chunk_uuid": "0f9ffe31-2d4e-5dd8-8201-c172953a5b3e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la exclusión de bienes raíces del régimen de sobretasa del Impuesto Territorial."
+    },
+    {
+      "chunk_uuid": "4ff2933f-a106-576b-a3bd-da832c73afc7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la reclasificación de bienes raíces y el arrendamiento, no la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "aa978e36-b877-5390-b751-bde139a7d873",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la prescripción adquisitiva de bienes raíces y los requisitos para su procedencia."
+    },
+    {
+      "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+      "relevance_grade": 2,
+      "justification": "Define la prescripción adquisitiva y extintiva, pero se enfoca en la extintiva para materia tributaria."
+    },
+    {
+      "chunk_uuid": "9d40c05d-1e97-51f7-a309-fceb503843f7",
+      "relevance_grade": 0,
+      "justification": "Aborda aspectos tributarios de concesiones de estacionamientos subterráneos, no prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "2604f655-969a-5f41-999f-f2537e2bb85a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define la sentencia judicial que declara una prescripción como título para la propiedad de bienes raíces."
+    },
+    {
+      "chunk_uuid": "8bae7594-ba07-52a8-9419-bc10df9d4cf0",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'ventas de bienes raíces' en el contexto de pagos provisionales, lo cual es tangencial a la prescripción."
+    },
+    {
+      "chunk_uuid": "9112c9a6-824c-5dc9-ac39-84d838c404f1",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define que se gana por prescripción el dominio de bienes raíces corporales con las condiciones legales."
+    },
+    {
+      "chunk_uuid": "8d0c0f2e-b884-58d8-a535-010d26830717",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'ventas de bienes raíces' en el contexto de pagos provisionales, lo cual es tangencial a la prescripción."
+    },
+    {
+      "chunk_uuid": "d926b657-7af9-5f66-9f0a-27b33aea94c0",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona 'ventas de bienes raíces' en el contexto de pagos provisionales, lo cual es tangencial a la prescripción."
+    },
+    {
+      "chunk_uuid": "cf1cd438-c79c-50e7-918e-749387bfa920",
+      "relevance_grade": 2,
+      "justification": "Este fragmento cita el plazo de prescripción para bienes raíces, que es un elemento clave de la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "e21fcfd7-244a-5d79-9fc8-afd808f77c8c",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre pagos provisionales de ventas de bienes raíces, no sobre prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "1c2bce0a-7d99-591e-9df4-04ed65251422",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute la adquisición de bienes raíces por prescripción bajo el DL N° 2.695 y su tributación."
+    },
+    {
+      "chunk_uuid": "30f5f777-5fc0-5fba-aa6c-6c91f6d81934",
+      "relevance_grade": 1,
+      "justification": "Este oficio define la fecha de adquisición de bienes raíces para efectos tributarios, vinculándola a la inscripción."
+    },
+    {
+      "chunk_uuid": "0429864b-3537-59a1-84cf-a73075008d79",
+      "relevance_grade": 1,
+      "justification": "Este fragmento judicial menciona la prescripción extraordinaria en un contexto tributario, pero no sobre bienes raíces."
+    },
+    {
+      "chunk_uuid": "0ff2482c-5fab-5d26-a7e6-e21bb54f0118",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza la fecha de adquisición de bienes raíces para la presunción de habitualidad, ligándola a la inscripción."
+    },
+    {
+      "chunk_uuid": "683f1629-e8b9-5772-a8d1-bb0e4289d7e8",
+      "relevance_grade": 1,
+      "justification": "Este oficio aborda la tributación de bienes raíces adquiridos antes de 2004, pero no la prescripción."
+    },
+    {
+      "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la prescripción extintiva tributaria y su aplicación, no la prescripción adquisitiva de bienes raíces."
+    },
+    {
+      "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la prescripción como modo de adquirir bienes raíces, pero se enfoca en la inscripción registral y no en el proceso."
+    },
+    {
+      "chunk_uuid": "243987df-4016-59fa-95bc-75f3dc0fac5e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de la enajenación de bienes raíces y la habitualidad, no sobre la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "0ff3174a-58e7-5c59-85e3-e72d2e6598b1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la interpretación de 'adquisición' y 'enajenación' en compraventas de bienes raíces, no la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "c29e489f-2c52-5e47-8179-15a83602239c",
+      "relevance_grade": 3,
+      "justification": "Este fragmento describe un sistema especial de adquisición de dominio por prescripción para poseedores de bienes raíces rurales y urbanos."
+    },
+    {
+      "chunk_uuid": "57aebdc0-d796-50e4-87ac-5db9c9318a74",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la adquisición de bienes raíces y la inscripción en el Registro de Propiedad, pero no aborda la prescripción adquisitiva."
+    },
+    {
+      "chunk_uuid": "9bd9461d-1c6a-508d-8c75-4c30de1e31cb",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona la prescripción como un modo de adquirir bienes raíces que requiere inscripción, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "6508df9e-1e61-53dc-b889-25ac913d4133",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la prescripción extraordinaria en el contexto tributario y la sucesión por causa de muerte, pero no se enfoca en la prescripción adquisitiva de bienes raíces."
+    },
+    {
+      "chunk_uuid": "a2c651c2-c2ec-5dba-b4b5-7ca39c477695",
+      "relevance_grade": 3,
+      "justification": "Este fragmento menciona la adquisición de dominio por prescripción bajo el DL N° 2.695, lo cual es directamente relevante para la consulta."
+    }
+  ]
+}

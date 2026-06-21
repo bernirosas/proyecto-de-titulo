@@ -1,0 +1,218 @@
+{
+  "query_id": "q025",
+  "query_text": "Tercería de dominio sobre inmueble embargado en juicio ejecutivo",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:56:02Z",
+  "judgments": [
+    {
+      "chunk_uuid": "86cbe1bd-3e01-57bd-b888-63e26cac6c01",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de la venta de inmuebles, incluyendo casos de ventas forzadas, pero no aborda la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "4720adad-4809-51fa-8d0e-d52c76b48583",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre franquicias tributarias para la construcción de viviendas y no tiene relación con la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "0227dd1c-4de2-52ac-b69f-dcc94bd27699",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define los requisitos y efectos de la tercería de dominio en un juicio ejecutivo, respondiendo directamente a la consulta."
+    },
+    {
+      "chunk_uuid": "eae6e0d4-ac9a-53dd-a592-00df6f5b723a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la tributación de la enajenación de inmuebles acogidos a DFL 2, sin relación con la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "77e20466-5ce6-59b3-8943-09a69d692ef0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la exención del Impuesto Territorial para municipalidades y no se relaciona con la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "eb180057-8b40-5fb9-b932-f37abea6f721",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones tributarias de universidades y no tiene relación con tercería de dominio."
+    },
+    {
+      "chunk_uuid": "7cf944b8-021a-57f6-9890-c72684751348",
+      "relevance_grade": 1,
+      "justification": "Este artículo del Código de Procedimiento Civil se refiere a la entrega de especies embargadas, pero no a la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "ca22b7f7-b5e3-5a6b-acf0-4c5b04a1880e",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en contratos de construcción y beneficios tributarios asociados, no en tercería de dominio."
+    },
+    {
+      "chunk_uuid": "b26a9ce1-cb4f-5e31-9c0f-4e841add9154",
+      "relevance_grade": 3,
+      "justification": "Este artículo del Código de Procedimiento Civil regula la distribución de bienes embargados entre ejecutante y tercerista."
+    },
+    {
+      "chunk_uuid": "a0373fd6-1851-5be8-bba3-fae3ca2eac6a",
+      "relevance_grade": 2,
+      "justification": "Este artículo describe los casos en que se pueden ventilar tercerías en un juicio ejecutivo, incluyendo la de dominio."
+    },
+    {
+      "chunk_uuid": "f5233c59-9d26-530a-bf1c-4e5fdd3fba53",
+      "relevance_grade": 1,
+      "justification": "Este artículo aborda la oposición de un tercero que alega un derecho de goce sobre la cosa embargada, tangencialmente relacionado con tercerías."
+    },
+    {
+      "chunk_uuid": "37e1eb4a-5ee7-5237-969f-c614612519be",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de inmuebles y copropiedad, sin relación con tercerías de dominio."
+    },
+    {
+      "chunk_uuid": "6b22c977-17a0-5e66-822c-1f1eeab0dd19",
+      "relevance_grade": 2,
+      "justification": "Este artículo explica que la interposición de una tercería no suspende el procedimiento ejecutivo, salvo casos específicos."
+    },
+    {
+      "chunk_uuid": "9fc0f86b-2dc6-59a2-be89-2d7df119796c",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona la regulación de la tercería de posesión, pero no la de dominio, y se enfoca en modificaciones procesales."
+    },
+    {
+      "chunk_uuid": "b7bc0421-8bd5-57cb-a0f3-5732ed506129",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el crédito fiscal por la actividad de construcción y la tributación de inmuebles, pero no aborda la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "4ef99666-e602-5cf6-9621-4b04e6343c14",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe el procedimiento de venta de bienes embargados en un juicio ejecutivo, relevante para el contexto de la tercería."
+    },
+    {
+      "chunk_uuid": "c0c904ea-6363-5d49-a0d0-3aeaa7cb87fb",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el concepto de 'vendedor' y la habitualidad en la venta de inmuebles, relacionado tangencialmente con la propiedad."
+    },
+    {
+      "chunk_uuid": "f9549ea2-736b-5241-9d7c-39ee60ee3b48",
+      "relevance_grade": 1,
+      "justification": "Este fragmento analiza la calidad de empresa constructora y la habitualidad en la venta de inmuebles, tocando aspectos de propiedad."
+    },
+    {
+      "chunk_uuid": "12916613-4cb9-591a-a6b3-8e646cfa1c18",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre la cosa juzgada en juicios ejecutivos, pero no aborda directamente la tercería de dominio sobre bienes embargados."
+    },
+    {
+      "chunk_uuid": "bfd3fd87-2ecb-579f-b971-27a4d92b6b09",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones de impuesto territorial y arriendo de inmuebles, no sobre tercerías de dominio."
+    },
+    {
+      "chunk_uuid": "e019584c-e829-5686-84fd-80c7113f2200",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe el desistimiento de la demanda ejecutiva y la pérdida de valor del embargo."
+    },
+    {
+      "chunk_uuid": "c0455cfb-5e07-58ef-a0d6-efe2f6b939f5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en el Impuesto al Valor Agregado y exenciones, sin relación con tercerías de dominio."
+    },
+    {
+      "chunk_uuid": "80ad759f-cd30-55e4-b35c-cb95d21aedee",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la tramitación de la oposición basada en el derecho del comunero sobre la cosa embargada."
+    },
+    {
+      "chunk_uuid": "5f3ad6d0-6b75-57af-8519-f71cce5eb90b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda la valorización de activos en permuta de inmuebles, no tercerías de dominio sobre embargos."
+    },
+    {
+      "chunk_uuid": "33b75e7a-c449-5a61-b21a-13897517af15",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre impuestos a las ventas y servicios en obras materiales inmuebles, no sobre tercerías de dominio."
+    },
+    {
+      "chunk_uuid": "cc3618f4-6aec-598b-b772-36ab6b4853ab",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la tercería de dominio y su tramitación en juicio ejecutivo, respondiendo directamente a la consulta."
+    },
+    {
+      "chunk_uuid": "660536cd-fc19-5517-9581-5974e776be88",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona bienes embargados no comprendidos en una tercería, lo cual es tangencialmente relevante al contexto."
+    },
+    {
+      "chunk_uuid": "446cc2c1-201f-5251-87ad-6a130bad79b9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el IVA en arrendamientos de inmuebles, sin relación con tercerías de dominio."
+    },
+    {
+      "chunk_uuid": "18ca33ec-c1d5-5e98-ba97-dcc757c2ed32",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda el IVA en la transferencia de inmuebles como pago de dividendos, no tercerías de dominio."
+    },
+    {
+      "chunk_uuid": "570b4aab-c2fa-5dfe-9d6e-3088c0b5aa3d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define los conceptos de 'venta' y 'vendedor' en el contexto del IVA, lo cual es tangencial al tema principal."
+    },
+    {
+      "chunk_uuid": "eb182e3c-e563-5f64-b7a8-0e25c6f96b50",
+      "relevance_grade": 2,
+      "justification": "Este artículo del CPC describe el procedimiento de una tercería de prelación una vez realizado el embargo, siendo relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "934cae2a-3d09-5080-b7f4-741c83c2a2d5",
+      "relevance_grade": 3,
+      "justification": "Este artículo del CPC menciona la introducción de una tercería como justo motivo para ampliar un embargo, lo cual es directamente relevante."
+    },
+    {
+      "chunk_uuid": "f408c047-efcd-5323-be63-7ee976ee2ea1",
+      "relevance_grade": 2,
+      "justification": "Este artículo del CPC detalla el procedimiento del embargo, incluyendo la constancia de alegaciones de terceros sobre bienes embargados."
+    },
+    {
+      "chunk_uuid": "af67b610-6599-59d5-9244-ff83c21350c7",
+      "relevance_grade": 1,
+      "justification": "Este oficio del SII analiza la tributación del vendedor en compraventa de inmuebles, tocando aspectos del IVA, pero no la tercería."
+    },
+    {
+      "chunk_uuid": "af3e0e0c-7676-57b2-9154-e26218c30d5a",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la venta de cuotas de dominio sobre inmuebles y su gravamen con IVA, tangencialmente relacionado con bienes raíces."
+    },
+    {
+      "chunk_uuid": "e41d28e4-1a7c-51a2-a504-717ec9bf2dbc",
+      "relevance_grade": 2,
+      "justification": "Este artículo define los efectos del embargo de bienes raíces frente a terceros y su inscripción registral."
+    },
+    {
+      "chunk_uuid": "a8420168-12c8-53c2-8c54-6c3f202f2f92",
+      "relevance_grade": 3,
+      "justification": "Este artículo define y clasifica las tercerías admisibles en un juicio ejecutivo, incluyendo la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "5f8a373c-d852-584e-ae9a-47af6c9bee41",
+      "relevance_grade": 2,
+      "justification": "Este artículo se refiere a la realización de bienes embargados en un juicio ejecutivo para el pago al acreedor."
+    },
+    {
+      "chunk_uuid": "06d57207-73ef-5832-b241-29d56f4ff743",
+      "relevance_grade": 1,
+      "justification": "Este fragmento define el concepto de 'venta' y 'vendedor' en materia de IVA, lo cual es tangencial al tema de tercería."
+    },
+    {
+      "chunk_uuid": "f12cf222-69b4-5a6b-88bc-d1b8b71534c1",
+      "relevance_grade": 1,
+      "justification": "Similar al fragmento 1, define conceptos de IVA sobre ventas de inmuebles, sin abordar la tercería de dominio."
+    },
+    {
+      "chunk_uuid": "7ea21efd-9e23-5d68-9685-ae1da69d04a5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la suspensión de juicios criminales por excepciones civiles sobre dominio de inmuebles, lo cual es relevante."
+    },
+    {
+      "chunk_uuid": "650b651c-e64f-54b8-a7b2-3e6f9c9a06ed",
+      "relevance_grade": 2,
+      "justification": "El fragmento aborda la tributación de un banco por la enajenación de un inmueble adjudicado en juicio ejecutivo."
+    }
+  ]
+}

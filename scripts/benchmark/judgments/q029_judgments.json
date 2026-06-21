@@ -1,0 +1,238 @@
+{
+  "query_id": "q029",
+  "query_text": "Servidumbres prediales: constitución por prescripción y modos de extinción",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:56:49Z",
+  "judgments": [
+    {
+      "chunk_uuid": "d34d8f6f-6f15-5bc9-b73a-0182fba478dd",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la prescripción en materia tributaria, no servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+      "relevance_grade": 2,
+      "justification": "Define la prescripción extintiva y adquisitiva, pero se enfoca en materia tributaria, no en servidumbres."
+    },
+    {
+      "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+      "relevance_grade": 0,
+      "justification": "Aborda la renuncia y alegación de la prescripción en materia tributaria, sin relación con servidumbres."
+    },
+    {
+      "chunk_uuid": "91d5f67a-dc99-5b85-a6dd-932d9cd32f15",
+      "relevance_grade": 2,
+      "justification": "Explica que la mera tolerancia o actos de mera facultad no generan posesión ni prescripción."
+    },
+    {
+      "chunk_uuid": "aaad53fe-80dd-5142-8fd5-35e1b24f9003",
+      "relevance_grade": 3,
+      "justification": "Establece que el usufructuario está sujeto a las servidumbres pasivas constituidas en la heredad."
+    },
+    {
+      "chunk_uuid": "0277e5cd-644e-501c-adf1-d7261dcdb001",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define servidumbres continuas y discontinuas, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "e95b2671-71e0-53ae-99f5-78b3dec47d45",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre prescripción en materia tributaria, no sobre servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "3688e9b0-8ac3-50f4-a42e-9d56f2378994",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona servidumbres en el contexto de donaciones y derechos de terceros, tangencialmente relacionado."
+    },
+    {
+      "chunk_uuid": "8d66e9f6-1095-5f3e-8304-c818a6403637",
+      "relevance_grade": 3,
+      "justification": "Este fragmento aborda la tributación de servidumbres y su extinción, siendo altamente relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "0a19df91-424f-56c7-95f8-3d4364c22f3d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la Convención Constitucional y no tiene relación con servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+      "relevance_grade": 2,
+      "justification": "Define servidumbre predial como un gravamen impuesto sobre un predio en utilidad de otro predio de distinto dueño."
+    },
+    {
+      "chunk_uuid": "fde17b45-8a11-51db-b2fc-d309e2baee7c",
+      "relevance_grade": 1,
+      "justification": "Menciona las servidumbres como una de las limitaciones al dominio, pero no aborda su constitución o extinción."
+    },
+    {
+      "chunk_uuid": "51e2ca50-797d-51c4-bb0a-f664be586bba",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la extinción del contrato de arrendamiento, no sobre servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+      "relevance_grade": 2,
+      "justification": "Compara el derecho de conservación con la servidumbre predial, citando su definición como gravamen."
+    },
+    {
+      "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+      "relevance_grade": 3,
+      "justification": "Establece las condiciones para adquirir servidumbres continuas y aparentes por prescripción de cinco años."
+    },
+    {
+      "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la indemnización por daño emergente en servidumbres de tránsito, pero no aborda su constitución o extinción."
+    },
+    {
+      "chunk_uuid": "984bf9e5-4715-53f9-b7b3-27fbc9c0fcb7",
+      "relevance_grade": 2,
+      "justification": "Define servidumbres prediales según el Código Civil y su naturaleza jurídica, pero no trata su constitución o extinción."
+    },
+    {
+      "chunk_uuid": "10161372-62f4-52de-9071-e3a4c079a68d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la subdivisión predial y el aprovechamiento de inmuebles, sin relación con servidumbres."
+    },
+    {
+      "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la prescripción de la acción de cobro del Fisco, no sobre servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "a93af955-d3e5-5a27-965a-f93d59c470c6",
+      "relevance_grade": 2,
+      "justification": "Define servidumbres positivas y negativas, pero no aborda su constitución por prescripción ni modos de extinción."
+    },
+    {
+      "chunk_uuid": "60cecbb5-3295-5e59-9591-e1c6388c4ac7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre normas transitorias de una constitución política y no tiene relación con servidumbres."
+    },
+    {
+      "chunk_uuid": "109f10af-6315-518c-8e26-112fc7b4eded",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona una servidumbre legal de alcantarillado, pero no aborda su constitución por prescripción ni extinción."
+    },
+    {
+      "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define las causales de extinción de las servidumbres prediales, respondiendo parcialmente a la consulta."
+    },
+    {
+      "chunk_uuid": "2134cd36-6311-588f-9208-75716909fce0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento es una circular del SII sobre modelos de máquinas registradoras y no tiene relación con servidumbres."
+    },
+    {
+      "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre prescripción de impuestos a herencias y donaciones, no sobre servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "3a5d3983-8873-5122-9220-a9e57abfa6d9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la prescripción tributaria y no sobre servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "4132557d-ecb8-5601-9ec3-1384ace1ed9e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda las servidumbres mineras y su extinción, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la prescripción tributaria y su suspensión, tangencialmente relacionado con la extinción."
+    },
+    {
+      "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define la prescripción de servidumbres, abordando tanto su adquisición como pérdida."
+    },
+    {
+      "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define las servidumbres en general y su aplicación en casos específicos, pero no su constitución o extinción."
+    },
+    {
+      "chunk_uuid": "874c445d-1d9d-5993-97e5-49cf906487c1",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación del IVA en la cesión de servidumbres, pero no aborda su constitución o extinción."
+    },
+    {
+      "chunk_uuid": "5c0f09ce-ed37-574e-ac33-c5ac336cf8f8",
+      "relevance_grade": 3,
+      "justification": "Este artículo del Código de Procedimiento Civil menciona la constitución, ejercicio, modificación o extinción de servidumbres como materia de procedimiento sumario."
+    },
+    {
+      "chunk_uuid": "4d8d4107-4b9e-5172-9add-6b5780c5c06b",
+      "relevance_grade": 3,
+      "justification": "Este artículo del Código Civil se refiere a la interrupción de la prescripción para la constitución de servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica los principios generales de interrupción y suspensión de plazos de prescripción en derecho civil, aplicable a servidumbres."
+    },
+    {
+      "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la prescripción extintiva como modo de extinguir acciones y derechos, aplicable a la extinción de servidumbres."
+    },
+    {
+      "chunk_uuid": "7de0bc7d-b270-5140-9651-417a80c351b6",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define las servidumbres prediales y cómo se pueden constituir y adquirir, abordando directamente la consulta."
+    },
+    {
+      "chunk_uuid": "c1e7e8aa-dfb5-5227-a4d2-b1a156b313b1",
+      "relevance_grade": 1,
+      "justification": "Este fragmento menciona las servidumbres en el contexto de gravámenes sobre bienes fiduciarios, pero no aborda su constitución o extinción."
+    },
+    {
+      "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la constitución de servidumbres de tránsito y su afectación a IVA, tocando tangencialmente el tema."
+    },
+    {
+      "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+      "relevance_grade": 2,
+      "justification": "El fragmento discute la inscripción de bienes raíces como modo de adquirir dominio, mencionando la prescripción y sucesión por causa de muerte."
+    },
+    {
+      "chunk_uuid": "bd64ec4f-f88c-5486-b2d7-fb8a42a24781",
+      "relevance_grade": 1,
+      "justification": "El fragmento aborda la prescripción en materia tributaria y su relación con plazos razonables, pero no con servidumbres prediales."
+    },
+    {
+      "chunk_uuid": "d5e737ab-f393-5d0c-b067-7cfc557cc2df",
+      "relevance_grade": 2,
+      "justification": "Este fragmento define la prescripción y sus funciones, incluyendo la adquisición y extinción de derechos reales."
+    },
+    {
+      "chunk_uuid": "f14c5b32-d649-519e-825d-2d71fa0ed038",
+      "relevance_grade": 1,
+      "justification": "Menciona servidumbres como derechos reales y su constitución, pero no aborda su prescripción o extinción."
+    },
+    {
+      "chunk_uuid": "e3f3b1b8-48e2-5c0b-ab9e-501a839f0fbf",
+      "relevance_grade": 1,
+      "justification": "Explica la prescripción extintiva y su aplicación en materia tributaria, pero no se enfoca en servidumbres."
+    },
+    {
+      "chunk_uuid": "55d649f0-4657-55cc-a765-6f4cf40319d0",
+      "relevance_grade": 2,
+      "justification": "Aborda una servidumbre de alcantarillado y su impacto en construcciones, pero no su constitución por prescripción o extinción."
+    },
+    {
+      "chunk_uuid": "20efcb11-3146-5e93-8219-779e47d8d4f1",
+      "relevance_grade": 2,
+      "justification": "Describe la constitución de una servidumbre de tránsito y su duración, pero no su prescripción o extinción."
+    },
+    {
+      "chunk_uuid": "e5dd9baa-37d1-5fcc-84cb-e68a6c627a5d",
+      "relevance_grade": 2,
+      "justification": "El fragmento aborda la constitución de servidumbres de paso y la indemnización, pero no la prescripción ni extinción."
+    }
+  ]
+}

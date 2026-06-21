@@ -1,0 +1,5 @@
+{
+  "query_id": "q010",
+  "query_text": "Inscripción de la compraventa en el Conservador de Bienes Raíces como tradición del dominio del inmueble",
+  "notas": "Compraventa de bienes raíces (inscripción conservatoria como modo de adquirir, art. 686 CC; cruza Código Civil con oficios SII). Query de mayor cobertura del set ('Conservador de Bienes Raíces' en 484 chunks). Pool 32 chunks; distribución 14/9/4/5 (44% grado 3). Baja discriminación: seis técnicas ≥2.6 en top-10, SPLADE competitivo (2.60) porque el vocabulario es compartido entre consulta y documentos. Ganadora top-10 mean_grade: p1_bm25 (2.80), empatada con p1_tfidf (2.80). 1 corrección manual: chunk a30d90c2 (Resol. SII 8655) lo juzgó el LLM con parse-error (-1) en todas las corridas → grado 1 asignado por revisión humana. Juzgado con key Gemini distinta a q006-q009 (mismo modelo gemini-2.5-flash-lite, cuota del proyecto original agotada). Ver q010_analisis.md."
+}

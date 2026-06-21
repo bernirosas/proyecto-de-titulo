@@ -1,0 +1,5 @@
+{
+  "query_id": "q006",
+  "query_text": "Requisitos y solemnidades de la escritura pública en la compraventa de bienes raíces",
+  "notas": "Compraventa de bienes raíces. Pool 44 chunks; distribución de grados 7/12/11/14 (g3/g2/g1/g0). Discrimina bien: BM25 (P2/P3) > SPLADE > TF-IDF >> baseline_qdrant_bm25 (0.30). SPLADE acierta los primeros resultados (P@5=0.80) pero decae en top-10. Ganadora top-10 mean_grade: p2_bm25 (2.50), empatada con p3_bm25 (2.50). 0 correcciones manuales sobre el juicio del LLM (gemini-2.5-flash-lite). Ver q006_analisis.md."
+}

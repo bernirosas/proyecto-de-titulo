@@ -1,0 +1,348 @@
+{
+  "query_id": "q019",
+  "query_text": "¿En qué casos el arriendo de un inmueble está afecto a IVA?",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:20Z",
+  "judgments": [
+    {
+      "chunk_uuid": "3646fce4-f5f7-58e0-be33-c94f94895f41",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que el destino del inmueble no es determinante, sino si cuenta con muebles o instalaciones suficientes para actividad comercial."
+    },
+    {
+      "chunk_uuid": "daea3fdb-a1c7-5a94-a1ba-5179e512bab5",
+      "relevance_grade": 3,
+      "justification": "Este fragmento detalla que el arrendamiento de inmuebles está afecto a IVA si tienen instalaciones suficientes para actividad comercial o industrial."
+    },
+    {
+      "chunk_uuid": "dbc93d55-7ab5-5eb3-b3ae-b918c227a33e",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación de inmuebles en divisiones de sociedades, no sobre el arriendo afecto a IVA."
+    },
+    {
+      "chunk_uuid": "7eb601bc-2a55-558a-8b06-992be07baab5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute un caso de arriendo de inmuebles amoblados y su afectación a IVA, aunque se centra en la calidad de contribuyente."
+    },
+    {
+      "chunk_uuid": "366106f6-4fdd-5d67-83b7-ec6aba601011",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se refiere a exenciones de IVA en arriendos con opción de compra, no a los casos generales de afectación."
+    },
+    {
+      "chunk_uuid": "2a54ada0-19a8-570c-8af3-b030cffd1591",
+      "relevance_grade": 2,
+      "justification": "Explica que el IVA afecta a los contratos de arriendo con opción de compra sobre bienes inmuebles."
+    },
+    {
+      "chunk_uuid": "fde19a73-3245-589c-b172-19c23fdd44e0",
+      "relevance_grade": 3,
+      "justification": "Detalla que el arriendo de sitio eriazo no está gravado con IVA, salvo excepciones específicas."
+    },
+    {
+      "chunk_uuid": "a26ed49b-4246-5901-8b9f-de29ea1dc828",
+      "relevance_grade": 0,
+      "justification": "Aborda la venta de inmuebles por una nueva sociedad, no el arriendo afecto a IVA."
+    },
+    {
+      "chunk_uuid": "5c7c002b-4cc7-57a5-bc44-253c2f86c1dd",
+      "relevance_grade": 3,
+      "justification": "Indica que el arriendo de predio agrícola con huertos no se afecta con IVA si no hay instalaciones."
+    },
+    {
+      "chunk_uuid": "47c723df-67a2-578e-bf97-19c1ce7d5d16",
+      "relevance_grade": 3,
+      "justification": "Explica que el arriendo de inmuebles con instalaciones o amoblados está afecto a IVA."
+    },
+    {
+      "chunk_uuid": "2c771e75-80bb-5d1c-90bb-9693db124030",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la afectación a IVA del arriendo de estacionamientos y bodegas, y la buena fe del contribuyente."
+    },
+    {
+      "chunk_uuid": "3ae620ca-f768-51a8-a770-a3672bbf3a2c",
+      "relevance_grade": 2,
+      "justification": "Aborda la tributación de IVA en arriendos con opción de compra, diferenciando entre inmuebles amoblados y no amoblados."
+    },
+    {
+      "chunk_uuid": "839d8a54-1ee9-59bb-befa-4dafe91dea39",
+      "relevance_grade": 2,
+      "justification": "Explica la emisión de facturas/boletas y la base imponible para arriendos afectos y exentos de IVA, incluyendo bodegas."
+    },
+    {
+      "chunk_uuid": "19fab373-dc33-52fe-beb5-9242c1bc36b8",
+      "relevance_grade": 2,
+      "justification": "Detalla cuándo el arriendo de inmuebles se grava con IVA, específicamente si están amoblados o con instalaciones industriales."
+    },
+    {
+      "chunk_uuid": "fbcd8a1a-8c18-5aa2-ad94-44fd926b9023",
+      "relevance_grade": 2,
+      "justification": "Establece que el arriendo de inmuebles amoblados, incluyendo áreas comunes equipadas, está afecto a IVA."
+    },
+    {
+      "chunk_uuid": "76be3e26-7e03-5dac-9a91-8c7b7791ef14",
+      "relevance_grade": 3,
+      "justification": "Explica que el arriendo de inmuebles amoblados o con instalaciones para actividad comercial está afecto a IVA."
+    },
+    {
+      "chunk_uuid": "32abbca5-3ba7-552f-9006-c6a285a76f2e",
+      "relevance_grade": 2,
+      "justification": "Detalla que el arriendo de inmuebles con instalaciones para actividad comercial está afecto a IVA, pero no el de recintos deportivos sin amoblar."
+    },
+    {
+      "chunk_uuid": "07437535-a678-54f4-87db-8bab7fcc4c46",
+      "relevance_grade": 1,
+      "justification": "Aborda exenciones de IVA en construcción y arriendo de viviendas con subsidio, no directamente el arriendo general."
+    },
+    {
+      "chunk_uuid": "bdc271e5-e1f3-56f9-946c-b748eff3d9e9",
+      "relevance_grade": 1,
+      "justification": "Menciona exenciones para arriendo con opción de compra y subsidios habitacionales, tangencial al arriendo afecto a IVA."
+    },
+    {
+      "chunk_uuid": "21038bf8-a618-5643-8425-e61256cb3d3f",
+      "relevance_grade": 3,
+      "justification": "Confirma que el arriendo de inmuebles amoblados está afecto a IVA, detallando la base imponible."
+    },
+    {
+      "chunk_uuid": "eaaff8b1-21ca-55ca-b8dd-2c504ded004e",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que el arriendo de inmuebles es una operación gravada con IVA, aunque no resulte impuesto a pagar por rebajas."
+    },
+    {
+      "chunk_uuid": "8e45de3e-d0d0-5249-bb97-df8b4f00d801",
+      "relevance_grade": 2,
+      "justification": "Menciona que el arriendo de un inmueble con instalaciones está gravado con IVA, según el artículo 8° letra g) de la ley."
+    },
+    {
+      "chunk_uuid": "f420f82a-ed45-5a81-945f-4520d222f5e0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la venta de inmuebles construidos y terrenos, no en el arriendo."
+    },
+    {
+      "chunk_uuid": "8eef7df5-f968-595c-9290-9b5091992b75",
+      "relevance_grade": 1,
+      "justification": "Trata sobre exenciones de IVA en arriendos con opción de compra y subsidios habitacionales, no arriendos generales."
+    },
+    {
+      "chunk_uuid": "7f749a58-65d0-5e5f-af8b-c8ccdc609973",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en la venta habitual de inmuebles y su afectación a IVA, no en arriendos."
+    },
+    {
+      "chunk_uuid": "ac78fe2d-48c6-589e-abea-6d1f584aeeed",
+      "relevance_grade": 2,
+      "justification": "Este fragmento indica cuándo un corredor de propiedades no debe emitir facturas afectas o exentas de IVA en arriendos."
+    },
+    {
+      "chunk_uuid": "e080fbad-177b-54be-8751-4b40e035cf38",
+      "relevance_grade": 2,
+      "justification": "Aborda si el arriendo de un edificio de dependencias y oficinas estaría afecto a IVA según el artículo 8° letra g) del D.L. N° 825."
+    },
+    {
+      "chunk_uuid": "f61328f3-0e01-5203-a254-d87758c87582",
+      "relevance_grade": 3,
+      "justification": "Explica que el arrendamiento de inmuebles amoblados o con instalaciones está afecto a IVA según el artículo 8°, letra g), de la LIVS."
+    },
+    {
+      "chunk_uuid": "a4f804e9-f1ec-5f59-9a50-5fa6f2eb5e8a",
+      "relevance_grade": 3,
+      "justification": "Detalla que se grava con IVA solo el arriendo de departamentos amoblados, no bodegas o estacionamientos."
+    },
+    {
+      "chunk_uuid": "d166aa9d-7176-5e81-b4d3-305775460886",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la venta de inmuebles y no sobre el arriendo, por lo que es irrelevante para la consulta."
+    },
+    {
+      "chunk_uuid": "b13cce03-9c93-5d06-b805-1aea6fcf18a5",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute exenciones de IVA para arriendos con opción de compra financiados con subsidios habitacionales, no arriendos generales."
+    },
+    {
+      "chunk_uuid": "f7fbf6aa-b26b-57b5-9112-2d417eeca0fe",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla modificaciones legales sobre arriendos con opción de compra y su afectación a IVA, pero no responde directamente la consulta general."
+    },
+    {
+      "chunk_uuid": "3d80dc9a-d848-5a84-a405-caf98e78a06d",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica la tributación de arriendos con opción de compra anteriores a 2016, diferenciando entre inmuebles amoblados y no amoblados."
+    },
+    {
+      "chunk_uuid": "c5efae2b-0225-5b98-b9f8-1aadcd88b4b6",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que el arriendo de inmuebles está afecto a IVA si son amoblados o tienen instalaciones para actividad comercial/industrial."
+    },
+    {
+      "chunk_uuid": "bed95ee4-9870-59bf-9897-8b0398fff1c7",
+      "relevance_grade": 3,
+      "justification": "Este fragmento establece claramente que el arriendo de inmuebles sin amoblar o instalaciones para actividad comercial no está afecto a IVA."
+    },
+    {
+      "chunk_uuid": "ef776d93-5d9c-54b8-8c4a-ecce088886e3",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en la venta de inmuebles y aportes a sociedades, no en arriendos."
+    },
+    {
+      "chunk_uuid": "ef32a93f-3b71-50ec-8a8a-4998b2932dc1",
+      "relevance_grade": 3,
+      "justification": "Explica que el arriendo de inmuebles está exento de IVA, salvo que estén amoblados."
+    },
+    {
+      "chunk_uuid": "a7fa9796-f4f3-58bb-b288-552bc499fd33",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la venta de terrenos y construcciones, no sobre arriendos."
+    },
+    {
+      "chunk_uuid": "98cb45ec-794d-5dd2-a2f0-dccab1b532e4",
+      "relevance_grade": 2,
+      "justification": "Indica que los arriendos con opción de compra están gravados con IVA si el vendedor soportó IVA."
+    },
+    {
+      "chunk_uuid": "04cb8618-d338-5559-8cf2-88f434fd3d0c",
+      "relevance_grade": 2,
+      "justification": "Establece que el arriendo de inmuebles está gravado con IVA si son amoblados o para actividad comercial."
+    },
+    {
+      "chunk_uuid": "e9a599c2-be1f-5081-a546-371efd6874ca",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de IVA en aportes y arriendos de inmuebles en el contexto de divisiones societarias, no el arriendo en general."
+    },
+    {
+      "chunk_uuid": "2f84d6d5-3a39-5512-a46d-7d5d511efeeb",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza la afectación a IVA del arriendo de boxes de estacionamiento, diferenciando casos y citando normativa relevante."
+    },
+    {
+      "chunk_uuid": "cf56f2e2-bf9c-524a-820a-ce4b059a1509",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la venta de inmuebles y la acreditación del pago de IVA, no en los casos de arriendo afecto a IVA."
+    },
+    {
+      "chunk_uuid": "d09e2958-a05c-5a64-a332-262d21078d2c",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica cuándo el arriendo de inmuebles amoblados está afecto a IVA y cómo se determina la base imponible."
+    },
+    {
+      "chunk_uuid": "f86e6b39-f8f2-50ff-8fd9-00d9fe54785b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la determinación de la base imponible del IVA en arriendos de inmuebles afectos a dicho impuesto."
+    },
+    {
+      "chunk_uuid": "34f8aee4-b9f4-5a3b-99a7-4fa24cf3684a",
+      "relevance_grade": 3,
+      "justification": "Explica que el arriendo de inmuebles está afecto a IVA si son amoblados o con instalaciones para actividad comercial."
+    },
+    {
+      "chunk_uuid": "a7444b1c-5ebb-55fd-8ca2-12f31cf3b98c",
+      "relevance_grade": 2,
+      "justification": "Aborda arriendos con opción de compra y ventas de inmuebles afectos a IVA, pero no el arriendo general."
+    },
+    {
+      "chunk_uuid": "98b11804-1fed-5c69-ab96-ef45af6c86a0",
+      "relevance_grade": 0,
+      "justification": "Se enfoca en el Impuesto Territorial y operaciones de leaseback, no en el IVA del arriendo."
+    },
+    {
+      "chunk_uuid": "9827fbeb-4e9b-5b55-9e1d-55a6c3f7ce59",
+      "relevance_grade": 1,
+      "justification": "Trata la venta de inmuebles y excepciones transitorias al IVA, no el arriendo."
+    },
+    {
+      "chunk_uuid": "344342a1-d0f7-5db8-8aab-1bbd17bebd42",
+      "relevance_grade": 3,
+      "justification": "Indica que el arriendo no está gravado con IVA si el inmueble carece de muebles o instalaciones."
+    },
+    {
+      "chunk_uuid": "b1eafbfe-3aab-5300-9c0d-d30d165df125",
+      "relevance_grade": 1,
+      "justification": "Este fragmento explica el IVA como un impuesto de traslación y las operaciones gravadas, pero no aborda directamente el arriendo de inmuebles."
+    },
+    {
+      "chunk_uuid": "5b1a0d3d-4009-54ba-9b65-a49b3c00d699",
+      "relevance_grade": 3,
+      "justification": "Este fragmento define cuándo el arrendamiento de inmuebles está afecto a IVA, especificando inmuebles amoblados o con instalaciones para actividad comercial."
+    },
+    {
+      "chunk_uuid": "9c416e5c-8dd7-505f-a2f7-4de48db093c5",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la venta de inmuebles y la presunción de habitualidad para efectos del IVA, no sobre arriendos."
+    },
+    {
+      "chunk_uuid": "2449f3d5-8c56-5e1e-9243-a91996cb6a3f",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica cómo calcular el IVA en arriendos de inmuebles amoblados, mencionando la base imponible y la deducción del avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "cacfb6e4-5c10-5b61-a935-8b04805e2d01",
+      "relevance_grade": 3,
+      "justification": "Este fragmento consulta y analiza si el arriendo de un local comercial con instalaciones está afecto a IVA, según la normativa vigente."
+    },
+    {
+      "chunk_uuid": "a3fca599-7c26-5fc6-bf8f-b5f43233dd07",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la aplicación del IVA a arriendos, mencionando que no todo arriendo está afecto, solo los amoblados."
+    },
+    {
+      "chunk_uuid": "59f7cce0-6cd6-52d0-b6a3-b1a980f4e2d6",
+      "relevance_grade": 1,
+      "justification": "Este fragmento se enfoca en la venta de inmuebles afectos a IVA y la emisión de facturas, no en arriendos."
+    },
+    {
+      "chunk_uuid": "01b2eb6a-b50f-573d-ba78-df4e220b645e",
+      "relevance_grade": 3,
+      "justification": "Este fragmento explica que el arrendamiento de inmuebles sin instalaciones no está afecto a IVA."
+    },
+    {
+      "chunk_uuid": "b958c7bf-e134-5683-98cb-bb029808d354",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la aplicación del IVA a la venta de inmuebles, excluyendo los terrenos, y menciona arriendos con opción de compra."
+    },
+    {
+      "chunk_uuid": "1790c0d2-a8b4-529d-adea-831ced53c847",
+      "relevance_grade": 3,
+      "justification": "Explica que el arriendo de inmuebles no amoblados no está afecto a IVA, salvo que cuenten con instalaciones para actividad comercial."
+    },
+    {
+      "chunk_uuid": "3000de8c-b834-5cc5-8230-0febeb34d76d",
+      "relevance_grade": 2,
+      "justification": "Detalla las hipótesis del artículo 8° letra g) de la Ley de IVA y cuándo el arriendo de inmuebles se considera gravado."
+    },
+    {
+      "chunk_uuid": "a3f8c5d7-bb91-52b7-a598-58836a5fb843",
+      "relevance_grade": 2,
+      "justification": "Establece que el arriendo de inmuebles está exento de IVA, salvo que estén amoblados o cuenten con instalaciones para actividad comercial."
+    },
+    {
+      "chunk_uuid": "fd041a31-3733-5e18-8cd8-148bbc3fe4b5",
+      "relevance_grade": 2,
+      "justification": "Indica que el arriendo de un terreno sin edificar no está afecto a IVA, a menos que se construyan instalaciones comerciales."
+    },
+    {
+      "chunk_uuid": "a33080a1-c544-5b31-9883-e7b7b595c073",
+      "relevance_grade": 2,
+      "justification": "Aclara que la presencia de muebles o instalaciones determina el hecho gravado, no el destino del inmueble arrendado."
+    },
+    {
+      "chunk_uuid": "a75e564f-cafc-57fb-bff9-be3fdc91341b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento indica que el arriendo está gravado con IVA si existen instalaciones o muebles, y que la verificación en terreno es clave."
+    },
+    {
+      "chunk_uuid": "dba7fb53-924c-5374-a780-fd261bb6b44b",
+      "relevance_grade": 3,
+      "justification": "Explica que el arriendo está gravado si hay muebles o instalaciones, independientemente del uso, y detalla la deducción del 11% del avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "bd10827f-5cdb-57c5-bfc0-b0f6f51ab5c4",
+      "relevance_grade": 3,
+      "justification": "Confirma que el arriendo de inmuebles amoblados se afecta con IVA según el Art. 8 letra g) y explica la rebaja del 11% del avalúo fiscal."
+    },
+    {
+      "chunk_uuid": "cc6a4ea9-0c34-5e4b-8c30-4894623b48b0",
+      "relevance_grade": 3,
+      "justification": "Cita el Art. 8 letra g) indicando que el arriendo de inmuebles amoblados o con instalaciones está gravado con IVA y explica el cálculo de la base imponible."
+    }
+  ]
+}

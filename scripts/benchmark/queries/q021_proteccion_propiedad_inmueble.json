@@ -1,0 +1,5 @@
+{
+  "query_id": "q021",
+  "query_text": "Recurso de protección por afectación al derecho de propiedad sobre inmueble",
+  "notas": "Cubre el área 'recursos sobre bienes raíces'. Discrimina bien entre técnicas: las tres BM25 dominan por mean_grade@10 (P2_BM25 gana con 2.60), mientras las tres TF-IDF clavan el #1 pero colapsan al profundizar. baseline_qdrant_bm25 fracasa estrepitosamente (P@10 = 0), evidenciando que el motor en producción del cliente rankea peor que las alternativas propuestas. 1 judgment corregido manualmente: chunk 106b1435 quedó como parse error (-1) en la corrida automática del LLM; tras inspeccionar contenido se le asignó grado 0 (convenio SII-Diario Oficial sobre intercambio de información, falso positivo léxico por la palabra 'protección'). Ganadora top-10 mean_grade: p2_bm25 (2.60)."
+}

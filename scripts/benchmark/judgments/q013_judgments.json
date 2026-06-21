@@ -1,0 +1,348 @@
+{
+  "query_id": "q013",
+  "query_text": "Crédito fiscal del IVA en los gastos de administración de un edificio",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:13Z",
+  "judgments": [
+    {
+      "chunk_uuid": "1763d277-ce4b-53ef-9da5-1c585c49acdf",
+      "relevance_grade": 2,
+      "justification": "Explica el concepto de crédito fiscal del IVA y su aplicación a gastos generales o de destino común."
+    },
+    {
+      "chunk_uuid": "d7e39a27-ed00-5260-b6ea-d6f7c95d76b2",
+      "relevance_grade": 2,
+      "justification": "Menciona créditos fiscales IVA no acreditados y su relación con artículos de la Ley sobre Impuesto a las Ventas y Servicios."
+    },
+    {
+      "chunk_uuid": "2112426d-486c-5394-aabc-743fa4466a7d",
+      "relevance_grade": 2,
+      "justification": "Detalla el uso del IVA recargado en facturas de compra como crédito fiscal y su recuperación."
+    },
+    {
+      "chunk_uuid": "cac5097a-4114-5af9-9122-8d0c01a0ac6f",
+      "relevance_grade": 1,
+      "justification": "Aborda la recuperación de crédito fiscal del IVA en el contexto de exportaciones de servicios y transporte internacional."
+    },
+    {
+      "chunk_uuid": "9fb13b41-2c4d-5f3c-bd4a-852c9c0441ef",
+      "relevance_grade": 3,
+      "justification": "Analiza el derecho a crédito fiscal por construcción de inmuebles y su destino a operaciones gravadas o no gravadas."
+    },
+    {
+      "chunk_uuid": "7cb70fcf-ab5e-5a80-aa08-49eef147fcbd",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda el uso del crédito fiscal del IVA por parte de un fondo de inversiones y su representante."
+    },
+    {
+      "chunk_uuid": "a479e116-f038-5154-b6c6-1e046e3d8dcb",
+      "relevance_grade": 2,
+      "justification": "Esta sentencia discute la improcedencia de créditos fiscales IVA por operaciones no relacionadas con el giro del contribuyente."
+    },
+    {
+      "chunk_uuid": "8d189086-3fee-5374-a476-5f55f4a2610c",
+      "relevance_grade": 3,
+      "justification": "Este oficio consulta sobre la procedencia del crédito fiscal IVA en la construcción de un inmueble comercial."
+    },
+    {
+      "chunk_uuid": "0cf2663e-729e-5c05-a477-fd47f7a8ea43",
+      "relevance_grade": 2,
+      "justification": "Este oficio trata sobre la venta de inmuebles construidos y su gravamen con IVA, afectando el crédito fiscal."
+    },
+    {
+      "chunk_uuid": "82203637-ac0e-5c31-b8ce-7dcfa64cab6f",
+      "relevance_grade": 2,
+      "justification": "Esta resolución detalla el uso y recuperación del crédito fiscal IVA en operaciones específicas y sus requisitos."
+    },
+    {
+      "chunk_uuid": "b904e66d-e094-5b52-a58f-272a60a48fd1",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el derecho al crédito fiscal del IVA y su deducibilidad como gasto si no es recuperable."
+    },
+    {
+      "chunk_uuid": "aca00c4b-54ef-5114-b7e9-90a1efb0e228",
+      "relevance_grade": 1,
+      "justification": "Aborda la recuperación proporcional del crédito fiscal del IVA y la no sujeción a IVA de ciertos honorarios."
+    },
+    {
+      "chunk_uuid": "a100b832-8614-5f37-8a13-55e45425c0fa",
+      "relevance_grade": 2,
+      "justification": "Explica el derecho al crédito fiscal del IVA y su imputación contra débitos fiscales, término de giro y exportación."
+    },
+    {
+      "chunk_uuid": "18869f84-1b24-5338-a66e-345a0c991e4c",
+      "relevance_grade": 2,
+      "justification": "Analiza la situación de un crédito fiscal IVA no recuperable en el contexto de arriendo de inmuebles sin muebles."
+    },
+    {
+      "chunk_uuid": "ad85c260-d1e7-5bd5-aead-0abb108246db",
+      "relevance_grade": 1,
+      "justification": "Detalla la exclusión del crédito fiscal IVA en donaciones y su proporcionalidad, no directamente relacionado con gastos de administración."
+    },
+    {
+      "chunk_uuid": "f471291c-b860-5413-9775-b53c599e449e",
+      "relevance_grade": 2,
+      "justification": "Este oficio explica el derecho a crédito fiscal de IVA en la compra de bienes raíces destinados al activo fijo."
+    },
+    {
+      "chunk_uuid": "f9dfeba9-86e5-5203-865c-57621aedccef",
+      "relevance_grade": 2,
+      "justification": "Esta resolución detalla requisitos para el crédito fiscal del IVA soportado en adquisición y construcción de inmuebles."
+    },
+    {
+      "chunk_uuid": "3baf3966-57c3-55cf-bc4f-1540d092ceaf",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda el crédito fiscal de IVA en arrendamiento de inmuebles y la devolución de remanentes."
+    },
+    {
+      "chunk_uuid": "000a732d-db9d-50fd-a73e-0ee9a9328840",
+      "relevance_grade": 0,
+      "justification": "Este documento trata sobre la prueba en materia de inversiones y gastos de vida, no sobre crédito fiscal de IVA."
+    },
+    {
+      "chunk_uuid": "c333ebc6-23d2-58ea-8287-0a62d1d0cb59",
+      "relevance_grade": 2,
+      "justification": "Este oficio aclara que la distribución de gastos comunes no es hecho gravado y el IVA no es crédito fiscal para la empresa administradora."
+    },
+    {
+      "chunk_uuid": "c9b351b4-408c-5fb8-a704-52547c03832f",
+      "relevance_grade": 2,
+      "justification": "Este fragmento detalla la determinación del crédito fiscal mensual y su contabilización, incluyendo ejemplos de IVA soportado en compras y servicios."
+    },
+    {
+      "chunk_uuid": "c2339faa-c171-5811-a208-7fe51007d022",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica el uso del crédito fiscal en casos de retención de IVA y el procedimiento para solicitar devoluciones."
+    },
+    {
+      "chunk_uuid": "a84775b5-c3a2-585d-8e4c-d039ca0e6b68",
+      "relevance_grade": 2,
+      "justification": "Este fragmento describe la contabilización de la cuenta Crédito Fiscal IVA y su imputación al débito fiscal."
+    },
+    {
+      "chunk_uuid": "000747e9-ec82-5966-be30-5b364cfe946d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento trata sobre el IVA en el arrendamiento de estacionamientos, un servicio relacionado con edificios."
+    },
+    {
+      "chunk_uuid": "49924a36-5309-52e1-a980-91d6ce92bc4c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento analiza el efecto de las notas de crédito en el crédito fiscal y la Renta Líquida Imponible."
+    },
+    {
+      "chunk_uuid": "bdde3d70-2119-5dbc-ba9e-cb9ac411eac6",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute la recuperabilidad del crédito fiscal del IVA y su vinculación con operaciones gravadas o exentas."
+    },
+    {
+      "chunk_uuid": "9d8777bc-23f6-5173-84d3-ea11fe7ab390",
+      "relevance_grade": 2,
+      "justification": "Aborda la utilización del IVA como crédito fiscal y su tratamiento como gasto cuando no es recuperable."
+    },
+    {
+      "chunk_uuid": "9dd9d787-853c-5008-9adb-bd6ad2e9f2a3",
+      "relevance_grade": 2,
+      "justification": "Explica que el IVA soportado en importaciones no da derecho a crédito fiscal si no cumple requisitos."
+    },
+    {
+      "chunk_uuid": "3e19681c-ae5e-5843-aaeb-af431c56d9eb",
+      "relevance_grade": 2,
+      "justification": "Trata sobre el uso del crédito fiscal IVA sin la debida documentación de respaldo y su rechazo."
+    },
+    {
+      "chunk_uuid": "024f4d3c-448f-5bb9-aee9-bb3931d67d49",
+      "relevance_grade": 2,
+      "justification": "Analiza la aplicación del ajuste del crédito fiscal IVA en la construcción y arriendo de inmuebles."
+    },
+    {
+      "chunk_uuid": "2c88dea6-b581-5854-9fac-d3b29e9fa9fd",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute la devolución de IVA pagado en exceso por no registrarlo como crédito fiscal oportunamente."
+    },
+    {
+      "chunk_uuid": "6dd42e16-e458-5bec-9a8c-222ccd5e91c9",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda los requisitos para el uso del crédito fiscal IVA, incluyendo facturas falsas o no fidedignas."
+    },
+    {
+      "chunk_uuid": "a470a128-0a3a-5211-858c-2e5bd5407bec",
+      "relevance_grade": 2,
+      "justification": "Este oficio analiza la deducibilidad como gasto del remanente de crédito fiscal IVA irrecuperable."
+    },
+    {
+      "chunk_uuid": "83df982a-63a5-580f-b7cb-49e263027d1a",
+      "relevance_grade": 2,
+      "justification": "Esta jurisprudencia trata sobre la correcta determinación del crédito fiscal IVA y su uso en operaciones afectas y exentas."
+    },
+    {
+      "chunk_uuid": "8b77771e-eaf6-5f47-938b-dfd17967a74b",
+      "relevance_grade": 1,
+      "justification": "Esta circular detalla los bienes y servicios que dan derecho a crédito fiscal IVA en la actividad agrícola."
+    },
+    {
+      "chunk_uuid": "00045cfe-6533-59b7-8c42-e4b5b3814834",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la clasificación de bienes raíces y avalúos fiscales, no sobre el crédito fiscal del IVA en gastos de administración."
+    },
+    {
+      "chunk_uuid": "93f12d5e-6a15-509a-b913-39c961b383b4",
+      "relevance_grade": 3,
+      "justification": "Este oficio explica el derecho a crédito fiscal del IVA por adquisición de bienes y servicios destinados a formar parte del activo fijo o gastos generales."
+    },
+    {
+      "chunk_uuid": "551bdd07-c2b8-541d-a0df-025f7859b507",
+      "relevance_grade": 2,
+      "justification": "Este oficio aborda el derecho a crédito fiscal del IVA para vendedores habituales de inmuebles, incluyendo gastos de reparación y mejora."
+    },
+    {
+      "chunk_uuid": "7e866d60-912a-5c46-b8c0-64fa3f0e852b",
+      "relevance_grade": 2,
+      "justification": "Esta resolución detalla el cálculo del IVA crédito fiscal para contribuyentes acogidos a régimen simplificado, incluyendo compras de su giro."
+    },
+    {
+      "chunk_uuid": "c17b2e86-b355-5c93-9b0b-38475c5ae8a5",
+      "relevance_grade": 1,
+      "justification": "Este oficio consulta sobre un crédito tributario específico (Ley Austral) para la construcción de un edificio, no sobre el crédito fiscal del IVA general."
+    },
+    {
+      "chunk_uuid": "0d91f331-ebb7-58e3-b754-6be79d664270",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el uso del crédito fiscal del IVA en bienes de uso común y la proporcionalidad, relevante para gastos de administración."
+    },
+    {
+      "chunk_uuid": "829cd1c0-42f0-512f-bbaa-3d79a3999a04",
+      "relevance_grade": 2,
+      "justification": "Analiza el derecho a crédito fiscal IVA en la construcción de edificios y su asignación posterior, tocando indirectamente gastos de administración."
+    },
+    {
+      "chunk_uuid": "8aa306be-920f-5007-b87b-65a798d32e8a",
+      "relevance_grade": 2,
+      "justification": "Aborda el crédito fiscal IVA en la construcción de un edificio para arrendamiento, lo cual se relaciona con gastos de administración."
+    },
+    {
+      "chunk_uuid": "04e23f16-b5b6-501c-81a5-d202f1f4608b",
+      "relevance_grade": 1,
+      "justification": "Explica las reglas generales para el crédito fiscal IVA y su recuperación, pero no se enfoca en gastos de administración de edificios."
+    },
+    {
+      "chunk_uuid": "c1b44e57-2448-585c-823b-24c1f0fa3c6c",
+      "relevance_grade": 1,
+      "justification": "Trata sobre la devolución de remanentes de crédito fiscal IVA por adquisición de activos fijos, no directamente sobre gastos de administración."
+    },
+    {
+      "chunk_uuid": "c525591f-8e37-5f92-8f92-a8b9eeac217f",
+      "relevance_grade": 1,
+      "justification": "Este fragmento detalla el uso del crédito fiscal IVA en facturas de compra y su recuperación, pero no aborda específicamente los gastos de administración de un edificio."
+    },
+    {
+      "chunk_uuid": "c8b7dd6b-0986-5f2c-b25b-22f167019ca3",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el crédito fiscal originado en la construcción de un inmueble y su asignación a una nueva sociedad, tocando tangencialmente el tema de gastos generales."
+    },
+    {
+      "chunk_uuid": "731974da-7333-56e7-9ba5-5c5e63306d09",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la procedencia del crédito fiscal IVA en la construcción de inmuebles y su uso, pero no se enfoca en los gastos de administración."
+    },
+    {
+      "chunk_uuid": "a6dc5f36-d7c3-5549-86d6-23458bf1b0de",
+      "relevance_grade": 2,
+      "justification": "Aborda el crédito fiscal del IVA en un edificio y cuándo procede según el hecho gravado; útil pero no trata los gastos de administración. [corregido manualmente: parse error del juez (-1); juzgado a criterio con la misma rúbrica]"
+    },
+    {
+      "chunk_uuid": "842e82a4-31e1-561b-8022-4c6f9f57c61a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute el tratamiento tributario del IVA irrecuperable y su consideración como gasto, lo cual es relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "c1c3893d-d0ce-5afc-8793-661ac5686d04",
+      "relevance_grade": 2,
+      "justification": "Aborda el derecho al uso del crédito fiscal IVA en adquisiciones y desembolsos que constituyen gasto, relacionado con la administración de fondos."
+    },
+    {
+      "chunk_uuid": "7198ead5-5061-5073-924d-eea5f89a4ddf",
+      "relevance_grade": 2,
+      "justification": "Explica que el reembolso de gastos impide el uso del crédito fiscal del IVA en la parte reembolsada, lo cual es pertinente."
+    },
+    {
+      "chunk_uuid": "5e4b1e79-5e31-5e9d-90ba-50bd3498a144",
+      "relevance_grade": 2,
+      "justification": "Trata sobre la admisibilidad del crédito fiscal IVA en gastos generales relacionados con el giro del contribuyente, aplicable a la consulta."
+    },
+    {
+      "chunk_uuid": "bd53c13a-9640-5efc-9368-90a1928d0a79",
+      "relevance_grade": 2,
+      "justification": "Detalla el tratamiento del IVA recargado en gastos de capacitación, incluyendo su consideración como crédito fiscal o gasto, relevante para la consulta."
+    },
+    {
+      "chunk_uuid": "3695da4c-299c-54fd-9c20-b62d8aff9172",
+      "relevance_grade": 1,
+      "justification": "El fragmento discute la procedencia del crédito fiscal del IVA en gastos de vehículos, lo cual es tangencialmente relevante para gastos de administración de un edificio."
+    },
+    {
+      "chunk_uuid": "6120f8b6-5e58-5e56-b0b7-116b4ade2df0",
+      "relevance_grade": 2,
+      "justification": "Explica que el IVA de arriendos de inmuebles es crédito fiscal si el gasto es necesario para la renta."
+    },
+    {
+      "chunk_uuid": "d7a0be8b-10ca-5dfc-996d-015eb3797d6e",
+      "relevance_grade": 2,
+      "justification": "Discute si los servicios de administración de edificios constituyen un hecho gravado con IVA."
+    },
+    {
+      "chunk_uuid": "aab2ac8f-051a-5733-afeb-54862e3cec41",
+      "relevance_grade": 2,
+      "justification": "Aborda la devolución de remanentes de crédito fiscal, incluyendo compras relacionadas con un edificio de oficinas."
+    },
+    {
+      "chunk_uuid": "3b4eaf61-e322-5728-bb92-0698f0b21f17",
+      "relevance_grade": 3,
+      "justification": "Establece que el IVA soportado en arrendamiento de inmuebles destinados a la actividad es crédito fiscal."
+    },
+    {
+      "chunk_uuid": "eedd130e-22be-5d61-a9fb-36ee8a32807b",
+      "relevance_grade": 2,
+      "justification": "Indica que el IVA de gastos generales a nombre del Condominio no es crédito fiscal para este."
+    },
+    {
+      "chunk_uuid": "d20ad1fa-1f8e-504c-8ddf-cf2aafedea06",
+      "relevance_grade": 3,
+      "justification": "Este oficio aborda directamente la aplicación del IVA a los servicios de administración de condominios y gastos comunes."
+    },
+    {
+      "chunk_uuid": "808acaf7-ac20-5615-b4b7-25722f42813a",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica el fundamento del crédito fiscal del IVA y su relación con las actividades gravadas y exentas."
+    },
+    {
+      "chunk_uuid": "81c29f7d-4ece-5034-babc-96c68107cf19",
+      "relevance_grade": 2,
+      "justification": "Este oficio discute la utilización del crédito fiscal del IVA en la construcción de un local comercial sobre terrenos arrendados."
+    },
+    {
+      "chunk_uuid": "1b572565-56dd-597b-9474-6ca8d09c944f",
+      "relevance_grade": 3,
+      "justification": "Este oficio analiza si el servicio de administración de edificios está afecto a IVA, detallando sus componentes."
+    },
+    {
+      "chunk_uuid": "ca5ce6ff-8741-56ba-8f15-2e3652ed3aca",
+      "relevance_grade": 3,
+      "justification": "Este oficio reitera la tributación con IVA del servicio de administración de edificios, basándose en uno anterior."
+    },
+    {
+      "chunk_uuid": "8e812f6f-ef4a-5e9e-9c24-2767c40b71df",
+      "relevance_grade": 2,
+      "justification": "Este fragmento explica las reglas de proporcionalidad del crédito fiscal del IVA para operaciones gravadas y exentas."
+    },
+    {
+      "chunk_uuid": "86e341aa-702e-5c83-83b8-6cd6d0174acd",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el derecho a crédito fiscal del IVA y los plazos para su imputación y rectificación."
+    },
+    {
+      "chunk_uuid": "26cd6b63-599f-57bb-b020-2c706994ea65",
+      "relevance_grade": 2,
+      "justification": "Este fragmento trata sobre el remanente de crédito fiscal de IVA y su devolución en el contexto de arriendos exentos."
+    }
+  ]
+}

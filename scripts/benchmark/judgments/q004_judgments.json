@@ -1,0 +1,398 @@
+{
+  "query_id": "q004",
+  "query_text": "Subarriendo sin autorización del arrendador consecuencias",
+  "model": "gemini-2.5-flash-lite",
+  "judged_at": "2026-06-16T02:54:03Z",
+  "judgments": [
+    {
+      "chunk_uuid": "2fc68f35-0145-5a4d-9185-7f2ddf701042",
+      "relevance_grade": 0,
+      "justification": "Este fragmento del Código Civil no aborda las consecuencias del subarriendo sin autorización del arrendador."
+    },
+    {
+      "chunk_uuid": "3000de8c-b834-5cc5-8230-0febeb34d76d",
+      "relevance_grade": 1,
+      "justification": "Este oficio menciona el subarriendo en el contexto del IVA, pero no las consecuencias legales del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "8fa2c91c-ec88-5065-a208-137b7c8074c3",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código Civil trata sobre la indemnización al arrendatario y la expulsión, no sobre subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "cfbae878-5fde-5346-a662-064ac54c0891",
+      "relevance_grade": 1,
+      "justification": "Este oficio menciona el subarriendo en relación al IVA, pero no las consecuencias de realizarlo sin autorización del arrendador."
+    },
+    {
+      "chunk_uuid": "2531d133-b79e-5cc0-9331-ba6108829ec5",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la disminución de capital y autorización del SII, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "a688314c-5073-58bc-a1cd-1ea62c07067a",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere al IVA en arriendos de vehículos y no aborda el subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "329ae677-157f-5a1c-be7c-fa7aafdc7b5b",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código de Procedimiento Civil no se relaciona con las consecuencias del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "439a83d7-7e87-536a-8802-037bd7b3d289",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código Civil trata sobre reparaciones y no sobre subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "a30196f4-4615-5bf7-af4a-0c3db07ffea1",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código Procesal Penal trata sobre autorización judicial y no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "3dd58a4c-696c-5c76-92b8-fa6c1147cda9",
+      "relevance_grade": 0,
+      "justification": "Esta resolución delega facultades sobre contratos de arrendamiento, pero no aborda las consecuencias del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "bf8f6e65-ca7e-5324-9877-de9c30428659",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre exenciones tributarias y no tiene relación con subarriendos."
+    },
+    {
+      "chunk_uuid": "72f6c228-c1af-5d38-89dd-fc4243fbbd7d",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute la tributación de arriendos agrícolas y no agrícolas, pero no el subarriendo."
+    },
+    {
+      "chunk_uuid": "777f1fce-0701-54f6-8b29-8e96c7c0f793",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el subarriendo en el contexto de ingresos de una fundación y su tributación."
+    },
+    {
+      "chunk_uuid": "8e0a8b5d-2f2f-59f1-b703-149f862c1f83",
+      "relevance_grade": 3,
+      "justification": "Este fragmento analiza un contrato de subarrendamiento y su tributación bajo la LIR y el IVA."
+    },
+    {
+      "chunk_uuid": "14a5a886-29dc-5709-8e51-d62510029b18",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código Civil se refiere a la acción de terceros sobre la cosa arrendada, no al subarriendo."
+    },
+    {
+      "chunk_uuid": "d8b14e33-6758-5984-8e8d-e2636eec20a0",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código Civil define qué cosas son susceptibles de arrendamiento, no el subarriendo."
+    },
+    {
+      "chunk_uuid": "d5b56c63-bb3f-5d1f-8fa0-0992fc79bcc0",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda la emisión de facturas en casos de subarriendo y su relación con el IVA."
+    },
+    {
+      "chunk_uuid": "ce8e03b8-d331-5642-9b16-709316417c24",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona que los arrendatarios autorizados para subarrendar deben exhibir el contrato de arrendamiento."
+    },
+    {
+      "chunk_uuid": "6a8205e6-a722-57d1-b19c-50c5cd6b9378",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el subarriendo en el contexto de ferias y el pago de IVA sobre el canon de arriendo o subarriendo."
+    },
+    {
+      "chunk_uuid": "934d9be3-94f2-5065-9fb9-d5792475d461",
+      "relevance_grade": 1,
+      "justification": "Este fragmento compara el leasing con el arrendamiento y menciona que el arrendatario puede subarrendar."
+    },
+    {
+      "chunk_uuid": "5cf6180e-f5b3-5d5c-bcf2-11f7baeb4645",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el tratamiento tributario de las mejoras realizadas por el arrendatario, no el subarriendo."
+    },
+    {
+      "chunk_uuid": "805ad7dc-2180-5f5b-a947-a942a1507dac",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se enfoca en las mejoras y su tributación, no en las consecuencias del subarriendo."
+    },
+    {
+      "chunk_uuid": "0e8f4f2e-58f7-5fc5-a742-67606120851c",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el subarriendo en el contexto de equipamiento médico y define el arrendamiento, pero no sus consecuencias."
+    },
+    {
+      "chunk_uuid": "701be697-97b3-5a0c-94dc-70456cc240d7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la acreditación de posesión o autorización de uso de bienes, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "40a4dcfa-d23c-5938-9d7d-7b9b92fa8baf",
+      "relevance_grade": 0,
+      "justification": "Este fragmento detalla las obligaciones del arrendador respecto a reparaciones, sin abordar el subarriendo."
+    },
+    {
+      "chunk_uuid": "d3aa28da-c883-55fd-b5ed-3a6a4b9f66a9",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el contrato de subarriendo como requisito para trámites fiscales, pero no sus consecuencias."
+    },
+    {
+      "chunk_uuid": "9591439f-99be-54bd-a496-a6208e7638d1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a arrendamientos de predios ganaderos y regímenes tributarios, no al subarriendo."
+    },
+    {
+      "chunk_uuid": "9bda6702-24a0-5e25-9a4c-d8b4840d0ea5",
+      "relevance_grade": 1,
+      "justification": "Este artículo define las obligaciones del arrendatario sobre el uso de la cosa, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "edd39e62-5743-5c24-8951-8d2ed124077f",
+      "relevance_grade": 0,
+      "justification": "Este artículo trata sobre la imposibilidad del arrendador de terminar el arriendo por necesidad propia, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "4786d0d1-1460-5e2a-bb22-edaa85b765ea",
+      "relevance_grade": 0,
+      "justification": "Este fragmento explica cómo otorgar y revocar autorizaciones a terceros para trámites en línea, sin relación con subarriendo."
+    },
+    {
+      "chunk_uuid": "01322ef8-d843-5e18-8260-03aaa1436b72",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la tributación del impuesto territorial en el arrendamiento, no sobre las consecuencias del subarriendo."
+    },
+    {
+      "chunk_uuid": "043346b9-1d9d-5774-b46e-fa8c2cb0a948",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a autorizaciones del Servicio de Impuestos Internos para exenciones tributarias, no al subarriendo."
+    },
+    {
+      "chunk_uuid": "06ec1b52-0721-5032-85e2-e5798680d9b2",
+      "relevance_grade": 1,
+      "justification": "Menciona la figura del subarrendador en el contexto de una empresa inmobiliaria, pero no aborda las consecuencias legales del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "8a87f3b2-8cfc-500a-b223-e7281a026ed9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el pago del impuesto territorial y las condiciones suspensivas en un contrato de arrendamiento, sin relación con el subarriendo."
+    },
+    {
+      "chunk_uuid": "faffd4b9-f03e-5d5c-9a63-74b753c01723",
+      "relevance_grade": 0,
+      "justification": "Trata sobre la deducción de gastos de vehículos y la autorización del SII, sin relación con el subarriendo."
+    },
+    {
+      "chunk_uuid": "bd81bce5-cfc5-53e6-a47c-72674be3a960",
+      "relevance_grade": 0,
+      "justification": "Este oficio se enfoca en el tratamiento tributario de construcciones realizadas por el arrendatario y el gasto diferido, no en el subarriendo."
+    },
+    {
+      "chunk_uuid": "3d9dd74a-ad06-5424-b7c9-0e7a0bc2f5cb",
+      "relevance_grade": 0,
+      "justification": "Este artículo del Código Civil establece las obligaciones del arrendador, no las consecuencias del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "628f0d16-a243-5ce4-ac6f-1d5f11ef9bfe",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre la salida de menores del país y autorizaciones judiciales, sin relación con el subarriendo."
+    },
+    {
+      "chunk_uuid": "6f1e2518-bce1-508e-845b-1517fa3765f3",
+      "relevance_grade": 1,
+      "justification": "Este oficio analiza la aplicación del IVA al subarriendo de semovientes, no las consecuencias del subarriendo de inmuebles sin autorización."
+    },
+    {
+      "chunk_uuid": "aedc54e3-c03a-5ec6-bf51-2eeb397783e2",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda la tributación del IVA en arrendamientos con opción de compra, no las consecuencias del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "1412baae-560f-5367-b06c-1b1607cfafcb",
+      "relevance_grade": 2,
+      "justification": "Menciona el subarriendo en el contexto de un contrato de leasing habitacional y sus consecuencias en caso de no pago."
+    },
+    {
+      "chunk_uuid": "47d81b2c-b2d9-5b24-b0f3-07852d3051cd",
+      "relevance_grade": 2,
+      "justification": "Aborda el subarrendamiento en el contexto de la obligación de iniciar actividades y la tributación del IVA."
+    },
+    {
+      "chunk_uuid": "5fcca24a-193f-594c-9ef3-906bd0d64820",
+      "relevance_grade": 0,
+      "justification": "Fragmento irrelevante, se enfoca en la base imponible del IVA y no en el subarriendo."
+    },
+    {
+      "chunk_uuid": "1bebbe5d-dc69-5543-8b14-80aeb39df374",
+      "relevance_grade": 0,
+      "justification": "Fragmento irrelevante, trata sobre notificaciones electrónicas y no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "08d0d3a0-17b4-5a19-acb1-cc2c7df89287",
+      "relevance_grade": 0,
+      "justification": "Fragmento irrelevante, se refiere al derecho de retención del arrendador y no al subarriendo."
+    },
+    {
+      "chunk_uuid": "b19c2d06-c299-562b-8207-cd021ca430b9",
+      "relevance_grade": 2,
+      "justification": "Menciona el subarriendo con opción de compra en el contexto de ingresos de una fundación y su tributación."
+    },
+    {
+      "chunk_uuid": "5bcec9f0-b46f-519d-8a02-0451543035de",
+      "relevance_grade": 2,
+      "justification": "Distingue la cesión de contrato del subcontrato, mencionando que este último es un hecho gravado especial."
+    },
+    {
+      "chunk_uuid": "00e5fc62-ee67-5d27-acbd-81331115ab73",
+      "relevance_grade": 0,
+      "justification": "Fragmento irrelevante, trata sobre la extinción del derecho del arrendador y no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "15e34312-043d-523c-a786-bf7429077ca8",
+      "relevance_grade": 0,
+      "justification": "El fragmento se refiere exclusivamente a la tributación de contratos de arrendamiento de bienes de capital importados y la autorización del Banco Central de Chile en dicho contexto. No aborda en absoluto las consecuencias legales del subarriendo sin autorización del arrendador, que es el tema de la consulta."
+    },
+    {
+      "chunk_uuid": "176db275-cc99-5d09-96af-95dfd0841bfb",
+      "relevance_grade": 0,
+      "justification": "Fragmento irrelevante, trata sobre la inscripción de locales para almacenamiento de tabaco."
+    },
+    {
+      "chunk_uuid": "7fe5c955-5315-5a38-90de-df5286e6e9e8",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute el IVA en arrendamientos con opción de compra, no el subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "bb5d06b7-dcfb-5536-8399-d6417ed82cbf",
+      "relevance_grade": 0,
+      "justification": "Este oficio se centra en el tratamiento del IVA para arrendamientos de terrenos con instalaciones, no en subarriendos."
+    },
+    {
+      "chunk_uuid": "995bdad1-890a-512b-9477-819c8feba018",
+      "relevance_grade": 1,
+      "justification": "Menciona el subarriendo como un efecto de utilidad, pero no aborda las consecuencias legales o contractuales."
+    },
+    {
+      "chunk_uuid": "5efcfbe2-2959-50dc-bb35-fc4251a0895b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre contratos de leasing y su tratamiento tributario, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "32cbf7fa-4fa7-55e6-a346-5f0e2147a7ae",
+      "relevance_grade": 1,
+      "justification": "Este oficio menciona ingresos por subarriendo con opción de compra, pero no las consecuencias del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "2c94ebb1-b47a-5ed3-bc9d-21356cef02b1",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre préstamos de socios a sociedades y su tratamiento tributario, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "7238b923-9a5f-563f-b44b-710c69a14075",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a exenciones de impuestos a donaciones, sin relación con el subarriendo."
+    },
+    {
+      "chunk_uuid": "722cdfab-8f91-5c43-ac07-60d6405191b3",
+      "relevance_grade": 0,
+      "justification": "Este fragmento del Código Penal trata sobre inducción al suicidio, irrelevante para la consulta."
+    },
+    {
+      "chunk_uuid": "4857b2bb-58eb-5a29-a7cd-07d7fbe375b7",
+      "relevance_grade": 0,
+      "justification": "Este fragmento de la Ley 20551 trata sobre cierre de faenas mineras, irrelevante para la consulta."
+    },
+    {
+      "chunk_uuid": "a1948596-7af3-57bd-b665-cfff5e49e929",
+      "relevance_grade": 0,
+      "justification": "Este oficio aborda la elusión tributaria en reorganizaciones empresariales, no el subarriendo."
+    },
+    {
+      "chunk_uuid": "96a5468d-cbb7-5eeb-9a2a-39cd5fea9f60",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre malicia tributaria y no aborda el subarriendo sin autorización del arrendador."
+    },
+    {
+      "chunk_uuid": "cdfb3ed9-c9ae-5130-966a-aaa4ca8962f4",
+      "relevance_grade": 0,
+      "justification": "Este oficio se refiere a la tributación de exportaciones y no al subarriendo."
+    },
+    {
+      "chunk_uuid": "12168646-b002-54e0-b35a-1c4d50b3b58c",
+      "relevance_grade": 0,
+      "justification": "Este oficio trata sobre la clasificación de servicios en la Ley de la Renta y no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "c78eec20-cdd0-5228-bf8f-b8093a511135",
+      "relevance_grade": 0,
+      "justification": "Este fragmento aborda errores en el reavalúo fiscal de inmuebles y no el subarriendo."
+    },
+    {
+      "chunk_uuid": "68a1a863-ff38-5f91-a9d4-44f8557205b2",
+      "relevance_grade": 0,
+      "justification": "Este oficio discute la elusión fiscal en fusiones y no las consecuencias del subarriendo."
+    },
+    {
+      "chunk_uuid": "9b36f9c6-b244-56ec-9108-0e3a52ab857b",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre sanciones por la emisión de documentos sin cumplir requisitos, no sobre subarriendo."
+    },
+    {
+      "chunk_uuid": "55acce39-52fb-5330-a869-e585f2e4f142",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a autorizaciones para declarar y pagar impuestos en moneda extranjera, no a subarriendo."
+    },
+    {
+      "chunk_uuid": "4a850095-1a06-595f-8ced-3a797d52d562",
+      "relevance_grade": 1,
+      "justification": "Este fragmento discute el arrendamiento de derechos sociales y sus implicaciones tributarias, pero no aborda el subarriendo."
+    },
+    {
+      "chunk_uuid": "56f69910-5a67-5486-b253-df55becf884f",
+      "relevance_grade": 1,
+      "justification": "Similar al anterior, este texto se enfoca en el arrendamiento de derechos sociales y sus efectos tributarios, sin tratar el subarriendo."
+    },
+    {
+      "chunk_uuid": "fdf545bb-972f-5d24-814d-560a3683374e",
+      "relevance_grade": 2,
+      "justification": "Este fragmento aborda el subarriendo y las implicaciones tributarias de las construcciones y mejoras realizadas por el subarrendatario."
+    },
+    {
+      "chunk_uuid": "7ea353bc-2ccc-53d2-88f6-d2cd5323713a",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre autorizaciones para llevar contabilidad en moneda extranjera y no tiene relación con el subarriendo."
+    },
+    {
+      "chunk_uuid": "b54097fa-b2f9-5d7e-8dfc-12ff8b2050b9",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se refiere a la tributación de rentas de arrendamiento de bienes no nacionalizados y no al subarriendo."
+    },
+    {
+      "chunk_uuid": "ac5792fd-c825-5e04-927d-90626734763b",
+      "relevance_grade": 2,
+      "justification": "Este fragmento discute las consecuencias de un cambio de destino de bienes sin autorización, lo cual es análogo a un subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "16190598-129d-5324-adb2-17bc322c2be8",
+      "relevance_grade": 2,
+      "justification": "Este fragmento menciona el subarrendamiento y sus implicaciones tributarias, aunque no aborda directamente las consecuencias legales del subarriendo sin autorización."
+    },
+    {
+      "chunk_uuid": "754d8152-815a-5d9e-91c0-606c507ed152",
+      "relevance_grade": 0,
+      "justification": "Este fragmento se centra en el tratamiento tributario de los pagos de contribuciones de bienes raíces en contratos de arrendamiento, no en el subarriendo."
+    },
+    {
+      "chunk_uuid": "09a4b0c1-208e-5872-b0aa-a5bc0b78f9e0",
+      "relevance_grade": 0,
+      "justification": "Este fragmento trata sobre las sanciones por incumplimiento de resoluciones y la cancelación de autorizaciones, sin relación directa con el subarriendo."
+    },
+    {
+      "chunk_uuid": "ea9267ed-1161-5cf8-9fa3-fb9f1784645d",
+      "relevance_grade": 0,
+      "justification": "Este fragmento discute la validez de facturas de compra y el uso de crédito fiscal, sin abordar el subarriendo."
+    },
+    {
+      "chunk_uuid": "401aca48-80cb-5989-a9f5-f35b9cc209e0",
+      "relevance_grade": 1,
+      "justification": "El fragmento discute la cesión de contratos de arrendamiento y sus implicaciones tributarias, no las consecuencias del subarriendo sin autorización."
+    }
+  ]
+}

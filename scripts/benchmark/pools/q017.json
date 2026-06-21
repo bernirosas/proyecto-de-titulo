@@ -1,0 +1,1278 @@
+{
+  "query_id": "q017",
+  "query_text": "¿Cómo opera el crédito especial de IVA que tienen las empresas constructoras en la venta de viviendas habitacionales?",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 35.08029,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "252fead0-dde5-50df-8a60-d406c4cee920",
+        "score": 34.721558,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "22773303-7e16-5648-9f7e-95f71c4ad439",
+        "score": 34.305218,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "47e6ba01-2901-516f-8a76-fb75300f8375",
+        "score": 33.87058,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "f06fb844-2c8c-5cea-bc21-06c19c31254f",
+        "score": 33.75692,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 33.16288,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f22c5516-9549-5eea-87c7-852a3f3952d9",
+        "score": 32.691517,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "40520d21-47ca-5664-a047-e7d863525cf5",
+        "score": 32.426533,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 32.103146,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "7ec90fb4-616e-5adf-b05c-92eb8e92b194",
+        "score": 31.688103,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 2.322754,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39b8ffae-1eed-5357-91fd-9d414a4d16a6",
+        "score": 2.248108,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "8ffa16d3-9bf1-53ab-a18f-a011f63c9487",
+        "score": 2.2296753,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 2.213623,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "13831c2b-1e24-55f9-b5bf-ae4d08e373fe",
+        "score": 2.2109375,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "226c8489-9b6a-53fd-a650-e7126fc83d50",
+        "score": 2.2017212,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "93138308-a21b-5f1b-80b8-5a024e93188e",
+        "score": 2.1643066,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "360456e5-3b6b-50e2-bb6c-1fc8210d3ce0",
+        "score": 2.1582031,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "f41b90cb-8233-569b-bc84-7c686d19daab",
+        "score": 2.157959,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "72e5dcc4-ce8c-59fb-b4be-1c2e3cc0631a",
+        "score": 2.150879,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 38.244522,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 35.474503,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3c01d5cf-9b4d-5cec-8f79-a5a6f93f71c7",
+        "score": 34.40923,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 33.662918,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 33.362114,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "07437535-a678-54f4-87db-8bab7fcc4c46",
+        "score": 32.64013,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 32.55399,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "8ffa16d3-9bf1-53ab-a18f-a011f63c9487",
+        "score": 32.524006,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "22773303-7e16-5648-9f7e-95f71c4ad439",
+        "score": 32.41327,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 31.936888,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 37.546124,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 36.926746,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 34.474926,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 33.517918,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 33.332314,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "7e3d951c-006c-5ce5-aae8-ec343dd28d5f",
+        "score": 32.752407,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+        "score": 32.652798,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 32.647064,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d975e1a1-5e41-5f5c-9fc7-eaa71d57bd38",
+        "score": 32.528095,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "252fead0-dde5-50df-8a60-d406c4cee920",
+        "score": 31.829842,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 1.6669922,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 1.5644531,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 1.4931641,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 1.3127441,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 1.3093262,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 1.3009033,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 1.2861328,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "360456e5-3b6b-50e2-bb6c-1fc8210d3ce0",
+        "score": 1.28125,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "fbb4f865-e9c9-5a42-8440-1c21f721f9d7",
+        "score": 1.2388916,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 1.2275391,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 39.118248,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 38.728245,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 35.451775,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 34.6351,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "7e3d951c-006c-5ce5-aae8-ec343dd28d5f",
+        "score": 34.356937,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 33.987236,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 33.948055,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+        "score": 33.44411,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "1a08d008-1825-5596-9d96-611baf433e59",
+        "score": 31.704128,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 31.509989,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 1.930481,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 1.779541,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 1.7113647,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "fbb4f865-e9c9-5a42-8440-1c21f721f9d7",
+        "score": 1.5683594,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 1.4182129,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "7e3d951c-006c-5ce5-aae8-ec343dd28d5f",
+        "score": 1.4171143,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "4dbd16b6-e1e7-5680-85fa-99fea8a1c2cb",
+        "score": 1.404419,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 1.3937378,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 1.390564,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 1.385498,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 23.804688,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 23.195312,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+        "score": 22.722656,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 22.628906,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 22.589844,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 22.476562,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "252fead0-dde5-50df-8a60-d406c4cee920",
+        "score": 22.242188,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+        "score": 21.820312,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 21.71875,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a4537a7f-ade1-5db3-8594-82f527aaaa6d",
+        "score": 21.691406,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.030776515151515152,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.02813852813852814,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "395a03dc-b647-5e6e-bfc7-3f3630414da9",
+        "score": 0.027364110201042444,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.027236652236652236,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 0.027212143650499815,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 0.026838432635534086,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "8ffa16d3-9bf1-53ab-a18f-a011f63c9487",
+        "score": 0.025326537113730486,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "39b8ffae-1eed-5357-91fd-9d414a4d16a6",
+        "score": 0.025,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "5cd6238f-2640-5326-9de3-4a24712c19ce",
+        "score": 0.02399425287356322,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "39b8ffae-1eed-5357-91fd-9d414a4d16a6",
+        "score": 0.030017921146953404,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "395a03dc-b647-5e6e-bfc7-3f3630414da9",
+        "score": 0.028790389395194696,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.028665028665028666,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "8ffa16d3-9bf1-53ab-a18f-a011f63c9487",
+        "score": 0.027500922849760058,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "13831c2b-1e24-55f9-b5bf-ae4d08e373fe",
+        "score": 0.027149321266968326,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "93138308-a21b-5f1b-80b8-5a024e93188e",
+        "score": 0.026830135039090264,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a946cf5e-f9bd-521b-a701-86c7ec83c64a",
+        "score": 0.023037203760095326,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7159efc9-c072-55d2-9a8c-317b1498acfe",
+        "score": 0.02295788939624556,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "02c35160-fa3e-5457-afa8-ed1999911139",
+        "score": 0.02248326386257421,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 0.03055037313432836,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.030158730158730156,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.03007688828584351,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "cf789f78-b312-5a41-92ee-396937ad271f",
+        "score": 0.030017921146953404,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 0.02871794871794872,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 0.02782608695652174,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+        "score": 0.027149321266968326,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "3c01d5cf-9b4d-5cec-8f79-a5a6f93f71c7",
+        "score": 0.027108970929195647,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.029857397504456328,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 0.0293236301369863,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 0.02900988017658188,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 0.02871794871794872,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.028693528693528692,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+        "score": 0.02804284323271665,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 0.026709401709401708,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+        "score": 0.026419626007891578,
+        "rank": 10
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.03149801587301587,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.030776515151515152,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.029957522915269395,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+        "score": 0.029083245521601686,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 0.02877846790890269,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 0.02871794871794872,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 0.02862400327131466,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 0.027972027972027972,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "ab58189f-6111-5183-95e2-53232a4f70a9",
+        "score": 0.0264301860545992,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03252247488101534,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.032018442622950824,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 0.029850746268656716,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.029437229437229435,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 0.0293236301369863,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+        "score": 0.02871794871794872,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 0.028484848484848488,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1a08d008-1825-5596-9d96-611baf433e59",
+        "score": 0.027650648360030512,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.027108970929195647,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+        "score": 0.026200135226504394,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.029957522915269395,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 0.029877369007803793,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.028850145288501453,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 0.02819138376017471,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+        "score": 0.02803921568627451,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 0.027745885954841176,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+        "score": 0.027730294396961064,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 0.027106227106227107,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+        "score": 0.03278688524590164,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+        "score": 0.031754032258064516,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+        "score": 0.03125763125763126,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+        "score": 0.030117753623188408,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+        "score": 0.02964426877470356,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+        "score": 0.027972027972027972,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+        "score": 0.026200135226504394,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+        "score": 0.0261986301369863,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "39b8ffae-1eed-5357-91fd-9d414a4d16a6",
+        "score": 0.025516795865633074,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+        "score": 0.024449182658137884,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 32.6,
+    "p1_tfidf": 24.1,
+    "p1_splade": 169.6,
+    "p2_bm25": 18.2,
+    "p2_tfidf": 18.5,
+    "p3_bm25": 8.9,
+    "p3_tfidf": 9.8,
+    "baseline_qdrant_bm25": 22.1,
+    "rrf_p1_bm25": 84.8,
+    "rrf_p1_tfidf": 79.5,
+    "rrf_p1_splade": 238.2,
+    "rrf_p2_bm25": 203.9,
+    "rrf_p2_tfidf": 203.1,
+    "rrf_p3_bm25": 75.0,
+    "rrf_p3_tfidf": 83.7,
+    "rrf_baseline_qdrant_bm25": 47.9
+  },
+  "pool": [
+    {
+      "name": "Oficio N°1694 (15/06/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1694 (15/06/2016)",
+      "document_id": "8e795972-5195-5707-b986-41d5aea62253",
+      "chunk_uuid": "7ec90fb4-616e-5adf-b05c-92eb8e92b194",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja1694.htm",
+      "content": " terreno.\n\n\nb) Si bien se mantuvo el crédito especial de las empresas constructoras establecido en el artículo 21 del\ndecreto ley N° 910, de 1975, el cual tiene como efecto reducir el monto del impuesto aplicable a los\ninmuebles habitacionales, la Ley N° 20.780, limitó dicho beneficio a los inmuebles habitacionales cuyo valor\nno exceda de 2.000 UF, con el objeto de focalizar la medida hacia los sectores más desmejorados.\nSin perjuicio de lo anterior, de acuerdo al artículo duodécimo transitorio de la Ley N° 20.780, el nuevo límite\nde 2.000 UF se hará efectivo de forma gradual: 4.000 UF, para el año 2015, 3.000 UF para el año 2016 y a\npartir del año 2017, se aplica el límite permanente de 2.000 UF; que en el caso de viviendas financiadas en\ntodo o parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo, el límite aumenta a 2.200 UF,\nconforme lo dispuesto en el artículo 8°, N° 10 de la Ley N° 20.899 .\nc) Por otra parte, el artículo 4° de la Ley N° 20.899 agregó en el artículo 21 del decreto ley N° 910 de 1975 a\nlas empresas constructoras como beneficiarias del crédito allí establecido por las ventas de viviendas que se\nencuentren exentas de Impuesto al Valor Agregado, por efectuarse a beneficiarios de un subsidio\nhabitacional otorgado por el Ministerio de Vivienda y Urbanismo, conforme lo dispuesto en la primera parte\ndel artículo 12, letra F, del decreto ley N° 825.\nFinalmente, mayores instrucciones puede encontrar en el sitio web de este Servicio, www.sii.cl, en particular\nen la Circular N° 42 de 2015 y la Circular N° 13, de 2016 relativa a las modificaciones introducidas por la Ley\nN° 20.899.\nIII CONCLUSIÓN\nComo puede apreciarse, la Ley N° 20.780, en conjunción con la Ley N° 20.899, vino a modificar la Ley sobre\nImpuesto al Valor Agregado en la venta de bienes corporales inmuebles, sin perjuicio de contemplar una serie\nde medidas paliativas que, individualmente o en su conjunto, postergan su aplicación o alivian de modo\nimportante a las personas que adquieren inmuebles habitacionales de ciertos valores y características.\nFERNANDO BARRAZA LUENGO\nDIRECTOR\nOficio N° 1694, de 15.06.2016\nSubdirección Normativa\nDpto. de Técnica Tributaria.\n"
+    },
+    {
+      "name": "Oficio N°4123 (11/11/2002)",
+      "source_type": "oficio",
+      "source": "Oficio N°4123 (11/11/2002)",
+      "document_id": "0030b8e4-d3ae-5b71-a07b-48472f24c889",
+      "chunk_uuid": "47e6ba01-2901-516f-8a76-fb75300f8375",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2002/ventas/ja399.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ventas y Servicios - 2002\nLEY DE IMPUESTO A LAS VENTAS Y SERVICIOS. OFICIO N° 4123 DE 11 DE NOVIEMBRE DE 2002.\nPROCEDENCIA DEL USO, POR PARTE DE LAS EMPRESAS CONSTRUCTORAS, DEL CRÉDITO\nESPECIAL ESTABLECIDO EN EL ARTÍCULO 21, DEL D.L. N° 910, DE 1975, EN LA VENTA Y\nCONTRATOS GENERALES DE CONSTRUCCIÓN QUE NO SEA POR ADMINISTRACIÓN, DE\nINMUEBLES PARA HABITACIÓN QUE INCLUYEN PISCINAS, EN LOS CASOS QUE INDICA.\n1.- Se ha recibido su oficio del antecedente, por el cual pide un pronunciamiento de esta Dirección Nacional,\nen el cual señale la procedencia del uso, por parte de las empresas constructoras, del crédito especial\nestablecido en el artículo 21, del D.L. N° 910 de 1975, por el valor correspondiente a las piscinas, en\naquellas ventas de inmuebles con fines habitacionales que incluyan piscinas.\nSeñala que con ocasión de auditoría efectuada a xxxxxxxxxxxxxxx, el Departamento de Fiscalización de esa\nDirección Regional, ha podido verificar que algunos de los inmuebles habitacionales enajenados incluyen\npiscinas, construcciones que en algunos casos se encuentran incorporadas a los proyectos presentados a la\nDirección de Obras de la Municipalidad, y en otros, corresponderían a obras complementarias solicitadas por\nlos clientes de la empresa constructora, con posterioridad a la aprobación del proyecto original, operaciones\npor las cuales la referida empresa aplica la disposición del artículo 21, del D.L. N° 910, de 1975.\nAgrega que el artículo 21 del D.L. N° 910 de 1975, modificado por la Ley N° 18.630, de 1987, establece que\nlas empresas constructoras tendrán derecho a un crédito fiscal del 65% del débito del impuesto al valor\nagregado, que deban determinar en las ventas de bienes corporales inmuebles para habitación, por ellas\nconstruidos y en los contratos generales de construcción, que no sean por administración, de dichos\ninmuebles. Agrega que la misma disposición establece, que para los efectos del citado artículo, deben\nentenderse incluidos en el concepto “habitación”, también las dependencias directas, tales como\nestacionamientos y bodegas amparadas por un mismo permiso de edificación o un mismo proyecto de\nconstrucción, siempre que el inmueble destinado a la habitación propiamente tal, constituya la obra principal\ndel contrato o del total del contrato.\nManifiesta que este Servicio a través de la Circular N° 26 de 1987, señaló que debe entenderse por\n“inmuebles para la habitación”, aquellos que se construyen como viviendas, aceptándose dentro de ella, en\nforma restrictiva, otro tipo de dependencias con que cuente dicho inmueble, siempre que ellas sean\nnecesarias y tengan una relación directa con la habitación propiamente tal, como estacionamientos y\nbodegas y cuando en su construcción se encuentren amparadas por un mismo permiso de edificación o de\nun mismo proyecto.\nFinalmente expresa su opinión, señalando que en este caso, en el cual las piscinas se construyen y venden\njunto a los inmuebles con fines habitacionales, se entendería que éstas no forman parte directa de la casa\nhabitación propiamente tal, por tratarse de bienes prescindibles para los fines habitacionales, lo que\nimplicaría que su venta no daría derecho al crédito especial del 65%, establecido en el artículo 21 del D.L. N°\n910, para las empresas constructoras.\n2.- El artículo 21° del D.L. N° 910, de 1975, establece que las empresas constructoras tendrán derecho a\ndeducir del monto de sus pagos provisionales mensuales obligatorios de la Ley sobre Impuesto a la Renta,\nel 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales\ninmuebles para habitación por"
+    },
+    {
+      "name": "Oficio N°1243 (12/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1243 (12/05/2021)",
+      "document_id": "522a88e7-2e5a-57bb-b7f2-d59a86c3604c",
+      "chunk_uuid": "39b8ffae-1eed-5357-91fd-9d414a4d16a6",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1243-12%2F05%2F2021.pdf&extension=pdf&acc=download&id=bd2d0510-080e-4b9f-9085-8b047344b663&mediaType=application%2Fpdf",
+      "content": "ario en la medida que en algún período \ntributario se verifique un pago indebido o en exceso de impuestos, acreditando en las \ninstancias de fiscalización la devolución de las sumas facturas indebidamente a las \ninmobiliarias conforme al artículo 128 de dicho Código.  \n \nSi el contribuyente solicita la devolución del impuesto de acuerdo con el artículo 126 del \nCódigo Tributario, se debe considerar, conforme al N° 2° del artículo 23 de la LIVS, que \nrespecto de estas operaciones el contribuyente no tuvo derecho a crédito fiscal por \nencontrarse exentas de IVA al amparo de la letra F del artículo 12 de la LIVS.  \n \nEn cuanto al crédito especial para las empresas constructoras establecido en el artículo \n21 del Decreto Ley N° 910 de 1975, éste resulta aplicable en el caso de los contratos \ngenerales de construcción de viviendas exentos por aplicación de la letra F del artículo \n12 de la LIVS, caso en el cual el beneficio será equivalente a un 0.1235 del valor del \ncontrato de construcción de cada vivienda y se deducirá de los pagos provisionales \nobligatorios de la Ley sobre Impuesto a la Renta, en la medida que el valor del contrato \nde construcción de cada vivienda no exceda el tope vigente, con un crédito máximo por \ncada vivienda construida de 225 UF.  \n \nLa solicitud de devolución de la empresa constructora por pago en exceso, de \nconformidad al artículo 126 del Código Tributario, además de generar diferencias en \nIVA, también puede producir diferencias en la determinación de la renta líquida \nimponible de primera categoría de AAA, y de las empresas inmobiliarias, situaciones \nque se deben resolver en las respectivas instancias de fiscalización.  \n \nIII  CONCLUSIÓN  \n \nConforme lo expuesto precedentemente y respecto de lo consultado, se informa que:  \n \n1) Sin perjuicio que la exención de IVA establecida en la letra F del artículo 12 de la \nLIVS es improcedente en el presente caso, supuesto que AAA hubiere cumplido los \nrequisitos, igualmente no podría haberse acogido a la Resolución Ex. N° 24 de 2020 \npara regularizar el error de facturación del débito fiscal.  \n\n\n4 \n \n \nEn cambio, para dichos fines, el contribuyente (de haber sido procedente la exención) \npuede solicitar la devolución de las sumas pagadas indebidamente o en exceso a \ntítulo de impuesto, en la medida que ello ocurra, en virtud del artículo 126 del Código \nTributario, en concordancia con el artículo 22 de la LIVS.  \n \nEn ese caso, por corresponder a contratos de construcción exentos de IVA, respecto \nde estas operaciones el contribuyente no tuvo derecho a crédito fiscal conforme al N° \n2 del artículo 23 de la LIVS.  \n \n2)  Respecto de los contratos generales de construcción de viviendas, exentos de IVA de \nconformidad con la letra F del artículo 12 de la LIVS, los contribuyentes tienen \nderecho al crédito especial empresas constructoras establecido en el artículo 21 del \nDecreto Ley N° 910 de 1975, beneficio equivalente a un 0.1235 del valor del contrato \nde construcción por viviendas, en la medida que su valor no exceda del tope vigente, \ncon un crédito máximo por cada vivienda construida de 225 UF.  \n3)  La presentación de una solicitud de devolución en los términos señalados también \npuede producir efectos en la determinación de la base imponible del impuesto de \nprimera categoría, tanto para la empresa recurrente como para las empresas \ninmobiliarias, los cuales deben ser regularizados.  \n \n \n \n \n \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR \n \n \nOficio N° 1243, de 12-05-2021 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n"
+    },
+    {
+      "name": "Oficio N°1447 (04/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1447 (04/06/2021)",
+      "document_id": "42e87dd3-6732-5d85-b06b-97cdd81ba6de",
+      "chunk_uuid": "2870136b-b1dd-5a36-a506-fdcfa059bc4c",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1447-04%2F06%2F2021.pdf&extension=pdf&acc=download&id=0d311de8-740e-41b4-ad95-81b928e98eaa&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO –  ART. 21, ART. 8, LETRA E), ART. 12, \nLETRA F).  (ORD. N° 1447 DE 04.06.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nAplicación del artículo 21 del Decreto Ley N° 910 de 1975 en la venta de inmuebles \nefectuado por empresa que construyó mediante contrato general de construcción por \nadministración. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la procedencia de aplicar el beneficio \ncontenido en el artículo 21 del Decreto Ley N° 910 de 1975 en la venta de inmuebles efectuada \npor una empresa que los construyó mediante un contrato general de construcción por \nadministración.  \n \nI  \nANTECEDENTES  \n \nSeñala que la empresa TTTTT (la constructora), se encuentra desarrollando un proyecto \ninmobiliario respecto del cual encargará a un tercero su construcción por administración, mientras \nque la venta la hará la constructora directamente a beneficiarios del subsidio habitacional.  \n \nAl respecto, tiene dudas sobre la aplicación del IVA a los contratos respectivos, como también \nsobre la aplicación del crédito especial para empresas constructoras (“CEEC”) contenido en el \nartículo 21 del Decreto Ley N° 910 de 1975.  \n \nExpresa que recientemente se presentó y aprobó, por parte del Ministerio de Vivienda y \nUrbanismo, el desarrollo de un proyecto consistente en un conjunto habitacional acogido al \nDecreto Supremo N° 19 de 2016 (Programa de Integración Social y Territorial), para la \nconstrucción y venta de un número determinado de viviendas.  \n \nPara estos efectos, la empresa subcontratará a un tercero con el solo objeto que éste le preste \nservicios de administración de obra, celebrando un contrato de “administración delegada”1, en \ndonde el tercero se compromete a administrar la construcción de la obra.  \n \nEn virtud de este contrato el subcontratista llevará, entre otras, las siguientes funciones: control de \nentrada y salida de trabajadores; supervisión del cumplimiento de medidas de seguridad; \nsupervisión de las medidas sanitarias y técnicas; supervisión de aspectos técnicos de la obra a \ntravés de inspecciones técnicas; distribución de tareas. En consecuencia, no se trata de un contrato \nde construcción a suma alzada, sino que de un contrato de administración.  \n \nAclara que los materiales necesarios para la construcción del proyecto son propiedad de la \nconstructora y que en ningún caso son adquiridos por el subcontratista. Asimismo, la mano de \nobra también será contratada, en principio, por la constructora, aunque no se ha descartado la \nposibilidad que el subcontratista contrate directamente parte de ésta para llevar a cabo su servicio.  \nEn resumen, estima, la empresa encargará la construcción de las viviendas mediante un contrato \nde construcción por administración con el objeto de venderlas directamente a los beneficiarios de \nun subsidio habitacional, por un valor máximo de 2.200 UF, exentas de IVA, dejando constancia \nde todo esto en el respectivo contrato general de construcción.  \n \nSeñala además que, a su juicio, procedería en la venta la aplicación del crédito especial contenido \nen el artículo 21 del Decreto Ley N° 910 de 1975.  \n \nConforme a lo indicado anteriormente, solicita confirmar que:  \n \n1)  La constructora tiene la calidad de “empresa constructora” y, en consecuencia, tiene derecho \nal crédito especial de empresas constructoras en la venta de las viviendas que se haga a \nbeneficiarios de subsidio habitacional por tener un valor de 2.200 UF o menos.  \n          \n1  En ese contrato consta la circunstancia que la obra está destinada a ser vendida a beneficiarios de subsidio habitacional otorgado por \nel Ministerio de Vivienda y Urbanismo. \n\n\n \n2)  El contrato de “administración delegada” de la obra no se encuentra afecto a IVA, ya sea por \nla aplicación de las normas generales, al no ser servicios que provengan del ejercicio de las \nactividades comprend"
+    },
+    {
+      "name": "Circular N°25 (28/07/1987)",
+      "source_type": "circular",
+      "source": "Circular N°25 (28/07/1987)",
+      "document_id": "4969e01e-df61-5033-8845-9af6f4df9162",
+      "chunk_uuid": "7159efc9-c072-55d2-9a8c-317b1498acfe",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/circulares/1987/circu25a.htm",
+      "content": ", superficie edificada, y las inscripciones e individualización del permiso de edificación y los antecedentes que consten en el contrato de promesa, cuando corresponda.\nTratándose de un proyecto específico o de un conjunto habitacional, en el cual una empresa constructora no pueda determinar el crédito fiscal del Impuesto al Valor Agregado que corresponda a los inmuebles prometidos vender, separadamente del de aquellos sobre los cuales no se haya celebrado este contrato a la fecha señalada en el inciso anterior, podrá calcularse proporcionalmente en relación al respectivo valor de costo sobre el costo final estimado del proyecto o conjunto. Adaptada esta modalidad, la misma relación porcentual deberá aplicarse en el cálculo del crédito fiscal originado en las adquisiciones de bienes o utilización de servicios destinados a los inmuebles que sirvieron de base para determinar la citada proporcionalidad, hasta su terminación total, sin perjuicio de los ajustes que correspondan cuando sea aplicable el inciso siguiente. Para acogerse al procedimiento establecido en este inciso, la empresa constructora deberá incluir el costo final estimado respectivo en la declaración jurada a que se refiere el inciso anterior.\nSi la promesa de venta suscrita respecto de un inmueble que tenga en existencia una empresa constructora a la fecha de vigencia del artículo 1º quedare sin efecto, podrán recuperarse los créditos fiscales del Impuesto al Valor Agregado soportado en su construcción en la forma señalada en este artículo, dentro de los tres meses a que se refiere la parte final del número 2º del artículo 21 del decreto ley Nº 825, de 1974.\nb) En cuanto a las existencias de materiales de construcción a la fecha de vigencia del artículo 1º de la presente ley, las empresas constructoras tendrán derecho a crédito fiscal por las adquisiciones que hayan efectuado, acreditadas con las correspondientes facturas emitidas. Las empresas respectivas, para acogerse a esta norma, deberán presentar, en el mismo plazo señalado, una declaración jurada firmada por el representante legal en la que se consignen el número, fecha y monto de la factura de compra de los bienes corporales muebles, la naturaleza de ellos y el lugar donde se encuentran.\nc) Las empresas afectas al Impuesto al Valor Agregado, que no sean empresas constructoras, podrán rebajar como crédito fiscal el impuesto soportado por las adquisiciones y servicios destinados a la construcción de un inmueble, siempre que dichas adquisiciones o servicios se hayan efectuado o utilizado a contar del 1º de octubre de 1986.\nEl crédito fiscal extraordinario establecido en las letras a), b) y c) anteriores, se reajustará de acuerdo con las normas del artículo 27 del decreto ley Nº 825, de 1974, desde el periodo al cual correspondan las facturas hasta su imputación, y deberá cumplir con los demás requisitos que señala el artículo 23 del mismo texto legal. El monto del crédito fiscal referido en la letra a) no podrá ser superior en su totalidad al 13% del valor de costo de la construcción respectiva a la fecha de vigencia de la presente ley, cuando no se opte por lo dispuesto en el inciso segundo de la letra a).\nDeberán deducirse de los créditos fiscales que se determinen de acuerdo con lo dispuesto en el presente artículo las cantidades recuperadas en conformidad a lo previsto en el artículo 21 del decreto ley Nº 910, de 1975, las cuales deberán incluirse en la declaración jurada referida en las letras a) y b).\nLas cantidades que se recuperen por concepto de crédito fiscal en virtud de lo dispuesto en el presente artículo, no constituirán costo ni gastos de la operación original respectiva.\n\nII.- VIGENCIA DE LA LEY Nº 18.630.\nLa ley Nº 18.630 rige desde el 1º de octubre de 1987, por ende, las ventas de bienes corporales inmuebles que efectúen las empresas constructoras a partir de esa fecha, quedarán afectas al IVA.\nIgualmente deberá aplicarse este impuesto respecto de las cantidades que se paguen en virtud de promesas de venta de dichos inmuebles y también por los pagos provenientes de"
+    },
+    {
+      "name": "Oficio N°1649 (29/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1649 (29/06/2021)",
+      "document_id": "2cbd4ae2-b813-51b1-9569-4c38d1eeb6de",
+      "chunk_uuid": "3c01d5cf-9b4d-5cec-8f79-a5a6f93f71c7",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1649-29%2F06%2F2021.pdf&extension=pdf&acc=download&id=7f202a74-fb6b-4dc6-9e5b-90abdee84d1a&mediaType=application%2Fpdf",
+      "content": " crédito especial en \nla forma que prescribe la propia ley, de modo que no es posible confirmar ni referirse a los \ncriterios señalados en el N° 2) del Antecedente.  \n \nSaluda a usted, \n \n \n \n2  “Las empresas constructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a \nla Renta el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales inmuebles para \nhabitación por ellas construidos cuyo valor no exceda de 2.000 unidades de fomento, con un tope de hasta 225 (doscientas veinticinco) \nunidades de fomento por vivienda, y en los contratos generales de construcción de dichos inmuebles que no sean por administración, \ncon igual tope por vivienda, de acuerdo con las disposiciones del decreto ley Nº 825, de 1974……..”. \n3  Respecto del monto del beneficio que estas empresas pueden deducir de sus pagos provisionales obligatorios de la ley sobre Impuesto \na la Renta, éste no puede ser superior a aquel que les correspondería deducir si la operación se encontrase gravada con IVA. En \natención a ello, el factor de 0.1235 del valor de la venta que deben aplicar estas empresas en el caso de la venta de bienes corporales \ninmuebles, en que dentro del precio se encuentra incluido el valor del terreno, debe ser aplicado al valor de venta, pero una vez \ndescontado el valor de dicho terreno. Circular N° 13 de 2016, Capítulo IV, N° 2, párrafo 6: \n\n\n3 \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR \nOficio N° 1649, de 29-06-2021 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n"
+    },
+    {
+      "name": "Circular N°26 (05/08/1987)",
+      "source_type": "circular",
+      "source": "Circular N°26 (05/08/1987)",
+      "document_id": "47419029-ccea-5170-ac13-a58a44aec885",
+      "chunk_uuid": "cf789f78-b312-5a41-92ee-396937ad271f",
+      "chunk_id": 40,
+      "url": "https://www.sii.cl/documentos/circulares/1987/circu26.pdf",
+      "content": " pa-\nra que proceda el crédito especial, respecto de los estacionamientos y bodegas, estos deben acceder a un inmueble destinado a la habitación que haya dado derecho a igual beneficio al adquirente de dichas depen- dencias.\nSe consideran inmuebles destinados para la habitación, las de- nominadas \"casetas sanitarias\" o lotes con servicios, dada la finali- dad de su construcción, y las urbanizaciones que se destinen exclusiva- mente a viviendas.\nc) De acuerdo con lo expresado en las dos letras anteriores, cuando proceda esa deducción -o crédito especial- las empresas cons- tructoras deberán facturar la operación de la siguiente manera, consi- derando separadamente el valor del terreno por no quedar afecto el IVA como se explica en el Capítulo IV de esta Circular:\nPor lo siguiente, Cantidad, Detalle, Precio Unitario, Debe Total\n, 1, Vivienda Villa Las Campanas - Casa Nº 4, ,\n, , Precio Neto (sin terreno), $1.141.614.=,\n, , + 20% IVA, 228.323.-,\n, , - Crédito especial 65%, 148.410.-,\n, , PRECIO FINAL SIN TERRENO, $1.221.527.=,\n, , Valor Terreno, 156.755.=,\n, , PRECIO FINAL INCLUIDO TERRENO, , $1.388.282.-\n, , , , =========\nNTA: , , CANCELADO, ,\nISTO (SIN IVA) + UTILIDAD, , de [date], de 19[year], ,\nImp. Juan Pérez, Arturo Prat., , ORIGINAL - CLIENTE,\nd) No obstante de efectuar la deducción señalada del débito del IVA para los efectos de emitir la factura, las empresas constructo- ras deberán declarar en el formulario 29, el débito total correspon- diente (en el presente caso $ 228.323.-) conjuntamente con los demás débitos y rebajar de éstos el crédito fiscal del período o remanentes a que tengan derecho por el Impuesto soportado en las adquisiciones, utilización de servicios y gastos generales, según las normas comunes, que sean pertinentes, del decreto ley Nº 825, de 1974. En el Libro de Compras y Ventas deberá, en todo caso, anotarse el total del débito en la columna que corresponda a ésta y, separadamente en otra columna co- mo información, la cantidad deducida por concepto de la aplicación del 0,65 o crédito especial que se determinó en la factura.\ne) En el formulario 29, del mismo período, la empresa construc- tora deducirá el crédito especial otorgado en la facturación del mes, del monto de los pagos provisionales obligatorios de la Ley sobre Im- puesto a la Renta. Si la empresa no estuviere obligada a efectuar es- tos pagos provisionales, o quedare un remanente por ser éstos de un monto inferior al del crédito especial, dicho total o saldo podrá im- putarse a cualquier otro Impuesto de retención o recargo que deba de- clararse y pagarse en esa fecha con el mismo formulario.\nf) Si una vez efectuadas las imputaciones anteriores quedare un remanente, éste podrá imputarse a los mismos impuestos del mes si- guiente y así en forma sucesiva, si aún quedare remanente. Este saldo que puede imputarse a los meses siguientes deberá reajustarse en la forma que dispone el artículo 27 del decreto ley Nº 825, es decir, con- virtiéndolo en unidades tributarias mensuales según su monto vigente a la fecha en que debió pagarse el tributo y, posteriormente, reconvir- tiendo el número de unidades tributarias al valor que tenga a la fecha de la imputación del remanente.\ng) Si después de efectuada la declaración por el impuesto del mes de diciembre de cada año aún subsistiere remanente por concepto del mencionado crédito especial de 0,65, éste tendrá el carácter de pa- go provisional voluntario de la Ley sobre Impuesto a la Renta (artícu- lo 88), no debiendo imputarse en las declaraciones mens"
+    },
+    {
+      "name": "Oficio N°2989 (06/10/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2989 (06/10/2022)",
+      "document_id": "31d33307-7acf-5e86-bc12-da81925d4b58",
+      "chunk_uuid": "7e3d951c-006c-5ce5-aae8-ec343dd28d5f",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2989-06%2F10%2F2022.pdf&extension=pdf&acc=download&id=890834cf-d337-4aa4-9ea3-750a6190b36e&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART. 12 LETRA F – DECRETO LEY N° \n910 – ART. 21 – OFICIO ORD. N° 1075 DE 2017 – (ORD. N° 2989, DE 06.10.2022) \n \n \n \n \n \n \n \n \n \n \n \n \n \nEmisión de factura de inmueble financiado con subsidio habitacional y derecho a crédito a \nempresa constructora. \n \nDe acuerdo con su presentación, consulta la forma en que se debe emitir una factura por la venta \nde un inmueble con destino habitacional financiado con subsidio, realizada directamente por la \nconstructora al beneficiario de dicho subsidio o beneficiario final y que además tiene derecho a \ncrédito especial para empresas constructoras. \nAsimismo, adjunta Oficio N° 1075 del año 2017, que responde una petición similar, consultando \nla vigencia del citado pronunciamiento. \nAl respecto se informa que, conforme la letra F del artículo 12 de la Ley sobre Impuesto a las \nVentas y Servicios (LIVS), se encuentra exenta de IVA la venta de una vivienda efectuada al \nbeneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, \ncuando haya sido financiada, en definitiva, en todo o parte, por el referido subsidio. \nPor su parte, el artículo 21 del Decreto Ley N° 910 de 1975, establece un crédito especial para \nempresas constructoras por las ventas de viviendas que se encuentren exentas de IVA, por \nefectuarse a beneficiarios de un subsidio habitacional otorgado por el Ministerio de Vivienda y \nUrbanismo, caso en el cual el beneficio será equivalente a un 0.1235, del valor de la venta1. \nPrecisado lo anterior y respecto de lo consultado, se reitera lo señalado en el Oficio N° 1075 del \naño 2017 en el sentido que no existe obligación de expresar el monto del CEEC en las facturas a \nemitir por operaciones exentas de conformidad a la primera parte de la letra F del artículo 12 de la \nLIVS. \nNo obstante, si el contribuyente lo estima conveniente, para efectos de control interno y de cara a \neventuales procesos de fiscalización, podrá incluir el valor a rebajar del terreno y/o el monto del \nCEEC determinado por éste, como información en la glosa de la factura correspondiente. \n \n \n \n \n \nRICARDO PIZARRO ALFARO \nDIRECTOR (S) \n \n \nOficio N° 2989, de 06-10-2022 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n \n1  Se deben tener presente las modificaciones introducidas por la Ley N° 21.420 y cuyas instrucciones fueron impartidas en la Circular \nN° 43 de 2022 \n"
+    },
+    {
+      "name": "Oficio N°2009 (16/10/2024)",
+      "source_type": "oficio",
+      "source": "Oficio N°2009 (16/10/2024)",
+      "document_id": "598cc5f8-dc69-561a-8e0f-7ea4c3454c88",
+      "chunk_uuid": "f06fb844-2c8c-5cea-bc21-06c19c31254f",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2009-16%2F10%2F2024.pdf&extension=pdf&acc=download&id=2a97b518-84f8-4878-bc5a-2e5eaaedb511&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\n \nVENTAS Y SERVICIOS – LEY SOBRE IMPUESTO A LAS – ART. 12 LETRA F –     \nLEY GENERAL DE URBANISMO Y CONSTRUCCIONES, ART. 116 –          \nLEY N° 21.420, ART. SEXTO TRANSITORIO Y ART. SEXTO BIS TRANSITORIO – \nLEYES DE PRESUPUESTO DEL SECTOR PÚBLICO AÑO 2023 Y 2024 –         \nDECRETO LEY N° 910 DE 1975, ART. 21 (ORD. N° 2009, DE 16.10.2024) \n \n \n \n \n \n \n \n \n \n \n \n \n \nCrédito especial de empresas constructoras a las viviendas industrializadas financiadas con \nsubsidio. \n \n \nDe acuerdo con su presentación, en el contexto del “Plan de Emergencia Habitacional”, el \nMinisterio de Vivienda y Urbanismo (MINVU) incluyó en las leyes de presupuesto \ncorrespondientes a los años 2023 y 2024 una glosa que exime a las viviendas tipo industrializadas \nde ciertos trámites, como el permiso municipal de edificación. \nConforme con lo anterior, consulta si los contratos generales de construcción sobre viviendas tipo \nindustrializadas que sean financiadas con subsidios habitacionales, tienen derecho al crédito \nespecial de empresas constructoras (CEEC), aun cuando no cuenten con un permiso de edificación. \nComo es de su conocimiento, la Ley N° 21.420, junto con eliminar, a contar del 1° de enero de \n2027, el CEEC contenido en el artículo 21 del DL N° 910 de 1975 (DL N° 910), estableció un \nrégimen de transición. \nEn lo que interesa a su consulta, y de acuerdo con el artículo sexto de las disposiciones transitorias \nde la Ley N° 21.420, las empresas constructoras tendrán derecho a deducir de sus pagos \nprovisionales obligatorios un 0,325 del débito del IVA o un 0,06175 (en caso de ser aplicable la \nexención de la letra F del artículo 12 de la LIVS del valor de la venta de bienes corporales inmuebles \npara habitación por ellas construidos y en los contratos generales de construcción de dichos \ninmuebles que no sean por administración cuando, entre otros requisitos1, hayan obtenido el \nrespectivo permiso municipal de edificación antes del 1° de enero de 2025. \nA su turno, de acuerdo con el artículo sexto bis de las disposiciones transitorias citadas, los mismos \ncontribuyentes podrán deducir un 0,1625 del débito del IVA o un 0,030875 (en caso de ser aplicable \nla exención de la letra F del artículo 12 de la LIVS) del valor de los referidos actos jurídicos cuando, \nentre otros requisitos2, hayan obtenido el respectivo permiso municipal de edificación antes del 1° \nde enero de 2027. \nPor su parte, el inciso primero del artículo 116 de la Ley General de Urbanismo y Construcciones \n(LGUC) dispone que la construcción, reconstrucción, reparación, alteración, ampliación y \ndemolición de edificios y obras de urbanización de cualquier naturaleza, sean urbanas o rurales, \nrequerirán permiso de la Dirección de Obras Municipales, a petición del propietario, con las \nexcepciones que señale la Ordenanza General. \nAhora bien, las leyes de presupuesto del sector público de los años 2023 y 20243 disponen que, en \nel marco del Plan de Emergencia Habitacional, la División Técnica de Estudio y Fomento \nHabitacional del Ministerio de Vivienda y Urbanismo aprobará proyectos de “vivienda tipo \nindustrializadas” las que no requerirán cumplir con el inciso primero del artículo 116 de la LGUC, \nni estarán sometidas a inspecciones y/o recepciones por parte de las Direcciones de \nObras Municipales, mientras tengan este carácter y sean construidas mediante subsidio del Estado. \n \n \n \n          \n1  Ver apartado 2.2 y 3.2 de la Circular N° 37 de "
+    },
+    {
+      "name": "Oficio N°283 (07/02/2020)",
+      "source_type": "oficio",
+      "source": "Oficio N°283 (07/02/2020)",
+      "document_id": "6205021c-5fa0-5fb5-979a-d61d0c11cb0e",
+      "chunk_uuid": "a4537a7f-ade1-5db3-8594-82f527aaaa6d",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=283-07%2F02%2F2020.pdf&extension=pdf&acc=download&id=ddc676b0-ba2c-48b3-ac60-7eb1db36a4cd&mediaType=application%2Fpdf",
+      "content": "inferior a 2.000 UF. Y, en segundo lugar, que los topes en cuanto a la aplicación del crédito \nespecial se calculan por separado, sin que se sumen los costos del inmueble principal y los \nestacionamientos y bodegas. \nPor otra parte, con fecha ffff, se presentó una complementación, en la cual XXXXX aclara que el \ncontribuyente por el cual realiza la consulta opera como una empresa constructora que construye \nbajo la modalidad de contratos generales de construcción a suma alzada. \n\n\n2 \n \nFinalmente, solicita confirmar que: \na)   \nLa venta o construcción de bodegas y/o estacionamientos tienen derecho al crédito especial \nde empresa constructora en la medida que accedan a una vivienda (inmueble principal), \ncuyo costo de construcción sea de dos mil unidades de fomento o menos; \nb) \nNo se pierde el derecho al crédito especial de empresa constructora si entre el costo de \nconstrucción de la vivienda principal y la bodega y/o estacionamiento se excede de dos mil \nUF. En este sentido, se requiere confirmar que lo relevante es que la vivienda principal \ntenga un valor inferior a dos mil UF y que tanto la bodega como el estacionamiento tengan \ntambién un costo individualmente considerado que no exceda de las dos mil UF, y;  \nc) \nSe tiene derecho al crédito especial de empresa constructora en la medida que quien \nadquiera el estacionamiento y bodega sea propietario de una vivienda en el mismo proyecto \nque tenga un valor de construcción de dos mil UF o menos, independiente que la bodega \ny/o estacionamiento la adquiera en conjunto con la vivienda (en la misma compraventa) o \nen un acto posterior, teniendo en consideración que en este tipo de proyectos es normal que \nquede un remanente de estacionamientos y bodegas. \n \nII.- ANÁLISIS: \n \nEl Art. 21°, del D.L. N° 910, de 1975, dispone en su inciso primero que: “Las empresas \nconstructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la \nLey sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban \ndeterminar en la venta de bienes corporales inmuebles para habitación por ellas construidos cuyo \nvalor no exceda de 2.000 unidades de fomento, con un tope de hasta 225 (doscientas veinticinco) \nunidades de fomento por vivienda, y en los contratos generales de construcción de dichos \ninmuebles que no sean por administración, con igual tope por vivienda, de acuerdo con las \ndisposiciones del decreto ley Nº 825, de 1974…”. \nPor su parte, el inciso tercero de la citada norma legal establece que: “Para los efectos de este \nartículo, deben entenderse incluidos en el concepto \"habitación\", también las dependencias \ndirectas, tales como estacionamientos y bodegas amparadas por un mismo permiso de edificación \no un mismo proyecto de construcción, siempre que el inmueble destinado a la habitación \npropiamente tal constituya la obra principal del contrato o del total contratado. Para acceder al \nbeneficio la empresa constructora deberá contar con el respectivo permiso municipal de \nedificación”. \nAl respecto, mediante Circular N° 26, de 5/8/1987, se instruyó en su Título VII, que para que en \nestos casos “proceda el crédito especial, respecto de los estacionamientos y bodegas, estos deben \nacceder a un inmueble destinado a la habitación que haya dado derecho a igual beneficio al \nadquirente de dichas dependencias”. \nPor su parte, en Circular N° 52, de 15/9/2008, mediante la cual se instruyeron modificaciones \nincorporadas a la franquicia, entre las que se cuenta el establecimiento de topes al beneficio, se \nseñaló, respecto de los estacionamientos y bodegas que, cumplidos los requisitos dispuestos en el \ninciso tercero del artículo 21°, los estacionamientos y bodegas accederán a la franquicia \nconsiderándose para estos efectos como inmuebles separ"
+    },
+    {
+      "name": "Oficio N°1649 (29/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1649 (29/06/2021)",
+      "document_id": "2cbd4ae2-b813-51b1-9569-4c38d1eeb6de",
+      "chunk_uuid": "3e65a032-43f9-521b-99b6-ee43f8d700ed",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1649-29%2F06%2F2021.pdf&extension=pdf&acc=download&id=7f202a74-fb6b-4dc6-9e5b-90abdee84d1a&mediaType=application%2Fpdf",
+      "content": " la aplicación del CEEC en \nla venta de las viviendas.  \n \n2)  Supuesto se confirma el punto anterior, para efectos de calcular el CEEC a que tiene derecho, \nel contribuyente deberá utilizar, alternativamente:  \na)  El factor 0,1235 directamente sobre el precio de venta menos el terreno, o  \n \n1  A modo ilustrativo, el contribuyente enumera una serie de labores que ha debido efectuar para realizar el término de la construcción de \nlos inmuebles. \n\n\n2 \n \nb)  Dado que una parte de la construcción fue realizada por un tercero, sólo podrá solicitar el \nCEEC por la parte que material y efectivamente fue construida por el contribuyente.  \n \nEn este segundo caso, se solicita confirmar (o en su caso clarificar) la mecánica de \ndescuento del valor de la construcción efectuada por el tercero.  \n \nII  ANÁLISIS  \n \nEl inciso primero del artículo 21 del Decreto Ley N° 910 de 1975 establece un crédito especial2 que \nfavorece exclusivamente a las empresas constructoras por la venta de bienes corporales inmuebles \npara habitación por ellas construidos, cuyo valor no exceda de 2.000 UF, con un tope del beneficio \nde hasta 225 UF por vivienda o bien por los contratos generales de construcción de dichos \ninmuebles, que no sean por administración, con igual tope por vivienda.  \n  \nEl beneficio se extiende, según la parte final del referido inciso primero, a las empresas \nconstructoras por las ventas de viviendas que se encuentren exentas de IVA por efectuarse a \nbeneficiarios de un subsidio habitacional otorgado por el MINVU conforme lo dispuesto en la \nprimera parte del artículo 12, letra F), de la LIVS, en cuyo caso el beneficio será equivalente al \n0,1235, del valor de la venta, descontado el terreno3 y con igual tope por vivienda.  \n \nPara que una empresa constructora impetre el beneficio, en el caso de la venta de bienes corporales \ninmuebles destinados a la habitación, ya sea ésta gravada o exenta de IVA, es que los inmuebles \nhayan sido construidos por la empresa constructora que los vende.  \n \nLo anterior se comprueba no solo al disponer la ley expresamente que los inmuebles deban ser “por \nellas construidos” – y no “por ellas total o parcialmente construidos” – requisito que sólo puede \ncumplirse cuando los inmuebles vendidos son construidos en su totalidad por la empresa \nconstructora que los vende, sino también por la mecánica para calcular el beneficio sobre el valor \nde venta del bien inmueble, descontado el terreno, en caso que la venta sea exenta.  \n \nLuego, y a falta de texto legal, este Servicio no puede, administrativamente, crear fuera de ley un \nmecanismo distinto de cálculo, de suerte que no corresponde el beneficio en el caso analizado.  \n \nIII  CONCLUSIÓN  \n \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que, para el caso \ndescrito en su presentación:  \n \n1) \nLa venta de viviendas que efectuará el contribuyente a beneficiarios de un subsidio \nhabitacional exenta de IVA en virtud del artículo 12, letra F), de la LIVS, no se favorece con \nel crédito especial de empresas constructoras establecido en el artículo 21 del Decreto Ley N° \n910 de 1975, por no recaer la venta en inmuebles construidos totalmente por el contribuyente. \n  \n2)  Conforme lo anterior, sólo corresponde aplicar el mecanismo de cálculo del crédito especial en \nla forma que prescribe la propia ley, de modo que no es posible confirmar ni referirse a los \ncriterios señalados en el N° 2) del Antecedente.  \n \nSaluda a usted, \n \n \n \n2  “Las empresas constructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a \nla Renta el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales inmuebles para \nhabitación"
+    },
+    {
+      "name": "Oficio N°3233 (15/11/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3233 (15/11/2021)",
+      "document_id": "f8d8ae70-2659-5774-ae59-312ce95c9e6b",
+      "chunk_uuid": "8ffa16d3-9bf1-53ab-a18f-a011f63c9487",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3233-15%2F11%2F2021.pdf&extension=pdf&acc=download&id=04ed12c5-b04f-4475-ad63-9dcfb2d39080&mediaType=application%2Fpdf",
+      "content": " \nempresas constructoras a la luz de la normativa vigente a esa fecha y, por tanto, la \nadjudicación no se habría encontrado afecta a IVA, excluyéndose automáticamente de la \naplicación del beneficio. \nLo anterior queda de manifiesto porque la circular prosigue instruyendo que las \n“mencionadas sociedades, comunidades y cooperativas deberán cumplir los mismos \nrequisitos y exigencias que tienen las empresas constructoras en general para impetrar el \nreferido derecho y tener presente también las instrucciones que sobre la materia se imparten \nen los párrafos anteriores”. \nCon ello queda claro que la instrucción contenida en la circular y citada en el N° 1 anterior, \nprima en términos de que para hacer uso del beneficio debe tratarse de la venta de un bien \ninmueble para habitación, construido por una empresa constructora. \n3)  La exigencia que el beneficio pueda ser impetrado sólo por los inmuebles construidos por la \nempresa constructora no está en el párrafo final del inciso primero del artículo 21 del Decreto \nLey N° 910 de 1975 (que regula el beneficio en el caso de la venta de viviendas con \nsubsidio) sino que en la primera parte del mismo inciso, que dice relación con otra \ncircunstancia – que la venta esté gravada con IVA, lo que eventualmente podría dar a \nentender que solo a ese supuesto es aplicable la limitación. \nAl respecto, la Circular N° 13 de 2016 instruyó que el objetivo de la modificación que otorgó \nla franquicia a la venta de viviendas exentas de IVA, en virtud del artículo 12, letra F, de la \nLIVS, fue permitir a las empresas constructoras que realicen este tipo de operaciones – \nliberadas de IVA – acceder al mismo tratamiento tributario, en relación al crédito especial \n\n\n3 \n \nconsagrado en el artículo 21 del Decreto Ley N° 910 de 1975, que aquel otorgado a sus pares \ncuando venden o suscriben contratos de construcción que no sean por administración, en sus \noperaciones gravadas, dejando en claro1 que el monto del beneficio y los requisitos para \nimpetrarlo deben ser los mismos en ambos casos, es decir, debe tratarse de ventas de \ninmuebles para habitación construidos por las empresas constructoras o bien de contratos \ngenerales de construcción destinados a ese mismo fin. \n4)  Que, a su juicio, el propio artículo 21 del Decreto Ley N° 910 de 1975, inciso séptimo2 \nadmite la posibilidad de utilizar la franquicia cuando la construcción es realizada sólo en \nparte por la empresa constructora. \nSobre el particular, dicha normativa es referida por disposición expresa de la ley sólo a la \naplicación del beneficio cuando se trata de contratos generales de construcción que, tributaria \ny jurídicamente, constituyen una convención distinta de la venta3, por lo que dicha \nnormativa, no puede ser aplicada por similitud o analogía a los contratos que den cuenta de la \nventa de un inmueble. \n5)  Que, de proceder el beneficio sólo por una parte de la venta del inmueble, argumenta la \nposibilidad de realizar el cálculo en forma proporcional. Para ello cita como referencia la \nnorma contenida en el inciso cuarto del artículo 21 del Decreto Ley N° 910 de 1975, relativa \na la aplicación de la franquicia en los contratos generales de construcción a suma alzada, \ncuyo objeto es la urbanización de terrenos destinados a viviendas sociales. Señala que, en \neste caso, aun cuando la norma legal no estableció el uso proporcional del beneficio, este \nServicio, mediante Circular N° 52 de 2008, instruyó esa forma de cálculo cuando en un \nmismo terreno se construyeran viviendas sociales y otro tipo de viviendas4. \nAl respecto, dicha situación no es comparable ni con la venta de un inmueble destinado a \nhabitación, ni con la construcción de un bien inmueble destinado al mismo fin, atendido que \nen el caso de la urbanización de un terreno las obras de urbanización"
+    },
+    {
+      "name": "Oficio N°4905 (20/12/2006)",
+      "source_type": "oficio",
+      "source": "Oficio N°4905 (20/12/2006)",
+      "document_id": "be31c530-bd7b-58f8-a706-bd85c17d3be5",
+      "chunk_uuid": "fbb4f865-e9c9-5a42-8440-1c21f721f9d7",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2006/ventas/ja4016.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ventas y Servicios - 2006\nVENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8°, LETRA\nK), ART. 2°, N° 1 – DECRETO LEY N°910, DE 1975, ART. 21°. (ORD. N° 4.905, DE 20.12.2006)\nCRÉDITO ESPECIAL PARA EMPRESAS CONSTRUCTORAS DEL ARTÍCULO21° DEL DECRETO LEY N°\n910, DE 1975 – CONTRIBUYENTE PERSONA NATURAL CON GIRO DE EMPRESA CONSTRUCTORA\nQUE HACE TÉRMINO DE GIRO – VERIFICACIÓN DE FACTURA POR VENTA DE INMUEBLE A NOMBRE\nDEL MISMO CONTRIBUYENTE – LA OPERACIÓN DESCRITA NO CONSTITUYE VENTA, SINO UN\nRETIRO POR PARTE DEL DUEÑO – LA EXPRESIÓN VENTA UTILIZADA POR LA NORMA QUE\nESTABLECE EL CRÉDITO ESPECIAL, COMPRENDE SOLAMENTE LA VENTA COMO HECHO\nGRAVADO BÁSICO Y NO AL RETIRO.\n1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente, mediante la cual solicita un\npronunciamiento respecto a la procedencia de utilizar el crédito especial del artículo 21 del D.L. N° 910 de\n1975 por parte del contribuyente XXXXXX, con giro empresa constructora, que con ocasión del término de\ngiro al día 31 de Diciembre de 2005, presentado el día 28 de febrero de 2006, verificó la Factura N° 00 de\nfecha 31 de Diciembre de 2005 emitida a nombre de este mismo contribuyente por venta de una casa\nhabitación en la suma de $00.000.000.-\nEl valor de la vivienda contempla el recargo del Impuesto al Valor Agregado ($0.000.000), menos la rebaja\nde 65% de crédito especial ($0.000.000.-), valores que declaró en el Formulario 29 del mes de Diciembre de\n2005 conjuntamente con remanente de crédito fiscal IVA acumulado de meses anteriores, quedándole un\nremanente de crédito especial de empresas constructoras que asciende a $0.000.000. Finalmente, el\nremanente de este crédito especial lo imputa actualizado en el formulario 2121 de término de giro por la\nsuma de $0.000.000.-, resultando un saldo a favor del contribuyente por $0.000.000.-\n2.- El artículo 8° del D.L. N° 825, de 1974, grava con IVA las ventas y servicios. Por otra parte, el N° 1 del\nartículo 2° del mismo cuerpo normativo define en lo pertinente la venta, como toda convención independiente\nde la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes\ncorporales inmuebles de propiedad de una empresa constructora construidos totalmente por ella o que en\nparte hayan sido construidos por un tercero para ella.\nEl artículo 8° letra k) del citado texto legal, señala que para estos efectos, serán considerados también como\nventas:\n“Los aportes y otras transferencias, retiros y ventas de establecimientos de comercio y otras universalidades,\nque comprendan o recaigan sobre bienes corporales inmuebles del giro de una empresa constructora”.\nPor su parte, el artículo 21 del D.L. N° 910 señala “las empresas constructoras tendrán derecho a deducir del\nmonto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta el 0,65 del débito del\nImpuesto al Valor Agregado que deban determinar en la venta de bienes corporales inmuebles para\nhabitación por ellas construidos y en los contratos generales de construcción que no sean por administración\nde dichos inmuebles, de acuerdo con las disposiciones del decreto ley N° 825 de 1974...”.\n3.- A efectos de determinar la procedencia de la franquicia que se analiza, debe tenerse presente, en primer\nlugar,"
+    },
+    {
+      "name": "Oficio N°1243 (12/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1243 (12/05/2021)",
+      "document_id": "522a88e7-2e5a-57bb-b7f2-d59a86c3604c",
+      "chunk_uuid": "07437535-a678-54f4-87db-8bab7fcc4c46",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1243-12%2F05%2F2021.pdf&extension=pdf&acc=download&id=bd2d0510-080e-4b9f-9085-8b047344b663&mediaType=application%2Fpdf",
+      "content": "adquiere o encarga la construcción del bien corporal inmueble para venderlo o \nentregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional \notorgado por dicho Ministerio, por lo que no se cumpliría el requisito establecido en la \nletra F del artículo 12 de la LIVS para que los referidos contratos de construcción de las \nviviendas quedaran exentos de IVA.  \n \nAl respecto, se reitera que, de acuerdo con la citada norma, la calidad de beneficiario \ndebe “constar” en el contrato respectivo, “debiendo aplicarse el impuesto al valor \nagregado en caso contrario”. Luego, si la calidad de beneficiario no sea cierta, \nmanifiesta o registrada por escrito en el respectivo contrato (no consta), es \nimprocedente la exención.  \n \nPrecisado lo anterior, y no obstante que es improcedente en la especie la exención en \ncomento, supuesto que fuere aplicable y respecto de dichas operaciones el \ncontribuyente emitió facturas afectas a IVA, a continuación se analiza si es posible \ncorregir el error acogiéndose a la Resolución Ex. N° 24 de 2020.  \n \nDicha resolución establece un procedimiento especial para determinar la procedencia \ndel crédito fiscal para los contribuyentes que se dedican a la venta habitual de bienes \ncorporales inmuebles construidos y las empresas constructoras, toda vez que no \nsiempre pueden determinar a priori si el IVA soportado en la adquisición o construcción \nde las viviendas se afectará a operaciones gravadas atendido que, por regla general, no \n\n\n3 \n \nes posible determinar de antemano por dichos contribuyentes que todo o parte del \nprecio será financiado por el adquirente con subsidio habitacional.  \n \nLuego, la resolución establece un régimen especial, aplicable sólo en las circunstancias \nparticulares que la misma resolución se encarga de explicitar, sin que pueda extenderse \na otras hipótesis no previstos en ella.  \n \nEn el caso en consulta, supuesto que AAA estaba exenta y podía determinar si procedía \no no el crédito fiscal (si los contratos suscritos con las inmobiliarias hubieren dejado \nconstancia expresa que los bienes encargados construir serían vendidos a beneficiarios \nde un subsidio habitacional, los que financiarán con el referido subsidio todo o parte de \ndichas operaciones), no correspondía acogerse a los ajustes establecidos en la \nResolución Ex. N° 24 de 2020, atendido que dicha resolución no contempla la \nregularización de errores de facturación del débito fiscal.  \n \nEn efecto, en la situación hipotéticamente planteada – facturación indebida de un débito \nfiscal superior al que correspondía – de conformidad con el artículo 22 de la LIVS, los \ncontribuyentes deben considerar los importes facturados para la determinación del \ndébito fiscal mensual del período, salvo que subsanen dicho error en el mismo período \ntributario o en el siguiente, emitiendo una nota de crédito extendida de conformidad con \nel artículo 57 de la LIVS.  \n \nEn caso de no haberlo solucionado de esa forma, pueden obtener la devolución de los \nimpuestos pagados indebidamente o en exceso de acuerdo con el procedimiento \nestablecido en el artículo 126 del Código Tributario, para lo cual también es requisito \nindispensable la emisión de una nota de crédito.  \n \nLuego, el contribuyente puede solicitar devolución conforme al procedimiento \nestablecido en el artículo 126 del Código Tributario en la medida que en algún período \ntributario se verifique un pago indebido o en exceso de impuestos, acreditando en las \ninstancias de fiscalización la devolución de las sumas facturas indebidamente a las \ninmobiliarias conforme al artículo 128 de dicho Código.  \n \nSi el contribuyente solicita la devolución del impuesto de acuerdo con el artículo 126 del \nCódigo Tributario, se debe considerar, conforme al N° 2° del artículo 23 de la LIVS, que \nrespecto de estas operaciones el"
+    },
+    {
+      "name": "Circular N°26 (05/08/1987)",
+      "source_type": "circular",
+      "source": "Circular N°26 (05/08/1987)",
+      "document_id": "47419029-ccea-5170-ac13-a58a44aec885",
+      "chunk_uuid": "13831c2b-1e24-55f9-b5bf-ae4d08e373fe",
+      "chunk_id": 21,
+      "url": "https://www.sii.cl/documentos/circulares/1987/circu26.pdf",
+      "content": "icio de lo dispuesto en el artí- culo 2º mencionado anteriormente, respecto de las empresas que no son constructoras, el cual fija una vigencia especial al derecho a crédito fiscal desde el 1º de octubre de 1986.\nEl artículo 5º, reemplaza el texto del artículo 21 del decreto ley Nº 910, de 1975, con vigencia a contar del día 1º de octubre de 1987.\nMediante esta nueva disposición legal se establece un crédito especial para las empresas constructoras res- pecto de la venta de inmuebles que hayan construido para habitación y también por los contratos de construcción, que no sean por administra- ción, de este mismo tipo de construcción.\nDicho crédito especial, que es del 0,65 del débito del Impuesto al Valor Agregado respectivo, deberá registrar- se en la factura y podrá imputarse a los pagos provisionales obligato- rios de la Ley sobre Impuesto a la Renta o a cualquier otro impuesto de retención o recargo que debe pagarse en la misma fecha. Si efectua- das las referidas imputaciones aún quedare un remanente al término del ejercicio, éste tendrá el carácter de un pago provisional voluntario a devolver en la forma señalada en el artículo 97 de la Ley de la Renta.\nEn este mismo nuevo artículo 21, se da también derecho al citado crédito especial a los pagos que se efectúen con motivo de los contratos generales de construcción que se celebren con determinadas instituciones que no persiguen fines de lucro y que cumplen otros requisitos que el mismo precepto legal señala. Dada la naturaleza de la franquicia, el Ministerio de Hacienda deberá autori- zar a las instituciones que cumplan con las exigencias establecidas en el nuevo artículo 21 del decreto ley Nº 910.\nEn el artículo 6º, se introduce una mo- dificación al artículo 75 del Código Tributario, por la cual se especi- fica que en los casos de venta de bienes corporales inmuebles o de un\ncontrato general de construcción, la obligación de los notarios y demás ministros de fé de dejar constancia del pago del tributo se entenderá cumplida registrando el número y fecha de la factura correspondiente.\nEl artículo 1º transitorio establece un régimen especial durante un período de dieciocho meses a contar del 1º de octubre de 1987, por las operaciones que se efectúen con personas que no recuperan el IVA, ya sea total o parcialmente, y que provengan de un contrato general de construcción, que no sea por administración, celebrado con anterioridad a esa fecha; celebrado en virtud de propues- tas públicas abiertas con anterioridad a esa fecha; promesas de venta de bienes corporales inmuebles que se encuentren protocolizadas ante no- tario a esa misma fecha y los contratos de venta de estos inmuebles que se suscriban en cumplimiento de estas promesas de venta cuando el in- mueble aún se encuentre en construcción al celebrarse ese contrato de venta.\nEl citado régimen especial básicamente consiste en dejar vigente para las operaciones mencionadas, la normati- va legal que rige actualmente para la actividad de la construcción.\nFinalmente, el artículo 2º transitorio hace extensivo, a los permisos de edificación aprobados a la fecha de publicación de la ley Nº 18.630, el régimen tributario especial señala- do en el artículo 1º transitorio, a las empresas constructoras por las operaciones y contratos que realicen con motivo de las construcciones destinadas a viviendas situadas en las Zonas Francas de Extensión.\nEn los Capítulos siguientes de esta Cir- cular se imparten instrucciones más específicas sobre la materia.\nCAPITULO IV.- MODIFICACIONES AL TEXTO DEL D.L. Nº 825, de 1974, PARA INCORPORAR LA ACTIVIDAD DE LA CONSTRUCCION AL IVA.\nEn el artículo 1º de la Ley Nº 18.630, se contienen las modificaciones que se introducen al texto del decreto ley Nº 825, de 1974, para incorporar la actividad de la construcción al régimen del Impuesto al Valor Agregado. Respecto de dichas modificacio- nes, se entregan los comentarios señal"
+    },
+    {
+      "name": "Oficio N°1299 (09/06/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1299 (09/06/2017)",
+      "document_id": "8a7cc8c8-2e12-5b68-801e-7b20fc77d1c3",
+      "chunk_uuid": "bcd8a847-c1bf-5acb-a68a-fdaf05ef7d45",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1299.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nï»¿\nVENTAS Y SERVICIOS â€“ NUEVO TEXTO â€“ ACTUAL LEY SOBRE IMPUESTO A LAS â€“ ART. 12,\nLETRA F) â€“ DECRETO LEY NÂ° 910, DE 1975, ART. 21. (Ord. Nº 1299, de 09-06-2017)\nPROCEDENCIA DE APLICAR EL CRÃ‰DITO ESPECIAL CONTENIDO EN EL ART. 21Â°, DEL D.L. NÂ°\n910, DE 1975, EN CONTRATO DE CONSTRUCCIÃ“N A SUMA ALZADA PARA LA CONSTRUCCIÃ“N DE\nVIVIENDAS QUE CUENTAN CON SUBSIDIO HABITACIONAL.\nSe ha solicitado a esta Dirección Nacional pronunciarse sobre la procedencia de aplicar el crédito especial\ncontenido en Art. 21°, del D.L. N° 910, de 1975, en contrato de construcción a suma alzada para la\nconstrucción de viviendas que cuentan con subsidio habitacional.\n I.-        ANTECEDENTES:\nXXXX es una cooperativa de viviendas sin fines de lucro que se adjudicó con SERVIU los Subsidios para\nconstruir un Proyecto de Integración Social acogido al Decreto Supremo N° 19, del MINVU, en donde el\n100% de las viviendas del conjunto (393 viviendas) cuenta con Subsidio Habitacional asignado.\nPara la construcción de esas viviendas XXXX llamó a una licitación a empresas constructoras, manifestando\nque el contrato de construcción de ellas estaría exento del Impuesto al Valor Agregado por ser viviendas para\nbeneficiarios de un Subsidio Habitacional otorgado por el MINVU.\nAdemás, manifestó a todos los participantes en la licitación que, para el cálculo de la oferta final a suma\nalzada por la construcción de las viviendas, las empresas constructoras debían considerar que de ese monto\nse recupera el 12,35% del valor del contrato exento, deduciendo dicho monto de los pagos provisionales\nmensuales de la Ley sobre Impuesto a la Renta. XXXX les señaló también, que debían considerar todos sus\ncostos, gastos generales y utilidades ya sean afectos o no afectos al Impuesto al Valor Agregado, en una\ncuenta única ya que, por tratarse de un contrato con facturación exenta de IVA, no serían recuperados los\ncréditos de IVA relacionados con dichos   costos.\nEn el caso en consulta se trataría de un contrato exento a suma alzada por un monto total de xxxxxx U.F., por\nla construcción de 393 viviendas más los equipamientos, áreas verdes y otros exigidos en la licitación, dando\nun valor promedio de xxxxx U.F. por vivienda.\nEl valor a deducir de los pagos provisionales obligatorios de la Ley sobre Impuesto a la renta ascendería a\nxxxxxx U.F., correspondiendo a xxxx U.F. por vivienda.\nDe acuerdo a las modificaciones introducidas por la Ley N° 20.899, de 2016, las empresas constructoras que\nvendan viviendas o suscriban contratos generales de construcción con beneficiarios de un subsidio\nhabitacional que financien en todo o parte de dichas operaciones con el referido subsidio, tendrán un\nbeneficio equivalente a un 0,1235, del valor de la venta, el cual se deducirá de los pagos provisionales\nobligatorios de la Ley sobre Impuesto a la Renta.\nConsiderando lo anterior y llevando esta disposición a la práctica, señala que cada vez que facture procederá\na incluir en la línea N° 111 “Créditos Especiales”, del Formulario N° 29, un 12,35% de dicha facturación como\nremanente de crédito especial de empresas constructoras y en caso que dicho crédito exceda el PPM, lo\ndeclarará como remanente de créditos especiales en la línea 117, del mismo formulario.\ninalmente solicita validar el uso de este crédito en el contrato antes señalado y a su vez se les aclare la forma\nen que se recuperarán los remanentes que"
+    },
+    {
+      "name": "Oficio N°3070 (19/10/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°3070 (19/10/2022)",
+      "document_id": "14f003df-32e7-559c-aa85-b7cc587451c3",
+      "chunk_uuid": "5cd6238f-2640-5326-9de3-4a24712c19ce",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3070-19%2F10%2F2022.pdf&extension=pdf&acc=download&id=10585b52-d09b-41f1-931e-a2dd7b091edf&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART.12 LETRA F – DECRETO LEY N° \n910 – ART. 21 – LEY N° 21.420 – ART. 5° TRANSITORIO INCISO SEGUNDO – (ORD. \nN° 3070, DE 19.10.2022) \n \n \n \n \n \n \n \n \n \n \n \n \n \nProcedencia del crédito especial de empresas constructoras establecido en el artículo 21 del \nDecreto Ley N° 910 de 1975. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la procedencia del crédito especial de \nempresas constructoras establecido en el artículo 21 del Decreto Ley N° 910 de 1975. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, y tras las modificaciones introducidas por la Ley N° 21.420 al \ncrédito especial de empresas constructoras (CEEC) establecido en el artículo 21 del Decreto Ley \nN° 910 de 1975 (DL N° 910), consulta: \n1)  Si el contrato de construcción se firma antes del 1° de enero de 2023, mantiene el CEEC \ntotalmente como antes de la reforma. \n2)  Si, tratándose de autoconstrucción, las ventas de viviendas que se hagan antes del 1° de enero \nde 2023 serían totalmente exentas. Si quedarían gravadas las escrituras de venta firmadas \ndespués del 1° de enero de 2023. En este caso, consulta si existe norma transitoria y qué \npasaría con un proyecto que se empezó a vender y escriturar antes del 1° de enero de 2023 y \nle quedan viviendas para después de esa fecha. \nII  ANÁLISIS \nEl inciso segundo del artículo quinto transitorio de la Ley N° 21.4201 establece que las empresas \nconstructoras que celebren2 contratos generales de construcción, que no sean por administración \nde bienes corporales inmuebles para habitación, con anterioridad al 1° de enero de 2023, y que \ncumplan con los requisitos que se señalan a continuación, podrán deducir como CEEC un 0,65 del \ndébito del IVA, que deban determinar respecto de los referidos contratos, en los mismos términos \ndel artículo 21 del DL N° 910, en su versión vigente al 4 de febrero de 2022: \na)  Tratarse de un contrato general de construcción que no sea por administración, que recaiga \nsobre un bien corporal inmueble destinado a la habitación, cuyo valor no exceda de 2.000 \nUF, con un tope de 225 UF por unidad de vivienda; \nb)  Que estos contratos se hayan celebrado antes del 1° de enero de 2023; \nc)  Que se haya obtenido el respectivo permiso municipal de edificación con anterioridad al 1° \nde enero de 2023; y, \nd)  Que las obras se hayan iniciado al 31 de diciembre de 20233. \nLuego, en relación con la consulta 1) del Antecedente, se informa que el contrato de construcción \nfirmado (se entiende, celebrado) antes del 1° de enero de 2023, y que cumple demás exigencias \nlegales, mantiene el CEEC totalmente como antes de la reforma. \nEn cuanto a la consulta 2) del Antecedente, se informa que la Ley N° 21.420, salvo lo relacionado \ncon la utilización del CEEC, mantuvo vigentes las exenciones de IVA en las ventas y en los \ncontratos de construcción de viviendas cuando son financiadas en todo o parte con subsidio \nhabitacional, según lo dispone la letra F del artículo 12 de la LIVS. \n          \n1  La Ley N° 21.420 fue modificada por la Ley N° 21.462. \n2  La Circular N° 43 de 2022 instruye que “celebrar” implica que las características o elementos que determinan las consecuencias \njurídicas para la legislación tributaria hayan sido determinados con anterioridad al 1° de enero de 2023 o"
+    },
+    {
+      "name": "Oficio N°1477 (07/06/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1477 (07/06/2021)",
+      "document_id": "4d72bb05-94c1-569c-b7cf-325f18a5f642",
+      "chunk_uuid": "a946cf5e-f9bd-521b-a701-86c7ec83c64a",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1477-07%2F06%2F2021.pdf&extension=pdf&acc=download&id=7c3739ec-eee2-4c9e-8a03-56480feb741d&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – LEY SOBRE IMPUESTO A LAS – \nDECRETO LEY N° 910, DE 1975, ART. 21 – DECRETO LEY N° 2.552 DE 1979, ART. 3 - \nCIRCULAR N° 52, DE 2008. (ORD. N° 1477, DE 07.06.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nCrédito especial de empresas constructoras a obras de urbanización. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la aplicación del crédito especial de \nempresas constructoras a obras de urbanización.  \n \nI  \nANTECEDENTES \n  \nDe acuerdo con su presentación, están ejecutando una obra con el IVA del 19% y postulando a \notra con la rebaja del 65%, siendo ambas muy similares, consultando cuándo se aplica la segunda.  \nAcompaña documentación relacionada con un proyecto de agua potable y alcantarillado en la \nComuna de AAA, y bases administrativas generales de un proyecto de colector de alcantarillado; \nconstrucción de una planta de tratamiento de aguas servidas, pavimentación de las calles; uniones \ndomiciliarias de alcantarillado red de impulsión y otras obras en la Comuna de BBB.  \n \nII  ANÁLISIS  \n \nEl inciso primero del artículo 21 del Decreto Ley N° 910 de 1975 dispone que las empresas \nconstructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la \nLey sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban \ndeterminar en la venta de bienes corporales inmuebles para habitación por ellas construidos cuyo \nvalor no exceda de 2.000 unidades de fomento, con un tope de hasta 225 unidades de fomento por \nvivienda, y en los contratos generales de construcción de dichos inmuebles que no sean por \nadministración, con igual tope por vivienda.  \n \nEl inciso cuarto de la norma citada establece que este beneficio no será aplicable a los contratos \ngenerales de construcción, que no sean por administración, referidos a la urbanización de terrenos, \nexcepto para el caso de aquellos contratos que recaigan exclusivamente en las viviendas a que se \nrefiere el artículo 3° del Decreto Ley N° 2.552 de 1979, del Ministerio de Vivienda y Urbanismo, \nesto es, las denominadas viviendas sociales, definidas en la norma citada como aquellas viviendas \neconómicas de carácter definitivo, destinadas a resolver los problemas de la marginalidad \nhabitacional, financiadas con recursos públicos o privados, cualquiera que sean sus modalidades \nde construcción o adquisición, y cuyo valor de tasación no sea superior a 400 unidades de \nfomento.  \n \nCon relación a las obras mencionadas y según ha resuelto este Servicio1, procederá la franquicia \ncontenida en el artículo 21 del Decreto Ley N° 910 de 1975 en la medida que las viviendas sobre \nlas que recaiga o a las cuales acceda tengan el carácter de “viviendas sociales” en los términos \nestablecidos previamente.  \n \nCabe destacar que la Circular N° 52 de 2008 instruye que en el caso de urbanización de terrenos \ndestinados a viviendas sociales y otra clase de viviendas, amparadas en un mismo proyecto de \nconstrucción, el beneficio se determinará aplicando el 0,65 sobre aquella parte del débito \ngenerado en el contrato de urbanización equivalente a la proporción que en el total de la superficie \nconstruida o por construir representen las viviendas sociales en la superficie total construida.  \n \nAgrega la mencionada circular que en aquellos casos en que el mandante del contrato de \nurbanización sea un órgano del Estado, v. gr. SERVIU, MOP, Municipalidades, etc. y las \nviviendas a las que accede la urbanización no se encuentren construidas, serán dichos órganos"
+    },
+    {
+      "name": "Oficio N°2804 (14/09/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2804 (14/09/2022)",
+      "document_id": "e1c4885a-04a9-542d-8eeb-2034eebf9259",
+      "chunk_uuid": "4dbd16b6-e1e7-5680-85fa-99fea8a1c2cb",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2804-14%2F09%2F2022.pdf&extension=pdf&acc=download&id=b6e5f307-d189-4ff4-8b8b-7b1b7eb8f0cc&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – ART. 12 LETRA F, ART. 23 N° 6 – \nDECRETO LEY N° 910 – ART. 21 – (ORD. N° 2804, DE 14.09.2022) \n \n \n \n \n \n \n \n \n \n \n \n \n \nImprocedencia del crédito especial establecido en el artículo 21 del Decreto Ley N° 910 de \n1975 en el caso de una empresa inmobiliaria. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la posibilidad que una empresa \ninmobiliaria utilice el crédito especial para empresas constructoras establecido en el artículo 21 \ndel Decreto Ley N° 910 de 1975. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, el grupo empresarial AAA tiene una empresa inmobiliaria BBB \ny una empresa constructora CCC, a la cual BBB le encarga la construcción de sus proyectos, \nmediante la celebración de contratos de construcción a suma alzada. \nTras señalar que las viviendas que la inmobiliaria encarga construir a la empresa constructora \nconsisten generalmente en departamentos de hormigón o casas y considerando que se trata de dos \nempresas pertenecientes al mismo grupo, consulta si: \n1)  Puede la inmobiliaria hacer uso o sacar algún provecho del beneficio para empresas \nconstructoras establecido en el artículo 21 del Decreto Ley N° 910 de 1975 (DL N° 910). \n2)  Dicho beneficio puede ser cedido por la constructora a la inmobiliaria. \n3)  De ser posible, qué sucede con la franquicia establecida en el N° 6 del artículo 23 de la Ley \nsobre Impuesto a las Ventas y Servicios (LIVS) para la empresa inmobiliaria. \nII  ANÁLISIS \nEl inciso primero del artículo 21 del DL N° 910 otorga a las empresas constructoras el derecho – \ndenominado crédito especial para empresas constructoras (CEEC)1 – a deducir del monto de sus \npagos provisionales obligatorios de la Ley sobre Impuesto a la Renta el 0,65 del débito del IVA \nque determinen en la venta de bienes corporales inmuebles para habitación, por ellas construidos, \ncuyo valor no exceda de 2.000 UF, con un tope del beneficio de hasta 225 UF por vivienda, o bien \nen los contratos generales de construcción de dichos inmuebles, que no sean por administración, \ncon igual tope por vivienda, de acuerdo con las disposiciones de la LIVS. \nDicho beneficio se extiende a las empresas constructoras por las ventas de viviendas que se \nencuentren exentas de IVA por efectuarse a beneficiarios de un subsidio habitacional otorgado \npor el Ministerio de Vivienda y Urbanismo, conforme lo dispuesto en la primera parte del artículo \n12, letra F, de la LIVS, caso en el cual el beneficio será equivalente al 0,1235, del valor de la \nventa, descontado el terreno2 y con igual tope por vivienda3. \nPor contrato general de construcción se entiende aquel que, sin cumplir con las características \nespecíficas de un contrato de instalación o confección de especialidades, tiene por finalidad la \nconfección de una obra material inmueble nueva que incluya a lo menos dos especialidades4. \n \n1  Se hace presente que la Ley N° 21.420 elimina el CEEC contenido en el artículo 21 del DL N° 910, a contar del 1° de enero de \n2025, estableciendo un régimen de transición hasta esa fecha, que reduce gradualmente la tasa del beneficio. Ver artículos 5, inciso \nsegundo y artículo sexto transitorio de la Ley N° 21.420 y artículo único de la Ley N° 21.462 (que modificó las normas transitorias \nde la Ley N° 21.420). \n2  Párrafo 6 del N° 2 del Capítulo IV de la Circular N° 13 de 2016: “Respecto del monto del beneficio que estas empresas pueden \ndeducir de sus pagos provisionales obligatorios de la ley sobre Impuesto a la"
+    },
+    {
+      "name": "Oficio N°929 (09/04/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°929 (09/04/2021)",
+      "document_id": "330950a2-79ca-5a80-930e-93ccfc954a55",
+      "chunk_uuid": "226c8489-9b6a-53fd-a650-e7126fc83d50",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=929-09%2F04%2F2021.pdf&extension=pdf&acc=download&id=e8e46024-3739-4898-8d9d-fbe6e26666fb&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nRENTA – LEY SOBRE IMPUESTO A LA – ART. 14 TER LETRA A Y ART. 88 – D.L. N° 910, \nART. 21 \n \n(ORD. N° 929 DE 09.04.2021). \n \nProcedencia del crédito especial para empresas constructoras respecto de los contribuyentes que \nestaban acogidos al artículo 14 ter, letra A, de la Ley sobre Impuesto a la Renta. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la procedencia del crédito especial para \nempresas constructoras, establecido en el artículo 21 del Decreto Ley N° 910 de 1975, respecto de los \ncontribuyentes que estaban acogidos al artículo 14 ter, letra A, de la Ley sobre Impuesto a la Renta. \nI \nANTECEDENTES  \nDe acuerdo a su presentación, la declaración de impuestos anuales a la renta del año tributario 2020 de \nuna sociedad que estaba sujeta al régimen establecido en el artículo 14 ter, letra A, de la Ley sobre \nImpuesto a la Renta (LIR), vigente hasta el 31 de diciembre de 2019, cuyo giro es la construcción de \nedificios de uso residencial, fue observada por solicitar la devolución del excedente del crédito especial \npara empresas constructoras dispuesto en el artículo 21 del Decreto Ley N° 910 de 1975. \nTras señalar que tal crédito no se encuentra entre los que la letra c) del N° 3 de la letra A del artículo 14 \nter de la LIR autoriza a deducir del Impuesto de Primera Categoría (IDPC) y referirse a lo instruido en \ndicho sentido en la Circular N° 43 de 2016 y en Suplemento Tributario del año tributario 20201, solicita \nconfirmar que las empresas constructoras que estaban sujetas al régimen en comento no podían imputar \nel crédito especial para empresas constructoras en contra del IDPC. \nConsulta, por otra parte, si el saldo de tal crédito podía adoptar el carácter de pago provisional del \nartículo 88 de la LIR respecto dichos contribuyentes. \nII \nANÁLISIS  \nConforme a lo dispuesto en el artículo 21 del Decreto Ley N° 910 de 1975, y en términos generales, las \nempresas constructoras tienen derecho a deducir del monto de sus pagos provisionales obligatorios de la \nLIR el 0,65 del débito IVA que determinen en las hipótesis que dicha norma contempla y a imputar el \nremanente que resultare a cualquier otro impuesto de retención o recargo que deban pagar en la misma \nfecha. \nAgrega dicha norma que el saldo que aún quedare puede ser imputado a los mismos impuestos en los \nmeses siguientes, debidamente reajustado, y que el saldo que quedare una vez efectuadas las \ndeducciones por el mes de diciembre de cada año, o el último mes en el caso de término de giro, tiene el \ncarácter de pago provisional de aquellos a que se refiere el artículo 88 de la LIR. \nPor otra parte, y de acuerdo con lo que disponía la letra c) del N° 3 de la letra A del artículo 14 ter de la \nLIR, vigente hasta el 31 de diciembre de 2019, los contribuyentes que se encontraban acogidos a dicho \nrégimen no podían deducir de su IDPC ningún crédito o rebaja por concepto de exenciones o franquicias \ntributarias salvo aquel establecido en el artículo 33 bis de la LIR y el asociado al ingreso diferido y a los \nretiros y dividendos percibidos. \nDe este modo, considerando la referida limitación legal, los remanentes del crédito especial para \nempresas constructoras que los contribuyentes que se encontraban acogidos al régimen del artículo 14 \nter letra A de la LIR determinaron a diciembre de cada año, o al último mes en caso de término de giro, \nvigente dicha norma, no podían adoptar el carácter de pagos provisionales voluntarios, conforme al \nartículo 88 de la LIR, por cuanto aquello les hubiere permit"
+    },
+    {
+      "name": "Circular N°42 (05/06/2015)",
+      "source_type": "circular",
+      "source": "Circular N°42 (05/06/2015)",
+      "document_id": "72aed392-bcbe-5107-9c8f-9e467922a800",
+      "chunk_uuid": "a494c040-9acc-5de0-bbcb-119ab79fe73a",
+      "chunk_id": 19,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu42.pdf",
+      "content": " de contratos generales de construcción a suma alzada, por la parte del \nImpuesto al Valor Agregado que la empresa constructora tenga derecho a rebajar de sus pagos \nprovisionales mensuales, en virtud del artículo 21, del D.L. N° 910. Sin embargo, este derecho \nsólo procederá en el caso de contribuyentes que se dediquen en forma habitual a la venta de \nbienes corporales inmuebles. \n \nPor lo tanto, tratándose de vendedores habituales de bienes corporales inmuebles que hayan \nadquirido dichos bienes o contratado la construcción de los mismos, mediante un contrato \ngeneral de construcción a suma alzada, con una empresa constructora que haya hecho uso del \ncrédito especial contenido en el artículo 21°, del D.L. N° 910, podrán utilizar como crédito fiscal \nel 100% del débito fiscal recargado en su adquisición o construcción.  \n \nEs importante recalcar que dicho beneficio sólo procede cuando se trate de vendedores \nhabituales de bienes corporales inmuebles, razón por la cual, en el caso de otros \ncontribuyentes del IVA que no son habituales en la venta de inmuebles y  adquieren un bien \npor el cual se aplicó el beneficio del artículo 21°, del D.L. N° 910, no tendrán derecho a usar el \ntotal del crédito fiscal recargado en la operación, pudiendo hacer uso sólo de aquella parte \nefectivamente soportada, a saber, un 35% del impuesto facturado.  \n \nPara ejemplificar como opera este nuevo Art. 23°, N° 6, en la adquisición de viviendas \nefectuadas por contribuyentes que se dediquen a la venta habitual de bienes corporales \ninmuebles, se plantean dos situaciones: \n\n\n \n19\n \n1) La empresa constructora vende una vivienda a la inmobiliaria y ésta posteriormente \nla vende al consumidor final. \n \nEn este caso la empresa constructora es dueña del terreno y construye inmuebles para su \nventa. \n \nLa facturación que debe efectuar la empresa constructora es la siguiente: \n \nFECHA DE LA OPERACIÓN: 5/1/2016        TOPE ART. 21° D.L. N° 910:   3.000 UF \n \nCantidad \nDetalle \nPrecio Unitario \nTotal \n \n1 \nVivienda Villa “Santa Cecilia” casa N° 8 \nPrecio Neto (sin terreno)  \nmás 19%  IVA \nmenos crédito especial 65%  \nArt. 21°, D.L. N° 910 \nPrecio Final sin terreno \nValor del terreno \n \nPrecio Final incluido el terreno \n \n $50.000.000 \n $  9.500.000 \n($   6.175.000) \n \n $53.325.000 \n $10.000.000 \n \n \n \n \n \n \n \n \n \n \n$63.325.000 \n \n \nEl tratamiento tributario respecto del IVA y del crédito especial contenido en el Art. 21°, del \nD.L. N° 910, para la empresa constructora, se encuentra contenido en Circular N° 26, de \n5/8/1987, pero se reproduce a continuación (con las adecuaciones correspondientes al \npresente ejercicio) para una mayor claridad. \n \na) “No obstante de efectuar la deducción señalada del débito del IVA para los efectos de \nemitir la factura, las empresas constructoras deberán declarar en el formulario 29, el \ndébito total correspondiente (en el presente caso $9.500.000) conjuntamente con los \ndemás débitos y rebajar de éstos el crédito fiscal  del período o remanentes a que tengan \nderecho por el Impuesto soportado en las adquisiciones , utilización de servicios y gastos \ngenerales, según las normas comunes, que sean pertinentes, del decreto ley N° 825, de \n1974. En el libro de Compras y Ventas deberá, en todo caso, anotarse el total del débito \nen la columna que corresponda a éste y separadamente en otra columna como \ninformación, la cantidad deducida por concepto de la aplicación del 0,65 o crédito \nespecial que se determinó en la factura. \n \nb) En el formulario 29, del mismo periodo, la"
+    },
+    {
+      "name": "Oficio N°1231 (12/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1231 (12/05/2021)",
+      "document_id": "d66a8aa0-b2c7-55eb-ba4c-3f7c6fcd1307",
+      "chunk_uuid": "40cecce3-4d6e-5d73-b241-f7480d523b8c",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1231-12%2F05%2F2021.pdf&extension=pdf&acc=download&id=9c92b2da-46e9-4826-8ffe-e5e6bf11179e&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – LEY SOBRE IMPUESTO A LAS – ART. 8, \nLETRA G), ART. 12 LETRA F) – DECRETO LEY N° 910, DE 1975, ART. 21. \n(ORD. N° 1231, DE 12.05.2021) \n \n \n \n \n \n \n \n \n \n \n \n \n \nIVA en la construcción y venta de viviendas a beneficiaros de subsidio habitacional. \n \n \nSe ha solicitado a este Servicio un pronunciamiento sobre el tratamiento tributario de la \nconstrucción de viviendas que son financiadas con un subsidio habitacional entregado por el \nEstado. \n  \nI \n ANTECEDENTES  \n \nDe acuerdo con su presentación, consulta si una inmobiliaria que construye y vende viviendas \nsociales, en que el Estado entrega subsidio habitacional, puede recuperar el IVA crédito fiscal \nsoportado en la construcción de estas, ya sea total al final de la construcción o en forma parcelada, \npor cuanto se trata de una venta exenta de IVA.  \n \nConsulta, además, si una constructora que efectúa la construcción de las viviendas sociales y se \nlas factura a la inmobiliaria, puede solicitar la devolución del IVA crédito soportado en la \nconstrucción de las viviendas sociales y, como ella construyó, aprovechar el crédito especial de \nempresas constructoras.  \n \nII  \nANÁLISIS  \n \nComo cuestión preliminar, se hace presente que las “viviendas sociales”1 y las “viviendas \nadquiridas con subsidio habitacional”, que su presentación refiere como conceptos equivalentes, \nno son lo mismo, de suerte que la presente respuesta asumirá que la consulta trata de las \n“viviendas adquiridas con subsidio habitacional”.  \n \nAl respecto, y de acuerdo con la letra F del artículo 12 de la Ley sobre Impuesto a las Ventas y \nServicios (LIVS), se encuentra exenta de IVA la venta de vivienda efectuada al beneficiario de un \nsubsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo que adquiere la \nvivienda financiada en todo o parte con dicho subsidio.  \n \nEsta norma, incorporada por la Ley N° 20.780, fue modificada por la Ley N° 20.899, \nconsiderando también como beneficiarios de un subsidio habitacional a las personas naturales o \njurídicas que adquieran o encarguen la construcción de un bien corporal inmueble para venderlo o \nentregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional.  \n \nPara que opere la exención estas personas naturales o jurídicas, asimiladas a beneficiarios de un \nsubsidio habitacional, deben dejar constancia en el contrato de compraventa o en el contrato \ngeneral de construcción que los bienes adquiridos o encargados construir serán vendidos o \nentregados en arriendo con opción de compra a beneficiarios de un subsidio habitacional, los que \nfinanciarán con el referido subsidio todo o parte de dichas operaciones.  \n  \nDe no cumplirse dicho requisito la operación debe gravarse con IVA, conforme a las reglas \ngenerales.  \n \nPor otra parte, y de acuerdo con el N° 2 del artículo 23 de la LIVS, si la inmobiliaria construye y \nvende directamente viviendas exentas de IVA a beneficiarios de subsidio habitacional no procede \ncrédito fiscal respecto de los impuestos soportados en la construcción de las viviendas, debiendo \nconsiderarse como un mayor valor de adquisición y por ello integrante del costo directo de los \ninmuebles2.  \n          \n1 El artículo 3° del Decreto Ley N° 2552 de 1979, del Ministerio de Vivienda y Urbanismo, define vivienda social como aquella \nvivienda económica de carácter definitivo, destinada a resolver los problemas de la marginalidad habitacional, financiada con \nrecursos públicos o privados, cualesquiera que sean sus modalidades de construcción o adquisición, y cuyo valor de tasación no sea \nsuperior a 400 Unidades de Fomento. \n2  Circular N° 64 de 1978."
+    },
+    {
+      "name": "Oficio N°1836 (14/07/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1836 (14/07/2015)",
+      "document_id": "85031da2-a413-566c-b81f-32528964568e",
+      "chunk_uuid": "295df2ef-6ea6-5a5d-935f-425c03b222ab",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/ventas/ja1836.htm",
+      "content": "enda y Urbanismo, cuando esta haya sido financiada, en todo o parte, por el referido subsidio (h)w.\nSobre el particular, cabe hacer presente en primer lugar, que las exenciones tributarias tienen lugar cuando\nuna norma contempla que en aquellos supuestos expresamente previstos por ella, no obstante producirse el\nhecho imponible, no se desarrolla su efecto principal, esto es, el deber de pagar el tributo u obligación\ntributaria.\nAsí entonces, en el caso bajo análisis, no obstante que el hecho gravado ha nacido jurídicamente, es la\npropia ley quien ha eximido del pago del impuesto debido, lo cual se traduce en el hecho de no tener que\nrecargar impuestos a la venta respectiva, no existiendo por ende jurídicamente el denominado vdébito\nfiscalw.\nAtendido lo anterior, en el caso de que una empresa constructora venda un inmueble al beneficiario de un\nsubsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, cuando éste haya sido financiado,\nen todo o en parte, por el referido subsidio, se producen dos situaciones al tenor de la normativa tributaria\nanalizada:\na) Desde el punto de vista de la empresa constructora y el comprador, la venta del inmueble está exenta del\nImpuesto al Valor Agregado en conformidad a la norma del art. 12, Letra F de la LIVS.\nb) Desde el punto de vista de la empresa constructora, ésta no podrá ser beneficiaria del Crédito Especial de\nEmpresa Constructora establecido en el artículo 21 del D.L. 910, ya que para efectos de determinar el monto\nque la ley autoriza a deducir de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, se\nhace imprescindible que la venta del bien inmueble esté gravada con IVA, ya que la norma exige como\nrequisito para el cálculo de la suma indicada un débito del Impuesto al Valor Agregado por la venta de un bien\ncorporal inmueble.\nB. Tratamiento tributario del traspaso de bienes inmuebles que lleven a cabo las empresas constructoras en\nrelación con el Impuesto al Valor Agregado y el Impuesto a la Renta.\nDesde el punto de vista del IVA, en caso que la construcción no se haya iniciado y que, en consecuencia, la\n\n\nempresa constructora enajene el terreno donde se construirán las viviendas a una inmobiliaria y que\nposteriormente se celebre un contrato de construcción entre ambas, la transferencia del terreno no se\nafectará con IVA y el contrato general de construcción que se celebre entre la empresa constructora y la\ninmobiliaria estará afecto a IVA gozando la constructora del crédito especial contenido en el artículo 21° del\nD.L. 910, en los mismos términos que bajo la normativa vigente en la actualidad.\nSi la construcción ya se ha iniciado, por lo cual la empresa constructora traspasará las viviendas ya\nconstruidas a la respectiva inmobiliaria, como la inmobiliaria no goza de exención, la venta estará afecta a\nIVA y la constructora podrá aprovechar el crédito especial contenido en el artículo 21° del D.L. 910.\nDesde el punto de vista del Impuesto a la Renta, en ambas situaciones planteadas, sea que se haya\nconstruido o no la vivienda, se trata de un contrato de compraventa de un inmueble, cuya situación tributaria\nse regula en los artículos 29° y 30° de la Ley sobre Impuesto a la Renta, gravándose la renta obtenida con el\nImpuesto de Primera Categoría.\nConforme a dichas normas, los ingresos brutos respectivos, sea que hayan sido percibidos o devengados,\ndeberán ser reconocidos en el ejercicio en que se suscriba el contrato de compraventa correspondiente,\nprocediendo efectuar pagos provisionales sobre dichos ingresos brutos en conformidad a la letra a), del\nartículo 84 de la Ley sobre Impuesto a la Renta. En la misma oportunidad, procederá deducir de dichos\ningresos, el costo direct"
+    },
+    {
+      "name": "Circular N°52 (15/09/2008)",
+      "source_type": "circular",
+      "source": "Circular N°52 (15/09/2008)",
+      "document_id": "15218060-10f2-5692-bed4-0bbdf0a6770f",
+      "chunk_uuid": "02c35160-fa3e-5457-afa8-ed1999911139",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/documentos/circulares/2008/circu52.pdf",
+      "content": " sobrepasen tal monto, el beneficio imputable en cada\nfacturación de un estado de pago será la cantidad que resulte de aplicar, al crédito\npotencial total, la proporción que el estado de pago represente respecto del total del\nprecio de construcción de las viviendas del contrato.   El crédito total potencial será\nigual a la suma de los créditos individuales de las viviendas a construir con derecho\nal beneficio.\nComplementada por Circular Nº 39, del 25 de junio del 2009 \nModificada por Circular Nº 39, del 25 de junio del 2009 \n\n\n2\nLas modificaciones o el término anticipado de un contrato general de construcción, que \ncausen variaciones al crédito potencial disponible inicialmente previsto, darán lugar al \najuste correspondiente en los siguientes estados de pago, con el consiguiente derecho \na crédito o la obligación de reintegro respectiva.   En el caso de un contrato general de \nconstrucción destinado a completar la construcción de inmuebles para habitación, \ntambién se aplicarán las normas precedentes, pero, para establecer el crédito potencial \ndisponible, en el cálculo del crédito individual de las viviendas, deberá considerarse la \nsuma del precio individual de construcción del contrato más el valor de las obras \npreexistentes, el cual deberá ser declarado en el contrato.\nLas empresas constructoras deberán informar al Servicio de Impuestos Internos, en la \noportunidad y forma que éste determine, los antecedentes que sirvan de base para el \ncálculo del beneficio impetrado así como los compradores de los inmuebles o los \nmandantes de los contratos generales de construcción, que no sean por \nadministración.\nTratándose de contratos generales de construcción de inmuebles para habitación, que \nno sean por administración, celebrados con anterioridad al 1 de julio de 2009, se \nsujetarán al beneficio del inciso anterior si han obtenido el respectivo permiso municipal \nde edificación con anterioridad a dicha fecha y siempre que al 31 de diciembre de 2009 \nlas obras ya se hayan iniciado.”.\nCon las modificaciones introducidas, el nuevo texto legal ha quedado del siguiente \ntenor:\n“Artículo 21.- Las empresas constructoras tendrán derecho a deducir del monto de sus \npagos provisionales obligatorios de la Ley sobre Impuesto a la Renta el 0,65 del débito \ndel Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales \ninmuebles para habitación por ellas construidos cuyo valor no exceda de 4.500 \nunidades de fomento, con un tope de hasta 225 (doscientos veinticinco) unidades de \nfomento por vivienda, y en los contratos generales de construcción de dichos inmuebles \nque no sean por administración, con igual tope por vivienda, de acuerdo con las \ndisposiciones del Decreto Ley N° 825, de 1974.   El remanente que resultare de esta \nimputación, por ser inferior el pago provisional obligatorio o por no existir la obligación \nde hacerlo en dicho período, podrá imputarse a cualquier otro impuesto de retención o \nrecargo que deba pagarse en la misma fecha, y el saldo que aún quedare podrá \nimputarse a los mismos impuestos en los meses siguientes, reajustado en la forma que \nprescribe el artículo 27 del Decreto Ley N° 825, de 1974.   El saldo que quedare una \nvez efectuadas las deducciones por el mes de diciembre de cada año, o el último mes \nen el caso de término de giro, tendrá el carácter de pago provisional de aquellos a que \nse refiere el artículo 88 de la Ley sobre Impuesto a la Renta.\nLo dispuesto en el inciso anterior será aplicable también, sin las limitaciones de monto \nantes indicadas, a los contratos generales de construcción que no sean ejecutados por \nadministración, que las empresas constructoras celebren con la Cruz Roja de Chile, \nComité Nacional de Jardines Infantiles y Navidad, Consejo de Defensa del Niño, \nConsejo Nacional de Protección a la Ancianidad, Corporación de Ayuda al Menor -\nCORDAM"
+    },
+    {
+      "name": "Oficio N°1836 (14/07/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1836 (14/07/2015)",
+      "document_id": "85031da2-a413-566c-b81f-32528964568e",
+      "chunk_uuid": "f0ac31f4-7ebd-579b-bbb8-728891631436",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/ventas/ja1836.htm",
+      "content": "ado, ninguna vivienda con\nsubsidio estatal subirá de precio al no aplicarse el IVA a la segunda ventaw.\n\n\nDe lo expuesto aparece que la intención del legislador fue sólo dejar exenta la venta que quedaría gravada\ncomo consecuencia de la modificación introducida al artículo 2° del D.L. 825, la cual fue denominada como\nvsegunda ventaw.\nAsí las cosas, y teniendo presente el sentido restringido que debe orientar la interpretación de las\nexenciones, debe entenderse que la exención del nuevo artículo 12°, letra F del D.L. 825 no alcanza a los\ncontratos de construcción sino sólo a las ventas de viviendas financiadas en todo o parte con subsidios.\nIII.- CONCLUSIÓN:\nLas empresa constructoras, no pueden ser beneficiarias del Crédito Especial establecido en el artículo 21°\ndel D.L. 910, ya que para efectos de determinar el monto que la ley autoriza a deducir de sus pagos\nprovisionales obligatorios de la Ley sobre Impuesto a la Renta, se hace necesario que la venta del bien\ninmueble esté gravada con IVA, por cuanto para el cálculo de la suma indicada es necesario un débito del\nImpuesto al Valor Agregado por la venta de un bien corporal inmueble.\nRespecto del traspaso de bienes inmuebles que lleven a cabo las empresas constructoras en relación con el\nImpuesto al Valor Agregado en caso que la empresa constructora enajene el terreno donde se construirán las\nviviendas a una inmobiliaria y que posteriormente se celebre un contrato de construcción entre ambas, la\ntransferencia del terreno no se afectará con IVA y el contrato general de construcción que se celebre entre la\nempresa constructora y la inmobiliaria estará afecto a IVA gozando la constructora del crédito especial\ncontenido en el artículo 21°, del D.L. 910, y si la construcción ya se ha iniciado, la venta estará afecta a IVA y\nla constructora podrá aprovechar el crédito especial contenido en el artículo 21° del D.L. 910.\nDesde el punto de vista del Impuesto a la Renta, en ambas situaciones planteadas, sea que se haya\nconstruido o no la vivienda, se trata de un contrato de compraventa de un inmueble, cuya situación tributaria\nse regula en los artículos 29 y 30 de la Ley sobre Impuesto a la Renta, gravándose la renta obtenida con el\nImpuesto de Primera Categoría, según lo señalado en el análisis precedente\nLa exención del nuevo artículo 12°, letra F del D.L. 825 no alcanza a los contratos de construcción sino sólo a\nlas ventas de viviendas financiadas en todo o parte con subsidios.\nJUAN ALBERTO ROJAS BARRANTI\nDIRECTOR (S)\nOficio N° 1836, de 14.07.2015\nSubdirección Normativa\nDpto. de Impuestos Indirectos\n"
+    },
+    {
+      "name": "Oficio N°1243 (12/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1243 (12/05/2021)",
+      "document_id": "522a88e7-2e5a-57bb-b7f2-d59a86c3604c",
+      "chunk_uuid": "b076328a-9e65-516f-8ffc-9f6c25107515",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1243-12%2F05%2F2021.pdf&extension=pdf&acc=download&id=bd2d0510-080e-4b9f-9085-8b047344b663&mediaType=application%2Fpdf",
+      "content": " haya tratado el contrato de construcción como \nuna operación afecta a IVA y que luego se confirma su carácter exento de IVA.  \n \nLuego, consulta qué procedimiento seguir respecto de:  \n \n1)  Las facturaciones tratadas como afectas a IVA que se realizaron entre la constructora \ny las inmobiliarias.  \n2)  Los créditos fiscales incurridos y la renta líquida imponible de la constructora; y,  \n \n1  Reglamenta programa de integración social y territorial, y modifica el Decreto Supremo N° 1 de 2011, del Ministerio de Vivienda y \nUrbanismo, Reglamento del sistema integrado de subsidio habitacional. \n \n\n\n2 \n \n3)  La forma de reconocer y hacer valer el crédito especial para empresas constructoras \nestablecido por el artículo 21 del Decreto Ley N° 910 de 1975, correspondiente al \n12,35% del valor de venta o construcción con tope de 225 UF por vivienda, \ntratándose de operaciones exentas de IVA por aplicación de la letra F del artículo 12 \nde la LIVS.  \n \nII ANÁLISIS  \n \nLa letra F del artículo 12 de la LIVS establece una exención de IVA en la venta de una \nvivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio \nde Vivienda y Urbanismo, a los contratos generales de construcción y los contratos de \narriendo con opción de compra, cuando tales ventas, contratos o arriendos con opción \nde compra hayan sido financiados, en definitiva, en todo o parte, por el referido subsidio.  \nAgrega la norma que, para los efectos de la exención, se considerará también como \nbeneficiario de un subsidio habitacional, otorgado por el Ministerio de Vivienda y \nUrbanismo, a la persona natural o jurídica que adquiera o encargue la construcción de \nun bien corporal inmueble para venderlo o entregarlo en arriendo con opción de compra \nal beneficiario de un subsidio habitacional otorgado por dicho Ministerio, siempre que lo \nanterior conste en el contrato respectivo, debiendo aplicarse el IVA en caso contrario.  \n \nLa Circular N° 13 de 2016 instruye que, para operar la exención, estas personas \nnaturales o jurídicas, asimiladas a beneficiarios de un subsidio habitacional, deben dejar \nconstancia en el contrato de compraventa o en el contrato general de construcción que \nlos bienes adquiridos o encargados construir serán vendidos o entregados en arriendo \ncon opción de compra a beneficiarios de un subsidio habitacional, los que financiarán \ncon el referido subsidio todo o parte de dichas operaciones. De no cumplirse dicho \nrequisito la operación debe gravarse con IVA, conforme a las reglas generales.  \n \nEn caso que la venta o arrendamiento con opción de compra del inmueble finalmente no \nsea efectuada a un beneficiario de un subsidio habitacional otorgado por el Ministerio de \nVivienda y Urbanismo o si, siéndolo, éste no financie en todo o parte dicha operación \ncon el referido subsidio, el contribuyente deberá gravar con IVA, conforme las normas \ngenerales de la LIVS, las referidas operaciones de venta o de arrendamiento con opción \nde compra.  \n \nEn relación con esto último, revisados los contratos generales de construcción \ncelebrados entre la constructora y las inmobiliarias, si bien en ellos se indica que los \nproyectos se encontrarían enmarcados en las disposiciones del Reglamento, \nestrictamente no “consta” en los contratos respectivos que la persona natural o jurídica \nadquiere o encarga la construcción del bien corporal inmueble para venderlo o \nentregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional \notorgado por dicho Ministerio, por lo que no se cumpliría el requisito establecido en la \nletra F del artículo 12 de la LIVS para que los referidos contratos de construcción de las \nviviendas quedaran exentos de IVA.  \n \nAl respecto, se reitera que, de acuerdo con la citada norma, la calidad de benefici"
+    },
+    {
+      "name": "Oficio N°1567 (05/07/2011)",
+      "source_type": "oficio",
+      "source": "Oficio N°1567 (05/07/2011)",
+      "document_id": "a33eb1a2-e081-5b56-a36d-2adbd8ec444f",
+      "chunk_uuid": "f41b90cb-8233-569b-bc84-7c686d19daab",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2011/renta/ja1567.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a la Renta - 2011\nRENTA y ACTUAL LEY SOBRE IMPUESTO A LA y LEY N° 20.365, DE 2009, ART. 1° y CIRCULAR N°\n50, DE 2010. (ORD. N° 1567, DE 05.07.2011)\nAPLICACIÓN DE CRÉDITO TRIBUTARIO ESTABLECIDO A FAVOR DE EMPRESAS CONSTRUCTORAS\nQUE INSTALEN SISTEMAS SOLARES TÉRMICOS EN LAS VIVIENDAS QUE CONSTRUYAN y\nINSTRUCCIONES IMPARTIDAS POR EL SERVICIO y NO SE REQUIERE QUE EL BENEFICIARIO DE LA\nFRANQUICIA TENGA COMO ÚNICO GIRO EL DE LA CONSTRUCCIÓN, PUDIENDO COEXISTIR CON\nOTRAS ACTIVIDADES SIN AFECTAR LA PROCEDENCIA DEL CRÉDITO.\nSe ha solicitado un pronunciamiento sobre la aplicación del crédito tributario establecido a favor de empresas\nconstructoras, que instalen Sistemas Solares Térmicos (SST) en las viviendas que construyan.\nI.- ANTECEDENTES.\nI.1. Antecedentes de hecho.\nSe solicita aclarar la procedencia del crédito que establece la Ley N° 20.365, respecto de contribuyentes que\nsean sociedades de inversión o personas naturales que, además de ser empresas constructoras, desarrollen\nsimultáneamente otras actividades sujetas a Pagos Provisionales Obligatorios de la Ley sobre Impuesto a la\nRenta (LIR).\nConsulta específicamente si es procedente efectuar la imputación de este crédito tributario respecto de los\npagos provisionales obligatorios y otros impuestos de retención o recargo que deban declararse y pagarse en\nlas distintas actividades de un contribuyente que, bajo un mismo Rol Único Tributario, desarrolla distintos\ngiros incluyendo el de construcción, o si procede este crédito sólo respecto de los pagos provisionales\nobligatorios e impuestos de retención o recargo vinculados con el giro construcción.\nI.2. Antecedentes de derecho.\nLa Ley N ° 20.365, de 2009, estableció un crédito tributario en beneficio de las empresas constructoras que\ninstalen SST en los bienes corporales inmuebles destinados a habitación que construyan.\nEsta norma legal dispone que las empresas constructoras pueden deducir del monto de sus pagos\nprovisionales obligatorios de la LIR, un crédito equivalente a un porcentaje del valor de los SST y de su\ninstalación, según el valor de la vivienda de que se trate, que monten en bienes corporales inmuebles\ndestinados a la habitación construidos por ellas.\nSegún dispone la Ley, la suma de todos los créditos devengados en el mes respectivo por el contribuyente,\nse imputarán en primer lugar a los pagos provisionales obligatorios del Impuesto a la Renta,\ncorrespondientes a los ingresos de dicho mes, y el remanente que resultare, por ser inferior el pago\nprovisional obligatorio o por no existir la obligación de efectuarlo en dicho período, podrá imputarse a\ncualquier otro impuesto de retención o recargo que deba pagarse en la misma declaración y fecha. El saldo\nque aún quedare después de las imputaciones señaladas, podrá rebajarse de los mismos impuestos en los\nmeses siguientes, reajustado. El saldo o remanente que quedare, una vez efectuadas las deducciones en el\nmes de diciembre de cada año, o el último mes en el caso de término de giro, según el caso, tendrá el\ncarácter de pago provisional voluntario de aquellos a que se refiere el artículo 88 de la LIR.\nLas instrucciones relativas a la disposición legal comentada, fueron impartidas por este Servicio mediante la\nCircular N° 50, de 2010.\nII.- ANÁLISIS.\nDe acuerdo al artículo 1°, de la Ley N°20.365, tienen derecho al crédito que establece, las empresas\nconstructoras que declaren sus rentas efectivas de Primera Categoría, según contabilidad completa,"
+    },
+    {
+      "name": "Oficio N°1299 (09/06/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1299 (09/06/2017)",
+      "document_id": "8a7cc8c8-2e12-5b68-801e-7b20fc77d1c3",
+      "chunk_uuid": "ab58189f-6111-5183-95e2-53232a4f70a9",
+      "chunk_id": 3,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1299.htm",
+      "content": " especial empresas\nconstructoras”, código 126, al reverso del Form. 29. Si la empresa no estuviere obligada a realizar pagos\nprovisionales mensuales, o por ser éstos de un monto inferior, resultare un remanente de crédito especial,\néste debe declararse en la línea 117, “Remanente crédito especial empresas constructoras”, código 130, para\nsu utilización y declaración en el mes siguiente, en el código 128, Línea 111, debidamente actualizado,\nconforme al Art. 27°, del D.L. N° 825.\n\n\nFinalmente, si después de efectuada la declaración de impuestos correspondiente al mes de diciembre de\ncada año, subsistiere un remanente de crédito especial de empresas constructoras, dicho remanente no\ndebe ser declarado como tal en el mes de enero siguiente, pues éste adquiere el carácter de pago\nprovisional voluntario de la Ley sobre Impuesto a la Renta (Art. 88°), declarándose como tal en la Línea 57,\ncódigo 83, del Form. 22, en la correspondiente Declaración de Impuesto a la Renta.\nIII.-      CONCLUSIÓN:\nDe las normas legales precedentemente señaladas, se concluye que los contratos de construcción a suma\nalzada que celebrará XXXX con la empresa constructora TTTT, se favorecerán de la exención contenida en\nel Art. 12°, letra F), del D.L. N° 825, en la medida que XXXX, persona jurídica que encarga la construcción de\nla obra, sea a su vez quien en definitiva venda las viviendas a los beneficiarios del subsidio habitacional,\ndejando constancia de ese hecho en el respectivo contrato de construcción.\nDe ser así, procede aplicar al referido contrato el beneficio contenido en el Art. 21°, del D.L. N° 910, en los\ntérminos señalados en la parte final de su inciso primero.\nPor el contrario, si el mencionado contrato se encuentra gravado con IVA, por no cumplir XXXX con los\nrequisitos exigidos por la norma legal, igualmente procederá el crédito especial contenido en el mencionado\nArt. 21°, del D.L. N° 910, sólo que deberá aplicarse en los términos señalados en la primera parte del inciso\nprimero del referido Artículo.\nFERNANDO BARRAZA LUENGO\nDIRECTOR\nOficio N° 1299, de 09.06.2017\nSubdirección Normativa\nDpto. de Impuestos Indirectos\n"
+    },
+    {
+      "name": "Oficio N°1075 (19/05/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1075 (19/05/2017)",
+      "document_id": "45ce0cf3-2d19-536e-98d1-d03bb1d4cddf",
+      "chunk_uuid": "395a03dc-b647-5e6e-bfc7-3f3630414da9",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1075.htm",
+      "content": " el último mes en el caso de término de giro, tendrá el carácter de pago provisional de aquellos a que\nse refiere el artículo 88° de la Ley sobre Impuesto a la Renta.\nMediante modificación efectuada por el artículo 4°, de la Ley N° 20.899 al artículo 21°, del D.L. N° 910, se\namplió dicho beneficio a aquellas empresas constructoras por las ventas de viviendas que se encuentren\nexentas de Impuesto al valor Agregado, por efectuarse a beneficiarios de un subsidio habitacional otorgado\npor el Ministerio de Vivienda y Urbanismo, conforme lo dispuesto en la primera parte del artículo 12°, letra F,\ndel Decreto Ley N° 825, caso en el cual el beneficio será equivalente a un 0.1235, del valor de la venta y se\ndeducirá de los pagos provisionales obligatorios de la ley sobre Impuesto a la Renta, en la misma forma\nseñalada en dicho inciso y con igual tope de 225 unidades de fomento.\nEl objetivo del legislador al incorporar este cambio fue otorgar a las empresas constructoras que realicen este\ntipo de operaciones, exentas de IVA, el mismo tratamiento tributario, en relación al crédito especial\nconsagrado en el artículo 21°, del D.L. N° 910, de 1975, que aquel otorgado a sus pares cuando venden o\nsuscriben contratos de construcción que no sean por administración, afectos al Impuesto al valor agregado.\nAsí entonces, las empresas constructoras que por aplicación de la exención contenida en la primera parte del\nartículo 12°, letra F.- del D.L. N° 825, de 1974, vendan viviendas o suscriban contratos generales de\nconstrucción con el mismo fin, con beneficiarios de un subsidio habitacional que financien en todo o parte\ndichas operaciones con el referido subsidio, tendrán un beneficio equivalente a un 0.1235, del valor de la\nventa, el cual se deducirá de los pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta.\n\n\nRespecto del monto del beneficio que estas empresas pueden deducir de sus pagos provisionales\nobligatorios de la ley sobre Impuesto a la Renta, éste no puede ser superior a aquel que les correspondería\ndeducir si la operación se encontrase gravada con IVA. En atención a ello, el factor de 0.1235 del valor de la\nventa que deben aplicar estas empresas en el caso de la venta de bienes corporales inmuebles, en que\ndentro del precio se encuentra incluido el valor del terreno, debe ser aplicado al valor de venta, pero una vez\ndescontado el valor de dicho terreno, debiendo aplicarse para estos efectos las disposiciones de los incisos\nsegundo y siguientes del artículo 17°, del D.L. N° 825, de 1974, sin perjuicio de tratarse de una operación\nexenta.\nAtendido lo anterior, el ejemplo señalado por el contribuyente se encontraría correcto en la medida que en la\nrebaja del terreno se dé cumplimiento a las normas recién señaladas.\n1. 2. ¿Cómo se expresa el monto del CEEC en la factura electrónica?\nSeñala el contribuyente que los sistemas de facturación electrónica que ofrece el mercado y el portal de\nfacturación electrónica del Servicio de Impuestos Internos aún no han establecido formato ni metodología de\ncálculo.\nSobre la consulta en análisis, cabe señalar que este Servicio no ha dispuesto obligaciones en orden a\nexpresar el monto del CEEC en las facturas a emitir por operaciones exentas de conformidad a la primera\nparte del artículo 12°, letra F.- del D.L. N° 825, de 1974, y que dan lugar a un CEEC equivalente al 0.1235 del\nvalor de la venta, descontado el valor del terreno.\nCon todo, el contribuyente podrá, si así lo estima conveniente para efectos de control interno y de cara a\neventuales procesos de fiscalización, incluir el valor a rebajar del terreno y/o el monto del CEEC determinado\npor éste, como información en la glosa de la"
+    },
+    {
+      "name": "Oficio N°2892 (26/11/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°2892 (26/11/2019)",
+      "document_id": "ba37a854-c827-58ca-b46f-4e11bd0795bc",
+      "chunk_uuid": "1a08d008-1825-5596-9d96-611baf433e59",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2892-25%2F11%2F2019.pdf&extension=pdf&acc=download&id=1d8ea04a-e10c-4acd-af89-fe940d593ba7&mediaType=application%2Fpdf",
+      "content": " \nAñade que la autoridad fiscal estableció que el objetivo del legislador al incorporar este cambio \nfue otorgar a las empresas constructoras que realicen este tipo de operaciones, exentas de IVA, el \nmismo tratamiento tributario, en relación al crédito especial consagrado en el artículo 21 °, del \nD.L. N° 910, de 1975, que aquel otorgado a sus pares cuando venden o suscriben contratos de \nconstrucción que no sean por administración, afectos al Impuesto al Valor Agregado. \nExpresa que el CEEC es una franquicia tributaria que permite a la empresa constructora cobrar un \n35% del débito IVA de su facturación al cliente (una inmobiliaria si se trata de la obra o un \ncomprador si se trata de una vivienda construida al menos en parte por la constructora) y el 65% \ncomplementario del débito IVA al Fisco y se aplica en relación al costo de la construcción de la \nobra o al precio de la vivienda, con independencia si se trata de una vivienda social, una vivienda \neconómica o una vivienda sin calificación especial, pero con los límites del artículo 21°, del D.L. \nN° 910. \n\n\n2 \n \nHace presente, que el subsidio habitacional, es una ayuda económica otorgada por el Estado en \napoyo de una familia para la adquisición de una vivienda, el cual se complementa con el ahorro \nfamiliar, y en algunos casos con créditos hipotecarios y/o aportes de terceros. La entidad \nencargada de otorgar distintos tipos de Subsidios Habitacionales, dependiendo de las \ncaracterísticas y preferencias del postulante, es el Ministerio de Vivienda y Urbanismo, Minvu. \nA efecto de no perjudicar la construcción de viviendas sociales que tendrán como compradores a \nbeneficiarios de un subsidio habitacional, es que se amplía el derecho al crédito especial del \nartículo 21° del Decreto Ley N° 910, a viviendas financiadas con subsidio del Ministerio de \nVivienda y Urbanismo, en aquellos casos que el subsidio se otorgue a viviendas de hasta 2.200 \nUF. \nEn su entendimiento, el tope de 2.200 UF sería meramente referencial, porque lo importante es \nque se trate de la construcción de viviendas sociales que se compren con subsidio habitacional. Lo \nanterior toma especial relevancia, cuando en las regiones de Arica y Parinacota, Tarapacá, \nAntofagasta, Atacama, Aysén y Magallanes el monto del precio máximo del subsidio ha subido a \nla suma de 2.400 UF. \nEn ese contexto, el tope de 2.200 UF para aplicar el CEEC, en caso de viviendas financiadas en \ntodo o parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo, sería referencial, \ncomo una forma de regular que para viviendas financiadas en todo o parte con subsidio \nhabitacional, el beneficio del CEEC aplica, aunque el valor de la vivienda financiada sea mayor. \nAsí el importe de 2.200 UF es a modo ejemplar, puesto que el espíritu de la norma es ampliar el \nbeneficio a tales casos. \nSe refiera al fundamento del subsidio a Zonas extremas, que estaría en que el proceso constructivo \nde las viviendas de dichas zonas si tiene un costo más elevado por el transporte y alojamiento de \ntrabajadores y profesionales, implementos de seguridad y medidas de seguridad especiales para \najustarse a las condiciones climáticas extremas (Lluvia, viento, temperaturas extremas, etc.) y son \nesas mismas condiciones climáticas las que pueden detener una faena para garantizar la seguridad \nde los trabajadores, aumentando el costo de mano de obra y el costo financiero de extender los \nplazos de construcción. \nSostiene que por lo anterior, y en concordancia con el espíritu de la norma tributaria que es \notorgar un beneficio a las personas beneficiarias de subsidio habitacional y conciliando dicho \nespíritu con un sentido de equidad económica y social, se propone"
+    },
+    {
+      "name": "Oficio N°1231 (12/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1231 (12/05/2021)",
+      "document_id": "d66a8aa0-b2c7-55eb-ba4c-3f7c6fcd1307",
+      "chunk_uuid": "635073ad-5cf1-54aa-af95-61c3ec2f1770",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1231-12%2F05%2F2021.pdf&extension=pdf&acc=download&id=9c92b2da-46e9-4826-8ffe-e5e6bf11179e&mediaType=application%2Fpdf",
+      "content": " crédito especial para \nempresas constructoras, el cual será equivalente a un 0.1235, del valor de la venta respectiva.  \n \nIII  \nCONCLUSIÓN  \n \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que:  \n \n1)  En caso que la inmobiliaria construya y venda directamente la vivienda al beneficiario de un \nsubsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, dicha venta se \nencuentra exenta de IVA.  \n \nLa inmobiliaria no puede recuperar el IVA crédito fiscal soportado en la construcción de las \nreferidas viviendas, pero en cuanto constructora puede utilizar el crédito especial para \nempresas constructoras por las ventas de viviendas que se encuentren exentas de IVA, por \nefectuarse a beneficiarios de un subsidio habitacional, siendo en este caso el beneficio \nequivalente a un 0.1235, del valor de la venta respectiva.  \n \n2) Si la inmobiliaria encarga la construcción de viviendas destinadas a beneficiarios de subsidio \nhabitacional a una constructora, pueden darse dos situaciones:  \n\n\n \n \na) El contrato de construcción es afecto a IVA por aplicación del artículo 8°, letra g), de la \nLIVS, en cuyo caso la constructora tiene derecho a imputar contra los débitos fiscales \ngenerados en la operación el IVA soportado en la adquisición de bienes y servicios \ndestinados a esta actividad y podrá utilizar el crédito especial para empresas constructoras \nde acuerdo con las reglas generales.  \nb) Cumpliendo los requisitos de la letra F del artículo 12 de la LIVS, el contrato de \nconstrucción se encontrará exento de IVA.  \n \nEn este caso, atendido que la venta se encuentra exenta, la constructora no tiene derecho a \nimputar el IVA crédito fiscal soportado en la adquisición de bienes y servicios destinados a la \nconstrucción de las viviendas, pero tendrá derecho a utilizar el crédito especial para empresas \nconstructoras atendido que la ley considera también como beneficiario de un subsidio \nhabitacional otorgado por el Ministerio de Vivienda y Urbanismo a la inmobiliaria que \nencargue la construcción de un bien corporal inmueble para venderlo o entregarlo en arriendo \ncon opción de compra al beneficiario de un subsidio habitacional otorgado por dicho \nMinisterio.  \n \nEn este caso, el crédito especial para empresas constructoras será equivalente a un 0.1235, del \nvalor de la venta respectiva, conforme las reglas generales. \n \n \n \n \n \n \nFERNANDO BARRAZA LUENGO \nDIRECTOR \n \n \nOficio N° 1231, de 12-05-2021 \nSubdirección Normativa \nDpto. de Impuestos Indirectos \n"
+    },
+    {
+      "name": "Oficio N°1439 (24/05/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°1439 (24/05/2016)",
+      "document_id": "b224de00-e353-5fb9-9141-891419afe335",
+      "chunk_uuid": "22773303-7e16-5648-9f7e-95f71c4ad439",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja1439.htm",
+      "content": " parte la adquisición de la\nvivienda respectiva.\nPor otra parte, de afectarle la aplicación de IVA en la compra de su vivienda, la carga de dicho impuesto\npuede verse sustancialmente disminuida por el efecto combinado de las siguientes medidas.\na) Se introdujo una modificación al artículo 2° N° 1°) de la Ley de IVA, relativa al concepto de venta, en virtud\nde la cual se excluye expresamente del hecho gravado IVA al terreno.\nb) Si bien se mantuvo el crédito especial de las empresas constructoras establecido en el artículo 21 del\ndecreto ley N° 910, de 1975, el cual tiene como efecto reducir el monto del impuesto aplicable a los\ninmuebles habitacionales, la Ley N° 20.780 limitó dicho beneficio a los inmuebles habitacionales cuyo valor\nno exceda de 2.000 UF, con el objeto de focalizar la medida hacia los sectores más desmejorados.\nSin perjuicio de lo anterior, de acuerdo al artículo duodécimo transitorio de la Ley N° 20.780, el nuevo límite\nde 2.000 UF se hará efectivo de forma gradual: 4.000 UF, para el año 2015, 3.000 UF para el año 2016 y a\npartir del año 2017 se aplica el límite permanente de 2.000 UF; que en el caso de viviendas financiadas en\ntodo o parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo, el límite aumenta a 2.200 UF,\nconforme lo dispuesto en el artículo 8°, N° 10 de la Ley N° 20.899 .\nPor otra parte, el artículo 4° de la Ley N° 20.899 agregó en el artículo 21 del decreto ley N° 910 de 1975, a\nlas empresas constructoras como beneficiarias del crédito allí establecido por las ventas de viviendas que se\nencuentren exentas de Impuesto al Valor Agregado, por efectuarse a beneficiarios de un subsidio\nhabitacional otorgado por el Ministerio de Vivienda y Urbanismo, conforme lo dispuesto en la primera parte\ndel artículo 12, letra F, del decreto ley N° 825.\nIII CONCLUSIÓN\nComo puede apreciarse, la Ley N° 20.780, en conjunción con la Ley N° 20.899, contemplan una serie de\nmedidas paliativas que, individualmente o en su conjunto, constituyen un alivio importante para las personas\nque adquieren inmuebles habitacionales de ciertos valores y características.\nFinalmente se precisa que, si bien la Ley N° 20.899 introdujo otras modificaciones a la Ley sobre Impuesto a\nlas Ventas y Servicios en lo que dice relación con los bienes corporales inmuebles, dichas modificaciones no\nson relevantes para el caso planteado por el peticionario.\nFERNANDO BARRAZA LUENGO\nDIRECTOR\nOficio N° 1439, de 24.05.2016\nSubdirección Normativa\nDpto. de Técnica Tributaria\n"
+    },
+    {
+      "name": "Oficio N°1299 (09/06/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1299 (09/06/2017)",
+      "document_id": "8a7cc8c8-2e12-5b68-801e-7b20fc77d1c3",
+      "chunk_uuid": "d975e1a1-5e41-5f5c-9fc7-eaa71d57bd38",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1299.htm",
+      "content": "\nfomento”.\nEn cuanto al tope establecido por la norma legal precedente, de 2.000 unidades de fomento por vivienda\npara acceder al beneficio, cabe recordar que el Artículo Duodécimo Transitorio de la Ley N° 20.780,\nmodificado por el N° 10, del Art. 8°, de la Ley N° 20.899, incorporó un nuevo tope, a partir del 1 de enero del\naño 2017, para las viviendas financiadas en todo o parte con subsidios otorgados por el Ministerio de\nVivienda y Urbanismo, el cual asciende a 2.200 U.F.\nAl respecto, cabe precisar que la primera parte de la norma contenida en el Art. 12°, letra F), del D.L. N° 825,\nfavorece con la liberación del Impuesto al Valor Agregado, a la venta de viviendas efectuada a beneficiarios\nde un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, que financien con dicho\nsubsidio, en todo o parte la adquisición de dicha vivienda. Igualmente, y en los mismos términos favorece a\nlos contratos generales de construcción celebrados con beneficiarios de un subsidio habitacional otorgado\npor el mencionado Ministerio, cuando éstos financien con dicho subsidio, todo o parte de dicho contrato y\néste tenga por objeto la construcción de una vivienda.\nLa segunda parte de la franquicia favorece a terceros con la liberación del tributo, por la vía de considerarlos\nbeneficiarios de un subsidio habitacional otorgado por el MINVU, cuando adquieran o encarguen la\nconstrucción de un bien corporal inmueble, para venderlo o entregarlo en arriendo con opción de compra al\nbeneficiario de un subsidio habitacional otorgado por el mencionado Ministerio, siempre que ello conste en el\ncontrato respectivo.\nDe lo anterior se desprende que, para que opere la liberación de IVA por la vía de entender que terceros se\nconsideran beneficiarios de un subsidio habitacional otorgado por el MINVU, estos terceros, personas\nnaturales o jurídicas, deben no tan solo adquirir o encargar la construcción de un bien corporal inmueble, sino\nque además deben venderlo o entregarlo en arrendamiento con opción de compra a un beneficiario de un\nsubsidio habitacional otorgado por dicho Ministerio.\nAsí las cosas, en lo que dice relación con los contratos generales de construcción celebrados por terceros,\ncomo sería en el caso bajo análisis, sólo se beneficiarán de la exención en comento, en la medida que quien\nencarga la construcción de las viviendas, sea a su vez quien venda posteriormente la vivienda al beneficiario\ndel subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, dejando constancia de ese\nhecho en el respectivo contrato general de construcción.\nDe encontrarse el contrato general de construcción a suma alzada, exento de Impuesto al Valor Agregado,\npor cumplir quien encarga la construcción con lo señalado en el párrafo anterior, procederá a su respecto la\naplicación del beneficio, en los términos señalados en la parte final del inciso primero del Art. 21°, del D.L. N°\n910, esto es, procederá deducir de sus pagos provisionales mensuales el 0,1235 del valor del contrato. Dicha\ndeducción debe efectuarse en cada período tributario que se facturen los respectivos estados de avance y\ncorresponderá al 0,1235 de dicha facturación, declarándose en la Línea 111, “Crédito especial empresas\nconstructoras”, código 126, al reverso del Form. 29. Si la empresa no estuviere obligada a realizar pagos\nprovisionales mensuales, o por ser éstos de un monto inferior, resultare un remanente de crédito especial,\néste debe declararse en la línea 117, “Remanente crédito especial empresas constructoras”, código 130, para\nsu utilización y declaración en el mes siguiente, en el código 128, Línea 111, debidamente actualizado,\nconforme al Art. 27°,"
+    },
+    {
+      "name": "Oficio N°1231 (12/05/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°1231 (12/05/2021)",
+      "document_id": "d66a8aa0-b2c7-55eb-ba4c-3f7c6fcd1307",
+      "chunk_uuid": "1ea88dbe-6027-5813-ae21-3d84b72b3f84",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1231-12%2F05%2F2021.pdf&extension=pdf&acc=download&id=9c92b2da-46e9-4826-8ffe-e5e6bf11179e&mediaType=application%2Fpdf",
+      "content": "1 El artículo 3° del Decreto Ley N° 2552 de 1979, del Ministerio de Vivienda y Urbanismo, define vivienda social como aquella \nvivienda económica de carácter definitivo, destinada a resolver los problemas de la marginalidad habitacional, financiada con \nrecursos públicos o privados, cualesquiera que sean sus modalidades de construcción o adquisición, y cuyo valor de tasación no sea \nsuperior a 400 Unidades de Fomento. \n2  Circular N° 64 de 1978. \n\n\n \n \nEn este caso, al actuar como constructora, la inmobiliaria puede utilizar el crédito especial para \nempresas constructoras (analizado más adelante) por las ventas de viviendas que se encuentren \nexentas de IVA, por efectuarse a beneficiarios de un subsidio habitacional, siendo en este caso el \nbeneficio equivalente a un 0.1235, del valor de la venta respectiva.  \n \nPrecisado lo anterior, en caso que la construcción de las viviendas que serán destinadas a \nbeneficiarios de subsidio habitacional sea encargada por la inmobiliaria – quien efectuará la venta \na los señalados beneficiaros de subsidio – a una constructora, el contrato de construcción puede \ntener dos tratamientos tributarios:  \n \n1)  Afecto a IVA por calificar como un contrato de instalación o confección de especialidades o \ncontrato general de construcción (artículo 8°, letra e), de la LIVS).  \n \nEn este escenario, la constructora debe facturar el contrato de construcción afecta a IVA y \npodrá usar el beneficio del crédito especial para empresas constructoras establecido en el \nartículo 21 del Decreto Ley N° 910 de 1975.  \n \nPara la inmobiliaria, que venderá los inmuebles exentos de IVA, el impuesto que le recargue la \nconstructora constituirá un costo de la operación y no dará derecho a crédito fiscal.  \n \n2) Exento de IVA, cumpliendo los demás requisitos de la Letra F del artículo 12 de la LIVS, en la \nmedida que también se consideran como beneficiarios de subsidio habitacional a terceros que \nencarguen la construcción de inmuebles para venderlos al beneficiario de un subsidio \nhabitacional.  \n \nEn este caso, la constructora no tendrá derecho a utilizar como crédito fiscal el impuesto \nsoportado en la adquisición de bienes y servicios destinados a la construcción de las viviendas.  \n \nPor su parte, al tratarse de una operación exenta, la inmobiliaria no soportará IVA en esta \noperación. No obstante, si finalmente, alguna vivienda no se vende a un beneficiario de \nsubsidio, la inmobiliaria deberá gravar esa operación con IVA y no tendrá créditos para \nimputar contra el débito que genere en la citada venta.  \n \nCon relación al crédito especial para empresas constructoras, se hace presente que la Ley N° \n20.899 modificó el artículo 21 del Decreto Ley N° 910 de 1975, ampliando el beneficio a las \nempresas constructoras por las ventas de viviendas que se encuentren exentas de IVA por \nefectuarse a beneficiarios de un subsidio habitacional otorgado por el Ministerio de Vivienda y \nUrbanismo, conforme lo dispuesto en la primera parte del artículo 12, letra F, de la LIVS.  \n \nLuego, dado que la propia ley considera como beneficiaros de subsidio a los terceros que \nencarguen la construcción de inmuebles (inmobiliaria) para venderlos al beneficiario de un \nsubsidio habitacional, la empresa constructora tendrá derecho a utilizar el crédito especial para \nempresas constructoras, el cual será equivalente a un 0.1235, del valor de la venta respectiva.  \n \nIII  \nCONCLUSIÓN  \n \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que:  \n \n1)  En caso que la inmobiliaria construya y venda directamente la vivienda al beneficiario de un \nsubsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, dicha venta se \nencuentra exenta de IVA.  \n \nLa inmobiliaria no"
+    },
+    {
+      "name": "Circular N°25 (28/07/1987)",
+      "source_type": "circular",
+      "source": "Circular N°25 (28/07/1987)",
+      "document_id": "4969e01e-df61-5033-8845-9af6f4df9162",
+      "chunk_uuid": "f22c5516-9549-5eea-87c7-852a3f3952d9",
+      "chunk_id": 6,
+      "url": "http://www.sii.cl/documentos/circulares/1987/circu25a.htm",
+      "content": " los débitos generados posteriormente sin derecho a devolución. por no autorizarlo así el artículo 2º en comento, ni tampoco permitirlo el artículo 27 bis del decreto ley Nº 825, pués en el presente caso no se trata de adquisiciones destinadas a formar parte del Activo Fijo de las empresas constructoras.\n[1], [2], [3], [4], [5]\n\nHome > Circulares 1987\n[1], [2], [3], [4], [5]\n\nCuadro resumen de las situaciones que pueden presentarse a las empresas constructoras al 10 de octubre de 1987, por los Irmuebles que hayan construidos:\nSituación del bien al 19.10.87: 1.- Vendidos. (con saldos de precio per cobrar); Status: Terminados o No terminados; Derecho a crédito retroactivo: No tiene; Tratamiento desde el 19.10.87 (Con No contribuyentes del IVA.): -No afecto a IVA., -No recupera crédito IVA.; Tratamiento desde el 19.10.87 (Con contribuyentes del IVA.): -No recupera art. 21 D.L. 910 (anterior ni actual)\nSituación del bien al 19.10.87: 2.- Prometidos vender; Status: Terminados o No terminados; Derecho a crédito retroactivo: No tienen; Tratamiento desde el 19.10.87 (Con No contribuyentes del IVA.): -No afecta a IVA. (10 meses), -No recupera crédito IVA. (18 meses), -Tiene derecho anterior art. 21 D.L. 910 (18 meses); Tratamiento desde el 19.10.87 (Con contribuyentes del IVA.): -Afecto al IVA., -Tiene derecho a crédito IVA., -No recupera anterior art. 21 D.L. 910, -Tiene derecho al crédito especial del nuevo art. 21 D.L. 910 (habitación)\nSituación del bien al 19.10.87: 3.- No vendidos ni prometidos vender; Status: Terminados o No terminados; Derecho a crédito retroactivo: Tienen de reclup a recuperar crédito retroactivo menos cantidades recuperadas por articulo 21 del D.L. 910; Tratamiento desde el 19.10.87 (Con No contribuyentes del IVA.): -Afecto al IVA., -Tiene derecho a crédito IVA., -No recupera anterior art. 21 D.L. 910.; Tratamiento desde el 19.10.87 (Con contribuyentes del IVA.): -Tiene derecho al crédito especial del nueva art 21 D.L. 910 (habitación)\nLos tamuebles prometidos vender a no contribuyentes det TVA. contemplan un sistema tributario transitorio de 18 meses, según se establece en el articulo 1º transitorio de la ley, el que se trata en Circular separada.\n\nb) Proyectos específicos o conjuntos habitacionales.\nCon el propósito de ajustar en la mejor forma posible los procedimientos para determinar los impuestos a las diversas modalidades de operación y de registro contable adoptados por las empresas bajo el imperio de las disposiciones tributarias que ahora se modifican, el artículo 2º de la ley Nº 18.630, en el inciso segundo de su letra a), he contemplado normas especiales para este período de transición que facultan a las empresas constructoras que se encuentren en aquellos casos en que, por la naturaleza o circunstancias propias de cada operación y por su forma usual de llevar los registros contables o de la facturación recibida, no puedan calcular separadamente, sino mediante complicadas reliquidaciones, el crédito fiscal a que tienen derecho por la existencia de inmuebles al 1º de octubre de 1987, del que se ha originado con motivo de los bienes prometidos vender a esa misma fecha.\nPara cubrir estas situaciones, la ley se ha referido a \"proyectos específicos\" y a \"conjuntos habitacionales\". Tanto uno como el otro concepto deben entenderse comprensivos de aquellas obras de construcción que se ejecutan en un mismo lugar y son administradas como un todo, conforme a las prácticas hasta ahora generalmente aceptadas en la gestión de las empresas constructoras. En todo caso como queda dicho,"
+    },
+    {
+      "name": "Oficio N°1836 (14/07/2015)",
+      "source_type": "oficio",
+      "source": "Oficio N°1836 (14/07/2015)",
+      "document_id": "85031da2-a413-566c-b81f-32528964568e",
+      "chunk_uuid": "3fd7b0ee-8ea2-59cb-8d9e-85dec578f972",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2015/ventas/ja1836.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nHome | Ley de Impuesto a las Ventas y Servicios - 2015\nVENTAS Y SERVICIOS y NUEVO TEXTO y ACTUAL LEY SOBRE IMPUESTO A LAS y ART. 2°, N°2,\nART. 8°, ART. 12°, LETRA F) y D.L. N° 910, DE 1975, ART. 21°. (ORD. N° 1836, DE 14.07.2015)\nSOLICITA PRONUNCIAMIENTO SOBRE PROCESO DE IMPLEMENTACIÓN DE LA REFORMA\nTRIBUTARIA CONTENIDA EN LA LEY N°20.780.\nSe ha solicitado a esta Dirección Nacional pronunciarse sobre algunas consultas relativas al tratamiento\ntributario del crédito especial IVA otorgado en el artículo 21° del Decreto Ley N°910, de 1975, en favor de las\nempresas constructoras, en atención a las modificaciones introducidas por la Ley N°20.780 respecto de las\nventas efectuadas al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y\nUrbanismo, así como de otras normas relacionadas.\nI.- ANTECEDENTES:\nA.- Crédito especial IVA del artículo 21 del DL N°910 de 1975.\n1. El artículo 21° del Decreto Ley N° 910 de 1975 dispone, en lo pertinente, que las empresas constructoras\ntendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la\nRenta el 0,65 del débito del IVA que deban determinar en la venta de bienes corporales inmuebles para\nhabitación construidos por ellas y en los contratos generales de construcción, con los requisitos y topes que\ndicha norma legal establece.\n2. Por su parte, el artículo 12°, letra F), incorporado por la reforma, establece que la venta de una vivienda\nefectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo,\ncuando ésta haya sido financiada, en todo o parte, por el referido subsidio, estará exenta del IVA.\n3. En consecuencia, la venta efectuada al beneficiario de un subsidio habitacional, cualquiera sea el\nvendedor es decir incluido el caso de una venta efectuada por una empresa constructora, va a estar exenta\nde IVA conforme a esta nueva disposición introducida por la reforma.\n4. En este sentido, se requiere confirmar que en dicho caso, al estar la venta exenta de este impuesto, las\nempresas constructoras no tendrán derecho a deducir de sus pagos provisionales obligatorios el equivalente\nal 0,65 del débito fiscal del IVA que se determine en la venta, toda vez que en la operación descrita no existe\nun débito fiscal sobre el cual calcular dicho crédito especial.\nB.- Tratamiento tributario del traspaso de bienes inmuebles que lleven a cabo las empresas constructoras:\nSe requiere clarificar el tratamiento tributario, tanto desde el punto de vista del IVA como del Impuesto a la\nRenta, de las transferencias que las empresas constructoras puedan efectuar a empresas inmobiliarias. En\ntal sentido, se pueden dar dos situaciones diversas:\ni. Que la construcción no se haya iniciado y que, en consecuencia, la empresa constructora enajene el\nterreno donde se construirán las viviendas a una inmobiliaria y que posteriormente se celebre un contrato de\nconstrucción entre ambas.\nii. Que la construcción ya se haya iniciado, por lo cual la empresa constructora traspasará las viviendas ya\nconstruidas a la respectiva inmobiliaria.\nC.- Aplicabilidad de artículo 12, letra F) a contratos generales de construcción\n1. Conforme lo establecido en el artículo 8°, letra e), se considera como vventaw o vserviciow los\ncontratos de instalación o confección de especialidades así como los contratos generales de construcción.\n2. Al respecto, se requiere clarificar si la exención mencionada, relativa a la venta de viviendas con subsidio\nse aplica o no a los contratos generales de construcción a que se"
+    },
+    {
+      "name": "Resolución N°118 (26/12/2016)",
+      "source_type": "resolucion",
+      "source": "Resolución N°118 (26/12/2016)",
+      "document_id": "50d06b60-0c39-554d-9bba-130206123145",
+      "chunk_uuid": "93138308-a21b-5f1b-80b8-5a024e93188e",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/resoluciones/2016/reso118.pdf",
+      "content": " acerca de todos aquellos proyectos de \nconstrucción, cuyos Permisos de Edificación hayan sido obtenidos hasta el 31 de Diciembre del año \ninformado, y para los cuales se haya suscrito un Contrato General de Construcción dentro de dicho \naño, que les permita utilizar dicho crédito. Así también, en la misma Resolución se estableció la \nobligación de presentar la Declaración Jurada sobre Determinación Mensual del Crédito Especial \nEmpresas Constructoras, Formulario 1842, mediante la cual, dichas empresas deben detallar las \noperaciones de venta de bienes corporales inmuebles y/o los contratos generales de construcción \nsobre los cuales se hizo efectivo el Crédito Especial Empresas Constructoras (CEEC), declarado en \nel código [126] del Formulario 29, sobre “Declaración Mensual y Pago Simultáneo de impuestos \nFormulario 29“, en virtud de lo señalado en el artículo 21° del D.L. N° 910, de 1975, y sus \nmodificaciones. \n \n\n\n \n2\n \n3°.- Que, el artículo 5° de la Ley N° 20.780, de \n2014, restringió a 2.000 UF el valor de venta de bienes corporales inmuebles para habitación por \nellas construido y de los contratos generales de construcción de dichos inmuebles que no sean por \nadministración, para tener  derecho a deducir del monto de sus pagos provisionales obligatorios de \nla Ley sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que afecta estas \ntransacciones y por su parte, el artículo duodécimo transitorio de la señalada ley, reguló su vigencia \nestableciendo al respecto que el artículo 5° citado entrará en vigencia de manera gradual, de acuerdo \na las siguientes fechas:  \n \n \na) A partir del 1 de enero del año 2015, el crédito establecido en el artículo 21 del decreto ley N° \n910, de 1975, se aplicará a las ventas efectuadas de bienes corporales inmuebles para \nhabitación, y a contratos generales de construcción que se suscriban desde esa fecha, cuyo valor \nno exceda de 4.000 unidades de fomento. \n \nb) A partir del 1 de enero del año 2016, dicho crédito se aplicará cuando el valor no exceda de 3.000 \nunidades de fomento.  \n \nc) A partir del 1 de enero del año 2017 el precitado crédito se aplicará cuando el valor antes señalado \nno exceda de 2.000 unidades de fomento o de 2.200 unidades de fomento, en caso de viviendas \nfinanciadas en todo o parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo. \n \n \n4°.- Que, el artículo 4° de la Ley N° 20.899,  \nagrega al inciso primero del artículo 21, a partir del 1 de enero del año 2016, que las empresas \nconstructoras gozaran del igual beneficio por las ventas de viviendas que se encuentren exentas de \nImpuesto al Valor Agregado, por efectuarse a beneficiarios de un subsidio habitacional otorgado por \nel Ministerio de Vivienda y Urbanismo, conforme lo dispuesto en la primera parte del artículo 12, letra \nF de la Ley sobre Impuesto a las Ventas y Servicios; caso en el cual el beneficio será equivalente a \nun 0.1235 del valor de la venta descontado el valor del terreno, el que se deducirá de los pagos \nprovisionales obligatorios de la Ley sobre Impuesto a la Renta, con tope de 225 unidades de fomento \npor vivienda; norma ésta que, conforme a los señalado por la Circular N° 13 de 2016 de este Servicio, \nbeneficia también a los contratos generales de construcción que no sean por administración \ndestinado al mismo fin, que celebren las empresas constructoras. \n \n \n5°.- Que las modificaciones señaladas hacen \nnecesario adecuar el contenido de la información que debe declararse en los Formularios de \nDeclaraciones Juradas N° 1842 “Declaración Jurada Mensual sobre"
+    },
+    {
+      "name": "Oficio N°3233 (15/11/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°3233 (15/11/2021)",
+      "document_id": "f8d8ae70-2659-5774-ae59-312ce95c9e6b",
+      "chunk_uuid": "360456e5-3b6b-50e2-bb6c-1fc8210d3ce0",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=3233-15%2F11%2F2021.pdf&extension=pdf&acc=download&id=04ed12c5-b04f-4475-ad63-9dcfb2d39080&mediaType=application%2Fpdf",
+      "content": "uada por el tercero, indicando si el ejemplo expuesto en la \npresentación estaría correctamente formulado o en su caso, indicar las correcciones que se \ndeberían aplicar al mismo ejemplo. \nII  ANÁLISIS \nConforme al inciso primero del artículo 21 del Decreto Ley N° 910 de 1975, y en lo que interesa, \nse favorece exclusivamente a las empresas constructoras por la venta de bienes corporales \ninmuebles para habitación “por ellas construidos”, beneficio que se extiende a las empresas \n\n\n2 \n \nconstructoras por las ventas de viviendas que se encuentren exentas de IVA por efectuarse a \nbeneficiarios de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, \nconforme lo dispuesto en la primera parte del artículo 12, letra F, de la LIVS. \nPara entender la exigencia “por ellas construidas” se debe tener presente que en 1986, cuando se \nincorporó la frase, las únicas ventas que se encontraban gravadas con IVA, y por tanto \nsusceptibles de beneficiarse con la franquicia, eran las efectuadas por empresas constructoras \nrespecto de bienes de su propiedad que hubieren sido construidos total o parcialmente por ellas, \nsegún lo dispuesto en los N° 1°) y N° 3°) del artículo 2° de la LIVS, vigente a esa fecha. \nLuego, de haberse pretendido otorgar la franquicia incluso cuando el inmueble no hubiere sido \nconstruido en su totalidad por la empresa constructora, no habría sido necesario agregar como \nrequisito de procedencia de la franquicia que las viviendas fueran “por ellas construidas”. \nExpuesto lo anterior, y respecto de lo argumentado en su presentación para hacer procedente el \nuso del beneficio en la venta cuando el inmueble no ha sido construido totalmente por la empresa \nconstructora, se informa lo siguiente: \n1)  Si bien no puede desconocerse que el espíritu de la norma legal ha sido aminorar los costos \nde adquisición de una vivienda destinada a la habitación, eso no permite extender su \naplicación a casos no contemplados en la ley. \nDe hecho, a pesar que en la actualidad no sólo las ventas de inmuebles destinados a viviendas \ny efectuadas por empresas constructoras se encuentran gravadas con IVA, como se instruye \nen el Capítulo VII, letra b), de la Circular N° 26 de 1987, el derecho a efectuar la referida \ndeducción sólo es procedente respecto de los pagos que se hagan con motivo de la “venta” de \nun inmueble para habitación “construido por una empresa constructora”. \n2)  En cuanto a que este Servicio habría aceptado la posibilidad que los inmuebles vendidos sean \nconstruidos parcialmente por la empresa constructora que los vende, basando en las \ninstrucciones contenidas en el Capítulo VII, letra j), de la Circular N° 26 de 1987 – esto es, \nen la adjudicación de inmuebles destinados a habitación originada en la liquidación de \nsociedades que sean empresas constructoras, de comunidades, que no sean hereditarias, ni \nprovengan de la liquidación de la sociedad conyugal y de cooperativas de viviendas – cabe \nprecisar lo siguiente. \nSi bien la circular instruyó sobre la procedencia del beneficio en los casos referidos cuando \nse trata de bienes inmuebles construidos total o parcialmente por dichas empresas, esta \nreferencia (“construidos total o parcialmente por dichas empresas”) se funda en que, de no \ncumplirse ese requisito, los contribuyentes señalados no habrían podido considerarse \nempresas constructoras a la luz de la normativa vigente a esa fecha y, por tanto, la \nadjudicación no se habría encontrado afecta a IVA, excluyéndose automáticamente de la \naplicación del beneficio. \nLo anterior queda de manifiesto porque la circular prosigue instruyendo que las \n“mencionadas sociedades, comunidades y cooperativas deberán cumplir los mismos \nrequisitos y exigencias que tienen las empresas constructoras en general para impetrar el \nreferido derecho y tener presente también las instrucciones que sobre"
+    },
+    {
+      "name": "Circular N°50 (20/08/2010)",
+      "source_type": "circular",
+      "source": "Circular N°50 (20/08/2010)",
+      "document_id": "7ed20ca5-e2a2-5c5c-ab73-fc5b6b035c0d",
+      "chunk_uuid": "72e5dcc4-ce8c-59fb-b4be-1c2e3cc0631a",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/documentos/circulares/2010/circu50.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nDejada sin efecto\nCIRCULAR \nN°50 \nDEL\n20\nDE\nAGOSTO\nDEL\n2010\nMATERIA : INSTRUYE SOBRE LA APLICACIÓN DEL CRÉDITO TRIBUTARIO ESTABLECIDO EN FAVOR \nDE LAS EMPRESAS CONSTRUCTORAS QUE INSTALEN SISTEMAS SOLARES TÉRMICOS EN LAS \nVIVIENDAS QUE CONSTRUYAN. \nI.- \nINTRODUCCIÓN. \na) En el Diario Oficial de 19 de agosto del año 2009, se publicó la Ley N° 20.365, (en adelante la\nLey), la que establece un crédito tributario en beneficio de las empresas constructoras que instalen \nsistemas solares térmicos en las viviendas que construyan.  \nb) La presente Circular tiene por objeto impartir las instrucciones pertinentes para la aplicación del\ncrédito por los sistemas solares térmicos. \nII.- \nDISPOSICIONES LEGALES. \nEl texto íntegro de la Ley N° 20.3651, publicada en el Diario Oficial de 19 de agosto de 2009, se \nencuentra publicado en la página web de este Servicio, www.sii.cl.  \nIII.- \nINSTRUCCIONES SOBRE LA MATERIA. \n1.- Descripción general del beneficio. \nSegún el artículo 1°, de la Ley, las empresas constructoras tienen derecho a deducir del monto de sus \npagos provisionales obligatorios de la Ley sobre Impuesto a la Renta, (LIR), un crédito equivalente a \nun porcentaje del valor de los Sistemas Solares Térmicos (SST) y de su instalación, según el valor de \nla vivienda de que se trate, que monten en bienes corporales inmuebles destinados a la habitación \nconstruidos por ellas.  \nTal beneficio se encuentra regulado por la citada Ley y su Reglamento, contenido en Decreto \nSupremo N°331, de 31 de diciembre de 2009, publicado en el Diario Oficial de 26 de mayo de 2010, y \nlas normas técnicas que se dicten y lo complementen. Cabe hacer presente que tanto el artículo 2° de \nla Ley, como el artículo 5° de su Reglamento, contemplan definiciones con el objeto de precisar el \nsentido y alcance de este beneficio, considerando los aspectos técnicos propios de la actividad de la \nconstrucción y de las tecnologías asociadas a la energía solar. \n2.- Contribuyentes beneficiados. \nDe acuerdo al artículo 1°, de la Ley, tienen derecho al crédito las empresas constructoras que \ndeclaren sus rentas efectivas de Primera Categoría, según contabilidad completa. Se trata en \nconsecuencia de empresas constructoras contribuyentes de la Primera Categoría (sea que se \nencuentren afectas a lo dispuesto en los artículos 20 ó 14 de la LIR) que instalen SST en bienes \ncorporales inmuebles destinados a la habitación, construidos por ellas.   \nDe acuerdo a lo anterior, cabe precisar que en el caso de un contrato de construcción por suma \nalzada, es decir, en que la empresa contratista conviene un precio fijo para el contrato, suministrando \nla materia para la confección de la obra, no perfeccionándose la venta de la misma sino hasta \nefectuada la aprobación del que la ordenó, perteneciendo el riesgo de la obra al constructor, el titular \ndel crédito tributario es la empresa contratista y no la empresa inmobiliaria que encarga la obra. \nPor otra parte, cuando se trate de un contrato de construcción por administración, cuya naturaleza \ncorresponde a un arrendamiento de servicios, quien encarga la obra tiene la calidad de empresa \nconstructora, dado que el contratista asume la calidad de mandatario, toda vez que lo que ejecuta se \nentiende hecho por y para la empresa constructora que la encarga, lo que se evidencia porque el \nriesgo que afecta a la obra mientras ésta se realiza es de cargo de la empresa mandante, el titular del \ncrédito es la empresa mandante. \n3.- Requisitos que deben cumplir los contribuyentes. \nDe"
+    },
+    {
+      "name": "Oficio N°528 (22/02/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°528 (22/02/2022)",
+      "document_id": "d86e83db-ba4b-5fc4-9f28-122443eeb647",
+      "chunk_uuid": "252fead0-dde5-50df-8a60-d406c4cee920",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=528-22%2F02%2F2022.pdf&extension=pdf&acc=download&id=4ce5b2f7-829c-4c14-a5bb-47b4d98a8e24&mediaType=application%2Fpdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nVENTAS Y SERVICIOS – NUEVO TEXTO – CÓDIGO TRIBUTARIO – ART. 126 – \nDECRETO LEY N° 910, DE 1975 – ART. 21 – DECRETO SUPREMO N° 55 DE 1977 – \nART. 12 – CIRCULAR N° 26 DE 1987. (ORD. N° 528, DE 22.02.2022) \n \n \n \n \n \n \n \n \n \n \n \n \n \nProcedencia del artículo 21 del Decreto Ley N° 910 de 1975 a contrato que finaliza la \nconstrucción iniciada por otra empresa. \n \nSe ha solicitado a este Servicio un pronunciamiento sobre la procedencia de aplicar el beneficio \ncontenido en el artículo 21 Decreto Ley N° 910 de 1975 a contrato de construcción cuya finalidad \nes terminar la construcción de un proyecto inmobiliario con fines habitacionales, iniciado por otra \nempresa constructora. \nI  \nANTECEDENTES \nDe acuerdo con su presentación, el año 2019 a su representada se le encargó finalizar la \nconstrucción de un proyecto inmobiliario con fines habitacionales que había sido iniciado por otra \nempresa constructora no relacionada, la que, por declararse en quiebra, abandonó la obra. \nDicha construcción, por los valores involucrados, se beneficiaba con el crédito especial para las \nempresas constructoras (CEEC) establecido en el artículo 21 del Decreto Ley N° 910 de 1975. Sin \nembargo, Constructora Armas Ltda. (la empresa) no hizo uso del CEEC en ninguna de las facturas \nemitidas por la construcción del proyecto ante la falta de certeza en cuanto a si el CEEC opera \nrespecto de contratos de construcción sobre proyectos ya iniciados por un tercero. \nAtendido el inciso séptimo del artículo 21 del Decreto Ley N° 910 de 1975 y lo dispuesto en el N° 1 \ndel artículo 126 del Código Tributario solicita confirmar que: \n1)  Sin perjuicio que la construcción fue iniciada por un tercero, la empresa tiene derecho a \nimpetrar el CEEC en las facturas por los estados de avance de la obra; \n2)  Para tales efectos, en el caso de un contrato general de construcción por suma alzada destinado \na completar la construcción de inmuebles para habitación, para establecer el crédito potencial \ndisponible, en el cálculo del crédito individual de las viviendas debe considerarse la suma del \nprecio individual de construcción del contrato más el valor de las obras preexistentes realizadas \npor la empresa constructora que inició el proyecto, el que debe declararse en el contrato. \n3)  Considerando que la empresa no aplicó el CEEC a las facturas respectivas, se tiene derecho a \nsolicitar la devolución de IVA pagado en exceso en atención al artículo 126 del Código \nTributario, en relación con lo dispuesto su artículo 128. \nII  ANÁLISIS \nEl artículo 21 del Decreto Ley N° 910 de 1975 dispone que las empresas constructoras tendrán \nderecho a deducir del monto de sus pagos provisionales mensuales obligatorios de la Ley sobre \nImpuesto a la Renta, el 0,65 del débito del IVA que deban determinar en la venta de bienes \ncorporales inmuebles para habitación por ellas construidos, cuyo valor no exceda de 2.000 UF, con \nun tope del beneficio de hasta 225 UF por vivienda y en los contratos generales de construcción de \ndichos inmuebles, que no sean por administración, con igual tope por vivienda. \nPor su parte, el inciso séptimo del citado artículo 21 regula expresamente la procedencia del CEEC \nen aquellos contratos generales de construcción destinados a completar la construcción de \ninmuebles para habitación disponiendo que, para establecer el crédito potencial disponible en estos \ncasos, en el cálculo individual de las viviendas deberá considerarse la suma del precio individual de \nconstrucción del contrato más el valor de las obras preexistentes, el cual deberá ser declarado en el \ncontrato. \nDel párrafo anterior se desprende que"
+    },
+    {
+      "name": "Oficio N°4853 (19/12/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°4853 (19/12/2000)",
+      "document_id": "45653910-5c93-54b3-afc9-ffdf45fd4204",
+      "chunk_uuid": "40520d21-47ca-5664-a047-e7d863525cf5",
+      "chunk_id": 0,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1702.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nSERVICIO DE IMPUESTOS INTERNOS \n      SUBDIRECCION NORMATIVA \n      DEPTO. IMPTOS. DIRECTOS\n          C-1005-2000 S.D. \n          275-2000 S.N. \n          113-2000 I.I. \n \n         200-2000 I.D. \nORD.- Nº ____4853_______/ \nANT.- Presentación \ndel \nseñor \nHéctor \nHernández de la Fuente. \nMAT.- Consultas relativas a la aplicación del \nimpuesto al valor agregado, impuesto \na la renta y crédito especial del \nartículo 21°, del D.L. N° 910, en venta \ny promesas de venta de inmuebles \ndestinados a la habitación. \nSANTIAGO, 19 de Diciembre 2000\nDE : DIRECTOR DEL SERVICIO DE IMPUESTOS INTERNOS \nA   :  SEÑOR HECTOR HERNANDEZ DE LA FUENTE \n1.- Se ha recibido en esta Dirección Nacional su presentación del antecedente, mediante la cual \nformula una serie de consultas acerca de la aplicación del impuesto al valor agregado, del \nimpuesto a la renta y del crédito especial del artículo 21°, del D.L. N° 910, en las situaciones que a \ncontinuación indica. \n \nExpone que en la venta de viviendas construidas por empresas constructoras, tanto casas como \ndepartamentos, suele incluirse en el precio de venta, el valor de una serie de equipamiento con \nque éstas son entregadas a sus adquirentes. Dentro de este equipamiento se señala, a modo de \nejemplo, cocinas totalmente amobladas, que incluyen los muebles de cocina fabricados a medida, \ncocinas encimeras, campanas, refrigeradores, congeladores, hornos empotrados tanto eléctricos \ncomo microondas, lavavajillas, lavadoras de ropa y secadoras. En estos casos surge la duda si \ncorresponde hacer uso del crédito especial del artículo 21°, del D.L. N° 910 por el equipamiento \nantes mencionado, e incluido en el contrato de compraventa de los inmuebles. \n \nPor otra parte, en relación a las multas que se aplican en caso de desistimiento por parte del \ncomprador y que tienen por objeto compensar la pérdida o perjuicio, derivadas del incumplimiento \nde las promesas de compraventa y/o contratos de compraventa de bienes inmuebles construidos \npor empresas constructoras, consulta si dichas sumas se encuentran gravadas con impuesto al \nvalor agregado y en caso de ser afirmativa la respuesta si corresponde aplicarles el crédito del \n65%, establecido en el artículo 21°, del D.L. N° 910. Además desea saber si dichas sumas deben \nconsiderarse ingresos brutos y por tanto, afectarse con impuesto a la renta. \n \nFinalmente, consulta si es factible emitir una nota de crédito anulando la factura primitiva fuera del \nplazo de tres meses establecido en el D.L. N° 825, y si dicha nota de crédito debe considerar el \ncrédito especial del 65%, en el caso de subsidios habitacionales que son asignados en forma \ngrupal, no existiendo una promesa de compraventa con cada uno de los integrantes del grupo, \nsino que un contrato con la entidad que los patrocina, cuando con posterioridad al cobro y \nfacturación de dicho subsidio o ahorro previo, uno o más integrantes se retiran, siendo \nreemplazados por otros. \n2.- El artículo 21° del D.L. N° 910, de 1975, establece que las empresas constructoras tendrán \nderecho a deducir del monto de sus pagos provisionales mensuales obligatorios de la Ley sobre \nImpuesto a la Renta, el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la \nventa de bienes corporales inmuebles para habitación por ellas construidos y en los contratos \ngenerales de construcción que no sean por administración de dichos inmuebles. \n3.- En relación a su primera consulta, cabe manifestar que no procede utilizar el crédito especial del \nartículo 21°, del D.L."
+    },
+    {
+      "name": "Oficio N°1299 (09/06/2017)",
+      "source_type": "oficio",
+      "source": "Oficio N°1299 (09/06/2017)",
+      "document_id": "8a7cc8c8-2e12-5b68-801e-7b20fc77d1c3",
+      "chunk_uuid": "6e0329cc-d689-5fb4-8f42-cca51aa62d89",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1299.htm",
+      "content": "a incluir en la línea N° 111 “Créditos Especiales”, del Formulario N° 29, un 12,35% de dicha facturación como\nremanente de crédito especial de empresas constructoras y en caso que dicho crédito exceda el PPM, lo\ndeclarará como remanente de créditos especiales en la línea 117, del mismo formulario.\ninalmente solicita validar el uso de este crédito en el contrato antes señalado y a su vez se les aclare la forma\nen que se recuperarán los remanentes que se originen producto de esas operaciones.\nII.-       ANÁLISIS:    \nEl Art. 12°, letra F), del D.L. N° 825, de 1974, libera del Impuesto al Valor Agregado en lo pertinente a “La\nventa de una vivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de\nVivienda y Urbanismo, los contratos generales de construcción y los contratos de arriendo con opción de\ncompra, cuando tales ventas, contratos o arriendos con opción de compra hayan sido financiados, en\ndefinitiva, en todo o parte, por el referido subsidio. Para estos efectos, se considerará también como\nbeneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, a la persona\nnatural o jurídica que adquiera o encargue la construcción de un bien corporal inmueble para venderlo o\nentregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado por dicho\nMinisterio, siempre que lo anterior conste en el contrato respectivo, debiendo aplicarse el impuesto al valor\nagregado en caso contrario. En este caso, si la venta o el contrato de arriendo con opción de compra\n\n\nposteriores no se celebran con beneficiarios de tales subsidios, deberá aplicarse el impuesto al valor\nagregado conforme a las reglas que corresponda según el caso, sin que proceda la exención establecida en\nel número 11, de la letra E, del artículo 12; ………………”.\nPor otra parte, el Art. 21°, del D.L. N° 910, de 1975, establece en su inciso primero que “Las empresas\nconstructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre\nImpuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de\nbienes corporales inmuebles para habitación por ellas construidos cuyo valor no exceda de 2.000 unidades\nde fomento, con un tope de hasta 225 (doscientas veinticinco) unidades de fomento por vivienda, y en los\ncontratos generales de construcción de dichos inmuebles que no sean por administración, con igual tope por\nvivienda, \nde \nacuerdo \na \nlas \ndisposiciones \ndel \ndecreto \nley \nN° \n825, \nde \n1974.\n……………………………………………………….De igual beneficio gozarán las empresas constructoras por\nlas ventas de viviendas que se encuentren exentas de Impuesto al Valor Agregado, por efectuarse a\nbeneficiarios de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, conforme lo\ndispuesto en la primera parte del artículo 12, letra F, del decreto ley N° 825, caso en el cual el beneficio será\nequivalente a un 0,1235, del valor de la venta y se deducirá de los pagos provisionales obligatorios de la ley\nsobre Impuesto a la Renta, en la misma forma señalada en este inciso y con igual tope de 225 unidades de\nfomento”.\nEn cuanto al tope establecido por la norma legal precedente, de 2.000 unidades de fomento por vivienda\npara acceder al beneficio, cabe recordar que el Artículo Duodécimo Transitorio de la Ley N° 20.780,\nmodificado por el N° 10, del Art. 8°, de la Ley N° 20.899, incorporó un nuevo tope, a partir del 1 de enero del\naño 2017, para las viviendas financiadas en todo o parte con subsid"
+    }
+  ]
+}

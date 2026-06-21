@@ -1,0 +1,87 @@
+services:
+  opensearch:
+    image: opensearchproject/opensearch:2.15.0
+    container_name: sparse-eval-opensearch
+    environment:
+      - cluster.name=sparse-eval
+      - node.name=opensearch-node1
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "OPENSEARCH_JAVA_OPTS=-Xms1g -Xmx1g"
+      - DISABLE_SECURITY_PLUGIN=true
+      - DISABLE_INSTALL_DEMO_CONFIG=true
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    ports:
+      - "9200:9200"
+      - "9600:9600"
+    volumes:
+      - opensearch-data:/usr/share/opensearch/data
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:9200/_cluster/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 30s
+
+  opensearch-dashboards:
+    image: opensearchproject/opensearch-dashboards:2.15.0
+    container_name: sparse-eval-dashboards
+    environment:
+      - 'OPENSEARCH_HOSTS=["http://opensearch:9200"]'
+      - DISABLE_SECURITY_DASHBOARDS_PLUGIN=true
+    ports:
+      - "5601:5601"
+    depends_on:
+      opensearch:
+        condition: service_healthy
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: sparse-eval-qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ../qdrant_storage:/qdrant/storage:z
+
+  # Servicio efímero para correr scripts (create_index, ingest_with_vectors,
+  # api). No arranca con `docker compose up` gracias al profile `tools`;
+  # se invoca con `docker compose run --rm app <cmd>`.
+  app:
+    build: .
+    image: sparse-eval-app:latest
+    container_name: sparse-eval-app
+    profiles: ["tools"]
+    depends_on:
+      opensearch:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    environment:
+      - OPENSEARCH_HOST=opensearch
+      - OPENSEARCH_PORT=9200
+      - QDRANT_URL=http://qdrant:6333
+      - QDRANT_COLLECTION=maqui
+      - VECTORS_DIR=/app/vectors
+      - VECTORIZACION_PATH=/app/sparse_benchmark
+    # Puerto para FastAPI. Solo se mapea si se invoca con
+    # `docker compose run --service-ports app ...`.
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/app/src
+      - ./scripts:/app/scripts
+      - ./static:/app/static
+      - ./vectors:/app/vectors:ro
+      # Reutilizamos los preprocesadores de la fase de vectorización.
+      - ./Vectorizacion/sparse-benchmark/src:/app/sparse_benchmark:ro
+    working_dir: /app
+
+volumes:
+  opensearch-data:

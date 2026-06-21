@@ -1,0 +1,1253 @@
+{
+  "query_id": "q029",
+  "query_text": "Servidumbres prediales: constitución por prescripción y modos de extinción",
+  "rankings": {
+    "p1_bm25": [
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 18.39656,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "c1e7e8aa-dfb5-5227-a4d2-b1a156b313b1",
+        "score": 17.838106,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "4132557d-ecb8-5601-9ec3-1384ace1ed9e",
+        "score": 17.833763,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 17.478807,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "fde17b45-8a11-51db-b2fc-d309e2baee7c",
+        "score": 17.350498,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "3688e9b0-8ac3-50f4-a42e-9d56f2378994",
+        "score": 17.344498,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "5c0f09ce-ed37-574e-ac33-c5ac336cf8f8",
+        "score": 17.250618,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 16.168646,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "4d8d4107-4b9e-5172-9add-6b5780c5c06b",
+        "score": 15.260747,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "51e2ca50-797d-51c4-bb0a-f664be586bba",
+        "score": 15.248913,
+        "rank": 10
+      }
+    ],
+    "p1_tfidf": [
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 0.8762207,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+        "score": 0.85839844,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d34d8f6f-6f15-5bc9-b73a-0182fba478dd",
+        "score": 0.84887695,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "e95b2671-71e0-53ae-99f5-78b3dec47d45",
+        "score": 0.8347168,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+        "score": 0.8232422,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+        "score": 0.8201904,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.8095703,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+        "score": 0.7944336,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "7de0bc7d-b270-5140-9651-417a80c351b6",
+        "score": 0.7883301,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "3a5d3983-8873-5122-9220-a9e57abfa6d9",
+        "score": 0.78759766,
+        "rank": 10
+      }
+    ],
+    "p1_splade": [
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 22.387978,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "984bf9e5-4715-53f9-b7b3-27fbc9c0fcb7",
+        "score": 20.900394,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 20.23252,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 19.650465,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "874c445d-1d9d-5993-97e5-49cf906487c1",
+        "score": 19.521364,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "10161372-62f4-52de-9071-e3a4c079a68d",
+        "score": 19.173645,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 19.096039,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 18.980091,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "8d66e9f6-1095-5f3e-8304-c818a6403637",
+        "score": 18.979555,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "109f10af-6315-518c-8e26-112fc7b4eded",
+        "score": 18.94512,
+        "rank": 10
+      }
+    ],
+    "p2_bm25": [
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 21.934887,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 20.369335,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+        "score": 18.920315,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 17.470959,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "4132557d-ecb8-5601-9ec3-1384ace1ed9e",
+        "score": 17.176914,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "5c0f09ce-ed37-574e-ac33-c5ac336cf8f8",
+        "score": 16.748835,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "3688e9b0-8ac3-50f4-a42e-9d56f2378994",
+        "score": 16.748835,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "51e2ca50-797d-51c4-bb0a-f664be586bba",
+        "score": 16.458372,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 16.032305,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+        "score": 15.9928665,
+        "rank": 10
+      }
+    ],
+    "p2_tfidf": [
+      {
+        "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+        "score": 0.7050781,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 0.68652344,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+        "score": 0.6591797,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 0.6447754,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+        "score": 0.62109375,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+        "score": 0.6191406,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "0277e5cd-644e-501c-adf1-d7261dcdb001",
+        "score": 0.609375,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.5703125,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "0a19df91-424f-56c7-95f8-3d4364c22f3d",
+        "score": 0.5683594,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "60cecbb5-3295-5e59-9591-e1c6388c4ac7",
+        "score": 0.5546875,
+        "rank": 10
+      }
+    ],
+    "p3_bm25": [
+      {
+        "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+        "score": 19.589931,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 19.239517,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+        "score": 19.22072,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 18.335688,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 17.515018,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "4132557d-ecb8-5601-9ec3-1384ace1ed9e",
+        "score": 17.069931,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "91d5f67a-dc99-5b85-a6dd-932d9cd32f15",
+        "score": 16.792793,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 16.142675,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 15.545261,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "3688e9b0-8ac3-50f4-a42e-9d56f2378994",
+        "score": 15.5009365,
+        "rank": 10
+      }
+    ],
+    "p3_tfidf": [
+      {
+        "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+        "score": 0.9121094,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+        "score": 0.85058594,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 0.81555176,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 0.7352295,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.6804199,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "0277e5cd-644e-501c-adf1-d7261dcdb001",
+        "score": 0.67578125,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 0.6611328,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "aaad53fe-80dd-5142-8fd5-35e1b24f9003",
+        "score": 0.66064453,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+        "score": 0.63671875,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+        "score": 0.63183594,
+        "rank": 10
+      }
+    ],
+    "baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 7.9121094,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+        "score": 7.8515625,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "91d5f67a-dc99-5b85-a6dd-932d9cd32f15",
+        "score": 7.5742188,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "c1e7e8aa-dfb5-5227-a4d2-b1a156b313b1",
+        "score": 7.5371094,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 7.28125,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 7.2734375,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "bd64ec4f-f88c-5486-b2d7-fb8a42a24781",
+        "score": 7.1914062,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+        "score": 7.1210938,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 6.9882812,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 6.9726562,
+        "rank": 10
+      }
+    ],
+    "rrf_p1_bm25": [
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 0.02815814850530376,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.025458570524984188,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.02268782544011902,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "f14c5b32-d649-519e-825d-2d71fa0ed038",
+        "score": 0.020309278350515464,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 0.01639344262295082,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "c1e7e8aa-dfb5-5227-a4d2-b1a156b313b1",
+        "score": 0.016129032258064516,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "4132557d-ecb8-5601-9ec3-1384ace1ed9e",
+        "score": 0.015873015873015872,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 0.015625,
+        "rank": 8
+      }
+    ],
+    "rrf_p1_tfidf": [
+      {
+        "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+        "score": 0.0315136476426799,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.03055037313432836,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+        "score": 0.030303030303030304,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 0.029726775956284153,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+        "score": 0.027730294396961064,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d5e737ab-f393-5d0c-b067-7cfc557cc2df",
+        "score": 0.02574441687344913,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.021622253389434316,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 0.01639344262295082,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "d34d8f6f-6f15-5bc9-b73a-0182fba478dd",
+        "score": 0.015873015873015872,
+        "rank": 9
+      }
+    ],
+    "rrf_p1_splade": [
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 0.030798389007344232,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 0.029551337359792925,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "874c445d-1d9d-5993-97e5-49cf906487c1",
+        "score": 0.02871794871794872,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 0.025816993464052286,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+        "score": 0.02325895875591616,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "984bf9e5-4715-53f9-b7b3-27fbc9c0fcb7",
+        "score": 0.016129032258064516,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+        "score": 0.015873015873015872,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+        "score": 0.015625,
+        "rank": 8
+      }
+    ],
+    "rrf_p2_bm25": [
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 0.028782894736842105,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "e5dd9baa-37d1-5fcc-84cb-e68a6c627a5d",
+        "score": 0.027692895339954164,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 0.02750455373406193,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.0246415770609319,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "20efcb11-3146-5e93-8219-779e47d8d4f1",
+        "score": 0.024540757749712976,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.023614523614523618,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "f14c5b32-d649-519e-825d-2d71fa0ed038",
+        "score": 0.021061966522558477,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "55d649f0-4657-55cc-a765-6f4cf40319d0",
+        "score": 0.020517676767676768,
+        "rank": 8
+      }
+    ],
+    "rrf_p2_tfidf": [
+      {
+        "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+        "score": 0.030536130536130537,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+        "score": 0.030536130536130537,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.030330882352941176,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 0.02921395544346364,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 0.02792120864410021,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "d5e737ab-f393-5d0c-b067-7cfc557cc2df",
+        "score": 0.026655348047538198,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+        "score": 0.0264301860545992,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 0.025,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.024451318309029312,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+        "score": 0.021910919540229883,
+        "rank": 10
+      }
+    ],
+    "rrf_p3_bm25": [
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 0.03036576949620428,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 0.02854251012145749,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 0.02724014336917563,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "e5dd9baa-37d1-5fcc-84cb-e68a6c627a5d",
+        "score": 0.024606872451951076,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "874c445d-1d9d-5993-97e5-49cf906487c1",
+        "score": 0.023859649122807018,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.020186650436193956,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+        "score": 0.01639344262295082,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+        "score": 0.015873015873015872,
+        "rank": 8
+      }
+    ],
+    "rrf_p3_tfidf": [
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 0.03131881575727918,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.031009615384615385,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+        "score": 0.02964426877470356,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+        "score": 0.029273504273504274,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 0.0265113137453563,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+        "score": 0.025779967159277502,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+        "score": 0.025503573749187783,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "874c445d-1d9d-5993-97e5-49cf906487c1",
+        "score": 0.023537414965986395,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 0.02260536398467433,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.021279003961516697,
+        "rank": 10
+      }
+    ],
+    "rrf_baseline_qdrant_bm25": [
+      {
+        "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+        "score": 0.031544957774465976,
+        "rank": 1
+      },
+      {
+        "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+        "score": 0.02854251012145749,
+        "rank": 2
+      },
+      {
+        "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+        "score": 0.02797067901234568,
+        "rank": 3
+      },
+      {
+        "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+        "score": 0.027799227799227798,
+        "rank": 4
+      },
+      {
+        "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+        "score": 0.02750455373406193,
+        "rank": 5
+      },
+      {
+        "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+        "score": 0.026200135226504394,
+        "rank": 6
+      },
+      {
+        "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+        "score": 0.025974025974025976,
+        "rank": 7
+      },
+      {
+        "chunk_uuid": "e3f3b1b8-48e2-5c0b-ab9e-501a839f0fbf",
+        "score": 0.025603392041748205,
+        "rank": 8
+      },
+      {
+        "chunk_uuid": "e5dd9baa-37d1-5fcc-84cb-e68a6c627a5d",
+        "score": 0.024414620217018845,
+        "rank": 9
+      },
+      {
+        "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+        "score": 0.02186379928315412,
+        "rank": 10
+      }
+    ]
+  },
+  "latencies": {
+    "p1_bm25": 14.2,
+    "p1_tfidf": 11.6,
+    "p1_splade": 95.8,
+    "p2_bm25": 11.4,
+    "p2_tfidf": 7.5,
+    "p3_bm25": 7.3,
+    "p3_tfidf": 8.4,
+    "baseline_qdrant_bm25": 11.6,
+    "rrf_p1_bm25": 51.3,
+    "rrf_p1_tfidf": 53.1,
+    "rrf_p1_splade": 145.5,
+    "rrf_p2_bm25": 136.7,
+    "rrf_p2_tfidf": 156.4,
+    "rrf_p3_bm25": 53.0,
+    "rrf_p3_tfidf": 56.9,
+    "rrf_baseline_qdrant_bm25": 43.2
+  },
+  "pool": [
+    {
+      "name": "Artículo 1950 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "1424d6e3-66ea-5c42-9921-c0c860af9f1c",
+      "chunk_uuid": "51e2ca50-797d-51c4-bb0a-f664be586bba",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719974",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XXVI DEL CONTRATO DE ARRENDAMIENTO,Artículo 1950 (DEL ART. 2)|Art. 1950. El arrendamiento de cosas expira de los mismos modos que los otros contratos, y especialmente: 1º. Por la destrucción total de la cosa arrendada; 2º. Por la expiración del tiempo estipulado para la duración del arriendo; 3º. Por la extinción del derecho del arrendador, según las reglas que más adelante se expresarán; 4º. Por sentencia del juez en los casos que la ley ha previsto."
+    },
+    {
+      "name": "Artículo 882 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "29e270d1-5018-57f8-b0ac-1442f34374a0",
+      "chunk_uuid": "112e7b54-4625-52f8-9559-b6f867162f88",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718765",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 882 (DEL ART. 2)|Art. 882. Las servidumbres discontinuas de todas L. 16.952 clases y las servidumbres continuas inaparentes sólo pueden Art. 1º adquirirse por medio de un título; ni aun el goce inmemorial bastará para constituirlas. Las servidumbres continuas y aparentes pueden adquirirse por título, o por prescripción de cinco años."
+    },
+    {
+      "name": "Circular N°73 (11/10/2001)",
+      "source_type": "circular",
+      "source": "Circular N°73 (11/10/2001)",
+      "document_id": "7f754ff4-97fb-5ecb-8cb4-0b3fef93192a",
+      "chunk_uuid": "dd1add27-b2c4-5711-82a0-ddf455c364c4",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu73.pdf",
+      "content": " \n \n \n \nObligaciones civiles son, de acuerdo con lo \nexpresado por el artículo 1.470º del Código Civil, las \nque dan derecho a exigir su cumplimiento; y obligaciones \nnaturales, las que no confieren tal derecho, pero que \nuna vez cumplidas, autorizan a retener lo que se ha dado \nen razón de ellas. \n \n \n \nSon casos de obligaciones naturales aquellos \nque no han sido reconocidos en juicio por falta de \npruebas; las obligaciones civiles extinguidas por la \nprescripción; las que proceden de actos a los cuales \nfaltan las solemnidades que la ley exige para su \nformación, etc. \n \n \n \nEn materia tributaria sólo se presentan las \nobligaciones naturales producto de haberse extinguido la \nobligación civil por la prescripción. \n \n \n2.2.- La prescripción puede ser renunciada. Lo expuesto \nen los párrafos anteriores dice relación directa con \notro principio que rige a la prescripción; ésta puede \nser renunciada por el sujeto a quien beneficia \n \n \n2.2.1.- Oportunidad de la renuncia. En cuanto a la \noportunidad para renunciar la prescripción, el artículo \n2.494º del Código Civil es absolutamente claro al \nestablecer que ésta renuncia sólo puede verificarse una \nvez que el plazo de prescripción está cumplido. \n \n \n2.2.2.- Capacidad \npara \nrenunciar. \nFinalmente, \ndebe \ntenerse presente, que la renuncia de la prescripción \n\n\n \n4\nsólo puede ser efectuada por quien tiene capacidad para \nenajenar. (Artículo 2.495º Código Civil) \n \n \n \nLo \nanterior, \ntiene \nrelevancia \nen \nmateria \ntributaria, cuando el acto en el que se pretende fundar \nuna eventual renuncia tácita a la prescripción ha sido \nejecutado por un “representante” del contribuyente. En \nestos \ncasos, \nla \nadministración \ntributaria \ndeberá \nacreditar que el representante tenía la facultad de \nobligar al contribuyente con su acto; si no existe esta \nprueba no habrá lugar a la renuncia tácita de la \nprescripción y el contribuyente tendrá derecho a valerse \nde la excepción de prescripción e incluso, en su caso, a \nrecuperar lo que se haya pagado por concepto de la \ndeuda.  \n \n \n2.3.- \nLa \nprescripción \ndebe \nser \nalegada \npor \nel \ninteresado. Excepción en materia tributaria. La ley \nestablece, por regla general, que \"el que quiera aprove-\ncharse de la prescripción debe alegarla; el juez no \npuede declararla de oficio\" (Artículo 2.493º del Código \nCivil). \n \n \n \nEste principio civil tiene una excepción dentro \ndel Código Tributario, el cual establece al reglamentar \nel procedimiento general de reclamaciones, que \"el \nDirector Regional dispondrá en el fallo la anulación o \neliminación de los rubros de la liquidación reclamada \nque correspondan a revisiones efectuadas fuera de los \nplazos de prescripción\" (Artículo 136º). \n \n \n \nDicha anulación o eliminación debe ordenarse, \npor el Juez Tributario, de oficio o a petición de la \nparte interesada; siempre y cuando se haya reclamado de \nla liquidación, y aunque en el escrito de reclamo no se \nhaya invocado la prescripción. No puede solicitarse ni \ndeclararse por vía simplemente administrativa. \n \n \n3.- PLAZO DE PRESCRIPCIÓN DE LA FACULTAD DEL SERVICIO \nDE IMPUESTOS INTERNOS PARA REVISAR Y GIRAR IMPUESTOS \nINSOLUTOS. \n \n \n \nDe acuerdo con el artículo 6º del Código \nTributario, \ncorresponde \nal \nServicio \nde \nImpuestos \nInternos, en especial, la fiscalización y aplicación \nadministrativa de las disposiciones tributarias. Pero, \nsu \nfunción \npropia \nde \nrevisar \nel \ncomportamiento \ntributario del contribuyente, determinar o liquidar los \nimp"
+    },
+    {
+      "name": "Circular N°73 (11/10/2001)",
+      "source_type": "circular",
+      "source": "Circular N°73 (11/10/2001)",
+      "document_id": "7f754ff4-97fb-5ecb-8cb4-0b3fef93192a",
+      "chunk_uuid": "8572d147-3e05-53aa-b17c-5cec2dc5aad0",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu73.pdf",
+      "content": " \néste \ndesaparece, \ny \nlos \nsentimientos \ncolectivos que originan la intranquilidad y alarma, el \ndeseo de dar satisfacción al ofendido, el afán de que el \ncriminal pague su deuda, se debilitan y llegan a \ndesaparecer por completo.   \n \n \n1.2.- Concepto y Clasificación. La prescripción se \nencuentra definida en el Artículo 2.492º del Código \nCivil en los siguientes términos: \"La prescripción es un \nmodo de adquirir las cosas ajenas, o de extinguir las \nacciones y derechos ajenos, por haberse poseído las \ncosas o no haberse ejercido dichas acciones y derechos \ndurante cierto lapso de tiempo, y concurriendo los demás \nrequisitos legales\". \n \n \n \n\"Una acción o derecho se dice prescribir cuando \nse extingue por la prescripción\". \n \n \n1.3.- Prescripción adquisitiva y prescripción extintiva. \nConforme se desprende de la definición contenida en el \napartado precedente, la prescripción es de dos clases: \nadquisitiva y extintiva. La primera (llamada también \nusucapión) es uno de los modos de adquirir el dominio de \nlas cosas ajenas (Artículo 588º del Código Civil) y su \nestudio \nno \ntiene \nmayor \nimportancia \nen \nmateria \ntributaria; en cambio, la prescripción extintiva o \nliberatoria es un modo de extinguir las obligaciones \n(Artículo 1.567º, Nº 10, del Código Civil) y, como tal, \ntiene marcado interés en materia impositiva. El Código \nTributario, como es lógico, sólo trata de esta última \nclase de prescripción y a ella se limitarán las expli-\ncaciones de esta Circular. \n \n \n1.4.- Concepto de prescripción extintiva. En conformidad \nal artículo 2.492º del Código Civil, la prescripción \nliberatoria es un modo de extinguir las acciones y \nderechos ajenos, por no haberse ejercido éstos durante \nun lapso de tiempo determinado, concurriendo los demás \nrequisitos legales. \n \n \n2.- CARACTERISTICAS DE LA PRESCRIPCION EXTINTIVA \n \n \n\n\n \n3\n2.1.- Por la prescripción se extingue la acción o \nderecho y no la obligación. En materia civil se dice que \nla prescripción liberatoria no extingue propiamente la \nobligación, sino que afecta a la acción o derecho del \nacreedor a exigir el cumplimiento de la obligación por \nparte del deudor. Este principio, trasladado al campo \ntributario, significa por ejemplo, que un contribuyente \nque hubiere pagado un impuesto que el Fisco no habría \npodido cobrar en razón de haber transcurrido el plazo de \nprescripción \npertinente, \nno \npodría \nreclamar \nposteriormente y solicitar la devolución de lo pagado, \nalegando haber cumplido una obligación prescrita. En la \nespecie, el contribuyente habría pagado una obligación \nde las que en Derecho Civil se denominan \"obligaciones \nnaturales\" y esta clase de obligaciones, de acuerdo con \nla ley, autorizan al acreedor para retener lo que se ha \ndado o pagado en razón de ellas (Artículo 1.470º del \nCódigo Civil). \n \n \n \nEsta clasificación de las obligaciones en \nciviles y naturales refleja la mayor o menor fuerza \nobligatoria del vínculo que une al deudor con el \nacreedor. \n \n \n \nObligaciones civiles son, de acuerdo con lo \nexpresado por el artículo 1.470º del Código Civil, las \nque dan derecho a exigir su cumplimiento; y obligaciones \nnaturales, las que no confieren tal derecho, pero que \nuna vez cumplidas, autorizan a retener lo que se ha dado \nen razón de ellas. \n \n \n \nSon casos de obligaciones naturales aquellos \nque no han sido reconocidos en juicio por falta de \npruebas; las obligaciones civiles extinguidas por la \nprescripción"
+    },
+    {
+      "name": "Circular N°73 (11/10/2001)",
+      "source_type": "circular",
+      "source": "Circular N°73 (11/10/2001)",
+      "document_id": "7f754ff4-97fb-5ecb-8cb4-0b3fef93192a",
+      "chunk_uuid": "d5e737ab-f393-5d0c-b067-7cfc557cc2df",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu73.pdf",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nModificada por Circular N° 22, del 08 de Marzo de 2002\nModificada por Circular N° 45, del 21 de agosto de 2014 \nCIRCULAR N° 73 DEL 11 DE OCTUBRE DEL 2001 \n \nMATERIA: IMPARTE INSTRUCCIONES RELATIVAS A LA APLICACIÓN DE LAS \nNORMAS DE PRESCRIPCIÓN EN EL EJERCICIO DE LAS ACCIONES Y \nFACULTADES DEL SERVICIO DE IMPUESTOS INTERNOS. \n1.- CONCEPTOS GENERALES \nEn toda sociedad organizada interesa que los \nderechos y obligaciones de los individuos que la \ncomponen estén perfectamente determinados y que no se \nproduzcan situaciones de incertidumbre que permanezcan \nindefinidamente en el tiempo. \nPor esta razón, las legislaciones de todos los \npaíses contienen normas que confieren al transcurso del \ntiempo efectos jurídicos que tienen por objeto poner \ntérmino a los estados inciertos, ya sea extinguiendo la \nobligación incumplida, confiriendo el derecho al que \naparece como titular de él o fijando un plazo para \nimpetrar \nalgún \nderecho \no \nejercer \nuna \nacción, \ntranscurrido el cual ya no puede ponerse en marcha \nmecanismos jurisdiccionales o administrativos tendientes \na exigir su reconocimiento o cumplimiento. \nLas referidas normas toman la denominación de \nprescripciones y plazos de caducidad, y además de \nfundarse en la necesidad de dar estabilidad jurídica, se \nbasan también en la presunción del abandono o renuncia \ndel derecho cuyo titular no lo reclama o ejercita. \nEn virtud de la prescripción se adquieren \nderechos por su ejercicio continuado y consecuentemente \nse extinguen los del anterior titular. Esta doble \nfunción de la prescripción conlleva, en realidad dos \ninstituciones \ndistintas: \nuna \nde \nellas \nproduce \nla \nadquisición del derecho de propiedad y demás derechos \nreales, y la otra, extingue los derechos, reales o \npersonales. \n1.1.- Fundamentos doctrinarios de la prescripción. El \nfundamento que subyace tras la existencia de una \ninstitución como la prescripción, ha sido debatido \nlargamente por la doctrina y así, han sido múltiples los \nautores que han aventurado teorías que justifican su \nnaturaleza. Para algunos autores que ponen énfasis en \nuna interpretación civilista de la institución, la \nprescripción descansa sobre la necesidad de estabilizar \nlas situaciones jurídicas y que su justificación pasa \npor que el ordenamiento jurídico no puede menos que \nreconocer como jurídicos ciertos estados de hecho mucho \ntiempo subsistentes. Otros autores, desde un prisma \nModificada por Circular N° 63, del 10 de noviembre de 2006\n\n\n \n2\nprocesal, \nseñalan \nque \nla \njustificación \nde \nla \nprescripción pasa por el reconocimiento de que el \ntiempo, hace desaparecer los elementos probatorios que \npermiten acreditar los derechos, haciendo esto imposible \no, por lo menos, muy difícil. Finalmente, desde un punto \nde vista penalista, la doctrina señala que “con el \ntiempo, se pierde el interés estatal en la persecución \ndel delito”. Al respecto se señala que es verdadera la \nafirmación de que, transcurrido un largo período de \ntiempo desde la perpetración del hecho delictuoso, el \nrecuerdo \nde \néste \ndesaparece, \ny \nlos \nsentimientos \ncolectivos que originan la intranquilidad y alarma, el \ndeseo de dar satisfacción al ofendido, el afán de que el \ncriminal pague su deuda, se debilitan y llegan a \ndesaparecer por completo.   \n \n \n1.2.- Concepto y Clasificación. La prescripción se \nencuentra definida en el Artículo 2.492º del Código \nCivil en los siguientes términos: \"La prescripción es un"
+    },
+    {
+      "name": "Circular N°58 (30/06/2015)",
+      "source_type": "circular",
+      "source": "Circular N°58 (30/06/2015)",
+      "document_id": "d22190ec-5593-5c0e-8196-52d867c352ef",
+      "chunk_uuid": "3a5d3983-8873-5122-9220-a9e57abfa6d9",
+      "chunk_id": 7,
+      "url": "https://www.sii.cl/normativa_legislacion/circulares/2015/circu58.pdf",
+      "content": "responderá asimismo la emisión y notificación de la resolución que ordene el término de giro \ncuando el procedimiento culmine sin que se haya desvirtuado la ficción legal de cese de las \nactividades, aun cuando no se haya efectuado una determinación de impuestos.  \n \nPor el contrario, en caso que el contribuyente, en virtud de su respuesta a la Citación, acredite que \ncontinúa con el desarrollo de su giro, no corresponderá dar curso progresivo al procedimiento \ncontemplado en el artículo 69 del Código Tributario, sin perjuicio de la procedencia de las acciones \nde fiscalización conforme a la normativa general. \n \nDebe hacerse presente que no obstante el ejercicio de esta nueva facultad por parte del Servicio, \nigualmente se deberá proceder a la aplicación de las correspondientes sanciones por no dar aviso \nde término de giro, de conformidad a las instrucciones contenidas en la Circular N° 66, de 29 de \noctubre de 1998. \n \nc) Prescripción. \n \nEl nuevo inciso sexto del artículo 69 del Código Tributario regula de manera especial el efecto que \nproduce la notificación de la Citación en estos casos, aumentando los plazos de prescripción del \nartículo 200 del Código Tributario, en un año. \n \nDebe destacarse que este aumento de los plazos de prescripción de la acción del Servicio de \nImpuestos Internos para revisar, liquidar, y girar impuestos se produce respecto de la persona, \nempresa, comunidad, patrimonio de afectación o sociedad que no haya dado el correspondiente \naviso de término de giro, como también respecto de sus propietarios, comuneros, aportantes, \nsocios o accionistas. \n \nCabe tener presente que el inciso sexto del artículo 69 del Código Tributario constituye una norma \nespecial relativa al efecto en materia de prescripción de la notificación de la Citación, aplicable sólo \na la situación particular que regula la citada disposición legal. En consecuencia, el plazo especial de \nun año de aumento del plazo de prescripción sustituye el plazo general de 3 meses de aumento del \nmismo plazo, establecido en el inciso tercero del artículo 63 del Código Tributario, como también el \naumento del plazo de prescripción del artículo 200 del Código Tributario por efecto de la concesión \nde una prórroga del plazo para responder la citación, según lo dispuesto por el inciso cuarto del \n          \n10 Circular N° 66, del 29 de Octubre de 1998: “Imparte instrucciones referente al Procedimiento de Término de Giro e implementa nuevo \nFormulario “Aviso y Declaración por Término de Giro”.”.   \n\n\n7 \n \ncitado artículo 200. De esta manera, se debe tener en consideración que la concesión de la \nprórroga no aumenta el plazo adicional de un año en los mismos términos en que fuere concedida \nla prórroga.   \n \nPor su parte, el artículo 201 del Código Tributario, en su inciso primero, establece que “en los \nmismos plazos señalados en el artículo 200, y computados en la misma forma, prescribirá la acción del \nFisco para perseguir el pago de los impuestos, intereses, sanciones y demás recargos\". De esta \nmanera, el plazo de prescripción de la acción de cobro del Fisco también se aumenta con el plazo de \nun año desde que se notifique legalmente la citación referida en el nuevo inciso quinto del artículo 69 \ndel Código Tributario.  \n \n \nIV.- DEROGACIÓN DE INSTRUCCIONES ANTERIORES. \n \nDéjanse sin efecto, a contar de la fecha de vigencia de la presente Circular, la Circular N° 12, del 4 \nde febrero de 2003; y las Resoluciones Exentas N°s 29 y 41 del año 2002.  \n \n \nV.- VIGENCIA DE LA LEY Y DE ESTAS INSTRUCCIONES. \n \nDe conformidad a lo dispuesto por el Artículo decimoquinto transitorio de la Ley N° 20.780, estas \nmodificaciones al Código Tributario"
+    },
+    {
+      "name": "Artículo 138",
+      "source_type": "ley",
+      "source": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE",
+      "document_id": "662e0dc6-ac39-522d-98d8-96e847ba05cc",
+      "chunk_uuid": "60cecbb5-3295-5e59-9591-e1c6388c4ac7",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=242302&idParte=10085349",
+      "content": "Decreto 100 FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE,Del procedimiento para elaborar una Nueva Constitución Política de la República,Artículo 138|De las normas transitorias. La Convención podrá establecer disposiciones especiales de entrada en vigencia de alguna de las normas o capítulos de la Nueva Constitución. La Nueva Constitución no podrá poner término anticipado al período de las autoridades electas en votación popular, salvo que aquellas instituciones que integran sean suprimidas u objeto de una modificación sustancial. La Nueva Constitución deberá establecer el modo en que las otras autoridades que esta Constitución establece cesarán o continuarán en sus funciones."
+    },
+    {
+      "name": "Artículo 9 BIS",
+      "source_type": "ley",
+      "source": "LEY GENERAL DE SERVICIOS SANITARIOS",
+      "document_id": "6239e142-a89c-5521-8cf7-fe8c7ab69c84",
+      "chunk_uuid": "109f10af-6315-518c-8e26-112fc7b4eded",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=5545&idParte=8627498",
+      "content": "Decreto con Fuerza de Ley 382 LEY GENERAL DE SERVICIOS SANITARIOS,TITULO II De las concesiones,CAPITULO I Generalidades,Artículo 9 BIS|Artículo 9° bis.- Las concesiones para establecer, construir y explotar servicios públicos destinados a producir agua potable, distribuir agua potable, recolectar aguas servidas, y disponer aguas servidas, otorgan derecho a usar, a título gratuito, bienes nacionales de uso público para instalar infraestructura sanitaria, en las condiciones dispuestas por las respectivas municipalidades cuando estas instalaciones pudieran afectar el normal uso del bien nacional de uso público. Lo dispuesto en el inciso anterior será aplicable a los trabajos de exploración que requieran autorización y que sean autorizados por la Dirección General de Aguas para la captación de aguas subterráneas y se considerarán también obras de infraestructura sanitaria, cuando ellos sean claramente identificables con una obra de aprovechamiento para el servicio público sanitario. En caso que la conexión de una instalación domiciliaria de alcantarillado a una red de recolección para permitir el desague gravitacional, obligue a atravesar el predio de otro propietario, se constituirá una servidumbre legal de alcantarillado domiciliario. El largo y ancho de la faja de terreno sujeta a servidumbre, corresponderá a la factibilidad técnica del proyecto de conexión otorgada por el prestador, obligándose el interesado a indemnizar los perjuicios."
+    },
+    {
+      "name": "Artículo 732 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "b63654fe-6619-5365-82ce-4203ad3fb43f",
+      "chunk_uuid": "fde17b45-8a11-51db-b2fc-d309e2baee7c",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718608",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título VIII DE LAS LIMITACIONES DEL DOMINIO Y PRIMERAMENTE DE LA PROPIEDAD FIDUCIARIA,Artículo 732 (DEL ART. 2)|Art. 732. El dominio puede ser limitado de varios modos: 1º. Por haber de pasar a otra persona en virtud de una condición; 2º. Por el gravamen de un usufructo, uso o habitación, a que una persona tenga derecho en las cosas que pertenecen a otra; y 3º. Por las servidumbres."
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-93.059-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-93.059-2021",
+      "document_id": "608a255b-50eb-5039-a53f-2fcfc9f71c26",
+      "chunk_uuid": "a66afe32-eeef-5eeb-baa4-e0749bfcf4a8",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18080",
+      "content": " concluyó que tal estado de incertidumbre se oponía a la necesidad ineludible de certeza jurídica, fundamento y fin propios de la prescripción, institución a la cual estaba ligada estrechamente la garantía del juzgamiento en un plazo razonable, por lo cual el fallo en examen debía ser anulado.\n\nEl Abogado integrante Sr. Ruiz, concurrió la decisión de la Corte, teniendo presente para ello que por aplicación del principio de especialidad establecido en el artículo 4 del Código Civil, las disposiciones sobre prescripción contenidas en el Código Tributario prefieren a las del primer cuerpo legal, pero al no limitar el código del ramo la duración de la suspensión de la prescripción establecida en el artículo 200 del mismo, debía aplicarse la norma del inciso segundo del artículo 2.520 del Código Civil.  Agregó que, de este modo, “transcurridos diez años no se tomarán en cuenta las suspensiones mencionadas en el inciso precedente” y por extensión las del inciso final del artículo 201 del Código Tributario.\n\nConcluyó su prevención señalando que en el caso de autos no existía controversia acerca de que el reclamo se interpuso el 4 de enero de 2000 y la prescripción que había comenzado a correr quedó legalmente suspendida, por aplicación del inciso final del artículo 201 del código del ramo. Luego, esta comenzó nuevamente a correr desde el 4 de enero de 2010, de modo que al haber transcurrido el término máximo en que la suspensión podía tomarse en cuenta, el término de la prescripción se completó el año 2016, de modo que las acciones del Órgano Fiscalizador a la época en que se opuso la excepción de prescripción se habían irremediablemente extinguido."
+    },
+    {
+      "name": "Oficio N°862 (22/04/1997)",
+      "source_type": "oficio",
+      "source": "Oficio N°862 (22/04/1997)",
+      "document_id": "970738f7-ea63-54ae-b4a3-b17eca30ffb9",
+      "chunk_uuid": "78f1607a-8bd8-547d-915c-65eb138461fd",
+      "chunk_id": 0,
+      "url": "https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/may12.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nJURISPRUDENCIA ADMINISTRATIVA ENERO 1997\nVENTAS Y SERVICIOS - NUEVO TEXTO IMPUESTO A LAS\nART. 2 Y 8, LETRAS G) Y M)\nAPLICACIÓN DEL IMPUESTO A LAS VENTAS Y SERVICIOS EN LA CESIÓN DE SERVIDUMBRE DE\nAGUAS, EN CESIÓN DE SERVIDUMBRES DE PASTO DE LÍNEAS ELÉCTRICAS Y EN VENTA DE LÍNEAS\nELÉCTRICAS. (OF. NO862, DEL 22/04/97. I. INDIRECTOS).\n1.- ESA DIRECCIÓN REGIONAL HA TRASLADADO UNA CONSULTA QUE FUERA FORMULADA POR UNA\nCOOPERATIVA ELÉCTRICA ACERCA DEL IMPUESTO AL VALOR AGREGADO QUE PUDIERA AFECTAR A\nLA CESIÓN DE SERVIDUMBRES DE AGUAS, A LA CESIÓN DE SERVIDUMBRES DE PASO DE LÍNEAS\nELÉCTRICAS Y A LA VENTA DE LÍNEAS ELÉCTRICAS. MANIFIESTA LA COOPERATIVA QUE DE ACUERDO\nA UNA RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE AGUAS, ES TITULAR DE UNA SERVIDUMBRE DE\nAGUAS, CUYO USO PRETENDE CEDER A OTRA PERSONA. EXPRESA A CONTINUACIÓN QUE TAMBIÉN ES\nTITULAR DE UNA SERVIDUMBRE DE PASO DE LÍNEAS ELÉCTRICAS, QUE DEBE CEDER A OTRA\nPERSONA A QUIEN YA HABÍA TRANSFERIDO EL DOMINIO DE LAS LÍNEAS. LA COOPERATIVA EXPONE\nPOR ULTIMO QUE, EN SU CALIDAD DE ARRENDATARIA DE LÍNEAS ELÉCTRICAS, PRETENDE\nADQUIRIRLAS DE SU ARRENDADOR, CONVINIENDO CON EL RESCILIAR EL CONTRATO DE\nARRENDAMIENTO VIGENTE, PARA CELEBRAR EN SU LUGAR UNO DE COMPRAVENTA, DE MODO QUE\nEL PAGO DE LAS ACTUALES RENTAS LE SEA RECIBIDO EN EL FUTURO COMO SOLUCIÓN PARCIAL DEL\nPRECIO DE VENTA DE LOS BIENES. 2.- LA SERVIDUMBRE -QUE EN EL DERECHO PRIVADO CONFIGURA\nUN GRAVAMEN QUE SE IMPONE A UN PREDIO EN BENEFICIO DE OTRO PREDIO DE DISTINTO DUEÑO -\nEN LA ESPECIE CONSISTE EN CIERTAS LIMITACIONES AL DOMINIO DE UNO O MAS PREDIOS QUE, POR\nDISPOSICIÓN DE NORMAS DE DERECHO PUBLICO COMO SON LAS DEL CÓDIGO DE AGUAS Y LAS DE\nLA LEY GENERAL DE SERVICIOS ELÉCTRICOS, EL LEGISLADOR HA ESTABLECIDO EN BENEFICIO DEL\nINTERÉS COLECTIVO REPRESENTADO ESTA VEZ POR UNA COOPERATIVA PRESTADORA DE SERVICIOS\nDE ELECTRICIDAD, PARA EL APROVECHAMIENTO DE RECURSOS HIDRÁULICOS EN LA PRODUCCIÓN\nDE ENERGÍA ELÉCTRICA, Y PARA EL TRANSPORTE O DISTRIBUCIÓN DE ESTA ENERGÍA A TRAVÉS DE\nLAS LÍNEAS RESPECTIVAS. DE ESTA MANERA, ESE DERECHO REAL, ESA LIMITACIÓN AL DOMINIO DEL\n(O LOS) PREDIO(S) SIRVIENTE(S) ES CONSTITUIDA POR LA LEY EXCLUSIVAMENTE A FAVOR DEL\nINTERÉS DE LOS CONSUMIDORES, PARA SATISFACER SU NECESIDAD -COMO USUARIOS DE LOS\nSERVICIOS ELÉCTRICOS- DE ACCEDER A ESAS PRESTACIONES. POR OTRA PARTE, LA LEY NO\nCONSTITUYE ESTAS SERVIDUMBRES SOBRE UN DETERMINADO PREDIO DOMINANTE, NI TAMPOCO\nSOBRE LOS BIENES CORPORALES INMUEBLES (ACUEDUCTOS, POSTULACIONES, ETC.) CONSTRUIDOS\nEN LOS PREDIOS SIRVIENTES PARA HACER EFECTIVO ESE DERECHO REAL, PARA EJERCERLO"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-6133-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-6133-2018",
+      "document_id": "d844381b-0b00-5a84-b29d-479b69d28450",
+      "chunk_uuid": "d34d8f6f-6f15-5bc9-b73a-0182fba478dd",
+      "chunk_id": 2,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13760",
+      "content": " duración del procedimiento no ha afectado a la contribuyente, sino que, al Fisco de Chile, quien después de estos años aún no ha visto satisfecho su crédito fiscal, motivada en una determinación improcedente del Impuesto de Timbres y Estampillas y del Impuesto Adicional. En definitiva, el Servicio de Impuestos Internos expresa que, los antecedentes invocados por la recurrente para sostener la prescripción de las acciones del fisco para el cobro de las Liquidaciones Nºs 189 a la 222, todas de fecha 11 de agosto de 2006, en virtud de los artículo 2º y 148 del Código Tributario, artículos 3º y 310 del Código de  Procedimiento Civil, artículo 5º de la Constitución Política de la República, artículo 8.1 de la Convención Americana de Derechos Humanos, artículos 24, 59, 200 y 201 del Código Tributario, no pueden sostenerse en base a lo expuesto precedentemente, motivo por el cual procede desechar la excepción opuesta por la parte reclamante.\n      \nTercero: Que para decidir la excepción de prescripción opuesta por la reclamante se debe tener presente que, en virtud del artículo 24 del Código Tributario, se practicaron las Liquidaciones Nºs 189 a 222, de 11 de agosto de 2006, contra la contribuyente nnnnnnnn., la cual con fecha 25 de octubre de 2006, presentó solicitud de revisión de la actuación fiscalizadora, la que fue resuelta mediante Resolución Exenta Nº 9, de 17 de febrero de 2009, acogiendo en parte las alegaciones sólo respecto de la Liquidación Nº 197, manteniéndose las demás liquidaciones, presentándose el reclamo que dio origen a este procedimiento con fecha 25 de octubre de 2006; el 05 de diciembre de 2016, se dictó la sentencia definitiva de primera instancia, notificada por cédula a la contribuyente el día 06 de enero de 2017.\n\nCuarto: Que el artículo 8.1 de la Convención Americana de Derechos Humanos suscrita por Chile el 22 de noviembre de 1969 y ratificada el 08 de octubre de 1990, publicada en el Diario Oficial de 05 de enero de 1991, asegura a toda persona el derecho a ser oída, con las debidas garantías y dentro de un plazo razonable, por un juez o tribunal competente, independiente imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ella, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal, o de cualquier otro carácter. Por su parte, el inciso 2º del artículo 5º de la Constitución Política de la República, establece el deber de todo órgano del Estado de respetar y promover los derechos esenciales que emanan de la naturaleza humana garantizados por los tratados internacionales ratificados por Chile y que se encuentren vigentes.\n\nQuinto: Que para determinar el límite temporal máximo que permita concluir que el procedimiento incoado por el contribuyente con la reclamación, ha dejado de ser razonable en cuanto a su duración de acuerdo a lo dispuesto en el artículo 8.1 de la Convención Americana, si bien la presentación de ésta suspende el curso de la prescripción consagrada en el Código Tributario, sin embargo, tal disposición del derecho interno que debe ser integrada con las del derecho internacional conforme a lo dispuesto en el inciso segundo del artículo 5º de la Constitución Política de la República, determinadamente, por las de la Convención Americana de Derechos Humanos y por el Pacto Internacional de Derechos Civiles y Políticos, control de convencionalidad, que en cuanto a la determinación del plazo razonable, hace que no pueda aceptarse que la suspensión de la prescripción opere incluso por un período superior que el asignado por la legislación nacional  para la prescripción adquisitiva extraordinaria, y en la práctica opere sin límite temporal o de manera indefinida. Así, en el presente caso, la suspensión vendría extend"
+    },
+    {
+      "name": "Artículo 135",
+      "source_type": "ley",
+      "source": "FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE",
+      "document_id": "4c0b9663-45ee-584d-8a45-04dea05e1987",
+      "chunk_uuid": "0a19df91-424f-56c7-95f8-3d4364c22f3d",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=242302&idParte=10085346",
+      "content": "Decreto 100 FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE,Del procedimiento para elaborar una Nueva Constitución Política de la República,Artículo 135|Disposiciones especiales. La Convención no podrá intervenir ni ejercer ninguna otra función o atribución de otros órganos o autoridades establecidas en esta Constitución o en las leyes. Mientras no entre en vigencia la Nueva Constitución en la forma establecida en este epígrafe, esta Constitución seguirá plenamente vigente, sin que pueda la Convención negarle autoridad o modificarla. En conformidad al artículo 5º, inciso primero, de la Constitución, mientras la Convención esté en funciones la soberanía reside esencialmente en la Nación y es ejercida por el pueblo a través de los plebiscitos y elecciones periódicas que la Constitución y las leyes determinan y, también, por las autoridades que esta Constitución establece. Le quedará prohibido a la Convención, a cualquiera de sus integrantes o a una fracción de ellos, atribuirse el ejercicio de la soberanía, asumiendo otras atribuciones que las que expresamente le reconoce esta Constitución. El texto de Nueva Constitución que se someta a plebiscito deberá respetar el carácter de República del Estado de Chile, su régimen democrático, las sentencias judiciales firmes y ejecutoriadas y los tratados internacionales ratificados por Chile y que se encuentren vigentes."
+    },
+    {
+      "name": "Oficio N°862 (22/04/1997)",
+      "source_type": "oficio",
+      "source": "Oficio N°862 (22/04/1997)",
+      "document_id": "970738f7-ea63-54ae-b4a3-b17eca30ffb9",
+      "chunk_uuid": "874c445d-1d9d-5993-97e5-49cf906487c1",
+      "chunk_id": 1,
+      "url": "https://www.sii.cl/pagina/jurisprudencia/adminis/1997/ventas/may12.htm",
+      "content": "\nSERVICIOS ELÉCTRICOS- DE ACCEDER A ESAS PRESTACIONES. POR OTRA PARTE, LA LEY NO\nCONSTITUYE ESTAS SERVIDUMBRES SOBRE UN DETERMINADO PREDIO DOMINANTE, NI TAMPOCO\nSOBRE LOS BIENES CORPORALES INMUEBLES (ACUEDUCTOS, POSTULACIONES, ETC.) CONSTRUIDOS\nEN LOS PREDIOS SIRVIENTES PARA HACER EFECTIVO ESE DERECHO REAL, PARA EJERCERLO. 3.- ASÍ,\nSI TENEMOS PRESENTE QUE EL IMPUESTO AL VALOR AGREGADO AFECTA A LAS VENTAS DEFINIDAS\nEN EL ARTICULO 2 DEL DECRETO LEY NO. 825, DE 1974 -EN LO QUE CONCIERNE A ESTA CONSULTA-\nCOMO TODA CONVENCIÓN A TITULO ONEROSO, QUE SIRVA PARA TRANSFERIR EL DOMINIO U OTROS\nDERECHOS REALES CONSTITUIDOS SOBRE BIENES CORPORALES INMUEBLES EN DETERMINADAS\nCONDICIONES, APARECE INDUDABLE QUE LA CESIÓN DE LAS REFERIDAS SERVIDUMBRES DE AGUA O\nDE PASO DE LÍNEAS ELÉCTRICAS NO CONFORMA UN HECHO GRAVADO CON EL TRIBUTO, EN LA\nMEDIDA EN QUE RECAE EN BIENES INCORPORALES -DERECHOS REALES- QUE NO SE HAN\nCONSTITUIDO SOBRE INMUEBLE ALGUNO DETERMINADO. TAMPOCO, Y POR LA MISMA RAZÓN, LA\nCESIÓN DEL USO TEMPORAL DE UNA SERVIDUMBRE -BIEN INCORPORAL- LO CONSTITUYE, EN TANTO\nLA NORMA DEL ARTICULO 8, LETRA G), DEL CITADO CUERPO LEGAL, DECLARA GRAVADO CON EL IVA\n-COMO SERVICIO- A LA CESIÓN DEL USO TEMPORAL DE BIENES CORPORALES (MUEBLES O\nINMUEBLES EN DETERMINADAS CONDICIONES). SIN EMBARGO, SI ESTA CESIÓN DEL USO TEMPORAL\nDE UNA SERVIDUMBRE, IMPORTA LA CESIÓN DEL USO TEMPORAL DE LOS INMUEBLES CONSTRUIDOS\nPARA HACER EFECTIVA ESA SERVIDUMBRE, LA OPERACIÓN SE ENCONTRARÍA GRAVADA CON IVA,\nPORQUE EVIDENTEMENTE ESOS INMUEBLES (BOCATOMAS, TENDIDO ELÉCTRICO, ETC.) FACULTAN EL\nEJERCICIO DE UNA ACTIVIDAD COMERCIAL O INDUSTRIAL, COMO LO REQUIERE LA MISMA NORMA\nCITADA EN EL PÁRRAFO ANTERIOR, PARA DECLARARLA AFECTA AL TRIBUTO, COMO SERVICIO. 4.- LA\nVENTA DE LÍNEAS ELÉCTRICAS CONSTRUIDAS POR LA COOPERATIVA PRESTADORA DE SERVICIOS NO\nMAS DE DOCE MESES ANTES DE ESA ENAJENACIÓN, QUE LE HUBIERA PERMITIDO USAR EL CRÉDITO\nFISCAL DEL IVA SOPORTADO EN LA CONSTRUCCIÓN DE ESTOS BIENES INMUEBLES DESTINADOS AL\nUSO PROPIO, SE ENCUENTRA AFECTA AL IMPUESTO AL VALOR AGREGADO (ART. 8, LETRA M), DEL\nDECRETO LEY NO. 825, DE 1974, VIGENTE A CONTAR DEL 01 DE SEPTIEMBRE DE 1995). SI LA\nOPERACIÓN SE HUBIERA REALIZADO ANTES DE LA FECHA DE VIGENCIA DE LA NORMA RECIÉN\nSEÑALADA, NO SE HABRÍA HALLADO GRAVADA CON EL TRIBUTO, POR HABER RECAÍDO EN BIENES\nQUE NO ESTABAN DESTINADOS A LA VENTA. 5.- EL SEÑOR DIRECTOR REGIONAL SE SERVIRÁ DAR\n\n\nRESPUESTA A LA CONSULTANTE AL TENOR DE ESTE OFICIO, HACIÉNDOLE SABER QUE SE TRATA DEL\nCRITERIO DE ESTA SUPERIORIDAD. JAVIER ETCHEBERRY CELHAY\nDIRECTOR\nOFICIO"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-15.399-2019",
+      "source_type": "jurisprudencia",
+      "source": "ROL-15.399-2019",
+      "document_id": "996c6c46-248f-576d-89c0-36af6ec6e23f",
+      "chunk_uuid": "e95b2671-71e0-53ae-99f5-78b3dec47d45",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18905",
+      "content": "La Corte Suprema acogió el recurso de casación en el fondo deducido por el Servicio de Impuestos Internos en contra de la sentencia dictada por la Corte de Apelaciones de Santiago que hizo lugar a la excepción de prescripción promovida en segunda instancia, y en cuanto al fondo, omitió pronunciamiento. Lo anterior respecto de la sentencia emitida por el Primer Tribunal Tributario y Aduanero que acogió parcialmente el reclamo interpuesto por la contribuyente respecto de unas Liquidaciones que determinaron diferencias de Impuestos Global Complementario y de Primera Categoría emitidas por la XIII Dirección Regional Metropolitana Santiago Centro.\n\nEl Ente Fiscalizador alegó que la sentencia recurrida dejó de atender las reglas sobre prescripción, interrupción y suspensión de los plazos de prescripción contenidas en el Código Tributario, para sostener su decisión y extender falsamente la aplicación de los plazos establecidos en los artículos 200 y 201 del cuerpo legal antes citado, a la duración de los procesos judiciales.\n\nLuego, el Servicio acusó vulneración del N° 1 del artículo 8 de la Convención Americana de Derechos Humanos, ya que la garantía de ser juzgado dentro de un plazo razonable constituía un concepto indeterminado que debía ser dotado de contenidos concretos, atendiendo la situación del caso particular, de forma tal de deducir de allí la irracionalidad y el carácter excesivo del retardo, causado por Órganos encargados de la Administración de Justicia, a través del tiempo, en que no se realizó actividad útil a los fines del juicio.\n\n\n\nConforme lo argumentos vertidos, el Ente Fiscal solicitó la invalidación de la sentencia impugnada y que se dictase una de reemplazo, en el sentido de rechazar la excepción de prescripción y devolver los autos a la Corte de Apelaciones de Santiago para que resolviera los recursos de apelación deducidos por ambas partes respecto del fallo de primera instancia.\n\nPara efectos del recurso de autos, la Corte Suprema estimó que los hechos del proceso estaban constituidos por las Liquidaciones reclamadas el 16 de mayo de 2005; el reclamo ante el Director Regional Metropolitano Santiago Centro del Servicio de Impuestos Internos en su calidad de Juez Tributario, con fecha 25 de julio de 2005; la invalidación del procedimiento por parte del referido Tribunal el 25 de abril de 2012; el derecho de opción ejercido por el contribuyente con fecha 5 de agosto de 2014; la sentencia de primera instancia que acogió el reclamo y declaró de oficio la prescripción de la acción fiscalizadora de 8 de septiembre de 2025; la sentencia de la Corte de Apelaciones de Santiago que revocó dicho fallo con fecha 7 de diciembre de 2015 y ordenó pronunciarse sobre el fondo del reclamo deducido por juez no inhabilitado, quien el 23 de octubre de 2017 acogió parcialmente el reclamo; las apelaciones deducidas por ambas partes; la excepción de prescripción opuesta en segunda instancia por el contribuyente el 38 de noviembre de 2018; y finalmente, la sentencia de la Corte de Apelaciones de Santiago que acogió dicha excepción el 8 de febrero de 2019, y omitió pronunciamiento sobre el fondo.\n\nDicho lo anterior, la Magistratura analizó los yerros denunciados por el Órgano Fiscalizador concluyó que para que el reclamo produjera el efecto de suspender la prescripción era necesario que fuese interpuesto dentro de plazo y que cumpliera con los requisitos de forma en la presentación. De manera que no existiendo controversia sobre tales aspectos, solo correspondía concluir que dicha presentación tuvo el efecto de suspender el término de la prescripción, sin que pudiera tener cabida entrar a analizar la larga data de tramitación del proceso para arribar a una conclusión distinta.\n\nLuego, en relación al derecho a ser oído y juzgado en un plazo razonable, el Tribunal Superior señaló, que en el proceso de autos era el contribuyente quien ejerció una acción"
+    },
+    {
+      "name": "Oficio N°454 (20/02/2012)",
+      "source_type": "oficio",
+      "source": "Oficio N°454 (20/02/2012)",
+      "document_id": "5f473783-ce91-5620-a106-3cfef7324949",
+      "chunk_uuid": "8d66e9f6-1095-5f3e-8304-c818a6403637",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2012/renta/ja454.htm",
+      "content": "ipulado que\nlas obras preliminares y principales, a que se refieren los N°s 2 y 3, del Título I.- anterior, construidas en\nterrenos ajenos sobre los cuales se han constituido las correspondientes servidumbres, pasen a ser de\npropiedad de los dueños de los predios sirvientes, tales obras no constituirían un activo fijo para la empresa,\nsino que, dichos desembolsos sólo podrían ser amortizados como gastos de organización y puesta en\nmarcha, en conformidad al N° 9, del artículo 31, de la LIR.\nPor su parte, los desembolsos incurridos en la constitución de las servidumbres respectivas, dan cuenta de la\nadquisición de un activo intangible, el cual no es susceptible de depreciación ni amortización alguna para\nefectos tributarios. Dichos desembolsos sólo podrán cargarse a los resultados que el contribuyente determine\npara los efectos de la LIR, cuando tales derechos se extingan, o bien, cuando éstos sean cedidos o\nenajenados, considerándose en este último caso que el costo de la cesión será el valor de adquisición de la\nservidumbre, reajustado conforme a la Ley.\n\n\nMARIO VILA FERNÁNDEZ\nDIRECTOR (S)\nOficio N° 454, de 20.02.2012\nSubdirección Normativa\nDpto. de Impuestos Directos\n"
+    },
+    {
+      "name": "Oficio N°1083 (03/04/2000)",
+      "source_type": "oficio",
+      "source": "Oficio N°1083 (03/04/2000)",
+      "document_id": "cd6e7f05-2375-5f4a-9dd7-f459186b55d1",
+      "chunk_uuid": "36051043-cac5-5fac-af96-73ac9330e455",
+      "chunk_id": 6,
+      "url": "https://homer.sii.cl/sacn/oficios/JI1655.pdf",
+      "content": " la disolución de una sociedad. \n \nTratándose de la división de una sociedad se está frente a la distribución de su \npatrimonio entre ella misma, que sigue existiendo, y una o mas sociedades que se \nconstituyan al efecto. Además, y esto marca una diferencia aún más importante, por \nmandato legal corresponderá a los accionistas de la sociedad dividida la misma \nproporción en el capital de las nuevas sociedades que aquella que poseían en la \nsociedad que se divide, lo que ha significado que tanto la Superintendencia de Valores y \nSeguros mediante Oficio Nº 2.048 de 14 de Junio de 1989, como este Servicio, hayan \nconsiderado que en la distribución del patrimonio de una sociedad anónima que se \ndivide existe una especificación de derechos preexistentes. \n\n\n6\nx  \nRespecto del planteamiento formulado en el sentido que la interpretación contenida en el \nreferido Oficio Nº 2.687, no resulta jurídicamente aplicable a los bienes raíces, que sería \nel caso del centro comercial objeto de la consulta, sosteniendo este criterio a partir de su \naseveración de que en todos los casos de cambio de titularidad de la propiedad sobre \nun bien raíz es preciso practicar la inscripción, aun en los casos de sucesión por causa \nde muerte y prescripción, y la circunstancia de que el Código Civil no se refiera a la \ninscripción en caso que el modo de adquirir sea la ley, se origina en que el Código no se \nrefiere a la ley como modo de adquirir. Por lo tanto, sostiene el recurrente, aún cuando el \nmodo de adquirir un bien raíz sea la ley, ello no libera  de la necesidad de inscribir el \nbien raíz en el Registro del Conservador de Bienes Raíces respectivo y mientras dicha \ninscripción no se produzca no puede afirmarse que se ha consumado la transferencia \ndel dominio. \n \nAl respecto es necesario precisar, que la inscripción del título en el Registro del \nConservador, es la única manera de efectuar la tradición del dominio sobre un inmueble \ny reviste respecto de este particular modo de adquirir el carácter de formalidad necesaria \npara que tenga valor, es decir, constituye la solemnidad de la tradición. Pero tratándose \nde otros modos de adquirir, como la prescripción, la sucesión por causa de muerte y la \nley, la inscripción de los bienes raíces no tiene la función de perfeccionar el respectivo \nmodo de adquirir. \n \nAsí por ejemplo, lo han precisado los autores Alessandri, Somarriva y Vodanovic que \nsobre el particular señalan que \"la inscripción no sirve para que el prescribiente adquiera \nel dominio, puesto que ya lo tiene adquirido por prescripción; la inscripción se exige con \nun triple objeto: 1) para colocar el inmueble bajo el régimen de la propiedad inscrita; 2) \npara mantener la historia de la propiedad raíz; y 3) para que la sentencia judicial \nproduzca efectos contra terceros (\"Tratado de los derechos reales\", Edición 1993).  Así \ntambién, los mismos autores, ahora respecto de la sucesión por causa de muerte, \nseñalan que \"la inscripción que se exige en las transmisiones hereditarias no es para \nque opere la tradición de los bienes del causante a los herederos, porque el traslado del \ndominio se efectúa por otro modo de adquirir, la sucesión por causa de muerte; en este \ncaso la inscripción sirve para dejar constancia pública de la transmisión, conservar la \nhistoria de la propiedad inmueble, explicar la mutación del dominio\". \n \nDe manera que, de la misma forma que en la prescripción y en la sucesión por causa de \nmuerte, cuando es la ley el modo de adquirir en virtud del cual se traspasa el dominio, la \ninscripción no es solemnidad para que sea válida la transferencia de dominio, sino que, \ncomo en aquellas, sólo tiene por finalidad dar publicidad y conservar la historia de la \nprop"
+    },
+    {
+      "name": "Oficio N°2215 (21/07/2022)",
+      "source_type": "oficio",
+      "source": "Oficio N°2215 (21/07/2022)",
+      "document_id": "3ce04b98-9441-587e-9420-24c73e701661",
+      "chunk_uuid": "f14c5b32-d649-519e-825d-2d71fa0ed038",
+      "chunk_id": 1,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2215-21%2F07%2F2022.pdf&extension=pdf&acc=download&id=c704a88c-0476-4c21-8a98-603767a10ed1&mediaType=application%2Fpdf",
+      "content": " un mecanismo para evitar la \nocurrencia del hecho gravado correspondiente a la venta de inmuebles construidos. \n          \n1  Oficio N° 3705 de 2021 \n2  Ver oficios N° 2010 de 2017 y 2708 de 2020. \n3  Alessandri, Arturo; Tratado de Derecho Civil, partes preliminar y general, Tomo II, Editorial Jurídica de Chile, 1ª edición, 1998, \npágina 30. \n\n\n2 \n \nEn ese contexto, este Servicio verificará, por ejemplo, las condiciones bajo las cuales se pacte la \ncompraventa del inmueble, si el precio de venta comprende sólo el valor del terreno o una \ncantidad mayor en atención a las construcciones de caminos e instalaciones que posteriormente \nrealizará el vendedor, si las partes son relacionadas o no, o el período que transcurra entre la venta \ndel terreno y la posterior construcción en el mismo. \nPor otra parte, y de acuerdo con el citado N° 2°) del artículo 2° de la LIVS, también se encuentra \ngravada la enajenación de derechos reales constituidos sobre bienes corporales muebles e \ninmuebles construidos. \nAl respecto, de acuerdo con el tenor literal de dicha disposición, este Servicio entiende que solo se \nencuentran gravadas con IVA las transferencias de derechos reales previamente constituidas, no \nasí su constitución. A mayor abundamiento, el bien sobre el cual recaería la servidumbre referida \n– que corresponde a un derecho real en virtud de lo señalado en el artículo 577 del Código Civil – \ncorresponde a un bien corporal inmueble sin construcciones. \nEn consecuencia, las servidumbres de tránsito que constituirían los potenciales compradores no se \nencontrarían gravadas con IVA. \nII  CONCLUSIONES \nConforme lo expuesto precedentemente y respecto de lo consultado se informa que los actos \nreferidos en su consulta no se encontrarían gravados con IVA, en tanto, por un lado, se trata de la \nventa de terrenos, desprovistas – en principio – de toda construcción, y por el otro, se refiere de la \nconstitución de derecho reales sobre inmuebles que no se encuentran construidos. \nSin perjuicio de lo anterior, este Servicio, en el ejercicio de sus facultades de fiscalización, podría \nrevisar la operación en el marco de la norma general anti elusiva dispuesta en los artículos 4° bis y \nsiguientes del Código Tributario. \n \n \n \n \n \nHERNÁN ANDRÉS FRIGOLETT CÓRDOVA \nDIRECTOR \n \n \nOficio N° 2215, de 21-07-2022 \nSubdirección Normativa \nDepto. de Impuestos Indirectos \n"
+    },
+    {
+      "name": "Artículo 888 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "0154b2fd-b784-57c0-89f6-980e018e459e",
+      "chunk_uuid": "21dc428e-ac99-522f-b7d5-4b7d0dd627d7",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718772",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 888 (DEL ART. 2)|Art. 888. Se puede adquirir y perder por la prescripción un modo particular de ejercer la servidumbre, de la misma manera que podría adquirirse o perderse la servidumbre misma."
+    },
+    {
+      "name": "Circular N°73 (11/10/2001)",
+      "source_type": "circular",
+      "source": "Circular N°73 (11/10/2001)",
+      "document_id": "7f754ff4-97fb-5ecb-8cb4-0b3fef93192a",
+      "chunk_uuid": "25dc8420-1da6-58ee-943f-7d7a4413b2ba",
+      "chunk_id": 27,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu73.pdf",
+      "content": " a quien se \nle imputa responsabilidad en el delito, sin que \nsea menester que el presunto delincuente se \nencuentre sometido a proceso, por cuanto no es \néste un requisito que haya contemplado la ley \npara establecer la norma de suspensión de la \nprescripción establecido en el artículo 96º del \nCódigo Penal. \n \nd) Sanciones por delitos tributarios: Se aplican las \nmismas \nreglas \nvistas \nen \nel \nliteral \nanterior. \n(Artículo 114° del Código Tributario. \n \n \n14.- PRESCRIPCIÓN DE LAS ACCIONES PARA EL COBRO DEL \nIMPUESTO A LAS ASIGNACIONES POR CAUSA DE MUERTE Y A LAS \nDONACIONES. \n \n \n \n \n \n \nEl artículo 202° del Código Tributario dispone \nque \"sin perjuicio de las normas de los artículos 200º y \n201º, el plazo de prescripción para el cobro del \nimpuesto a las asignaciones por causa de muerte y a las \ndonaciones, será de seis años si el contribuyente no \nhubiere solicitado la determinación provisoria o defini-\ntiva del impuesto. En los demás casos dicho término será \nde tres años\". \n \n \n \n\"Para los efectos del número 2 del artículo \n201º, se entenderá que se cumple con los requisitos que \n\n\n \n35 \nese número establece desde que el Servicio pida la \ndeterminación provisoria o definitiva del impuesto\".  \n \n \n14.1.- Epoca en que comienza a correr el plazo. Aumento \npor la \"citación\". Interrupción de esta prescripción. \nPara los efectos de la prescripción de la acción de \ncobro del impuesto a las asignaciones por causa de \nmuerte y a las donaciones, se aplican las normas de los \nartículos 200° y 201°, ya analizadas en los párrafos \nanteriores, en lo que se refiere al aumento del plazo de \nprescripción por el lapso de 3 meses desde que cite al \ncontribuyente más la eventual prórroga de este plazo, y \nen cuanto a las causales y efectos de la interrupción de \nla prescripción. \n \n \n14.2.- Cómputo del plazo. El plazo de prescripción de la \nacción en referencia empieza a correr desde la expira-\nción del término legal dentro del cual debió efectuarse \nel pago del impuesto. El artículo 50° de la Ley Nº 16.2-\n71, dispone que el impuesto a las asignaciones por causa \nde muerte y a las donaciones deberá pagarse dentro del \nplazo de dos años contado desde que la herencia se \ndefiera, fecha esta última, que por regla general es la \nmisma del fallecimiento del causante. En consecuencia \nuna vez que venza el referido plazo de dos años, co-\nmienza a correr el plazo de prescripción de la acción \ndel Fisco para el cobro del impuesto. \n \n \nTratándose \nde \ndonaciones, \neste \nplazo \nde \nprescripción se cuenta desde la fecha del respectivo \ncontrato de donación. \n \n \n14.3.- Extensión del plazo de prescripción. El plazo de \nprescripción de esta acción es, por regla general, de \ntres años. Excepcionalmente es de seis años cuando el \ncontribuyente no solicitare, en la forma contemplada en \nel Capítulo VII de la Ley Nº 16.271, la liquidación \nprovisoria o definitiva del impuesto. \n \n \n \nEstos plazos se aumentan, según ya se ha \nexplicado con el término de tres meses desde que se cite \nal contribuyente y, además, con el término de prórroga \nde la citación. \n \n \n14.4.- Interrupción de la prescripción. Para los efectos \nde que se interrumpa la prescripción de la acción del \nFisco por la causal del Nº 2º del art. 201°, o sea desde \nque intervenga notificación administrativa de un giro o \nliquidación, se entenderá que se cumple con este requi-\nsito desde que el Servicio presente al Juez respectivo \nla determinación provisoria o definitiva del impuesto, \nen la forma indic"
+    },
+    {
+      "name": "Oficio N°3228 (27/11/2007)",
+      "source_type": "oficio",
+      "source": "Oficio N°3228 (27/11/2007)",
+      "document_id": "d6619083-755a-55a4-b62b-41bc4432af97",
+      "chunk_uuid": "1de1a025-adc8-5530-a9a9-3d74384cbaf3",
+      "chunk_id": 4,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3228.htm",
+      "content": "juicio Por ello,\nla indemnización no puede ser ni inferior ni superior al daño producido, y por esta misma razón así como\nsería evidentemente injusto otorgar al expropiado una reparación inferior al verdadero y real perjuicio sufrido\npor él, también lo sería fijarle una indemnización mayor que dicho perjuicio, supuesto que constituiría un\nenriquecimiento sin causa, lo que jurídicamente es inaceptable ( R.D.J. T.82, Secc 5° página 277 )”.\n6.- Si bien en la escritura de constitución del derecho real de servidumbre no se indica expresamente que las\nsumas pagadas como precio de la servidumbre de tránsito lo sean a título de una indemnización para\nresarcir un daño emergente, es indudable que dicha servidumbre ocasiona al ocurrente un daño en su\npatrimonio que coincide con el concepto de daño emergente al transitar por el predio sirviente vehículos\npesados con basura destinadas al relleno sanitario.\n7.- En consecuencia, por las razones expuestas en los números precedentes, se concluye que las sumas\npagadas por concepto de la servidumbre de tránsito a que se refiere la presentación y el contrato adjunto,\nconstituyen una indemnización por daño emergente amparada en la liberación tributaria prevista en el N° 1\ndel artículo 17 de la Ley de la Renta, solo hasta el monto del menoscabo real experimentado por el\npropietario del predio sirviente con motivo de la constitución de dicho derecho real, daño que el ocurrente\ndeberá acreditar mediante documentación idónea, como por ejemplo, con informes técnicos emitidos por\nterceros independientes, en los cuales se determine, el monto del daño emergente ocasionado al\ncontribuyente producto de la pérdida de valor de la superficie predial afectada permanentemente a la\nservidumbre de tránsito; de la desvalorización del resto del predio agrícola por tener que tolerar el tránsito de\ncamiones con desechos y basuras y los gastos de limpieza y mantención de la salubridad que deberá\nsolventar en forma permanente el propietario.\nRICARDO ESCOBAR CALDERON\nDIRECTOR\n\n\nOficio N° 3228, de 27.11.2007.\nSubdirección Normativa\nDpto. de Impuestos Directos.\n"
+    },
+    {
+      "name": "Oficio N°3274 (31/10/1995)",
+      "source_type": "oficio",
+      "source": "Oficio N°3274 (31/10/1995)",
+      "document_id": "05c5d670-a7a8-5315-a042-ac8654258e58",
+      "chunk_uuid": "984bf9e5-4715-53f9-b7b3-27fbc9c0fcb7",
+      "chunk_id": 0,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/1995/renta/nov101.htm",
+      "content": "REPORTE EXTRAIDO | TIPO: DIGITAL\n========================================\n\nACTUAL LEY SOBRE IMPUESTO A LA RENTA - ART. 31, NO. 9\nEMPRESA MINERA - YACIMIENTO MINERO - SERVIDUMBRE DE TRANSITO CONSTRUCCION DE\nCAMINO SOBRE PREDIO SIRVIENTE - DESEMBOLSOS POR DICHA CONSTRUCCION - GASTOS DE\nORGANIZACION Y PUESTA EN MARCHA - REGIMEN DE AMORTIZACION.\n1.- SE HA RECIBIDO EN ESTE SERVICIO DE IMPUESTOS INTERNOS LA PRESENTACION DE\nUN CONTRIBUYENTE, MEDIANTE LA CUAL EXPONE QUE UNA EMPRESA MINERA, QUE GOZA EN SU\nFAVOR DE UNA SERVIDUMBRE DE TRANSITO, CONSTRUYO A SUS EXPENSAS UN CAMINO SOBRE\nUN PREDIO SIRVIENTE, CON EL OBJETO DE PERMITIR EL DESARROLLO DE LA EXPLOTACION\nECONOMICA DE UN YACIMIENTO MINERO, CONSULTANDO AL RESPECTO, SI ES FACTIBLE\nCONSIDERAR QUE DICHO CAMINO FORME PARTE DEL ACTIVO FIJO DE LA EMPRESA MINERA\nTITULAR DE LA SERVIDUMBRE, Y APLICARLE EL REGIMEN DE DEPRECIACION ESTABLECIDO EN EL\nNO. 5 DEL ARTICULO 31 DE LA LEY DE LA RENTA.\n2.- SOBRE EL PARTICULAR, CABE SEÑALAR EN PRIMER TERMINO, QUE EL CODIGO CIVIL\nCONCEPTUA A LAS SERVIDUMBRES, EN SU ARTICULO 820, COMO UN GRAVAMEN IMPUESTO\nSOBRE UN PREDIO EN UTILIDAD DE OTRO PREDIO DE DISTINTO DUEÑO. AHORA BIEN, EL\nLEGISLADOR CALIFICO A LAS SERVIDUMBRES ACTIVAS COMO UNO DE LOS DERECHOS REALES\nRECONOCIDOS POR EL MISMO CODIGO. DERECHO REAL, DE ACUERDO AL ARTICULO 577 DE ESE\nTEXTO, ES AQUEL QUE SE TIENE SOBRE UNA COSA SIN RESPECTO A DETERMINADA PERSONA.\nDE ESTE MODO, AL CONFERIR ESTOS GRAVAMENES, UN DERECHO REAL A SUS TITULARES, ES\nEVIDENTE QUE UNA SERVIDUMBRE NO TIENE UNA EXISTENCIA FISICA O REAL, AL CONSTITUIR UN\nMERO DERECHO QUE NACE DE LA LEY, DEL ACUERDO DE LAS PARTES, O DE LA NATURAL\nSITUACION DE LOS LUGARES, TODO ELLO CONFORME A LO ESTABLECIDO EN EL ARTICULO 831\nDEL CODIGO CIVIL. NUESTRO ORDENAMIENTO JURIDICO, EN EL ARTICULO 583 DEL CITADO\nCODIGO HA RECONOCIDO, ADEMAS, QUE SOBRE LAS COSAS INCORPORALES EXISTE TAMBIEN\nUNA ESPECIE DE PROPIEDAD, PARA ASI OTORGAR MAYOR CERTEZA EN EL EJERCICIO DE TODO\nDERECHO.\nPOR SU PARTE, EL CODIGO DE MINERIA, HA RECONOCIDO Y CONSAGRADO ESTOS GRAVAMENES\nCOMO INDISPENSABLES PARA EL EJERCICIO DE LA ACTIVIDAD MINERA, TRATANDOLOS EN\nALGUNOS PARRAFOS DEL TITULO IX DE ESE TEXTO LEGAL, TAL COMO LO INDICA EL OCURRENTE\nEN SU ESCRITO.\n3.- AHORA BIEN, EN VIRTUD DE LA NATURALEZA JURIDICA DE LAS SERVIDUMBRES, QUE NO TIENEN\nUNA EXISTENCIA FISICA O REAL, SINO QUE MERAMENTE IDEAL, COMO SE SEÑALA EN EL NUMERO\nANTERIOR, DE TAL CALIFICACION SE DESPRENDE EL TRATAMIENTO TRIBUTARIO QUE DEBEN\nTENER FRENTE A LAS NORMAS DE LA LEY DE LA RENTA, SIENDO LO MAS IMPORTANTE QUE ESTOS\nDERECHOS NO PODRAN INTEGRAR UN ACTIVO TANGIBLE DE LA EMPRESA, SINO QUE POR EL\nCONTRARIO, CONFORMAN UN ACTIVO INTANGIBLE, QUE SI BIEN POSEEN UN VALOR ECONOMICO\nPARA SU"
+    },
+    {
+      "name": "Oficio N°3023 (16/12/2011)",
+      "source_type": "oficio",
+      "source": "Oficio N°3023 (16/12/2011)",
+      "document_id": "ce3ec014-5ec2-5f56-b28c-3510e82dad02",
+      "chunk_uuid": "10161372-62f4-52de-9071-e3a4c079a68d",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2011/otras/ja3023.htm",
+      "content": "rollada actual y efectivamente en el inmueble.\nDe lo expuesto se deriva que no sería procedente determinar administrativamente que el inmueble es\nsusceptible de subdivisión conforme al mejor o máximo aprovechamiento potencial que hipotéticamente\ntendría.\nPor último, conviene precisar que, si conforme la normativa legal y administrativa que regula la subdivisión\npredial, el inmueble no es susceptible de dividirse ten dos o más sitios equivalentes al normalu, esto es, de\naplicarse al terreno en cuestión resultaren dos o más predios de superficie superior o inferior a la media de la\nZona de Características Similares correspondiente, esa sola circunstancia objetiva, por sí misma, justifica\naplicar el factor de corrección, sin necesidad de considerar, en consecuencia, si afecta o no el\naprovechamiento del inmueble.\nIII. CONCLUSIONES\nDeterminar si un inmueble es susceptible de subdivisión para efectos del Ajuste de Corrección de Superficie\nPredial establecido en la Circular N° 10 de 2006, es una cuestión que depende del caso concreto, y debe\nefectuarse considerando la normativa vigente y el aprovechamiento del inmueble. Este último elemento se\nentiende referido al beneficio y utilización actual, no potencial, del predio.\nCorresponderá a la Dirección Regional verificar si la subdivisión del inmueble afecta su aprovechamiento,\nconforme a las circunstancias objetivas del caso, enunciadas en este oficio; esto es, si se afectaría la unidad\neconómica que constituye el laboratorio que en dicho predio funciona, ya sea porque existan construcciones\nnecesarias para el funcionamiento de la empresa, que abarquen parte importante del inmueble, o existan\notros antecedentes que justifican que la empresa funcione como unidad económica en la totalidad del\nterreno.\nFinalmente, si el inmueble no es susceptible de dividirse ten dos o más sitios equivalentes al normalu\nconforme la normativa legal y administrativa, esa sola circunstancia objetiva justifica aplicar el factor de\ncorrección, sin necesidad de considerar, en consecuencia, si afecta o no el aprovechamiento del inmueble.\nJULIO PEREIRA GANDARILLAS\nDIRECTOR\n\n\nOficio N° 3023, de 16.12.2011\nSubdirección Normativa\nDpto. de Técnica Tributaria\n"
+    },
+    {
+      "name": "Artículo 822 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "1089947e-2613-50c3-8f2d-424c4a49efff",
+      "chunk_uuid": "0277e5cd-644e-501c-adf1-d7261dcdb001",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718702",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 822 (DEL ART. 2)|Art. 822. Servidumbre continua es la que se ejerce o se puede ejercer continuamente, sin necesidad de un hecho actual del hombre, como la servidumbre de acueducto por un canal artificial que pertenece al predio dominante; y servidumbre discontinua la que se ejerce a intervalos más o menos largos de tiempo, y supone un hecho actual del hombre, como la servidumbre de tránsito."
+    },
+    {
+      "name": "Tribunal Tributario y Aduanero de la Región de Tarapacá: Sentencia RIT-GR-02-00024-2018",
+      "source_type": "jurisprudencia",
+      "source": "RIT-GR-02-00024-2018",
+      "document_id": "0332eaef-e348-5ca0-87c8-43a6b52cb56f",
+      "chunk_uuid": "e3f3b1b8-48e2-5c0b-ab9e-501a839f0fbf",
+      "chunk_id": 40,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/14761",
+      "content": "-647f-44aa-9515-4077076b8903 Timbre Electrónico 66 que es un modo de extinguir las acciones y derecho ajenos, por no haberse ejercidoéstos durante un lapso de tiempo determinado y se han cumplido los demás requisitoslegales.Tratándose de la obligación de pagar impuestos, la prescripción extintiva,hace perder al Fisco la acción para exigir su pago, lo cual no priva al deudor delderecho a cumplir con la obligación en su carácter de obligación natural.No obstante que la prescripción opera de pleno derecho, por el sólocumplimiento de los requisitos que la ley establece – inactividad del acreedor ytranscurso del plazo-, por disposición del artículo 2493 del Código Civil, para que surtalos efectos que la ley le atribuye, es necesario que ella sea alegada.La señalada disposición, reconoce como derecho del deudor el deinvocar o no la prescripción ante un requerimiento de pago por parte de su acreedor.En caso que el deudor opte por valerse de la prescripción, la resolución judicial que sedicte dejará constancia que la prescripción se producido todos sus efectos a contar dela fecha de cumplimiento de los requisitos legales.3.3.1 Facultades del Servicio: En razón de los efectos de la prescripciónextintiva, es que la facultad del Servicio para revisar, liquidar, reliquidar y girar losimpuestos sólo dice relación con aquellos gravámenes respecto de los cuales no seencuentre vencido el plazo de prescripción. Es así como por Circular N° 73 del año2001, se instruyó en el sentido de abstenerse de citar al contribuyente al tenor delartículo 63 del Código Tributario, si de los antecedentes existentes en poder delServicio se puede desprender, sin lugar a duda, que la irregularidad que se impute al Documento firmado electrónicamente por don/ña Mario Segundo Guzman Cortes, el 30-05-2019.Verifique este documento en www.tta.cl, con el siguiente código de verificación7c8787fe-647f-44aa-9515-4077076b8903 Timbre Electrónico 67 contribuyente incidirá en diferencias impositivas en períodos que exceden de losplazos previstos en el artículo 200 del Código Tributario.Del mismo modo, se señala en las mismas instrucciones, que el Serviciodeberá abstenerse de liquidar o girar impuestos que incidan en períodos que estánmás allá del límite establecido por los plazos legales de prescripción del citado art.200. Por excepción, se podrá proceder a liquidar o girar impuestos que correspondana dichos períodos, cuando el contribuyente hubiere renunciado a la prescripción.” V.- PROCEDENCIA DE LA ACCIÓN DE SIMULACIÓN COMOREQUISITO PREVIO A LA DETERMINACIÓN DE LAS DIFERENCIAS DEIMPUESTOS EFECTUADA POR EL SII EN LA LIQUIDACIÓN RECLAMADA.ANTECEDENTES DE HECHO QUE LO ACREDITEN7.- Los reclamantes indican a fojas 8 y 82 que el SERVICIO utiliza elconcepto de “Anticipo de Herencia” agregando que -a su juicio-, se debió utilizar eltérmino “ donación ”; continúan señalando que si el SII estima que existe otra figuralegal contenida en la venta de derechos hereditarios de que da cuenta la escritura deventa de derechos sociales y modificación de sociedad de fs. 59 y 242, debió haberacreditado, dentro de los plazos legales, la existencia de una donación, procediendo aatacar -dentro de los plazos legales- la señalada compraventa, debiendo haberobtenido de los tribunales ordinarios de justicia, una sentencia (judicial ejecutoriada)que declarase que el contrato de compraventa era simulado, procediendo suanulación. Complementa lo mencionado citando el artículo 63° de la Ley N°16.271 queseñala, como requisito esencial, que el SERVICIO debe solicitar al juez competente sepronuncie sobre la procedencia del impuesto y"
+    },
+    {
+      "name": "Artículo 885 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "94da1b30-5c26-501a-ace3-e8689107ccfa",
+      "chunk_uuid": "e8617cb8-ec36-5f20-9de2-c64432801720",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718768",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 885 (DEL ART. 2)|Art. 885. Las servidumbres se extinguen: 1º Por la resolución del derecho del que las ha constituido; 2º Por la llegada del día o de la condición, si se ha establecido de uno de estos modos; 3º Por la confusión, o sea la reunión perfecta e irrevocable de ambos predios en manos de un mismo dueño. Así, cuando el dueño de uno de ellos compra el otro, perece la servidumbre, y si por una nueva venta se separan, no revive; salvo el caso del artículo 881: por el contrario, si la sociedad conyugal adquiere una heredad que debe servidumbre a otra heredad de uno de los dos cónyuges, no habrá confusión sino cuando, disuelta la sociedad, se adjudiquen ambas heredades a una misma persona; 4º Por la renuncia del dueño del predio dominante; 5º Por haberse dejado de gozar durante tres años. En las servidumbres discontinuas corre el tiempo desde que han dejado de gozarse; en las continuas, desde que se haya ejecutado un acto contrario a la servidumbre."
+    },
+    {
+      "name": "Oficio N°2265 (30/08/2021)",
+      "source_type": "oficio",
+      "source": "Oficio N°2265 (30/08/2021)",
+      "document_id": "eb0283d4-be10-522d-8f7e-752370b08491",
+      "chunk_uuid": "3c7e9453-843e-580b-9579-f19dfa4fe186",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=2265-30%2F08%2F2021.pdf&extension=pdf&acc=download&id=c0ca3a57-1c8c-4955-b7f9-ce19b782a056&mediaType=application%2Fpdf",
+      "content": "icio N° 1588 de 2019. \n6 Atendido que la voz “gravamen” se utiliza en varias oportunidades, a modo meramente ejemplar se debe tener presente que, de acuerdo al \nartículo 1°, fuera de ser aplicables las definiciones comprendidas en el artículo 2° de la Ley N° 19.300, sobre bases generales del medio \nambiente, “en lo no previsto” por la Ley N° 20.930 y en lo que fuere procedente, se aplican al derecho de conservación los artículos 826, \n828, 829 y 830 del Código Civil, referidos a la servidumbre. A pesar que el derecho real de conservación en sí mismo no es una servidumbre, \nde acuerdo al artículo 820 del mismo Código, la servidumbre predial, o simplemente servidumbre, es un “gravamen” impuesto sobre un \npredio en utilidad de otro predio de distinto dueño. Por du parte, de acuerdo al artículo 3° de la Ley N° 20.930, el derecho real de \nconservación es inmueble y distinto del dominio del bien raíz “gravado”. Además, agrega, es transferible, transmisible, inembargable, \nindivisible e inseparable del inmueble o de la parte de él que se “grava”. Finalmente, en el contrato constitutivo se establecen los \n“gravámenes” al inmueble que tendrán como finalidad la conservación del patrimonio ambiental, debiendo las partes acordar al menos una \nde las “prohibiciones, restricciones u obligaciones” establecidas en la propia ley (artículo 6° de la Ley N° 20.930). \n \n\n\n \n \nPor otra parte, y de acuerdo a la Moción parlamentaria que dio origen a la Ley N° 20.930, “por \nmotivos prácticos y de eficacia, el ejercicio y la protección del derecho quedan especialmente \nencomendados a una persona jurídica (que es su titular), quien podrá exigir su cumplimiento. En \notras palabras, el beneficio que se reporta por el derecho real de conservación es a favor de toda la \ncomunidad, pero ésta es representada para efectos del ejercicio y protección del derecho por una \npersona jurídica determinada, de aquellas expresamente autorizadas para asumir esa \nresponsabilidad.”7 \n \nEn consecuencia, al menos para fines tributarios, se desprende que el derecho real de \nconservación medioambiental, si bien radicado en un tercero (titular, persona natural o jurídica \ndeterminada), más bien impone a su titular el deber (carga, gravamen, obligación) correlativo de \nasegurar la conservación y protección de dicho patrimonio, velando por el cumplimiento de las \nprohibiciones, restricciones u obligaciones impuestas en el contrato constitutivo. \n \nLo anterior se advierte, por ejemplo, en caso que, mediante el contrato constitutivo, se acuerde la \nprohibición de destinar el inmueble a uno o más determinados fines inmobiliarios, comerciales, \nturísticos, industriales, de explotación agrícola, forestales o de otro tipo. Ciertamente, en ese caso, la \nprohibición que pesa sobre el predio no supone un incremento patrimonial correlativo para el titular \ndel derecho real de conservación ni la posibilidad de destinar el predio, el mismo titular, a fines \ninmobiliarios, comerciales, turísticos, industriales, de explotación agrícola, forestales o de otro tipo. \n \nEn consecuencia, a menos que la constitución del derecho real de conservación suponga un \nbeneficio pecuniario efectivo para su titular, ya sea que dicho beneficio se produzca al momento de \nsu perfeccionamiento o durante su vigencia – y no la mera facultad de conservar el patrimonio \nambiental de un predio o de ciertos atributos o funciones de éste, haciendo cumplir las \nprohibiciones, restricciones u obligaciones impuestas en el contrato constitutivo – puede concluirse \nque, para efectos tributarios, no se verifica una donación en los términos del artículo 1398 del \nCódigo Civil, no correspondiendo gravar en ese caso el contrato constitutivo otorgado a título \ngratuito. \n \nLo anterior, por cierto, siempre que se dé estrict"
+    },
+    {
+      "name": "Corte de Apelaciones de Santiago: Sentencia ROL-3498-2018",
+      "source_type": "jurisprudencia",
+      "source": "ROL-3498-2018",
+      "document_id": "8d9785e9-ae21-54d4-b1a7-233e1545073f",
+      "chunk_uuid": "4272692e-6b39-579e-89b3-a1f1c7dc4527",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/13810",
+      "content": "Foja: 237\nDoscientos treinta y siete\nC.A. de Santiago\nSantiago, doce de febrero de dos mil diecinueve.\nA foja 236: téngase presente.\nVistos y teniendo presente:\nQue XXXXXX con fecha 14 de octubre de 2009\ninterpuso reclamo tributario, en contra de las liquidaciones N° 140 y\n41, de fecha 31 de julio de 2009, por concepto de Impuesto de\nPrimera Categoría e impuesto único del artículo 21 de la Ley de\nImpuesto a la Renta correspondiente al año tributario 2006 por un\nmonto de $194.775.676.-, que con intereses y reajustes alcanza a\n$361.510.473 .-. Presentación que fue desechada por sentencia de\nprimera instancia pronunciada por el Director Regional Santiago\nOriente.\nEncontrándose los antecedentes en este Tribunal de Alzada\npara conocer del recurso de apelación deducido por la reclamante,\néste interpuso la excepción perentoria de prescripción de la acción de\ncobo del Fisco, la que se ordenó resolver en la vista de la causa\ncorrespondiente al recurso de apelación.\nEn cuanto a la excepción de prescripción.\n1°.- Que el abogado don José Ignacio Basualto Prieto por la\nparte reclamante, a fojas 211, opuso la excepción perentoria de\nprescripción de la acción de cobro del Fisco, a fin de que se declaren\nprescritos los impuestos contenidos en las liquidaciones reclamadas\nen estos autos.\nRespecto de los hechos reseña que las liquidaciones de autos\nfueron reclamadas por su parte el 14 de octubre de 2009, acción que\nse tuvo por interpuesta el 27 de julio de 2010. El 7 de noviembre de\n2014, se recibió la causa a prueba, rechazándose la reposición\ndeducida en contra de esta interlocutoria el 17 de diciembre del\nmismo año. La sentencia de primer grado se dictó el 28 de\nseptiembre de 2017, deduciéndose recurso de apelación el 8 de\nnoviembre de 2016. El tribunal a quo concedió dicho recurso y ordenó\nremitir los antecedentes el 16 de marzo de 2017, y el expediente fue\nremitido a esta Corte el 21 de marzo de 2018, ingresando a le\nrespectiva secretaría el 22 de marzo de 2018.\nEn definitiva explica que han transcurrido más de 9 años entre\nla presentación de la acción de reclamación y la fecha en que estos\nautos quedaron a disposición de la Corte de Apelaciones, por lo que\nse cumple con creces el plazo de prescripción establecido en el\nartículo 201 del Código Tributario.\nEn cuanto al tema normativo explica que en la especie se ha\nvulnerado su derecho a ser oído en un tiempo razonable, garantía\nreconocida por el artículo 8° de la Convención Americana de\nDerechos Humanos, tesis jurídica que ha sido reconocida por los\ntribunales patrios, tanto por la Excma. Corte Suprema, como por las\nCortes de Apelaciones.\n2°.- Que, por su parte, el Consejo de Defensa del Estado\narguyó que hubo antecedentes omitidos por la reclamante dentro de\nla excepción, agregando algunos que han sido debidamente\nconsignados en el motivo anterior, agregando que el Fisco de Chile\nes el único afectado con la demora en la tramitación y desarrollando\nlatamente, el concepto de lo que ha de entenderse por un plazo de\njuzgamiento razonable.\n3°.- Que esta Sala Tributaria en causa rol 6785-2017, sobre\nLiquidación de Reclamaciones, con fecha 26 de octubre de 2017\nrevocó una sentencia de primera instancia pronunciada por el Director\nRegional Metropolitano, Santiago Oriente, por haberse infringido el\nderecho a ser juzgado dentro de un plazo razonable como garantía\nfundamental del “debido proceso”, por aplicación del artículo 8.1 de la\nConvención"
+    },
+    {
+      "name": "Primer Tribunal Tributario y Aduanero de la Región Metropolitana: Sentencia RIT-AB-15-00153-2014",
+      "source_type": "jurisprudencia",
+      "source": "RIT-AB-15-00153-2014",
+      "document_id": "ce6255bf-a3c3-5d22-b0d5-2c8bdf37bbed",
+      "chunk_uuid": "55d649f0-4657-55cc-a765-6f4cf40319d0",
+      "chunk_id": 22,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/1308",
+      "content": " N°AB-15-00195-2013, RUC13-9-0001000-6, señala en su numeral 4 y siguientes Informando con respecto al inmueble: “3.- En otro ámbito, usted señala que en el predio de XXX, Rol S.I.I. N° XXX existe un colector de alcantarillado que data del año 1974, el cual atraviesa en forma semidiagonal y de sur a norte, materia que se detalla en carta VVV N°15909 de 21.10.1996. Dicho documento, señala además el gravamen de servidumbre que afecta a parte del inmueble en comento producto de la existencia del colector de alcantarillado. 4.- La carta VVV S.A. N°15909 de 21.10.1996 indica que en la escritura de servidumbre se dejará establecido, que no podrá plantarse arboles de raíces profundas ni efectuarse ninguna construcción sobre la faja de servidumbre, cuya superficie es de 120 m2 aprox. 5.- Por lo expuesto, el Certificado de Informaciones Previas N°536 de 06.05.2013 (SOL N°534/2013) por la propiedad de XXX, Rol S.I.I. N°XXX, se entiende correctamente emitido, y cualquier proyecto de construcción que se desee realizar, deberá dar cumplimiento a la normativa vigente, y contemplar la existencia del colector de alcantarillado, respetando la servidumbre indicada en carta VVV N° 15909 de 21.10.1996.” Esto en relación al Certificado de Informaciones Previas, acompañado en a fojas 39 y siguientes de autos.\n\nA mayor abundamiento, dentro de la prueba y antecedentes aportados por la reclamante como medios de prueba, se llega al convencimiento de la efectividad de la existencia del proyecto y trazado del alcantarillado. Además se señala que la servidumbre no está constituida. Este Tribunal considera que la no constitución de la servidumbre como tal, no quita la prohibición de edificar sobre esta, por cuanto el efecto sobre el terreno de la existencia del alcantarillado se encuentra fehacientemente acreditado.\n\nA vista de este Tribunal es posible acreditar la existencia del colector, su trazado e impacto efectivo en la utilización, uso y goce del terreno. Por tanto es de toda justicia de acuerdo al mérito de las probanzas, particularmente la constatación personal que este sentenciador tuvo en la inspección realizada al efecto, en presencia de ambos intervinientes del proceso (reclamante y reclamado), realizar un ajuste o corrección a la valorización del mismo. Constatación que consta en proceso judicial, antes referido.\n\nNOVENO. Que siendo lo discutido por la reclamante, respecto a los errores que ha cometido el SII en los procedimientos del Reavalúo de 2014 de la propiedad ubicada en XXX, Comuna Recoleta, tales como:\n\n· Aplicación errónea de las tablas de clasificación respecto del bien gravado, o de una parte del mismo, así como la superficie de las diferentes calidades del terreno.\n\n· Errores de transcripción, copia y/o calculo.\n\nContinua indicando la reclamante que el Servicio de Impuestos Internos no ha aplicado la legislación vigente según lo determina la Circular SII N° 6 de 31/01/2014, esto es evaluar los antecedentes que determinan la fragmentación del terreno y su inutilidad habitacional y por consiguiente la pérdida total de su valor comercial y aplicar un factor corrector de excepción que represente dicha pérdida.\n\nA mayor abundamiento la reclamante señala que el Servicio de Impuestos Internos en el Reavalúo de 2014, volvió a aumentar el precio del metro cuadrado en un 40,7% y ha aplicado arbitrariamente un Factor Corrector Especial de 0.73 además del Factor Frente/Fondo de 0.90, así multiplicando ambos factores se determinó un Corrector de 0.66, nuevamente desconociendo los antecedentes presentados en 2006 y sin dar cumplimiento a la Circular N°6 de 2014 que norma los casos de excepción en los Reavalúos de 2014.\n\n"
+    },
+    {
+      "name": "Corte Suprema: Sentencia ROL-93.059-2021",
+      "source_type": "jurisprudencia",
+      "source": "ROL-93.059-2021",
+      "document_id": "608a255b-50eb-5039-a53f-2fcfc9f71c26",
+      "chunk_uuid": "bd64ec4f-f88c-5486-b2d7-fb8a42a24781",
+      "chunk_id": 0,
+      "url": "https://www4.sii.cl/acjui/internet/#/pronunciamiento/18080",
+      "content": "La Corte Suprema acogió el recurso de casación en el fondo impetrado por la contribuyente en contra de la sentencia pronunciada por la Corte de Apelaciones de Santiago que había rechazado el recurso de apelación interpuesto en contra de la sentencia dictada por el Director Regional Metropolitano Santiago Oriente en su calidad de Juez Tributario que había confirmado unas Liquidaciones emitidas por la XV\nDirección Regional Metropolitana Santiago Oriente.\n\nLa recurrente arguyó la infracción a los artículos 8 N°1 de la Convención Americana sobre Derechos Humanos, 5 inciso segundo y 19 N°3 de la Constitución Política de la República, 200 y 201 del Código Tributario y 19, inciso primero y 22 inciso primero del Código Civil, por el rechazo de la excepción de prescripción opuesta por su parte no obstante el excesivo tiempo de tramitación de la presente causa.\n \nLa Corte Suprema sostuvo que el pleito se inició por reclamación de fecha 4 de enero de 2000, fallada el 31 de enero de 2004, que la acogió en parte. Elevado el proceso en apelación de la contribuyente, la Corte de Apelaciones, por resolución de 3 de abril de 2009, procedió de oficio a anular todo lo obrado y retrotrajo la causa al estado de proveerse el reclamo y dárle tramitación por el juez tributario competente. Recibido el expediente por el tribunal a quo el 23 de diciembre de ese mismo año, se requirió informe al Departamento de Fiscalización, el cual fue evacuado el 14 de febrero de 2012. Dentro del término probatorio, con fecha 24 de junio de 2016, la contribuyente interpuso excepción de prescripción, la que fue desestimada en la sentencia definitiva de 30 de junio de 2016.\n\n\n\n\nEl Máximo Tribunal arguyó que conforme a lo dispuesto por el artículo 19 N° 3 de la Constitución Política, en relación al artículo 8 de la Convención Americana sobre Derechos Humanos había de concluirse que el injustificado retardo en la tramitación del presente proceso había conculcado la garantía constitucional del debido proceso, en su manifestación a ser juzgado dentro de un plazo razonable, calificación que no se condecía con los más de veinte años que habían transcurrido desde el inicio del mismo. Resolver de modo contrario importaría validar un estado injusto al que dicho Tribunal debía poner fin como máximo órgano del Poder Judicial, respetando el derecho del contribuyente a ser oído por un tribunal competente dentro de un plazo razonable.\n\n\n\n\n\n\n\nSegún la Corte Suprema, si bien la presentación del reclamo bastaba para suspender el decurso de la prescripción que consagra el Código Tributario, no podía aceptarse que tal suspensión operara incluso por un período mayor que el asignado por la legislación para la prescripción adquisitiva extraordinaria. Agregó que, específicamente en el sentido tributario, no obstante que los plazos previstos en los artículos 200 y 201 del citado código corresponden a los lapsos máximos para fiscalizar y cobrar y no para sustanciar el procedimiento jurisdiccional originado por la presentación del reclamo, no podía pasarse por alto que para el legislador tributario constituyen el tiempo suficiente y prudente para para que el Servicio ejecute sus labores de fiscalización, tiempo por el cual puede prolongarse la incertidumbre que implica para el contribuyente la posibilidad de perder o destinar parte de sus bienes para cubrir el crédito invocado por el Fisco.\n\n\n\n\nLa Magistratura concluyó que tal estado de incertidumbre se oponía a la necesidad ineludible de certeza jurídica, fundamento y fin propios de la prescripción, institución a la cual estaba ligada estrechamente la garantía del juzgamiento en un plazo razonable, por lo cual el fallo en examen debía ser anulado.\n\nEl Abogado integrante Sr. Ruiz, concurrió la decisión de la Corte, teniendo presente para ello que por aplicación del principio de especialidad establecido en el artículo 4"
+    },
+    {
+      "name": "Artículo 2499 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "9f1045b8-1544-5b85-a804-e8200f782a46",
+      "chunk_uuid": "91d5f67a-dc99-5b85-a6dd-932d9cd32f15",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720574",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XLII DE LA PRESCRIPCIÓN,Artículo 2499 (DEL ART. 2)|Art. 2499. La omisión de actos de mera facultad, y la mera tolerancia de actos de que no resulta gravamen, no confieren posesión, ni dan fundamento a prescripción alguna. Así el que durante muchos años dejó de edificar en un terreno suyo, no por eso confiere a su vecino el derecho de impedirle que edifique. Del mismo modo, el que tolera que el ganado de su vecino transite por sus tierras eriales o paste en ellas, no por eso se impone la servidumbre de este tránsito o pasto. Se llaman actos de mera facultad los que cada cual puede ejecutar en lo suyo, sin necesidad del consentimiento de otro."
+    },
+    {
+      "name": "Oficio N°3228 (27/11/2007)",
+      "source_type": "oficio",
+      "source": "Oficio N°3228 (27/11/2007)",
+      "document_id": "d6619083-755a-55a4-b62b-41bc4432af97",
+      "chunk_uuid": "20efcb11-3146-5e93-8219-779e47d8d4f1",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3228.htm",
+      "content": " resultante de la subdivisión del predio agrícola\nque formaba parte del fundo denominado “HHH”, comuna de San Bernardo, con una superficie total de\ntrescientos noventa y cinco hectáreas y una centésima de hectárea, de las cuales ciento noventa y nueve\nhectáreas diecisiete centésimos de hectárea corresponden a superficies regadas, y ciento noventa y seis\nhectáreas veinticuatro centésimos de hectáreas a la porción del cerro y algunos rulos, y, por su parte,\nSociedad Agrícola XXX Limitada, es dueña del predio dominante denominada “R C” que es parte del predio\nrústico denominado SS de Lonquén, ubicado en el límite de las comunas de Talagante, Isla de Maipo y San\nBernardo de la Región Metropolitana, sociedad que de acuerdo a lo indicado en la cláusula Tercera en esa\nmisma fecha suscribió un contrato de arrendamiento con la Sociedad Consorcio XXX S.A. respecto de una\nparte de una superficie de trescientas una hectáreas del predio antes señalado, que tiene por objeto la\nexplotación y operación del relleno sanitario XXX, que se encuentra emplazado sobre esa misma área.\nAhora bien, en virtud de la cláusula Cuarta del instrumento antes indicado, el ocurrente, don AAA, respecto\nde la hijuela de su propiedad, constituye en favor del predio de propiedad de Sociedad Agrícola XXX\nLimitada una servidumbre de tránsito amplia, que incluya el paso de personas y de toda clase de vehículos,\nasí como de paso de cañerías y cables subterráneos, la que se ejercitará sobre el predio sirviente a través\nde un camino que en la parte denominada “Camino El Parronal“ tendrá un ancho de quince metros y en todo\nlo restante de su extensión tendrá 30 metros de ancho y por 4.425 metros de largo, aproximadamente, de\nuna superficie total aproximada de 108 metros cuadrados.\nEl precio por el uso y constitución de la citada servidumbre, según la cláusula Novena de la escritura\nantedicha, se compone de una suma fija de $ 470.657.992.-, más un pago mensual variable de 470 pesos\npor tonelada de basura que ingrese al relleno sanitario XXX, precio que regirá desde el primero de\nseptiembre del año de la suscripción de dicha servidumbre. La duración de dicha servidumbre se mantendrá\nvigente en tanto se encuentre en operación y/o explotación dicho relleno, plazo que de acuerdo a lo\nseñalado por el ocurrente y dueño del precio sirviente, alcanza los veinte años.\n3.- En relación con la materia en consulta, se señala que el artículo 17 N° 1 de la Ley de la Renta, dispone\nque no constituye renta la indemnización de cualquier daño emergente y del daño moral, siempre que la\nindemnización por este último concepto haya sido establecida por sentencia ejecutoriada.\nAgrega la citada norma, que tratándose de bienes susceptibles de depreciación, la indemnización percibida\nno constituirá renta sólo hasta la concurrencia del valor inicial del bien reajustado de acuerdo con el\nporcentaje de variación experimentada por el Indice de Precios al Consumidor entre el último día del mes\nque antecede al de adquisición del bien y el último día del mes anterior a aquel en que haya ocurrido el\nsiniestro que da origen a la indemnización.\nFinaliza la referida disposición, señalando que lo dispuesto por ella no regirá respecto de la indemnización\ndel daño emergente en el caso de bienes incorporados al giro de un negocio, empresa o actividad, cuyas\nrentas efectivas deban tributar con el impuesto de primera categoría, sin perjuicio de la deducción como\ngasto de dicho daño emergente.\n\n\nAhora bien, se entiende por daño emergente aquel que ocasiona una pérdida, detrimento o disminución\nefectiva en el patrimonio del que lo sufre, o en los bienes que conforman"
+    },
+    {
+      "name": "Artículo 26",
+      "source_type": "ley",
+      "source": "REGULA EL CIERRE DE FAENAS E INSTALACIONES MINERAS",
+      "document_id": "e8ee9220-1e4b-5fdd-afdb-e8281b718f45",
+      "chunk_uuid": "4132557d-ecb8-5601-9ec3-1384ace1ed9e",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1032158&idParte=9202442",
+      "content": "Ley 20551 REGULA EL CIERRE DE FAENAS E INSTALACIONES MINERAS,TÍTULO VI De las servidumbres,Artículo 26|- De las servidumbres para la ejecución de los planes de cierre. Los predios superficiales y las concesiones mineras que comprendan o estén comprendidas por una faena minera estarán afectos al gravamen de permitir la ejecución del plan de cierre, conservándose a su respecto las servidumbres que existan al tiempo de la operación minera, incluso hasta después de que ella esté concluida y por todo el tiempo que deba ejecutarse el plan de cierre, pero limitado sólo al área que se requiera para tal ejecución. En caso de no existir dichas servidumbres u otros derechos sobre los predios superficiales o concesiones mineras que permitan ejecutar el plan de cierre a la empresa minera, ésta podrá obtener, en su favor, una servidumbre para tales efectos, quedando ella limitada al área necesaria y con el propósito exclusivo de dar cumplimiento al plan de cierre. Producido el cierre de la faena minera de acuerdo a lo establecido en la presente ley, el propietario del predio superficial, o cualquiera que tuviere interés patrimonial en ello, podrá solicitar la extinción de la servidumbre minera que grava el predio superficial. En todo lo no previsto en el presente Título resultarán aplicables las normas de los artículos 122 a 125, 234 y 235 del Código de Minería."
+    },
+    {
+      "name": "Artículo 820 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "4691967c-a898-50a8-b125-b02018928b7a",
+      "chunk_uuid": "d4dd0e80-4b32-58ae-89a3-e123cf2949d6",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718699",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 820 (DEL ART. 2)|Art. 820. Servidumbre predial, o simplemente servidumbre, es un gravamen impuesto sobre un predio en utilidad de otro predio de distinto dueño."
+    },
+    {
+      "name": "Artículo 1432 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "ddeccf4d-deb3-5cdc-bc14-fef7d8dab1ac",
+      "chunk_uuid": "3688e9b0-8ac3-50f4-a42e-9d56f2378994",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8719360",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XIII DE LAS DONACIONES ENTRE VIVOS,Artículo 1432 (DEL ART. 2)|Art. 1432. La resolución, rescisión y revocación de que hablan los artículos anteriores, no dará acción contra terceros poseedores, ni para la extinción de las hipotecas, servidumbres u otros derechos constituidos sobre las cosas donadas, sino en los casos siguientes: 1º. Cuando en escritura pública de la donación (inscrita en el competente registro, si la calidad de las cosas donadas lo hubiere exigido), se ha prohibido al donatario enajenarlas, o se ha expresado la condición; 2º. Cuando antes de las enajenaciones o de la constitución de los referidos derechos, se ha notificado a los terceros interesados, que el donante u otra persona a su nombre se propone intentar la acción resolutoria, rescisoria o revocatoria contra el donatario; 3º. Cuando se ha procedido a enajenar los bienes donados, o a constituir los referidos derechos, después de intentada la acción. El donante que no hiciere uso de dicha acción contra terceros, podrá exigir al donatario el precio de las cosas enajenadas, según el valor que hayan tenido a la fecha de la enajenación."
+    },
+    {
+      "name": "Artículo 782 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "282b70da-ea2d-57d5-9f15-96420855a690",
+      "chunk_uuid": "aaad53fe-80dd-5142-8fd5-35e1b24f9003",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718660",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título IX DEL DERECHO DE USUFRUCTO,Artículo 782 (DEL ART. 2)|Art. 782. El usufructuario de una heredad goza de todas las servidumbres activas constituidas a favor de ella, y está sujeto a todas las servidumbres pasivas constituidas en ella."
+    },
+    {
+      "name": "Artículo 680",
+      "source_type": "ley",
+      "source": "CODIGO DE PROCEDIMIENTO CIVIL",
+      "document_id": "3acf9009-b1e3-5d41-aa23-80d122f0f8ae",
+      "chunk_uuid": "5c0f09ce-ed37-574e-ac33-c5ac336cf8f8",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=22740&idParte=8767339",
+      "content": "Ley 1552 CODIGO DE PROCEDIMIENTO CIVIL,Título XI DEL PROCEDIMIENTO SUMARIO,Artículo 680|Art. 680. (838). El procedimiento de que trata este Título se aplicará en defecto de otra regla especial a los casos en que la acción deducida requiera, por su naturaleza, tramitación rápida para que sea eficaz. Deberá aplicarse, además, a los siguientes casos: 1°. A los casos en que la ley ordene proceder sumariamente, o breve y sumariamente, o en otra forma análoga; 2°. A las cuestiones que se susciten sobre constitución, ejercicio, modificación o extinción de servidumbres naturales o legales y sobre las prestaciones a que ellas den lugar; 3°. A los juicios sobre cobro de honorarios, excepto el caso del artículo 697; 4°. A los juicios sobre remoción de guardadores y a los que se susciten entre los representantes legales y sus representados; 5°. Derogado; 6°. A los juicios sobre depósito necesario; 7°. A los juicios en que se deduzcan acciones ordinarias a que se hayan convertido las ejecutivas a virtud de lo dispuesto en el artículo 2515 del Código Civil; 8°. A los juicios en que se persiga únicamente la declaración impuesta por la ley o el contrato, de rendir una cuenta, sin perjuicio de lo dispuesto en el artículo 696; y 9°. A los juicios en que se ejercite el derecho que concede el artículo 945 del Código Civil para hacer cegar un pozo. 10. A los juicios en que se deduzcan las acciones civiles derivadas de un delito o cuasidelito, de conformidad con lo dispuesto en el artículo 59 del Código Procesal Penal y siempre que exista sentencia penal condenatoria ejecutoriada."
+    },
+    {
+      "name": "Artículo 886 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "f02f43e0-f0c8-53a0-a838-5c7c0682fb01",
+      "chunk_uuid": "4d8d4107-4b9e-5172-9add-6b5780c5c06b",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718770",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 886 (DEL ART. 2)|Art. 886. Si el predio dominante pertenece a muchos proindiviso, el goce de uno de ellos interrumpe la prescripción respecto de todos; y si contra uno de ellos no puede correr la prescripción, no puede correr contra ninguno."
+    },
+    {
+      "name": "Circular N°73 (11/10/2001)",
+      "source_type": "circular",
+      "source": "Circular N°73 (11/10/2001)",
+      "document_id": "7f754ff4-97fb-5ecb-8cb4-0b3fef93192a",
+      "chunk_uuid": "9358c62b-1a3d-50ab-9f64-3820af640847",
+      "chunk_id": 15,
+      "url": "http://www.sii.cl/documentos/circulares/2001/circu73.pdf",
+      "content": "rer desde la expiración del \nplazo legal en que debió efectuarse el pago del impuesto \nde que se trate y se computa en la misma forma. Se \naumenta, también, con el plazo de tres meses desde que \nse cite al contribuyente y con el término de prórroga de \nla citación. Es aplicable también la renovación y \naumento de los plazos a que se refiere el artículo 11º \ndel \nCódigo \nTributario, \ncomo \nse \nha \nexplicado \nanteriormente. \n \n \n5.3.- Excepción de prescripción. Si el Fisco demandare \nel pago una vez vencido el respectivo plazo de \nprescripción, de 3 ó 6 años, según corresponda, y sus \nrenovaciones \no \naumentos, \nel \nCódigo \nfaculta \nal \ncontribuyente para oponer la excepción de prescripción \nen el juicio ejecutivo pertinente. (Artículo 177º,Nº 2). \n \n \n6.- PRINCIPIOS GENERALES SOBRE LA INTERRUPCIÓN Y LA \nSUSPENSIÓN DE LOS PLAZOS DE PRESCRIPCIÓN EN EL DERECHO \nCIVIL. \n \n \n \n \nEn el Derecho Civil la interrupción de la \nprescripción de largo tiempo se produce por ciertas \ncausas o actos jurídicos (hechos del acreedor o del \ndeudor) que tienen el efecto de hacer perder el tiempo \ncorrido, por lo que debe empezar a computarse un nuevo \nperíodo de prescripción; en cambio, en la prescripción \nde corto tiempo la interrupción de ella no produce el \nefecto señalado sino que cambia la naturaleza misma de \nla prescripción, en la forma que indica el artículo \n2.523º del Código Civil, es decir, la prescripción de \ncorto tiempo se transforma en una prescripción de largo \ntiempo. En doctrina, este último efecto recibe el nombre \nde \"interverción\". \n \n\n\n \n20 \n \n \nAsimismo, en materia civil la prescripción de \nlargo tiempo puede suspenderse, sin extinguirse, en cuyo \ncaso, cesada la causa de la suspensión, se le cuenta al \nprescribiente el tiempo anterior a ella, si alguno \nhubiere. Por el contrario, la prescripción de corto \ntiempo corre contra toda clase de personas y no admite \nsuspensión alguna (artículos 2.509º y 2.523º del Código \nCivil). \n \n \n7.- LA INTERRUPCIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA \nACCIÓN DEL FISCO PARA EL COBRO DE LOS TRIBUTOS \n \n \n \n \nEstablece \nel \nartículo \n201° \ndel \nCódigo \nTributario: \n\"Estos \nplazos \nde \nprescripción \nse \ninterrumpirán: \n \n1°)  Desde que intervenga reconocimiento u obligación \nescrita. \n \n2°) Desde que intervenga notificación administrativa de \nun giro o liquidación. \n \n3°) Desde que intervenga requerimiento judicial. \n \n \n \nEn el caso del número 1º, a la prescripción del \npresente artículo  sucederá la de largo tiempo del \nartículo 2515, del Código Civil. En el caso del número \n2º, empezará a correr un nuevo término que será de tres \naños, el cual sólo se interrumpirá por el reconocimiento \nu obligación escrita o por el requerimiento judicial\" \n(artículo 201º, incisos segundo y tercero). \n \n \n7.1.- Causales de interrupción de la prescripción. De lo \nexpuesto en el párrafo anterior se desprende que, de \nacuerdo con el artículo 201º del Código Tributario, la \ninterrupción de la prescripción de la acción del Fisco \npara perseguir el pago de los impuestos, intereses, \nsanciones y demás recargos, produce los efectos de la \ninterrupción de la prescripción de corto o largo tiempo, \nsegún cual sea la causal que la origina. \n \n \n \nA continuación se examinan las causales que \noriginan la interrupción de la prescripción del Fisco y \nsus efectos. \n \n \n7.1.1.- \n"
+    },
+    {
+      "name": "Circular N°19 (08/04/2004)",
+      "source_type": "circular",
+      "source": "Circular N°19 (08/04/2004)",
+      "document_id": "9cdce11b-6b68-5e32-af68-dd0bac3fb071",
+      "chunk_uuid": "471996cf-d7f0-5fc5-ae1c-2210b0842ce0",
+      "chunk_id": 16,
+      "url": "https://www.sii.cl/documentos/circulares/2004/circu19.pdf",
+      "content": " declare que la totalidad de las \n\n\n \n17\nasignaciones están exentas de impuesto:U   El plazo de 60 días \nque establece el art. 46 bis., se cuenta desde el día siguiente a la \npresentación del inventario que comprende bienes que debieron \nser estimados en su valor corriente en plaza. \n \nii.) \nUPosesiones efectivas tramitadas ante el Servicio de Registro \nCivil, en que al ser presentadas, se declare que una o mas de \nlas asignaciones están afecta a impuesto:U El plazo que \nestablece el art. 46 bis., se cuenta desde el día siguiente a la \npresentación de la declaración y pago simultaneo del impuesto \n(Formulario 4423), ante el Servicio de Impuestos Internos. \n \niii.) \nUPosesiones efectivas tramitadas ante los Tribunales:U El plazo \nde 60 días del art. 46 bis., se cuenta desde el día siguiente a la \npresentación de la declaración (Formulario 4424), ante el Servicio \nde Impuestos Internos.  \n \n3.3. \nUEfectos de la prescripción:U La prescripción de que tratan los arts. 200 y 201 \ndel Código Tributario, corresponde a la prescripción extintiva o liberatoria, que \nes un modo de extinguir las acciones y derecho ajenos, por no haberse \nejercido éstos durante un lapso de tiempo determinado y se han cumplido los \ndemás requisitos legales.  \n \nTratándose de la obligación de pagar impuestos, la prescripción extintiva, \nhace perder al Fisco la acción para exigir su pago, lo cual no priva al deudor \ndel derecho a cumplir con la obligación en su carácter de obligación natural. \n \nNo obstante que la prescripción opera de pleno derecho, por el sólo \ncumplimiento de los requisitos que la ley establece – inactividad del acreedor \ny transcurso del plazo-, por disposición del artículo 2493 del Código Civil, para \nque surta los efectos que la ley le atribuye, es necesario que ella sea alegada. \n \nLa señalada disposición, reconoce como derecho del deudor el de invocar o \nno la prescripción ante un requerimiento de pago por parte de su acreedor. \nEn caso que el deudor opte por valerse de la prescripción, la resolución judicial \nque se dicte dejará constancia que la prescripción se producido todos sus \nefectos a contar de la fecha de cumplimiento de los requisitos legales. \n \n3.3.1 \nUFacultades del Servicio:U En razón de los efectos de la prescripción \nextintiva, es que la facultad del Servicio para revisar, liquidar, \nreliquidar y girar los impuesto sólo dice relación con aquellos \ngravámenes respecto de los cuales no se encuentre vencido el plazo \nde prescripción. Es así como por Circular N° 73 del año 2001, se \ninstruyó en el sentido de abstenerse de citar al contribuyente al tenor \ndel artículo 63 del Código Tributario, si de los antecedentes existentes \nen poder del Servicio se puede desprender, sin lugar a duda, que la \nirregularidad que se impute al contribuyente incidirá en diferencias \nimpositivas en períodos que exceden de los plazos previstos en el \nartículo 200 del Código Tributario.  \n \nDel mismo modo, se señala en las misma instrucciones, que el \nServicio deberá abstenerse de liquidar o girar impuestos que incidan \nen períodos que están más allá del límite establecido por los plazos \nlegales de prescripción  del citado art. 200. Por excepción, se podrá \nproceder a liquidar o girar impuestos que correspondan a dichos \nperíodos, cuando el contribuyente hubiere renunciado a la \nprescripción. \n \n\n\n \n18\n3.3.2 \nUSolicitud administrativa de declaración de la prescripción:U A los \nDirectores Regionales, dentro de sus respectivos territorios \njurisdiccionales, corresponde resolver administrativamente todos los \nasuntos de carácter tributario que se promuevan, incluso corregir  de \noficio, en cualquier tiempo, los vicios o"
+    },
+    {
+      "name": "Artículo 880 (DEL ART. 2)",
+      "source_type": "ley",
+      "source": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
+      "document_id": "06afbafb-10e4-52f0-999b-2f699713c107",
+      "chunk_uuid": "7de0bc7d-b270-5140-9651-417a80c351b6",
+      "chunk_id": 0,
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8718762",
+      "content": "Decreto con Fuerza de Ley 1 FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES,Título XI DE LAS SERVIDUMBRES,Artículo 880 (DEL ART. 2)|Art. 880. Cada cual podrá sujetar su predio a las servidumbres que quiera, y adquirirlas sobre los predios vecinos con la voluntad de sus dueños, con tal que no se dañe con ellas al orden público, ni se contravenga a las leyes. Las servidumbres de esta especie pueden también adquirirse por sentencia de juez en los casos previstos por las leyes."
+    },
+    {
+      "name": "Oficio N°1588 (07/06/2019)",
+      "source_type": "oficio",
+      "source": "Oficio N°1588 (07/06/2019)",
+      "document_id": "c566e7a9-43c9-5f97-ade2-36643f8fd241",
+      "chunk_uuid": "c1e7e8aa-dfb5-5227-a4d2-b1a156b313b1",
+      "chunk_id": 3,
+      "url": "https://www4.sii.cl/gabineteAdmInternet/descargaArchivo?nombreDocumento=1588-07%2F06%2F2019.pdf&extension=pdf&acc=download&id=4db4f742-864d-4ec2-959e-23e16024f784&mediaType=application%2Fpdf",
+      "content": " enajenación o gravamen contra la voluntad de los respectivos adjudicatarios.” El artículo 732 dispone que el “dominio \npuede ser limitado de varios modos: … 2º. Por el gravamen de un usufructo, uso o habitación, a que una persona tenga derecho en las cosas que pertenecen a otra; \ny…”. La propiedad fiduciaria, de acuerdo al artículo 733, se define como “sujeta al gravamen de pasar a otra persona, por el hecho de verificarse una condición.”  \n4 Al menos respecto de las hipotecas y censos, el artículo 757 dispone que, “en cuanto a la imposición de hipotecas, censos, servidumbres, y cualquiera otro \ngravamen, los bienes que fiduciariamente se posean se asimilarán a los bienes de la persona que vive bajo tutela o curaduría, y las facultades del fiduciario a las \ndel tutor o curador. Impuestos dichos gravámenes…”  \n5 De acuerdo al artículo 1440, el “contrato es gratuito o de beneficencia cuando sólo tiene por objeto la utilidad de una de las partes, sufriendo la otra el gravamen; \ny oneroso, cuando tiene por objeto la utilidad de ambos contratantes, gravándose cada uno a beneficio del otro. En un sentido similar, el artículo 2499 dispone que \nla “omisión de actos de mera facultad, y la mera tolerancia de actos de que no resulta gravamen, no confieren posesión, ni dan fundamento a prescripción alguna.” \n6 Ramos Pazos, René; Sucesión por causa de muerte, Colección Manuales Jurídicos, reimpresión primera edición, Editorial Jurídica, página 88 y siguientes.  \n7 Ramos Pazos, obra citada.  \n\n\n \n \n \n \n3 \n \ndinero), del bien público (construir un hospital o fundar una escuela) o, en fin, en interés del propio \nheredero o legatario (para que estudie una cierta profesión)8.  \nLo anterior es relevante porque no todo modo redunda en un menor valor de la asignación, especialmente \ncuando el modo cede en beneficio del propio asignatario (financiar su educación), en cuyo caso no será \nprocedente deducción alguna en los términos del artículo 5° de la Ley de Herencias por no verificarse \nun verdadero “gravamen” (menoscabo económico) a su respecto. Lo mismo ocurre si, de acuerdo a los \nejemplos citados precedentemente, el modo no supone una carga u obligación que implique un \nmenoscabo económico susceptible de apreciación pecuniaria (como sería, por ejemplo, decir misas por \nel alma del difunto).  \nDicho lo anterior, resta determinar si la cláusula testamentaria transcrita en su presentación puede \ncalificarse efectivamente de asignación modal y no, dada su compleja redacción, en cosa diversa, como \nla constitución de un fideicomiso de residuo9, de una asignación sujeta a condición o, incluso, de un \nejecutor testamentario o albacea. \nAl respecto, y no siendo competencia de este Servicio interpretar las disposiciones testamentarias, cabe \ntener presente la sentencia aclaratoria o rectificatoria de fecha xx.xx.xxxx, emanada del xx Juzgado Civil \nde Santiago, causa Rol N° xxxxx, sobre posesión efectiva del XXX, donde se concede la posesión \nefectiva, por una parte y como herederos testamentarios de la mitad legitimaria, a los hijos y cónyuge \ndel causante; y, por otra, como asignatarios de la cuarta de mejoras y de la cuarta de libre disposición, a \nlos nietos en porcentajes determinados por estirpe (rama de familia a la que pertenecen) y luego por \ncabeza (cada nieto en particular).  \nEn consecuencia, no se verifica la situación descrita en su presentación, atendido que los hijos del \ncausante no son “asignatarios” de una asignación testamentaria sujeta a un modo, sino que los \nasignatarios son directamente los nietos.  \nAhora bien, sea que la asignación en cuanto tal se radique en el nieto, pero libremente administrada por \nel padre, o se radique directamente en el padre, es evidente que"
+    },
+    {
+      "name": "Oficio N°3108 (18/11/2016)",
+      "source_type": "oficio",
+      "source": "Oficio N°3108 (18/11/2016)",
+      "document_id": "99174e0a-faf7-5e6c-b001-c4510d89d2f1",
+      "chunk_uuid": "51237057-f61f-5025-af0c-e810307e9387",
+      "chunk_id": 2,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2016/ventas/ja3108.htm",
+      "content": "renos que se venden.\nPor el contrario si la venta recae sobre sitios eriazos, sin ningún tipo de construcción, incluyendo en este\nconcepto a las urbanizaciones, no se encontrará gravada con Impuesto al Valor Agregado por no constituirse\na su respecto el hecho gravado venta, contenido en el Art. 2°, N° 1, del D.L. N° 825, toda vez que éste\nexcluye en forma expresa de la aplicación del tributo a los terrenos.\nRespecto de las servidumbres de tránsito que el contribuyente pretende establecer en favor de los futuros\ncompradores, cabe manifestar que la constitución de las mismas no se encuentra afecta a IVA, sin perjuicio\nque conforme Art. 577, del Código Civil, las servidumbres son derechos reales que se constituirán, en este\ncaso, sobre un bien corporal inmueble urbanizado. Ello, porque conforme al Art. 8, en concordancia con el\nArt. 2°, N° 1, del D.L. N° 825, el Impuesto al Valor Agregado afecta sólo a la transferencia a título oneroso de\nlos referidos derechos reales y no a la mera constitución de los mismos.\n \nIII.- CONCLUSIÓN:\n De las normas legales precedentemente señaladas, se concluye en el caso de su consulta signada con el N°\n1, que la venta de sitios eriazos, desprovistos de todo tipo de edificaciones y construcciones, incluyendo en\neste concepto a las urbanizaciones, no se encuentra afecta a IVA, por no configurarse a su respecto el hecho\ngravado básico de “venta”, contenido en el Art. 2°, N° 1, del D.L. N° 825, que excluye expresamente a los\nterrenos.\n \nRespecto de su segunda consulta, signada con el N° 2, cabe confirmar que la constitución de servidumbres\nde tránsito en favor de los futuros adquirentes de sitios eriazos, no se encuentra gravada con IVA, como\nconsecuencia de no cumplirse el presupuesto establecido en el Art. 2°, N° 1, del D.L. N° 825, para afectar\ncon el tributo en comento la operación, esto es, que se produzca la transferencia de derechos reales\nconstituidos sobre bienes corporales inmuebles, toda vez que en el caso bajo análisis no  existe transferencia\nde los mencionados derechos, sino que la mera constitución de los mismos.\nFERNANDO BARRAZA LUENGO\nDIRECTOR\nOficio N° 3108, de 18.11.2016\nSubdirección Normativa\nDpto. de Impuestos Indirectos\n"
+    },
+    {
+      "name": "Oficio N°3228 (27/11/2007)",
+      "source_type": "oficio",
+      "source": "Oficio N°3228 (27/11/2007)",
+      "document_id": "d6619083-755a-55a4-b62b-41bc4432af97",
+      "chunk_uuid": "e5dd9baa-37d1-5fcc-84cb-e68a6c627a5d",
+      "chunk_id": 1,
+      "url": "http://www.sii.cl/pagina/jurisprudencia/adminis/2007/renta/ja3228.htm",
+      "content": "SORCIO XXX S.A. cuya duración, según se estipuló en\nla cláusula quinta de ese contrato, sería igual al período de operación y explotación del relleno sanitario, esto\nes, 20 años, según consta de la escritura pública a la que se alude a continuación.\nUna vez adjudicada la concesión a CONSORCIO XXX S.A., mediante escritura pública de fecha 13 de\nAgosto de 2001, la sociedad EMPRESA YYY LIMITADA(YYY), por una parte y, por la otra, CONSORCIO\nXXX S.A., celebraron un contrato de \"Construcción, Operación y Cierre de Relleno Sanitario\" por el cual se\nacordaron los términos y condiciones en cuya virtud CONSORCIO XXX S.A. ejecutaría el diseño,\nconstrucción y operación del relleno sanitario, a cambio de lo cual, YYY se obligó a pagar cierta suma por los\nservicios de tratamiento y disposición final de residuos en el Relleno Sanitario XXX. Según indicó en el\npárrafo anterior, el plazo de duración de dicho contrato para la operación y explotación del relleno sanitario\nse fijó en 20 años.\nEn lo que respecta al derecho indica que la obligación de constituir servidumbre de paso a favor de un predio\ndesprovisto de acceso a un camino público tiene su fuente en la ley, específicamente, en lo dispuesto en el\nartículo 847 del Código Civil, agregando que cuando la ley establece la obligación de indemnizar el valor del\nterreno necesario para la servidumbre, lo que hace es imponer al dueño del predio dominante la obligación\n\n\nde resarcir el detrimento patrimonial presente y efectivo que experimenta el dueño del predio sirviente como\nconsecuencia de la imposición del gravamen, haciendo posible que comenzara a operar el Relleno Sanitario\nXXX en los plazos que inicialmente se habían estipulado.\nSiendo así, el importe de la indemnización referida anteriormente, tiene por finalidad indemnizarle el valor del\nterreno permanentemente afectado a la servidumbre durante el período de 20 años que durará la\nexplotación del relleno sanitario. No se consideró en la escritura de constitución de servidumbre de fecha 6\nde Octubre de 2003, el resarcimiento de otros perjuicios, tales como, el daño moral o lucro cesante, sino que\nlos montos fijados tienen por propósito únicamente indemnizar el valor de su predio gravado con\nservidumbre y la consecuente pérdida de valor que éste ha experimentado. En otros términos, lo que se\nbusca resarcir es el daño emergente, entendido como\" ... la pérdida, detrimento o disminución efectiva en el\npatrimonio ... \"\nEn relación con lo anteriormente expuesto se solicita que se confirme el criterio que expone en cuanto a que\nconstituyendo lo pagado en la especie una indemnización por daño emergente, de conformidad con lo\nprevisto en el inciso primero del N° 1 del artículo 17 de la Ley sobre Impuesto a la Renta, y ese pago\nrepresenta un ingreso no renta para todos los efectos tributarios.\n2.- Sobre el particular, cabe señalar en primer lugar que en los antecedentes aportados contenidos en\nfotocopia de escritura pública de 6 de octubre de 2003, sobre Constitución de Servidumbre de Tránsito,\nconsta que el ocurrente, don AAA, por sí, y en representación de Sociedad Agrícola XXX Limitada, es dueño\ndel predio sirviente correspondiente a la Hijuela número seis resultante de la subdivisión del predio agrícola\nque formaba parte del fundo denominado “HHH”, comuna de San Bernardo, con una superficie total de\ntrescientos noventa y cinco hectáreas y una centésima de hectárea, de las cuales ciento noventa y nueve\nhectáreas diecisiete centésimos de hectárea corresponden a superficies regadas, y ciento noventa y seis\nhectáreas veinticuatro centésimos de hectáreas a la porción del cerro y algunos rulos"
+    }
+  ]
+}
