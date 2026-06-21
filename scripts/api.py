@@ -27,6 +27,7 @@ from fastapi.staticfiles import StaticFiles
 from opensearchpy.exceptions import OpenSearchException
 from pydantic import BaseModel, Field
 from src import config, search
+from src.gemini_embed import GeminiEmbedError
 
 # -----------------------------------------------------------------------------
 # Modelos Pydantic
@@ -66,9 +67,10 @@ class SearchRequest(BaseModel):
         None,
         description=(
             "Sólo aplica cuando `method=='hybrid_rrf'`: id del benchmark "
-            "(`q000`..`qNNN`) que indica qué embedding denso pre-computado "
-            "usar como representación de la query del lado vectorial. "
-            "Se ignora silenciosamente para todas las demás técnicas."
+            "(`q000`..`qNNN`) cuyo embedding denso pre-computado se usa del "
+            "lado vectorial. Si se omite, el lado denso se obtiene embebiendo "
+            "el texto de `query` en vivo con Gemini. Se ignora para las demás "
+            "técnicas."
         ),
     )
 
@@ -120,6 +122,7 @@ class FusionComponents(BaseModel):
     rrf_k: int
     sparse_method: str
     dense_model: str
+    dense_source: str
     query_id: str | None
     fetch_depth: int
     n_dense: int
@@ -325,6 +328,8 @@ def post_search(req: SearchRequest):
             scoring=req.scoring,
             query_id=req.query_id,
         )
+    except GeminiEmbedError as e:
+        raise HTTPException(status_code=503, detail=f"gemini embedding: {e}") from e
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e)) from e
     except OpenSearchException as e:

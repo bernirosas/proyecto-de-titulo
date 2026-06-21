@@ -85,6 +85,93 @@ Tiempo de respuesta de cada técnica (preproc/encoder + I/O a OpenSearch) en mil
 | `p1_tfidf` | 9.5 | 15.2 | 9.7 | 31 |
 | `p1_splade` | 68.0 | 139.6 | 160.9 | 31 |
 
+## Análisis en profundidad
+
+Las tablas del resumen global responden *qué técnica gana*. Esta sección responde *por qué* y *cómo se ve esa victoria* para el usuario. Todas usan las mismas 31 queries y la escala del juez de 0 a 3, donde **grado 3 = altamente relevante** (umbral estricto, igual que `P@k`) y **grado ≥ 2 = relevante o mejor** (lo que en la reunión llamamos "muy relevante").
+
+### A) Cobertura: ¿el usuario recibe al menos una respuesta buena?
+
+`P@5` y `mean_grade` promedian *cuántos* de los 5 resultados sirven. Pero para un buscador muchas veces basta con que **al menos uno** sea excelente. `Hit@k` mide la fracción de queries en las que aparece ≥1 chunk de grado 3 dentro del top-k; `MRR (g≥2)` mide qué tan arriba aparece la primera respuesta relevante (1.0 = siempre en la posición 1).
+
+| Técnica | Hit@5 (≥1 g=3) | Hit@10 (≥1 g=3) | Hit@5 (≥1 g≥2) | MRR (g≥2) |
+|---|---:|---:|---:|---:|
+| `p1_bm25` | 0.839 | 0.871 | 0.968 | 0.880 |
+| `p3_bm25` | 0.774 | 0.871 | 0.968 | 0.930 |
+| `p2_bm25` | 0.774 | 0.839 | 0.968 | 0.903 |
+| `baseline_qdrant_bm25` | 0.710 | 0.710 | 0.903 | 0.852 |
+| `p3_tfidf` | 0.710 | 0.742 | 0.903 | 0.840 |
+| `p1_splade` | 0.645 | 0.742 | 0.935 | 0.817 |
+| `p2_tfidf` | 0.645 | 0.677 | 0.871 | 0.779 |
+| `p1_tfidf` | 0.484 | 0.516 | 0.806 | 0.753 |
+
+**Lectura**: en el ~97% de las queries las variantes BM25 ponen al menos un resultado "muy relevante" (g≥2) en el top-5, vs 90% del baseline. Y `p3_bm25` tiene el mejor `MRR` (0.930): cuando hay una buena respuesta, suele estar en la posición 1-2. Es el complemento natural a la tabla 2: no solo *hay más de uno relevante en promedio*, sino que *casi nunca te quedas sin ninguno*.
+
+### B) Mezcla de calidad del top-5: ¿cuánto es ruido y cuánto es oro?
+
+El `mean_grade` promedia y esconde la composición. Aquí desglosamos, sobre todos los chunks de top-5 de las 31 queries, qué porcentaje cae en cada grado. La última columna es cuántos de los 5 son relevantes (g≥2) por query.
+
+| Técnica | % g0 (ruido) | % g1 | % g2 | % g3 (excelente) | g≥2 por query (de 5) |
+|---|---:|---:|---:|---:|---:|
+| `p1_bm25` | 9% | 6% | 48% | 37% | 4.26 |
+| `p3_bm25` | 7% | 8% | 47% | 37% | 4.23 |
+| `p2_bm25` | 10% | 8% | 47% | 35% | 4.10 |
+| `baseline_qdrant_bm25` | 17% | 8% | 42% | 34% | 3.77 |
+| `p3_tfidf` | 20% | 12% | 34% | 34% | 3.42 |
+| `p2_tfidf` | 24% | 9% | 37% | 30% | 3.35 |
+| `p1_splade` | 21% | 13% | 40% | 26% | 3.29 |
+| `p1_tfidf` | 37% | 12% | 35% | 15% | 2.55 |
+
+**Lectura**: la ventaja de las BM25 sobre el baseline está sobre todo en **menos ruido**: `p3_bm25` deja solo 7% de chunks inútiles (grado 0) en el top-5, contra 17% del baseline. La fracción de "excelentes" (g3) es parecida (~37% vs 34%); lo que cambia es que el baseline rellena el top-5 con basura. En promedio `p3_bm25` entrega **4.2 de 5** resultados aprovechables.
+
+### C) Diversidad de documentos en el top-5 (la duda de la reunión)
+
+Pregunta abierta: ¿se limita a que los 5 chunks vengan de documentos distintos? **No**: el pipeline no deduplica por documento, varios chunks del top-5 *podrían* venir del mismo doc. Esta tabla mide si eso pasa en la práctica. "docs únicos" = documentos distintos entre los 5 chunks; última columna = documentos distintos *entre los chunks relevantes* (g≥2).
+
+| Técnica | docs únicos prom (top-5) | % queries ≤2 docs | % queries 5 docs distintos | docs únicos entre relevantes (g≥2) |
+|---|---:|---:|---:|---:|
+| `p1_splade` | 4.87 | 0% | 90% | 3.16 |
+| `p1_tfidf` | 4.84 | 0% | 87% | 2.48 |
+| `p3_tfidf` | 4.68 | 0% | 74% | 3.10 |
+| `p2_tfidf` | 4.68 | 0% | 74% | 3.06 |
+| `p3_bm25` | 4.61 | 3% | 68% | 3.87 |
+| `p1_bm25` | 4.61 | 3% | 71% | 3.94 |
+| `p2_bm25` | 4.58 | 3% | 68% | 3.74 |
+| `baseline_qdrant_bm25` | 4.55 | 3% | 71% | 3.35 |
+
+**Lectura**: aunque *no se fuerza* la diversidad, en la práctica casi no hay redundancia: el top-5 trae ~4.6 documentos distintos de 5, y solo ~3% de las queries colapsan a ≤2 documentos. Más importante: los resultados *relevantes* de `p3_bm25`/`p1_bm25` se reparten en ~3.9 documentos distintos (vs 3.35 del baseline). O sea, no es el mismo documento citado 5 veces: es evidencia diversa. La redundancia no es un problema con estos datos, y por eso no estamos perdiendo cobertura por no deduplicar.
+
+### D) Head-to-head contra el baseline: ¿la victoria es consistente o la cargan 2-3 queries?
+
+El `mean` global puede estar inflado por unas pocas queries muy buenas. Aquí comparamos query por query el `mean_grade@10` de cada técnica contra `baseline_qdrant_bm25`: en cuántas gana, empata o pierde, y el margen (Δ).
+
+| Técnica | Gana | Empata | Pierde | Δ medio | Δ p50 |
+|---|---:|---:|---:|---:|---:|
+| `p2_bm25` | 21 | 6 | 4 | +0.258 | +0.100 |
+| `p3_bm25` | 20 | 4 | 7 | +0.352 | +0.200 |
+| `p1_bm25` | 20 | 7 | 4 | +0.300 | +0.200 |
+| `p3_tfidf` | 10 | 8 | 13 | −0.055 | +0.000 |
+| `p2_tfidf` | 10 | 7 | 14 | −0.100 | +0.000 |
+| `p1_splade` | 11 | 5 | 15 | −0.119 | +0.000 |
+| `p1_tfidf` | 5 | 2 | 24 | −0.510 | −0.500 |
+
+**Lectura**: la ventaja de las BM25 es **estructural, no anecdótica**: `p3_bm25` le gana al baseline en 20 de 31 queries y solo pierde en 7, con margen positivo también en la mediana (+0.200). No es que un par de queries inflen el promedio. Las variantes `tfidf`/`splade`, en cambio, quedan al nivel del baseline o por debajo (mediana 0.000): el salto viene del esquema de pesado BM25, no del preprocesamiento Pn por sí solo.
+
+### E) ¿Por qué le ganamos? ¿Reordenamos lo mismo o traemos contenido distinto?
+
+Una victoria puede venir de (a) traer los *mismos* chunks que el baseline pero mejor ordenados, o (b) recuperar chunks *distintos y mejores*. Medimos el solapamiento de chunks del top-10 contra el baseline (Jaccard: 1.0 = idénticos, 0 = sin nada en común) y cuántos chunks relevantes (g≥2) aporta la técnica que el baseline **no** tenía.
+
+| Técnica vs baseline | chunks compartidos top-10 | Jaccard | relevantes (g≥2) exclusivos prom |
+|---|---:|---:|---:|
+| `p1_bm25` | 4.6 | 0.33 | 4.03 |
+| `p2_bm25` | 4.6 | 0.33 | 3.90 |
+| `p3_bm25` | 4.1 | 0.29 | 4.65 |
+| `p3_tfidf` | 3.2 | 0.22 | 3.39 |
+| `p1_splade` | 2.3 | 0.14 | 3.87 |
+| `p2_tfidf` | 3.4 | 0.23 | 3.29 |
+| `p1_tfidf` | 2.3 | 0.15 | 2.61 |
+
+**Lectura**: `p3_bm25` comparte solo ~4 de 10 chunks con el baseline (Jaccard 0.29) y aporta en promedio **4.65 chunks relevantes que el baseline no recuperaba**. No es un reordenamiento del mismo material: estamos recuperando documentación distinta y mejor. Eso explica el porqué de la tabla D y cierra la historia: ganamos por **recuperar evidencia que el baseline se pierde**, no por barajar lo mismo.
+
 ## Desglose por tema
 
 Para cada tema se reportan las mismas tres métricas. Si una técnica destaca en un tema pero no en otros, ahí está la pista experimental.

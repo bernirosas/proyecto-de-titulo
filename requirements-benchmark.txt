@@ -3,6 +3,7 @@
 # Instalar localmente solo cuando se vaya a correr la evaluación.
 
 google-generativeai>=0.8
+google-genai>=0.3
 
 # Opcional: solo si se quiere incluir el baseline denso de Qdrant en el pool.
 # openai>=1.40

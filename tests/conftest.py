@@ -106,5 +106,39 @@ def _install_nltk_stub() -> None:
     sys.modules["nltk.tokenize"] = nltk_tokenize_mod
 
 
+def _install_genai_stub() -> None:
+    import importlib
+
+    if "google.genai" in sys.modules:
+        return
+
+    try:
+        google_mod = importlib.import_module("google")
+    except ImportError:
+        google_mod = ModuleType("google")
+        google_mod.__path__ = []  # type: ignore[attr-defined]
+        sys.modules["google"] = google_mod
+
+    genai_mod = ModuleType("google.genai")
+    types_mod = ModuleType("google.genai.types")
+
+    class Client:
+        def __init__(self, *args, **kwargs):
+            raise RuntimeError("stub genai.Client no debe instanciarse en tests")
+
+    class EmbedContentConfig:
+        def __init__(self, *args, **kwargs):
+            self.kwargs = kwargs
+
+    genai_mod.Client = Client  # type: ignore[attr-defined]
+    genai_mod.types = types_mod  # type: ignore[attr-defined]
+    types_mod.EmbedContentConfig = EmbedContentConfig  # type: ignore[attr-defined]
+    google_mod.genai = genai_mod  # type: ignore[attr-defined]
+
+    sys.modules["google.genai"] = genai_mod
+    sys.modules["google.genai.types"] = types_mod
+
+
 _install_preprocessors_stub()
 _install_nltk_stub()
+_install_genai_stub()

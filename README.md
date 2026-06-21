@@ -248,6 +248,16 @@ curl -X POST http://localhost:8000/search \
      | python3 -m json.tool
 ```
 
+Híbrido con query de texto libre (requiere `GEMINI_API_KEY`; sin `query_id` el
+lado denso se embebe en vivo):
+
+```bash
+curl -X POST http://localhost:8000/search \
+     -H "Content-Type: application/json" \
+     -d '{"query":"responsabilidad del vendedor por vicios ocultos","method":"hybrid_rrf","size":5}' \
+     | python3 -m json.tool
+```
+
 ## Tests
 
 La suite de tests unitarios fue depurada deliberadamente para concentrarse en los casos con valor real de detección y descartar pruebas tautológicas (que solamente confirman la implementación) o redundantes con la propia validación de Pydantic. La priorización se enfoca en tres clases de fallas con consecuencia silenciosa en producción:
@@ -303,6 +313,23 @@ Variables de entorno (definidas con valores por defecto razonables en `src/confi
 | `VECTORIZACION_PATH` | `/app/sparse_benchmark`                          | path al `src/` de Vectorizacion (para preprocessors) |
 | `SPLADE_MODEL`       | `naver/splade-cocondenser-ensembledistil`        | modelo HF para encodear consultas SPLADE          |
 | `SPLADE_MAX_LENGTH`  | `256`                                            | máximo de tokens del input SPLADE (truncate)      |
+| `GEMINI_API_KEY`     | —                                                | key para embeber queries de texto libre en `hybrid_rrf` |
+| `LIVE_DENSE_CACHE_PATH` | `…/queries_dense/live_cache.json`             | cache persistente de embeddings generados en vivo |
+| `HYBRID_LIVE_EMBED_ENABLED` | `true`                                    | apaga el embedding en vivo si es `false`          |
+| `LIVE_QUERY_MAX_CHARS` | `1000`                                         | largo máximo de una query embebida en vivo        |
+
+### Embedding en vivo en `hybrid_rrf`
+
+El modo híbrido funciona con cualquier query escrita por el usuario, no solo con
+las 31 del benchmark. Si la query no está en el catálogo pre-computado, el backend
+la embebe en caliente con Gemini (`gemini-embedding-001`, `RETRIEVAL_QUERY`) y
+persiste el vector en `LIVE_DENSE_CACHE_PATH` para no re-pagar la API ante
+repeticiones. Las 31 queries del benchmark siguen siendo instantáneas y sin costo.
+
+Para habilitarlo, copia `.env.example` a `.env` y completa `GEMINI_API_KEY`
+(`docker compose` lo carga automáticamente). Sin la key, las 8 técnicas sparse y
+las 31 queries pre-computadas siguen operando; solo el embedding en vivo queda
+inhabilitado y devuelve HTTP 503.
 
 ## Estructura del proyecto
 

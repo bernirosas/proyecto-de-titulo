@@ -70,6 +70,11 @@ services:
       - QDRANT_COLLECTION=maqui
       - VECTORS_DIR=/app/vectors
       - VECTORIZACION_PATH=/app/sparse_benchmark
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY:-}
+    env_file:
+      - path: .env
+        required: false
     # Puerto para FastAPI. Solo se mapea si se invoca con
     # `docker compose run --service-ports app ...`.
     ports:

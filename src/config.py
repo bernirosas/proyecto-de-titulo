@@ -164,6 +164,19 @@ QUERIES_DENSE_PATH = os.getenv(
 # manera de saber qué queries tienen embedding denso pre-computado.
 QUERIES_DIR = os.getenv("QUERIES_DIR", "/app/scripts/benchmark/queries")
 
+GEMINI_EMBED_MODEL = os.getenv("GEMINI_EMBED_MODEL", "gemini-embedding-001")
+EMBED_TASK_TYPE_QUERY = "RETRIEVAL_QUERY"
+DENSE_DIM = 3072
+
+LIVE_DENSE_CACHE_PATH = os.getenv(
+    "LIVE_DENSE_CACHE_PATH",
+    "/app/scripts/benchmark/queries_dense/live_cache.json",
+)
+
+HYBRID_LIVE_EMBED_ENABLED = os.getenv("HYBRID_LIVE_EMBED_ENABLED", "true").lower() == "true"
+
+LIVE_QUERY_MAX_CHARS = int(os.getenv("LIVE_QUERY_MAX_CHARS", "1000"))
+
 # Catálogo de socios sparse para el RRF. El frontend lo usa como segundo
 # dropdown cuando el usuario elige `hybrid_rrf`. El default es `p3_bm25`
 # (BM25 con stemming Snowball), que es el baseline sparse estándar contra

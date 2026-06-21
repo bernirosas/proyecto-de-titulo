@@ -197,22 +197,68 @@ def test_benchmark_queries_endpoint_returns_list(tmp_path, monkeypatch):
     assert payload["with_dense"] == 1
 
 
-def test_search_rejects_hybrid_rrf_without_query_id(monkeypatch):
-    """`hybrid_rrf` sin `query_id` debe romper con 400 (ValueError →
-    HTTPException). Sin este check, el usuario obtendría un 500 críptico."""
+def test_search_hybrid_rrf_without_query_id_embeds_live(monkeypatch):
     from fastapi.testclient import TestClient
-    from src import dense_qdrant
+    from src import search
 
     from api import app
 
-    monkeypatch.setattr(dense_qdrant, "_QUERIES_CACHE", {"q000": [0.0] * 3072})
+    captured = {}
+
+    def fake_search(*, query, method, size, scoring, query_id):
+        captured.update(query=query, method=method, query_id=query_id)
+        return {
+            "method": method,
+            "preproc": "P3",
+            "vectorizer": "hybrid_rrf",
+            "scoring": "p3_bm25",
+            "query": query,
+            "query_tokens": [],
+            "query_vector": {},
+            "query_input_tokens": [],
+            "query_input_label": "x",
+            "query_terms": [],
+            "latency_ms": 1.0,
+            "total": 0,
+            "hits": [],
+            "fusion_components": {
+                "rrf_k": 60,
+                "sparse_method": "p3_bm25",
+                "dense_model": "gemini-embedding-001",
+                "dense_source": "live",
+                "query_id": None,
+                "fetch_depth": 50,
+                "n_dense": 0,
+                "n_sparse": 0,
+                "n_fused": 0,
+            },
+        }
+
+    monkeypatch.setattr(search, "search", fake_search)
     client = TestClient(app)
-    response = client.post(
-        "/search",
-        json={"query": "x", "method": "hybrid_rrf", "size": 5},
-    )
-    assert response.status_code == 400
-    assert "query_id" in response.json()["detail"]
+    response = client.post("/search", json={"query": "consulta libre", "method": "hybrid_rrf"})
+
+    assert response.status_code == 200
+    assert captured["query_id"] is None
+    assert response.json()["fusion_components"]["dense_source"] == "live"
+
+
+def test_search_maps_gemini_error_to_503(monkeypatch):
+    from fastapi.testclient import TestClient
+    from src import search
+    from src.gemini_embed import GeminiEmbedError
+
+    from api import app
+
+    def boom(**_kwargs):
+        raise GeminiEmbedError("falta GEMINI_API_KEY")
+
+    monkeypatch.setattr(search, "search", boom)
+    client = TestClient(app)
+    response = client.post("/search", json={"query": "x", "method": "hybrid_rrf"})
+
+    assert response.status_code == 503
+    assert "gemini" in response.json()["detail"].lower()
 
 
 def test_search_request_rejects_unknown_method():

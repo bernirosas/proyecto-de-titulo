@@ -19,7 +19,10 @@ nos permite alinear el ranking denso con el sparse (que devuelve
 
 from __future__ import annotations
 
+import hashlib
 import json
+import os
+import threading
 from pathlib import Path
 from typing import Any
 
@@ -96,6 +99,87 @@ def get_query_vector(query_id: str) -> list[float]:
             f"Disponibles: {valid[:3]}... ({len(valid)} en total)."
         )
     return queries[query_id]
+
+
+_LIVE_CACHE: dict[str, list[float]] | None = None
+_LIVE_LOCK = threading.Lock()
+
+
+def _normalize_query(text: str) -> str:
+    return " ".join(text.split()).lower()
+
+
+def _live_cache_key(text: str) -> str:
+    digest = hashlib.sha1(_normalize_query(text).encode("utf-8")).hexdigest()
+    return f"live_{digest[:16]}"
+
+
+def _load_live_cache() -> dict[str, list[float]]:
+    global _LIVE_CACHE
+    if _LIVE_CACHE is not None:
+        return _LIVE_CACHE
+
+    path = Path(config.LIVE_DENSE_CACHE_PATH)
+    cache: dict[str, list[float]] = {}
+    if path.exists():
+        try:
+            raw = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            raw = {}
+        if isinstance(raw, dict):
+            for key, entry in raw.items():
+                vector = entry.get("vector") if isinstance(entry, dict) else entry
+                if isinstance(vector, list) and len(vector) == config.DENSE_DIM:
+                    cache[key] = vector
+
+    _LIVE_CACHE = cache
+    return cache
+
+
+def _persist_live_entry(key: str, text: str, vector: list[float]) -> None:
+    path = Path(config.LIVE_DENSE_CACHE_PATH)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with _LIVE_LOCK:
+        stored: dict[str, Any] = {}
+        if path.exists():
+            try:
+                loaded = json.loads(path.read_text(encoding="utf-8"))
+                if isinstance(loaded, dict):
+                    stored = loaded
+            except (json.JSONDecodeError, OSError):
+                stored = {}
+        stored[key] = {"text": text, "vector": vector}
+        tmp = path.with_suffix(path.suffix + ".tmp")
+        tmp.write_text(json.dumps(stored, ensure_ascii=False), encoding="utf-8")
+        os.replace(tmp, path)
+
+
+def get_or_embed_query_vector(
+    query_text: str, query_id: str | None = None
+) -> tuple[list[float], str]:
+    if query_id:
+        return get_query_vector(query_id), "precomputed"
+
+    if not config.HYBRID_LIVE_EMBED_ENABLED:
+        raise ValueError(
+            "el embedding en vivo está deshabilitado; elige una query del catálogo del benchmark"
+        )
+
+    text = (query_text or "").strip()
+    if not text:
+        raise ValueError("hybrid_rrf requiere una query no vacía o un query_id del catálogo")
+
+    key = _live_cache_key(text)
+    cache = _load_live_cache()
+    if key in cache:
+        return cache[key], "live"
+
+    from . import gemini_embed
+
+    vector = gemini_embed.embed_query(text)
+    cache[key] = vector
+    _persist_live_entry(key, text, vector)
+    return vector, "live"
 
 
 def search_dense(vector: list[float], top_k: int) -> list[dict[str, Any]]:

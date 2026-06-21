@@ -340,6 +340,7 @@ class TestSearchHybridRRF:
         assert fc["sparse_method"] == "p3_bm25"
         assert fc["dense_model"] == "gemini-embedding-001"
         assert fc["query_id"] == "q000"
+        assert fc["dense_source"] == "precomputed"
 
     def test_hits_carry_rank_dense_and_rank_sparse(self, monkeypatch):
         """Cada hit del response híbrido debe traer `rank_dense` y
@@ -358,12 +359,40 @@ class TestSearchHybridRRF:
             assert c_hit["rank_dense"] is None
             assert c_hit["rank_sparse"] == 2
 
-    def test_missing_query_id_raises(self, monkeypatch):
-        """Pedir hybrid_rrf sin query_id → ValueError (HTTP 400 en la API)."""
-        _hybrid_setup(monkeypatch, dense_uuids=[], sparse_uuids=[])
-        from src import search
+    def test_missing_query_id_embeds_live(self, monkeypatch, tmp_path):
+        """Sin query_id, hybrid_rrf embebe la query de texto libre en vivo y
+        marca `dense_source=live`."""
+        from src import config, dense_qdrant, search
 
-        with pytest.raises(ValueError, match="query_id"):
+        _hybrid_setup(monkeypatch, dense_uuids=["a"], sparse_uuids=["a"], query_id="unused")
+        monkeypatch.setattr(config, "LIVE_DENSE_CACHE_PATH", str(tmp_path / "live.json"))
+        monkeypatch.setattr(config, "HYBRID_LIVE_EMBED_ENABLED", True)
+        monkeypatch.setattr(dense_qdrant, "_LIVE_CACHE", None)
+
+        embedded = []
+
+        def fake_embed(text):
+            embedded.append(text)
+            return [0.2] * 3072
+
+        monkeypatch.setattr("src.gemini_embed.embed_query", fake_embed)
+
+        result = search.search(
+            query="consulta de texto libre", method="hybrid_rrf", size=5, query_id=None
+        )
+
+        assert embedded == ["consulta de texto libre"]
+        assert result["fusion_components"]["dense_source"] == "live"
+        assert result["fusion_components"]["query_id"] is None
+
+    def test_live_embed_disabled_raises(self, monkeypatch):
+        """Con la feature apagada y sin query_id → ValueError (HTTP 400)."""
+        from src import config, search
+
+        _hybrid_setup(monkeypatch, dense_uuids=[], sparse_uuids=[], query_id="unused")
+        monkeypatch.setattr(config, "HYBRID_LIVE_EMBED_ENABLED", False)
+
+        with pytest.raises(ValueError):
             search.search(query="x", method="hybrid_rrf", size=5, query_id=None)
 
     def test_invalid_sparse_partner_raises(self, monkeypatch):

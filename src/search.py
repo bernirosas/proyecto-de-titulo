@@ -462,9 +462,6 @@ def _hybrid_rrf_search(
     """
     from . import dense_qdrant
 
-    if not query_id:
-        raise ValueError("hybrid_rrf requiere `query_id` para resolver el embedding denso.")
-
     sparse_method = sparse_method or config.DEFAULT_HYBRID_SPARSE
     if sparse_method not in config.HYBRID_SPARSE_VARIANTS:
         raise ValueError(
@@ -489,8 +486,8 @@ def _hybrid_rrf_search(
         sparse_ranking.append({"chunk_uuid": uuid, "rank": rank, "score": h["_score"]})
         sparse_source_by_uuid[uuid] = src
 
-    # ---- Lado denso: Qdrant con embedding pre-computado
-    query_vector = dense_qdrant.get_query_vector(query_id)
+    # ---- Lado denso: Qdrant con embedding pre-computado o embebido en vivo
+    query_vector, dense_source = dense_qdrant.get_or_embed_query_vector(query, query_id)
     dense_ranking = dense_qdrant.search_dense(query_vector, top_k=fetch_depth)
 
     # ---- Fusión RRF
@@ -542,6 +539,7 @@ def _hybrid_rrf_search(
         "total": len(hits),
         "sparse_intro": sparse_intro,
         "sparse_method": sparse_method,
+        "dense_source": dense_source,
         "fetch_depth": fetch_depth,
         "n_dense": len(dense_ranking),
         "n_sparse": len(sparse_ranking),
@@ -619,7 +617,8 @@ def search(
             "fusion_components": {
                 "rrf_k": config.RRF_K,
                 "sparse_method": result["sparse_method"],
-                "dense_model": "gemini-embedding-001",
+                "dense_model": config.GEMINI_EMBED_MODEL,
+                "dense_source": result["dense_source"],
                 "query_id": query_id,
                 "fetch_depth": result["fetch_depth"],
                 "n_dense": result["n_dense"],

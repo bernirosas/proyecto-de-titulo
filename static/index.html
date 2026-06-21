@@ -294,10 +294,8 @@
     </label>
 
     <label class="grow" id="queryDropdownLabel" style="display:none">
-      Query del benchmark
-      <select id="queryDropdown">
-        <!-- se llena con /benchmark-queries al elegir hybrid_rrf -->
-      </select>
+      Cargar del benchmark (opcional)
+      <select id="queryDropdown"></select>
     </label>
 
     <label>
@@ -322,9 +320,9 @@
     <button id="submitBtn" type="submit">Buscar</button>
   </form>
   <div id="hybridNotice" class="empty" style="display:none; margin-top:8px;">
-    En modo híbrido (RRF) sólo se pueden ejecutar las 31 queries del benchmark
-    porque sus embeddings densos están pre-computados con Gemini. Para queries
-    arbitrarias usa cualquiera de las 8 técnicas sparse.
+    En híbrido (RRF) puedes escribir cualquier query: si no es del catálogo se
+    embebe en vivo con Gemini (~1s, consume API). Las 31 del benchmark ya están
+    pre-computadas y son instantáneas — elígelas en el desplegable para reusarlas.
   </div>
 
   <div id="status"></div>
@@ -384,28 +382,15 @@ function updateScoringOptions() {
   }
 }
 
-// Alterna entre input de texto libre (sparse) y dropdown de queries (hybrid).
-// El input requerido siempre tiene `required` activo para que el navegador
-// gatille validación nativa antes de POST a /search; el otro lo apaga
-// para no bloquear el submit cuando está oculto.
 function updateQueryInputMode() {
   const hybrid = isHybridMethod($method.value);
-  if (hybrid) {
-    $queryTextLabel.style.display = 'none';
-    $query.required = false;
-    $queryDropdownLb.style.display = '';
-    $queryDropdown.required = true;
-    $hybridNotice.style.display = '';
-    if (!$queryDropdown.options.length) {
-      // El catálogo se carga lazy la primera vez que se entra a hybrid.
-      loadBenchmarkQueries();
-    }
-  } else {
-    $queryTextLabel.style.display = '';
-    $query.required = true;
-    $queryDropdownLb.style.display = 'none';
-    $queryDropdown.required = false;
-    $hybridNotice.style.display = 'none';
+  $queryTextLabel.style.display = '';
+  $query.required = true;
+  $queryDropdownLb.style.display = hybrid ? '' : 'none';
+  $queryDropdown.required = false;
+  $hybridNotice.style.display = hybrid ? '' : 'none';
+  if (hybrid && !$queryDropdown.options.length) {
+    loadBenchmarkQueries();
   }
 }
 
@@ -423,6 +408,10 @@ async function loadBenchmarkQueries() {
       $queryDropdown.appendChild(opt);
       return;
     }
+    const placeholder = document.createElement('option');
+    placeholder.value = '';
+    placeholder.textContent = '— escribe tu propia query o elige una del benchmark —';
+    $queryDropdown.appendChild(placeholder);
     for (const q of BENCHMARK_QUERIES) {
       const opt = document.createElement('option');
       opt.value = q.query_id;
@@ -475,6 +464,11 @@ async function loadCatalogs() {
 $method.addEventListener('change', () => {
   updateScoringOptions();
   updateQueryInputMode();
+});
+
+$queryDropdown.addEventListener('change', () => {
+  const q = BENCHMARK_QUERIES.find(x => x.query_id === $queryDropdown.value);
+  if (q) $query.value = q.query_text;
 });
 
 function escapeHtml(s) {
@@ -602,22 +596,13 @@ async function search(ev) {
   $status.innerHTML = '';
   $results.innerHTML = '<div class="empty">buscando…</div>';
 
-  // En modo híbrido, la query se determina por el id seleccionado: el texto
-  // de la consulta se rescata del catálogo cargado en BENCHMARK_QUERIES, no
-  // del input. Esto evita un round-trip extra al backend para resolver el
-  // texto, y asegura que `query` y `query_id` son consistentes.
-  let queryText = $query.value;
+  const queryText = $query.value;
   let queryId = null;
   if (isHybridMethod($method.value)) {
-    queryId = $queryDropdown.value;
-    const q = BENCHMARK_QUERIES.find(x => x.query_id === queryId);
-    if (!q) {
-      $status.innerHTML = '<div class="error">Selecciona una query del benchmark.</div>';
-      $results.innerHTML = '';
-      $btn.disabled = false;
-      return;
-    }
-    queryText = q.query_text;
+    const match = BENCHMARK_QUERIES.find(
+      x => x.has_dense && x.query_text.trim() === queryText.trim()
+    );
+    queryId = match ? match.query_id : null;
   }
 
   try {
@@ -639,8 +624,10 @@ async function search(ev) {
     const data = await resp.json();
 
     const fc = data.fusion_components;
+    const denseSourceLabel = fc && fc.dense_source === 'live' ? 'embebido en vivo' : 'pre-computado';
     const fusionMeta = fc
-      ? `<span>RRF k=${fc.rrf_k}, fusionó ${fc.n_fused} de ${fc.n_dense} densos × ${fc.n_sparse} sparse (fetch_depth=${fc.fetch_depth})</span>`
+      ? `<span>RRF k=${fc.rrf_k}, fusionó ${fc.n_fused} de ${fc.n_dense} densos × ${fc.n_sparse} sparse (fetch_depth=${fc.fetch_depth})</span>
+         <span>denso: ${denseSourceLabel}</span>`
       : '';
     $status.innerHTML = `
       <div class="meta">
