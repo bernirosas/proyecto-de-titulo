@@ -222,9 +222,7 @@ def write_resumen(
         ws.cell(
             row=row,
             column=col,
-            value=(
-                f'=IFERROR(AVERAGEIFS({lat_range_v}, {lat_range_t}, "{tech}"), NA())'
-            ),
+            value=(f'=IFERROR(AVERAGEIFS({lat_range_v}, {lat_range_t}, "{tech}"), NA())'),
         )
         # Format the whole row
         for c in range(1, len(headers) + 1):
@@ -266,9 +264,9 @@ def write_comparativo(ws, techs: list[str]) -> None:
     #   A=tecnica, B=familia
     #   3,4 = mg@1, p@1; 5,6 = mg@3, p@3; 7,8 = mg@5, p@5; 9,10 = mg@10, p@10
     #   11 = lat p50, 12 = lat mean
-    col_mg = {k: 3 + 2 * i for i, k in enumerate(K_VALUES)}      # 3, 5, 7, 9
-    col_p = {k: 4 + 2 * i for i, k in enumerate(K_VALUES)}       # 4, 6, 8, 10
-    col_lat_p50 = 3 + 2 * len(K_VALUES)                          # 11
+    col_mg = {k: 3 + 2 * i for i, k in enumerate(K_VALUES)}  # 3, 5, 7, 9
+    col_p = {k: 4 + 2 * i for i, k in enumerate(K_VALUES)}  # 4, 6, 8, 10
+    col_lat_p50 = 3 + 2 * len(K_VALUES)  # 11
 
     row = 2
     for sk in sparse_partners:
@@ -314,7 +312,11 @@ def write_comparativo(ws, techs: list[str]) -> None:
         col += 1
         ws.cell(row=row, column=col, value=hibrido_lat)
         col += 1
-        ws.cell(row=row, column=col, value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}")
+        ws.cell(
+            row=row,
+            column=col,
+            value=f"={get_column_letter(col-1)}{row}-{get_column_letter(col-2)}{row}",
+        )
 
         for c in range(1, len(headers) + 1):
             cell = ws.cell(row=row, column=c)
